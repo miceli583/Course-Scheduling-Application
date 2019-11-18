@@ -1,0 +1,27 @@
+ 31     9  SW   3002         1  CHILD AND COMMUNITY    3.0  0910-1040   MTWTF  0184 LONG FIELDHOUSE                  DAVIS P
+ 82     3  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 85        SW   7007 CLI     2  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY
+ 85        SW   7007 CLI     3  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY
+ 75    10  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 85        SW   7008 CLI     2  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY
+ 85        SW   7008 CLI     3  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY
+ 96     3  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 99        SW   7502 CLI     2  ADV FIELD INTERN I     3.0  TBA                                     MAJORS ONLY
+ 96     3  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 99        SW   7503 CLI     2  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY
+ 25        SW   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   PAGE T
+ 24     1  SW   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WILKS S
+ 24     1  SW   8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LEMIEUX C
+ 96     3  SW   9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PAGE T
+ 99        SW   9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ALLEN P
+ 98     1  SW   9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MACCIO E
+ 99        SW   9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MONROE P
+ 98     1  SW   9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WILKS S
+ 99        SW   9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHANEY C
+  6     1  SW   9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LIVERMORE M
+(F)    50  SW   2000         1  INTRO TO SOCIAL WORK   3.0  TBA                                     100% WEB BASED   CHIASSON A
+ 33    12  SW   3003         1  SKILL WK WITH PEOPLE   3.0  1100-1230   MTWTF  0184 LONG FIELDHOUSE                  MEIKI L
+ 20    15  SW   4070         2  FAMILY FINANCE         3.0  0910-1030   MTWTF  0175BLONG FIELDHOUSE                  PLAUCHE H
+  6    34  SW   4070         1  GRIEF & BEREAVEMENT    3.0  1240-0200     W                         75-99% WEB BASE  WILKS S
+ 19    16  SW   7010         1  DIFFERENT DIAGNOSIS    3.0  TBA                                     MAJORS ONLY      MACCIO E
+ 24    16  SW   7807 SEM     1  SW/ETHICAL DILEMMAS    3.0  TBA                                     100% WEB BASED   LILLEY T

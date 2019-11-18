@@ -1,0 +1,20 @@
+  4    20  FREN 1002         1  ELEMENTARY FRENCH      4.0  0950-1200   MTWTH  0128 ALLEN                            MISKOWIEC N
+  2    22  FREN 1002         2  ELEMENTARY FRENCH      4.0   230-0440   MTWTH  0324 HODGES HALL                      SPARKS B
+  4    20  FREN 2101         1  INTERMED FREN          3.0  0950-1050   MTWTF  0132 ALLEN                            HILL A
+  1        FREN 7915 RES     1  INDEPENDENT STUDY      1-3  TBA
+ 20        FREN 7915 RES     2  INDEPENDENT STUDY      1-3  TBA
+  5        FREN 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      DUBOIS S
+  5        FREN 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      STONE G
+  3        FREN 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      NGANDU N
+  1        FREN 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      JENSEN K
+  9     1  FREN 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      LEUPIN A
+  8     2  FREN 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      NGANDU N
+ 10        FREN 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      RUSSO A
+  5        FREN 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      JENSEN K
+  5        FREN 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      YEAGER J
+  4     1  FREN 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      DUBOIS S
+  4    16  FREN 1020         1  FRENCH READING KNWL    3.0  1240-0210   MTWTF  0324 HODGES HALL                      PETERS R
+  5    20  FREN 2101         2  INTERMED FREN          3.0  1230-0210   MTWTF  0112 AUDUBON                          VANCE C
+  1    19  FREN 2102         1  INTERMED FREN          3.0  0910-1040   MTWTF  0120 PRESCOTT                         BRIND'AMOUR L
+(F)    24  FREN 2102         2  INTERMED FREN          3.0  1100-1230   MTWTF  0137 LOCKETT                          MISHRA S
+(F)     1  FREN 4915 RES     2  INDEPENDENT WORK       1-3  TBA                                     PERMIS OF DEPT   BRIND'AMOUR L

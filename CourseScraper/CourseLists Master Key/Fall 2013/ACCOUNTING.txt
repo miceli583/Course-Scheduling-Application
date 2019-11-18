@@ -1,0 +1,48 @@
+141   199  ACCT 2000         4  SURVEY OF ACCOUNTING   3.0   300-0420   M W    0100 DODSON                           LOWE-ARDOIN L
+ 34   318  ACCT 2000         5  SURVEY OF ACCOUNTING   3.0   900-1020    T TH  0100 DODSON                           DENSTEL C
+  2    58  ACCT 2001         3  INTR FINANCIAL ACCT    3.0   300-0420   M W    1845 BEC N UNDERGRAD                  GUO P
+  7   288  ACCT 2001         1  INTR FINANCIAL ACCT    3.0  1200-0120    T TH  1510 BEC WEST AUDITO                  LAFLEUR L
+ 48   247  ACCT 2001         2  INTR FINANCIAL ACCT    3.0   130-0250    T TH  1510 BEC WEST AUDITO                  HOLMES J
+ 10   290  ACCT 2101         1  INTRO MANAGERIAL ACC   3.0   730-0850    T TH  1510 BEC WEST AUDITO                  CHENIER J
+  6   294  ACCT 2101         2  INTRO MANAGERIAL ACC   3.0  1030-1150    T TH  1510 BEC WEST AUDITO                  CHENIER J
+  1    59  ACCT 3001         3  INTERMEDIATE ACCT I    3.0   300-0420   M W    1735 BEC N UNDERGRAD                  ROSA R
+ 16    34  ACCT 3001         4  INTERMEDIATE ACCT I    3.0   430-0550N  M W    1735 BEC N UNDERGRAD                  ROSA R
+(F)    43  ACCT 3001         1  INTERMEDIATE ACCT I    3.0   900-1020    T TH  1615 BEC N UNDERGRAD                  HOLMES J
+(F)    46  ACCT 3001         2  INTERMEDIATE ACCT I    3.0  1030-1150    T TH  1615 BEC N UNDERGRAD                  HOLMES J
+ 12    48  ACCT 3021         1  INTERMEDIATE ACCT II   3.0  1030-1150    T TH  1700 BEC N UNDERGRAD                  HOLLIE D
+ 18    42  ACCT 3021         2  INTERMEDIATE ACCT II   3.0  1200-0120    T TH  1700 BEC N UNDERGRAD                  HOLLIE D
+(F)    57  ACCT 3021         3  INTERMEDIATE ACCT II   3.0   130-0250    T TH  1735 BEC N UNDERGRAD                  DELAUNE L
+(F)    60  ACCT 3121         2  COST ANAL & CONTROL    3.0   300-0420   M W    1700 BEC N UNDERGRAD                  ESHLEMAN J
+ 28    32  ACCT 3121         1  COST ANAL & CONTROL    3.0   430-0550N  M W    1700 BEC N UNDERGRAD                  PAN S
+  1    57  ACCT 3122         1  ACCT INFO SYSTEMS      3.0   730-0850    T TH  1220 BEC S GRAD PAVI MAJORS ONLY      SOILEAU J
+(F)    60  ACCT 3122         2  ACCT INFO SYSTEMS      3.0  1200-0120    T TH  1220 BEC S GRAD PAVI MAJORS ONLY      SOILEAU J
+  3    94  ACCT 3221         1  INCOME TAX ACCT I      3.0   430-0550N  M W    1620 BEC N UNDERGRAD                  LOWE-ARDOIN L
+(F)    36  ACCT 3222         1  AUDITING               3.0   900-1020    T TH  2103 PATRICK TAYLOR  CI-WRITTEN&SPOK  SIMONOV A
+(F)    36  ACCT 3222         2  AUDITING               3.0  1030-1150    T TH  2103 PATRICK TAYLOR  CI-WRITTEN&SPOK  SIMONOV A
+ 15    25  ACCT 4021         1  CASES IN ACCT POLICY   3.0  TBA                                                      MOFFITT J
+ 18    32  ACCT 4022         1  ADVANCED ACCOUNTING    3.0   300-0420   M W    1800 BEC N UNDERGRAD                  LEGORIA J
+ 31    19  ACCT 4022         2  ADVANCED ACCOUNTING    3.0   430-0550N  M W    1800 BEC N UNDERGRAD                  LEGORIA J
+ 10    20  ACCT 4121         1  ADVANCED COST ANAL     3.0  1200-0120    T TH  1720 BEC N UNDERGRAD                  CHRISTIE A
+ 22    23  ACCT 4221         1  INCOME TAX ACCT II     3.0   300-0420   M W    1220 BEC S GRAD PAVI                  CRUMBLEY D
+ 93     7  ACCT 4231 CLI     1  INTERNSHIP IN ACCT     3.0  TBA                                     PERMIS OF INST   CHENIER J
+ 11    49  ACCT 4234         1  INTERNL AUDIT II       3.0   900-1020    T TH  1220 BEC S GRAD PAVI                  SUMNERS G
+  6    54  ACCT 4234         2  INTERNL AUDIT II       3.0  1030-1150    T TH  1321 BEC S GRAD PAVI                  SUMNERS G
+ 98     2  ACCT 4333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                                      LAFLEUR L
+  1    59  ACCT 4421         2  GOV/NOT-FOR-PROF ACC   3.0   600-0850N    W    1800 BEC N UNDERGRAD                  BRIGGS E
+ 17    23  ACCT 4501         1  PETROLEUM ACCOUNTING   3.0  1130-0220   M W    1735 BEC N UNDERGRAD                  CRUMBLEY D
+ 10    30  ACCT 7021         1  ADV TH OF ACCOUNTS     3.0   900-1020    T TH  1321 BEC S GRAD PAVI                  PHILLIPS T
+  8    32  ACCT 7201         1  TAX ASP OF BUS ENT     3.0   600-0850N   T     1225 BEC S GRAD PAVI                  CHENG C
+ 13    27  ACCT 7222         1  AUDIT THEORY/STNDRDS   3.0  1030-1150    T TH  1111 PATRICK TAYLOR                   DELAUNE L
+ 98     2  ACCT 7231 CLI     1  INTRNSHIP IN ACCT      3.0  TBA                                     PERMIS OF INST   MOFFITT J
+ 35    15  ACCT 7232         1  CASE STUD INT AUDIT    3.0  TBA                                                      SUMNERS G
+ 19    21  ACCT 7234         1  OPERATIONAL AUDITING   3.0   130-0250    T TH  1325 BEC S GRAD PAVI                  SUMNERS G
+  7    33  ACCT 7235         1  FRAUD AUDITING         3.0   600-0850N  M      1305 BEC S GRAD PAVI                  CRUMBLEY D
+ 93     7  ACCT 7333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                                      SUMNERS G
+(F)    35  ACCT 7401         1  ETHICS FOR PROF ACCT   3.0   130-0250    T TH  1305 BEC S GRAD PAVI                  MOFFITT J
+ 12    23  ACCT 7401         2  ETHICS FOR PROF ACCT   3.0   300-0420    T TH  1305 BEC S GRAD PAVI                  MOFFITT J
+ 10     2  ACCT 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      REICHELT K
+  8     2  ACCT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      REICHELT K
+ 97     2  ACCT 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      TIRAS S
+ 96     3  ACCT 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CHENG C
+  5     5  ACCT 9002 RES     1  ACCOUNTING RES II      3.0   130-0420    T     1112 PATRICK TAYLOR                   TIRAS S
+  8     2  ACCT 9003 RES     1  ACCOUNTING RES III     3.0  TBA                                                      REICHELT K

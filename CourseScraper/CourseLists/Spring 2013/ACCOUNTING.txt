@@ -1,0 +1,49 @@
+130   195  ACCT 2000         5  SURVEY OF ACCOUNTING   3.0   830-0920   M W F  0100 DODSON                           LOWE-ARDOIN L
+ 15   318  ACCT 2000         4  SURVEY OF ACCOUNTING   3.0   900-1020    T TH  0100 DODSON                           DENSTEL C
+  2   288  ACCT 2001         3  INTR FINANCIAL ACCT    3.0   300-0420   M W    0100 DODSON                           ALFONSO E
+  7   293  ACCT 2001         2  INTR FINANCIAL ACCT    3.0  1200-0120    T TH  1510 BUS ED COMPLEX                   LAFLEUR L
+(F)   300  ACCT 2001         1  INTR FINANCIAL ACCT    3.0   130-0250    T TH  1510 BUS ED COMPLEX                   HOLMES J
+  5   295  ACCT 2101         1  INTRO MANAGERIAL ACC   3.0   900-1020    T TH  1510 BUS ED COMPLEX                   CHENIER J
+  2   298  ACCT 2101         2  INTRO MANAGERIAL ACC   3.0  1030-1150    T TH  1510 BUS ED COMPLEX                   CHENIER J
+  2    50  ACCT 3001         3  INTERMEDIATE ACCT I    3.0   300-0420   M W    1615 BUS ED COMPLEX                   ROSA R
+ 17    33  ACCT 3001         4  INTERMEDIATE ACCT I    3.0   430-0550N  M W    1615 BUS ED COMPLEX                   ROSA R
+(F)    51  ACCT 3001         1  INTERMEDIATE ACCT I    3.0   900-1020    T TH  1321 BUS ED COMPLEX                   HOLMES J
+  2    47  ACCT 3001         2  INTERMEDIATE ACCT I    3.0  1030-1150    T TH  1321 BUS ED COMPLEX                   HOLMES J
+(F)    55  ACCT 3021         3  INTERMEDIATE ACCT II   3.0   300-0420   M W    1845 BUS ED COMPLEX                   LEGORIA J
+  9    41  ACCT 3021         1  INTERMEDIATE ACCT II   3.0   730-0850    T TH  0132 J C MILLER                       TIRAS S
+(F)    56  ACCT 3021         2  INTERMEDIATE ACCT II   3.0   900-1020    T TH  0132 J C MILLER                       TIRAS S
+(F)    55  ACCT 3121         1  COST ANAL & CONTROL    3.0   300-0420   M W    1800 BUS ED COMPLEX                   CHRISTIE A
+ 10    45  ACCT 3121         2  COST ANAL & CONTROL    3.0   430-0550N  M W    1800 BUS ED COMPLEX                   CHRISTIE A
+ 22    33  ACCT 3122         1  ACCT INFO SYSTEMS      3.0   730-0850    T TH  1835 BUS ED COMPLEX                   SOILEAU J
+  3    37  ACCT 3122         3  ACCT INFO SYSTEMS      3.0  1200-0120    T TH  1321 BUS ED COMPLEX                   SOILEAU J
+(F)    51  ACCT 3221         1  INCOME TAX ACCT I      3.0  1030-1120   M W F  1800 BUS ED COMPLEX                   LOWE-ARDOIN L
+  1    49  ACCT 3221         2  INCOME TAX ACCT I      3.0  1130-1220   M W F  1800 BUS ED COMPLEX                   LOWE-ARDOIN L
+(F)    47  ACCT 3222         1  AUDITING               3.0   900-1020    T TH  2162 PATRICK TAYLOR  CI-WRITTEN&SPOK  DELAUNE L
+  2    43  ACCT 3222         2  AUDITING               3.0  1030-1150    T TH  2162 PATRICK TAYLOR  CI-WRITTEN&SPOK  DELAUNE L
+ 45    15  ACCT 3233         3  INTERNAL AUDITING I    3.0   730-0850    T TH  1700 BUS ED COMPLEX                   SUMNERS G
+ 28    32  ACCT 3233         1  INTERNAL AUDITING I    3.0   900-1020    T TH  1700 BUS ED COMPLEX                   SUMNERS G
+ 43    77  ACCT 3233         2  INTERNAL AUDITING I    3.0  1030-1150    T TH  1125 BUS ED COMPLEX                   SUMNERS G
+  7    43  ACCT 4022         1  ADVANCED ACCOUNTING    3.0   430-0550N  M W    1845 BUS ED COMPLEX                   LEGORIA J
+ 20    30  ACCT 4221         1  INCOME TAX ACCT II     3.0   600-0850N  M      1700 BUS ED COMPLEX                   CRUMBLEY D
+ 89    11  ACCT 4231 CLI     1  INTERNSHIP IN ACCT     3.0  TBA                                     PERMIS OF INST   CHENIER J
+ 38     2  ACCT 4233         1  CASE STUD AUDITING     3.0   600-0850N    W    1305 BUS ED COMPLEX                   SUMNERS G
+ 18     2  ACCT 4333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   LAFLEUR L
+(F)    59  ACCT 4421         1  GOV/NOT-FOR-PROF ACC   3.0   730-0850    T TH  1735 BUS ED COMPLEX                   TORRES D
+(F)    41  ACCT 7021         1  ADV TH OF ACCOUNTS     3.0   830-1150    T TF  1120 PATRICK TAYLOR                   REICHELT K
+  3    37  ACCT 7021         2  ADV TH OF ACCOUNTS     3.0   900-1150    T TH  1121 PATRICK TAYLOR                   REICHELT K
+ 19    21  ACCT 7210         2  TAX RES,PLAN,&BUS DE   3.0   130-0450    T TF  1110 PATRICK TAYLOR                   CRUMBLEY D
+(F)    56  ACCT 7222         1  AUDIT THEORY/STNDRDS   3.0  1130-0220   M W    1615 BUS ED COMPLEX                   DELAUNE L
+ 81    19  ACCT 7231 CLI     1  INTRNSHIP IN ACCT      3.0  TBA                                     PERMIS OF INST   MOFFITT J
+ 15    25  ACCT 7233         1  GRAD INTERNAL AUDIT    3.0   130-0250    T TH  1305 BUS ED COMPLEX                   SUMNERS G
+ 12    28  ACCT 7250         1  CUR TPCS FED INC TAX   3.0   600-0850N   T     1325 BUS ED COMPLEX                   CHENG C
+100        ACCT 7333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   SUMNERS G
+ 17    23  ACCT 7900 RES     1  INDIV STUDY ACCT       3.0  TBA                                     PERMIS OF INST   DELAUNE L
+  5        ACCT 7900 RES     2  INDIV STUDY ACCT       3.0  TBA                                                      SUMNERS G
+(F)     1  ACCT 7900 RES     3  INDIV STUDY ACCT       3.0  TBA                                                      DELAUNE L
+(F)     1  ACCT 7900 RES     4  INDIV STUDY ACCT       3.0  TBA                                                      MOFFITT J
+  9     1  ACCT 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      REICHELT K
+  9     1  ACCT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      REICHELT K
+ 97     2  ACCT 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      TIRAS S
+ 95     4  ACCT 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CHENG C
+  8     2  ACCT 9001 RES     1  ACCOUNTING RES I       3.0  TBA                                                      HOLLIE D
+  8     2  ACCT 9004 RES     1  ACCOUNTING RES IV      3.0  TBA                                                      TIRAS S

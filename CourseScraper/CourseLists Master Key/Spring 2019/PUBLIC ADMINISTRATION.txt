@@ -1,0 +1,12 @@
+ 27    13  PADM 5010         1  STAT METHODS PUB ADM   3.0   600-0850N  M      1920 BUS ED N WING                    SU M
+(F)    10  PADM 5010         2  STAT METHODS PUB ADM   3.0   200-0450     W    1120 BUS ED S WING                    LLORENS J
+ 14     1  PADM 7800 RES     1  IND STUD IN PADM       3.0  TBA
+ 16     4  PADM 7851 CLI     1  PADM PRACTICUM         3.0  TBA                                                      LLORENS J
+ 12    33  PADM 7900 SEM     1  PUB ADMIN COLLOQUIUM   3.0  1200-0250       F  1920 BUS ED N WING                    RICHARDSON J
+ 31    14  PADM 7902 SEM     1  SEM PUBL POLICY        3.0   200-0450   M      1920 BUS ED N WING                    HEIDELBERG R
+ 37     8  PADM 7902 SEM     2  SEM PUBL POLICY        3.0   600-0850N     TH  1920 BUS ED N WING                    HEIDELBERG R
+  4    16  PADM 7911         1  ORG PUB/NONPROF ORG    3.0   200-0450    T     1920 BUS ED N WING                    CALEO S
+  1    28  PADM 7911         2  ORG PUB/NONPROF ORG    3.0   600-0850N    W    1920 BUS ED N WING                    CALEO S
+ 31    19  PADM 7914 SEM     1  PUBLIC BUDGETING       3.0   600-0850N   T     1920 BUS ED N WING                    SU M
+(F)    21  PADM 7970 CLI     1  FUNDRAIS & GRANT WRT   3.0   600-0850N  M      1120 BUS ED S WING                    FLOURNOY M
+  7    13  PADM 7980 SEM     1  CRISIS MANAGEMENT      3.0   600-0850N     TH  1120 BUS ED S WING                    MITCHELL B

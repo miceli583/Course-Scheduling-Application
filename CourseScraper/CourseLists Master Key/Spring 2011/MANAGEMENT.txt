@@ -1,0 +1,40 @@
+  1    44  MGT  3111         1  ENTREPRENEURSHIP       3.0  1210-0130    T TH  3140 PATRICK TAYLOR                   CARTER C
+  5    40  MGT  3111         2  ENTREPRENEURSHIP       3.0   140-0300    T TH  3140 PATRICK TAYLOR                   CARTER C
+(F)    62  MGT  3200         2  PRINC OF MANAGEMENT    3.0   840-0930   M W F  2162 PATRICK TAYLOR                   MULDOON J
+  3    66  MGT  3200         3  PRINC OF MANAGEMENT    3.0   940-1030   M W F  2162 PATRICK TAYLOR                   SEN A
+  1    67  MGT  3200         4  PRINC OF MANAGEMENT    3.0  1240-0130   M W F  2162 PATRICK TAYLOR                   SEN A
+184   716  MGT  3200         1  PRINC OF MANAGEMENT    3.0   910-1030    T TH  0101 GYM AUDITORIUM                   SAULEY K
+(F)     1  MGT  3203 RES     1  IND STUDY ADV MGT      1-6  TBA                                                      BERNERTH J
+(F)     1  MGT  3203 RES     2  IND STUDY ADV MGT      1-6  TBA                                     PERMIS OF DEPT   LIGUORI E
+  3    37  MGT  3211         1  BUSINESS & SOCIETY     3.0   910-1030    T TH  1121 PATRICK TAYLOR                   MARIN D
+(F)     6  MGT  3280 CLI     1  MGT INTERNSHIP         3.0  TBA                                     PERMIS OF DEPT   WOLFE L
+ 52    28  MGT  3320         1  HUMAN RESOURCE MGT     3.0   840-0930   M W F  E134 HOWE RUSSELL E                   WOLFE L
+  6    74  MGT  3320         2  HUMAN RESOURCE MGT     3.0   940-1030   M W F  E134 HOWE RUSSELL E                   WOLFE L
+  2    58  MGT  3320         3  HUMAN RESOURCE MGT     3.0  1040-1130   M W F  E134 HOWE RUSSELL E                   WOLFE L
+(F)    43  MGT  3320         4  HUMAN RESOURCE MGT     3.0  1240-0130   M W F  2103 PATRICK TAYLOR                   MULDOON J
+  3    47  MGT  3500         1  INTRO TO LABOR RELAT   3.0  1140-1230   M W F  1110 PATRICK TAYLOR                   CHANDLER T
+  1    49  MGT  3500         2  INTRO TO LABOR RELAT   3.0  1240-0130   M W F  1110 PATRICK TAYLOR                   MORGAN Y
+(F)    50  MGT  3830         1  STRAT MANAGING ORGS    3.0   910-1030    T TH  1112 PATRICK TAYLOR                   MCGUIRE J
+(F)    50  MGT  3830         2  STRAT MANAGING ORGS    3.0  1040-1200    T TH  1112 PATRICK TAYLOR                   MCGUIRE J
+  6    19  MGT  3830         3  STRAT MANAGING ORGS    3.0  1040-1200    T TH  1121 PATRICK TAYLOR  CI-WRITTEN&SPOK  MARIN D
+(F)    37  MGT  3830         4  STRAT MANAGING ORGS    3.0  1210-0130    T TH  1121 PATRICK TAYLOR  CI-WRITTEN&SPOK  MARIN D
+(F)    51  MGT  3830         5  STRAT MANAGING ORGS    3.0  1210-0130    T TH  1112 PATRICK TAYLOR                   JAMES B
+(F)    50  MGT  3830         6  STRAT MANAGING ORGS    3.0   140-0300    T TH  1112 PATRICK TAYLOR                   JAMES B
+(F)    50  MGT  3830         7  STRAT MANAGING ORGS    3.0   140-0300    T TH  1110 PATRICK TAYLOR                   GRECKHAMER T
+(F)    50  MGT  3830         8  STRAT MANAGING ORGS    3.0   310-0430    T TH  1110 PATRICK TAYLOR                   GRECKHAMER T
+  4    31  MGT  4030 RES     1  INDEP STUDY ENTREPRE   3.0   310-0600    T     1114 PATRICK TAYLOR  CI-WRITTEN&SPOK  RODRIGUEZ J
+  1    41  MGT  4114         1  FRANCHISING MANAGEME   3.0   910-1030    T TH  2103 PATRICK TAYLOR                   JUSTIS R
+ 14    16  MGT  4120         1  SOCIAL ENTREPRENEUR    3.0   440-0730N  M      2103 PATRICK TAYLOR                   WEAVER K
+ 19    11  MGT  4120         2  SOCIAL ENTREPRENEUR    3.0   440-0730N   T     2103 PATRICK TAYLOR                   WEAVER K
+ 16    24  MGT  4322         1  EMPLYEE SELECT/PLACE   3.0   310-0600    T     2228 PATRICK TAYLOR                   BERNERTH J
+ 22    18  MGT  4420         2  MULTINATIONAL MGT      3.0   340-0430   M W F  2103 PATRICK TAYLOR                   WHITMAN D
+  7    33  MGT  4420         1  MULTINATIONAL MGT      3.0   910-1030    T TH  2228 PATRICK TAYLOR                   RICHARDSON H
+  5    35  MGT  4523         1  LEGAL ISS HUM RES MG   3.0   610-0900N    W    2103 PATRICK TAYLOR                   ROUX R
+ 19    21  MGT  4620         2  HUMAN BEHAV ORGANIZA   3.0   240-0330   M W F  2103 PATRICK TAYLOR                   WHITMAN D
+  3    37  MGT  4620         1  HUMAN BEHAV ORGANIZA   3.0   910-1030    T TH  3140 PATRICK TAYLOR                   BEDEIAN A
+ 20    20  MGT  4620         3  HUMAN BEHAV ORGANIZA   3.0   140-0300    T TH  2228 PATRICK TAYLOR                   BERNERTH J
+ 24     6  MGT  7301 SEM     1  SEM HUMAN RESOURCES    3.0   140-0430    T     3142 PATRICK TAYLOR                   RICHARDSON H
+ 98     1  MGT  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CHANDLER T
+ 98     1  MGT  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      MCGUIRE J
+ 97     2  MGT  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      RICHARDSON H
+ 98     1  MGT  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      WEAVER K

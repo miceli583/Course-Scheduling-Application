@@ -1,0 +1,83 @@
+(F)    63  SW   2000         1  INTRO TO SOCIAL WORK   3.0   940-1030   M W F  0214 COATES                           CHIASSON-BREA
+(F)    84  SW   3002         1  CHILD AND COMMUNITY    3.0  1040-1130   M W F  0241 HIMES                            LEFEAUX P
+(F)    40  SW   3003         2  SKILL WK WITH PEOPLE   3.0   310-0600   M      0133 LONG FIELDHOUSE                  ALLEN P
+(F)    62  SW   3003         1  SKILL WK WITH PEOPLE   3.0  1210-0130    T TH  0026 HATCHER HALL                     MOLES A
+(F)    76  SW   4500         1  CRISIS INTERVENTION    3.0   840-0930   M W F  0241 HIMES                            LEFEAUX P
+(F)    36  SW   7002         1  HUM BEH/SOC ENV II     3.0   840-1130     W    0156 LONG FIELDHOUSE MAJORS ONLY      ABADIE M
+  2    18  SW   7002         2  HUM BEH/SOC ENV II     3.0   410-0700     W    0202 COATES          MAJORS ONLY      ABADIE M
+(F)    39  SW   7004         1  HUM DIVERS & OPPRESS   3.0  1240-0330     W    0156 LONG FIELDHOUSE MAJORS ONLY      PATE G
+  4    16  SW   7004         2  HUM DIVERS & OPPRESS   3.0   410-0700      TH  0204 COATES          MAJORS ONLY      SHAVERS R
+(F)    31  SW   7006         1  SOCIAL WORK PRACT II   3.0   840-1130      TH  0156 LONG FIELDHOUSE MAJORS ONLY      LEMIEUX C
+  2    23  SW   7006         2  SOCIAL WORK PRACT II   3.0   410-0700      TH  0146 LONG FIELDHOUSE MAJORS ONLY      PATE G
+ 84     1  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                                      LILLEY T
+ 29     1  SW   7007 CLI     2  FOUND FIELD INTERN I   3.0  TBA                                                      MONROE P
+ 28     2  SW   7007 CLI     3  FOUND FIELD INTERN I   3.0  TBA                                                      ROUTON E
+ 29     1  SW   7007 CLI     4  FOUND FIELD INTERN I   3.0  TBA                                                      PLUMMER C
+ 28     2  SW   7007 CLI     5  FOUND FIELD INTERN I   3.0  TBA                                                      ABADIE M
+ 28     2  SW   7007 CLI     6  FOUND FIELD INTERN I   3.0  TBA                                                      BARTHELEMY J
+ 29     1  SW   7007 CLI     7  FOUND FIELD INTERN I   3.0  TBA                                                      PAGE T
+ 29     1  SW   7007 CLI     8  FOUND FIELD INTERN I   3.0  TBA                                                      DAVIS P
+ 29     1  SW   7007 CLI     9  FOUND FIELD INTERN I   3.0  TBA                                                      LIM Y
+ 28     2  SW   7007 CLI    10  FOUND FIELD INTERN I   3.0  TBA                                                      WILKS S
+ 84     1  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                                      LILLEY T
+ 79     6  SW   7008 CLI     2  FOUND FIELD INTERN I   3.0  TBA                                                      LEMIEUX C
+ 83     2  SW   7008 CLI     3  FOUND FIELD INTERN I   3.0  TBA
+ 85        SW   7008 CLI     4  FOUND FIELD INTERN I   3.0  TBA                                                      PLUMMER C
+ 83     2  SW   7008 CLI     5  FOUND FIELD INTERN I   3.0  TBA                                                      ABADIE M
+ 84     1  SW   7008 CLI     6  FOUND FIELD INTERN I   3.0  TBA                                                      BARTHELEMY J
+ 84     1  SW   7008 CLI     7  FOUND FIELD INTERN I   3.0  TBA                                                      CAIN D
+ 80     5  SW   7008 CLI     8  FOUND FIELD INTERN I   3.0  TBA                                                      DAVIS P
+ 84     1  SW   7008 CLI     9  FOUND FIELD INTERN I   3.0  TBA                                                      LIM Y
+ 82     3  SW   7008 CLI    10  FOUND FIELD INTERN I   3.0  TBA                                                      LIVERMORE M
+ 84     1  SW   7008 CLI    11  FOUND FIELD INTERN I   3.0  TBA                                                      MACCIO E
+ 85        SW   7008 CLI    12  FOUND FIELD INTERN I   3.0  TBA                                                      MOHAN B
+ 81     4  SW   7008 CLI    13  FOUND FIELD INTERN I   3.0  TBA                                                      MONROE P
+ 83     2  SW   7008 CLI    14  FOUND FIELD INTERN I   3.0  TBA                                                      PAGE T
+ 81     4  SW   7008 CLI    15  FOUND FIELD INTERN I   3.0  TBA                                                      WILKS S
+  6    19  SW   7010         2  DIFFERENT DIAGNOSIS    3.0   410-0700     W    0146 LONG FIELDHOUSE MAJORS ONLY      DAVIS P
+(F)    34  SW   7010         1  DIFFERENT DIAGNOSIS    3.0  1240-0330      TH  0156 LONG FIELDHOUSE MAJORS ONLY      MACCIO E
+ 10     5  SW   7202 RES     1  RES PROB SOC POLCY     3.0  1240-0330    T                                           LIVERMORE M
+ 98     1  SW   7206 RES     1  RESEARCH PRACTICUM     3-9  TBA                                     PERMIS OF DEPT   PAGE T
+(F)    27  SW   7305         1  GRIEF & BEREAVEMENT    3.0   410-0700   M      0156 LONG FIELDHOUSE                  SMELLEY S
+(F)    32  SW   7306         1  ADV SW TRTMNT INDIVI   3.0  1240-0330    T     0156 LONG FIELDHOUSE                  HART N
+  1    29  SW   7307         1  DIR PRAC CHILD/ADOLS   3.0  1240-0330   M      0146 LONG FIELDHOUSE                  PAGE T
+(F)    25  SW   7309         1  ADV METH GRP TREATMT   3.0   840-1130    T     0139 LONG FIELDHOUSE                  TRAVIS K
+ 13    12  SW   7403         1  SOCIAL WORK & AGING    3.0  1240-0330    T     0146 LONG FIELDHOUSE                  WILKS S
+  5    25  SW   7405         1  MARIT & FMLY TREAT S   3.0   410-0700    T     0146 LONG FIELDHOUSE                  CAIN D
+  5    25  SW   7416         1  CHILD/FAMILY II        3.0   840-1130    T     0146 LONG FIELDHOUSE                  PLUMMER C
+ 98     1  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                                      LILLEY T
+ 29     1  SW   7502 CLI     2  ADV FIELD INTERN I     3.0  TBA                                                      MONROE P
+ 29     1  SW   7502 CLI     3  ADV FIELD INTERN I     3.0  TBA                                                      ROUTON E
+ 29     1  SW   7502 CLI     4  ADV FIELD INTERN I     3.0  TBA                                                      ALLEN P
+ 85    14  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                                      LILLEY T
+ 97     2  SW   7503 CLI     2  ADV FLD INTERN II      3.0  TBA                                                      LEMIEUX C
+ 84    15  SW   7503 CLI     3  ADV FLD INTERN II      3.0  TBA
+ 92     7  SW   7503 CLI     4  ADV FLD INTERN II      3.0  TBA                                                      PLUMMER C
+ 98     1  SW   7503 CLI     5  ADV FLD INTERN II      3.0  TBA                                                      ABADIE M
+ 97     2  SW   7503 CLI     6  ADV FLD INTERN II      3.0  TBA                                                      BARTHELEMY J
+ 95     4  SW   7503 CLI     7  ADV FLD INTERN II      3.0  TBA                                                      CAIN D
+ 89    10  SW   7503 CLI     8  ADV FLD INTERN II      3.0  TBA                                                      DAVIS P
+ 95     4  SW   7503 CLI     9  ADV FLD INTERN II      3.0  TBA                                                      LIM Y
+ 97     2  SW   7503 CLI    10  ADV FLD INTERN II      3.0  TBA                                                      LIVERMORE M
+ 96     3  SW   7503 CLI    11  ADV FLD INTERN II      3.0  TBA                                                      MACCIO E
+ 99        SW   7503 CLI    12  ADV FLD INTERN II      3.0  TBA                                                      MOHAN B
+ 96     3  SW   7503 CLI    13  ADV FLD INTERN II      3.0  TBA                                                      MONROE P
+ 97     2  SW   7503 CLI    14  ADV FLD INTERN II      3.0  TBA                                                      PAGE T
+ 97     2  SW   7503 CLI    15  ADV FLD INTERN II      3.0  TBA                                                      WILKS S
+ 94     5  SW   7503 CLI    16  ADV FLD INTERN II      3.0  TBA                                                      ALLEN P
+ 99        SW   7503 CLI    17  ADV FLD INTERN II      3.0  TBA
+ 10    60  SW   7504         1  ADV SOCIAL POLICY      3.0   840-1130   M      0026 HATCHER HALL    MAJORS ONLY      MONROE P
+  4    26  SW   7504         2  ADV SOCIAL POLICY      3.0   410-0700    T     0156 LONG FIELDHOUSE                  ALLEN P
+(F)    21  SW   7803         1  GRANT WRITNG: HUM SE   3.0   410-0700   M      0146 LONG FIELDHOUSE                  GUIN C
+(F)    31  SW   7805         1  CO-OCCURR DISORDERS    3.0  1240-0330   M      0156 LONG FIELDHOUSE                  LEMIEUX C
+ 25        SW   7905 RES     1  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF DEPT   LEMIEUX C
+ 23     2  SW   7905 RES     2  IND RDNG RES SW PRAC   3.0  TBA                                                      PAGE T
+ 23     2  SW   7999 RES     1  RES PROJ: NON-THESIS   3.0  TBA                                                      LEMIEUX C
+ 24     1  SW   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   PLUMMER C
+ 24     1  SW   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LEMIEUX C
+ 95     4  SW   9000 RES     2  DISSERTATION RES       1-12 TBA                                                      PAGE T
+ 97     2  SW   9000 RES     3  DISSERTATION RES       1-12 TBA                                                      LEMIEUX C
+ 97     2  SW   9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CAIN D
+ 99        SW   9000 RES     5  DISSERTATION RES       1-12 TBA                                                      LIVERMORE M
+ 98     1  SW   9000 RES     6  DISSERTATION RES       1-12 TBA                                                      GUIN C
+ 99        SW   9000 RES     7  DISSERTATION RES       1-12 TBA

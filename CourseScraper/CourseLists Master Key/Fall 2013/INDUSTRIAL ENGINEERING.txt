@@ -1,0 +1,25 @@
+  9    61  IE   1002         1  INDUSTRIAL ENGR FUND   3.0   900-1020    T TH  2162 PATRICK TAYLOR  CI-WRITTEN&SPOK  HARVEY C
+  3    87  IE   3201         1  PRIN ENGR ECONOMY      3.0  1200-0120    T TH  E134 HOWE RUSSELL E                   LIAO T
+ 11   114  IE   3302         1  ENGR STATISTICS        3.0   830-0920   M W F  0102 ALLEN                            KNAPP G
+  9    23  IE   3520         1  SUPPLY CHAIN LOGISTI   3.0   930-1020   M W F  3141 PATRICK TAYLOR                   LIAO T
+  8     2  IE   3699 CLI     1  ENGINEERING PRACTICE   3.0  TBA                                                      HARVEY C
+(F)     1  IE   3699 CLI     2  ENGINEERING PRACTICE   3.0  TBA                                                      LIAO T
+ 22    18  IE   4362         1  ADV ENGRNG STAT        3.0   130-0250    T TH  2103 PATRICK TAYLOR                   SARKER B
+ 31     9  IE   4426         2  DIST INF SYSTEMS ENG   3.0  1030-1120   M W    1112 PATRICK TAYLOR                   KNAPP G
+ 20    20  IE   4462         1  SAFETY ENGINEERING     3.0  1200-0120    T TH  3140 PATRICK TAYLOR                   AGHAZADEH F
+ 29    11  IE   4516         1  PLANT & SYSTEMS DESN   3.0   900-1020    T TH  1121 PATRICK TAYLOR  CI-WRITTEN&SPOK  MANN L
+ 25    15  IE   4530         3  LEAN MAN SYSTEMS       3.0  1130-1220   M W    1116 PATRICK TAYLOR  CI-WRITTEN&TECH  HARVEY C
+ 42     6  IE   4597         1  IE SENIOR DESIGN I     2.0  1030-1150      TF  2218 PATRICK TAYLOR  CI-WRITTEN&SPOK  IKUMA L
+  1     1  IE   4785 RES     1  SPEC TOP IND ENGR      1-3  TBA                                                      LIAO T
+  3    12  IE   7465         1  OCCUP BIOMECHANICS     3.0   300-0350    T TH  3140 PATRICK TAYLOR                   AGHAZADEH F
+ 17     8  IE   7467         1  COG ERGO & WORK ENV    3.0   900-1020    T TH  2218 PATRICK TAYLOR                   IKUMA L
+ 18     2  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                                      HARVEY C
+ 19     1  IE   7724 IND     3  INDEP STUDY IE         1-3  TBA                                                      IKUMA L
+(F)     1  IE   7724 IND     5  INDEP STUDY IE         1-3  TBA                                                      SARKER B
+ 22     8  IE   7768         1  SEQUENCING & SCHED     3.0  1030-1150    T TH  2216 PATRICK TAYLOR                   SARKER B
+ 98     1  IE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      KNAPP G
+  2     3  IE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      IKUMA L
+ 98     1  IE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      LIAO T
+ 98     1  IE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      HARVEY C
+  4     1  IE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      AGHAZADEH F
+ 97     2  IE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      SARKER B

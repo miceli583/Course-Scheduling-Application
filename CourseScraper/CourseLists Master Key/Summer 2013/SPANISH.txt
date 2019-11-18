@@ -1,0 +1,15 @@
+  1    27  SPAN 1101         2  ELEMENTARY SPANISH     4.0  1100-0110   MTWTH  0127 TUREAUD HALL                     LINDER C
+  3    25  SPAN 1102         1  ELEMENTARY SPANISH     4.0  0840-1050   MTWTH  1120 PATRICK TAYLOR                   VIDAL L
+  5    23  SPAN 1152         1  INTENSIVE-BEGIN SPAN   4.0  1100-0110   MTWTH  0240 LOCKETT                          LOTTEN S
+  6    22  SPAN 1152         3  INTENSIVE-BEGIN SPAN   4.0  1100-0110   MTWTH  0424 HODGES HALL                      SEVERICHE G
+  2    25  SPAN 2101         1  INTERMED SPANISH       3.0  0850-0950   MTWTF  0424 HODGES HALL                      SULLIVAN S
+(F)    24  SPAN 2101         2  INTERMED SPANISH       3.0  1000-1100   MTWTF  0059 ALLEN                            MARTINEZ N
+  2    20  SPAN 2101         3  INTERMED SPANISH       3.0   600-0730N  MTWTH  0324 HODGES HALL                      AZENARA K
+  1    21  SPAN 2102         1  INTERMED SPANISH       3.0  1040-1140   MTWTF  0114 PRESCOTT                         CORTAZAR A
+  2    20  SPAN 2102         2  INTERMED SPANISH       3.0  1200-0100   MTWTF  0116 PRESCOTT                         CABRAL O
+  2    20  SPAN 2102         3  INTERMED SPANISH       3.0   100-0200   MTWTF  0116 PRESCOTT                         MATUS I
+  4    18  SPAN 2102         4  INTERMED SPANISH       3.0   600-0730N  MTWTH  0424 HODGES HALL                      BYRD L
+  8    12  SPAN 4147         1  LAT AM LIT:1960-PRES   3.0   230-0430   M WTH  0336 HODGES HALL                      FERNANDEZ-PAL
+(F)     1  SPAN 4915 RES     3  IND RES SP/SP-AM LIT   1-3  TBA                                     PERMIS OF DEPT   FERNANDEZ-PAL
+ 98     1  SPAN 4915 RES     4  IND RES SP/SP-AM LIT   1-3  TBA                                                      MORRIS A
+(F)     1  SPAN 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   OROZCO R

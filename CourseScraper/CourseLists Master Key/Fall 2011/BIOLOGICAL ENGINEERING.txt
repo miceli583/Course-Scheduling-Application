@@ -1,0 +1,37 @@
+  1    23  BE   1250 LAB     4  INTRO ENGR METHODS     2.0   240-0530   M      3136 PATRICK TAYLOR  CI-VISUAL&TECH   DUGAS A
+  1    23  BE   1250 LAB     5  INTRO ENGR METHODS     2.0   240-0530   M      3136 PATRICK TAYLOR  CI-VISUAL&TECH   DUGAS A
+  1    24  BE   1250 LAB     3  INTRO ENGR METHODS     2.0   140-0430    T  F  0106 AG METAL BLDG   CI-VISUAL&TECH   DUGAS A
+(F)    34  BE   2352         1  QUANT BIOL IN ENGR     3.0  1040-1130   M W    0221 TUREAUD HALL                     SATHIVEL S
+  2    30  BE   2352         2  QUANT BIOL IN ENGR     3.0  1040-1130   M W    0221 TUREAUD HALL                     SATHIVEL S
+  7    18  BE   3320         3  MECH DESN BIOL ENGR    3.0   740-0830   M W    0102 TUREAUD HALL    CI-WRITTEN&TECH  HALL S
+  7    18  BE   3320         4  MECH DESN BIOL ENGR    3.0   740-0830   M W    0102 TUREAUD HALL    CI-WRITTEN&TECH  HALL S
+ 24     1  BE   3989 RES     1  SPEC PROJ IN BIOL EN   1-4  TBA                                                      HAYES D
+(F)    40  BE   4290 RES     1  SEN ENGR DESN & PROF   2.0   940-1030   M W    0101 TUREAUD HALL    CI-SPOKEN&TECH   HAYES D
+  7    18  BE   4303         1  ENGR PROP OF BIOL MA   3.0   940-1030    T TH  0229 TUREAUD HALL    CI-WRITTEN&SPOK  BOLDOR D
+ 13    12  BE   4303         2  ENGR PROP OF BIOL MA   3.0   940-1030    T TH  0229 TUREAUD HALL    CI-WRITTEN&SPOK  BOLDOR D
+  3     7  BE   4362         1  AG PRECISION SYSTEMS   3.0   140-0330      TH                                        BARBOSA R
+(F)    26  BE   4383         1  NATURAL RESOURCE ENG   3.0   740-0900    T TH  0115 E B DORAN                        BENGTSON R
+  4    12  BE   4989 RES     1  SUSTAINABILITY ENGR    1-4   440-0630N   T     0115 E B DORAN                        THEEGALA C
+(F)    25  BE   4989 RES     2  ENGR ENTREPRENEUR      1-4   440-0730N    W    0115 E B DORAN                        HAYES D
+ 19     1  BE   4989 RES     3  IND STUDY IN BIOL EN   1-4  TBA                                                      MONROE W
+ 18     2  BE   4989 RES     4  LANDSCAPE IRRIGATION   1-4  TBA                                                      SHEFFIELD R
+ 19     1  BE   4989 RES     5  IND STUDY IN BIOL EN   1-4  TBA                                                      HALL S
+(F)     8  BE   7909 RES     1  ENERCONSRENEENERENGR   1-4  TBA                                                      THEEGALA C
+ 97     2  BE   7909 RES     2  ADV TOP BIOL ENGR      1-4  TBA                                                      SABLIOV C
+ 98     1  BE   7909 RES     3  LANDSCAPE IRRIGATION   1-4  TBA                                                      SHEFFIELD R
+  9     1  BE   7909 RES     4  ADV TOP BIOL ENGR      1-4  TBA                                                      HALL S
+ 98     1  BE   7909 RES     5  ADV TOP BIOL ENGR      1-4  TBA                                                      MONROE W
+ 97     2  BE   7909 RES     6  GIS APPLICATIONS IN    1-4  TBA                                                      SHEFFIELD R
+ 98     1  BE   7909 RES     7  ADV TOP BIOL ENGR      1-4  TBA                                                      KOCHERGIN V
+ 97     2  BE   7909 RES     8  ADV TOP BIOL ENGR      1-4  TBA                                                      HAYES D
+  7     3  BE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      MONROE W
+  9     1  BE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      LIMA M
+  9     1  BE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HALL S
+  8     2  BE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      SHEFFIELD R
+  8     2  BE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      THEEGALA C
+  8     2  BE   8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      SABLIOV C
+  8     2  BE   8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      HAYES D
+  9     1  BE   8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      BOLDOR D
+  8     2  BE   8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      BARBOSA R
+  9     1  BE   8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      SINGH V
+  9     1  BE   8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      KOCHERGIN V

@@ -1,0 +1,45 @@
+ 43    13  CHE  2171         1  CHE FUND MAT EN BAL    3.0  0840-0940   MTWTF  0215 WILLIAMS                         WETZEL D
+ 20    36  CHE  3101         1  MOMENTUM TRANSFER      3.0  0950-1050   MTWTF  0215 WILLIAMS                         WETZEL D
+ 44    12  CHE  3172         1  CHE THERMODYNAMICS     3.0  1100-1200   MTWTF  0215 WILLIAMS                         WETZEL D
+ 10        CHE  7700         1  ADV TOPICS IN CHE      3.0  TBA
+ 10        CHE  7700         2  ADV TOPICS IN CHE      3.0  TBA
+ 98     1  CHE  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BENTON M
+ 98     1  CHE  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DOOLEY K
+ 98     1  CHE  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      FLAKE J
+ 99        CHE  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      GRIFFIN G
+ 99        CHE  8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HUNG F
+ 99        CHE  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      KNOPF F
+ 99        CHE  8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      MELVIN A
+ 98     1  CHE  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      NANDAKUMAR K
+ 99        CHE  8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      ROMAGNOLI J
+ 98     1  CHE  8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      SHELTON W
+ 99        CHE  8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      SPIVEY J
+ 99        CHE  8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      THIBODEAUX L
+ 99        CHE  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      THOMPSON K
+ 99        CHE  8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      VALSARAJ K
+ 99        CHE  8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      WORNAT M
+ 99        CHE  8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      XU Y
+ 99        CHE  8000 RES    17  THESIS RESEARCH        1-12 TBA
+ 99        CHE  8000 RES    18  THESIS RESEARCH        1-12 TBA
+ 99        CHE  8000 RES    19  THESIS RESEARCH        1-12 TBA
+ 99        CHE  8000 RES    20  THESIS RESEARCH        1-12 TBA
+ 99        CHE  8000 RES    21  THESIS RESEARCH        1-12 TBA
+ 99        CHE  8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      SHELTON W
+ 99        CHE  8000 RES    23  THESIS RESEARCH        1-12 TBA                                                      THIBODEAUX L
+ 96     3  CHE  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BENTON M
+ 98     1  CHE  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DOOLEY K
+ 96     3  CHE  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      FLAKE J
+ 99        CHE  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      GRIFFIN G
+ 93     6  CHE  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      HUNG F
+ 99        CHE  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      KNOPF F
+ 96     3  CHE  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      MELVIN A
+ 99        CHE  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      NANDAKUMAR K
+ 95     4  CHE  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      ROMAGNOLI J
+ 99        CHE  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SHELTON W
+ 97     2  CHE  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SPIVEY J
+ 99        CHE  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      THIBODEAUX L
+ 98     1  CHE  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      THOMPSON K
+ 97     2  CHE  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      VALSARAJ K
+ 95     4  CHE  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      WORNAT M
+ 93     6  CHE  9000 RES    16  DISSERTATION RES       1-12 TBA                                                      NANDAKUMAR K
+ 96     3  CHE  9000 RES    17  DISSERTATION RES       1-12 TBA                                                      XU Y

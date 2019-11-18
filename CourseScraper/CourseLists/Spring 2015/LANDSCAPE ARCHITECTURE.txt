@@ -1,0 +1,38 @@
+  4    16  LA   1102 LAB     1  LANDSCAPE REPRES II    3.0   830-1120   M W    0322 DESIGN BUILDING                  CHEETHAM L
+  6   194  LA   1201         1  INTR LANDSCAPE ARCH    3.0   830-0920   M W F  0006 LOCKETT                          CONRAD M
+  2   202  LA   1201         2  INTR LANDSCAPE ARCH    3.0  1030-1150    T TH  0016 LOCKETT                          CONRAD M
+(F)   385  LA   1203         1  VIEWS AMER LANDSCAPE   3.0   830-0920   M W F  0002 LOCKETT                          FRYLING C
+  2    18  LA   2002 LAB     1  LANDSCAPE DESIGN II    6.0   130-0520   M W F  0304 DESIGN BUILDING CI-VISUAL&TECH   HOLZMAN J
+  2    18  LA   2301         2  LANDSCAPE TECH I       3.0   100-0450    T     0316 DESIGN BUILDING                  BROWN D
+  5    15  LA   2401         1  LANDSCAPE ECOLOGY      3.0   100-0350      TH  0301 DESIGN BUILDING                  FRYLING C
+(F)    14  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0324 DESIGN BUILDING CI-WRITTEN&VISU  SHARKY B
+(F)    14  LA   3201         2  LANDSCAPE HISTORY II   3.0   800-0850   M W F  0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
+(F)    15  LA   3302         1  LANDSCAPE TECH III     3.0   900-1150   M W    0316 DESIGN BUILDING                  LOUGH C
+(F)    15  LA   3402         1  PLANT MATERIALS II     3.0   900-1150    T TH  0301 DESIGN BUILDING                  FRYLING C
+(F)    13  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      CONRAD M
+(F)    45  LA   4501 RES     1  FIELD STUDIES IN L A   3.0   600-0850N  M      0313 DESIGN BUILDING                  CONRAD M
+(F)     1  LA   4502 RES     1  IND STUDY IN L A       3.0  TBA                                                      DOUGLAS W
+(H)        LA   4502 RES     2  IND STUDY IN L A       3.0  TBA
+(H)        LA   4502 RES     3  IND STUDY IN L A       3.0  TBA
+(F)    10  LA   4504 SEM     3  ADV ELECTIVE IN L A    3.0   900-1150   M      0308 DESIGN BUILDING                  HOLZMAN J
+ 10     5  LA   4504 SEM     4  ADV ELECTIVE IN L A    3.0   600-0850N   T     0301 DESIGN BUILDING CI-VISUAL&TECH   ALLEN A
+ 10     5  LA   4504 SEM     1  ADV ELECTIVE IN L A    3.0   900-1150N      F  0308 DESIGN BUILDING                  MARSHALL C
+(F)    24  LA   5002 LAB     1  LANDSCAPE DESN VIII    6.0   130-0520   M W F  0226 DESIGN BUILDING CI-WRITTEN&SPOK  DOUGLAS W
+(F)    24  LA   5301         1  L A PROFESNL PRACTCE   3.0   130-0250    T TH  0201 DESIGN BUILDING                  COX V
+ 10     7  LA   7002 LAB     1  GRAD LANDSC DESN II    6.0   130-0520   M W F  0310 DESIGN BUILDING                  MARSHALL C
+(F)    13  LA   7004 LAB     1  GRAD LANDSC DESN IV    6.0   130-0520   M W F  0225 DESIGN BUILDING                  MOSSOP E
+(F)    12  LA   7004 LAB     3  GRAD LANDSC DESN IV    6.0   130-0520   M W F  0321 DESIGN BUILDING                  ALLEN D
+  9     6  LA   7006 LAB     1  GRAD LANDSC DESN VI    6.0   130-0520   M W F  0230 DESIGN BUILDING                  LIPSCHITZ F
+  7    16  LA   7023         2  HISTORY & THEORY II    3.0   800-0850   M W F                                        RISK J
+  2    21  LA   7024       101  ECOLOGY & TECH II      3.0   130-0420    T     0301 DESIGN BUILDING                  CHEETHAM L
+  1    16  LA   7042         1  HISTORY & THEORY IV    3.0   900-1150     W    0308 DESIGN BUILDING                  MOSSOP E
+  1    17  LA   7043         1  PROFESSIONAL PRACTIC   3.0   130-0250    T TH                                        COX V
+  7    12  LA   7044         1  ECOLOGY & TECH IV      3.0   600-0850N     TH  0301 DESIGN BUILDING                  PETTY M
+ 16     4  LA   7044         2  ECOLOGY & TECH IV      3.0   900-1150       F  0301 DESIGN BUILDING                  SHARKY B
+(F)    23  LA   7102 LAB     1  GRAD LANDSC REPR II    3.0   900-1150   M W    0217 DESIGN BUILDING                  LIPSCHITZ F
+  8     7  LA   7201 SEM     1  RESEARCH METHODS       3.0   300-0550      TH  0308 DESIGN BUILDING                  ALLEN A
+(F)     1  LA   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      DOUGLAS W
+  1     2  LA   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      ALLEN A
+  1     1  LA   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      MOSSOP E
+(F)     1  LA   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      SHARKY B
+  1        LA   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      MARSHALL C

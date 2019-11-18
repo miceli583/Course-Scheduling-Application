@@ -1,0 +1,69 @@
+ 25    25  ME   2543         2  SIM METHD FOR ME       3.0  1100-1200   MTWTF  1236 PATRICK TAYLOR                   GONTHIER K
+ 59    61  ME   3133         1  DYNAMICS               3.0   530-0630N  MTWTF  1263 PATRICK TAYLOR                   WAGGENSPACK W
+ 99        ME   3249 RES     1  ENGINEERING PRACTICE   1-3  TBA                                                      WAGGENSPACK W
+  4    11  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0  1200-0300    T TH                                        MOLDOVAN D
+  1    19  ME   4183         1  THY/DES MECH CNT SYS   3.0   530-0630N  MTWTH  1212 PATRICK TAYLOR                   KHALEDYAN M
+ 36    24  ME   4433         2  HEAT TRANSFER          3.0  0950-1050   MTWTF  1236 PATRICK TAYLOR                   CHARALAMPOPOU
+  1    11  ME   4611 LAB     1  THERMAL SYSTEM LAB     1.0  1210-0310    T TH                                        DEVIREDDY R
+  3     9  ME   4621 LAB     1  THERMAL SCIENCE LAB    1.0  0840-1140    T TH                                        DEVIREDDY R
+  1        ME   4903 RES     1  SP PROJECTS UNDER GR   3.0  TBA
+  1        ME   4903 RES     2  SP PROJECTS UNDER GR   3.0  TBA
+  1        ME   7903 RES     1  INDEP STDY IN ME       3.0  TBA
+  1        ME   7903 RES     2  INDEP STDY IN ME       3.0  TBA
+  1        ME   7903 RES     3  INDEP STDY IN ME       3.0  TBA
+ 99        ME   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ACHARYA S
+ 99        ME   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      CHARALAMPOPOU
+ 98     1  ME   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      DE QUEIROZ M
+ 99        ME   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      DEVIREDDY R
+ 98     1  ME   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      GONTHIER K
+ 99        ME   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      GUO S
+ 99        ME   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      KHONSARI M
+ 99        ME   8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      LI G
+ 99        ME   8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      MENG W
+ 99        ME   8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      MOLDOVAN D
+ 99        ME   8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      MURPHY M
+ 98     1  ME   8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      NIKITOPOULOS
+ 99        ME   8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      PANG S
+ 98     1  ME   8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      PARK S
+ 99        ME   8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      RAM Y
+ 99        ME   8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      WAHAB M
+ 99        ME   8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      SINCLAIR G
+ 99        ME   8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      BARAN A
+ 99        ME   8000 RES    19  THESIS RESEARCH        1-12 TBA                                                      WANG W
+ 99        ME   8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      WOLDESENBET E
+ 99        ME   8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      WONG H
+ 99        ME   8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      WANG Y
+ 99        ME   8000 RES    23  THESIS RESEARCH        1-12 TBA                                                      MARTIN M
+ 98     1  ME   8000 RES    24  THESIS RESEARCH        1-12 TBA                                                      SCHOEGL I
+ 99        ME   8000 RES    25  THESIS RESEARCH        1-12 TBA                                                      GUO S
+ 99        ME   8000 RES    26  THESIS RESEARCH        1-12 TBA                                                      GARTIA M
+  1        ME   8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      MENG W
+ 99        ME   8000 RES    28  THESIS RESEARCH        1-12 TBA
+  1        ME   8000 RES    29  THESIS RESEARCH        1-12 TBA                                                      WAHAB M
+ 99        ME   9000 RES     1  DISSERTATION RES       1-12 TBA                                                      ACHARYA S
+ 98     1  ME   9000 RES     2  DISSERTATION RES       1-12 TBA                                                      CHARALAMPOPOU
+ 97     2  ME   9000 RES     3  DISSERTATION RES       1-12 TBA                                                      DE QUEIROZ M
+ 99        ME   9000 RES     4  DISSERTATION RES       1-12 TBA                                                      DEVIREDDY R
+ 99        ME   9000 RES     5  DISSERTATION RES       1-12 TBA                                                      GONTHIER K
+ 98     1  ME   9000 RES     6  DISSERTATION RES       1-12 TBA                                                      GUO S
+ 99        ME   9000 RES     7  DISSERTATION RES       1-12 TBA                                                      KHONSARI M
+ 98     1  ME   9000 RES     8  DISSERTATION RES       1-12 TBA                                                      LI G
+ 98     1  ME   9000 RES     9  DISSERTATION RES       1-12 TBA                                                      MENG W
+ 99        ME   9000 RES    10  DISSERTATION RES       1-12 TBA                                                      MOLDOVAN D
+ 99        ME   9000 RES    11  DISSERTATION RES       1-12 TBA                                                      MURPHY M
+ 98     1  ME   9000 RES    12  DISSERTATION RES       1-12 TBA                                                      NIKITOPOULOS
+ 99        ME   9000 RES    13  DISSERTATION RES       1-12 TBA                                                      PANG S
+ 99        ME   9000 RES    14  DISSERTATION RES       1-12 TBA                                                      PARK S
+ 99        ME   9000 RES    15  DISSERTATION RES       1-12 TBA                                                      WAGGENSPACK W
+ 98     1  ME   9000 RES    16  DISSERTATION RES       1-12 TBA                                                      WAHAB M
+ 99        ME   9000 RES    17  DISSERTATION RES       1-12 TBA                                                      SINCLAIR G
+ 98     1  ME   9000 RES    18  DISSERTATION RES       1-12 TBA                                                      BARAN A
+ 99        ME   9000 RES    19  DISSERTATION RES       1-12 TBA                                                      WANG W
+ 99        ME   9000 RES    20  DISSERTATION RES       1-12 TBA                                                      WOLDESENBET E
+ 99        ME   9000 RES    21  DISSERTATION RES       1-12 TBA                                                      WONG H
+ 98     1  ME   9000 RES    22  DISSERTATION RES       1-12 TBA                                                      WANG Y
+ 98     1  ME   9000 RES    23  DISSERTATION RES       1-12 TBA                                                      SCHOEGL I
+ 98     1  ME   9000 RES    24  DISSERTATION RES       1-12 TBA                                                      LU F
+ 99        ME   9000 RES    25  DISSERTATION RES       1-12 TBA                                                      DEVIREDDY R
+ 47    13  ME   2733         2  MATERIALS OF ENGR      3.0  0840-1000   MTWTF  1240 PATRICK TAYLOR                   MOLDOVAN D
+ 32    28  ME   3333         2  THERMODYNAMICS         3.0  1240-0210   MTWTF  0109 TUREAUD HALL                     DEVIREDDY R

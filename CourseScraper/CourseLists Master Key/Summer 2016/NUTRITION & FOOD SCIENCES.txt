@@ -1,0 +1,33 @@
+  4     1  NFS  3900 RES     1  QUALITY ASSURANCE      1-3  TBA                                     PERMIS OF DEPT   KING J
+ 17     1  NFS  3900 RES     2  NUTR & FDSC UG RES     1-3  TBA                                     PERMIS OF DEPT   MYHAND J
+(F)     1  NFS  7060         1  MOL SPECTROSCOPY       3.0  TBA
+ 98     1  NFS  8000 RES     1  THESIS RESEARCH        1-12 TBA
+ 99        NFS  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      AITA G
+ 98     1  NFS  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      FINLEY J
+ 97     2  NFS  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      JANES M
+ 98     1  NFS  8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      KEENAN M
+ 99        NFS  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      KING J
+ 97     2  NFS  8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      LAMMI-KEEFE C
+ 96     3  NFS  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      LOSSO J
+ 99        NFS  8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      O'NEIL C
+ 96     3  NFS  8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      PRINYAWIWATKU
+ 95     4  NFS  8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      SATHIVEL S
+ 98     1  NFS  8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      TUURI G
+ 99        NFS  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      WICKER L
+ 99        NFS  8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      XU W
+ 99        NFS  8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      XU Z
+ 98     1  NFS  9000 RES     1  DISSERTATION RES       1-12 TBA
+ 98     1  NFS  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      AITA G
+ 98     1  NFS  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      FINLEY J
+ 96     3  NFS  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      JANES M
+ 98     1  NFS  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      KEENAN M
+ 98     1  NFS  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      KING J
+ 97     2  NFS  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      LAMMI-KEEFE C
+ 96     3  NFS  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      LOSSO J
+ 98     1  NFS  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      O'NEIL C
+ 94     5  NFS  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      PRINYAWIWATKU
+ 97     2  NFS  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SATHIVEL S
+ 97     2  NFS  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      TUURI G
+ 98     1  NFS  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      WICKER L
+ 99        NFS  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      XU W
+ 99        NFS  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      XU Z

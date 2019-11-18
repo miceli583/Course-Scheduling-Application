@@ -1,0 +1,26 @@
+  1    59  REL  1000         1  RELIGIONS OF WORLD     3.0   730-0820   M W F  0212 COATES                           YADLAPATI M
+  1    34  REL  1000         2  RELIGIONS OF WORLD     3.0   830-0920   M W F  0212 COATES                           YADLAPATI M
+(F)    60  REL  1000         3  RELIGIONS OF WORLD     3.0   930-1020   M W F  0220 COATES                           REED M
+(F)    60  REL  1000         4  RELIGIONS OF WORLD     3.0  1030-1120   M W F  0220 COATES                           REED M
+(F)    60  REL  1000         5  RELIGIONS OF WORLD     3.0   130-0220   M W F  0220 COATES                           SMITH K
+  3    57  REL  1000         6  RELIGIONS OF WORLD     3.0   330-0420   M W F  0220 COATES                           SMITH K
+ 16    39  REL  1000         7  RELIGIONS OF WORLD     3.0   430-0520N  M W F  0220 COATES                           SMITH K
+ 18    37  REL  1004         1  OLD TESTAMENT          3.0   730-0850    T TH  0209 COATES                           IRVINE S
+ 16    29  REL  1004         3  OLD TESTAMENT          3.0   900-1020    T TH  0234 COATES                           ISBELL C
+  9    46  REL  1004         2  OLD TESTAMENT          3.0  1200-0120    T TH  0228 COATES                           ISBELL C
+  4    51  REL  1005         2  NEW TESTAMENT          3.0  1030-1120   M W F  0214 COATES                           BURKETT D
+  3    91  REL  1005         1  NEW TESTAMENT          3.0   900-1020    T TH  0105 TUREAUD HALL                     STORIN B
+  9    46  REL  2000         1  INT STUDY RELIGION     3.0  1230-0120   M W F  0109 TUREAUD HALL                     REED M
+ 10    45  REL  2000         2  INT STUDY RELIGION     3.0   130-0220   M W F  0109 TUREAUD HALL                     REED M
+ 11    44  REL  2027         1  ASIAN RELIGIONS        3.0   230-0320   M W F  0209 COATES                           ARAI P
+ 11    19  REL  2028         1  PHIL OF RELIGION       3.0   900-1020    T TH  0220 COATES                           COGBURN J
+ 15    40  REL  2029         1  JUDAISM/CHRIST/ISLAM   3.0  1230-0120   M W F  0209 COATES                           SMITH K
+ 11    44  REL  2029         2  JUDAISM/CHRIST/ISLAM   3.0   900-1020    T TH  0102 TUREAUD HALL                     RETHELYI M
+ 25    30  REL  2033         1  AMERICAN RELIGIONS     3.0   300-0420    T TH  0209 COATES                           PASQUIER M
+  8     7  REL  3090         1  COMPARTIVE MYTHOL      3.0   300-0420    T TH  0203 WOODIN HALL                      WATANABE A
+ 17    13  REL  3100         1  JUDAISM                3.0  1200-0120    T TH  0206 WILLIAMS                         RETHELYI M
+  7     8  REL  3786         1  REL OF ISLAM           3.0  1200-0120    T TH  0232 LOCKETT                          WAGNER M
+ 12    18  REL  4018         1  RELIGION & HEALING     3.0   430-0720N    W    0234 COATES                           ARAI P
+ 11     9  REL  4191         1  RELIGNS CHINA/JAPAN    3.0   930-1020   M W F  0103 COATES                           HENDERSON J
+  6     9  REL  4505         1  RISE OF CHRISTIANITY   3.0  1030-1150    T TH  0127 TUREAUD HALL                     STORIN B
+(F)     1  REL  4990 RES    10  RELIGION & HEALING     1-3  TBA                                     PERMIS OF DEPT   ARAI P

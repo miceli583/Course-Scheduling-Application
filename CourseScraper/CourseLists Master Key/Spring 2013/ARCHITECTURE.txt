@@ -1,0 +1,45 @@
+(F)    16  ARCH 1002 LAB     1  ARCH DESIGN II         6.0  1230-0420   M W F  0103 DESIGN BUILDING                  SOFRANKO T
+(F)    21  ARCH 1002 LAB     2  ARCH DESIGN II         6.0  1230-0420   M W F                                        PITTS J
+  1    19  ARCH 1002 LAB     3  ARCH DESIGN II         6.0  1230-0420   M W F                                        DAMICO R
+  9     1  ARCH 1102 LAB     1  HNRS ARCH DESN II      6.0  1230-0420   M W F                                        SOFRANKO T
+  2        ARCH 1102 LAB     2  HNRS ARCH DESN II      6.0  1230-0420   M W F                                        PITTS J
+  1     1  ARCH 1102 LAB     3  HNRS ARCH DESN II      6.0  1230-0420   M W F                                        DAMICO R
+  6    14  ARCH 2002 LAB     1  ARCH DESIGN IV         6.0  1230-0420   M W F                       CI-SPOKEN&VISUA  WATSON G
+  7    13  ARCH 2002 LAB     2  ARCH DESIGN IV         6.0  1230-0420   M W F                       CI-SPOKEN&VISUA  GUESS A
+  6    14  ARCH 2002 LAB     3  ARCH DESIGN IV         6.0  1230-0420   M W F                       CI-SPOKEN&VISUA  KELSCH K
+ 12    41  ARCH 2006         2  ARCH TOPICS IV         3.0   130-0250    T TH  0015 ATKINSON                         GUESS A
+ 10        ARCH 2102 LAB     1  HNRS ARCH DESN IV      6.0  1230-0420   M W F                                        WATSON G
+(F)   156  ARCH 2401         1  APPRECIATION OF ARCH   3.0  1200-0120    T TH  0103 DESIGN BUILDING                  DAMICO R
+(F)    14  ARCH 3002 LAB     1  ARCH DESN VI           6.0  1230-0420   M W F                       CI-WRITTEN&SPOK  DORAN W
+  1    14  ARCH 3002 LAB     2  ARCH DESN VI           6.0  1230-0420   M W F                       CI-WRITTEN&SPOK  CARPENTER K
+ 10    45  ARCH 3004         1  ARCH STRUCT II         3.0   130-0250    T TH  0313 DESIGN BUILDING                  SHIH J
+ 68    72  ARCH 3006         1  HIST OF ARCH II        3.0   830-0920   M W F  0103 DESIGN BUILDING                  DESMOND J
+  1    34  ARCH 3008         1  ENVIRON CONTROL SYST   3.0  1200-0120    T TH  0313 DESIGN BUILDING                  PITTS J
+  1    11  ARCH 3008         2  ENVIRON CONTROL SYST   3.0  1200-0120    T TH                       CI-WRITTEN&TECH  SATTLER M
+  1     4  ARCH 3102 LAB     1  HNRS ARCH DESIGN VI    6.0  1230-0420   M W F                                        DORAN W
+  9     6  ARCH 4002 LAB     1  ARCH DESIGN VIII       6.0  1230-0420   M W F                                        DESMOND J
+  7     8  ARCH 4002 LAB     2  ARCH DESIGN VIII       6.0  1230-0420   M W F                                        ZWIRN R
+  6    24  ARCH 4007         1  HIST OF ARCH III       3.0   600-0850N     TH  0313 DESIGN BUILDING                  DAMICO R
+  1    11  ARCH 4032 SEM     1  ADV ARCH TECHNOLOGY    3.0  1030-1150    T TH  0015 ATKINSON                         SHIH J
+  3     9  ARCH 4051 SEM     1  ADV 20TH C ARCH HIST   3.0  1030-1120   M W F                                        ZWIRN R
+  6     4  ARCH 4102 LAB     1  HNRS ARCH DESN VIII    6.0  1230-0420   M W F                                        DESMOND J
+  1        ARCH 4102 LAB     2  HNRS ARCH DESN VIII    6.0  1230-0420   M W F                                        ZWIRN R
+  8     7  ARCH 4202 LAB     1  ARCH DESIGN VIII OC    6.0  TBA                                                      ERDMAN J
+  9     3  ARCH 4221 SEM     4  SEL TOP IN ARCHITECT   1-3   300-0420    T TH                                        WATSON G
+(F)     7  ARCH 4221 SEM     1  SEL TOP IN ARCHITECT   1-3  TBA                                                      ERDMAN J
+(F)     7  ARCH 4221 SEM     2  SEL TOP IN ARCHITECT   1-3  TBA                                                      ERDMAN J
+(F)     7  ARCH 4221 SEM     3  SEL TOP IN ARCHITECT   1-3  TBA                                                      ERDMAN J
+(F)     9  ARCH 4700 RES     3  RESEARCH METHODS       3.0   600-0850N  M                           CI-WRITTEN&SPOK  KELSCH K
+  2    10  ARCH 4700 RES     1  RESEARCH METHODS       3.0   900-1020    T TH  0308 DESIGN BUILDING                  CARNEY J
+(F)    12  ARCH 4993         1  ADV COMP AID ARCH GR   3.0   600-0850N   T                                           MELENDEZ F
+(F)    19  ARCH 5001 LAB     1  COMP ARCH DESIGN       6.0  1230-0420   M W F                                        SULLIVAN J
+(F)    18  ARCH 5001 LAB     2  COMP ARCH DESIGN       6.0  1230-0420   M W F                                        BERTOLINI C
+(F)    36  ARCH 5005         1  ADV ARCH TECHNIQUES    3.0  1030-1120   M W F  0313 DESIGN BUILDING                  NICHOLSON G
+  3     9  ARCH 5005         2  ADV ARCH TECHNIQUES    3.0  1030-1120   M W F                                        EMERY MCCLURE
+  8    42  ARCH 5006         1  PROFESSIONAL PRACTIC   3.0   600-0850N  M      0201 DESIGN BUILDING
+  7     8  ARCH 7002 LAB     1  GRAD DESN STUDIO II    6.0  1230-0420   M W F                                        MELENDEZ F
+  5    10  ARCH 7004 LAB     1  GRAD DESN STUDIO IV    6.0  1230-0420   M W F                                        SATTLER M
+  6     9  ARCH 7006 LAB     1  GRAD DESN STUDIO VI    6.0  1230-0420   M W F                                        EMERY MCCLURE
+  1        ARCH 7900 RES     1  ARCH STUDIES/RESEAR    3.0  TBA
+ 24     1  ARCH 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BERTOLINI C
+ 12        ARCH 4440         2  VERN ARCH & MAT CULT   3.0   600-0850N    W    0245 HOWE RUSSELL E                   EDWARDS J

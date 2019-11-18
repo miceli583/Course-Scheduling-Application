@@ -1,0 +1,17 @@
+(F)    25  SW   7001         1  HUM BEH/SOC ENV I      3.0  TBA                                     MAJORS ONLY      KIM Y
+(F)    32  SW   7001         2  HUM BEH/SOC ENV I      3.0  TBA                                     MAJORS ONLY      CONRAD B
+ 12    13  SW   7001         3  HUM BEH/SOC ENV I      3.0  TBA                                     MAJORS ONLY      BAILEY J
+ 19     6  SW   7001         4  HUM BEH/SOC ENV I      3.0  TBA                                     MAJORS ONLY      NORWOOD R
+  8    32  SW   7002         1  HUM BEH/SOC ENV II     3.0  TBA                                     MAJORS ONLY      BAILEY J
+(F)    40  SW   7004         1  HUM DIVERS & OPPRESS   3.0  TBA                                     MAJORS ONLY      CONRAD B
+(F)    40  SW   7004         2  HUM DIVERS & OPPRESS   3.0  TBA                                     MAJORS ONLY      BAILEY J
+  1    39  SW   7004         3  HUM DIVERS & OPPRESS   3.0  TBA                                     100% WEB BASED   DINECOLA C
+ 18    22  SW   7004         4  HUM DIVERS & OPPRESS   3.0  TBA                                     MAJORS ONLY      DINECOLA C
+ 17    68  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 52    33  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY      LILLEY T
+  1    49  SW   7404         1  SW PRACT IN SCHOOLS    3.0  TBA                                     MAJORS ONLY      CONRAD B
+ 18    32  SW   7415         1  CHILD/FAMILY I         3.0  TBA                                     MAJORS ONLY      NORWOOD R
+ 57    42  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 91     8  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      LILLEY T
+(F)    49  SW   7505         1  ADV DIRECT PRACTICE    3.0  TBA                                     100% WEB BASED   MCILWAIN L
+ 27    23  SW   7505         2  ADV DIRECT PRACTICE    3.0  TBA                                     LSU ONLINE       MCILWAIN L

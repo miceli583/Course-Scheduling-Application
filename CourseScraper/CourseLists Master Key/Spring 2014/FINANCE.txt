@@ -1,0 +1,76 @@
+  2    17  FIN  1060         2  PERSONAL MONEY MGT     1.0   930-1020       F  0169 RES COLL ONE W  PERMIS OF INST   SLAWSON V
+ 21   104  FIN  1060         1  PERSONAL MONEY MGT     1.0  TBA                                     100% WEB BASED   LAWRENCE F
+  2    56  FIN  2060         1  SURVEY OF INVESTING    1.0  1030-1120     W    1615 BEC N UNDERGRAD                  KIRBY M
+(F)    35  FIN  3060         1  FINANCIAL PLANNING     3.0  1030-1150    T TH  2228 PATRICK TAYLOR  CI-WRITTEN&SPOK  WOOSLEY R
+(F)    55  FIN  3351         2  PRINC REAL ESTATE      3.0   900-1020    T TH  1800 BEC N UNDERGRAD                  ANDREWS B
+  2    46  FIN  3351         1  PRINC REAL ESTATE      3.0   600-0850N   T     1735 BEC N UNDERGRAD                  COLEMAN M
+  3    37  FIN  3353         1  REAL ESTATE FINANCE    3.0  1030-1150    T TH  1800 BEC N UNDERGRAD                  ANDREWS B
+  3    57  FIN  3440         2  RISK AND INSURANCE     3.0   630-0920N   T     1800 BEC N UNDERGRAD                  BOYD J
+(F)    59  FIN  3440         1  RISK AND INSURANCE     3.0   630-0920N    W    1800 BEC N UNDERGRAD                  BOYD J
+(F)    22  FIN  3632         1  BANK ADMINISTRATION    3.0   130-0250    T TH  1425 BEC S GRAD PAVI PERMIS OF INST   ANDREWS B
+  2    38  FIN  3632         3  BANK ADMINISTRATION    3.0   300-0420    T TH  1425 BEC S GRAD PAVI                  ANDREWS B
+  2     8  FIN  3636         1  FIN MARKETS & INSTIT   3.0   830-0920   M W F  1720 BEC N UNDERGRAD                  WANG H
+  6    54  FIN  3715         4  BUSINESS FINANCE       3.0   930-1020   M W F  1700 BEC N UNDERGRAD                  KAYHAN A
+ 17   113  FIN  3715         7  BUSINESS FINANCE       3.0   130-0250   M W    1510 BEC WEST AUDITO                  HE S
+  1    59  FIN  3715         2  BUSINESS FINANCE       3.0   130-0250    T TH  1620 BEC N UNDERGRAD                  SONG W
+(F)    43  FIN  3715         3  BUSINESS FINANCE       3.0   300-0420    T TH  1745 BEC N UNDERGRAD                  MCCOLLUM M
+(F)    55  FIN  3715         5  BUSINESS FINANCE       3.0   600-0850N    W    1700 BEC N UNDERGRAD                  STAMBAUGH M
+(F)   116  FIN  3716         6  FINANCIAL MANAGEMENT   3.0   830-0920   M W F  1620 BEC N UNDERGRAD                  UTETE G
+  4    54  FIN  3716         2  FINANCIAL MANAGEMENT   3.0  1230-0120   M W    1510 BEC WEST AUDITO                  JIA Z
+  3    53  FIN  3716         3  FINANCIAL MANAGEMENT   3.0  1230-0120   M W    1510 BEC WEST AUDITO                  YANG Y
+  2    55  FIN  3716         4  FINANCIAL MANAGEMENT   3.0  1230-0120   M W    1510 BEC WEST AUDITO                  RAFI N
+  1    54  FIN  3716         5  FINANCIAL MANAGEMENT   3.0  1230-0120   M W    1510 BEC WEST AUDITO                  WU W
+ 16    24  FIN  3716         9  FINANCIAL MANAGEMENT   3.0   300-0420   M W    1305 BEC S GRAD PAVI                  LEE H
+(F)    35  FIN  3716         8  FINANCIAL MANAGEMENT   3.0   900-1020    T TH  1220 BEC S GRAD PAVI CI-WRITTEN&SPOK  KILBOURNE L
+  1    39  FIN  3716        10  FINANCIAL MANAGEMENT   3.0   130-0250    T TH  1745 BEC N UNDERGRAD                  MORALES W
+(F)    25  FIN  3716         7  FINANCIAL MANAGEMENT   3.0   330-0620     W    1125 BEC S GRAD PAVI PERMIS OF DEPT   SANDERS L
+(F)    28  FIN  3717         3  ADV CORPORATE FIN      3.0   930-1020   M W F  1720 BEC N UNDERGRAD                  STEPHENS C
+  1    14  FIN  3717         4  ADV CORPORATE FIN      3.0   900-1020    T TH  1409 BEC S GRAD PAVI                  HE S
+(F)    15  FIN  3717         1  ADV CORPORATE FIN      3.0   300-0420    T TH  1305 BEC S GRAD PAVI                  KIRBY M
+  1    26  FIN  3718         1  MULTINAT MANAGER FIN   3.0   930-1020   M W F  1735 BEC N UNDERGRAD                  UTETE G
+(F)    28  FIN  3826         3  INVESTMENTS            3.0   300-0420   M W    1325 BEC S GRAD PAVI                  MO H
+  1    30  FIN  3826         2  INVESTMENTS            3.0   900-1020    T TH  1720 BEC N UNDERGRAD                  MORALES W
+  4    25  FIN  3826         1  INVESTMENTS            3.0   430-0550N   T TH  1720 BEC N UNDERGRAD                  MORALES W
+  6     9  FIN  3845         1  STU MGD INVEST FUND    3.0   130-0250   M W    1900 BEC N UNDERGRAD CI-SPOKEN&TECH   O'CONNOR L
+(F)     1  FIN  3900 RES     2  DIRECT STUDY & RESCH   1-6   900-1020   M W    2505 BEC WEST AUDITO                  KIRBY M
+(F)     2  FIN  3900 RES     1  DIRECT STUDY & RESCH   1-6  1200-0250    T     1900 BEC N UNDERGRAD                  SANGER G
+(F)     4  FIN  3900 RES     4  DIRECT STUDY & RESCH   1-6  TBA                                                      SLAWSON V
+  2     3  FIN  3910         1  TOP IN FINANCE         1-3   130-0250    T TH  1118 PATRICK TAYLOR                   KIRBY M
+(F)     3  FIN  3930 CLI     1  FINANCE INTERNSHIP     3.0  TBA                                                      SLAWSON V
+(F)     1  FIN  3930 CLI     2  FINANCE INTERNSHIP     3.0  TBA                                     PERMIS OF DEPT   SANGER G
+(F)     1  FIN  3930 CLI     3  FINANCE INTERNSHIP     3.0  TBA                                     PERMIS OF DEPT   KILBOURNE L
+(F)    41  FIN  4060         1  SURVEY OF INVESTING    1.0   130-0220     W    1325 BEC S GRAD PAVI                  KILBOURNE L
+(F)    25  FIN  4071         2  RETIRE EMPLOY BEN      3.0   900-1020    T TH  3129 PATRICK TAYLOR  PERMIS OF INST   WOOSLEY R
+  4    11  FIN  4079         1  FIN PLAN CAPSTONE      3.0  1230-0120   M W F  1745 BEC N UNDERGRAD PERMIS OF INST   FRY M
+  5    17  FIN  4828         1  SEC ANLYS & PORT MGT   3.0   430-0550N  M W    1835 BEC N UNDERGRAD                  COLEMAN M
+(F)    40  FIN  4830         1  ANLY CORP FIN STATMT   3.0   300-0550    T     1920 BEC N UNDERGRAD                  NARAYANAN R
+(F)    44  FIN  4830         2  ANLY CORP FIN STATMT   3.0   300-0550     W    1920 BEC N UNDERGRAD                  NARAYANAN R
+(F)    26  FIN  7310         1  REAL EST FIN DECISNS   3.0   600-0850N     TH  1325 BEC S GRAD PAVI                  PACE R
+  3    12  FIN  7400         1  FIN RISK MANAGEMENT    3.0   300-0420   M W    1409 BEC S GRAD PAVI                  CHANCE D
+  7     3  FIN  7550         1  THEORY OF FINANCE      3.0  1030-1150    T TH  1409 BEC S GRAD PAVI                  SANGER G
+  5     5  FIN  7718         2  MULTINATNL FIN MGT     3.0   900-1150     W    1409 BEC S GRAD PAVI                  HE S
+  2    14  FIN  7719         1  ADV FINANCIAL MGT      3.0   600-0850N  M      1325 BEC S GRAD PAVI                  STEPHENS C
+(F)     6  FIN  7720         1  TOPICS IN BUS FIN      3.0  1200-0250    T     1900 BEC N UNDERGRAD                  SANGER G
+  5     7  FIN  7740         1  VENT CPTL & INV BNK    3.0   130-0250    T TH  1118 PATRICK TAYLOR                   KIRBY M
+  1     9  FIN  7750 SEM     2  SEM IN CORPORATE FIN   3.0   900-1150     W    2500 BEC WEST AUDITO                  NARAYANAN R
+  2    12  FIN  7826         2  INV ANAL PORTFOL THY   3.0   300-0550      TH  1409 BEC S GRAD PAVI                  LIN J
+  5     5  FIN  7845         1  STU MGD INVEST FUND    3.0   130-0250   M W    1900 BEC N UNDERGRAD PERMIS OF INST   O'CONNOR L
+(F)     6  FIN  7900 RES     5  IND STUDY IN FIN       3.0   900-1020   M W    1120 BEC S GRAD PAVI                  KIRBY M
+(F)     5  FIN  7900 RES     2  IND STUDY IN FIN       3.0  1200-0250      TH  1409 BEC S GRAD PAVI PERMIS OF INST   FARGASON J
+(F)     4  FIN  7900 RES     1  IND STUDY IN FIN       3.0  TBA                                                      LAWRENCE F
+(F)     1  FIN  7900 RES     4  IND STUDY IN FIN       3.0  TBA                                                      SLAWSON V
+(F)     1  FIN  7900 RES     6  IND STUDY IN FIN       3.0  TBA                                                      LAWRENCE F
+(F)     1  FIN  7900 RES     7  IND STUDY IN FIN       3.0  TBA                                                      KILBOURNE L
+(F)     1  FIN  7930 CLI     1  FINANCE INTERNSHIP     3.0  TBA                                                      SONG W
+(F)     1  FIN  7930 CLI     2  FINANCE INTERNSHIP     3.0  TBA                                     PERMIS OF DEPT   LAWRENCE F
+(F)     1  FIN  7930 CLI     3  FINANCE INTERNSHIP     3.0  TBA                                     PERMIS OF DEPT   MASON J
+  1     9  FIN  7950 SEM     1  SEMINAR IN RESEARCH    1.0  1030-1220       F  1305 BEC S GRAD PAVI                  MO H
+(F)     1  FIN  8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      LIN J
+(F)     2  FIN  8900 RES     2  PREDISSERT RESEARCH    1-9  TBA                                                      PACE R
+(F)     2  FIN  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      LIN J
+(F)     1  FIN  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      MASON J
+(F)     1  FIN  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      SONG W
+(F)     1  FIN  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      NARAYANAN R
+(F)     1  FIN  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      CHANCE D
+(F)     1  FIN  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      HE S
+(F)     1  FIN  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      STEPHENS C

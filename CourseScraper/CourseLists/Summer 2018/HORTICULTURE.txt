@@ -1,0 +1,12 @@
+ 25    10  HORT 2050         1  GEN HORTICULTURE       3.0  0900-1030   MTWTF  0119 J C MILLER                       MIRABELLO R
+(F)     1  HORT 3000 CLI     1  HORTICULTURAL INTERN   3.0  TBA                                                      BUSH E
+ 20        HORT 3010 RES     2  RESEARCH PROBLEMS      3.0  TBA
+ 16     4  HORT 4012         1  PLANT BIOCHEM & MOLE   1-3  TBA                                                      KUEHNY J
+ 99        HORT 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BUSH E
+ 99        HORT 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      KUEHNY J
+ 98     1  HORT 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BEASLEY J
+ 98     1  HORT 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      MOTSENBOCKER
+ 20        HORT 8900 RES     1  RESCH PROB IN HORT     3.0  TBA                                                      LABONTE D
+ 99        HORT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BEASLEY J
+ 98     1  HORT 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      LABONTE D
+  1     1  HORT 3010 RES     1  RESEARCH PROBLEMS      3.0  TBA                                                      BUSH E

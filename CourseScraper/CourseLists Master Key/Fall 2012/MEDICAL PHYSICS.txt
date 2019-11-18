@@ -1,0 +1,15 @@
+  5    13  MEDP 4331         1  RAD PROT & EXPOS EVA   3.0  1030-1120   M W F  0118 NUCLEAR SCIENCE                  WANG W
+  3    12  MEDP 4351         1  RAD DET & INSTRUM      2.0   930-1020   M W                                          SHIKHALIEV P
+  1     7  MEDP 4352 LAB     1  RAD DETECTION LAB      1.0  1130-0220     W    0004 NICHOLSON                        SHIKHALIEV P
+  4     4  MEDP 4352 LAB     2  RAD DETECTION LAB      1.0   230-0520       F  0004 NICHOLSON                        SHIKHALIEV P
+  4     6  MEDP 7111         1  ADV MED IMAGING PHYS   3.0  1130-1250   M W                                          MATTHEWS K
+  3     7  MEDP 7260 CLI     1  RAD THPY PHYS ROTATI   3.0  TBA                                                      GIBBONS J
+  3     7  MEDP 7270         1  ADV RAD THER PHYSICS   3.0  1130-1250    T TH                                        GIBBONS J
+  7     8  MEDP 7537         1  RAD INTERACT/TRNSPRT   3.0   330-0450   M W    0106 NICHOLSON                        NEWHAUSER W
+  3    14  MEDP 7995 SEM     1  SEMINAR                1.0  1230-0120       F                                        NEWHAUSER W
+  8     2  MEDP 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      FONTENOT J
+  9     1  MEDP 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      GIBBONS J
+  8     2  MEDP 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      HOGSTROM K
+  9     1  MEDP 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      MATTHEWS K
+  7     3  MEDP 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      NEWHAUSER W
+  9     1  MEDP 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      SHIKHALIEV P

@@ -1,0 +1,58 @@
+(F)    63  PETE 1010         1  INTR TO PETR ENGR      2.0   230-0320   M W    2427 PATRICK TAYLOR                   THURBER F
+  2    58  PETE 1010         2  INTR TO PETR ENGR      2.0   330-0420   M W    2427 PATRICK TAYLOR                   THURBER F
+(F)    60  PETE 1010         3  INTR TO PETR ENGR      2.0   300-0350    T TH  2427 PATRICK TAYLOR                   THURBER F
+(F)    92  PETE 2031         1  RESERVOIR ROCK PROP    3.0   900-1020    T TH  0105 TUREAUD HALL                     LANGLINAIS J
+(F)   115  PETE 2032         1  RESERVOIR FLUID PROP   3.0  1200-0120    T TH  E130 HOWE RUSSELL E                   RAO D
+(F)    45  PETE 2060         1  COMP MTHDS PETE        2.0   300-0350    T     1119 PATRICK TAYLOR                   THOMPSON K
+(F)    48  PETE 2060         2  COMP MTHDS PETE        2.0   300-0350    T     1119 PATRICK TAYLOR                   THOMPSON K
+  2    45  PETE 2060         4  COMP MTHDS PETE        2.0   300-0350    T     1119 PATRICK TAYLOR                   THOMPSON K
+(F)    10  PETE 2060         5  COMP MTHDS PETE        2.0   300-0350    T                                           THOMPSON K
+(F)   168  PETE 3025         1  ECON ASPECTS PET PRO   3.0   130-0250    T TH  1109 PATRICK TAYLOR                   KAISER M
+ 10   175  PETE 3036         1  WELL LOGGING           3.0   330-0450   M W    0130 HOWE RUSSELL E                   DAHI TALEGHAN
+(F)    31  PETE 3037 LAB     1  PETE FIELD OPERATNS    1.0   230-0320   M      1109 PATRICK TAYLOR                   WALTRICH P
+  2    26  PETE 3037 LAB     2  PETE FIELD OPERATNS    1.0   230-0320   M      1109 PATRICK TAYLOR                   WALTRICH P
+(F)    29  PETE 3037 LAB     3  PETE FIELD OPERATNS    1.0   230-0320   M      1109 PATRICK TAYLOR                   WALTRICH P
+(F)    29  PETE 3037 LAB     4  PETE FIELD OPERATNS    1.0   230-0320   M      1109 PATRICK TAYLOR                   WALTRICH P
+(F)     1  PETE 3990 RES     1  INDEPENDENT RESEARCH   1-2  TBA                                                      HUGHES R
+(F)    60  PETE 4045         1  DRILLING ENGINEERING   3.0  1130-1220   M W F  2427 PATRICK TAYLOR                   SMITH J
+(F)    60  PETE 4045         2  DRILLING ENGINEERING   3.0   130-0220   M W F  2427 PATRICK TAYLOR                   SMITH J
+(F)    60  PETE 4051         1  RESERV EST/RESERVOIR   3.0  1130-1220   M W F  2142 PATRICK TAYLOR                   HUGHES R
+(F)    54  PETE 4051         2  RESERV EST/RESERVOIR   3.0   130-0220   M W F  2162 PATRICK TAYLOR                   HUGHES R
+  1    21  PETE 4059 LAB     6  DRILLING FLUIDS LAB    1.0   600-0650N    W    1119 PATRICK TAYLOR                   WOJTANOWICZ A
+(F)    22  PETE 4059 LAB     7  DRILLING FLUIDS LAB    1.0   600-0650N    W    1119 PATRICK TAYLOR                   WOJTANOWICZ A
+  1    21  PETE 4059 LAB     8  DRILLING FLUIDS LAB    1.0   600-0650N    W    1119 PATRICK TAYLOR                   WOJTANOWICZ A
+(F)    22  PETE 4059 LAB     9  DRILLING FLUIDS LAB    1.0   600-0650N    W    1119 PATRICK TAYLOR                   WOJTANOWICZ A
+  1    21  PETE 4059 LAB    10  DRILLING FLUIDS LAB    1.0   600-0650N    W    1119 PATRICK TAYLOR                   WOJTANOWICZ A
+ 44    26  PETE 4089         2  NATURAL GAS ENGINEER   3.0   430-0550N  M W    2427 PATRICK TAYLOR                   HUGHES R
+ 30    30  PETE 4241         2  SP TOP PETR ENGR DES   3.0  1200-0120    T TH  2427 PATRICK TAYLOR                   KAM S
+ 69    51  PETE 4998 RES     1  SENIOR PROJECT I       1.0   230-0420     W    1119 PATRICK TAYLOR  CI-WRITTEN       SEARS S
+  3    49  PETE 4998 RES     2  SENIOR PROJECT I       1.0   230-0420     W    2142 PATRICK TAYLOR  CI-WRITTEN       RADONJIC M
+  8    12  PETE 7241         1  SEL TOP IN ADV PETE    3.0   130-0250    T TH  2427 PATRICK TAYLOR                   RADONJIC M
+(F)     2  PETE 7256 RES     1  SPEC PROB PETR ENGR    1-6  TBA                                                      TYAGI M
+  5    10  PETE 7256 RES     2  SPEC PROB PETR ENGR    1-6  TBA                                                      SEARS S
+(F)     1  PETE 7256 RES     3  SPEC PROB PETR ENGR    1-6  TBA                                                      WALTRICH P
+(F)     2  PETE 7256 RES     4  SPEC PROB PETR ENGR    1-6  TBA                                                      HUGHES R
+(F)     1  PETE 7256 RES     5  SPEC PROB PETR ENGR    1-6  TBA                                                      THOMPSON K
+ 14     1  PETE 7256 RES     6  SPEC PROB PETR ENGR    1-6  TBA                                                      RADONJIC M
+ 30    10  PETE 7280         1  MATH SIM PET RES PER   3.0   900-1020    T TH  2427 PATRICK TAYLOR                   TYAGI M
+ 11    58  PETE 7999 SEM     1  SEMINAR                1.0   300-0420       F  1119 PATRICK TAYLOR                   WALTRICH P
+ 97     2  PETE 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HUGHES R
+ 97     2  PETE 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      RADONJIC M
+ 98     1  PETE 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      RAO D
+ 96     3  PETE 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      WOJTANOWICZ A
+ 97     2  PETE 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      TYAGI M
+ 98     1  PETE 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      KAM S
+(F)     1  PETE 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      WOJTANOWICZ A
+ 96     3  PETE 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      DAHI TALEGHAN
+ 98     1  PETE 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      THOMPSON K
+(F)     1  PETE 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      WALTRICH P
+ 96     3  PETE 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      WOJTANOWICZ A
+ 97     2  PETE 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      RADONJIC M
+ 96     3  PETE 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      RAO D
+ 96     3  PETE 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      KAM S
+ 92     7  PETE 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      WHITE C
+ 97     2  PETE 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      TYAGI M
+ 98     1  PETE 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      HUGHES R
+ 94     5  PETE 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      DAHI TALEGHAN
+ 98     1  PETE 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      THOMPSON K
+ 98     1  PETE 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      WALTRICH P

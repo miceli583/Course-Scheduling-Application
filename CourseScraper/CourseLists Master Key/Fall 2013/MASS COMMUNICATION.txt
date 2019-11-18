@@ -1,0 +1,108 @@
+144   756  MC   2000         1  INTR TO MASS MEDIA     3.0   900-1020    T TH  0101 GYM AUDITORIUM                   FREEMAN C
+(F)    30  MC   2001         1  HON INTRO MASS MEDIA   3.0   900-1020    T TH  0135 JOURNALISM                       DEFLEUR M
+(F)    18  MC   2005         1  INTRO TO JOURNALISM    3.0   830-1020   M      B011 HODGES HALL     CI-WRITTEN&VISU  DILL R
+(F)    19  MC   2005         2  INTRO TO JOURNALISM    3.0  1230-0220   M      0107 JOURNALISM      MAJORS ONLY      HENDERSON K
+(F)    19  MC   2005         3  INTRO TO JOURNALISM    3.0  1030-1220    T     B011 HODGES HALL     CI-WRITTEN&VISU  ODELL T
+  2    16  MC   2005         4  INTRO TO JOURNALISM    3.0   200-0350    T     0100 JOURNALISM      CI-WRITTEN&VISU  DILL R
+(F)    20  MC   2010         1  MEDIA WRITING          3.0   830-1020   M      0145 RES COLL ONE S                   SHELLEDY J
+(F)    18  MC   2010         2  MEDIA WRITING          3.0   830-1020   M      0100 JOURNALISM      MAJORS ONLY      ANDERSON R
+(F)    20  MC   2010         3  MEDIA WRITING          3.0  1030-1220   M      0145 RES COLL ONE S  CI-WRITTEN&SPOK  DILL R
+  1    17  MC   2010         6  MEDIA WRITING          3.0  1030-1220   M      B011 HODGES HALL     MAJORS ONLY      ANDERSON R
+  1    15  MC   2010         4  MEDIA WRITING          3.0  1230-0220   M      0100 JOURNALISM      MAJORS ONLY      GAMREKLIDZE E
+(F)    19  MC   2010         5  MEDIA WRITING          3.0   230-0420   M      0145 RES COLL ONE S                   DILL R
+(F)    18  MC   2010         7  MEDIA WRITING          3.0   800-0950    T     0100 JOURNALISM      MAJORS ONLY      BONGIORNI S
+(F)    18  MC   2010         8  MEDIA WRITING          3.0  1200-0150    T     0111 JOURNALISM      MAJORS ONLY      PADGETT J
+  1    17  MC   2010         9  MEDIA WRITING          3.0   430-0620N   T     0107 JOURNALISM      MAJORS ONLY      ROWLEY K
+  1    17  MC   2011         1  HNRS: MEDIA WRITING    3.0   200-0350    T     0111 JOURNALISM      MAJORS ONLY      SHELLEDY J
+(F)    20  MC   2015 LAB     1  VISUAL COMMUNICATION   3.0   830-1020   M      0111 JOURNALISM      MAJORS ONLY      ODELL T
+(F)    20  MC   2015 LAB    10  VISUAL COMMUNICATION   3.0   830-1020   M      0107 JOURNALISM      MAJORS ONLY      ALTINAY Z
+(F)    19  MC   2015 LAB     2  VISUAL COMMUNICATION   3.0  1030-1220   M      0107 JOURNALISM      MAJORS ONLY      DAHMEN N
+  1    19  MC   2015 LAB     3  VISUAL COMMUNICATION   3.0  1030-1220   M      0100 JOURNALISM      MAJORS ONLY      GRIMM J
+  5    14  MC   2015 LAB     4  VISUAL COMMUNICATION   3.0   430-0620N  M      0100 JOURNALISM      MAJORS ONLY      GOODWIN A
+(F)    19  MC   2015 LAB     5  VISUAL COMMUNICATION   3.0   800-0950    T     0111 JOURNALISM      MAJORS ONLY      COOK A
+  1    18  MC   2015 LAB     6  VISUAL COMMUNICATION   3.0   800-0950    T     B011 HODGES HALL     MAJORS ONLY      PINGREE R
+(F)    20  MC   2015 LAB     7  VISUAL COMMUNICATION   3.0  1230-0220    T     0107 JOURNALISM      MAJORS ONLY      ODELL T
+  1    18  MC   2015 LAB     8  VISUAL COMMUNICATION   3.0   230-0420    T     0107 JOURNALISM      MAJORS ONLY      COOK A
+(F)    19  MC   2015 LAB     9  VISUAL COMMUNICATION   3.0   400-0550    T     0100 JOURNALISM      MAJORS ONLY      FERRANTE J
+  4    14  MC   2016 LAB     1  HON VISUAL COMM        3.0  1000-1150    T     0111 JOURNALISM      MAJORS ONLY      PINGREE R
+ 48   152  MC   2035         1  DIGITAL BRANDS         3.0   130-0250    T TH  0005 LOCKETT         MAJORS ONLY      PORTER L
+ 10    65  MC   2040         1  ADVERTIS INDST SOC     3.0   300-0420    T TH  0152 COATES                           RITTER M
+  5     7  MC   3002         1  FEATURE WRITING        3.0  1000-1050    T     0225 HODGES HALL     MAJORS ONLY      SHELLEDY J
+  5    25  MC   3005         1  IN DEPTH REPORTING     3.0   930-1020   M W F  0135 JOURNALISM      MAJORS ONLY      GRIMM J
+ 16    84  MC   3010         1  INTRO TO PR            3.0   130-0250    T TH  0139 ALLEN           MAJORS ONLY      LUNDY L
+  1    39  MC   3020         2  PR RESEARCH            3.0   930-1020   M W F  0236 HODGES HALL     MAJORS ONLY      MOORE-COPPLE
+ 19    21  MC   3020         1  PR RESEARCH            3.0   130-0250    T TH  0236 HODGES HALL     MAJORS ONLY      SANDERS M
+(F)    18  MC   3031         2  DIGITAL ADV STRAT      3.0   430-0620N  M      0111 JOURNALISM      MAJORS ONLY      TERRITO H
+(F)    18  MC   3031         1  DIGITAL ADV STRAT      3.0   800-0950    T     0107 JOURNALISM      MAJORS ONLY      GOODWIN A
+  8    22  MC   3035         1  QUANT AUD ANALYSIS     3.0   300-0420    T TH  0236 HODGES HALL     MAJORS ONLY      JEONG Y
+ 17    23  MC   3036         1  QUAL AUD ANALYSIS      3.0  1200-0120    T TH  0216 HODGES HALL     MAJORS ONLY      WINDELS K
+(F)    42  MC   3080         1  MASS MEDIA LAW         3.0   830-0920   M W F  0236 HODGES HALL     MAJORS ONLY      SCHREINER T
+ 12    30  MC   3080         2  MASS MEDIA LAW         3.0  1130-1220   M W F  0236 HODGES HALL     MAJORS ONLY      DAY L
+(F)    40  MC   3080         4  MASS MEDIA LAW         3.0  1030-1150    T TH  0236 HODGES HALL     MAJORS ONLY      CHRISTENSEN B
+  1    39  MC   3080         3  MASS MEDIA LAW         3.0   130-0250    T TH  0216 HODGES HALL     MAJORS ONLY      FREEMAN C
+(F)    20  MC   3103         1  ADV PRINT NEWSGATHER   3.0   230-0420   M      0100 JOURNALISM      MAJORS ONLY      SCHREINER T
+(F)    18  MC   3104         1  ADV BROADCAST NEWS     3.0  1000-1050    T     B012 HODGES HALL     MAJORS ONLY      CARTER C
+  1    39  MC   3333         1  MULTICULTUR & MEDIA    3.0  1200-0120    T TH  0236 HODGES HALL                      PAUL N
+  4    26  MC   3504         1  INTRO POLI COMM        3.0   830-0920   M W F  0135 JOURNALISM      MAJORS ONLY      SCHOLL R
+ 21     9  MC   3505         1  MEDIA & POL PROCESS    3.0  1130-1220   M W F  0135 JOURNALISM      MAJORS ONLY      TURCOTTE J
+ 14    16  MC   3510         1  POLI COMM RESEARCH     3.0   130-0250    T TH  0140 JOURNALISM      MAJORS ONLY      YORK C
+  5    13  MC   3520         1  POLI COMM WRITING      3.0   230-0420   M      0107 JOURNALISM                       MANN R
+ 93     6  MC   3998 CLI     1  INTERNSHIP             3.0  TBA                                     PERMIS OF DEPT   JEONG Y
+ 89    10  MC   3998 CLI     2  INTERNSHIP             3.0  TBA                                     PERMIS OF DEPT   ODELL T
+ 81    18  MC   3998 CLI     3  INTERNSHIP             3.0  TBA                                     PERMIS OF DEPT   DAHMEN N
+ 97     2  MC   3998 CLI     4  INTERNSHIP             3.0  TBA                                     PERMIS OF DEPT   SCHOLL R
+(F)    18  MC   4001         1  PR WRITING & APPLIC    3.0  1230-0220   M      0111 JOURNALISM      MAJORS ONLY      DAHMEN N
+  7    11  MC   4001         4  PR WRITING & APPLIC    3.0   430-0620N  M      0107 JOURNALISM      MAJORS ONLY      WILLIAMS K
+(F)    18  MC   4001         2  PR WRITING & APPLIC    3.0  1000-1150    T     0100 JOURNALISM      MAJORS ONLY      LUNDY L
+(F)    18  MC   4001         3  PR WRITING & APPLIC    3.0   430-0620N   T     0111 JOURNALISM      CI-WRITTEN&SPOK  BERTHELOT A
+(F)    42  MC   4002         1  STRAT SOCIAL MEDIA     3.0  1030-1120   M W F  0236 HODGES HALL     MAJORS ONLY      PARK H
+  2    38  MC   4002         2  STRAT SOCIAL MEDIA     3.0   300-0420    T TH  0216 HODGES HALL     MAJORS ONLY      BROUSSARD J
+(F)    18  MC   4005         1  PR CAMPAIGNS           3.0  1030-1220   M      B012 HODGES HALL     MAJORS ONLY      MOORE-COPPLE
+  3    15  MC   4005         2  PR CAMPAIGNS           3.0  1200-0150    T     0100 JOURNALISM      MAJORS ONLY      BROUSSARD J
+  8    10  MC   4031         1  ADVERTISING DESIGN     3.0  1030-1220   M      0111 JOURNALISM      MAJORS ONLY      HEBERT J
+(F)    30  MC   4040 SEM     1  ADVERTISING PROBLEMS   3.0  1030-1150    T TH  0140 JOURNALISM      MAJORS ONLY      JEONG Y
+(F)    36  MC   4042         1  MEDIA, SPORT & SOC     3.0   130-0250   M W    0216 HODGES HALL     MAJORS ONLY      PETERS J
+ 17    13  MC   4045         1  ADVERTISING CAMPAIGN   3.0  1030-1220    T     0135 JOURNALISM      MAJORS ONLY      HEBERT J
+(F)    10  MC   4050         1  MEDIA MANAGEMENT       3.0   830-0920   M W F  0225 HODGES HALL     MAJORS ONLY      RITTER M
+ 15    15  MC   4090         3  MEDIA ETH & SOC RESP   3.0   930-1020   M W F  0216 HODGES HALL     MAJORS ONLY      DAY L
+  2    38  MC   4090         2  MEDIA ETH & SOC RESP   3.0   900-1020    T TH  0236 HODGES HALL     MAJORS ONLY      SYLVESTER J
+  1    39  MC   4090         1  MEDIA ETH & SOC RESP   3.0  1030-1150    T TH  0216 HODGES HALL     MAJORS ONLY      CEPPOS J
+  2    28  MC   4090         4  MEDIA ETH & SOC RESP   3.0   130-0250    T TH  0135 JOURNALISM      MAJORS ONLY      SYLVESTER J
+ 18    12  MC   4095         1  AMERICAN MEDIA HIST    3.0   900-1020    T TH  0140 JOURNALISM      CI-WRITTEN&SPOK  COYLE E
+  4    10  MC   4151         1  FIELD EXPERIENCE       3.0   130-0220   M      0236 HODGES HALL     PERMIS OF INST   SHELLEDY J
+ 10     8  MC   4280         1  TV NEWS PRODUCING      3.0   130-0320   M      B012 HODGES HALL     MAJORS ONLY      CARTER C
+  6    12  MC   4500         1  ADV JOURNALISM         3.0   800-0850    T     0216 HODGES HALL     MAJORS ONLY      ODELL T
+ 21     9  MC   4520 SEM     1  ADV SEM POL COM        3.0  1030-1120   M W F  0135 JOURNALISM      MAJORS ONLY      MANN C
+ 98     1  MC   4999 RES     1  INDEPENDENT STUDY      3.0  TBA                                     PERMIS OF DEPT   FREEMAN C
+ 98     1  MC   4999 RES     2  INDEPENDENT STUDY      3.0  TBA                                     PERMIS OF DEPT   PORTER L
+ 98     1  MC   4999 RES     3  INDEPENDENT STUDY      3.0  TBA                                     PERMIS OF DEPT   SHELLEDY J
+(F)     4  MC   7000 SEM     1  PROSEM MASS COM PUB    1.0   430-0620N    W    0225 HODGES HALL                      REYNOLDS A
+(F)    28  MC   7000 SEM     2  PROSEM MASS COM PUB    1.0  1130-1220       F  0140 JOURNALISM                       REYNOLDS A
+(F)    25  MC   7001 RES     1  RES METH MASS COMUN    3.0   830-1120   M      0140 JOURNALISM                       DUNAWAY J
+  5    17  MC   7002         1  MASS COM PHIL & PRIN   3.0   830-1120       F  0140 JOURNALISM                       HAMILTON J
+  1    15  MC   7005         1  PUBL OPIN & PUBL AFF   3.0   130-0420     W    0140 JOURNALISM                       SCHOLL R
+  8    12  MC   7012 SEM     1  SUR RES MTHD MASS CO   3.0   300-0550    T     0140 JOURNALISM                       GOIDEL R
+ 11     9  MC   7018         1  LEGAL PROB-MASS MED    3.0   830-1120     W    0140 JOURNALISM                       COYLE E
+  3    17  MC   7019         1  MED SYS: POL & TECH    3.0   330-0620   M      0140 JOURNALISM                       WINDELS K
+  1    19  MC   7021 SEM     1  MASS COMM THEORY       3.0   300-0550      TH  0140 JOURNALISM                       DEFLEUR M
+  3    22  MC   7040 SEM     1  CRISIS COMMUNICATION   3.0  1030-0120     W    0216 HODGES HALL                      MILLER A
+  7    18  MC   7042 SEM     1  FOUND OF STRAT COMM    3.0  1230-0320   M      0140 JOURNALISM                       PARK H
+ 98     1  MC   7971 RES     1  IND RES: MASS COMMUN   1-3  TBA                                     PERMIS OF INST   HAMILTON J
+ 96     3  MC   7971 RES     2  IND RES: MASS COMMUN   1-3  TBA                                     PERMIS OF DEPT   REYNOLDS A
+ 96     3  MC   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   REYNOLDS A
+ 97     2  MC   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   PORTER L
+ 98     1  MC   8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WINDELS K
+ 98     1  MC   8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MANN R
+ 97     2  MC   8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SANDERS M
+ 97     2  MC   8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SYLVESTER J
+ 98     1  MC   8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MOORE-COPPLE
+ 97     2  MC   8001 CLI     1  PROFESSIONAL INTERN    3.0  TBA                                     PERMIS OF DEPT   DAHMEN N
+ 28     2  MC   8002 RES     1  PROFESSIONAL PROJECT   1-6  TBA                                     PERMIS OF DEPT   PORTER L
+ 29     1  MC   8002 RES     2  PROFESSIONAL PROJECT   1-6  TBA                                     PERMIS OF DEPT   MANN R
+  4     1  MC   8009 CLI     1  PUBLIC AFFAIRS SER E   9.0  TBA                                     PERMIS OF DEPT   SCHOLL R
+ 95     4  MC   9000 RES     1  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   GOIDEL R
+ 96     3  MC   9000 RES     2  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   DUNAWAY J
+ 96     3  MC   9000 RES     3  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   PORTER L
+ 98     1  MC   9000 RES     4  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   REYNOLDS A
+ 98     1  MC   9000 RES     5  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   MILLER A
+ 98     1  MC   9000 RES     6  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   IZARD R

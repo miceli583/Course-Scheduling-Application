@@ -1,0 +1,35 @@
+(F)    32  LA   1102 LAB     2  LANDSCAPE REPRES II    3.0   830-1020   M W F                       CI-SPOKEN&VISUA  BENHAM K
+  1    99  LA   1201         1  INTR LANDSCAPE ARCH    3.0   830-0920   M W F  0139 ALLEN                            CONRAD M
+  1   152  LA   1201         2  INTR LANDSCAPE ARCH    3.0  1030-1150    T TH  0103 DESIGN BUILDING                  CONRAD M
+(F)   364  LA   1203         1  VIEWS AMER LANDSCAPE   3.0   830-0920   M W F  0002 LOCKETT                          FRYLING C
+  4    17  LA   2002 LAB     1  LANDSCAPE DESIGN II    6.0   130-0520   M W F  0322 DESIGN BUILDING CI-WRITTEN&SPOK  BOGASKI K
+  4    17  LA   2101 LAB     1  LA REPRESENTAION III   3.0   930-1150   M W F  0217 DESIGN BUILDING CI-VISUAL&TECH   HARMON B
+(F)    23  LA   2401         1  LANDSCAPE ECOLOGY      3.0   230-0520      TH  0322 DESIGN BUILDING                  FRYLING C
+(F)    11  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0304 DESIGN BUILDING                  SHARKY B
+  5    16  LA   3201         1  LANDSCAPE HISTORY II   3.0   830-0920   M W F  0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
+(F)    11  LA   3301         1  LAND ARCH TECH II      3.0   130-0220    T TH  0301 DESIGN BUILDING CI-WRITTEN&VISU  BOGASKI K
+  4    17  LA   3302         1  LANDSCAPE TECH III     3.0   900-0950    T TH  0301 DESIGN BUILDING                  SHARKY B
+(F)    11  LA   3402         1  PLANT MATERIALS II     3.0   830-1120    T TH  0316 DESIGN BUILDING                  FRYLING C
+(F)    14  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      CONRAD M
+ 19     6  LA   4501 RES     1  FIELD STUDIES IN L A   3.0   600-0850N  M      0313 DESIGN BUILDING                  CONRAD M
+  5    10  LA   4504 SEM     1  ADV ELECTIVE IN L A    3.0   130-0250    T TH  0316 DESIGN BUILDING                  BENHAM K
+(F)     9  LA   5002 LAB     1  LANDSCAPE DESN VIII    6.0   130-0520   M W F  0310 DESIGN BUILDING CI-WRITTEN&VISU  RISK J
+(F)     9  LA   5301         1  L A PROFESNL PRACTCE   3.0   900-1020    T TH  0313 DESIGN BUILDING CI-WRITTEN&SPOK  BOGASKI K
+  1     7  LA   7021 LAB     1  SITE SYSTEMS II        6.0   130-0520   M W F  0321 DESIGN BUILDING                  BENHAM K
+(F)     8  LA   7023         1  HISTORY & THEORY II    3.0   830-0920   M W F  0130 COATES                           RISK J
+(F)     8  LA   7024         1  ECOLOGY & TECH II      3.0   830-1050    T TH  0308 DESIGN BUILDING                  SERRANO N
+(F)     7  LA   7041 LAB     1  URBAN SYSTEMS          6.0   130-0520   M W F  0225 DESIGN BUILDING                  SERRANO N
+(F)    13  LA   7043         1  PROFESSIONAL PRACTIC   3.0   900-1020    T TH  0230 DESIGN BUILDING                  BOGASKI K
+  4     4  LA   7044         1  ECOLOGY & TECH IV      3.0   900-1150    T TH  0225 DESIGN BUILDING                  SHARKY B
+  3     4  LA   7052         1  THESIS PREPARATION     3.0  1200-0120    T TH  0230 DESIGN BUILDING                  DOUGLAS W
+  6     7  LA   7061 LAB     1  ADVANCED TOPICS II     6.0   130-0520   M W F  0324 DESIGN BUILDING                  HARMON B
+(F)     9  LA   7102 LAB     1  GRAD LANDSC REPR II    3.0   930-1120   M W F                                        HARMON B
+ 12    13  LA   7501         1  GRAD LA FIELD STUDY    3.0   600-0650N  M      0103 COATES                           CONRAD M
+  4     1  LA   7502 IND     2  GRAD INDEPEND STUDY    3.0  TBA                                                      DOUGLAS W
+  4     1  LA   7502 IND     3  GRAD INDEPEND STUDY    3.0  TBA                                                      FRYLING C
+(F)     2  LA   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HARMON B
+(F)     1  LA   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DOUGLAS W
+(F)     2  LA   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      SHARKY B
+(F)     1  LA   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      BENHAM K
+  1        LA   8000 RES     5  THESIS RESEARCH        1-12 TBA
+  1        LA   8000 RES     6  THESIS RESEARCH        1-12 TBA

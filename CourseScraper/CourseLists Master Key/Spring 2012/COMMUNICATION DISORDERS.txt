@@ -1,0 +1,46 @@
+  6   194  COMD 2050         1  INTR TO LANGUAGE       3.0   310-0430    T TH  0006 LOCKETT                          BRADSHAW J
+ 85   115  COMD 2050         3  INTR TO LANGUAGE       3.0   340-0630     W    0143 COATES                           ALKADI M
+  4    86  COMD 2081         1  INTRO TO COMD          3.0   910-1030    T TH  0145 COATES                           DELROSE L
+  8   107  COMD 4153         1  ACOUSTICS SP HEARING   3.0   940-1030   M W F  0241 HIMES                            KIM Y
+ 17    98  COMD 4190         1  INTR TO AUDIOLOGY      3.0   310-0600    T     0152 COATES                           JUMONVILLE W
+ 15   100  COMD 4381         1  DISORDERS OF ARTIC     3.0   140-0300    T TH  0204 TUREAUD HALL    CI-WRITTEN&VISU  FARHO S
+ 17    98  COMD 4382         1  LANG DIS OF CHILD      3.0   910-1030    T TH  0009 LOCKETT                          NORRIS J
+ 22    58  COMD 4383         3  BASIC FLUENCY DISORD   3.0   340-0630      TH  0026 HATCHER HALL                     HOFFMAN P
+  8    42  COMD 4681 CLI     2  CLIN PREP/OBSERV       1.0   340-0430   M W    0026 HATCHER HALL                     HOFFMAN P
+ 97     2  COMD 4683 CLI     3  UG CLINICAL PRACT      1-6  TBA                                                      FARHO S
+ 86    13  COMD 4683 CLI     4  UG CLINICAL PRACT      1-6  TBA                                                      JUMONVILLE W
+ 95     4  COMD 4683 CLI     6  UG CLINICAL PRACT      1-6  TBA                                                      TEAGUE L
+ 19     1  COMD 4684 CLI     4  CLIN PRAC-THER TECH    1-4  TBA                                                      JUMONVILLE W
+ 11    19  COMD 4752         1  ADULT NEUROGENIC DIS   3.0   440-0730N    W    0026 HATCHER HALL    CI-WRITTEN&SPOK  DONOVAN N
+ 15    10  COMD 4753 SEM     1  UG SEM IN SPEECH PER   3.0   740-0900    T TH  0068 HATCHER HALL    CI-WRITTEN&SPOK  BARKER B
+ 21     9  COMD 7383         2  CLFT PLT OROF DISORD   3.0   410-0700   M                                            KUNDUK M
+  3    22  COMD 7385         1  NEUROPATHS OF SPCH     3.0   440-0730N  M      0068 HATCHER HALL                     KIM Y
+  2    23  COMD 7387         3  APHASIA IN ADULTS      3.0   110-0400     W                                          DONOVAN N
+ 19    11  COMD 7480         2  MEAS & DIAGN OF COMD   3.0  1240-0330   M                                            OETTING J
+ 78    21  COMD 7683 CLI     1  GRAD CLIN PRACTICUM    1-6  TBA                                                      FISHER J
+ 82    17  COMD 7683 CLI     2  GRAD CLIN PRACTICUM    1-6  TBA                                                      LALANDE M
+ 84    15  COMD 7683 CLI     3  GRAD CLIN PRACTICUM    1-6  TBA                                                      FARHO S
+ 79    20  COMD 7683 CLI     4  GRAD CLIN PRACTICUM    1-6  TBA                                                      JUMONVILLE W
+ 86    13  COMD 7683 CLI     5  GRAD CLIN PRACTICUM    1-6  TBA                                                      GOUVIER R
+ 85    14  COMD 7683 CLI     6  GRAD CLIN PRACTICUM    1-6  TBA                                                      TEAGUE L
+ 92     7  COMD 7683 CLI     8  GRAD CLIN PRACTICUM    1-6  TBA                                                      GONSOULIN C
+ 98     1  COMD 7684 CLI     1  GRAD CLIN PRACTICUM    1-6  TBA                                                      FISHER J
+ 96     3  COMD 7684 CLI     2  GRAD CLIN PRACTICUM    1-6  TBA                                                      LALANDE M
+ 98     1  COMD 7684 CLI     3  GRAD CLIN PRACTICUM    1-6  TBA                                                      FARHO S
+ 80    19  COMD 7684 CLI     4  GRAD CLIN PRACTICUM    1-6  TBA                                                      JUMONVILLE W
+ 98     1  COMD 7684 CLI     5  GRAD CLIN PRACTICUM    1-6  TBA                                                      GOUVIER R
+ 96     3  COMD 7685 CLI     4  GRAD CLIN PRACTICUM    1-6  TBA                                                      JUMONVILLE W
+(F)     5  COMD 7780 SEM     2  SEM COMM DISORDER      3.0   810-1100   M                                            KUNDUK M
+(F)     5  COMD 7780 SEM     1  SEM COMM DISORDER      3.0   440-0730N    W                                          NORRIS J
+(F)     1  COMD 7780 SEM     3  SEM COMM DISORDER      3.0  TBA                                                      FARHO S
+(F)     1  COMD 7782 RES     2  IND RESCH COMM DISOR   1-3  TBA                                                      NORRIS J
+(F)     2  COMD 7782 RES     3  IND RESCH COMM DISOR   1-3  TBA                                                      OETTING J
+(F)     6  COMD 7880         2  ADV SEM IN LANG DISO   3.0  1040-0130     W                                          HOFFMAN P
+(F)     1  COMD 7882 RES     1  ADV IND RES COMM SCI   1-6  TBA                                                      KIM Y
+(F)     1  COMD 7882 RES     2  ADV IND RES COMM SCI   1-6  TBA                                                      OETTING J
+ 98     1  COMD 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      OETTING J
+ 98     1  COMD 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      KIM Y
+ 97     2  COMD 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      HOFFMAN P
+ 94     5  COMD 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      NORRIS J
+ 98     1  COMD 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      KUNDUK M
+ 98     1  COMD 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      BARKER B

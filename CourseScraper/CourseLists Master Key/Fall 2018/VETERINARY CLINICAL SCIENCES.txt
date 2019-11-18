@@ -1,0 +1,15 @@
+  5     5  VCS  7001 SEM     1  SM: VET CLIN SCIENCE   1.0  TBA                                                      MITCHELL C
+ 10        VCS  7003         1  SPEC TOP VET CLIN SC   1-4  TBA                                                      MITCHELL M
+ 10        VCS  7003         2  SPEC TOP VET CLIN SC   1-4  TBA                                                      NEVAREZ J
+  7     3  VCS  7003         3  SPEC TOP VET CLIN SC   1-4  TBA                                                      PINTO C
+  8     2  VCS  7003         4  SPEC TOP VET CLIN SC   1-4  TBA                                                      SONES J
+  9     1  VCS  7003         5  SPEC TOP VET CLIN SC   1-4  TBA                                                      BANSE H
+  6     4  VCS  7202 LAB     1  VET SURGICAL TECHN     1.0  TBA                                                      HALL L
+  6     4  VCS  7204         1  ADV VET ORTHOPEDICS    2.0  TBA                                                      HALL L
+ 10        VCS  7205         1  ADV VET CLIN NEUROLO   2.0  TBA
+  8        VCS  7210         1  VET SCI JOURNAL REV    1.0  TBA                                                      CREMER J
+  9     1  VCS  7210         2  VET SCI JOURNAL REV    1.0  TBA                                                      NEVAREZ J
+  5     3  VCS  7210         3  VET SCI JOURNAL REV    1.0  TBA                                                      PINTO C
+  5     3  VCS  7210         4  VET SCI JOURNAL REV    1.0  TBA                                                      LOPEZ M
+  6     2  VCS  7210         5  VET SCI JOURNAL REV    1.0  TBA                                                      MITCHELL C
+  8        VCS  7210         6  VET SCI JOURNAL REV    1.0  TBA

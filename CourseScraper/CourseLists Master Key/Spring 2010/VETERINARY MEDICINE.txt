@@ -1,0 +1,131 @@
+ 99        VMED 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      CHENG H
+ 99        VMED 8000 RES     2  THESIS RESEARCH        1-12 TBA
+ 99        VMED 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      MILLER J
+ 99        VMED 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      ELZER P
+ 99        VMED 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      BAKER D
+ 98     1  VMED 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      CHENG H
+ 99        VMED 8000 RES     7  THESIS RESEARCH        1-12 TBA
+ 99        VMED 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      STRAIN G
+ 99        VMED 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      KOUSOULAS K
+ 99        VMED 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      HAWKE J
+ 96     3  VMED 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      BURBA D
+ 99        VMED 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      MCCONNICO R
+ 98     1  VMED 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      HEDLUND C
+ 99        VMED 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      EILTS B
+ 99        VMED 8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      EILTS B
+ 99        VMED 8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      TULLY T
+ 99        VMED 8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      TULLY T
+ 98     1  VMED 8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      MILLER J
+ 99        VMED 8000 RES    19  THESIS RESEARCH        1-12 TBA
+ 99        VMED 8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      MALONE J
+ 99        VMED 8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      KLEI T
+ 99        VMED 8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      PETERSON K
+ 98     1  VMED 8000 RES    23  THESIS RESEARCH        1-12 TBA                                                      THUNE R
+ 99        VMED 8000 RES    24  THESIS RESEARCH        1-12 TBA                                                      LI S
+ 98     1  VMED 8000 RES    25  THESIS RESEARCH        1-12 TBA                                                      LOPEZ M
+ 98     1  VMED 8000 RES    26  THESIS RESEARCH        1-12 TBA                                                      SOD G
+ 99        VMED 8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      THUNE R
+ 97     2  VMED 8900 RES     1  PREDISSERTATION RES    1-9  TBA                                                      MILLER J
+ 99        VMED 8900 RES     2  PREDISSERTATION RES    1-9  TBA                                                      CHO D
+ 99        VMED 8900 RES     3  PREDISSERTATION RES    1-9  TBA                                                      BURBA D
+ 98     1  VMED 8900 RES     4  PREDISSERTATION RES    1-9  TBA                                                      MILLER J
+ 99        VMED 8900 RES     5  PREDISSERTATION RES    1-9  TBA
+ 98     1  VMED 8900 RES     6  PREDISSERTATION RES    1-9  TBA                                                      ELZER P
+ 97     2  VMED 8900 RES     7  PREDISSERTATION RES    1-9  TBA                                                      KOUSOULAS K
+ 98     1  VMED 8900 RES     8  PREDISSERTATION RES    1-9  TBA                                                      THUNE R
+ 99        VMED 8900 RES     9  PREDISSERTATION RES    1-9  TBA                                                      WILLIAMS J
+ 99        VMED 8900 RES    10  PREDISSERTATION RES    1-9  TBA                                                      COOPER R
+ 99        VMED 8900 RES    11  PREDISSERTATION RES    1-9  TBA
+ 99        VMED 8900 RES    12  PREDISSERTATION RES    1-9  TBA                                                      LA PEYRE J
+ 97     2  VMED 8900 RES    13  PREDISSERTATION RES    1-9  TBA                                                      MORES C
+ 98     1  VMED 8900 RES    14  PREDISSERTATION RES    1-9  TBA                                                      TULLY T
+ 99        VMED 8900 RES    15  PREDISSERTATION RES    1-9  TBA                                                      PENN A
+ 99        VMED 8900 RES    16  PREDISSERTATION RES    1-9  TBA                                                      KLEI T
+ 99        VMED 8900 RES    17  PREDISSERTATION RES    1-9  TBA                                                      THUNE R
+ 99        VMED 8900 RES    18  PREDISSERTATION RES    1-9  TBA                                                      VEAZEY R
+ 99        VMED 8900 RES    19  PREDISSERTATION RES    1-9  TBA                                                      LIANG F
+ 99        VMED 8900 RES    20  PREDISSERTATION RES    1-9  TBA                                                      LI S
+  5        VMED 8900 RES    21  PREDISSERTATION RES    1-9  TBA                                                      FRANCIS J
+  2     1  VMED 8900 RES    22  PREDISSERTATION RES    1-9  TBA                                                      EILTS B
+  3        VMED 8900 RES    23  PREDISSERTATION RES    1-9  TBA                                                      LI S
+ 99        VMED 8900 RES    24  PREDISSERTATION RES    1-9  TBA                                                      STOKES A
+ 99        VMED 8900 RES    25  PREDISSERTATION RES    1-9  TBA                                                      PETERSON K
+  3        VMED 8900 RES    26  PREDISSERTATION RES    1-9  TBA                                                      CHENG H
+ 99        VMED 8900 RES    27  PREDISSERTATION RES    1-9  TBA                                                      MORGAN T
+ 99        VMED 8900 RES    28  PREDISSERTATION RES    1-9  TBA                                                      THUNE R
+  4        VMED 8900 RES    29  PREDISSERTATION RES    1-9  TBA                                                      FRANCIS J
+ 99        VMED 8900 RES    30  PREDISSERTATION RES    1-9  TBA                                                      LOPEZ M
+ 97     2  VMED 8900 RES    31  PREDISSERTATION RES    1-9  TBA                                                      MACALUSO K
+  3        VMED 8900 RES    32  PREDISSERTATION RES    1-9  TBA                                                      KLEINOW K
+  3        VMED 8900 RES    33  PREDISSERTATION RES    1-9  TBA                                                      FRANCIS J
+ 99        VMED 8900 RES    34  PREDISSERTATION RES    1-9  TBA                                                      PENN A
+ 99        VMED 8900 RES    35  PREDISSERTATION RES    1-9  TBA                                                      HAWKE J
+ 98     1  VMED 8900 RES    36  PREDISSERTATION RES    1-9  TBA                                                      SOD G
+ 96     3  VMED 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      LIANG F
+ 99        VMED 9000 RES     2  DISSERTATION RES       1-12 TBA
+ 98     1  VMED 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      MILLER J
+ 99        VMED 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CHO D
+ 98     1  VMED 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      GAUNT S
+ 99        VMED 9000 RES     6  DISSERTATION RES       1-12 TBA
+ 99        VMED 9000 RES     7  DISSERTATION RES       1-12 TBA
+ 99        VMED 9000 RES     8  DISSERTATION RES       1-12 TBA
+ 99        VMED 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      ELZER P
+ 99        VMED 9000 RES    10  DISSERTATION RES       1-12 TBA
+ 99        VMED 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      KLEI T
+ 95     4  VMED 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      KOUSOULAS K
+ 99        VMED 9000 RES    13  DISSERTATION RES       1-12 TBA
+ 99        VMED 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      GODKE R
+ 99        VMED 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      BAKER D
+ 99        VMED 9000 RES    16  DISSERTATION RES       1-12 TBA
+ 99        VMED 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      WILSON V
+ 99        VMED 9000 RES    18  DISSERTATION RES       1-12 TBA
+ 99        VMED 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      BURBA D
+ 99        VMED 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      YORK D
+ 99        VMED 9000 RES    21  DISSERTATION RES       1-12 TBA                                                      TULLY T
+ 99        VMED 9000 RES    22  DISSERTATION RES       1-12 TBA
+ 99        VMED 9000 RES    23  DISSERTATION RES       1-12 TBA                                                      COOPER R
+ 99        VMED 9000 RES    24  DISSERTATION RES       1-12 TBA                                                      WILLIAMS J
+ 99        VMED 9000 RES    25  DISSERTATION RES       1-12 TBA                                                      PACCAMONTI D
+ 99        VMED 9000 RES    26  DISSERTATION RES       1-12 TBA                                                      KLEINOW K
+ 99        VMED 9000 RES    27  DISSERTATION RES       1-12 TBA
+ 99        VMED 9000 RES    28  DISSERTATION RES       1-12 TBA
+ 99        VMED 9000 RES    29  DISSERTATION RES       1-12 TBA                                                      THUNE R
+ 99        VMED 9000 RES    30  DISSERTATION RES       1-12 TBA                                                      FRANCIS J
+ 99        VMED 9000 RES    31  DISSERTATION RES       1-12 TBA                                                      SEHGAL I
+ 99        VMED 9000 RES    32  DISSERTATION RES       1-12 TBA
+ 98     1  VMED 9000 RES    33  DISSERTATION RES       1-12 TBA                                                      MALONE J
+ 99        VMED 9000 RES    34  DISSERTATION RES       1-12 TBA                                                      FRANCIS J
+ 98     1  VMED 9000 RES    35  DISSERTATION RES       1-12 TBA                                                      PENN A
+ 96     3  VMED 9000 RES    36  DISSERTATION RES       1-12 TBA                                                      LI S
+ 99        VMED 9000 RES    37  DISSERTATION RES       1-12 TBA                                                      SEHGAL I
+ 99        VMED 9000 RES    38  DISSERTATION RES       1-12 TBA                                                      VEAZEY R
+  3        VMED 9000 RES    39  DISSERTATION RES       1-12 TBA                                                      LI S
+ 99        VMED 9000 RES    40  DISSERTATION RES       1-12 TBA                                                      LIANG F
+ 98     1  VMED 9000 RES    41  DISSERTATION RES       1-12 TBA                                                      MALONE J
+ 99        VMED 9000 RES    42  DISSERTATION RES       1-12 TBA                                                      EADES S
+ 98     1  VMED 9000 RES    43  DISSERTATION RES       1-12 TBA                                                      MACALUSO K
+ 98     1  VMED 9000 RES    44  DISSERTATION RES       1-12 TBA                                                      LOPEZ M
+ 99        VMED 9000 RES    45  DISSERTATION RES       1-12 TBA                                                      MORGAN T
+ 99        VMED 9000 RES    46  DISSERTATION RES       1-12 TBA                                                      LIANG F
+ 98     1  VMED 9000 RES    47  DISSERTATION RES       1-12 TBA                                                      STOKES A
+  3        VMED 9000 RES    48  DISSERTATION RES       1-12 TBA                                                      LI S
+  3        VMED 9000 RES    49  DISSERTATION RES       1-12 TBA                                                      LI S
+  1     2  VMED 9000 RES    50  DISSERTATION RES       1-12 TBA                                                      LI S
+  2     1  VMED 9000 RES    51  DISSERTATION RES       1-12 TBA                                                      FRANCIS J
+  2        VMED 9000 RES    52  DISSERTATION RES       1-12 TBA                                                      STRAIN G
+ 99        VMED 9000 RES    53  DISSERTATION RES       1-12 TBA                                                      PETERSON K
+  3        VMED 9000 RES    54  DISSERTATION RES       1-12 TBA                                                      LI S
+ 99        VMED 9000 RES    55  DISSERTATION RES       1-12 TBA                                                      YOSHIMURA M
+ 95     4  VMED 9000 RES    56  DISSERTATION RES       1-12 TBA                                                      LI S
+ 98     1  VMED 9000 RES    57  DISSERTATION RES       1-12 TBA                                                      LI S
+ 99        VMED 9000 RES    58  DISSERTATION RES       1-12 TBA                                                      KLEINOW K
+ 95     4  VMED 9000 RES    59  DISSERTATION RES       1-12 TBA                                                      JEYASEELAN S
+ 98     1  VMED 9000 RES    60  DISSERTATION RES       1-12 TBA                                                      BARKER S
+  3        VMED 9000 RES    61  DISSERTATION RES       1-12 TBA                                                      LI S
+  2     1  VMED 9000 RES    62  DISSERTATION RES       1-12 TBA                                                      LI S
+  3        VMED 9000 RES    63  DISSERTATION RES       1-12 TBA                                                      LI S
+  3        VMED 9000 RES    64  DISSERTATION RES       1-12 TBA                                                      LI S
+  2     3  VMED 9000 RES    65  DISSERTATION RES       1-12 TBA                                                      FRANCIS J
+  2     1  VMED 9000 RES    66  DISSERTATION RES       1-12 TBA                                                      FRANCIS J
+ 98     1  VMED 9000 RES    67  DISSERTATION RES       1-12 TBA                                                      HAWKE J
+(F)     1  VMED 9000 RES    68  DISSERTATION RES       1-12 TBA                                                      STRAIN G

@@ -1,0 +1,16 @@
+  5    15  AEEE 2001         1  FNDTNS OF AGEXED       3.0   900-1050    T     0116 TUREAUD HALL                     BUNCH J
+ 20     5  AEEE 4101         1  INST DESIGN AGEXED     3.0  1000-1120   M W    0119 J C MILLER                       BLACKBURN J
+ 36     4  AEEE 4506         1  SERVICE LEARNING       3.0   430-0720N    W    0102 KNAPP                            FOX J
+ 19     1  AEEE 4506         2  SERVICE LEARNING       3.0   430-0720N    W                                          FOX J
+  4     1  AEEE 4820 RES     1  IND STUDY IN AGEXED    1-3  TBA                                     PERMIS OF INST   BLACKBURN J
+ 28     2  AEEE 7016         1  HIST & PHIL AEEE       3.0   430-0720N   T     0102 KNAPP                            BLACKBURN J
+ 13     2  AEEE 7016         2  HIST & PHIL AEEE       3.0   430-0720N   T                                           BLACKBURN J
+ 19     6  AEEE 7122         1  PROG DEVEL AGEXED      3.0   130-0420     W    0102 KNAPP                            CATER M
+ 14    11  AEEE 7122         2  PROG DEVEL AGEXED      3.0   130-0420     W                                          CATER M
+ 18     7  AEEE 7205         1  TCH IN HIGH EDUC       3.0   430-0720N    W    0214 EFFERSON HALL                    BUNCH J
+ 10     5  AEEE 7816 SEM     1  ORIENTAT GRAD AEEE     1-3   130-0420      TH                                        BUNCH J
+ 14     1  AEEE 7816 SEM     2  ORIENTAT GRAD AEEE     1-3   130-0420      TH                                        BUNCH J
+ 98     1  AEEE 7824 RES     2  INDEPEND STUDY AGEXE   3.0  TBA                                     PERMIS OF INST   BUNCH J
+ 98     1  AEEE 7824 RES     3  INDEPEND STUDY AGEXE   3.0  TBA                                     PERMIS OF INST   CATER M
+ 98     1  AEEE 9000 RES     2  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF INST   BUNCH J
+ 97     2  AEEE 9000 RES     3  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF INST   CATER M

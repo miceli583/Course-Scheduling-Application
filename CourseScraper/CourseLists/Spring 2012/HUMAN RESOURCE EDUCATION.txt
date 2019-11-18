@@ -1,0 +1,67 @@
+219   481  HRE  2723         1  INTO LEADERSHIP DEV    3.0  TBA                                     100% WEB BASED   HOLTON E
+ 14     6  HRE  2724         1  HON: INTRO LEAD DEV    3.0  TBA                                     100% WEB BASED   HOLTON E
+ 11    29  HRE  3071         1  PRIN HMN RESRCE DEV    3.0   310-0430    T TH  0220 TUREAUD HALL                     KATSIOLOUDES
+  8    16  HRE  3201         1  METH VOC & ADLT EDUC   3.0   910-1030    T TH  0102 OLD FORESTRY                     LEGER B
+  1    29  HRE  3331         1  STRATEGIC CAREER DEV   3.0   140-0300    T TH  0234 COATES                           DOWNS J
+217   283  HRE  3723         1  LDRSHP CONCPTS/PRIN    3.0  TBA                                     100% WEB BASED   HOLTON E
+ 14    16  HRE  3724         1  HON: LEAD CON & PRIN   3.0  TBA                                     100% WEB BASED   HOLTON E
+ 10    20  HRE  4025         1  PRIN ADULT EDUCATION   3.0   440-0730N  M      0112 TUREAUD HALL                     JOHNSON G
+ 21    39  HRE  4025         3  PRIN ADULT EDUCATION   3.0  TBA                                     100% WEB BASED   JOHNSON G
+ 10     5  HRE  4039 RES     2  TPCS INTERNTL DEVELP   3.0   440-0730N     TH  0112 TUREAUD HALL                     VERMA S
+ 20     4  HRE  4200 CLI     1  TCH IN HRE CONT AREA   3.0  TBA                                                      LEGER B
+  4     1  HRE  4200 CLI     2  TCH IN HRE CONT AREA   3.0  TBA                                     PERMIS OF INST   JOHNSON G
+ 14     1  HRE  4200 CLI     3  TCH IN HRE CONT AREA   3.0  TBA                                                      LEGER B
+  1    19  HRE  4281         1  FOUNDTNS DIST LEARN    3.0   440-0730N  M                                            MACHTMES K
+ 14     6  HRE  4281         2  FOUNDTNS DIST LEARN    3.0   440-0730N  M                                            MACHTMES K
+  1    19  HRE  4585         1  CONSULT ORGANIZATION   3.0  TBA                                     100% WEB BASED   HATALA J
+(F)    22  HRE  4603         1  EVALUATION HRD         3.0  TBA                                     100% WEB BASED   HATALA J
+402    98  HRE  4723         1  ADV LEADERSHIP DEV     3.0  TBA                                     100% WEB BASED   HOLTON E
+ 49    51  HRE  4804 CLI     1  LEADERSHIP DEV INTER   3-12 TBA                                     PERMIS OF INST   HOLTON E
+ 15     1  HRE  4804 CLI     4  INTERNSHIP: PROF DEV   3-12 TBA                                     PERMIS OF INST   JOHNSON G
+  9     6  HRE  4804 CLI     7  INTERNSHIP: PROF DEV   3-12 TBA                                     PERMIS OF INST   NAQUIN S
+  5     5  HRE  4804 CLI     8  LEADERSHIP DEV INTRN   3-12 TBA                                     PERMIS OF INST   NAQUIN S
+ 13     2  HRE  4805 CLI     3  TRANSITION COL/WORK    1.0  TBA                                     PERMIS OF INST   HOLTON E
+ 11     4  HRE  4805 CLI     7  TRANSITION COL/WORK    1.0  TBA                                     PERMIS OF INST   NAQUIN S
+ 12     4  HRE  4806 CLI     1  STUDENT TEACHING HRE   9.0  TBA                                     PERMIS OF INST   LEGER B
+ 15     1  HRE  4806 CLI     2  STUDENT TEACHING HRE   9.0  TBA                                     PERMIS OF INST   JOHNSON G
+ 14     1  HRE  4807 CLI     1  TEACHING INTERNSHIP    6.0  TBA                                     PERMIS OF INST   LEGER B
+  4     1  HRE  4809 RES     3  ADV PROB IN HRE        1-3  TBA                                     PERMIS OF INST   HOLTON E
+  1     1  HRE  4809 RES     4  ADULT MOTIVATION TO    1-3  TBA                                     PERMIS OF INST   JOHNSON G
+  1        HRE  4809 RES     5  ADV PROB IN HRE        1-3  TBA                                     PERMIS OF INST   KOTRLIK J
+  4     1  HRE  4809 RES     6  ADV PROB IN HRE        1-3  TBA                                     PERMIS OF INST   MACHTMES K
+  9     6  HRE  4819 RES     4  AG LAB MANAGEMENT      1-3  TBA                                     PERMIS OF INST   LEGER B
+  7     8  HRE  4849 RES     3  CLS MGT & DVSTY HRE    1-3   440-0730N   T     0112 TUREAUD HALL                     JOHNSON G
+ 14    41  HRE  4859 RES     1  SPEC TOP IN BUED       1-3   440-0730N   T     0212 COATES          PERMIS OF INST   GURIE J
+  1    29  HRE  7171         1  INSTRUCTNAL DESN HRD   3.0   440-0730N    W    0217BOLD FORESTRY                     KOTRLIK J
+(F)    19  HRE  7575         1  MANGING CHG ORG SYST   3.0  TBA                                     100% WEB BASED   HATALA J
+  2    18  HRE  7602         1  PROG EVAL DESIGN       3.0   440-0730N   T     0102 OLD FORESTRY                     KOTRLIK J
+  1        HRE  7602         2  PROG EVAL DESIGN       3.0   440-0730N   T                                           KOTRLIK J
+(F)    23  HRE  7725         1  LDRSHP DEVEL STR ORG   3.0   440-0730N   T                                           NAQUIN S
+ 12     3  HRE  7801 RES     5  TCHNG/READNG IN CTE    1-3  TBA                                     PERMIS OF INST   JOHNSON G
+ 11     4  HRE  7801 RES     6  CUR PROB/ISSUES HRE    1-3  TBA                                     PERMIS OF INST   MACHTMES K
+  3     2  HRE  7801 RES     9  SUCCESSN PLNG IN HRD   1-3  TBA                                     PERMIS OF INST   NAQUIN S
+ 13     3  HRE  7803 RES     1  IND STUD IN HRE        1-3  TBA                                     PERMIS OF INST   BURNETT M
+ 10        HRE  7803 RES     5  IND STUD IN HRE        1-3  TBA                                     PERMIS OF INST   KOTRLIK J
+  8     2  HRE  7803 RES     6  IND STUD IN HRE        1-3  TBA                                     PERMIS OF INST   MACHTMES K
+ 17     1  HRE  7809 CLI     1  PRACT HR EDUCATOR      3-9  TBA                                     PERMIS OF INST   BURNETT M
+ 17     1  HRE  7809 CLI     3  PRACT HR EDUCATOR      3-9  TBA                                     PERMIS OF INST   HOLTON E
+ 17     1  HRE  7809 CLI     5  PRACT HR EDUCATOR      3-9  TBA                                     PERMIS OF INST   KOTRLIK J
+  9     1  HRE  7809 CLI     6  PRACT HR EDUCATOR      3-9  TBA                                     PERMIS OF INST   MACHTMES K
+ 13     2  HRE  7809 CLI     7  LDSHP DEV INTRNSHIP    3-9  TBA                                     PERMIS OF INST   HOLTON E
+  9     1  HRE  7809 CLI     8  SPVSN HRD/HRE FUNCTI   3-9  TBA                                     PERMIS OF INST   NAQUIN S
+  2    13  HRE  7824 RES     1  QUAL RES METH          3.0   440-0730N   T     0116 TUREAUD HALL    PERMIS OF INST   MACHTMES K
+ 14     1  HRE  7824 RES     2  DATA ANALYSIS IN HRE   3.0  TBA                                     PERMIS OF INST   BURNETT M
+  7     9  HRE  7848 RES     1  ADVANCED LDSHP DEV     1-3   440-0730N  M                           PERMIS OF INST   RICHARDSON W
+ 10     5  HRE  7871 SEM     1  RES & THEORY HRD       3.0   440-0730N    W    0108 TUREAUD HALL                     BATES R
+ 12    18  HRE  7909         1  INTRP REPT RES RESLT   3.0   440-0730N     TH                                        BURNETT M
+  7    13  HRE  7909         2  INTRP REPT RES RESLT   3.0   440-0730N     TH                                        BURNETT M
+(F)    22  HRE  7973         1  DATA COL/ANALYS HRD    3.0   440-0730N     TH  0116 TUREAUD HALL                     BATES R
+ 98     1  HRE  8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   BURNETT M
+ 94     5  HRE  8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   MACHTMES K
+ 94     5  HRE  8900 RES     7  RESEARCH PROBLEMS      1-6  TBA                                     PERMIS OF INST   MACHTMES K
+ 90     9  HRE  9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BURNETT M
+ 98     1  HRE  9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BATES R
+ 98     1  HRE  9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   HOLTON E
+ 93     6  HRE  9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   KOTRLIK J
+ 91     8  HRE  9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MACHTMES K
+ 98     1  HRE  9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   REDMANN D

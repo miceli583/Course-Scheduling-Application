@@ -1,0 +1,4 @@
+ 17    28  BADM 7060         1  ELEMENTS OF COST MGT   3.0   600-0900N   T     1700 BUS ED N WING                    DENSTEL C
+ 16    29  BADM 7100         1  MKTING ADMNSTRATION    3.0   600-0900N  M      1700 BUS ED N WING                    RICE D
+  9    13  BADM 7120         1  OPERATIONS MANAGEMNT   3.0  0800-1200       FS 1720 BUS ED N WING                    WATSON E
+  9    13  BADM 7160         1  NEGOT/PERS/INFLUENCE   3.0   100-0500       FS 1720 BUS ED N WING                    KARAM T

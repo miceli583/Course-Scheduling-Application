@@ -1,0 +1,48 @@
+(F)    66  PETE 1010         1  INTR TO PETR ENGR      2.0   240-0330   M W    2427 PATRICK TAYLOR                   THURBER F
+(F)    64  PETE 1010         2  INTR TO PETR ENGR      2.0   340-0430   M W    2427 PATRICK TAYLOR                   THURBER F
+  2    62  PETE 1010         3  INTR TO PETR ENGR      2.0   310-0400    T TH  2427 PATRICK TAYLOR                   THURBER F
+  3    43  PETE 2031         1  RESERVOIR ROCK PROP    3.0   940-1030   M W F  2146 PATRICK TAYLOR                   KAM S
+  1    54  PETE 2031         2  RESERVOIR ROCK PROP    3.0   910-1030    T TH  2427 PATRICK TAYLOR                   KAM S
+ 22    28  PETE 2032         1  RESERVOIR FLUID PROP   3.0  1210-0130    T TH  2427 PATRICK TAYLOR                   RAO D
+(F)    22  PETE 2060         4  COMP MTHDS PETE        2.0   310-0400    T     2162 PATRICK TAYLOR                   PAIDIN W
+(F)    22  PETE 2060         5  COMP MTHDS PETE        2.0   310-0400    T     2162 PATRICK TAYLOR                   PAIDIN W
+(F)    21  PETE 2060         6  COMP MTHDS PETE        2.0   310-0400    T     2162 PATRICK TAYLOR                   PAIDIN W
+ 11    89  PETE 3025         1  ECON ASPECTS PET PRO   3.0   140-0300    T TH  0103 TUREAUD HALL                     KAISER M
+  8    52  PETE 3036         1  WELL LOGGING           3.0   940-1030   M W F  2427 PATRICK TAYLOR                   DAHI TALEGHAN
+(F)    60  PETE 3036         2  WELL LOGGING           3.0  1040-1130   M W F  2427 PATRICK TAYLOR                   DAHI TALEGHAN
+  2    15  PETE 3037 LAB     4  PETE FIELD OPERATNS    1.0   240-0330   M      2162 PATRICK TAYLOR                   RADONJIC M
+  1    16  PETE 3037 LAB     5  PETE FIELD OPERATNS    1.0   240-0330   M      2162 PATRICK TAYLOR                   RADONJIC M
+  1    16  PETE 3037 LAB     6  PETE FIELD OPERATNS    1.0   240-0330   M      2162 PATRICK TAYLOR                   RADONJIC M
+  1    16  PETE 3037 LAB     7  PETE FIELD OPERATNS    1.0   240-0330   M                                            RADONJIC M
+(F)    48  PETE 4045         1  DRILLING ENGINEERING   3.0  1140-1230   M W F  2427 PATRICK TAYLOR                   SMITH J
+ 12    48  PETE 4045         2  DRILLING ENGINEERING   3.0   510-0800N   T     2161 PATRICK TAYLOR                   LANGLINAIS J
+  8    37  PETE 4051         1  RESERV EST/RESERVOIR   3.0  1140-1230   M W F  2170 PATRICK TAYLOR                   HUGHES R
+(F)    55  PETE 4051         2  RESERV EST/RESERVOIR   3.0   140-0230   M W F  2427 PATRICK TAYLOR                   HUGHES R
+(F)    28  PETE 4059 LAB     1  DRILLING FLUIDS LAB    1.0   910-1000      TH  2142 PATRICK TAYLOR                   WOJTANOWICZ A
+(F)    28  PETE 4059 LAB     2  DRILLING FLUIDS LAB    1.0   910-1000      TH  2142 PATRICK TAYLOR                   WOJTANOWICZ A
+(F)    28  PETE 4059 LAB     3  DRILLING FLUIDS LAB    1.0   910-1000      TH  2142 PATRICK TAYLOR                   WOJTANOWICZ A
+ 19    21  PETE 4089         1  NATURAL GAS ENGINEER   3.0   440-0600N   T TH  2427 PATRICK TAYLOR                   WHITE C
+  7    10  PETE 4241         2  SP TOP PETR ENGR DES   3.0  1210-0130    T TH  3129 PATRICK TAYLOR                   TYAGI M
+(F)    40  PETE 4998 RES     1  SENIOR PROJECT I       1.0   240-0430     W    0204 TUREAUD HALL    CI-WRITTEN       RADONJIC M
+(F)    40  PETE 4998 RES     2  SENIOR PROJECT I       1.0   240-0430     W    2174 PATRICK TAYLOR  CI-VISUAL        HUGHES R
+ 29    11  PETE 7241         2  SEL TOP IN ADV PETE    3.0   440-0600N  M W    2427 PATRICK TAYLOR                   RAO D
+  7    13  PETE 7242         1  SEL TOP IN ADV PETE    3.0   310-0430   M W    1114 PATRICK TAYLOR                   SMITH J
+(F)     1  PETE 7256 RES     2  SPEC PROB PETR ENGR    1-6  TBA                                                      SMITH J
+(F)     1  PETE 7256 RES     3  SPEC PROB PETR ENGR    1-6  TBA                                                      HUGHES R
+  5    45  PETE 7999 SEM     1  SEMINAR                1.0   310-0430       F  2427 PATRICK TAYLOR                   WOJTANOWICZ A
+ 98     1  PETE 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HUGHES R
+ 97     2  PETE 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      RADONJIC M
+ 98     1  PETE 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      RAO D
+ 98     1  PETE 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      SMITH J
+ 98     1  PETE 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      WOJTANOWICZ A
+ 97     2  PETE 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      WHITE C
+ 97     2  PETE 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      TYAGI M
+ 98     1  PETE 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      WOJTANOWICZ A
+ 97     2  PETE 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      RADONJIC M
+ 94     5  PETE 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      RAO D
+ 98     1  PETE 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      SMITH J
+ 96     3  PETE 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      KAM S
+ 96     3  PETE 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      WHITE C
+ 96     3  PETE 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      TYAGI M
+ 97     2  PETE 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      HUGHES R
+ 97     2  PETE 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      DAHI TALEGHAN

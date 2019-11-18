@@ -1,0 +1,158 @@
+  1    29  CMST 1061         1  FUND OF COMMUNICATN    3.0   740-0830   M W F  0103 COATES                           HEBERT L
+(F)    30  CMST 1061         3  FUND OF COMMUNICATN    3.0   840-0930   M W F  0111 COATES                           HEBERT L
+(F)    30  CMST 1061         4  FUND OF COMMUNICATN    3.0   940-1030   M W F  0111 COATES                           HEBERT L
+(F)    30  CMST 1061         5  FUND OF COMMUNICATN    3.0  1040-1130   M W F  0103 COATES                           BUTCHER J
+  1    29  CMST 1061         7  FUND OF COMMUNICATN    3.0  1240-0130   M W F  0103 COATES                           BUTCHER J
+  2    28  CMST 1061         9  FUND OF COMMUNICATN    3.0   140-0230   M W F  0103 COATES                           HEBERT L
+  2    28  CMST 1061        11  FUND OF COMMUNICATN    3.0   740-0900    T TH  0103 COATES                           JACKSON S
+(F)    30  CMST 1061        12  FUND OF COMMUNICATN    3.0   910-1030    T TH  0103 COATES                           JACKSON S
+(F)    30  CMST 1061        13  FUND OF COMMUNICATN    3.0  1210-0130    T TH  0103 COATES                           RHODES J
+(F)    30  CMST 1061        14  FUND OF COMMUNICATN    3.0   140-0300    T TH  0103 COATES                           RHODES J
+  1    74  CMST 1150         1  INTRO COMM STUDIES     3.0  1240-0130   M W F  0155 COATES                           FILBEL K
+  4    71  CMST 1150         2  INTRO COMM STUDIES     3.0   240-0330   M W F  0212 COATES                           FILBEL K
+  2   323  CMST 2010         1  INTERPERSNL COMMNCTN   3.0  1040-1130   M W F  0101 GYM AUDITORIUM                   VICKERY A
+  2   118  CMST 2010         2  INTERPERSNL COMMNCTN   3.0   740-0900    T TH  0152 COATES                           PRIDE-SHAW S
+(F)   120  CMST 2010         3  INTERPERSNL COMMNCTN   3.0   910-1030    T TH  0152 COATES                           PRIDE-SHAW S
+(F)   120  CMST 2010         4  INTERPERSNL COMMNCTN   3.0  1040-1200    T TH  0152 COATES                           WHITEHEAD K
+(F)   120  CMST 2010         5  INTERPERSNL COMMNCTN   3.0  1210-0130    T TH  0152 COATES                           WHITEHEAD K
+  1    19  CMST 2012         1  INTRO TO FILM          4.0  1210-0130    T TH  0127 COATES                           LEBRET J
+(F)    24  CMST 2040         2  INTR TO PERFORM LITR   3.0   940-1030   M W F  0137 COATES                           MCGEOUGH D
+  1    23  CMST 2040         3  INTR TO PERFORM LITR   3.0  1240-0130   M W F  0137 COATES                           HUELL J
+  1    23  CMST 2040         5  INTR TO PERFORM LITR   3.0  1040-1200    T TH  0137 COATES                           MUDD D
+  2    22  CMST 2040         6  INTR TO PERFORM LITR   3.0  1210-0130    T TH  0137 COATES                           MUDD D
+(F)    26  CMST 2060         1  PUBLIC SPEAKING        3.0   740-0830   M W F  0102 COATES                           DENHAM J
+(F)    26  CMST 2060         2  PUBLIC SPEAKING        3.0   740-0830   M W F  0109 COATES                           HAAS B
+(F)    26  CMST 2060         3  PUBLIC SPEAKING        3.0   740-0830   M W F  0111 COATES                           APPLIN M
+(F)    26  CMST 2060        25  PUBLIC SPEAKING        3.0   740-0830   M W F  0127 COATES                           BUTCHER J
+(F)    26  CMST 2060        30  PUBLIC SPEAKING        3.0   740-0830   M W F  0236 COATES                           POLANCO R
+(F)    26  CMST 2060         4  PUBLIC SPEAKING        3.0   840-0930   M W F  0102 COATES                           DENHAM J
+(F)    26  CMST 2060         5  PUBLIC SPEAKING        3.0   840-0930   M W F  0109 COATES                           HAAS B
+(F)    26  CMST 2060         6  PUBLIC SPEAKING        3.0   940-1030   M W F  0102 COATES                           LESLIE B
+(F)    26  CMST 2060         7  PUBLIC SPEAKING        3.0   940-1030   M W F  0109 COATES                           GRAVES E
+(F)    26  CMST 2060        31  PUBLIC SPEAKING        3.0   940-1030   M W F  0234 COATES                           APPLIN M
+(F)    24  CMST 2060        34  PUBLIC SPEAKING        3.0   940-1030   M W F  0200 TUREAUD HALL                     FILBEL K
+  2    24  CMST 2060         8  PUBLIC SPEAKING        3.0  1040-1130   M W F  0102 COATES                           LESLIE B
+(F)    26  CMST 2060         9  PUBLIC SPEAKING        3.0  1040-1130   M W F  0109 COATES                           GRAVES E
+(F)    26  CMST 2060        26  PUBLIC SPEAKING        3.0  1040-1130   M W F  0111 COATES                           FILBEL K
+(F)    24  CMST 2060        35  PUBLIC SPEAKING        3.0  1040-1130   M W F  0218 STUBBS                           APPLIN M
+  1    25  CMST 2060        10  PUBLIC SPEAKING        3.0  1240-0130   M W F  0109 COATES                           SANDERS M
+(F)    26  CMST 2060        11  PUBLIC SPEAKING        3.0  1240-0130   M W F  0111 COATES                           APPLIN M
+(F)    26  CMST 2060        27  PUBLIC SPEAKING        3.0  1240-0130   M W F  0127 COATES                           POLANCO R
+(F)    26  CMST 2060        32  PUBLIC SPEAKING        3.0  1240-0130   M W F  0225 COATES                           TARVIN D
+(F)    26  CMST 2060        12  PUBLIC SPEAKING        3.0   140-0230   M W F  0102 COATES                           SANDERS M
+(F)    26  CMST 2060        13  PUBLIC SPEAKING        3.0   140-0230   M W F  0109 COATES                           HUNT L
+(F)    26  CMST 2060        33  PUBLIC SPEAKING        3.0   140-0230   M W F  0225 COATES                           TARVIN D
+(F)    26  CMST 2060        14  PUBLIC SPEAKING        3.0   240-0330   M W F  0102 COATES                           BUTCHER J
+  2    24  CMST 2060        15  PUBLIC SPEAKING        3.0   240-0330   M W F  0109 COATES                           HUNT L
+(F)    26  CMST 2060        28  PUBLIC SPEAKING        3.0   240-0330   M W F  0103 COATES                           BUTTERFIELD R
+  4    20  CMST 2060        38  PUBLIC SPEAKING        3.0   340-0630   M      0236 COATES                           SANDERS M
+(F)    26  CMST 2060        16  PUBLIC SPEAKING        3.0   740-0900    T TH  0102 COATES                           BRISINI T
+(F)    26  CMST 2060        17  PUBLIC SPEAKING        3.0   910-1030    T TH  0102 COATES                           WHITEHEAD K
+(F)    26  CMST 2060        18  PUBLIC SPEAKING        3.0   910-1030    T TH  0111 COATES                           MOE B
+(F)    26  CMST 2060        19  PUBLIC SPEAKING        3.0  1040-1200    T TH  0102 COATES                           PENCE M
+(F)    26  CMST 2060        20  PUBLIC SPEAKING        3.0  1040-1200    T TH  0111 COATES                           MCDONALD C
+  3    23  CMST 2060        21  PUBLIC SPEAKING        3.0  1210-0130    T TH  0102 COATES                           PENCE M
+(F)    26  CMST 2060        22  PUBLIC SPEAKING        3.0   140-0300    T TH  0102 COATES                           MCDONALD C
+(F)    26  CMST 2060        23  PUBLIC SPEAKING        3.0   140-0300    T TH  0109 COATES                           MOE B
+(F)    26  CMST 2060        24  PUBLIC SPEAKING        3.0   310-0430    T TH  0102 COATES                           WHITEHEAD K
+  1    25  CMST 2060        29  PUBLIC SPEAKING        3.0   310-0430    T TH  0237 COATES                           GRATCH A
+  2    22  CMST 2060        39  PUBLIC SPEAKING        3.0   340-0630     W    0236 COATES                           SANDERS M
+  3    31  CMST 2061         3  SPCH COMM BUS & PROF   3.0  1210-0130    T TH  0225 COATES          CI-WRITTEN&SPOK  PRIDE-SHAW S
+(F)    34  CMST 2061         4  SPCH COMM BUS & PROF   3.0   140-0300    T TH  0225 COATES          CI-WRITTEN&SPOK  PRIDE-SHAW S
+  1    25  CMST 2063         1  ARGUMENT AND DEBATE    3.0  1210-0130    T TH  0109 COATES                           BUTTERFIELD R
+(F)    26  CMST 2064         1  SM GROUP COMMUNICATI   3.0   910-1030    T TH  0228 COATES                           FANNIN A
+(F)    26  CMST 2064         2  SM GROUP COMMUNICATI   3.0  1210-0130    T TH  0228 COATES                           FANNIN A
+(F)    26  CMST 2064         3  SM GROUP COMMUNICATI   3.0   140-0300    T TH  0228 COATES          SVC LEARNING     FANNIN A
+ 10        CMST 2200 CLI     1  PRACT COMM STUDIES     1.0  TBA                                     PERMIS OF DEPT   EDWARDS J
+ 10        CMST 2200 CLI     2  PRACT COMM STUDIES     1.0  TBA                                     PERMIS OF DEPT   WOMELSDORF C
+ 10        CMST 2200 CLI     3  PRACT COMM STUDIES     1.0  TBA                                     PERMIS OF DEPT   GREY S
+ 10        CMST 2200 CLI     4  PRACT COMM STUDIES     1.0  TBA                                     PERMIS OF DEPT   LEBRET J
+(F)    74  CMST 3013         1  TOPICS FILM GENRES     4.0  1040-1130   M W F  0155 COATES                           SHAFFER T
+  5    15  CMST 3040         1  PERFORMANCE COMPOSIT   3.0   910-1030    T TH  0137 COATES                           BRISINI T
+(F)    25  CMST 3041         1  PERF IN EVERYDAY LIF   3.0  1210-0130    T TH  0111 COATES                           GRATCH A
+  3    22  CMST 3060         1  ADV PUBLIC SPEAKING    3.0  1240-0130   M W F  0228 COATES                           JONES-BODIE A
+(F)    36  CMST 3106         1  COMM AND POWER         3.0   940-1030   M W F  0225 COATES                           KING A
+(F)    38  CMST 3107         1  RHET CONTEMP MEDIA     3.0   940-1030   M W F  0103 COATES                           BUTCHER J
+  1    39  CMST 3113         1  CONVERSATION           3.0   740-0900    T TH  0234 COATES                           FANNIN A
+  2    28  CMST 3168         1  RHETORIC PROPAGANDA    3.0  1040-1130   M W F  0225 COATES                           CRICK N
+  6    19  CMST 3300         1  RHETORICAL CRITICISM   3.0  1240-0130   M W F  0102 COATES                           HUNT L
+  5        CMST 3810 RES     1  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   EDWARDS J
+  2     3  CMST 3810 RES     2  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   BODIE G
+  5        CMST 3810 RES     3  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   BOWMAN M
+  5        CMST 3810 RES     4  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   BOWMAN R
+  5        CMST 3810 RES     5  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   CRICK N
+  5        CMST 3810 RES     6  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   GREY S
+  5        CMST 3810 RES     7  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   HALL R
+  5        CMST 3810 RES     8  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   HONEYCUTT J
+  4     1  CMST 3810 RES     9  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   KING A
+  5        CMST 3810 RES    10  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   PECCHIONI L
+  5        CMST 3810 RES    11  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   SHAFFER T
+(H)        CMST 3810 RES    12  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   SUCHY P
+(F)    45  CMST 3900         1  COMM ACROSS LIFESPAN   3.0   940-1030   M W F  0155 COATES                           PECCHIONI L
+  3    27  CMST 3900         2  RHETORIC OF RELIGION   3.0   240-0330   M W F  0225 COATES                           KING A
+  2    58  CMST 4101         1  ORGANIZTNL COMM        3.0   840-0930   M W F  0214 COATES                           JONES-BODIE A
+(F)    26  CMST 4107         1  COMM AS CULTURE        3.0   140-0300    T TH  0234 COATES                           GREY S
+  1    59  CMST 4114         1  CON TH COMMUNICATION   3.0  1040-1200    T TH  0214 COATES                           KEATON S
+  4    61  CMST 4118         1  COM MOD MARIT & FMLY   3.0   910-1030    T TH  0155 COATES                           KEATON S
+(F)    30  CMST 4119         1  NONVERBAL COMMUNICTN   3.0  1040-1200    T TH  0109 COATES          CI-WRITTEN&SPOK  EDWARDS J
+(F)    20  CMST 4141         1  ANLY & PERF OF NARRA   3.0   140-0230   M W F  0137 COATES                           BOWMAN M
+  2    23  CMST 4150         1  TOURISM COMM & PERF    3.0  1040-1130   M W F  0243 LOCKETT                          BOWMAN M
+  2    23  CMST 4169         1  VISUAL RHETORIC        3.0  1040-1200    T TH  0234 COATES                           HALL R
+ 10        CMST 4200 CLI     1  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   EDWARDS J
+ 10        CMST 4200 CLI     2  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   BODIE G
+ 10        CMST 4200 CLI     3  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   BOWMAN M
+ 10        CMST 4200 CLI     4  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   BOWMAN R
+  9     1  CMST 4200 CLI     5  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   CRICK N
+ 10        CMST 4200 CLI     6  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   GREY S
+ 10        CMST 4200 CLI     7  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   HALL R
+ 10        CMST 4200 CLI     8  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   HONEYCUTT J
+ 10        CMST 4200 CLI     9  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   KING A
+ 10        CMST 4200 CLI    10  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   PECCHIONI L
+ 10        CMST 4200 CLI    11  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   SHAFFER T
+ 10        CMST 4200 CLI    12  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   SUCHY P
+  4     6  CMST 4200 CLI    13  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   LEBRET J
+(F)    11  CMST 4200 CLI    14  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   FANNIN A
+(F)    10  CMST 7900         1  INTRO GRAD STUDIES     3.0   340-0630      TH  0234 COATES                           GREY S
+  1     9  CMST 7901 SEM     1  SEM PDGY COMM CLSRM    1.0  1140-1230   M      0127 COATES                           PECCHIONI L
+  4     6  CMST 7910 SEM     1  SEM INTERPERS COMMUN   3.0   140-0300    T TH  0112 PRESCOTT                         HONEYCUTT J
+ 15     5  CMST 7915 SEM     1  SEM RES COMM THEORY    3.0  1210-0130    T TH  0205 COATES                           BODIE G
+  4     6  CMST 7945 SEM     1  SM:CNT TH/RS PERF ST   3.0   140-0300   M W    0111 COATES                           SHAFFER T
+(F)    12  CMST 7946 SEM     1  PERF NARRAT DISCOURS   3.0   310-0600    T     0111 COATES                           SUCHY P
+  2     8  CMST 7969 SEM     1  VISUAL CULTURE         3.0   340-0630     W    0225 COATES                           HALL R
+  2     8  CMST 7976         1  RHETORIC & AESTHETIC   3.0   340-0630   M      0225 COATES                           CRICK N
+ 14     1  CMST 7999 IND     1  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   EDWARDS J
+ 15        CMST 7999 IND     2  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   BODIE G
+ 15        CMST 7999 IND     3  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   BOWMAN M
+ 15        CMST 7999 IND     4  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   BOWMAN R
+ 15        CMST 7999 IND     5  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   CRICK N
+ 14     1  CMST 7999 IND     6  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   GREY S
+ 15        CMST 7999 IND     7  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   HALL R
+ 14     1  CMST 7999 IND     8  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   HONEYCUTT J
+ 15        CMST 7999 IND     9  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   KING A
+ 15        CMST 7999 IND    10  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   PECCHIONI L
+ 15        CMST 7999 IND    11  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   SHAFFER T
+ 14     1  CMST 7999 IND    12  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   SUCHY P
+ 10        CMST 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      EDWARDS J
+ 10        CMST 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BODIE G
+ 10        CMST 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BOWMAN M
+ 10        CMST 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      BOWMAN R
+ 10        CMST 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      CRICK N
+ 10        CMST 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      GREY S
+ 10        CMST 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      HALL R
+ 10        CMST 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      HONEYCUTT J
+ 10        CMST 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      KING A
+ 10        CMST 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      PECCHIONI L
+ 10        CMST 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      SHAFFER T
+  9     1  CMST 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      SUCHY P
+  8     2  CMST 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      EDWARDS J
+  8     2  CMST 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BODIE G
+  7     3  CMST 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      BOWMAN M
+  7     3  CMST 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      BOWMAN R
+  8     2  CMST 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      CRICK N
+  8     2  CMST 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      GREY S
+ 10        CMST 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      HALL R
+  8     2  CMST 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      HONEYCUTT J
+  8     2  CMST 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      KING A
+  9     1  CMST 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      PECCHIONI L
+  9     1  CMST 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SHAFFER T
+  9     1  CMST 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      SUCHY P

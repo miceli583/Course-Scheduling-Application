@@ -1,0 +1,27 @@
+  1    51  IE   1002         1  INDUSTRIAL ENGR FUND   3.0   900-1020    T TH  2150 PATRICK TAYLOR  CI-WRITTEN&SPOK  HARVEY C
+(F)    90  IE   3201         1  PRIN ENGR ECONOMY      3.0  1200-0120    T TH  0202 WILLIAMS                         LIAO T
+  7    93  IE   3302         1  ENGR STATISTICS        3.0   830-0920   M W F  0103 TUREAUD HALL                     IKUMA L
+ 21    11  IE   3520         1  SUPPLY CHAIN LOGISTI   3.0   930-1020   M W F  3133 PATRICK TAYLOR                   SARKER B
+  9     1  IE   3699 CLI     2  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT   KNAPP G
+ 20    15  IE   4362         1  ADV ENGRNG STAT        3.0   130-0250    T TH  3131 PATRICK TAYLOR                   LIAO T
+ 15    17  IE   4516         1  PLANT & SYSTEMS DESN   3.0  1030-1150    T TH  3133 PATRICK TAYLOR  CI-WRITTEN&SPOK  MANN L
+ 19    13  IE   4530         3  LEAN MAN SYSTEMS       3.0   130-0220   M W    3133 PATRICK TAYLOR  CI-WRITTEN&TECH  KNAPP G
+ 42     6  IE   4597         1  IE SENIOR DESIGN I     2.0   230-0520   M      3133 PATRICK TAYLOR  PERMIS OF DEPT   AGHAZADEH F
+ 21    11  IE   4599         1  IE SR DESN PROJECT     3.0  TBA                                     PERMIS OF DEPT   AGHAZADEH F
+(F)     2  IE   4785 RES     2  SPEC TOP IND ENGR      1-3  TBA                                     PERMIS OF DEPT   KNAPP G
+  8     2  IE   4785 RES     3  SPEC TOP IND ENGR      1-3  TBA                                     PERMIS OF DEPT   SARKER B
+  8     2  IE   4785 RES     4  SPEC TOP IND ENGR      1-3  TBA                                     PERMIS OF DEPT   IKUMA L
+ 13     7  IE   7425         2  ADV INFO SYST ENGR     3.0   900-0950   M W    1121 PATRICK TAYLOR                   KNAPP G
+ 10     5  IE   7465         1  OCCUP BIOMECHANICS     3.0   130-0220   M W    3131 PATRICK TAYLOR                   AGHAZADEH F
+ 24     8  IE   7541         1  LINEAR PROG ALGORITH   3.0  1200-0120   M W    3133 PATRICK TAYLOR                   SARKER B
+ 25     7  IE   7722         1  HLTHCARE RES METHODS   3.0  1030-1150   M W    3133 PATRICK TAYLOR                   IKUMA L
+ 19     1  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                                      KNAPP G
+  9     1  IE   7724 IND     2  INDEP STUDY IE         1-3  TBA                                     PERMIS OF DEPT   HARVEY C
+ 19     1  IE   7724 IND     3  INDEP STUDY IE         1-3  TBA                                                      NAHMENS I
+ 18     2  IE   7724 IND     4  INDEP STUDY IE         1-3  TBA                                                      SARKER B
+ 96     3  IE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   KNAPP G
+  2     3  IE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   IKUMA L
+ 98     1  IE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      LIAO T
+ 98     1  IE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      HARVEY C
+ 98     1  IE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      NAHMENS I
+  4     1  IE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   AGHAZADEH F

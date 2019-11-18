@@ -1,0 +1,82 @@
+ 97     2  CSC  3999 RES     1  IND UNDERGRAD RES      1-3  TBA                                     PERMIS OF DEPT   KAISER H
+ 99        CSC  4999 RES     1  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   ALLEN G
+ 99        CSC  4999 RES     2  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 99        CSC  4999 RES     3  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   BUSCH K
+ 99        CSC  4999 RES     4  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   CARVER D
+ 99        CSC  4999 RES     5  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   CHEN J
+ 99        CSC  4999 RES     6  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   CHEN P
+ 99        CSC  4999 RES     7  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   UNASSIGNED
+ 99        CSC  4999 RES     8  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KANNAN R
+ 99        CSC  4999 RES     9  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KARKI B
+ 99        CSC  4999 RES    10  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   UNASSIGNED
+ 99        CSC  4999 RES    11  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KUNDU S
+ 99        CSC  4999 RES    12  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 99        CSC  4999 RES    13  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   PARK S
+ 99        CSC  4999 RES    14  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   SHAH R
+ 99        CSC  4999 RES    15  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   UNASSIGNED
+ 99        CSC  4999 RES    16  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 99        CSC  4999 RES    17  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   TYLER J
+ 99        CSC  4999 RES    18  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   ULLMER B
+ 99        CSC  4999 RES    19  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   ZHANG J
+ 99        CSC  4999 RES    20  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KAISER H
+ 99        CSC  4999 RES    21  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KOOIMA R
+ 99        CSC  4999 RES    22  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   LI X
+ 99        CSC  4999 RES    23  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   JHA S
+ 99        CSC  4999 RES    24  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KRAFT D
+ 99        CSC  4999 RES    25  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   BRANDT S
+ 99        CSC  4999 RES    26  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   BRANTON C
+ 99        CSC  4999 RES    27  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   SOYSAL O
+ 99        CSC  7999 RES     1  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   ALLEN G
+ 99        CSC  7999 RES     2  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 99        CSC  7999 RES     3  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   BUSCH K
+ 99        CSC  7999 RES     4  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   CARVER D
+ 99        CSC  7999 RES     5  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   CHEN J
+ 99        CSC  7999 RES     6  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   CHEN P
+ 99        CSC  7999 RES     7  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   IYENGAR S
+ 99        CSC  7999 RES     8  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KANNAN R
+ 99        CSC  7999 RES     9  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KARKI B
+ 99        CSC  7999 RES    10  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   UNASSIGNED
+ 99        CSC  7999 RES    11  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KUNDU S
+ 99        CSC  7999 RES    12  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 99        CSC  7999 RES    13  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   PARK S
+ 99        CSC  7999 RES    14  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   SHAH R
+ 99        CSC  7999 RES    15  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   UNASSIGNED
+ 99        CSC  7999 RES    16  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 99        CSC  7999 RES    17  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   TYLER J
+ 99        CSC  7999 RES    18  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   ULLMER B
+ 99        CSC  7999 RES    19  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   ZHANG J
+ 99        CSC  7999 RES    20  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KAISER H
+ 99        CSC  7999 RES    21  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KOOIMA R
+ 98     1  CSC  7999 RES    22  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   LI X
+ 99        CSC  7999 RES    23  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   JHA S
+ 99        CSC  7999 RES    24  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KRAFT D
+ 99        CSC  7999 RES    25  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   BRANDT S
+ 99        CSC  7999 RES    26  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 99        CSC  7999 RES    27  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   SOYSAL O
+ 99        CSC  9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ALLEN G
+ 98     1  CSC  9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 98     1  CSC  9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BUSCH K
+ 99        CSC  9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CARVER D
+ 99        CSC  9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN J
+ 99        CSC  9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN P
+ 99        CSC  9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   IYENGAR S
+ 99        CSC  9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KANNAN R
+ 99        CSC  9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KARKI B
+ 99        CSC  9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KOSAR T
+ 99        CSC  9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KUNDU S
+ 93     6  CSC  9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 98     1  CSC  9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PARK S
+ 98     1  CSC  9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SHAH R
+ 99        CSC  9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   STERLING T
+ 99        CSC  9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 99        CSC  9000 RES    17  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   TYLER J
+ 99        CSC  9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ULLMER B
+ 97     2  CSC  9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ZHANG J
+ 99        CSC  9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KAISER H
+ 99        CSC  9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KOOIMA R
+ 99        CSC  9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LI X
+ 99        CSC  9000 RES    23  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   JHA S
+ 99        CSC  9000 RES    24  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KRAFT D
+ 97     2  CSC  9000 RES    25  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BRANDT S
+ 99        CSC  9000 RES    26  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        CSC  9000 RES    27  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SOYSAL O

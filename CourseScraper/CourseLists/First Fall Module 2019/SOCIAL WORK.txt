@@ -1,0 +1,29 @@
+(F)    33  SW   7001         1  HUM BEH/SOC ENV I      3.0  TBA                                     LSU ONLINE       KIM Y
+  1    32  SW   7001         2  HUM BEH/SOC ENV I      3.0  TBA                                     LSU ONLINE       WILLIAMS A
+(F)    33  SW   7001         3  HUM BEH/SOC ENV I      3.0  TBA                                     LSU ONLINE       WILLIAMS A
+  2    32  SW   7001         4  HUM BEH/SOC ENV I      3.0  TBA                                     LSU ONLINE       NORWOOD R
+  3    31  SW   7001         5  HUM BEH/SOC ENV I      3.0  TBA                                     LSU ONLINE       NORWOOD R
+(F)    32  SW   7002         1  HUM BEH/SOC ENV II     3.0  TBA                                     LSU ONLINE       KIM Y
+  2    31  SW   7004         1  HUM DIVERS & OPPRESS   3.0  TBA                                     LSU ONLINE       ALLEN P
+(F)    32  SW   7004         2  HUM DIVERS & OPPRESS   3.0  TBA                                     LSU ONLINE       HUNTER D
+(F)    32  SW   7004         3  HUM DIVERS & OPPRESS   3.0  TBA                                     LSU ONLINE       HUNTER D
+  3    29  SW   7004         4  HUM DIVERS & OPPRESS   3.0  TBA                                     LSU ONLINE       MALONE M
+  4    28  SW   7004         5  HUM DIVERS & OPPRESS   3.0  TBA                                     LSU ONLINE       CHURCH W
+  6    26  SW   7004         6  HUM DIVERS & OPPRESS   3.0  TBA                                     LSU ONLINE       CHURCH W
+ 13    17  SW   7004         7  HUM DIVERS & OPPRESS   3.0  TBA                                     LSU ONLINE       MALONE M
+118    32  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     LSU ONLINE       LILLEY T
+ 45    40  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     LSU ONLINE       LILLEY T
+(F)    40  SW   7404         1  SW PRACT IN SCHOOLS    3.0  TBA                                     100% WEB BASED   CONRAD B
+(F)    30  SW   7404         2  SW PRACT IN SCHOOLS    3.0  TBA                                     LSU ONLINE       AINSWORTH L
+(F)    30  SW   7412         1  SW IN MEDICAL CARE     3.0  TBA                                     LSU ONLINE       WILLIAMS A
+ 54    96  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     LSU ONLINE       LILLEY T
+ 65    34  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     LSU ONLINE       LILLEY T
+(F)    34  SW   7505         1  ADV DIR THRY & PRAC    3.0  TBA                                     LSU ONLINE       MCILWAIN L
+(F)    33  SW   7505         2  ADV DIR THRY & PRAC    3.0  TBA                                     LSU ONLINE       MCILWAIN L
+(F)    33  SW   7505         3  ADV DIR THRY & PRAC    3.0  TBA                                     LSU ONLINE       NORWOOD R
+(F)    33  SW   7505         4  ADV DIR THRY & PRAC    3.0  TBA                                     LSU ONLINE       CONRAD B
+  1    32  SW   7505         5  ADV DIR THRY & PRAC    3.0  TBA                                     LSU ONLINE       JAGGERS J
+  3    27  SW   7801         1  FAMILY VIOLENCE        3.0  TBA                                     LSU ONLINE       BARTHELEMY J
+  4    26  SW   7801         2  FAMILY VIOLENCE        3.0  TBA                                     LSU ONLINE       BARTHELEMY J
+  1    29  SW   7807 SEM     1  AT RISK YOUTH          3.0  TBA                                     LSU ONLINE       COLSON T
+(F)    30  SW   7807 SEM     2  SW DEVLOPMENTAL DISB   3.0  TBA                                     LSU ONLINE       DINECOLA C

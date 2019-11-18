@@ -1,0 +1,72 @@
+ 23    27  OCS  1005         1  INTRO OCEANOGRAPHY     3.0  1030-1130   MTWTF  0215 TUREAUD HALL                     LAROCK P
+(F)     1  OCS  3999 RES     1  UNDERGRAD RESEARCH     1-6  TBA                                                      LI C
+(F)     1  OCS  3999 RES     2  UNDERGRAD RESEARCH     1-6  TBA                                                      ROSE K
+(F)     1  OCS  3999 RES     3  UNDERGRAD RESEARCH     1-6  TBA                                                      MAITI K
+ 99        OCS  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BALTZ D
+ 98     1  OCS  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BENFIELD M
+ 99        OCS  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      CABLE J
+ 98     1  OCS  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      CARNEY R
+ 99        OCS  8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      CONDREY R
+ 99        OCS  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      DAY J
+ 92     7  OCS  8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      COWAN J
+ 99        OCS  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      FRY B
+ 99        OCS  8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      GAMBRELL R
+ 98     1  OCS  8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      HUANG H
+ 99        OCS  8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      LIU K
+ 99        OCS  8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      BARGU ATES S
+ 97     2  OCS  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      MENDELSSOHN I
+ 99        OCS  8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      ROBERTS H
+ 99        OCS  8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      ROSE K
+ 99        OCS  8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      ROUSE L
+ 98     1  OCS  8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      MAITI K
+ 98     1  OCS  8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      SHAW R
+ 99        OCS  8000 RES    19  THESIS RESEARCH        1-12 TBA                                                      TURNER R
+ 98     1  OCS  8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      LI C
+ 98     1  OCS  8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      WHITE J
+ 99        OCS  8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      WALKER N
+ 99        OCS  8000 RES    23  THESIS RESEARCH        1-12 TBA                                                      LINDAU C
+ 98     1  OCS  8000 RES    24  THESIS RESEARCH        1-12 TBA                                                      TWILLEY R
+ 99        OCS  8000 RES    25  THESIS RESEARCH        1-12 TBA                                                      RABALAIS N
+ 96     3  OCS  8000 RES    26  THESIS RESEARCH        1-12 TBA                                                      D'SA E
+ 99        OCS  8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      SAMMARCO P
+ 99        OCS  8000 RES    28  THESIS RESEARCH        1-12 TBA                                                      POWERS J
+ 98     1  OCS  8000 RES    29  THESIS RESEARCH        1-12 TBA                                                      WHITE J
+ 99        OCS  8000 RES    30  THESIS RESEARCH        1-12 TBA                                                      MAITI K
+ 98     1  OCS  8000 RES    31  THESIS RESEARCH        1-12 TBA                                                      SUTOR M
+  1        OCS  8900 RES     1  ADV RDGS & LIT RES     1-6  TBA                                                      LI C
+(F)     1  OCS  8900 RES     3  ADV RDGS & LIT RES     1-6  TBA                                                      MENDELSSOHN I
+ 98     1  OCS  8901 RES     2  ADV FIELD RESEARCH     1-6  TBA                                                      WHITE J
+ 98     1  OCS  8901 RES     3  ADV FIELD RESEARCH     1-6  TBA                                                      BRAUD D
+ 99        OCS  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BALTZ D
+ 98     1  OCS  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BENFIELD M
+ 99        OCS  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CABLE J
+ 99        OCS  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CARNEY R
+ 99        OCS  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      CONDREY R
+ 99        OCS  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      DAY J
+ 99        OCS  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      D'SA E
+ 99        OCS  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      FRY B
+ 97     2  OCS  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      GAMBRELL R
+ 98     1  OCS  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      LI C
+ 97     2  OCS  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      LIU K
+ 98     1  OCS  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      COWAN J
+ 97     2  OCS  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      MENDELSSOHN I
+ 97     2  OCS  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      POWERS J
+ 99        OCS  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      ROBERTS H
+ 98     1  OCS  9000 RES    16  DISSERTATION RES       1-12 TBA                                                      ROSE K
+ 99        OCS  9000 RES    17  DISSERTATION RES       1-12 TBA                                                      ROUSE L
+ 98     1  OCS  9000 RES    18  DISSERTATION RES       1-12 TBA                                                      JUSTIC D
+ 99        OCS  9000 RES    19  DISSERTATION RES       1-12 TBA                                                      SASSER C
+ 98     1  OCS  9000 RES    20  DISSERTATION RES       1-12 TBA                                                      MAITI K
+ 97     2  OCS  9000 RES    21  DISSERTATION RES       1-12 TBA                                                      TURNER R
+ 98     1  OCS  9000 RES    22  DISSERTATION RES       1-12 TBA                                                      TWILLEY R
+ 99        OCS  9000 RES    23  DISSERTATION RES       1-12 TBA                                                      LINDAU C
+ 99        OCS  9000 RES    24  DISSERTATION RES       1-12 TBA                                                      WALKER N
+ 97     2  OCS  9000 RES    25  DISSERTATION RES       1-12 TBA                                                      WHITE J
+ 99        OCS  9000 RES    26  DISSERTATION RES       1-12 TBA                                                      RABALAIS N
+ 98     1  OCS  9000 RES    28  DISSERTATION RES       1-12 TBA                                                      HUANG H
+ 97     2  OCS  9000 RES    30  DISSERTATION RES       1-12 TBA                                                      BARGU ATES S
+ 98     1  OCS  9000 RES    31  DISSERTATION RES       1-12 TBA                                                      SASSER C
+  1        OCS  8900 RES     2  ADV RDGS & LIT RES     1-6  TBA                                                      CONDREY R
+(F)     1  OCS  8901 RES     1  ADV FIELD RESEARCH     1-6  TBA                                                      SUTOR M
+ 99        OCS  9000 RES    27  DISSERTATION RES       1-12 TBA                                                      SAMMARCO P
+ 99        OCS  9000 RES    29  DISSERTATION RES       1-12 TBA                                                      LAWS E

@@ -1,0 +1,81 @@
+ 23   117  PHYS 2001         1  GENERAL PHYSICS        3.0  1100-1200   MTWTF  0130 NICHOLSON                        STACY J
+ 64    76  PHYS 2002         1  GENERAL PHYSICS        3.0  0950-1050   MTWTF  0130 NICHOLSON                        STACY J
+(F)    24  PHYS 2108 LAB     1  LAB WRK TECHN PHYS     1.0  1210-0300   M  TH  0011 NICHOLSON                        BROWNE D
+  1    23  PHYS 2108 LAB     2  LAB WRK TECHN PHYS     1.0   330-0620   M  TH  0011 NICHOLSON                        BROWNE D
+ 10    14  PHYS 2108 LAB     3  LAB WRK TECHN PHYS     1.0   700-1000N  M  TH  0011 NICHOLSON                        BROWNE D
+  2    22  PHYS 2108 LAB     4  LAB WRK TECHN PHYS     1.0  1210-0300    T  F  0011 NICHOLSON                        BROWNE D
+  5    19  PHYS 2109 LAB     1  GEN PHYSICS LAB        1.0  1210-0300   M  TH  0014 NICHOLSON                        BROWNE D
+ 11    13  PHYS 2109 LAB     2  GEN PHYSICS LAB        1.0   330-0620   M  TH  0014 NICHOLSON                        BROWNE D
+  4    20  PHYS 2109 LAB     3  GEN PHYSICS LAB        1.0   700-1000N  M  TH  0014 NICHOLSON                        BROWNE D
+ 16     8  PHYS 2109 LAB     4  GEN PHYSICS LAB        1.0  1210-0300    T  F  0014 NICHOLSON                        BROWNE D
+ 33    42  PHYS 2110         1  PARTICLE MECHANICS     3.0  1100-1200   MTWTF  0109 NICHOLSON                        MCELGIN W
+ 23    52  PHYS 2110         2  PARTICLE MECHANICS     3.0   120-0220   MTWTF  0119 NICHOLSON                        MCELGIN W
+ 21    39  PHYS 2112         1  THERMO AND WAVES       3.0  1100-1200   MTWTF  0119 NICHOLSON                        TZANOV M
+ 35    25  PHYS 2113         3  ELECTROMAGNETISM       3.0  0840-0940   MTWTF  0109 NICHOLSON                        LEE H
+ 18    42  PHYS 2113         1  ELECTROMAGNETISM       3.0  0950-1050   MTWTF  0109 NICHOLSON                        ZUNIGA HANSEN
+ 22    38  PHYS 2113         2  ELECTROMAGNETISM       3.0  1210-0110   MTWTF  0119 NICHOLSON                        ZUNIGA HANSEN
+ 10        PHYS 4398 RES     1  UNDERGRADUATE RESEAR   1-3  TBA
+  1        PHYS 4398 RES     2  UNDERGRADUATE RESEAR   1-3  TBA
+ 99        PHYS 4398 RES     3  UNDERGRADUATE RESEAR   1-3  TBA
+(F)     1  PHYS 4991 RES     1  SPEC PROB IN PHYS      1-3  TBA                                                      WANG W
+ 10        PHYS 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BROWNE D
+ 10        PHYS 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      CHERRY M
+ 10        PHYS 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      MORENO J
+ 10        PHYS 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      PULLIN J
+ 10        PHYS 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      BROWNE D
+ 10        PHYS 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      HABER L
+  6     4  PHYS 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BLACKMON J
+ 10        PHYS 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BROWNE D
+  8     2  PHYS 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CHERRY M
+  7     3  PHYS 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CLAYTON J
+  9     1  PHYS 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      DIENER P
+ 10        PHYS 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      DITUSA J
+  3     7  PHYS 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      DOWLING J
+  6     4  PHYS 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      DRAAYER J
+ 10        PHYS 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      FRANK J
+  8     2  PHYS 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      GAARDE M
+  8     2  PHYS 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      GIAIME J
+  6     4  PHYS 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      GONZALEZ G
+  8     2  PHYS 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      HYNES R
+ 10        PHYS 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      JOHNSON W
+ 10        PHYS 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      KURTZ R
+ 10        PHYS 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      KUTTER T
+  9     1  PHYS 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      LEE H
+  9     1  PHYS 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      AGULLO RODENA
+ 10        PHYS 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      MATTHEWS J
+ 10        PHYS 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      METCALF W
+ 10        PHYS 9000 RES    21  DISSERTATION RES       1-12 TBA                                                      PULLIN J
+ 10        PHYS 9000 RES    22  DISSERTATION RES       1-12 TBA                                                      RAU A
+ 10        PHYS 9000 RES    23  DISSERTATION RES       1-12 TBA                                                      SCHAEFER B
+  9     1  PHYS 9000 RES    24  DISSERTATION RES       1-12 TBA                                                      MORENO J
+  8     2  PHYS 9000 RES    25  DISSERTATION RES       1-12 TBA                                                      SPRUNGER P
+  9     1  PHYS 9000 RES    26  DISSERTATION RES       1-12 TBA                                                      JIA G
+  9     1  PHYS 9000 RES    27  DISSERTATION RES       1-12 TBA                                                      STADLER S
+ 10        PHYS 9000 RES    28  DISSERTATION RES       1-12 TBA                                                      TOHLINE J
+ 10        PHYS 9000 RES    29  DISSERTATION RES       1-12 TBA                                                      VEKHTER I
+  9     1  PHYS 9000 RES    30  DISSERTATION RES       1-12 TBA                                                      YOUNG D
+ 10        PHYS 9000 RES    31  DISSERTATION RES       1-12 TBA                                                      O'CONNELL R
+  9     1  PHYS 9000 RES    32  DISSERTATION RES       1-12 TBA                                                      CARMICHAEL O
+  6     4  PHYS 9000 RES    33  DISSERTATION RES       1-12 TBA                                                      ZHANG J
+  6     4  PHYS 9000 RES    34  DISSERTATION RES       1-12 TBA                                                      JARRELL M
+  5     5  PHYS 9000 RES    35  DISSERTATION RES       1-12 TBA                                                      JIN R
+ 10        PHYS 9000 RES    36  DISSERTATION RES       1-12 TBA                                                      SHEEHY D
+  8     2  PHYS 9000 RES    37  DISSERTATION RES       1-12 TBA                                                      PLUMMER E
+ 10        PHYS 9000 RES    38  DISSERTATION RES       1-12 TBA                                                      HOGSTROM K
+ 10        PHYS 9000 RES    39  DISSERTATION RES       1-12 TBA                                                      ADAMS P
+  8     2  PHYS 9000 RES    40  DISSERTATION RES       1-12 TBA                                                      MARLEY S
+  9     1  PHYS 9000 RES    41  DISSERTATION RES       1-12 TBA                                                      SCHAFER K
+  9     1  PHYS 9000 RES    42  DISSERTATION RES       1-12 TBA                                                      SINGH P
+  7     3  PHYS 9000 RES    43  DISSERTATION RES       1-12 TBA                                                      DEIBEL C
+  8     2  PHYS 9000 RES    44  DISSERTATION RES       1-12 TBA                                                      CORBITT T
+  8     2  PHYS 9000 RES    45  DISSERTATION RES       1-12 TBA                                                      FONTENOT J
+  7     3  PHYS 9000 RES    46  DISSERTATION RES       1-12 TBA                                                      NEWHAUSER W
+  9     1  PHYS 9000 RES    47  DISSERTATION RES       1-12 TBA                                                      VEKHTER I
+ 10        PHYS 9000 RES    48  DISSERTATION RES       1-12 TBA                                                      TZANOV M
+  8     2  PHYS 9000 RES    49  DISSERTATION RES       1-12 TBA                                                      WILDE M
+  9     1  PHYS 9000 RES    50  DISSERTATION RES       1-12 TBA                                                      MATTHEWS K
+  9     1  PHYS 9000 RES    51  DISSERTATION RES       1-12 TBA                                                      SCHNEIDER G
+ 10        PHYS 9000 RES    52  DISSERTATION RES       1-12 TBA                                                      HABER L
+  9     1  PHYS 9000 RES    53  DISSERTATION RES       1-12 TBA                                                      DEY J
+ 14    61  PHYS 2001         2  GENERAL PHYSICS        3.0  1250-0230   MTWTF  0109 NICHOLSON                        SPRUNGER P
+ 29    58  PHYS 2002         2  GENERAL PHYSICS        3.0   300-0440   MTWTF  0109 NICHOLSON                        YOUNG D

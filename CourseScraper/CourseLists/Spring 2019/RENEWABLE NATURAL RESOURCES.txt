@@ -1,0 +1,86 @@
+247    93  RNR  1001         1  NAT RESOURCE CONSERV   3.0  1030-1120   M W F  0100 DODSON                           DEMARCO K
+(F)    55  RNR  1010         1  INTRO NAT RES ECOL     4.0  1030-1120   M W F  0142 RENEWABLE NAT R                  KELSO W
+  7     8  RNR  1071         1  HON INT NAT RES ECO    4.0  1030-1120   M W F  0142 RENEWABLE NAT R                  KELSO W
+  8    27  RNR  2031         1  PRINC WILDLIFE MGT     3.0   930-1020   M W F  0142 RENEWABLE NAT R                  LABORDE L
+(F)    26  RNR  2039         1  INT RNR RESRC PLCY     3.0   730-0820   M W F  0142 RENEWABLE NAT R                  CHANG S
+(F)    16  RNR  2061 SEM     2  INTRO MEDICINAL PLNT   1-4  1030-1150    T TH  0141 RENEWABLE NAT R                  LIU Z
+(F)     3  RNR  2061 SEM     1  PRB NAT RESOURCE MGT   1-4  TBA                                                      KALLER M
+  9     1  RNR  2071         1  HNRS INTRO RNR POLIC   4.0   730-0820   M W F  0142 RENEWABLE NAT R                  CHANG S
+  8     2  RNR  2072         1  HNRS PRINC WILDLIFE    4.0   930-1020   M W F  0142 RENEWABLE NAT R                  LABORDE L
+(F)    35  RNR  2101         1  ECOL RENEW NAT RES     3.0   130-0250    T TH  0230 RENEWABLE NAT R                  DOZIER H
+(F)    28  RNR  2102         1  NAT RES MEASUR & GIS   3.0   830-0920    T TH  0141 RENEWABLE NAT R                  CAO Q
+  8    22  RNR  3002         1  SILVICULTURE           2.0   930-1020    T TH  0230 RENEWABLE NAT R                  DEAN T
+  5    15  RNR  3004         2  FOR PHOTOGRAM, GPS,    3.0   130-0420    T     0214 RENEWABLE NAT R                  WOLCOTT M
+(F)    20  RNR  3004         1  FOR PHOTOGRAM, GPS,    3.0   130-0420     W    0214 RENEWABLE NAT R                  WOLCOTT M
+  1    19  RNR  3018         1  ECOL & MGT LA WILDL    4.0  1230-0120    T TH  0142 RENEWABLE NAT R SVC LEARNING     STOUFFER P
+(F)    26  RNR  3018         2  ECOL & MGT LA WILDL    4.0   130-0220    T TH  0206 RENEWABLE NAT R                  LABORDE L
+ 28    12  RNR  3034 CLI     1  FLD STUD IN DENDROLO   1.0  TBA                                                      REID C
+ 28    12  RNR  3036 CLI     1  FLD STUD IN MENSURAT   2.0  TBA                                                      CAO Q
+ 27    13  RNR  3037 CLI     1  FLD STUD IN SILVICUL   1.0  TBA                                                      DEAN T
+ 28    12  RNR  3038 CLI     1  FLD STUD TIMBR HARVE   1.0  TBA                                                      DE HOOP C
+ 27    13  RNR  3039 CLI     1  FLD STUD WOOD UTILIZ   1.0  TBA                                                      WU Q
+ 28    12  RNR  3040 CLI     1  FLD STD SILVIC PRESC   1.0  TBA                                                      DEAN T
+  2    13  RNR  3041 CLI     1  FORESTED WETLANDS      1.0  TBA                                                      KEIM R
+ 17    18  RNR  3103         1  FOREST BIOMETRICS      2.0   730-0820   M W    0141 RENEWABLE NAT R                  CAO Q
+  3    12  RNR  3107         1  WOOD PROCUREMENT       2.0  1230-0120    T     0225 RENEWABLE NAT R                  DE HOOP C
+ 14     6  RNR  3108         1  CS STDS HABITAT REST   2.0  1230-0520    T                                           NYMAN J
+ 20     5  RNR  3913         1  QUANT WILDLIFE FISH    4.0   930-1050    T TH  0214 RENEWABLE NAT R                  COLLIER B
+  4    21  RNR  4012         1  WATERFOWL BIO CONSV    4.0   130-0220   M W F  0142 RENEWABLE NAT R                  RINGELMAN K
+(F)     5  RNR  4015         1  CONSERVATION BIOLOGY   4.0  1200-0120    T TH  0206 WILLIAMS                         PLATT W
+  1     4  RNR  4015         2  CONSERVATION BIOLOGY   4.0  1200-0120    T TH  0206 WILLIAMS                         PLATT W
+  1     4  RNR  4015         3  CONSERVATION BIOLOGY   4.0  1200-0120    T TH  0206 WILLIAMS                         PLATT W
+(F)    21  RNR  4020         1  TAX/ECOL WETLAND PL    4.0  1030-1120   M W F  0206 RENEWABLE NAT R                  REID C
+(F)    20  RNR  4020         2  TAX/ECOL WETLAND PL    4.0  1030-1120   M W F  0206 RENEWABLE NAT R                  REID C
+(F)    44  RNR  4023         1  MARINE FISH RESOURCE   3.0   830-0920   M W F  0141 RENEWABLE NAT R                  KELSO W
+ 15    20  RNR  4032         1  FOR FIRE PROTECT USE   2.0   930-1020       F  0141 RENEWABLE NAT R                  DE HOOP C
+(F)    28  RNR  4037         1  BIOLOGY OF FISHES      3.0  1230-0120   M W F  0230 RENEWABLE NAT R                  GREEN C
+ 27     3  RNR  4038         1  FOREST ECONOMICS       3.0   130-0250    T TH  0141 RENEWABLE NAT R                  CHANG S
+ 21     4  RNR  4051         1  WILDLIFE HABITAT MGT   3.0   930-1020   M   F  0206 RENEWABLE NAT R                  NYMAN J
+(F)     1  RNR  4061 SEM     1  SPEC PROB NAT RES      1-4  TBA                                                      KALLER M
+ 33     2  RNR  4062 SEM     2  AQUATIC ANML NUTRTN    1-4  TBA                                                      REIGH R
+ 89    10  RNR  4063 CLI     1  INTERNSHIP NAT RES     1-4  TBA                                                      KALLER M
+(F)    46  RNR  4101         1  CAPSTONE NAT RES       4.0   830-0920    T TH  0142 RENEWABLE NAT R CI-WRITTEN&SPOK  KEIM R
+(F)    40  RNR  4103         1  CONSERVATION GENETIC   3.0   930-1020   M W F  0230 RENEWABLE NAT R                  TAYLOR S
+(F)    18  RNR  4106         1  TECH LIMNOLOGY/FISH    2.0  1030-1120     W    0207 RENEWABLE NAT R                  KALLER M
+ 22     3  RNR  4108         1  OUTREACH METH NATRS    3.0   300-0420    T TH  0230 RENEWABLE NAT R                  DOZIER H
+  7     8  RNR  4110 CLI     1  AFRICAN WILDLIFE       1-4  TBA                                                      GREEN C
+  7     8  RNR  4120         1  AFRICA COAST ECOL      3.0  TBA                                                      GREEN C
+  2    13  RNR  7008         1  GREEN ENERGY           3.0   230-0520   M      0230 RENEWABLE NAT R                  DE HOOP C
+  2     8  RNR  7012         1  ECOL/MGT WATERFOWL     3.0   130-0220   M W F  0142 RENEWABLE NAT R                  RINGELMAN K
+  9     6  RNR  7020         1  ECOLOGY OF FISHES      3.0  TBA                                                      KELSO W
+ 11     4  RNR  7029 SEM     1  ECOSYSTEM MGT COAST    1-4   330-0420      TH  0225 RENEWABLE NAT R                  MARTIN S
+  3     2  RNR  7029 SEM     2  GIS                    1-4  TBA                                                      DE HOOP C
+  3     7  RNR  7029 SEM     4  SMRT PLATFORMS REPRO   1-4  TBA                                                      TIERSCH T
+ 13    12  RNR  7072 SEM     1  GRAD SEM WILDLIFE      1.0  TBA                                                      LONG A
+ 96     3  RNR  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      LIVELY J
+ 96     3  RNR  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      COLLIER B
+ 98     1  RNR  8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      DEAN T
+ 98     1  RNR  8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      ERRERA R
+ 97     2  RNR  8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      GREEN C
+ 97     2  RNR  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      KEIM R
+ 98     1  RNR  8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      KELSO W
+ 96     3  RNR  8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      KING S
+ 97     2  RNR  8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      LAPEYRE M
+ 98     1  RNR  8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      LONG A
+ 97     2  RNR  8000 RES    19  THESIS RESEARCH        1-12 TBA                                                      LUTZ C
+ 97     2  RNR  8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      NYMAN J
+ 98     1  RNR  8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      REIGH R
+ 96     3  RNR  8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      RINGELMAN K
+ 98     1  RNR  8000 RES    24  THESIS RESEARCH        1-12 TBA                                                      STOUFFER P
+ 97     2  RNR  8000 RES    25  THESIS RESEARCH        1-12 TBA                                                      TAYLOR S
+ 98     1  RNR  8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      VLOSKY R
+ 98     1  RNR  8000 RES    28  THESIS RESEARCH        1-12 TBA                                                      WU Q
+ 97     2  RNR  8000 RES    29  THESIS RESEARCH        1-12 TBA                                                      XU Y
+ 97     2  RNR  8900 RES     1  RES PROB IN RNR        1-3  TBA                                                      KING S
+ 98     1  RNR  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      CHANG S
+ 97     2  RNR  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      KALLER M
+ 97     2  RNR  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      KEIM R
+ 98     1  RNR  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      KELSO W
+ 96     3  RNR  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      KING S
+ 98     1  RNR  9000 RES    22  DISSERTATION RES       1-12 TBA                                                      RINGELMAN K
+ 99        RNR  9000 RES    23  DISSERTATION RES       1-12 TBA                                                      RUTHERFORD D
+ 97     2  RNR  9000 RES    24  DISSERTATION RES       1-12 TBA                                                      STOUFFER P
+ 96     3  RNR  9000 RES    25  DISSERTATION RES       1-12 TBA                                                      TAYLOR S
+ 98     1  RNR  9000 RES    27  DISSERTATION RES       1-12 TBA                                                      VLOSKY R
+ 98     1  RNR  9000 RES    28  DISSERTATION RES       1-12 TBA                                                      WU Q
+ 98     1  RNR  9000 RES    29  DISSERTATION RES       1-12 TBA                                                      XU Y

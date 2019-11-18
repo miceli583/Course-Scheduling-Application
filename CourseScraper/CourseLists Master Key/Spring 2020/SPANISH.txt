@@ -1,0 +1,88 @@
+(F)    25  SPAN 1101         1  ELEMENTARY SPANISH     4.0   830-0920    TWTF  0135 LOCKETT                          SIMMONS C
+(F)    25  SPAN 1101         2  ELEMENTARY SPANISH     4.0   930-1020    TWTF  0027 ALLEN                            RICO G
+(F)    25  SPAN 1101         3  ELEMENTARY SPANISH     4.0  1030-1120    TWTF  0116 LOCKETT         CI-WRITTEN&SPOK  COLIN S
+(F)    25  SPAN 1101         4  ELEMENTARY SPANISH     4.0  1030-1120    TWTF  0114 LOCKETT                          DURAN D
+(F)    25  SPAN 1101         5  ELEMENTARY SPANISH     4.0  1130-1220    TWTF  0116 LOCKETT         CI-WRITTEN&SPOK  COLIN S
+(F)    25  SPAN 1101         6  ELEMENTARY SPANISH     4.0  1230-0120    TWTF  0027 ALLEN           CI-WRITTEN&SPOK  CALDERON E
+(F)    25  SPAN 1101         7  ELEMENTARY SPANISH     4.0  1230-0120    TWTF  0023 ALLEN                            JAGNEAUX A
+(F)    25  SPAN 1101         8  ELEMENTARY SPANISH     4.0   130-0220    TWTF  0244 LOCKETT                          MARTINEZ N
+(F)    25  SPAN 1101         9  ELEMENTARY SPANISH     4.0   130-0220    TWTF  0240 LOCKETT                          PRIDDLE J
+(F)    25  SPAN 1101        10  ELEMENTARY SPANISH     4.0   230-0320    TWTF  0244 LOCKETT                          ABADIN J
+(F)    25  SPAN 1101        11  ELEMENTARY SPANISH     4.0   230-0320    TWTF  0240 LOCKETT                          BAUZA C
+(F)    25  SPAN 1101        12  ELEMENTARY SPANISH     4.0  TBA                                     100% WEB BASED   PRIDDLE J
+(F)    25  SPAN 1102         1  ELEMENTARY SPANISH     4.0   730-0820    TWTF  0046 ALLEN                            GARCIA DE LA
+(F)    25  SPAN 1102         2  ELEMENTARY SPANISH     4.0   830-0920    TWTF  0137 LOCKETT                          RICO G
+(F)    25  SPAN 1102         3  ELEMENTARY SPANISH     4.0   830-0920    TWTF  0236 COATES                           GARCIA DE LA
+(F)    25  SPAN 1102         4  ELEMENTARY SPANISH     4.0   930-1020    TWTF  0135 LOCKETT                          SIMMONS C
+(F)    25  SPAN 1102         5  ELEMENTARY SPANISH     4.0   930-1020    TWTF  0138 LOCKETT                          MATUS I
+(F)    25  SPAN 1102         6  ELEMENTARY SPANISH     4.0   930-1020    TWTF  0114 LOCKETT                          SONG C
+(F)    25  SPAN 1102         7  ELEMENTARY SPANISH     4.0  1030-1120    TWTF  0135 LOCKETT                          SIMMONS C
+  6    19  SPAN 1102         8  ELEMENTARY SPANISH     4.0  1030-1120    TWTF  0169 RES COLL ONE W  RES COLG-GLOBAL  MATUS I
+(F)    25  SPAN 1102         9  ELEMENTARY SPANISH     4.0  1130-1220    TWTF  0027 ALLEN                            CALDERON E
+(F)    25  SPAN 1102        10  ELEMENTARY SPANISH     4.0  1130-1220    TWTF  0244 LOCKETT                          MARTINEZ N
+(F)    25  SPAN 1102        11  ELEMENTARY SPANISH     4.0  1230-0120    TWTF  0134 LOCKETT                          ACOSTA CUELLA
+(F)    25  SPAN 1102        12  ELEMENTARY SPANISH     4.0  1230-0120    TWTF  0244 LOCKETT                          MARTINEZ N
+(F)    25  SPAN 1102        13  ELEMENTARY SPANISH     4.0  1230-0120    TWTF  0051 ALLEN                            QUEZADA L
+(F)    25  SPAN 1102        14  ELEMENTARY SPANISH     4.0   130-0220    TWTF  0134 LOCKETT                          ACOSTA CUELLA
+(F)    25  SPAN 1102        15  ELEMENTARY SPANISH     4.0   130-0220    TWTF  0135 LOCKETT                          MATUS I
+(F)    25  SPAN 1102        16  ELEMENTARY SPANISH     4.0   230-0320    TWTF  0138 LOCKETT                          PRIDDLE J
+(F)    25  SPAN 1102        17  ELEMENTARY SPANISH     4.0   230-0320    TWTF  0135 LOCKETT                          FREEMAN M
+(F)    25  SPAN 1102        18  ELEMENTARY SPANISH     4.0  TBA                                     100% WEB BASED   CALDERON E
+ 18     7  SPAN 1152         1  INTENSIVE-BEGIN SPAN   4.0   730-0820    TWTF  0134 ALLEN                            SONG C
+ 13    12  SPAN 1152         2  INTENSIVE-BEGIN SPAN   4.0   830-0920    TWTF  0113 LOCKETT                          SONG C
+ 19     6  SPAN 1152         3  INTENSIVE-BEGIN SPAN   4.0   930-1020    TWTF  0236 COATES                           GARCIA DE LA
+ 13    12  SPAN 1152         4  INTENSIVE-BEGIN SPAN   4.0   930-1020    TWTF  0116 LOCKETT         CI-WRITTEN&SPOK  COLIN S
+  5    20  SPAN 1152         6  INTENSIVE-BEGIN SPAN   4.0  1030-1120    TWTF  0027 ALLEN                            RICO G
+ 12    13  SPAN 1152         7  INTENSIVE-BEGIN SPAN   4.0  1130-1220    TWTF  0114 LOCKETT                          RICO G
+  7    18  SPAN 1152         8  INTENSIVE-BEGIN SPAN   4.0  1230-0120    TWTF  0135 LOCKETT                          MATUS I
+(F)    25  SPAN 1152         9  INTENSIVE-BEGIN SPAN   4.0  1230-0120    TWTF  0240 LOCKETT                          BAUZA C
+ 18     7  SPAN 1152        10  INTENSIVE-BEGIN SPAN   4.0   130-0220    TWTF  0113 LOCKETT                          FREEMAN M
+(F)    25  SPAN 1152        11  INTENSIVE-BEGIN SPAN   4.0   130-0220    TWTF  0132 LOCKETT                          BAUZA C
+ 22     3  SPAN 1152        12  INTENSIVE-BEGIN SPAN   4.0   230-0320    TWTF  0113 LOCKETT                          ACOSTA CUELLA
+ 13    12  SPAN 1152        13  INTENSIVE-BEGIN SPAN   4.0   600-0750N   T TH  0134 ALLEN                            FREEMAN M
+ 14    11  SPAN 2101         1  INTERMED SPANISH       3.0   730-0820   M W F  0111 LOCKETT                          SULLIVAN S
+(F)    25  SPAN 2101         2  INTERMED SPANISH       3.0   830-0920   M W F  0132 LOCKETT                          CARRERO-FIGUE
+ 13    12  SPAN 2101         3  INTERMED SPANISH       3.0   830-0920   M W F  0046 ALLEN                            MARTINEZ HERN
+(F)    25  SPAN 2101         4  INTERMED SPANISH       3.0   930-1020   M W F  0111 LOCKETT                          SULLIVAN S
+(F)    25  SPAN 2101         5  INTERMED SPANISH       3.0   930-1020   M W F  0137 LOCKETT                          MARTINEZ HERN
+(F)    25  SPAN 2101         6  INTERMED SPANISH       3.0  1030-1120   M W F  0111 LOCKETT                          SULLIVAN S
+(F)    25  SPAN 2101         7  INTERMED SPANISH       3.0  1030-1120   M W F  0046 ALLEN                            MARTINEZ HERN
+(F)    25  SPAN 2101         8  INTERMED SPANISH       3.0  1130-1220   M W F  0324 HODGES HALL                      LOTTEN S
+(F)    25  SPAN 2101         9  INTERMED SPANISH       3.0  1130-1220   M W F  0111 LOCKETT                          CARRERO-FIGUE
+(F)    25  SPAN 2101        10  INTERMED SPANISH       3.0  1230-0120   M W F  0324 HODGES HALL                      LOTTEN S
+(F)    25  SPAN 2101        11  INTERMED SPANISH       3.0  1230-0120   M W F  0138 LOCKETT                          CARRERO-FIGUE
+(F)    25  SPAN 2101        12  INTERMED SPANISH       3.0   130-0220   M W F  0134 ALLEN                            LOTTEN S
+ 12    13  SPAN 2101        13  INTERMED SPANISH       3.0   230-0320   M W F  0134 ALLEN                            CARRERO-FIGUE
+(F)    25  SPAN 2102         1  INTERMED SPANISH       3.0   730-0820   M W F  0138 LOCKETT                          BYRD N
+(F)    25  SPAN 2102         2  INTERMED SPANISH       3.0   830-0920   M W F  0138 LOCKETT                          BYRD N
+(F)    25  SPAN 2102         3  INTERMED SPANISH       3.0   930-1020   M W F  0324 HODGES HALL                      LOTTEN S
+(F)    25  SPAN 2102         4  INTERMED SPANISH       3.0  1030-1120   M W F  0124 TUREAUD HALL                     BREAUX K
+(F)    25  SPAN 2102         5  INTERMED SPANISH       3.0  1030-1120   M W F  0324 HODGES HALL                      LOTTEN S
+(F)    25  SPAN 2102         6  INTERMED SPANISH       3.0  1130-1220   M W F  0112 LOCKETT                          BYRD N
+(F)    26  SPAN 2102         7  INTERMED SPANISH       3.0  1130-1220   M W F  0134 ALLEN                            MARTINEZ HERN
+(F)    25  SPAN 2102         8  INTERMED SPANISH       3.0  1230-0120   M W F  0124 TUREAUD HALL                     BREAUX K
+(F)    25  SPAN 2102         9  INTERMED SPANISH       3.0  1230-0120   M W F  0134 ALLEN                            SULLIVAN S
+(F)    25  SPAN 2102        10  INTERMED SPANISH       3.0   130-0220   M W F  0124 TUREAUD HALL                     BREAUX K
+(F)    25  SPAN 2102        11  INTERMED SPANISH       3.0   230-0320   M W F  0124 TUREAUD HALL                     BREAUX K
+(F)    20  SPAN 2155         1  SPAN LANG & CULTURE    3.0   830-0920   M W F  0111 LOCKETT         ZERO COST TEXTB  SULLIVAN S
+(F)    20  SPAN 2155         2  SPAN LANG & CULTURE    3.0  1030-1120   M W F  0130 LOCKETT         ZERO COST TEXTB  BYRD N
+(F)    20  SPAN 2155         3  SPAN LANG & CULTURE    3.0  1200-0120    T TH  0253 HIMES                            FERNANDEZ-PAL
+(F)    18  SPAN 2156         1  INTERM ORAL COMM       3.0  1130-1220   M W F  0124 TUREAUD HALL                     BREAUX K
+(F)    18  SPAN 2156         2  INTERM ORAL COMM       3.0   130-0220   M W F  0032 ALLEN                            MORRIS A
+(F)    18  SPAN 3010         1  SPAN GRAMMAR & COMP    3.0   930-1020   M W F  0218 STUBBS                           CARRERO-FIGUE
+(F)    18  SPAN 3010         2  SPAN GRAMMAR & COMP    3.0  1230-0120   M W F  0138 PRESCOTT        ZERO COST TEXTB  MARTINS L
+  9    11  SPAN 3020         1  LITERARY ANALYSIS      3.0   930-1020   M W F  0235 LOCKETT                          CORTAZAR A
+(F)    20  SPAN 3020         2  LITERARY ANALYSIS      3.0   130-0250    T TH  0036 ALLEN           ZERO COST TEXTB  MATTZA C
+ 13     7  SPAN 3044         1  LAT AM LIT II: IND-P   3.0   900-1020    T TH  0324 HODGES HALL                      FERNANDEZ-PAL
+(F)    20  SPAN 3072         1  SURVEY SPAN LIT        3.0  1230-0120   M W F  0113 LOCKETT                          HENEGHAN D
+  4    16  SPAN 3074         1  ADV RDGS HISP AM CIV   3.0  1130-1220   M W F  0119 LOCKETT                          CORTAZAR A
+(F)    20  SPAN 3980         1  ENV FAITH AND FOOD     3.0  1030-1150    T TH  0130 LOCKETT         ZERO COST TEXTB  MATTZA C
+(F)    19  SPAN 4005         1  STRUCT OF SPAN LANG    3.0   130-0250    T TH  0168 COATES          CI-WRITTEN&SPOK  OROZCO R
+(F)    20  SPAN 4400         1  INTRO HISP CULT STUD   3.0   230-0320   M W F  0138 PRESCOTT        ZERO COST TEXTB  MARTINS L
+(F)    19  SPAN 4603         1  APL SPAN LINGUISTICS   3.0   300-0420    T TH  0119 LOCKETT                          DORADO D
+(F)     1  SPAN 4915 RES     1  IND RES SP/SP-AM LIT   1-3  TBA                                     PERMIS OF DEPT   HENEGHAN D
+ 13     7  SPAN 7961 SEM     1  MODERN EUROPEAN AMER   3.0   430-0720N    W    0324 HODGES HALL                      HENEGHAN D
+ 14     6  SPAN 7985 SEM     1  RES IN SPAN LING       3.0   430-0720N   T     0324 HODGES HALL                      KING J
+ 14     6  SPAN 7990 SEM     1  SP TOP HISP CRITICIS   3.0   430-0720N  M      0324 HODGES HALL                      MORRIS A
+  1        SPAN 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   HENEGHAN D
+  1        SPAN 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   DORADO D

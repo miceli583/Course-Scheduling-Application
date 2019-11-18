@@ -1,0 +1,45 @@
+(F)   310  ACCT 2000         2  SURVEY OF ACCOUNTING   3.0  1200-0120    T TH  0100 DODSON                           BRIGGS E
+  6   304  ACCT 2000         1  SURVEY OF ACCOUNTING   3.0   130-0250    T TH  0100 DODSON                           BRIGGS E
+(F)   308  ACCT 2001         3  INTR FINANCIAL ACCT    3.0   300-0420   M W    1510 BUS ED AUDITORI                  MERRELL S
+(F)    94  ACCT 2001         4  INTR FINANCIAL ACCT    3.0   900-1020    T TH  0206 TUREAUD HALL                     PARK J
+(F)   307  ACCT 2001         2  INTR FINANCIAL ACCT    3.0  1030-1150    T TH  1510 BUS ED AUDITORI                  DENSTEL C
+(F)   160  ACCT 2001         1  INTR FINANCIAL ACCT    3.0   130-0250    T TH  1510 BUS ED AUDITORI RES COLG-BUSINE  HOLMES J
+  2   298  ACCT 2101         2  INTRO MANAGERIAL ACC   3.0  1030-1120   M W F  1510 BUS ED AUDITORI                  CHENIER J
+ 52   248  ACCT 2101         1  INTRO MANAGERIAL ACC   3.0   130-0220   M W F  1510 BUS ED AUDITORI                  CHENIER J
+(F)    61  ACCT 3001         1  INTERMEDIATE ACCT I    3.0   900-1020    T TH  0134 J C MILLER                       HOLMES J
+(F)    58  ACCT 3001         2  INTERMEDIATE ACCT I    3.0  1030-1150    T TH  0134 J C MILLER                       HOLMES J
+(F)   120  ACCT 3001         3  INTERMEDIATE ACCT I    3.0   430-0720N   T     1125 BUS ED S WING                    LOWE-ARDOIN L
+ 21    39  ACCT 3021         2  INTERMEDIATE ACCT II   3.0   300-0420   M W    1700 BUS ED N WING                    LEGORIA J
+(F)    55  ACCT 3021         3  INTERMEDIATE ACCT II   3.0   900-1020    T TH  0232 J C MILLER                       HOLLIE D
+(F)    56  ACCT 3021         1  INTERMEDIATE ACCT II   3.0  1030-1150    T TH  0232 J C MILLER                       HOLLIE D
+  1    59  ACCT 3121         1  COST ANAL & CONTROL    3.0   130-0250    T TH  1700 BUS ED N WING                    AGHAZADEH S
+ 19    41  ACCT 3121         2  COST ANAL & CONTROL    3.0   300-0420    T TH  1700 BUS ED N WING                    AGHAZADEH S
+(F)    45  ACCT 3122         1  ACCT INFO SYSTEMS      3.0   300-0420   M W    2520 BUS ED AUDITORI MAJORS ONLY      WALTERS K
+ 34    21  ACCT 3122         2  ACCT INFO SYSTEMS      3.0   430-0550N  M W    2520 BUS ED AUDITORI MAJORS ONLY      WALTERS K
+ 40    76  ACCT 3221         1  INCOME TAX ACCT I      3.0   130-0250    T TH  1620 BUS ED N WING                    CHENG C
+(F)    55  ACCT 3222         1  AUDITING               3.0   900-1020    T TH  1920 BUS ED N WING   CI-WRITTEN&SPOK  WILEY L
+(F)    49  ACCT 3222         2  AUDITING               3.0  1030-1150    T TH  0218 TUREAUD HALL    CI-WRITTEN&SPOK  MOFFITT J
+ 50    10  ACCT 3233         3  INTERNAL AUDITING I    3.0   730-0850    T TH  1409 BUS ED S WING                    SUMNERS G
+ 22    38  ACCT 3233         1  INTERNAL AUDITING I    3.0   900-1020    T TH  1510 BUS ED AUDITORI                  SUMNERS G
+  6    54  ACCT 3233         2  INTERNAL AUDITING I    3.0  1030-1150    T TH  0102 TUREAUD HALL                     SUMNERS G
+  8    32  ACCT 4022         1  ADVANCED ACCOUNTING    3.0   430-0550N  M W    1700 BUS ED N WING                    LEGORIA J
+ 88    12  ACCT 4231 CLI     1  INTERNSHIP IN ACCT     3.0  TBA                                     PERMIS OF INST   CHENIER J
+ 19     1  ACCT 4237         1  GOVERN RISK & CNTRL    3.0   600-0850N   T     1325 BUS ED S WING                    SUMNERS G
+100        ACCT 4333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   LAFLEUR L
+  8    40  ACCT 4421         1  GOV/NOT-FOR-PROF ACC   3.0   730-0850    T TH  1845 BUS ED N WING                    BRIGGS E
+ 12    36  ACCT 4421         2  GOV/NOT-FOR-PROF ACC   3.0   900-1020    T TH  1845 BUS ED N WING                    BRIGGS E
+(F)    25  ACCT 7021         2  ADV TH OF ACCOUNTS     3.0   430-0720N   T     1735 BUS ED N WING                    PHILLIPS T
+ 26     9  ACCT 7021         1  ADV TH OF ACCOUNTS     3.0   130-0420     W    1225 BUS ED S WING                    REICHELT K
+ 86    14  ACCT 7231 CLI     1  INTRNSHIP IN ACCT      3.0  TBA                                     PERMIS OF INST   MOFFITT J
+  6    34  ACCT 7233         1  GRAD INTERNAL AUDIT    3.0   130-0250    T TH  1800 BUS ED N WING                    SUMNERS G
+ 10    20  ACCT 7250         1  CUR TPCS FED INC TAX   3.0   600-0850N  M      1325 BUS ED S WING                    CHENG C
+ 99     1  ACCT 7333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   SUMNERS G
+ 15    20  ACCT 7900 RES     1  INDIV STUDY ACCT       3.0  TBA                                                      WILEY L
+ 18     2  ACCT 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      CRUMBLEY D
+  7     3  ACCT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      REICHELT K
+  7     3  ACCT 9002 RES     1  ACCOUNTING RES II      3.0  TBA                                                      HOLLIE D
+  6     4  ACCT 9004 RES     1  ACCOUNTING RES IV      3.0  TBA                                                      REICHELT K
+ 17    23  ACCT 4221         1  INCOME TAX ACCT II     3.0   830-1150   M W F  2520 BUS ED AUDITORI                  MASSEL N
+ 17    23  ACCT 7210         1  TAX RES,PLAN,&BUS DE   3.0   100-0420   M W F  1745 BUS ED N WING                    MASSEL N
+ 17    18  ACCT 7222         1  AUDIT THEORY/STNDRDS   3.0  1200-0250    T TH  0138 LOCKETT                          WILEY L
+(F)    27  ACCT 7401         1  ETHICS FOR PROF ACCT   3.0   830-1120   M W    1425 BUS ED S WING                    MOFFITT J

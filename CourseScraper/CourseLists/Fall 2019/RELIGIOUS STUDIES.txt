@@ -1,0 +1,23 @@
+  2    53  REL  1000         1  RELIGIONS OF WORLD     3.0   930-1020   M W F  0116 STUBBS                           SMITH K
+  2    53  REL  1000         2  RELIGIONS OF WORLD     3.0  1030-1120   M W F  0116 STUBBS                           SMITH K
+  3    52  REL  1000         3  RELIGIONS OF WORLD     3.0   130-0220   M W F  0212 COATES                           YADLAPATI M
+  5    50  REL  1000         4  RELIGIONS OF WORLD     3.0   230-0320   M W F  0212 COATES                           YADLAPATI M
+  1    54  REL  1000         5  RELIGIONS OF WORLD     3.0   900-1020    T TH  0220 COATES                           RETHELYI M
+  2    53  REL  1000         6  RELIGIONS OF WORLD     3.0  1200-0120    T TH  0214 COATES                           RETHELYI M
+(F)    51  REL  1004         1  OLD TESTAMENT          3.0   900-1020    T TH  0116 STUBBS                           IRVINE S
+ 30    25  REL  1004         2  OLD TESTAMENT          3.0   130-0250    T TH  0209 COATES                           ISBELL C
+ 13    42  REL  1005         1  NEW TESTAMENT          3.0  1030-1120   M W F  0232 J C MILLER                       BURKETT D
+  2    53  REL  1005         2  NEW TESTAMENT          3.0  1030-1150    T TH  0209 COATES                           STORIN B
+  6    49  REL  2000         1  INT STUDY RELIGION     3.0  1230-0120   M W F  0116 STUBBS                           SMITH K
+ 27    28  REL  2027         1  ASIAN RELIGIONS        3.0   300-0420   M W    0220 COATES                           ARAI P
+  4    16  REL  2034         1  INDIGENOUS RELIGIONS   3.0  1130-1220   M W F  0218 STUBBS                           SMITH K
+(F)    23  REL  3000         1  CHRISTIANITY           3.0  1200-0120    T TH  0109 NICHOLSON                        STORIN B
+  8    12  REL  4010         2  REL HIP HOP CULTURE    3.0   300-0420   M W    0112 PRESCOTT                         FINLEY S
+  6    14  REL  4010         1  SEX SOCIETY & BIBLE    3.0  1030-1150    T TH  0237 COATES                           ISBELL C
+  3     7  REL  4097         1  POLITICAL THEOLOGY     3.0  1130-1220   M W F  0220 STUBBS                           EUBANKS C
+  1     4  REL  4236         1  THE BOOK OF GENESIS    3.0   300-0420    T TH  0269 WOODIN HALL                      IRVINE S
+ 10    10  REL  4800         1  BUDDHISM               3.0   430-0550N  M W    0220 COATES                           ARAI P
+  9     1  REL  4990 RES     1  BUDDHIST PHILOSOPHY    1-3  TBA                                     PERMIS OF DEPT   ARAI P
+ 98     1  REL  4990 RES     3  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   FINLEY S
+  3     2  REL  7990 RES     1  BUDDHIST PHILOSOPHY    3.0  TBA                                     PERMIS OF DEPT   ARAI P
+  4     1  REL  7990 RES     2  MYTH & STORYTELLING    3.0  TBA                                     PERMIS OF DEPT   PASQUIER M

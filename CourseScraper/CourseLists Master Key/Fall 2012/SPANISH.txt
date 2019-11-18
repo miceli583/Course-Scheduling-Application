@@ -1,0 +1,90 @@
+  5    25  SPAN 1101         1  ELEMENTARY SPANISH     4.0   830-0920    TWTF  0125 TUREAUD HALL                     REAGAN G
+  2    28  SPAN 1101         8  ELEMENTARY SPANISH     4.0   830-0920    TWTF  0218 COATES                           GARZA J
+  1    29  SPAN 1101         2  ELEMENTARY SPANISH     4.0  1030-1120    TWTF  0112 TUREAUD HALL                     BIVIN A
+  1    29  SPAN 1101         3  ELEMENTARY SPANISH     4.0  1130-1220    TWTF  0119 TUREAUD HALL                     DUHON M
+  2    28  SPAN 1101         5  ELEMENTARY SPANISH     4.0  1230-0120    TWTF  0220 TUREAUD HALL                     ROBERTS S
+  2    28  SPAN 1101         6  ELEMENTARY SPANISH     4.0  1230-0120    TWTF  0127 TUREAUD HALL                     MCNEIL P
+(F)    30  SPAN 1101         7  ELEMENTARY SPANISH     4.0   130-0220    TWTF  0119 TUREAUD HALL                     LIBICH O
+ 12    16  SPAN 1102         1  ELEMENTARY SPANISH     4.0   730-0820    TWTF  0218 COATES                           GARZA J
+ 14    14  SPAN 1102         2  ELEMENTARY SPANISH     4.0   830-0920    TWTF  0324 HODGES HALL                      APPLEGATE N
+  6    22  SPAN 1102         3  ELEMENTARY SPANISH     4.0   930-1020    TWTF  0218 COATES                           GARZA J
+ 11    17  SPAN 1102         4  ELEMENTARY SPANISH     4.0  1130-1220    TWTF  0218 COATES                           GARZA J
+  2    26  SPAN 1102         5  ELEMENTARY SPANISH     4.0  1230-0120    TWTF  0112 TUREAUD HALL                     SEVERICHE G
+  8    20  SPAN 1102         7  ELEMENTARY SPANISH     4.0   130-0220    TWTF  0131 ALLEN                            WORTHAM J
+ 19     9  SPAN 1102         6  ELEMENTARY SPANISH     4.0   330-0420    TWTF  0203 WOODIN HALL                      WORTHAM J
+  2    26  SPAN 1152        16  INTENSIVE-BEGIN SPAN   4.0   600-0750N  M W    0248 WOODIN HALL                      ESPINOZA T
+  2    26  SPAN 1152        17  INTENSIVE-BEGIN SPAN   4.0   600-0750N  M W    0203 WOODIN HALL                      CABRAL O
+  4    24  SPAN 1152         1  INTENSIVE-BEGIN SPAN   4.0   730-0820    TWTF  0129 TUREAUD HALL                     MCNEIL P
+  2    26  SPAN 1152         2  INTENSIVE-BEGIN SPAN   4.0   830-0920    TWTF  0129 TUREAUD HALL                     MCNEIL P
+  1    27  SPAN 1152        18  INTENSIVE-BEGIN SPAN   4.0   830-0920    TWTF  0135 LOCKETT                          MARTINEZ N
+(F)    28  SPAN 1152         3  INTENSIVE-BEGIN SPAN   4.0   930-1020    TWTF  0201 TUREAUD HALL                     BYRD N
+(F)    29  SPAN 1152         4  INTENSIVE-BEGIN SPAN   4.0   930-1020    TWTF  0119 TUREAUD HALL                     MCNEIL P
+  2    26  SPAN 1152         5  INTENSIVE-BEGIN SPAN   4.0   930-1020    TWTF  0112 TUREAUD HALL                     WORTHAM J
+(F)    28  SPAN 1152         6  INTENSIVE-BEGIN SPAN   4.0  1030-1120    TWTF  0226 TUREAUD HALL                     BYRD N
+  2    26  SPAN 1152         7  INTENSIVE-BEGIN SPAN   4.0  1030-1120    TWTF  0201 TUREAUD HALL                     CABRAL O
+  1    27  SPAN 1152        19  INTENSIVE-BEGIN SPAN   4.0  1030-1120    TWTF  0244 LOCKETT                          FORKNER B
+(F)    28  SPAN 1152         8  INTENSIVE-BEGIN SPAN   4.0  1130-1220    TWTF  0226 TUREAUD HALL                     BYRD N
+  1    27  SPAN 1152         9  INTENSIVE-BEGIN SPAN   4.0  1130-1220    TWTF  0201 TUREAUD HALL                     CABRAL O
+(F)    28  SPAN 1152        10  INTENSIVE-BEGIN SPAN   4.0  1130-1220    TWTF  0225 TUREAUD HALL                     MARTINEZ N
+(F)    28  SPAN 1152        11  INTENSIVE-BEGIN SPAN   4.0  1230-0120    TWTF  0218 TUREAUD HALL                     FORKNER B
+(F)    29  SPAN 1152        12  INTENSIVE-BEGIN SPAN   4.0  1230-0120    TWTF  0225 TUREAUD HALL                     MARTINEZ N
+(F)    28  SPAN 1152        20  INTENSIVE-BEGIN SPAN   4.0  1230-0120    TWTF  0228 COATES                           WORTHAM J
+(F)    29  SPAN 1152        13  INTENSIVE-BEGIN SPAN   4.0   130-0220    TWTF  0225 TUREAUD HALL                     MARTINEZ N
+(F)    28  SPAN 1152        14  INTENSIVE-BEGIN SPAN   4.0   130-0220    TWTF  0125 TUREAUD HALL                     FORKNER B
+  1    27  SPAN 1152        15  INTENSIVE-BEGIN SPAN   4.0   330-0420    TWTF  0232 LOCKETT                          FORKNER B
+  3    22  SPAN 2101         1  INTERMED SPANISH       3.0   730-0820   M W F  0203 WOODIN HALL                      SULLIVAN S
+  4    21  SPAN 2101         2  INTERMED SPANISH       3.0   830-0920   M W F  0248 WOODIN HALL                      BYRD L
+  4    21  SPAN 2101        11  INTERMED SPANISH       3.0   830-0920   M W F  0055 ALLEN                            LOTTEN S
+(F)    25  SPAN 2101         3  INTERMED SPANISH       3.0   930-1020   M W F  0203 WOODIN HALL                      SULLIVAN S
+(F)    25  SPAN 2101         4  INTERMED SPANISH       3.0  1030-1120   M W F  0226 PRESCOTT                         BAUZA C
+  1    24  SPAN 2101        12  INTERMED SPANISH       3.0  1030-1120   M W F  0241 LOCKETT                          AZENARA K
+  1    24  SPAN 2101        13  INTERMED SPANISH       3.0  1030-1120   M W F  0113 LOCKETT                          SULLIVAN S
+(F)    25  SPAN 2101         5  INTERMED SPANISH       3.0  1130-1220   M W F  0132 PRESCOTT                         LOTTEN S
+(F)    25  SPAN 2101         6  INTERMED SPANISH       3.0  1230-0120   M W F  0226 TUREAUD HALL                     CABRAL O
+  7    18  SPAN 2101         7  INTERMED SPANISH       3.0  1230-0120   M W F  0132 PRESCOTT                         LOTTEN S
+  7    18  SPAN 2101         8  INTERMED SPANISH       3.0   130-0220   M W F  0132 PRESCOTT                         LOTTEN S
+(F)    25  SPAN 2101         9  INTERMED SPANISH       3.0   130-0220   M W F  0324 HODGES HALL                      BYRD L
+(F)    25  SPAN 2101        10  INTERMED SPANISH       3.0   230-0320   M W F  0226 PRESCOTT                         BAUZA C
+  2    23  SPAN 2101        14  INTERMED SPANISH       3.0   230-0320   M W F  0237 COATES                           BYRD L
+(F)    25  SPAN 2102         1  INTERMED SPANISH       3.0   830-0920   M W F  0203 WOODIN HALL                      MATUS I
+(F)    26  SPAN 2102         2  INTERMED SPANISH       3.0   930-1020   M W F  0241 LOCKETT                          AZENARA K
+(F)    25  SPAN 2102         3  INTERMED SPANISH       3.0   930-1020   M W F  0226 PRESCOTT                         BAUZA C
+(F)    25  SPAN 2102         4  INTERMED SPANISH       3.0  1030-1120   M W F  0424 HODGES HALL                      MATUS I
+(F)    26  SPAN 2102         5  INTERMED SPANISH       3.0  1130-1220   M W F  0424 HODGES HALL                      MATUS I
+(F)    25  SPAN 2102        12  INTERMED SPANISH       3.0  1130-1220   M W F  0226 PRESCOTT                         BAUZA C
+  2    23  SPAN 2102         6  INTERMED SPANISH       3.0  1230-0120   M W F  0424 HODGES HALL                      AZENARA K
+  1    24  SPAN 2102        10  INTERMED SPANISH       3.0  1230-0120   M W F  0031 ALLEN                            MCNEIL P
+(F)    26  SPAN 2102         7  INTERMED SPANISH       3.0   130-0220   M W F  0226 PRESCOTT                         BAUZA C
+  1    24  SPAN 2102         8  INTERMED SPANISH       3.0   130-0220   M W F  0424 HODGES HALL                      AZENARA K
+(F)    25  SPAN 2102         9  INTERMED SPANISH       3.0   230-0320   M W F  0324 HODGES HALL                      AZENARA K
+ 10    15  SPAN 2102        11  INTERMED SPANISH       3.0   230-0320   M W F  0055 ALLEN                            MATUS I
+  3    17  SPAN 2155         1  SPAN TEXTUAL COMMENT   3.0   830-0920   M W F  0118 PRESCOTT                         SULLIVAN S
+  1    19  SPAN 2155         2  SPAN TEXTUAL COMMENT   3.0   930-1020   M W F  0118 PRESCOTT                         BYRD L
+  1    19  SPAN 2155         3  SPAN TEXTUAL COMMENT   3.0  1030-1120   M W F  0248 WOODIN HALL                      BYRD L
+  5    15  SPAN 2155         5  SPAN TEXTUAL COMMENT   3.0  1230-0120   M W F  0120 PRESCOTT                         SULLIVAN S
+  5    15  SPAN 2155         4  SPAN TEXTUAL COMMENT   3.0  1030-1150    T TH  0055 ALLEN                            CORTAZAR A
+(F)    17  SPAN 2156         1  ADV ORAL COMMUNICATI   3.0   930-1020   M W F  0120 PRESCOTT        PERMIS OF DEPT   MATUS I
+(F)    16  SPAN 2156         2  ADV ORAL COMMUNICATI   3.0  1000-1120    T TH  0118 PRESCOTT        PERMIS OF DEPT   CASTRO E
+ 12     3  SPAN 3001 LAB     2  TUT LEARN OF SPAN      1.0   400-0450     W    0114 PRESCOTT                         MANCILLA-ORTE
+  2    16  SPAN 3010         1  ADV SPAN GRAM & COMP   3.0  1130-1220   M W F  0112 PRESCOTT        PERMIS OF DEPT   DORADO D
+(F)    18  SPAN 3010         2  ADV SPAN GRAM & COMP   3.0   230-0320   M W F  0132 PRESCOTT        PERMIS OF DEPT   LOTTEN S
+  2    14  SPAN 3015         1  ADV ORAL COMMUNIC II   3.0  1030-1120   M W F  0205 COATES          SVC LEARNING     MORRIS A
+ 13     7  SPAN 3020         2  LITERARY ANALYSIS      3.0   230-0320   M W F  0116 PRESCOTT                         HENEGHAN D
+  6    14  SPAN 3020         1  LITERARY ANALYSIS      3.0  1200-0120    T TH  0138 PRESCOTT                         MARTINS L
+ 14     6  SPAN 3044         2  LAT AM LIT II: IND-P   3.0   130-0250    T TH  0036 ALLEN                            CORTAZAR A
+(F)    20  SPAN 3070         1  SPAN FOR PROFESSIONA   3.0  1230-0120   M W F  0220 COATES                           MORRIS A
+ 11     9  SPAN 3071         1  SURVEY SPAN LIT        3.0   230-0320   M W F  0118 PRESCOTT                         MATTZA C
+ 11     9  SPAN 3073         1  ADV RDGS SPAN CIVIL    3.0   100-0220    T TH  0118 PRESCOTT                         CASTRO E
+ 14     1  SPAN 4003 LAB     1  INST STRAT SPAN CLRM   1.0   500-0550N  M      0112 PRESCOTT                         KING J
+  2    18  SPAN 4005         1  STRUCT OF SPAN LANG    3.0  1200-0120    T TH  0210 TUREAUD HALL    CI-WRITTEN&SPOK  OROZCO R
+ 14     6  SPAN 4034         1  SP TP 18 & 19 CEN LI   3.0   130-0220   M W F  0116 PRESCOTT                         HENEGHAN D
+  4    16  SPAN 4201         2  CINEMA IN SPANISH      3.0   300-0550    T     0138 PRESCOTT                         MARTINS L
+  2    18  SPAN 4602         1  SPANISH PHONETICS      3.0   230-0320   M W F  0112 PRESCOTT                         KING J
+  8    12  SPAN 4603         1  APL SPAN LINGUISTICS   3.0   330-0420   M W F  0116 PRESCOTT                         DORADO D
+  6     9  SPAN 7950 SEM     1  GOLD AGE SPAN LITERA   3.0   430-0720N  M      0118 PRESCOTT                         MATTZA C
+  5    10  SPAN 7984 SEM     1  SPAN IN U. S.          3.0   430-0720N    W    0424 HODGES HALL                      OROZCO R
+ 12     3  SPAN 7990 SEM     1  SP TOP HISP CRITICIS   3.0   430-0720N     TH  0424 HODGES HALL                      FERNANDEZ-PAL
+(F)     1  SPAN 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MORRIS A
+(F)     1  SPAN 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   DORADO D
+(F)     1  SPAN 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CASTRO E
+(F)     1  SPAN 8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   OROZCO R

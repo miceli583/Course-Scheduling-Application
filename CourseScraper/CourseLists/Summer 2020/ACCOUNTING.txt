@@ -1,0 +1,14 @@
+ 47    13  ACCT 2001         1  INTR FINANCIAL ACCT    3.0  1230-0300    T TH                                        MUELLER N
+ 50    10  ACCT 2101         1  INTRO MANAGERIAL ACC   3.0  1230-0300   M W                                          JAHAN N
+ 58     2  ACCT 3001         1  INTERMEDIATE ACCT I    3.0  1210-0240   MT                                           HOLMES J
+ 99     1  ACCT 4231 CLI     1  INTERNSHIP IN ACCT     3.0  TBA
+ 42     8  ACCT 4233         1  CASE STUD AUDITING     3.0  TBA
+ 50        ACCT 4233         2  CASE STUD AUDITING     3.0  TBA
+139     1  ACCT 4333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA
+100        ACCT 7231 CLI     1  INTERN ACCT            3.0  TBA
+ 50        ACCT 7232         1  CASE STUD INT AUDIT    3.0  TBA
+100        ACCT 7333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA
+ 99        ACCT 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      REICHELT K
+ 99        ACCT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      REICHELT K
+ 99        ACCT 9000 RES     2  DISSERTATION RES       1-12 TBA
+  5        ACCT 7900 RES     1  INDIV STUDY ACCT       3.0  TBA

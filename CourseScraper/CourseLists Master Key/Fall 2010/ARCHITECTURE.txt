@@ -1,0 +1,28 @@
+(F)    23  ARCH 1001 LAB     1  ARCH DESIGN I          6.0  1240-0430   M W F                                        SULLIVAN J
+(F)    23  ARCH 1001 LAB     2  ARCH DESIGN I          6.0  1240-0430   M W F                                        SOFRANKO T
+(F)    21  ARCH 1001 LAB     3  ARCH DESIGN I          6.0  1240-0430   M W F                                        LEGEAI J
+(F)    21  ARCH 1001 LAB     4  ARCH DESIGN I          6.0  1240-0430   M W F
+  4    16  ARCH 2001 LAB     1  ARCH DESIGN III        6.0  1240-0430   M W F                                        BOSWORTH F
+  4    16  ARCH 2001 LAB     2  ARCH DESIGN III        6.0  1240-0430   M W F                       CI-SPOKEN&VISUA  CUDDEBACK M
+(F)    20  ARCH 2001 LAB     3  ARCH DESIGN III        6.0  1240-0430   M W F
+(F)    73  ARCH 2003         1  ARCH TECHNIQUES        3.0  1040-1130   M W F  0313 DESIGN BUILDING                  MELENDEZ F
+(F)   155  ARCH 2401         1  APPRECIATION OF ARCH   3.0   310-0430    T TH  0103 DESIGN BUILDING
+  7    10  ARCH 3001 LAB     1  ARCH DESN V            6.0  1240-0430   M W F                                        EMERY MCCLURE
+(F)    18  ARCH 3001 LAB     2  ARCH DESN V            6.0  1240-0430   M W F                                        SATTLER M
+ 19    31  ARCH 3003         1  ARCH STRUCTURES I      3.0   140-0300    T TH  0313 DESIGN BUILDING                  SHIH J
+ 39    81  ARCH 3005         1  HIST OF ARCH I         3.0   840-0930   M W F  0103 DESIGN BUILDING                  DESMOND J
+  3    46  ARCH 3007         1  ARCHITECTURAL SYSTEM   3.0   940-1030   M W F  0313 DESIGN BUILDING                  CUDDEBACK M
+  4    13  ARCH 4001 LAB     1  ARCH DESIGN VII        6.0  1240-0430   M W F                                        ZWIRN R
+  6    11  ARCH 4001 LAB     2  ARCH DESIGN VII        6.0  1240-0430   M W F
+ 20    30  ARCH 4031         1  ARCH STRUCTURES III    3.0  1040-1200    T TH  0313 DESIGN BUILDING                  SHIH J
+  4     8  ARCH 4041         1  ISS IN SUSTAINABIITY   3.0  1210-0130    T TH                                        SATTLER M
+ 13    47  ARCH 4062         1  URBAN DESIGN/PLANNIN   3.0   610-0730N   T TH  0313 DESIGN BUILDING                  BOSWORTH F
+  3     9  ARCH 4221 SEM     6  SEL TOP IN ARCHITECT   1-3   310-0600    T                                           DESMOND J
+  2    10  ARCH 4221 SEM     5  SEL TOP IN ARCHITECT   1-3   610-0900N    W    0015 ATKINSON                         CARPENTER K
+(F)    12  ARCH 4221 SEM     8  SEL TOP IN ARCHITECT   1-3   610-0900N    W                                          KENNEDY C
+(F)    13  ARCH 4440         1  VERN ARCH & MAT CULT   3.0   610-0900N  M                                            EMERY MCCLURE
+  5    15  ARCH 5002 LAB     5  ARCH DESN CONCENTRAT   6.0  TBA                                                      MELENDEZ F
+  6    14  ARCH 5002 LAB     6  ARCH DESN CONCENTRAT   6.0  TBA                                                      CARNEY J
+(F)    13  ARCH 7001 LAB     1  GRAD DESN STUDIO I     6.0  1240-0430   M W F
+(F)    14  ARCH 7003 LAB     1  GRAD DESN STUDIO III   6.0  1240-0430   M W F                                        BERTOLINI C
+  5     7  ARCH 7005 LAB     1  GRAD DESN STUDIO V     6.0  1240-0430   M W F                                        DESMOND J

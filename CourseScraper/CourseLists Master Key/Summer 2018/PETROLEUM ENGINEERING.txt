@@ -1,0 +1,22 @@
+ 30     9  PETE 1010         1  INTR TO PETR ENGR      2.0  TBA                                     100% WEB BASED   THURBER F
+  4    16  PETE 2034 LAB     1  ROCK/FLUID PROP LAB    1.0   200-0500   MTWTH  1221 PATRICK TAYLOR                   KAM S
+  9     3  PETE 2034 LAB     3  ROCK/FLUID PROP LAB    1.0   200-0500   MTWTH                                        KAM S
+  1        PETE 3990 RES     1  INDEPENDENT RESEARCH   1-2  TBA
+  1        PETE 3990 RES     2  INDEPENDENT RESEARCH   1-2  TBA
+  4     1  PETE 7256 RES     1  SPEC PROB PETR ENGR    1-6  TBA                                                      WOJTANOWICZ A
+(F)     1  PETE 7256 RES     2  SPEC PROB PETR ENGR    1-6  TBA                                                      TYAGI M
+ 97     2  PETE 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      RAO D
+ 98     1  PETE 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      AKBARI B
+ 98     1  PETE 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      KAM S
+ 97     2  PETE 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      GUPTA I
+  3     2  PETE 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      CHEN Y
+  9     3  PETE 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      ZEIDOUNI M
+ 98     1  PETE 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      RADONJIC M
+ 98     1  PETE 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      AKBARI B
+ 98     1  PETE 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CHEN Y
+ 97     2  PETE 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      RAO D
+ 97     2  PETE 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      KAM S
+  5     2  PETE 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      WALTRICH P
+  3     2  PETE 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      GUPTA I
+  4     1  PETE 9000 RES     9  DISSERTATION RES       1-12 TBA
+  4     1  PETE 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      THOMPSON K

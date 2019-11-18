@@ -1,0 +1,30 @@
+ 77     8  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA
+ 85        SW   7007 CLI     2  FOUND FIELD INTERN I   3.0  TBA
+ 75    10  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA
+ 84     1  SW   7008 CLI     2  FOUND FIELD INTERN I   3.0  TBA
+ 85        SW   7008 CLI     3  FOUND FIELD INTERN I   3.0  TBA
+ 98     1  SW   7206 RES     1  RESEARCH PRACTICUM     3-9  TBA                                     PERMIS OF DEPT   LEMIEUX C
+ 98     1  SW   7206 RES     2  RESEARCH PRACTICUM     3-9  TBA                                     PERMIS OF DEPT   LIM Y
+ 98     1  SW   7206 RES     3  RESEARCH PRACTICUM     3-9  TBA                                     MAJORS ONLY      PAGE T
+ 96     3  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA
+ 99        SW   7502 CLI     2  ADV FIELD INTERN I     3.0  TBA
+ 96     3  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA
+ 99        SW   7503 CLI     2  ADV FLD INTERN II      3.0  TBA
+ 99        SW   7503 CLI     3  ADV FLD INTERN II      3.0  TBA
+ 24     1  SW   7905 RES     1  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF DEPT   LEMIEUX C
+ 24     1  SW   7905 RES     2  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF DEPT   BALL A
+ 24     1  SW   7906 RES     1  IND READ/RES: SW PLC   3.0  TBA                                     MAJORS ONLY      LIM Y
+ 24     1  SW   7906 RES     2  IND READ/RES: SW PLC   3.0  TBA                                     PERMIS OF DEPT   GUIN C
+ 25        SW   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      LEMIEUX C
+ 24     1  SW   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   PAGE T
+ 99        SW   9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PAGE T
+ 99        SW   9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LEMIEUX C
+ 98     1  SW   9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MONROE P
+ 99        SW   9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GUIN C
+ 99        SW   9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LIVERMORE M
+ 98     1  SW   9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MARKS L
+(F)    51  SW   2000         1  INTRO TO SOCIAL WORK   3.0  1100-1230   MTWTF                       100% WEB BASED   CHIASSON A
+ 28    22  SW   3002         1  CHILD AND COMMUNITY    3.0  1100-1230   MTWTF  0213 TUREAUD HALL                     BALL A
+ 25    25  SW   3003         1  SKILL WK WITH PEOPLE   3.0  0910-1040   MTWTF  0206 TUREAUD HALL                     ALLEN P
+  5    35  SW   7010         1  DIFFERENT DIAGNOSIS    3.0   100-0400    TWTH                       100% WEB BASED   MACCIO E
+  6    30  SW   7807 SEM     1  SW & ETHICAL DILEMMA   3.0  TBA                                     100% WEB BASED   LILLEY T

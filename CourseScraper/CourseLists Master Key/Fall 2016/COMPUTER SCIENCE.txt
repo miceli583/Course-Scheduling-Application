@@ -1,0 +1,85 @@
+(F)    60  CSC  1200         1  ETHICS IN COMPUTING    1.0  1030-1120     W    0109 TUREAUD HALL                     ZHANG J
+  2    63  CSC  1200         2  ETHICS IN COMPUTING    1.0   130-0220     W    0221 TUREAUD HALL                     ZHANG J
+  3    57  CSC  1240         1  STATS & GRAPH MATLB    3.0  1130-1220   M W    0152 COATES                           BRENER N
+  5    38  CSC  1240         2  STATS & GRAPH MATLB    3.0  1130-1220   M W    0152 COATES                           BRENER N
+  5    16  CSC  1240         3  STATS & GRAPH MATLB    3.0  1130-1220   M W    0152 COATES                           BRENER N
+ 12    78  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  0155 COATES                           PETERSON B
+  7    69  CSC  1253         2  COMP SCI WITH C++      3.0  1200-0120    T TH  0120 TUREAUD HALL                     WAGLE B
+ 34    26  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1030-1150    T TH  0102 TUREAUD HALL                     CASTLEBERRY D
+(F)    38  CSC  1350         1  COMP SCI I-MJRS        4.0   930-1020   M W F  E130 HOWE RUSSELL E                   DUNCAN W
+  4    30  CSC  1350         2  COMP SCI I-MJRS        4.0   930-1020   M W F  E130 HOWE RUSSELL E                   DUNCAN W
+  2    34  CSC  1350         3  COMP SCI I-MJRS        4.0   930-1020   M W F  E130 HOWE RUSSELL E                   DUNCAN W
+  4    30  CSC  1350         4  COMP SCI I-MJRS        4.0   930-1020   M W F  E130 HOWE RUSSELL E                   DUNCAN W
+  3    33  CSC  1350         5  COMP SCI I-MJRS        4.0   900-1020    T TH  0100 TUREAUD HALL                     KUNDU S
+  3    27  CSC  1351         1  COMP SCI II-MJRS       4.0   900-1020    T TH  E134 HOWE RUSSELL E                   DUNCAN W
+ 15    15  CSC  1351         2  COMP SCI II-MJRS       4.0   900-1020    T TH  E134 HOWE RUSSELL E                   DUNCAN W
+(F)    32  CSC  1351         3  COMP SCI II-MJRS       4.0   900-1020    T TH  E134 HOWE RUSSELL E                   DUNCAN W
+  4   126  CSC  2259         1  DISCRETE STRUCTURES    3.0  1200-0120    T TH  0102 ALLEN                            TRIANTAPHYLLO
+ 10    34  CSC  2262         1  NUMERICAL METHODS      3.0   300-0420    T TH  0124 TUREAUD HALL                     BRENER N
+ 25    15  CSC  2700         2  INTRO CYBERSECURITY    1-3   500-0620N  M W    0101 TUREAUD HALL                     CAPELLO H
+  4    16  CSC  2700         1  CMPTVE PRGMG 1CR HR    1-3   600-0750N   T     0112 TUREAUD HALL                     TRAXLER I
+  6    14  CSC  2700       203  VIDEO GAME PROGRAMNG   1-3  TBA                                                      KOOIMA R
+  8    22  CSC  2730         2  DATA SCI & ANALYTICS   3.0  1030-1150    T TH  0217 OLD FORESTRY                     ZHANG J
+ 42    88  CSC  3102         1  ADV DATA STRUCTURES    3.0   900-1020    T TH  0102 ALLEN                            KOOIMA R
+ 11    39  CSC  3380         1  OBJ ORIENTED DESIGN    3.0   130-0250    T TH  0134 J C MILLER                       DOUGLAS C
+ 24    66  CSC  3501         1  COMP ORGANIZATN/DSN    3.0  1200-0120    T TH  E134 HOWE RUSSELL E                   LEE K
+ 19     1  CSC  3991 RES     2  CSC HONORS RESEARCH    3.0  TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 19     1  CSC  3991 RES     5  CSC HONORS RESEARCH    3.0  TBA                                     PERMIS OF DEPT   CHEN J
+ 18     2  CSC  3991 RES    10  CSC HONORS RESEARCH    3.0  TBA                                                      KOOIMA R
+ 19     1  CSC  3991 RES    29  CSC HONORS RESEARCH    3.0  TBA                                     PERMIS OF DEPT   KARKI B
+ 19     1  CSC  3992 RES    29  CSC HONORS THESIS      3.0  TBA                                     PERMIS OF DEPT   WANG Q
+ 20   120  CSC  4101         1  PROG LANGUAGES         3.0  1230-0150   M W    0102 ALLEN                            BAUMGARTNER G
+ 17    53  CSC  4103         1  OPERATING SYSTEMS      3.0   300-0420    T TH  0221 TUREAUD HALL                     CASTLEBERRY D
+ 26    94  CSC  4330         1  SOFTWARE SYST DEVEL    3.0   500-0620N  M W    0152 COATES                           MAHMOUD A
+  6    42  CSC  4356         1  INTER COMP GRPHCS      3.0  1030-1150    T TH  0114 AUDUBON                          KOOIMA R
+  1    93  CSC  4402         1  INTR DATABSE MGT SYS   3.0  1200-0120    T TH  0206 TUREAUD HALL                     CHEN J
+  5    45  CSC  4444         1  ARTIFICIAL INTELLIG    3.0   330-0450   M W    0120 TUREAUD HALL                     CHEN J
+  9    31  CSC  4501         1  COMPUTER NETWORKS      3.0  1030-1150   M W    0127 TUREAUD HALL                     PARK S
+ 26     9  CSC  4585         1  MULTICORE PROGRAMMG    3.0   500-0750N   T     0116 TUREAUD HALL                     BRANDT S
+  2    16  CSC  4610         1  CLD SYSTMS & VRTLZN    3.0   430-0550N   T TH  0168 COATES                           WANG Q
+  6    29  CSC  4700         1  PREDCTV DTA ANALYTCS   3.0   900-1020    T TH  0200 TUREAUD HALL                     SUN M
+ 12    28  CSC  4890         1  INTR THEORY COMPUTAT   3.0   130-0250    T TH  0101 TUREAUD HALL                     BUSCH K
+ 98     1  CSC  4999 RES     1  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   LI X
+ 12     8  CSC  7090 IND     5  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   CHEN J
+ 19     1  CSC  7090 IND     9  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   KARKI B
+ 19     1  CSC  7090 IND    13  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   PARK S
+ 19     1  CSC  7090 IND    16  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 12    18  CSC  7103         1  ADV OPERATING SYSTMS   3.0   500-0620N   T TH  0124 TUREAUD HALL                     CHEN F
+ 26     4  CSC  7150         1  PRGM-ANLYS & MODL-CH   3.0   500-0750N    W    0112 TUREAUD HALL                     MUKHOPADHYAY
+ 13    12  CSC  7235         1  ADV SOFTWARE ENGR      3.0   130-0420     W    0149 ELECTRICAL ENGR                  CARVER D
+ 17    19  CSC  7300         1  ALGORTHM DSGN & ANLY   3.0   300-0420    T TH  0149 ELECTRICAL ENGR                  KUNDU S
+ 18    12  CSC  7442         1  DATA MINING KNOW DEV   3.0  1030-1150   M W    0116 TUREAUD HALL                     TRIANTAPHYLLO
+  6    14  CSC  7443         1  SCI INFO VISUALIZTN    3.0  1200-0120    T TH  0145 ELECTRICAL ENGR                  KARKI B
+  3    17  CSC  7800 SEM     1  CSC RESEARCH SEMINAR   1.0  1100-1150    T     0256 COATES                           CHEN F
+ 95     4  CSC  7999 RES     3  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   BUSCH K
+ 95     4  CSC  7999 RES     6  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   CHEN F
+ 98     1  CSC  7999 RES     9  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KARKI B
+ 98     1  CSC  7999 RES    12  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 98     1  CSC  7999 RES    13  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   PARK S
+ 96     3  CSC  7999 RES    27  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   SOYSAL O
+ 97     2  CSC  7999 RES    30  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   LEE K
+ 19     1  CSC  8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CHEN J
+ 19     1  CSC  8000 RES     9  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   KARKI B
+ 19     1  CSC  8000 RES    12  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 19     1  CSC  8000 RES    16  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 19     1  CSC  8000 RES    19  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ZHANG J
+ 19     1  CSC  8000 RES    28  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MAHMOUD A
+ 97     2  CSC  9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 98     1  CSC  9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BUSCH K
+ 97     2  CSC  9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CARVER D
+ 97     2  CSC  9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN J
+ 96     3  CSC  9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN F
+ 97     2  CSC  9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KARKI B
+ 98     1  CSC  9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KOOIMA R
+ 98     1  CSC  9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KUNDU S
+ 98     1  CSC  9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 92     7  CSC  9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PARK S
+ 98     1  CSC  9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SHAH R
+ 98     1  CSC  9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ULLMER B
+ 98     1  CSC  9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ZHANG J
+ 97     2  CSC  9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KAISER H
+ 97     2  CSC  9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WHALEY R
+ 98     1  CSC  9000 RES    25  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BRANDT S
+ 96     3  CSC  9000 RES    28  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MAHMOUD A
+ 96     3  CSC  9000 RES    29  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WANG Q
+ 98     1  CSC  9000 RES    30  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LEE K

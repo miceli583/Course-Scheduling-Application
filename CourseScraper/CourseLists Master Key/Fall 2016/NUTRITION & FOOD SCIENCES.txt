@@ -1,0 +1,48 @@
+  1    17  NFS  1014         1  FOOD THEORY & SKILLS   4.0   830-0920   M W F  0130 COATES          MAJORS ONLY      MYHAND J
+(F)    18  NFS  1014         2  FOOD THEORY & SKILLS   4.0   830-0920   M W F  0130 COATES                           MYHAND J
+ 65    25  NFS  1049         1  SCIENCE OF FOODS       2.0  1230-0120   M W    0105 TUREAUD HALL                     GUTIERREZ BAR
+ 54    96  NFS  1110         1  INTRO TO NUTRITION     3.0  1230-0120   M W F  0005 LOCKETT                          BALL M
+ 11    89  NFS  1110         2  INTRO TO NUTRITION     3.0  1200-0120    T TH  1125 BUS ED S WING                    DORE S
+  7    38  NFS  2110         1  NUTRITION ASSESSMENT   3.0   130-0250    T TH  0209 COATES          MAJORS ONLY      MILIOTO B
+  4    38  NFS  2112         1  LIFECYCLE NUTRITION    3.0   730-0850    T TH  0121 ALLEN           MAJORS ONLY      MYHAND J
+ 21    69  NFS  3000         1  FOOD SAFETY            3.0   930-1020   M W F  0105 TUREAUD HALL    MAJORS ONLY      XU W
+ 14    27  NFS  3110         1  NUTRITION COUNSELING   3.0  1030-1150    T TH  0232 J C MILLER      MAJORS ONLY      MILIOTO B
+(F)    15  NFS  3119         1  QUANT FOODS PRODUCTI   4.0   900-1020    T TH  0019 ALLEN           MAJORS ONLY      DORE S
+  1    14  NFS  3119         2  QUANT FOODS PRODUCTI   4.0   900-1020    T TH  0019 ALLEN           MAJORS ONLY      DORE S
+  3     2  NFS  3900 RES     1  YOUTHDIETARYINTAKE     1-3  TBA                                                      MYHAND J
+  1     1  NFS  3900 RES     2  NUTR & FDSC UG RES     1-3  TBA                                     PERMIS OF DEPT   TUURI G
+  2     1  NFS  3900 RES     3  NUTR & FDSC UG RES     1-3  TBA                                     PERMIS OF DEPT   O'NEIL C
+(F)    10  NFS  3999 SEM     1  FDSC & TECH SEMINAR    1.0  1230-0120      TH                                        KING J
+  1    15  NFS  4021 SEM     2  TOPICS IN NUTRITION    1.0  1030-1120     W    0220 TUREAUD HALL    PERMIS OF DEPT   O'NEIL C
+  4    16  NFS  4060         1  FOOD CHEMISTRY         4.0  1030-1150    T TH  0204 WOODIN HALL                      KING J
+ 11    29  NFS  4070         1  FOOD LAWS REGULATION   2.0   230-0420       F  0027 ALLEN                            ADHIKARI A
+  8    15  NFS  4075         1  FOOD PRESERVATION      3.0   900-0950    T TH  0267 WOODIN HALL                      SATHIVEL S
+ 10    10  NFS  4095         1  SENSORY EVAL OF FOOD   4.0  1030-1120   M W F  0129 TUREAUD HALL                     PRINYAWIWATKU
+ 11    44  NFS  4111         1  NUTRI & DISEASES I     4.0   730-0920   M W    0203 TUREAUD HALL    MAJORS ONLY      BALL M
+  3     7  NFS  7001         1  MACRONUTRIENTS         3.0  1030-1150    T TH  0267 WOODIN HALL                      KEENAN M
+  7     3  NFS  7005         1  MOL & CLIN NUTR II     2.0   315-0435   M      0128 ALLEN                            LAMMI-KEEFE C
+  1    18  NFS  7022         1  CUR CONTR FOOD NUTR    3.0   430-0720N   T     0125 TUREAUD HALL                     TUURI G
+  9     1  NFS  7030 RES     2  SYRUPFROMBIOMASS       1-6  TBA                                                      AITA G
+  6     4  NFS  7030 RES     3  ADV FOOD ENG           1-6  TBA                                                      SATHIVEL S
+  5     5  NFS  7040         1  FLAVOR & COLORS FOOD   3.0   900-0950    T TH  0023 ALLEN                            XU Z
+(F)    10  NFS  7050         1  FOOD PROTIEN BIOTECH   3.0   930-1020   M W F  0204 WOODIN HALL                      LOSSO J
+  2    14  NFS  7071 SEM     1  GR SEM NUTR & FDSC     1.0  1230-0120      TH  0215 TUREAUD HALL                     KEENAN M
+ 98     1  NFS  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ADHIKARI A
+ 96     3  NFS  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      JANES M
+ 98     1  NFS  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      KEENAN M
+ 98     1  NFS  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      LAMMI-KEEFE C
+ 95     4  NFS  8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      LOSSO J
+ 98     1  NFS  8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      PRINYAWIWATKU
+ 94     5  NFS  8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      SATHIVEL S
+ 98     1  NFS  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      XU W
+ 98     1  NFS  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      ADHIKARI A
+ 95     4  NFS  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      JANES M
+ 97     2  NFS  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      KEENAN M
+ 97     2  NFS  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      KING J
+ 97     2  NFS  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      LAMMI-KEEFE C
+ 96     3  NFS  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      LOSSO J
+ 94     5  NFS  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      PRINYAWIWATKU
+ 96     3  NFS  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SATHIVEL S
+ 97     2  NFS  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      TUURI G
+ 97     2  NFS  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      WICKER L
+ 98     1  NFS  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      XU W

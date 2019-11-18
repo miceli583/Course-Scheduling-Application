@@ -1,0 +1,27 @@
+108     2  CE   2450         1  STATICS                3.0  0730-0830   MTWTF
+ 35     5  CE   2460         1  DYNAMICS & VIBRATION   3.0  0950-1050   MTWTF
+ 41     2  CE   3300         1  GEOTECHNICAL ENGR I    3.0  1100-1200   MTWTF
+ 93     7  CE   3400         1  MECHNCS OF MATERIALS   3.0  0840-0940   MTWTF
+ 15     6  CE   3410 LAB     1  MECHNCS OF MATLS LAB   1.0  1050-0150   M W
+ 99        CE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ALY A
+ 99        CE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      MOE W
+ 99        CE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      PARDUE J
+ 99        CE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      WILLSON C
+  1        CE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      JAFARI N
+  1        CE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      ZHU X
+ 99        CE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      WU Z
+ 99        CE   8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      OKEIL A
+  1        CE   9000 RES     1  DISSERTATION RESEARC   1-12 TBA                                                      ALY A
+ 99        CE   9000 RES     2  DISSERTATION RESEARC   1-12 TBA                                                      TSAI F
+ 99        CE   9000 RES     3  DISSERTATION RESEARC   1-12 TBA                                                      CAI C
+ 99        CE   9000 RES     4  DISSERTATION RESEARC   1-12 TBA                                                      CHEN S
+ 99        CE   9000 RES     5  DISSERTATION RESEARC   1-12 TBA                                                      HAGEN S
+ 99        CE   9000 RES     6  DISSERTATION RESEARC   1-12 TBA                                                      SUN C
+ 99        CE   9000 RES     7  DISSERTATION RESEARC   1-12 TBA                                                      ELSEIFI M
+  5        CE   9000 RES     8  DISSERTATION RESEARC   1-12 TBA                                                      WILLSON C
+  5        CE   9000 RES     9  DISSERTATION RESEARC   1-12 TBA                                                      OZDEMIR C
+  5        CE   9000 RES    10  DISSERTATION RESEARC   1-12 TBA                                                      ZHU X
+  5        CE   9000 RES    11  DISSERTATION RESEARC   1-12 TBA                                                      OKEIL A
+ 87     1  CE   2200         1  FLUID MECHANICS        3.0  1030-1200   MTWTF
+ 22     3  CE   2250 LAB     1  FLUID MECH LAB         1.0   300-0600   M W
+ 20     5  CE   3350 LAB     1  GEOTECH ENGR LAB I     1.0   300-0600    T TH

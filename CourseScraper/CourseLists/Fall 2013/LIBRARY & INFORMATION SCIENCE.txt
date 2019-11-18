@@ -1,0 +1,41 @@
+  1    28  LIS  7002         1  INFORMATION SERVICES   3.0   530-0820N   T                          MAJORS ONLY      MCKNIGHT M
+ 23     7  LIS  7004         1  MGT LIBR/INFORM SPEC   3.0  1130-0220    T     0171 COATES          MAJORS ONLY      JU B
+ 10    20  LIS  7005         1  FND OF LIBR&INFO SC    3.0  1130-0220   M      0171 COATES          MAJORS ONLY      DAWSON A
+  4    26  LIS  7008         1  INFORM TECHNOLOGIES    3.0  TBA                                     MAJORS ONLY      WU Y
+  9    21  LIS  7011         1  INFORM NEEDS ANALYSI   3.0  1130-0220     W                         MAJORS ONLY      BARRY C
+  1     9  LIS  7012         1  BIBL ORG & RES DEVEL   3.0   230-0520      TH  0171 COATES          MAJORS ONLY      PASKOFF B
+ 13     7  LIS  7012         2  BIBL ORG & RES DEVEL   3.0   230-0520      TH                       100% WEB BASED   PASKOFF B
+(F)    29  LIS  7013         1  EVAL INFORM SYSTEMS    3.0  TBA                                     MAJORS ONLY      JIN T
+  5     5  LIS  7202         1  RES FOR SCI & TECH     3.0  1130-0220      TH  0171 COATES                           MCKNIGHT M
+ 19     1  LIS  7202         2  RES FOR SCI & TECH     3.0  1130-0220      TH                       100% WEB BASED   MCKNIGHT M
+  2    18  LIS  7205         1  BUSINESS INFO RESOUR   3.0  TBA                                     100% WEB BASED   JIN T
+  6     9  LIS  7400         1  SCHOOL MEDIA CTRS      3.0   830-1120        S 0202 COATES                           CANTEY C
+ 12    18  LIS  7408         1  PRIN ARCHIVES MGMNT    3.0   830-1120   M      0171 COATES                           DOW E
+(F)    31  LIS  7606         1  ABSTRACTNG & INDEXNG   3.0  TBA                                     100% WEB BASED   BARRY C
+  3    21  LIS  7608         1  INTRO CAT & CLASS      3.0  TBA                                     100% WEB BASED   GRAY L
+  4     6  LIS  7610 SEM     1  INFO RETRVL SYSTEMS    3.0   230-0520   M      0205 COATES                           WU Y
+  2     3  LIS  7701 SEM     1  ARCH & RECORD KEEPIN   3.0   400-0650     W    0203 COATES                           DOW E
+  4    11  LIS  7703 SEM     1  ADV ARCHIVAL ACCESS    3.0   400-0650    T     0202 COATES                           DOW E
+  8     2  LIS  7807         1  INFORM LIT INSTRUCT    3.0   230-0520     W    0171 COATES                           DAWSON A
+ 17     3  LIS  7807         2  INFORM LIT INSTRUCT    3.0   230-0520     W                         100% WEB BASED   DAWSON A
+ 26     4  LIS  7809 RES     1  RESRCH LIB & INFO SC   3.0  TBA                                     100% WEB BASED   JU B
+ 14     1  LIS  7810         1  SRCE MUS STUDY & RES   3.0  1030-1150    T TH  0230EMIDDLETON                        KUYPER-RUSHIN
+ 27     3  LIS  7901 SEM     2  ISSUES                 1.0   700-0850N     TH  0171 COATES          MAJORS ONLY      PASKOFF B
+ 17    13  LIS  7901 SEM     1  ISSUES                 1.0  TBA                                     100% WEB BASED   MCKNIGHT M
+ 18     2  LIS  7902 CLI     1  FLD EXP SCH MED CTRS   3.0  TBA                                     PERMIS OF INST   CANTEY C
+  9     1  LIS  7905 CLI     1  FLD EXP PUBLIC LIBR    3.0  TBA                                     PERMIS OF INST   KURZ R
+  9     1  LIS  7909 RES     3  DIR INDEP STUDY        1-3  TBA                                     PERMIS OF INST   DOW E
+  9     1  LIS  7909 RES     7  DIR INDEP STUDY        1-3  TBA                                     PERMIS OF INST   MCKNIGHT M
+ 24     6  LIS  7912         1  ADULT PROG & SERVICE   1-3   530-0820N    W    0171 COATES          SVC LEARNING     KURZ R
+  5    25  LIS  7912         2  MEDIA MULTICUL POPUL   1-3  TBA                                     100% WEB BASED   KURZ R
+ 11    10  LIS  1001         5  LIBR RESRCH METH/MAT   1.0  1130-1220   M W    0230AMIDDLETON                        HRYCAJ P
+ 13     8  LIS  1001         4  LIBR RESRCH METH/MAT   1.0  1100-1150    T TH  0029 BROUSSARD HALL                   LERCHER A
+  2    19  LIS  1001         1  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   DUNAWAY D
+  2    19  LIS  1001         2  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   CAMINITA C
+  7    35  LIS  1001         3  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   RUSSO M
+  1    20  LIS  1001        10  LIBR RESRCH METH/MAT   1.0  1030-1120   M W    0230AMIDDLETON                        FONTENOT M
+  2    19  LIS  1001        12  LIBR RESRCH METH/MAT   1.0  1130-1220   M W    0230AMIDDLETON                        HRYCAJ P
+(F)    21  LIS  1001        11  LIBR RESRCH METH/MAT   1.0   330-0420   M W    0230AMIDDLETON                        FONTENOT M
+  4    17  LIS  1001         9  LIBR RESRCH METH/MAT   1.0  1100-1150    T TH  0230AMIDDLETON                        LERCHER A
+(F)    23  LIS  1001         7  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   DUNAWAY D
+(F)    22  LIS  1001         8  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   CAMINITA C

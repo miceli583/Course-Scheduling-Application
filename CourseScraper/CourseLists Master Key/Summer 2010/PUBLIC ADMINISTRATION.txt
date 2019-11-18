@@ -1,0 +1,8 @@
+ 15     5  PADM 7800 RES     1  IND STUD IN PADM       3.0  TBA                                                      JURKIEWICZ C
+  1     2  PADM 7800 RES     2  IND STUD IN PADM       3.0  TBA                                                      WHITE R
+  1     6  PADM 7800 RES     3  IND STUD IN PADM       3.0  TBA                                                      GERBER B
+ 10    15  PADM 7850 CLI     1  PADM INTERNSHIP        3.0  TBA                                                      JURKIEWICZ C
+(F)     3  PADM 7850 CLI     2  PADM INTERNSHIP        3.0  TBA                                                      WHITE R
+(F)     3  PADM 7850 CLI     3  PADM INTERNSHIP        3.0  TBA                                                      GERBER B
+ 13    17  PADM 7851 CLI     1  PADM PRACTICUM         3.0  TBA                                                      JURKIEWICZ C
+(F)     6  PADM 7851 CLI     3  PADM PRACTICUM         3.0  TBA                                                      GERBER B

@@ -1,0 +1,27 @@
+  1        CHE  3900 IND     1  IND RESEARCH I         3.0  TBA                                                      DOOLEY K
+ 94     5  CHE  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BENTON M
+ 97     2  CHE  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DOOLEY K
+ 98     1  CHE  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      FLAKE J
+ 99        CHE  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      GRIFFIN G
+ 95     4  CHE  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      BHARTI B
+ 98     1  CHE  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      DING K
+ 95     4  CHE  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      MELVIN A
+ 98     1  CHE  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      NANDAKUMAR K
+ 97     2  CHE  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      ROMAGNOLI J
+ 98     1  CHE  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SHELTON W
+ 97     2  CHE  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SPIVEY J
+ 98     1  CHE  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      THIBODEAUX L
+ 99        CHE  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      THOMPSON K
+ 99        CHE  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      VALSARAJ K
+ 96     3  CHE  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      WORNAT M
+ 97     2  CHE  9000 RES    16  DISSERTATION RES       1-12 TBA                                                      NANDAKUMAR K
+ 96     3  CHE  9000 RES    17  DISSERTATION RES       1-12 TBA                                                      XU Y
+ 93     6  CHE  9000 RES    18  DISSERTATION RES       1-12 TBA                                                      ARGES C
+ 92     7  CHE  9000 RES    19  DISSERTATION RES       1-12 TBA                                                      DORMAN J
+ 96     3  CHE  9000 RES    20  DISSERTATION RES       1-12 TBA                                                      MCPEAK K
+ 99        CHE  9000 RES    21  DISSERTATION RES       1-12 TBA                                                      LAWRENCE J
+ 99        CHE  9000 RES    22  DISSERTATION RES       1-12 TBA                                                      PLAISANCE C
+ 98     1  CHE  9000 RES    23  DISSERTATION RES       1-12 TBA
+ 13    23  CHE  2172         1  CHE THERMODYNAMICS     3.0  1030-1200   MTWTF  1126 PATRICK TAYLOR                   BENTON M
+  8    17  CHE  3101         2  MOMENTUM TRANSFER      3.0  1200-0130   MTWTF  1126 PATRICK TAYLOR                   MCPEAK K
+(F)     1  CHE  3900 IND     2  IND RESEARCH I         3.0  TBA                                                      FLAKE J

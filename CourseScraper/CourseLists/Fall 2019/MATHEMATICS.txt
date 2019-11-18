@@ -1,0 +1,224 @@
+(F)    31  MATH 1021       101  COLLEGE ALGEBRA        3.0   830-0920   M W    0284 LOCKETT                          MUFFULETTO M
+(F)    34  MATH 1021       102  COLLEGE ALGEBRA        3.0   930-1020   M W    0235 LOCKETT                          WADDELL L
+(F)    73  MATH 1021       103  COLLEGE ALGEBRA        3.0  1030-1120   M W    0010 LOCKETT                          KOPCSO D
+(F)    75  MATH 1021       104  COLLEGE ALGEBRA        3.0  1230-0120   M W    0010 LOCKETT                          KURTZ S
+  5    33  MATH 1021         1  COLLEGE ALGEBRA        3.0   830-0920   M      0277 LOCKETT                          VILLALOBOS AL
+  4    34  MATH 1021         2  COLLEGE ALGEBRA        3.0   930-1020   M      0277 LOCKETT                          VILLALOBOS AL
+  3    35  MATH 1021         3  COLLEGE ALGEBRA        3.0   930-1020   M      0285 LOCKETT                          POOLE R
+  5    33  MATH 1021         4  COLLEGE ALGEBRA        3.0  1030-1120   M      0285 LOCKETT                          SITIRAJU I
+  9    29  MATH 1021         5  COLLEGE ALGEBRA        3.0  1030-1120   M      0277 LOCKETT                          VILLALOBOS AL
+  3    35  MATH 1021         6  COLLEGE ALGEBRA        3.0  1130-1220   M      0277 LOCKETT                          POOLE R
+  2    36  MATH 1021         7  COLLEGE ALGEBRA        3.0  1230-0120   M      0277 LOCKETT                          POOLE R
+  3    35  MATH 1021         8  COLLEGE ALGEBRA        3.0  1230-0120   M      0285 LOCKETT                          JEONG S
+  7    31  MATH 1021         9  COLLEGE ALGEBRA        3.0   130-0220   M      0277 LOCKETT                          SITIRAJU I
+ 10    28  MATH 1021        10  COLLEGE ALGEBRA        3.0   130-0220   M      0285 LOCKETT                          JEONG S
+  8    30  MATH 1021        11  COLLEGE ALGEBRA        3.0   230-0320   M      0277 LOCKETT                          PETTA MESTRIG
+ 13    25  MATH 1021        12  COLLEGE ALGEBRA        3.0   330-0420   M      0277 LOCKETT                          ALANIZ A
+(F)    35  MATH 1021       105  COLLEGE ALGEBRA        3.0   930-1020    T TH  0277 LOCKETT                          OSWALT S
+ 11    27  MATH 1021        13  COLLEGE ALGEBRA        3.0   730-0820    T     0277 LOCKETT                          SHORT A
+ 29     9  MATH 1021        14  COLLEGE ALGEBRA        3.0   830-0920    T     0277 LOCKETT                          SHORT A
+  5    33  MATH 1021        15  COLLEGE ALGEBRA        3.0   930-1020    T     0121 ALLEN                            PHAM B
+  3    35  MATH 1021        16  COLLEGE ALGEBRA        3.0   930-1020    T     0285 LOCKETT                          SHORT A
+  6    32  MATH 1021        17  COLLEGE ALGEBRA        3.0  1030-1120    T     0277 LOCKETT                          SHRESTHA P
+  7    31  MATH 1021        18  COLLEGE ALGEBRA        3.0  1030-1120    T     0285 LOCKETT                          ALANIZ A
+  2    36  MATH 1021        19  COLLEGE ALGEBRA        3.0  1130-1220    T     0277 LOCKETT                          ALANIZ A
+  7    33  MATH 1021        20  COLLEGE ALGEBRA        3.0  1230-0120    T     0277 LOCKETT                          KURTZ S
+ 12    26  MATH 1021        21  COLLEGE ALGEBRA        3.0  1230-0120    T     0285 LOCKETT                          PHAM B
+  6    34  MATH 1021        22  COLLEGE ALGEBRA        3.0   130-0220    T     0277 LOCKETT                          PHAM B
+  3    35  MATH 1021        23  COLLEGE ALGEBRA        3.0   230-0320    T     0277 LOCKETT                          SHRESTHA P
+ 14    24  MATH 1021        24  COLLEGE ALGEBRA        3.0   330-0420    T     0277 LOCKETT                          SHRESTHA P
+ 11    27  MATH 1021        25  COLLEGE ALGEBRA        3.0   730-0820     W    0277 LOCKETT                          ZHANG M
+ 11    27  MATH 1021        26  COLLEGE ALGEBRA        3.0   830-0920     W    0277 LOCKETT                          SHOMANOV Z
+ 13    25  MATH 1021        27  COLLEGE ALGEBRA        3.0   930-1020     W    0277 LOCKETT                          KOPCSO D
+  5    33  MATH 1021        28  COLLEGE ALGEBRA        3.0   930-1020     W    0285 LOCKETT                          MUFFULETTO M
+  5    33  MATH 1021        29  COLLEGE ALGEBRA        3.0  1030-1120     W    0277 LOCKETT                          SHOMANOV Z
+  3    35  MATH 1021        30  COLLEGE ALGEBRA        3.0  1030-1120     W    0285 LOCKETT                          MUFFULETTO M
+ 11    27  MATH 1021        31  COLLEGE ALGEBRA        3.0  1130-1220     W    0277 LOCKETT                          ZHANG M
+ 10    28  MATH 1021        32  COLLEGE ALGEBRA        3.0  1230-0120     W    0277 LOCKETT                          ZHANG M
+ 15    23  MATH 1021        33  COLLEGE ALGEBRA        3.0  1230-0120     W    0285 LOCKETT                          SHOMANOV Z
+  4    34  MATH 1021        34  COLLEGE ALGEBRA        3.0   130-0220     W    0277 LOCKETT                          KELLINSKY-GON
+ 12    26  MATH 1021        38  COLLEGE ALGEBRA        3.0   930-1020      TH  0121 ALLEN                            PETTA MESTRIG
+  1    37  MATH 1021        39  COLLEGE ALGEBRA        3.0   930-1020      TH  0285 LOCKETT                          BOUYA F
+  4    34  MATH 1021        40  COLLEGE ALGEBRA        3.0  1030-1120      TH  0277 LOCKETT                          TRAN N
+ 10    28  MATH 1021        42  COLLEGE ALGEBRA        3.0  1130-1220      TH  0277 LOCKETT                          BOUYA F
+  7    31  MATH 1021        43  COLLEGE ALGEBRA        3.0  1230-0120      TH  0277 LOCKETT                          BOUYA F
+  3    35  MATH 1021        44  COLLEGE ALGEBRA        3.0   130-0220      TH  0277 LOCKETT                          TRAN N
+ 15    23  MATH 1021        45  COLLEGE ALGEBRA        3.0   230-0320      TH  0277 LOCKETT                          TRAN N
+ 12    26  MATH 1021        46  COLLEGE ALGEBRA        3.0   930-1020       F  0277 LOCKETT                          HICKS A
+  4    34  MATH 1021        48  COLLEGE ALGEBRA        3.0  1030-1120       F  0277 LOCKETT                          HICKS A
+ 12    26  MATH 1021        50  COLLEGE ALGEBRA        3.0  1130-1220       F  0277 LOCKETT                          HICKS A
+ 31    69  MATH 1021        52  COLLEGE ALGEBRA        3.0  TBA                                     75-99% WEB BASE  KOPCSO D
+ 18   157  MATH 1022         1  PLANE TRIGONOMETRY     3.0  1030-1120   M      0016 LOCKETT                          BUSH E
+  9   166  MATH 1022         2  PLANE TRIGONOMETRY     3.0   130-0220   M      0016 LOCKETT                          WADDELL L
+ 13   162  MATH 1022         3  PLANE TRIGONOMETRY     3.0  1030-1120     W    0016 LOCKETT                          OSWALT S
+ 16   159  MATH 1022         4  PLANE TRIGONOMETRY     3.0   130-0220     W    0016 LOCKETT                          KOPCSO D
+ 10   165  MATH 1022         5  PLANE TRIGONOMETRY     3.0  1030-1120       F  0016 LOCKETT                          KURTZ S
+ 62   113  MATH 1022         6  PLANE TRIGONOMETRY     3.0   130-0220       F  0016 LOCKETT                          KURTZ S
+ 47    53  MATH 1022         7  PLANE TRIGONOMETRY     3.0  TBA                                     75-99% WEB BASE  KURTZ S
+ 50   125  MATH 1023         1  COL ALGEBRA & TRIG     5.0   930-1020    T TH  0016 LOCKETT                          MUFFULETTO M
+ 77    98  MATH 1023         2  COL ALGEBRA & TRIG     5.0  1030-1120    T TH  0010 LOCKETT                          OSWALT S
+ 56   674  MATH 1029         1  INTRO CONTEMP MATH     3.0  1030-1120   M W F  0101 GYM AUDITORIUM                   LEDET J
+(H)    50  MATH 1029         2  INTRO CONTEMP MATH     3.0   130-0220   M W F  0116 STUBBS                           LEDET J
+ 60   100  MATH 1029         7  INTRO CONTEMP MATH     3.0  1030-1150    T TH  0103 WILLIAMS                         LEDET J
+ 14   121  MATH 1100         1  NATURE OF MATHEMATCS   3.0  1200-0120    T TH  0102 ALLEN                            DOUGHERTY E
+ 21   114  MATH 1100         2  NATURE OF MATHEMATCS   3.0  TBA                                     100% WEB BASED   DOUGHERTY E
+  8    32  MATH 1201         1  NUMBR SENS/PROB SOLV   3.0   930-1020   M W F  0243 LOCKETT                          DOUGHERTY E
+  9    31  MATH 1201         2  NUMBR SENS/PROB SOLV   3.0  1030-1120   M W F  0243 LOCKETT                          DOUGHERTY E
+  8    32  MATH 1202         1  GEOM/REASONG/MEASURE   3.0   900-1020    T TH  0243 LOCKETT                          KOPCSO D
+  3    32  MATH 1431         1  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  3    32  MATH 1431         2  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  1    34  MATH 1431         3  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  2    33  MATH 1431         4  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  8    27  MATH 1431         5  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  2    33  MATH 1431         6  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  2    33  MATH 1431         7  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  1    34  MATH 1431         8  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+(F)    36  MATH 1431         9  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  1    34  MATH 1431        10  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  1    34  MATH 1431        11  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+(F)    35  MATH 1431        12  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  3    32  MATH 1431        13  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  6    29  MATH 1431        14  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  2    33  MATH 1431        15  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  2    33  MATH 1431        16  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  4    31  MATH 1431        17  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  2    33  MATH 1431        18  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  1    34  MATH 1431        19  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  3    32  MATH 1431        20  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  5    30  MATH 1431        21  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+  4    36  MATH 1550         1  AN GEOM & CALCULUS-I   5.0   730-0820   MTWTF  0285 LOCKETT                          AGARWAL P
+(F)    49  MATH 1550        17  AN GEOM & CALCULUS-I   5.0   730-0820   MTWTF  1034 CEDAR HALL                       MICHAEL I
+  1    39  MATH 1550        18  AN GEOM & CALCULUS-I   5.0   830-0920   MTWTF  0116 LOCKETT                          CHATTERJEE R
+  1    39  MATH 1550        19  AN GEOM & CALCULUS-I   5.0   830-0920   MTWTF  0276 LOCKETT                          AZHANG A
+  3    37  MATH 1550        20  AN GEOM & CALCULUS-I   5.0   830-0920   MTWTF  0112 LOCKETT                          BRIDGES W
+ 11    29  MATH 1550        37  AN GEOM & CALCULUS-I   5.0   830-0920   MTWTF  0241 LOCKETT                          LIU S
+(F)    40  MATH 1550        21  AN GEOM & CALCULUS-I   5.0  1030-1120   MTWTF  0276 LOCKETT                          ALAM I
+(F)    48  MATH 1550        22  AN GEOM & CALCULUS-I   5.0  1130-1220   MTWTF  1034 CEDAR HALL                       DANI P
+  1    39  MATH 1550        23  AN GEOM & CALCULUS-I   5.0  1230-0120   MTWTF  0114 LOCKETT                          NGUYEN L
+  2    46  MATH 1550        24  AN GEOM & CALCULUS-I   5.0  1230-0120   MTWTF  1034 CEDAR HALL                       TARFULEA A
+  1    39  MATH 1550        25  AN GEOM & CALCULUS-I   5.0  1230-0120   MTWTF  0241 LOCKETT                          ALLRED S
+  4    76  MATH 1550        26  AN GEOM & CALCULUS-I   5.0   130-0220   MTWTF  0010 LOCKETT                          WANG Y
+  1    47  MATH 1550        27  AN GEOM & CALCULUS-I   5.0   130-0220   MTWTF  1034 CEDAR HALL                       LITHERLAND R
+(F)    40  MATH 1550        28  AN GEOM & CALCULUS-I   5.0   130-0220   MTWTF  0123 ALLEN                            SINGH J
+  1    49  MATH 1550        33  AN GEOM & CALCULUS-I   5.0   130-0220   MTWTF  B040 EVANGELINE HALL                  TU F
+  2    38  MATH 1550        34  AN GEOM & CALCULUS-I   5.0   130-0220   MTWTF  0102 ALLEN                            HSU P
+ 17    31  MATH 1550        29  AN GEOM & CALCULUS-I   5.0   230-0320   MTWTF  1034 CEDAR HALL                       LITHERLAND R
+  4    46  MATH 1550        30  AN GEOM & CALCULUS-I   5.0   230-0320   MTWTF  B040 EVANGELINE HALL                  NEUBRANDER F
+(F)    40  MATH 1550         2  AN GEOM & CALCULUS-I   5.0   930-1020   MTWTH  0015 LOCKETT                          WHITE T
+  2    37  MATH 1550         3  AN GEOM & CALCULUS-I   5.0   930-1020   MTWTH  0015 LOCKETT                          WHITE T
+(F)    39  MATH 1550         4  AN GEOM & CALCULUS-I   5.0   930-1020   MTWTH  0015 LOCKETT                          WHITE T
+(F)    39  MATH 1550         5  AN GEOM & CALCULUS-I   5.0   930-1020   MTWTH  0015 LOCKETT                          WHITE T
+(F)    39  MATH 1550         6  AN GEOM & CALCULUS-I   5.0   930-1020   MTWTH  0015 LOCKETT                          WHITE T
+  2    37  MATH 1550         7  AN GEOM & CALCULUS-I   5.0  1030-1120   MTWTH  0015 LOCKETT                          WHITE T
+  1    38  MATH 1550         8  AN GEOM & CALCULUS-I   5.0  1030-1120   MTWTH  0015 LOCKETT                          WHITE T
+  2    37  MATH 1550         9  AN GEOM & CALCULUS-I   5.0  1030-1120   MTWTH  0015 LOCKETT                          WHITE T
+(F)    39  MATH 1550        10  AN GEOM & CALCULUS-I   5.0  1030-1120   MTWTH  0015 LOCKETT                          WHITE T
+  5    34  MATH 1550        11  AN GEOM & CALCULUS-I   5.0  1030-1120   MTWTH  0015 LOCKETT                          WHITE T
+  1    38  MATH 1550        12  AN GEOM & CALCULUS-I   5.0  1130-1220   MTWTH  0015 LOCKETT                          HARHAD A
+  1    38  MATH 1550        13  AN GEOM & CALCULUS-I   5.0  1130-1220   MTWTH  0015 LOCKETT                          HARHAD A
+  2    37  MATH 1550        14  AN GEOM & CALCULUS-I   5.0  1130-1220   MTWTH  0015 LOCKETT                          HARHAD A
+  2    37  MATH 1550        15  AN GEOM & CALCULUS-I   5.0  1130-1220   MTWTH  0015 LOCKETT                          HARHAD A
+  1    38  MATH 1550        16  AN GEOM & CALCULUS-I   5.0  1130-1220   MTWTH  0015 LOCKETT                          HARHAD A
+ 44    36  MATH 1550        31  AN GEOM & CALCULUS-I   5.0   430-0650N  M W    0016 LOCKETT                          BULUT A
+  6    94  MATH 1550        32  AN GEOM & CALCULUS-I   5.0   330-0550    T TH  0005 LOCKETT                          VAUGHN D
+ 59    41  MATH 1550        36  AN GEOM & CALCULUS-I   5.0  TBA                                     100% WEB BASED   HARHAD A
+  1    29  MATH 1551         1  HON-AN GEOM CAL I      5.0   830-0920   MTWTF  0111 LOCKETT                          CASPER W
+  1    29  MATH 1551         2  HON-AN GEOM CAL I      5.0  1230-0120   MTWTF  0135 LOCKETT                          VERTIGAN D
+  9    31  MATH 1551         3  HON-AN GEOM CAL I      5.0   130-0220   MTWTF  0284 LOCKETT                          COHEN D
+  5    25  MATH 1551         4  HON-AN GEOM CAL I      5.0   230-0320   MTWTF  0111 LOCKETT                          OPOROWSKI B
+100    90  MATH 1552         1  AN GEOM & CALCULUS     4.0   830-0920   MTWTH  0016 LOCKETT                          SOROKO I
+  2    38  MATH 1552         2  AN GEOM & CALCULUS     4.0  1030-1120   MTWTH  0138 LOCKETT                          ZIMMER A
+  8   182  MATH 1552         3  AN GEOM & CALCULUS     4.0  1230-0120   MTWTH  0015 LOCKETT                          TOM M
+  1    39  MATH 1552         4  AN GEOM & CALCULUS     4.0   130-0220   MTWTH  0138 LOCKETT                          ISSA S
+ 10    70  MATH 1552         5  AN GEOM & CALCULUS     4.0   430-0620N   T TH  0145 COATES                           HE H
+  3    37  MATH 1553         1  HON- AN GEOM CAL II    4.0  1230-0120   MTWTH  0138 LOCKETT                          WONG C
+ 18    28  MATH 2020         1  SOLVING DISCRETE PRO   3.0   130-0220   M W F  0112 AUDUBON                          LI W
+ 24    16  MATH 2025         1  LINEAR ALG; WAVELETS   3.0  1130-1220   M W F  0239 LOCKETT         CI-WRITTEN&TECH  WOLENSKI P
+(F)    85  MATH 2057         2  MULTIDIMENSIONAL CAL   3.0   130-0220   M W F  0139 ALLEN                            HOFFMAN J
+ 48    32  MATH 2057         3  MULTIDIMENSIONAL CAL   3.0   230-0320   M W F  0145 COATES                           LISAN A
+  5    75  MATH 2057         4  MULTIDIMENSIONAL CAL   3.0   900-1020    T TH  0206 TUREAUD HALL                     ZEITLIN A
+  6    74  MATH 2057         5  MULTIDIMENSIONAL CAL   3.0  1030-1150    T TH  0206 TUREAUD HALL                     ZEITLIN A
+ 16    14  MATH 2058         1  HON- MULTIDIM CAL      3.0  1230-0120   M W F  0113 LOCKETT                          BOURDIN B
+  4    24  MATH 2060 LAB     1  TECHNOLOGY LAB         1.0  1230-0120    T TH  0171 COATES                           PERLIS A
+ 32    48  MATH 2065         1  EL DIFFERENTIAL EQ     3.0  1030-1120   M W F  0102 ALLEN                            NGUYEN P
+ 15    65  MATH 2065         2  EL DIFFERENTIAL EQ     3.0  1230-0120   M W F  0139 ALLEN                            NGUYEN P
+ 50    30  MATH 2065         3  EL DIFFERENTIAL EQ     3.0   900-1020    T TH  0105 TUREAUD HALL                     HE H
+ 36    44  MATH 2070         1  MATH METH IN ENGINEE   4.0  1030-1120   MTWTH  0155 COATES                           ZHU J
+ 35    45  MATH 2070         2  MATH METH IN ENGINEE   4.0   130-0220   MTWTH  0228 COATES                           ZHU J
+ 14    26  MATH 2085         1  LINEAR ALGEBRA         3.0  1030-1120   M W F  0121 ALLEN                            IGHEDO O
+ 43    37  MATH 2090         1  ELEM DIFF EQ & LIN A   4.0   830-0920   MTWTH  0155 COATES                           NG S
+  1    79  MATH 2090         2  ELEM DIFF EQ & LIN A   4.0   930-1020   MTWTH  0155 COATES                           LONG L
+  6    74  MATH 2090         3  ELEM DIFF EQ & LIN A   4.0  1030-1120   MTWTH  0228 COATES                           LONG L
+ 37    43  MATH 2090         4  ELEM DIFF EQ & LIN A   4.0   130-0220   MTWTH  0145 COATES                           LISAN A
+ 10    30  MATH 2203         1  MEAS: PRPTNL & ALG     3.0   730-0920    T TH  0138 LOCKETT         SVC LEARNING     MUFFULETTO M
+  5    10  MATH 3002         1  MATH PRESENTATIONS     2.0   300-0420    T TH  0136 PRESCOTT        CI-WRITTEN&VISU  NGUYEN R
+  3    17  MATH 3050         1  INTEREST THEORY        5.0   300-0520    T TH  0134 LOCKETT                          DELZELL C
+ 20    35  MATH 3355         1  PROBABILITY            3.0   230-0320   M W F  0015 LOCKETT                          SUNDAR P
+ 16     4  MATH 3903 SEM     1  METH OF PROB SOLVING   2.0  TBA                                                      MAHLBURG K
+ 23     7  MATH 4019         1  CALCULUS INTERNSHIP    2.0  1230-0120   M      0205 PRESCOTT                         HARHAD A
+  9    11  MATH 4020         1  CAPSTONE COURSE        3.0   130-0250    T TH  0134 LOCKETT                          WOLENSKI P
+  6    29  MATH 4031         1  ADVANCED CALCULUS I    3.0   930-1020   M W F  0136 LOCKETT                          RICHARDSON L
+ 22    18  MATH 4038         1  MATH METH IN ENGR      3.0   130-0220   M W F  0114 LOCKETT                          RICHARDSON L
+ 17     5  MATH 4040         1  SHORTTERM ACT MATH1    3.0   730-0850    T TH  0130 LOCKETT                          COCHRAN W
+  4    36  MATH 4056         1  MATHEMATICAL STAT      3.0   900-1020    T TH  0206 WILLIAMS                         SUNDAR P
+  6    14  MATH 4064         1  NUMERICAL LINEAR ALG   3.0   130-0250    T TH  0119 LOCKETT                          ZHANG H
+  8    12  MATH 4065         1  NUMERICAL ANALYSIS     3.0  1030-1150    T TH  0130 LOCKETT                          WAN X
+  5    20  MATH 4153         1  FIN DIM VECT SPAC      3.0  1030-1120   M W F  0244 LOCKETT                          HOFFMAN J
+ 13     7  MATH 4172         1  COMBINATORICS          3.0  1200-0120    T TH  0130 LOCKETT                          BANERJEE I
+  9    16  MATH 4181         1  ELEM NUMBER THEORY     3.0   130-0220   M W F  0132 LOCKETT                          ADKINS W
+  9    21  MATH 4200         1  ABSTRACT ALGEBRA I     3.0   830-0920   M W F  0132 LOCKETT                          SHIPMAN S
+ 15    10  MATH 4340         1  PART DIFFERENTL EQUA   3.0  1030-1120   M W F  0135 LOCKETT                          BOURDIN B
+ 17     8  MATH 4345         1  SPECIAL FUNCTIONS      3.0   130-0250    T TH  0112 LOCKETT                          MAHLBURG K
+ 15     5  MATH 4997 SEM     3  PARALLEL COMP MATH     3.0   900-1020    T TH  0130 LOCKETT                          KAISER H
+ 10    10  MATH 4997 SEM     2  INV LOW-DIM TOPOLOGY   3.0  1030-1150    T TH  0232 LOCKETT         CI-WRITTEN&SPOK  VELA-VICK D
+ 12     8  MATH 4997 SEM     1  BUILDINGS              3.0  1200-0120    T TH  0232 LOCKETT         CI-WRITTEN&SPOK  SAGE D
+ 11     9  MATH 4999 RES     4  SEL RDGS IN MATH       1-3   430-0620N     TH  0205 PRESCOTT                         MADDEN J
+ 19     1  MATH 4999 RES     1  SEL RDGS IN MATH       1-3  TBA                                                      SMOLINSKY L
+ 24     1  MATH 4999 RES     2  SEL RDGS IN MATH       1-3  TBA                                                      WOLENSKI P
+ 19     1  MATH 6893 SEM     1  SEMINAR SEC MATH       1-3  TBA                                                      NEUBRANDER F
+  7    23  MATH 7001 SEM     1  COMMUNICATING MATH I   1.0   300-0450    T TH  0241 LOCKETT                          OXLEY J
+  8    22  MATH 7210         1  ALGEBRA I              3.0  1230-0120   M W F  0111 LOCKETT                          NG S
+ 11     9  MATH 7230         1  CLASS FIELD THEORY     3.0  1030-1150    T TH  0119 LOCKETT                          MAHLBURG K
+ 17     8  MATH 7260         1  HOMOLOGICAL ALGEBRA    3.0   900-1020    T TH  0232 LOCKETT                          ACHAR P
+ 19     6  MATH 7290 SEM     1  MOD TENSOR CAT/Q-INV   1-3  1030-1120   M W F  0134 ALLEN                            NG S
+  4    26  MATH 7311         1  REAL ANALYSIS I        3.0  1030-1120   M W F  0232 LOCKETT                          SUNDAR P
+  9     6  MATH 7325         1  NUM ANALYSIS & APPLS   3.0  1200-0120    T TH  0119 LOCKETT                          WALKER S
+ 16    14  MATH 7350         1  COMPLEX ANALYSIS       3.0   130-0250    T TH  0232 LOCKETT                          SAGE D
+ 18     7  MATH 7360         1  PROBABILITY THEORY     3.0  1030-1150    T TH  0111 LOCKETT                          GANGULY A
+ 19     6  MATH 7380 SEM     1  SPHER HARM/INT GEOM    1-3   830-0920   M W F  0232 LOCKETT                          RUBIN B
+ 19     6  MATH 7384         1  TOPICS MATERIAL SCI    3.0   230-0320   M W F  0232 LOCKETT                          LIPTON R
+ 16     4  MATH 7386         1  THEORY OF PDE          3.0  1200-0120   M W    0232 LOCKETT                          BULUT A
+  5    20  MATH 7510         1  TOPOLOGY I             3.0   930-1020   M W F  0232 LOCKETT                          DASBACH O
+ 16     4  MATH 7520         1  ALGEBRAIC TOPOLOGY     3.0  1130-1220   M W F  0119 LOCKETT                          COHEN D
+ 15     5  MATH 7590 SEM     1  TRISEC SMOOTH 4-MAN    1-3   130-0250    T TH  0233 LOCKETT                          BALDRIDGE S
+ 98     1  MATH 7999 RES     1  SEL READINGS IN MATH   1-3  TBA                                                      MALISOFF M
+ 97     2  MATH 7999 RES     2  SEL READINGS IN MATH   1-3  TBA                                                      DING G
+ 98     1  MATH 7999 RES     3  SEL READINGS IN MATH   1-3  TBA                                                      OPOROWSKI B
+ 98     1  MATH 7999 RES     4  SEL READINGS IN MATH   1-3  TBA                                                      ACHAR P
+ 98     1  MATH 7999 RES     5  SEL READINGS IN MATH   1-3  TBA                                                      OXLEY J
+ 98     1  MATH 7999 RES     6  SEL READINGS IN MATH   1-3  TBA                                                      DASBACH O
+ 98     1  MATH 7999 RES     7  SEL READINGS IN MATH   1-3  TBA                                                      DASBACH O
+ 97     2  MATH 7999 RES     8  SEL READINGS IN MATH   1-3  TBA                                                      MAHLBURG K
+ 98     1  MATH 7999 RES     9  SEL READINGS IN MATH   1-3  TBA                                                      BALDRIDGE S
+ 98     1  MATH 7999 RES    10  SEL READINGS IN MATH   1-3  TBA                                                      OLAFSSON G
+ 98     1  MATH 7999 RES    11  SEL READINGS IN MATH   1-3  TBA                                                      OLAFSSON G
+ 98     1  MATH 7999 RES    12  SEL READINGS IN MATH   1-3  TBA                                                      ESTRADA R
+ 98     1  MATH 7999 RES    13  SEL READINGS IN MATH   1-3  TBA                                                      NEUBRANDER F
+ 98     1  MATH 7999 RES    14  SEL READINGS IN MATH   1-3  TBA                                                      LONG L
+ 98     1  MATH 7999 RES    15  SEL READINGS IN MATH   1-3  TBA                                                      BALDRIDGE S
+ 97     2  MATH 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      NEUBRANDER F
+ 97     2  MATH 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BRENNER S
+ 95     4  MATH 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      OXLEY J
+ 97     2  MATH 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      KUO H
+ 98     1  MATH 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      NGUYEN P
+ 98     1  MATH 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      LIPTON R
+ 98     1  MATH 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      YAKIMOV M
+ 97     2  MATH 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      OPOROWSKI B
+ 96     3  MATH 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SUNDAR P
+ 96     3  MATH 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SAGE D
+ 97     2  MATH 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      BOURDIN B
+ 98     1  MATH 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      ACHAR P
+ 96     3  MATH 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      MAHLBURG K
+ 95     4  MATH 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      VELA-VICK D
+ 98     1  MATH 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      OLAFSSON G
+ 97     2  MATH 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      LONG L

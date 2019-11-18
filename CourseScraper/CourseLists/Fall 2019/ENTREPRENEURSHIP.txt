@@ -1,0 +1,20 @@
+  3    52  ENTR 2000         1  INNOV & CREATIVITY     3.0   130-0250    T TH  0215 WILLIAMS                         REID S
+ 29    26  ENTR 2000         2  INNOV & CREATIVITY     3.0   430-0550N   T TH  1800 BUS ED N WING                    REID S
+  3    52  ENTR 3012         1  INTRAPRENEURSHIP       3.0  1030-1150    T TH  2520 BUS ED AUDITORI                  CABRAL J
+(F)    55  ENTR 3012         2  INTRAPRENEURSHIP       3.0  1200-0120    T TH  2520 BUS ED AUDITORI                  CABRAL J
+ 17    38  ENTR 3111         1  ENTREPRENEURSHIP       3.0   130-0420    T     1321 BUS ED S WING                    TUCKER R
+  7    48  ENTR 3111         2  ENTREPRENEURSHIP       3.0   130-0420     W    1321 BUS ED S WING                    TUCKER R
+ 28    12  ENTR 4010         2  DISRUPTIVE ENTR        3.0   600-0850N  M      1720 BUS ED N WING   PERMIS OF INST   PERRET S
+  9     1  ENTR 4010         3  ENTR SPECIAL TOPICS    3.0  TBA                                     PERMIS OF INST   HOLT D
+  6     4  ENTR 4020 CLI     1  ENTR INTERNSHIP        3.0  TBA                                     PERMIS OF INST   WATSON E
+ 34    21  ENTR 4030 RES     1  ENTR INDEPEN STUDY     3.0   600-0850N  M      1700 BUS ED N WING   PERMIS OF INST   ANDERSON K
+  8     2  ENTR 4030 RES     2  ENTR INDEPEN STUDY     3.0  TBA                                     PERMIS OF INST   ANDERSON K
+ 14    26  ENTR 4040         1  BUSINESS PLANNING      3.0   600-0850N    W    1700 BUS ED N WING                    ANDERSON K
+(F)     1  ENTR 4040         2  BUSINESS PLANNING      3.0  TBA                                     PERMIS OF INST   ANDERSON K
+  9     1  ENTR 4100         1  CONSULT FIELD STUDY    3.0  TBA                                     PERMIS OF INST   WATSON E
+ 12    43  ENTR 4113         1  SMALL BUSINESS MANAG   3.0   300-0550     W    1735 BUS ED N WING                    HOLT D
+ 42    13  ENTR 4113         2  SMALL BUSINESS MANAG   3.0   600-0850N    W    1735 BUS ED N WING                    HOLT D
+ 23    32  ENTR 4114         1  FRANCHISING MANAGEME   3.0   430-0720N  M      1835 BUS ED N WING                    LEWIS J
+ 30    25  ENTR 4120         1  SOCIAL ENTREPRENEUR    3.0   300-0420    T TH  1700 BUS ED N WING                    CHEN Y
+ 46     9  ENTR 4701         1  TECH ENTREPRENEUR      3.0  1030-1120   M W F  1735 BUS ED N WING                    DAVIS J
+  9     1  ENTR 7111         1  ENTREPRENEURSHIP MGT   3.0  TBA                                     PERMIS OF INST   HOLT D

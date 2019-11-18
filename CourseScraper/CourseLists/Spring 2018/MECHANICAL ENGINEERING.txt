@@ -1,0 +1,131 @@
+  1    59  ME   2212         1  INTRO MECH ENGR DESN   2.0   300-0350    T     0140 ELAB            CI-WRITTEN&SPOK  PALARDY G
+ 35    25  ME   2212         2  INTRO MECH ENGR DESN   2.0   300-0350    T     0140 ELAB            CI-WRITTEN&SPOK  PALARDY G
+ 43   137  ME   2334         1  THERMODYNAMICS         4.0   730-0820   MTWTF  0002 LOCKETT                          DEVIREDDY R
+  1    49  ME   2543         2  SIM METHD FOR ME       3.0   230-0350   M W                                          GONTHIER K
+  5    45  ME   2543         1  SIM METHD FOR ME       3.0   130-0250    T TH                                        GONTHIER K
+145    35  ME   2733         2  MATERIALS OF ENGR      3.0   430-0550N  M W    0005 LOCKETT                          WANG Y
+  1   177  ME   2733         1  MATERIALS OF ENGR      3.0  1200-0120    T TH                                        LU F
+ 46   132  ME   3133         1  DYNAMICS               3.0   830-0920   M W F  0009 LOCKETT                          WAGGENSPACK W
+ 21    29  ME   3133         2  DYNAMICS               3.0   430-0520N  M W    1225 PATRICK TAYLOR                   WAGGENSPACK W
+  1    87  ME   3333         1  THERMODYNAMICS         3.0   230-0350   M W    1253 PATRICK TAYLOR                   WALKER E
+ 48    40  ME   3333         2  THERMODYNAMICS         3.0   430-0550N  M W    1253 PATRICK TAYLOR                   WALKER E
+(F)    18  ME   3603         1  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+(F)    16  ME   3603         2  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+(F)    18  ME   3603         3  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+(F)    18  ME   3603         4  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+(F)    18  ME   3603         5  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+(F)    18  ME   3603         6  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+(F)    18  ME   3603         7  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+(F)    17  ME   3603         8  FUND OF INSTRUMENTN    3.0  1030-1150    T TH  1221 PATRICK TAYLOR                   WALKER E
+(F)    18  ME   3603         9  FUND OF INSTRUMENTN    3.0  1030-1150    T TH  1221 PATRICK TAYLOR                   WALKER E
+(F)    18  ME   3603        10  FUND OF INSTRUMENTN    3.0  1030-1150    T TH  1221 PATRICK TAYLOR                   WALKER E
+  9     3  ME   3613         1  HNRS:FUND OF INSTRM    3.0  TBA                                                      WALKER E
+(F)     6  ME   3633         1  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633         2  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633         3  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633         4  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     5  ME   3633         5  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633         6  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633         7  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633         8  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633         9  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633        10  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633        11  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     5  ME   3633        12  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     5  ME   3633        13  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633        14  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633        15  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633        16  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     5  ME   3633        17  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633        18  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)     6  ME   3633        19  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+(F)    12  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0  1030-0120   M                                            MOLDOVAN D
+(F)    12  ME   3701 LAB     5  MATRLS OF ENGRNG LAB   1.0   130-0420   M                                            MOLDOVAN D
+(F)    12  ME   3701 LAB     9  MATRLS OF ENGRNG LAB   1.0   430-0720N  M                                            MOLDOVAN D
+(F)    12  ME   3701 LAB     2  MATRLS OF ENGRNG LAB   1.0  1030-0120    T                                           MOLDOVAN D
+(F)    12  ME   3701 LAB     3  MATRLS OF ENGRNG LAB   1.0  1030-0120     W                                          MOLDOVAN D
+(F)    12  ME   3701 LAB     4  MATRLS OF ENGRNG LAB   1.0  1030-0120      TH                                        MOLDOVAN D
+  3     9  ME   3701 LAB     8  MATRLS OF ENGRNG LAB   1.0   130-0420      TH                                        MOLDOVAN D
+(F)   191  ME   3752         1  MAT SELECT MECH ENGR   2.0  1200-0120    T TH  0016 LOCKETT                          SHAO S
+ 13   117  ME   3834         1  FLUID MECHANICS        4.0   730-0820   MTWTF  0010 LOCKETT                          WONG H
+ 11   139  ME   4202 LAB     1  ME CAPSTONE DESN II    2.0  1030-1150    T TH                       CI-WRITTEN&SPOK  NIKITOPOULOS
+(F)    29  ME   4213         1  WELDING ENGR I         3.0   300-0420    T TH  1236 PATRICK TAYLOR                   WAHAB M
+(F)   195  ME   4244         1  MACHINE DESIGN II      4.0   830-1020   M W F                                        SINCLAIR G
+ 10    15  ME   4293         1  MICROSYS FAB & DESN    3.0   430-0550N   T TH  1216 PATRICK TAYLOR                   WANG W
+ 86    94  ME   4433         1  HEAT TRANSFER          3.0   600-0720N   T TH  0130 HOWE RUSSELL E                   CHARALAMPOPOU
+  9    16  ME   4443         1  INTR TO COMBUSTION     3.0   900-1020    T TH  0117 TUREAUD HALL                     SCHOEGL I
+(F)    12  ME   4611 LAB     1  THERMAL SYSTEM LAB     1.0  1030-0120   M                           CI-SPOKEN        GUO S
+(F)    12  ME   4611 LAB     5  THERMAL SYSTEM LAB     1.0   130-0420   M                           CI-SPOKEN        GUO S
+(F)    12  ME   4611 LAB     9  THERMAL SYSTEM LAB     1.0   430-0720N  M                           CI-SPOKEN        GUO S
+(F)    12  ME   4611 LAB     2  THERMAL SYSTEM LAB     1.0  1030-0120    T                          CI-SPOKEN        GUO S
+(F)    12  ME   4611 LAB     6  THERMAL SYSTEM LAB     1.0   130-0420    T                          CI-SPOKEN        GUO S
+(F)    12  ME   4611 LAB     3  THERMAL SYSTEM LAB     1.0  1030-0120     W                         CI-SPOKEN        GUO S
+(F)    12  ME   4611 LAB     7  THERMAL SYSTEM LAB     1.0   130-0420     W                         CI-SPOKEN        GUO S
+(F)    12  ME   4611 LAB    10  THERMAL SYSTEM LAB     1.0   430-0720N    W                         CI-SPOKEN        GUO S
+(F)    12  ME   4611 LAB     4  THERMAL SYSTEM LAB     1.0  1030-0120      TH                       CI-SPOKEN        GUO S
+(F)    12  ME   4611 LAB     8  THERMAL SYSTEM LAB     1.0   130-0420      TH                       CI-SPOKEN        GUO S
+  1    11  ME   4621 LAB     3  THERMAL SCIENCE LAB    1.0   130-0420   M                           CI-WRITTEN       MENON S
+(F)    13  ME   4621 LAB     4  THERMAL SCIENCE LAB    1.0   130-0420    T                          CI-WRITTEN       MENON S
+(F)    13  ME   4621 LAB     8  THERMAL SCIENCE LAB    1.0   430-0720N   T                          CI-WRITTEN       MENON S
+(F)    13  ME   4621 LAB     2  THERMAL SCIENCE LAB    1.0  1030-0120     W                         CI-WRITTEN       MENON S
+(F)    12  ME   4621 LAB     5  THERMAL SCIENCE LAB    1.0   130-0420     W                         CI-WRITTEN       MENON S
+(F)    26  ME   4633         1  INT COMB ENGINE        3.0  1030-1120   M W F  0225 TUREAUD HALL                     CHARALAMPOPOU
+ 17     8  ME   4673         1  INTR MOD CONT THEORY   3.0   130-0250    T TH  1216 PATRICK TAYLOR                   DE QUEIROZ M
+  1    24  ME   4683         1  SENSORS & ACTUATORS    3.0  1200-0120    T TH  0225 TUREAUD HALL                     WANG W
+(F)    16  ME   4723         2  ADV MAT ANALYSIS       3.0   300-0420    T TH  0119 TUREAUD HALL                     MENG W
+(F)    28  ME   4733         1  DEFOR/FRAC ENGR MATS   3.0   130-0250    T TH  0226 TUREAUD HALL                     PARK S
+  4     1  ME   4903 RES     1  SP PROJECTS UNDER GR   3.0  TBA                                                      LI G
+  2     1  ME   4903 RES     4  SP PROJECTS UNDER GR   3.0  TBA                                                      WAHAB M
+  2     1  ME   4903 RES     5  SP PROJECTS UNDER GR   3.0  TBA                                                      SCHOEGL I
+  2     1  ME   4903 RES     6  SP PROJECTS UNDER GR   3.0  TBA                                                      GUO S
+(F)    29  ME   4913         1  AERODYNAMICS           3.0   300-0420   M W    0225 TUREAUD HALL                     BARAN A
+(F)    25  ME   4933         3  PRESSURE VESSEL DSGN   3.0   430-0550N  M W    1216 PATRICK TAYLOR                   GUILLOT M
+  4    21  ME   4933         4  AIRCRAFT PROPULSION    3.0   900-1020    T TH  0226 TUREAUD HALL                     MENON S
+(F)    27  ME   4933         1  BLDG SYS,EQPMNT DSGN   3.0   430-0550N   T TH  0225 TUREAUD HALL                     GILLIO C
+(F)    10  ME   4933         2  FRICTION STIR WELD'G   3.0   130-0420       F  1218 PATRICK TAYLOR                   ELLER M
+  7    18  ME   4953         1  NUC REACTOR ENGR DES   3.0  1200-0120    T TH  1218 PATRICK TAYLOR                   GARTIA M
+  5     5  ME   7163         2  ADVANCED DYNAMICS      3.0   300-0420    T TH  0129 TUREAUD HALL
+ 16     4  ME   7273         1  ADV STRESS ANALY-ME    3.0  1200-0120    T TH  1216 PATRICK TAYLOR                   SINCLAIR G
+ 15     5  ME   7323         1  ADV FLUID DYN II       3.0  1030-1150    T TH  1216 PATRICK TAYLOR                   WONG H
+ 16     4  ME   7443         1  ADV HEAT TRANSFER II   3.0  1030-1120   M W F  1218 PATRICK TAYLOR                   DEVIREDDY R
+ 10    10  ME   7743         1  DEF DIF TRNSF SOLIDS   3.0   900-1020    T TH  1218 PATRICK TAYLOR                   MOLDOVAN D
+ 60    60  ME   7901 SEM     1  SEMINAR                1.0   300-0350       F  1200 PATRICK TAYLOR                   GARTIA M
+  5        ME   7903 RES     1  INDEP STDY IN ME       3.0  TBA                                                      SINCLAIR G
+  6     4  ME   7953         1  WELDING & NDT          3.0   300-0420    T TH  1236 PATRICK TAYLOR                   WAHAB M
+ 98     1  ME   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      GONTHIER K
+ 99        ME   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      GUO S
+ 99        ME   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      KHONSARI M
+ 98     1  ME   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      MOLDOVAN D
+ 98     1  ME   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      MURPHY M
+ 98     1  ME   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      NIKITOPOULOS
+ 99        ME   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      WONG H
+ 98     1  ME   8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      SCHOEGL I
+  5        ME   8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      GARTIA M
+  8     2  ME   8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      MENON S
+  9     1  ME   8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      DE QUEIROZ M
+  9     1  ME   8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      PALARDY G
+ 96     3  ME   9000 RES     1  DISSERTATION RES       1-12 TBA                                                      ACHARYA S
+ 97     2  ME   9000 RES     2  DISSERTATION RES       1-12 TBA                                                      CHARALAMPOPOU
+ 95     4  ME   9000 RES     3  DISSERTATION RES       1-12 TBA                                                      DE QUEIROZ M
+ 99        ME   9000 RES     4  DISSERTATION RES       1-12 TBA                                                      DEVIREDDY R
+ 99        ME   9000 RES     5  DISSERTATION RES       1-12 TBA                                                      GONTHIER K
+ 94     5  ME   9000 RES     6  DISSERTATION RES       1-12 TBA                                                      GUO S
+ 95     4  ME   9000 RES     7  DISSERTATION RES       1-12 TBA                                                      KHONSARI M
+ 94     5  ME   9000 RES     8  DISSERTATION RES       1-12 TBA                                                      LI G
+ 96     3  ME   9000 RES     9  DISSERTATION RES       1-12 TBA                                                      MENG W
+ 97     2  ME   9000 RES    10  DISSERTATION RES       1-12 TBA                                                      MOLDOVAN D
+ 98     1  ME   9000 RES    11  DISSERTATION RES       1-12 TBA                                                      MURPHY M
+ 97     2  ME   9000 RES    12  DISSERTATION RES       1-12 TBA                                                      NIKITOPOULOS
+ 97     2  ME   9000 RES    13  DISSERTATION RES       1-12 TBA                                                      PARK S
+ 99        ME   9000 RES    14  DISSERTATION RES       1-12 TBA                                                      SINCLAIR G
+ 98     1  ME   9000 RES    15  DISSERTATION RES       1-12 TBA                                                      WAHAB M
+ 98     1  ME   9000 RES    16  DISSERTATION RES       1-12 TBA                                                      WANG J
+ 98     1  ME   9000 RES    17  DISSERTATION RES       1-12 TBA                                                      WANG W
+ 98     1  ME   9000 RES    18  DISSERTATION RES       1-12 TBA                                                      WONG H
+ 96     3  ME   9000 RES    19  DISSERTATION RES       1-12 TBA                                                      WANG Y
+ 97     2  ME   9000 RES    20  DISSERTATION RES       1-12 TBA                                                      SCHOEGL I
+ 97     2  ME   9000 RES    21  DISSERTATION RES       1-12 TBA                                                      LU F
+ 98     1  ME   9000 RES    22  DISSERTATION RES       1-12 TBA                                                      BARAN A
+  7     3  ME   9000 RES    23  DISSERTATION RES       1-12 TBA                                                      GARTIA M
+  8     2  ME   9000 RES    24  DISSERTATION RES       1-12 TBA                                                      PALARDY G
+ 98     1  ME   9000 RES    25  DISSERTATION RES       1-12 TBA                                                      SHAO S

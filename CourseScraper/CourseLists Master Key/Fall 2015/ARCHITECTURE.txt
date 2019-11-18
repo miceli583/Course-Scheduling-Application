@@ -1,0 +1,33 @@
+(F)    57  ARCH 1001 LAB     1  ARCH DESIGN I          6.0   830-1220   M W F  0145 COATES          CI-SPOKEN&VISUA  WATSON G
+(F)    19  ARCH 1001 LAB     2  ARCH DESIGN I          6.0   830-1220   M W F  0201 ATKINSON        CI-SPOKEN&VISUA  WATSON G
+  1     9  ARCH 2001 LAB     1  ARCH DESIGN III        6.0   100-0450   M W F  0253 ATKINSON        CI-SPOKEN&VISUA  KELSCH K
+  3    14  ARCH 2001 LAB     2  ARCH DESIGN III        6.0   100-0450   M W F  0253 ATKINSON        CI-SPOKEN&VISUA  CROW J
+ 29    31  ARCH 2003         1  ARCH TECHNIQUES        3.0  1030-1120   M W F  0411 DESIGN BUILDING CI-VISUAL&TECH   KELSCH K
+ 36   114  ARCH 2007         1  HISTORY OF ARCH I      3.0   830-0920   M W F  0103 DESIGN BUILDING                  CROW J
+ 18     4  ARCH 2101 LAB     1  HNRS ARCH DESN III     6.0   100-0450   M W F  0253 ATKINSON                         KELSCH K
+ 14   111  ARCH 2401         1  APPRECIATION OF ARCH   3.0   500-0620N  M W    0005 LOCKETT                          DESMOND J
+  2    11  ARCH 3001 LAB     1  ARCH DESN V            6.0   100-0450   M W F  0030 ATKINSON                         WATSON G
+  1    13  ARCH 3001 LAB     2  ARCH DESN V            6.0   100-0450   M W F  0030 ATKINSON                         PALAGI K
+ 17    33  ARCH 3007         3  ARCHITECTURAL SYSTEM   3.0  1030-1120   M W F  0313 DESIGN BUILDING                  PALAGI K
+  2     3  ARCH 3101 LAB     1  HNRS ARCH DESN V       6.0   100-0450   M W F  0030 ATKINSON                         WATSON G
+(F)    17  ARCH 4001 LAB     2  ARCH DESIGN VII        6.0   100-0450   M W F  0230 ATKINSON                         DESMOND J
+ 32     3  ARCH 4007         2  HIST OF ARCH III       3.0  TBA                                                      ERDMAN J
+(F)    16  ARCH 4041         2  ISS IN SUSTAINABIITY   3.0  1030-1150    T TH  0313 DESIGN BUILDING CI-WRITTEN&SPOK  ERDMAN J
+(F)    19  ARCH 4062         4  URBAN DESIGN/PLANNIN   3.0  1030-1120   M W F  0220 DESIGN BUILDING                  ZWIRN R
+  1    14  ARCH 4072         1  COMMUNITY DESIGN STD   3.0   130-0250    T TH  0102 ATKINSON                         DORAN W
+ 14     1  ARCH 4101 LAB     1  HNRS ARCH DESN VII     6.0  TBA                                                      DESMOND J
+  4    21  ARCH 4221 SEM     4  SEL TOP IN ARCHITECT   1-3   600-0850N   T     0220 DESIGN BUILDING                  BONIER C
+(F)     8  ARCH 4221 SEM     1  SEL TOP IN ARCHITECT   1-3  TBA                                                      ERDMAN J
+ 19     6  ARCH 4221 SEM     6  SEL TOP IN ARCHITECT   1-3  TBA                                                      ERDMAN J
+ 22     3  ARCH 4221 SEM     7  SEL TOP IN ARCHITECT   1-3  TBA                                                      ERDMAN J
+  1    14  ARCH 4440         1  VERN ARCH & MAT CULT   3.0   600-0850N  M      0102 ATKINSON        CI-SPOKEN&VISUA  EMERY MCCLURE
+  7    10  ARCH 5002 LAB     1  ARCH DESN CONCENTRAT   6.0   100-0450   M W F  0101 ATKINSON        CI-SPOKEN&VISUA  CARNEY J
+  2     9  ARCH 5002 LAB     2  ARCH DESN CONCENTRAT   6.0   100-0450   M W F  0142 ATKINSON        CI-SPOKEN&VISUA  BONIER C
+ 11     4  ARCH 5002 LAB     3  ARCH DESN CONCENTRAT   6.0   100-0450   M W F  0151 ATKINSON                         ZWIRN R
+ 14     1  ARCH 5002 LAB     4  ARCH DESN CONCENTRAT   6.0   100-0450   M W F  0214 ATKINSON                         DORAN W
+(F)    16  ARCH 5004 SEM     2  CONCENTRATION SEMINA   3.0   900-1020    T TH                                        KEAN L
+(F)     1  ARCH 5102 LAB     2  HNRS:ARCH DESN CONC    6.0   100-0450   M W F                       CI-SPOKEN&VISUA  BONIER C
+  7     5  ARCH 7001 LAB     1  GRAD DESN STUDIO I     6.0   100-0450   M W F                                        EMERY MCCLURE
+  5     7  ARCH 7003 LAB     1  GRAD DESN STUDIO III   6.0   100-0450   M W F                                        DORAN W
+  7     5  ARCH 7005 LAB     1  GRAD DESN STUDIO V     6.0   100-0450   M W F                                        ZWIRN R
+  1    11  ARCH 7007 SEM     1  MODERN ARCHITECTURE    3.0   500-0620N   T TH  0102 ATKINSON                         SPIETH D

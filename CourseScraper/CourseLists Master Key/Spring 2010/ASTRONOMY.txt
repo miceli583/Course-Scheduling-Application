@@ -1,0 +1,11 @@
+  2   148  ASTR 1101         1  THE SOLAR SYSTEM       3.0  1040-1130   M W F  0130 NICHOLSON                        CAMPBELL A
+ 24   126  ASTR 1101         2  THE SOLAR SYSTEM       3.0   240-0330   M W F  0130 NICHOLSON                        SCHAEFER B
+  2   148  ASTR 1101         3  THE SOLAR SYSTEM       3.0  1040-1200    T TH  0130 NICHOLSON                        CAMPBELL A
+  8   142  ASTR 1102         1  STELLAR ASTRONOMY      3.0  1240-0130   M W F  0130 NICHOLSON                        CAMPBELL A
+  3   147  ASTR 1102         2  STELLAR ASTRONOMY      3.0   140-0300    T TH  0130 NICHOLSON                        HYNES R
+ 10    18  ASTR 1108 LAB     1  ASTRONOMY LAB          1.0   710-0900N  M      0365 NICHOLSON                        KADAM K
+  7    21  ASTR 1108 LAB     2  ASTRONOMY LAB          1.0   710-0900N   T     0365 NICHOLSON                        KADAM K
+  9    16  ASTR 1109 LAB     1  ASTRONOMY LAB          1.0   710-0900N    W    0365 NICHOLSON                        HAREMZA J
+ 12    13  ASTR 1109 LAB     2  ASTRONOMY LAB          1.0   710-0900      TH  0365 NICHOLSON                        HAREMZA J
+ 19     1  ASTR 7742         1  STELLAR ASTROPHYSICS   3.0  1140-1230   M W F  0106 NICHOLSON                        FRANK J
+ 16     4  ASTR 7777 SEM     1  SEM: ASTR & ASTROPHY   1-6  1210-0100    T     0106 NICHOLSON                        SCHAEFER B

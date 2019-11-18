@@ -1,0 +1,18 @@
+ 18     7  MEDP 4111         1  INT MEDICAL IMAGING    3.0   930-1020   M W F  0118 NICHOLSON                        JIA G
+  5     7  MEDP 7121         1  RADIOBIOLOGY           3.0  1130-1220   M W F  0262 NICHOLSON                        DEY J
+ 12     3  MEDP 7210         1  CLIN PRIN RAD THERPY   3.0  TBA
+ 10     5  MEDP 7331         1  RAD THERAPY PHYSICS    3.0   300-0420   M W    0262 NICHOLSON                        ZHANG R
+ 10     5  MEDP 7530         1  RADIATION SHIELDING    3.0  1030-1120   M W F  0262 NICHOLSON                        MATTHEWS K
+ 13     7  MEDP 7995 SEM     1  SEMINAR                1.0  1230-0120       F  0365 NICHOLSON                        NEWHAUSER W
+  9     1  MEDP 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   FONTENOT J
+ 10        MEDP 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   DEY J
+  9     1  MEDP 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   HOGSTROM K
+ 10        MEDP 8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MATTHEWS K
+ 10        MEDP 8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   NEWHAUSER W
+ 10        MEDP 8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   JIA G
+  9     1  MEDP 8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WANG W
+  9     1  MEDP 8000 RES     8  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   DUGAS J
+  9     1  MEDP 8000 RES     9  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CARVER R
+  8     2  MEDP 8000 RES    10  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ZHANG R
+ 10        MEDP 8000 RES    11  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 10        MEDP 8000 RES    12  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT

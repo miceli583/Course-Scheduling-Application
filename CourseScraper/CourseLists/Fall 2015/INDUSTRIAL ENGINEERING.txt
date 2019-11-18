@@ -1,0 +1,31 @@
+  4    96  IE   1002         1  INDUSTRIAL ENGR FUND   3.0   900-1020    T TH  0102 ALLEN                            HARVEY C
+ 38    62  IE   3201         1  PRIN ENGR ECONOMY      3.0  1030-1150    T TH  0204 TUREAUD HALL                     LIAO T
+  8   192  IE   3302         1  ENGR STATISTICS        3.0   830-0920   M W F  0005 LOCKETT                          IKUMA L
+ 22    58  IE   3520         1  SUPPLY CHAIN LOGISTI   3.0   300-0420    T TH  0202 WILLIAMS                         SARKER B
+  4     6  IE   3699 CLI     1  ENGINEERING PRACTICE   3.0  TBA                                                      IKUMA L
+  6     4  IE   3699 CLI     2  ENGINEERING PRACTICE   3.0  TBA                                                      NAHMENS I
+  6     4  IE   3699 CLI     3  ENGINEERING PRACTICE   3.0  TBA                                                      HARVEY C
+  9     1  IE   3699 CLI     4  ENGINEERING PRACTICE   3.0  TBA                                                      KNAPP G
+  9     1  IE   3699 CLI     5  ENGINEERING PRACTICE   3.0  TBA                                                      SARKER B
+  1    55  IE   4362         1  ADV ENGRNG STAT        3.0   130-0250    T TH  0215 WILLIAMS                         SARKER B
+ 13     7  IE   4426         1  DIST INF SYSTEMS ENG   3.0  1130-1220   M W    3403 PATRICK TAYLOR                   KNAPP G
+  1    50  IE   4462         1  SAFETY ENGINEERING     3.0   900-1020    T TH  2218 PATRICK TAYLOR                   AGHAZADEH F
+  7    33  IE   4516         1  PLANT & SYSTEMS DESN   3.0   930-1050   M W    2228 PATRICK TAYLOR                   NAHMENS I
+ 15    33  IE   4530         1  LEAN MAN SYSTEMS       3.0  1230-0120    T TH  0109 TUREAUD HALL                     JEON H
+ 28    20  IE   4597         1  IE SENIOR DESIGN I     2.0  1230-0320   M      2218 PATRICK TAYLOR  CI-WRITTEN&SPOK  IKUMA L
+ 39     9  IE   4598 LAB     1  IE SENIOR DESIGN II    2.0  1230-0320   M   F                       CI-WRITTEN&SPOK  IKUMA L
+  3     2  IE   4785 RES     1  SPEC TOP IND ENGR      1-3  TBA                                                      IKUMA L
+  4     1  IE   4785 RES     2  SPEC TOP IND ENGR      1-3  TBA                                                      HARVEY C
+  4     1  IE   4785 RES     3  SPEC TOP IND ENGR      1-3  TBA                                                      KNAPP G
+  6     6  IE   7465         1  OCCUP BIOMECHANICS     3.0  1030-1120    T TH  0117 TUREAUD HALL                     AGHAZADEH F
+ 10    10  IE   7565         1  METAHEURISTICS         3.0   130-0250    T TH  0145 ELECTRICAL ENGR                  LIAO T
+(F)     7  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                                      KNAPP G
+  4     1  IE   7724 IND     3  INDEP STUDY IE         1-3  TBA                                                      LIAO T
+  2     3  IE   7724 IND     4  INDEP STUDY IE         1-3  TBA                                                      HARVEY C
+  3     2  IE   7724 IND     5  INDEP STUDY IE         1-3  TBA                                                      NAHMENS I
+  2     3  IE   7724 IND     7  INDEP STUDY IE         1-3  TBA                                                      SARKER B
+  4     1  IE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      IKUMA L
+ 98     1  IE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      LIAO T
+ 97     2  IE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      HARVEY C
+ 98     1  IE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      NAHMENS I
+ 98     1  IE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      SARKER B

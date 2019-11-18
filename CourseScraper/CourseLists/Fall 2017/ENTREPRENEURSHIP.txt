@@ -1,0 +1,13 @@
+(F)    50  ENTR 2000         1  INNOV & CREATIVITY     3.0   130-0250    T TH  1800 BUS ED N WING                    LEE M
+ 14    16  ENTR 3012         1  INTRAPRENEURSHIP       3.0  1030-1150    T TH  0145 ELECTRICAL ENGR                  LEE M
+ 28    22  ENTR 3111         1  ENTREPRENEURSHIP       3.0   730-0850    T TH  2520 BUS ED AUDITORI                  MATHIAS B
+  1    49  ENTR 3111         2  ENTREPRENEURSHIP       3.0   900-1020    T TH  2520 BUS ED AUDITORI                  MATHIAS B
+(F)    11  ENTR 4020 CLI     1  INTERN ENTREPRENEUR    3.0  TBA                                                      WATSON E
+  6    14  ENTR 4030 RES     1  INDEP STUDY ENTREPRE   3.0   430-0720N    W    1800 BUS ED N WING                    LOHRKE F
+(F)     1  ENTR 4030 RES     2  INDEP STUDY ENTREPRE   3.0  TBA                                                      WATSON E
+(F)     1  ENTR 4100         1  CONSULT FIELD PROJ     3.0  TBA                                                      WATSON E
+ 10    40  ENTR 4113         1  SMALL BUSINESS MANAG   3.0   130-0250    T TH  1220 BUS ED S WING                    LOHRKE F
+  6    44  ENTR 4113         2  SMALL BUSINESS MANAG   3.0   600-0850N    W    1700 BUS ED N WING                    PERRET S
+ 32     8  ENTR 4114         1  FRANCHISING MANAGEME   3.0   430-0720N    W    1835 BUS ED N WING                    LEWIS J
+ 23    27  ENTR 4120         1  SOCIAL ENTREPRENEUR    3.0   300-0550   M      1800 BUS ED N WING                    CHEN Y
+(F)     2  ENTR 7111         1  ENTREPRENEURSHIP MGT   3.0  TBA                                                      WATSON E

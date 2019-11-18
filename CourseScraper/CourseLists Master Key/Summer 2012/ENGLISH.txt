@@ -1,0 +1,225 @@
+(F)    22  ENGL 1001         1  ENGL COMPOSITION       3.0  0730-0830   MTWTF  0034 ALLEN                            VON CANNON J
+  3    19  ENGL 1001         2  ENGL COMPOSITION       3.0  0840-0940   MTWTF  0032 ALLEN                            WILLIS K
+  2    20  ENGL 1001         7  ENGL COMPOSITION       3.0  0840-0940   MTWTF  0036 ALLEN                            MECHOLSKY K
+  2    20  ENGL 1001         9  ENGL COMPOSITION       3.0  0840-0940   MTWTF  0050 ALLEN                            WIEDENFELD L
+(F)    22  ENGL 1001         3  ENGL COMPOSITION       3.0  0950-1050   MTWTF  0116 STUBBS                           MAXWELL S
+(F)    22  ENGL 1001         6  ENGL COMPOSITION       3.0  0950-1050   MTWTF  0036 ALLEN                            DISCHINGER M
+(F)    22  ENGL 1001        10  ENGL COMPOSITION       3.0  0950-1050   MTWTF  0046 ALLEN                            BANECKER A
+  1    21  ENGL 1001         4  ENGL COMPOSITION       3.0  1100-1200   MTWTF  0032 ALLEN                            AVILA J
+  2     8  ENGL 1051         1  SPK ENGL INT GRD AST   3.0  0950-1200   M W F  0055 ALLEN           PERMIS OF DEPT   EPPERSON E
+  2     8  ENGL 1051         2  SPK ENGL INT GRD AST   3.0  0950-1200    T TH  0055 ALLEN           PERMIS OF DEPT   EPPERSON E
+  3    19  ENGL 2000         6  ENGLISH COMP           3.0  0730-0830   MTWTF  0038 ALLEN                            ALEXANDER S
+(F)    22  ENGL 2000         1  ENGLISH COMP           3.0  0840-0940   MTWTF  0034 ALLEN                            HOLLYFIELD J
+  3    19  ENGL 2000         2  ENGLISH COMP           3.0  0950-1050   MTWTF  0034 ALLEN                            HARDING J
+  2    20  ENGL 2000         4  ENGLISH COMP           3.0  0950-1050   MTWTF  0038 ALLEN                            BROSSEAU J
+  2    20  ENGL 2000         7  ENGLISH COMP           3.0  0950-1050   MTWTF  0032 ALLEN                            GRIFA A
+(F)    22  ENGL 2000         3  ENGLISH COMP           3.0  1100-1200   MTWTF  0034 ALLEN                            DAVIS A
+(F)    22  ENGL 2000         5  ENGLISH COMP           3.0  1100-1200   MTWTF  0038 ALLEN                            ZERBY D
+(F)    22  ENGL 2000         8  ENGLISH COMP           3.0  1100-1200   MTWTF  0027 ALLEN                            CHANEY C
+  2    33  ENGL 2025         1  FICTION                3.0  1210-0110   MTWTF  0027 ALLEN                            WICKS A
+  5    20  ENGL 2025         4  FICTION                3.0  1210-0110   MTWTF  0132 ALLEN           CI-WRITTEN&SPOK  WITHEROW J
+(F)    36  ENGL 2027         1  POETRY                 3.0  0950-1050   MTWTF  0112 TUREAUD HALL                     MCKINNON R
+ 16    19  ENGL 2270         1  MAJ AMERICAN AUTHORS   3.0  0950-1050   MTWTF  0124 TUREAUD HALL                     LONG J
+ 19     1  ENGL 3920 RES     1  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   MULLIN A
+  3    17  ENGL 4710         1  INTR TO LINGUISTICS    3.0  1210-0110   MTWTF  0038 ALLEN                            CAMP A
+ 99        ENGL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BERMAN J
+ 98     1  ENGL 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BENNETT J
+ 99        ENGL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BLACKWOOD R
+ 99        ENGL 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      BOWLES L
+ 99        ENGL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HENNINGER K
+ 99        ENGL 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      BOELHOWER W
+ 99        ENGL 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      HAMM R
+ 99        ENGL 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      COSTELLO B
+ 99        ENGL 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      CATANO J
+ 99        ENGL 8000 RES    10  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      COPE K
+ 99        ENGL 8000 RES    12  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      CRONE M
+ 99        ENGL 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      CRUMP R
+ 99        ENGL 8000 RES    15  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      DEMASTES W
+ 99        ENGL 8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      EUBA F
+ 99        ENGL 8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      COATS L
+ 97     2  ENGL 8000 RES    19  THESIS RESEARCH        1-12 TBA                                                      MULLEN L
+ 99        ENGL 8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      FREEDMAN C
+ 99        ENGL 8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      KORNHAUSER M
+ 99        ENGL 8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      GELLRICH J
+ 99        ENGL 8000 RES    23  THESIS RESEARCH        1-12 TBA                                                      ZERBA M
+ 99        ENGL 8000 RES    24  THESIS RESEARCH        1-12 TBA                                                      GOURDINE A
+ 99        ENGL 8000 RES    25  THESIS RESEARCH        1-12 TBA                                                      KAMENETZ R
+ 99        ENGL 8000 RES    26  THESIS RESEARCH        1-12 TBA                                                      KENNEDY J
+ 99        ENGL 8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      KRONICK J
+ 99        ENGL 8000 RES    28  THESIS RESEARCH        1-12 TBA                                                      LIGGETT S
+ 99        ENGL 8000 RES    29  THESIS RESEARCH        1-12 TBA                                                      LOWE J
+ 99        ENGL 8000 RES    30  THESIS RESEARCH        1-12 TBA                                                      MADDEN J
+ 99        ENGL 8000 RES    31  THESIS RESEARCH        1-12 TBA                                                      GLENUM L
+ 99        ENGL 8000 RES    32  THESIS RESEARCH        1-12 TBA                                                      MASSE M
+ 99        ENGL 8000 RES    33  THESIS RESEARCH        1-12 TBA                                                      HEGARTY M
+ 99        ENGL 8000 RES    34  THESIS RESEARCH        1-12 TBA                                                      MAY J
+ 99        ENGL 8000 RES    35  THESIS RESEARCH        1-12 TBA                                                      MCGEE P
+ 99        ENGL 8000 RES    36  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    37  THESIS RESEARCH        1-12 TBA                                                      MICHIE E
+ 99        ENGL 8000 RES    38  THESIS RESEARCH        1-12 TBA                                                      MORELAND R
+ 99        ENGL 8000 RES    39  THESIS RESEARCH        1-12 TBA                                                      NARDO A
+ 99        ENGL 8000 RES    40  THESIS RESEARCH        1-12 TBA                                                      OLIVER E
+ 99        ENGL 8000 RES    41  THESIS RESEARCH        1-12 TBA                                                      OTERO S
+ 99        ENGL 8000 RES    42  THESIS RESEARCH        1-12 TBA                                                      PECKHAM I
+ 99        ENGL 8000 RES    43  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    44  THESIS RESEARCH        1-12 TBA                                                      RASTOGI P
+ 99        ENGL 8000 RES    45  THESIS RESEARCH        1-12 TBA                                                      RICHARDSON M
+ 99        ENGL 8000 RES    46  THESIS RESEARCH        1-12 TBA                                                      NOVAK D
+ 99        ENGL 8000 RES    47  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    48  THESIS RESEARCH        1-12 TBA                                                      SANDIFORD K
+ 99        ENGL 8000 RES    49  THESIS RESEARCH        1-12 TBA                                                      ROLLINS B
+ 99        ENGL 8000 RES    50  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    51  THESIS RESEARCH        1-12 TBA                                                      TOTH E
+ 99        ENGL 8000 RES    52  THESIS RESEARCH        1-12 TBA
+ 98     1  ENGL 8000 RES    53  THESIS RESEARCH        1-12 TBA                                                      WELTMAN S
+ 99        ENGL 8000 RES    54  THESIS RESEARCH        1-12 TBA                                                      WARE C
+ 99        ENGL 8000 RES    55  THESIS RESEARCH        1-12 TBA                                                      WEINSTEIN S
+ 99        ENGL 8000 RES    56  THESIS RESEARCH        1-12 TBA                                                      WILCOX J
+ 99        ENGL 8000 RES    57  THESIS RESEARCH        1-12 TBA                                                      BIRTHWRIGHT E
+ 99        ENGL 8000 RES    58  THESIS RESEARCH        1-12 TBA                                                      COATS L
+ 99        ENGL 8000 RES    59  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    60  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    61  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    62  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    63  THESIS RESEARCH        1-12 TBA
+ 99        ENGL 8000 RES    64  THESIS RESEARCH        1-12 TBA                                                      GLENUM L
+ 99        ENGL 8900 RES     1  INDEPENDENT STUDY      1-3  TBA                                                      BERMAN J
+ 99        ENGL 8900 RES     2  INDEPENDENT STUDY      1-3  TBA                                                      BENNETT J
+ 99        ENGL 8900 RES     3  INDEPENDENT STUDY      1-3  TBA                                                      BLACKWOOD R
+ 99        ENGL 8900 RES     4  INDEPENDENT STUDY      1-3  TBA                                                      BOWLES L
+ 99        ENGL 8900 RES     5  INDEPENDENT STUDY      1-3  TBA                                                      HENNINGER K
+ 99        ENGL 8900 RES     6  INDEPENDENT STUDY      1-3  TBA                                                      BOELHOWER W
+ 99        ENGL 8900 RES     7  INDEPENDENT STUDY      1-3  TBA                                                      HAMM R
+ 99        ENGL 8900 RES     8  INDEPENDENT STUDY      1-3  TBA                                                      COSTELLO B
+ 99        ENGL 8900 RES     9  INDEPENDENT STUDY      1-3  TBA                                                      CATANO J
+ 99        ENGL 8900 RES    10  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    11  INDEPENDENT STUDY      1-3  TBA                                                      COPE K
+ 99        ENGL 8900 RES    12  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    13  INDEPENDENT STUDY      1-3  TBA                                                      CRONE M
+ 99        ENGL 8900 RES    14  INDEPENDENT STUDY      1-3  TBA                                                      CRUMP R
+ 99        ENGL 8900 RES    15  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    16  INDEPENDENT STUDY      1-3  TBA                                                      DEMASTES W
+ 99        ENGL 8900 RES    17  INDEPENDENT STUDY      1-3  TBA                                                      EUBA F
+ 99        ENGL 8900 RES    18  INDEPENDENT STUDY      1-3  TBA                                                      COATS L
+ 99        ENGL 8900 RES    19  INDEPENDENT STUDY      1-3  TBA                                                      MULLEN L
+ 99        ENGL 8900 RES    20  INDEPENDENT STUDY      1-3  TBA                                                      FREEDMAN C
+ 99        ENGL 8900 RES    21  INDEPENDENT STUDY      1-3  TBA                                                      KORNHAUSER M
+ 99        ENGL 8900 RES    22  INDEPENDENT STUDY      1-3  TBA                                                      GELLRICH J
+ 99        ENGL 8900 RES    23  INDEPENDENT STUDY      1-3  TBA                                                      ZERBA M
+ 99        ENGL 8900 RES    24  INDEPENDENT STUDY      1-3  TBA                                                      GOURDINE A
+ 99        ENGL 8900 RES    25  INDEPENDENT STUDY      1-3  TBA                                                      KAMENETZ R
+ 99        ENGL 8900 RES    26  INDEPENDENT STUDY      1-3  TBA                                                      KENNEDY J
+ 99        ENGL 8900 RES    27  INDEPENDENT STUDY      1-3  TBA                                                      KRONICK J
+ 99        ENGL 8900 RES    28  INDEPENDENT STUDY      1-3  TBA                                                      LIGGETT S
+ 99        ENGL 8900 RES    29  INDEPENDENT STUDY      1-3  TBA                                                      LOWE J
+ 99        ENGL 8900 RES    30  INDEPENDENT STUDY      1-3  TBA                                                      MADDEN J
+ 99        ENGL 8900 RES    31  INDEPENDENT STUDY      1-3  TBA                                                      GLENUM L
+ 99        ENGL 8900 RES    32  INDEPENDENT STUDY      1-3  TBA                                                      MASSE M
+ 99        ENGL 8900 RES    33  INDEPENDENT STUDY      1-3  TBA                                                      HEGARTY M
+ 99        ENGL 8900 RES    34  INDEPENDENT STUDY      1-3  TBA                                                      MAY J
+ 99        ENGL 8900 RES    35  INDEPENDENT STUDY      1-3  TBA                                                      MCGEE P
+ 99        ENGL 8900 RES    36  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    37  INDEPENDENT STUDY      1-3  TBA                                                      MICHIE E
+ 99        ENGL 8900 RES    38  INDEPENDENT STUDY      1-3  TBA                                                      MORELAND R
+ 99        ENGL 8900 RES    39  INDEPENDENT STUDY      1-3  TBA                                                      NARDO A
+ 99        ENGL 8900 RES    40  INDEPENDENT STUDY      1-3  TBA                                                      OLIVER E
+ 99        ENGL 8900 RES    41  INDEPENDENT STUDY      1-3  TBA                                                      OTERO S
+ 99        ENGL 8900 RES    42  INDEPENDENT STUDY      1-3  TBA                                                      PECKHAM I
+ 99        ENGL 8900 RES    43  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    44  INDEPENDENT STUDY      1-3  TBA                                                      RASTOGI P
+ 99        ENGL 8900 RES    45  INDEPENDENT STUDY      1-3  TBA                                                      RICHARDSON M
+ 99        ENGL 8900 RES    46  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    47  INDEPENDENT STUDY      1-3  TBA                                                      SANDIFORD K
+ 99        ENGL 8900 RES    48  INDEPENDENT STUDY      1-3  TBA                                                      ROLLINS B
+ 99        ENGL 8900 RES    49  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    50  INDEPENDENT STUDY      1-3  TBA                                                      TOTH E
+ 99        ENGL 8900 RES    51  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    52  INDEPENDENT STUDY      1-3  TBA                                                      WELTMAN S
+ 99        ENGL 8900 RES    53  INDEPENDENT STUDY      1-3  TBA                                                      WARE C
+ 99        ENGL 8900 RES    54  INDEPENDENT STUDY      1-3  TBA                                                      WEINSTEIN S
+ 99        ENGL 8900 RES    55  INDEPENDENT STUDY      1-3  TBA                                                      WILCOX J
+ 99        ENGL 8900 RES    56  INDEPENDENT STUDY      1-3  TBA                                                      BIRTHWRIGHT E
+ 99        ENGL 8900 RES    57  INDEPENDENT STUDY      1-3  TBA                                                      COATS L
+ 99        ENGL 8900 RES    58  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    59  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    60  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    61  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    62  INDEPENDENT STUDY      1-3  TBA
+ 99        ENGL 8900 RES    63  INDEPENDENT STUDY      1-3  TBA                                                      KRONICK J
+ 99        ENGL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BERMAN J
+ 99        ENGL 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BENNETT J
+ 99        ENGL 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      BLACKWOOD R
+ 99        ENGL 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      BOWLES L
+ 99        ENGL 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      HENNINGER K
+ 99        ENGL 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      BOELHOWER W
+ 99        ENGL 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      HAMM R
+ 98     1  ENGL 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      COSTELLO B
+ 98     1  ENGL 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      CATANO J
+ 99        ENGL 9000 RES    10  DISSERTATION RES       1-12 TBA
+ 99        ENGL 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      COPE K
+ 99        ENGL 9000 RES    12  DISSERTATION RES       1-12 TBA
+ 99        ENGL 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      CRONE M
+ 99        ENGL 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      CRUMP R
+ 99        ENGL 9000 RES    15  DISSERTATION RES       1-12 TBA
+ 98     1  ENGL 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      DEMASTES W
+ 99        ENGL 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      EUBA F
+ 99        ENGL 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      COATS L
+ 99        ENGL 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      MULLEN L
+ 97     2  ENGL 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      FREEDMAN C
+ 99        ENGL 9000 RES    21  DISSERTATION RES       1-12 TBA                                                      KORNHAUSER M
+ 98     1  ENGL 9000 RES    22  DISSERTATION RES       1-12 TBA                                                      GELLRICH J
+ 99        ENGL 9000 RES    23  DISSERTATION RES       1-12 TBA                                                      ZERBA M
+ 99        ENGL 9000 RES    24  DISSERTATION RES       1-12 TBA                                                      GOURDINE A
+ 99        ENGL 9000 RES    25  DISSERTATION RES       1-12 TBA                                                      KAMENETZ R
+ 99        ENGL 9000 RES    26  DISSERTATION RES       1-12 TBA                                                      KENNEDY J
+ 98     1  ENGL 9000 RES    27  DISSERTATION RES       1-12 TBA                                                      KRONICK J
+ 99        ENGL 9000 RES    28  DISSERTATION RES       1-12 TBA                                                      LIGGETT S
+ 99        ENGL 9000 RES    29  DISSERTATION RES       1-12 TBA                                                      LOWE J
+ 99        ENGL 9000 RES    30  DISSERTATION RES       1-12 TBA                                                      MADDEN J
+ 99        ENGL 9000 RES    31  DISSERTATION RES       1-12 TBA                                                      GLENUM L
+ 97     2  ENGL 9000 RES    32  DISSERTATION RES       1-12 TBA                                                      MASSE M
+ 99        ENGL 9000 RES    33  DISSERTATION RES       1-12 TBA                                                      HEGARTY M
+ 99        ENGL 9000 RES    34  DISSERTATION RES       1-12 TBA                                                      MAY J
+ 99        ENGL 9000 RES    35  DISSERTATION RES       1-12 TBA                                                      MCGEE P
+ 99        ENGL 9000 RES    36  DISSERTATION RES       1-12 TBA
+ 98     1  ENGL 9000 RES    37  DISSERTATION RES       1-12 TBA                                                      MICHIE E
+ 99        ENGL 9000 RES    38  DISSERTATION RES       1-12 TBA                                                      MORELAND R
+ 99        ENGL 9000 RES    39  DISSERTATION RES       1-12 TBA                                                      NARDO A
+ 99        ENGL 9000 RES    40  DISSERTATION RES       1-12 TBA                                                      OLIVER E
+ 98     1  ENGL 9000 RES    41  DISSERTATION RES       1-12 TBA                                                      OTERO S
+ 99        ENGL 9000 RES    42  DISSERTATION RES       1-12 TBA                                                      PECKHAM I
+ 99        ENGL 9000 RES    43  DISSERTATION RES       1-12 TBA
+ 97     2  ENGL 9000 RES    44  DISSERTATION RES       1-12 TBA                                                      RASTOGI P
+ 99        ENGL 9000 RES    45  DISSERTATION RES       1-12 TBA                                                      RICHARDSON M
+ 98     1  ENGL 9000 RES    46  DISSERTATION RES       1-12 TBA                                                      NOVAK D
+ 99        ENGL 9000 RES    47  DISSERTATION RES       1-12 TBA
+ 99        ENGL 9000 RES    48  DISSERTATION RES       1-12 TBA                                                      SANDIFORD K
+ 98     1  ENGL 9000 RES    49  DISSERTATION RES       1-12 TBA                                                      ROLLINS B
+ 99        ENGL 9000 RES    50  DISSERTATION RES       1-12 TBA
+ 99        ENGL 9000 RES    51  DISSERTATION RES       1-12 TBA                                                      TOTH E
+ 99        ENGL 9000 RES    52  DISSERTATION RES       1-12 TBA
+ 97     2  ENGL 9000 RES    53  DISSERTATION RES       1-12 TBA                                                      WELTMAN S
+ 99        ENGL 9000 RES    54  DISSERTATION RES       1-12 TBA                                                      WARE C
+ 99        ENGL 9000 RES    55  DISSERTATION RES       1-12 TBA                                                      WEINSTEIN S
+ 99        ENGL 9000 RES    56  DISSERTATION RES       1-12 TBA                                                      WILCOX J
+ 99        ENGL 9000 RES    57  DISSERTATION RES       1-12 TBA                                                      BIRTHWRIGHT E
+ 99        ENGL 9000 RES    58  DISSERTATION RES       1-12 TBA                                                      COATS L
+ 99        ENGL 9000 RES    59  DISSERTATION RES       1-12 TBA                                                      COHEN M
+ 99        ENGL 9000 RES    60  DISSERTATION RES       1-12 TBA                                                      KAHAN B
+ 99        ENGL 9000 RES    61  DISSERTATION RES       1-12 TBA
+ 99        ENGL 9000 RES    62  DISSERTATION RES       1-12 TBA
+ 99        ENGL 9000 RES    63  DISSERTATION RES       1-12 TBA
+ 99        ENGL 9000 RES    64  DISSERTATION RES       1-12 TBA                                                      PECKHAM I
+ 99        ENGL 9000 RES    65  DISSERTATION RES       1-12 TBA                                                      RASTOGI P
+  6     9  ENGL 1005         1  ENGL COMPOSITION       3.0  0800-0930   MTWTF  0017 ALLEN           PERMIS OF INST   GLADMAN G
+  3    19  ENGL 2002         3  BUSINESS WRITING       3.0  1100-1230   MTWTF  0230EMIDDLETON                        PULLIAM J
+ 10    12  ENGL 2005         1  INTR WRITING SH STOR   3.0  1100-1230   MTWTF  0017 ALLEN                            KAISER R
+ 20    15  ENGL 2025         5  FICTION                3.0  0800-0930   MTWTF  0101 TUREAUD HALL                     BRIGMAN H
+ 10    25  ENGL 2025         2  FICTION                3.0  0910-1040   MTWTF  0108 TUREAUD HALL                     TURNER M
+ 14    21  ENGL 2027         4  POETRY                 3.0  0800-0930   MTWTF  0102 ALLEN                            SOWDERS T
+  4    21  ENGL 2027         3  POETIC FOUND HIP-HOP   3.0  0910-1040   MTWTF  0128 ALLEN                            WEINSTEIN S
+  8    14  ENGL 3002         1  TECHNICAL WRITING      3.0  1100-1230   MTWTF                                        TUSA C
+ 12    28  ENGL 3222         1  THE BROADWAY MUSICAL   3.0  1240-0210   MTWTF  0031 ALLEN                            WELTMAN S

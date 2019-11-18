@@ -1,0 +1,12 @@
+  3    12  ASST 1002         1  FOUNDATIONS USAF       1.0  1040-1130     W                                          MORRIS C
+  4    16  ASST 1002         2  FOUNDATIONS USAF       1.0   140-0230     W                                          MORRIS C
+  8    12  ASST 1002         3  FOUNDATIONS USAF       1.0   240-0330     W                                          MORRIS C
+ 13    27  ASST 1012 LAB     1  LEADERSHIP LAB I       1.0   310-0430    T TH                                        SANDERS R
+ 18    12  ASST 2002         1  EVOL USAF AERO POWER   1.0  1240-0130    T                                           SANDERS R
+ 19    11  ASST 2002         2  EVOL USAF AERO POWER   1.0   140-0230      TH                                        SANDERS R
+  6    24  ASST 2012 LAB     1  LEADERSHIP LAB II      1.0   310-0430    T TH                                        SANDERS R
+ 26    14  ASST 3002         1  AF LDRSHP STUDIES      3.0   840-1000    T TH                                        MCKEON M
+ 13    12  ASST 3012 LAB     1  LEADERSHIP LAB III     1.0   310-0430    T TH                                        SANDERS R
+ 11    14  ASST 4002         1  NATL SEC AFFAIRS       3.0   740-0900    T TH                                        SANDERS R
+ 15    10  ASST 4012 LAB     2  LEADERSHIP LAB IV      1.0   310-0430    T TH                                        SANDERS R
+ 22     3  ASST 4012 LAB     1  LEADERSHIP LAB IV      1.0   310-0600      TH                                        SANDERS R

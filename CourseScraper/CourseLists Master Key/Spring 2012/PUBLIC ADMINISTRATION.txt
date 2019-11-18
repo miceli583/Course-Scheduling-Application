@@ -1,0 +1,20 @@
+ 34    16  PADM 7620         1  STRAT MGT HLTHCARE O   3.0   610-0900N     TH  1111 PATRICK TAYLOR                   HAEUSER J
+ 15    10  PADM 7640         1  LGL/ETH ISS HLTH CR    3.0   610-0900N   T     3142 PATRICK TAYLOR                   JURKIEWICZ C
+ 27    23  PADM 7710         1  PUBLIC FIN MGT         3.0   610-0900N     TH  1116 PATRICK TAYLOR                   MOROZOV B
+(F)     2  PADM 7800 RES     1  IND STUD IN PADM       3.0  TBA                                                      WHITE R
+(F)     1  PADM 7800 RES     2  IND STUD IN PADM       3.0  TBA                                                      RICHARDSON J
+(F)     1  PADM 7800 RES     3  IND STUD IN PADM       3.0  TBA                                                      JURKIEWICZ C
+(F)     2  PADM 7800 RES     4  IND STUD IN PADM       3.0  TBA                                                      MERGET A
+(F)     1  PADM 7800 RES     5  IND STUD IN PADM       3.0  TBA                                                      MOROZOV B
+  1        PADM 7800 RES     6  IND STUD IN PADM       3.0  TBA                                                      RICHARDSON J
+  9     1  PADM 7850 CLI     1  PADM INTERNSHIP        3.0  TBA                                                      RICHARDSON J
+ 18     2  PADM 7851 CLI     1  PADM PRACTICUM         3.0  TBA                                                      RICHARDSON J
+ 33    42  PADM 7900 SEM     1  PUB ADMIN COLLOQUIUM   3.0  1210-0300       F                                        RICHARDSON J
+  5    45  PADM 7911         1  ORG PUB/NONPROF ORG    3.0   610-0900N    W    1111 PATRICK TAYLOR                   JURKIEWICZ C
+ 18    32  PADM 7912 SEM     1  PUBLC PERSNL POLICY    3.0   610-0900N  M      1120 PATRICK TAYLOR                   LLORENS J
+ 24    26  PADM 7912 SEM     2  PUBLC PERSNL POLICY    3.0   210-0500    T     2150 PATRICK TAYLOR                   LLORENS J
+  3    47  PADM 7914 SEM     1  PUBLIC BUDGETING       3.0   610-0900N   T     2142 PATRICK TAYLOR                   MOROZOV B
+ 31    19  PADM 7916         1  STATE/LOC GOV ADMIN    3.0   610-0900N  M      1112 PATRICK TAYLOR                   WHITE R
+ 32    18  PADM 7917 SEM     1  PROGRAM EVALUATION     3.0   210-0500     W    1121 PATRICK TAYLOR                   MERGET A
+ 28     9  PADM 7917 SEM     2  PROGRAM EVALUATION     3.0   610-0900N     TH  3131 PATRICK TAYLOR                   MERGET A
+ 24    13  PADM 7980 SEM     1  CRISIS MANAGEMENT      3.0   210-0500   M      0218 TUREAUD HALL                     BOIN R

@@ -1,0 +1,34 @@
+ 28    22  BADM 7000 CLI     1  INTERNSHIP IN BADM     3.0  TBA                                                      WATSON E
+ 14   146  BADM 7010         1  PRACTICE OF BUSINESS   1.0   940-1130       F  1119 PATRICK TAYLOR                   WATSON E
+  8    42  BADM 7020         1  MANAGERAL STATISTICS   3.0   910-1030    T TH  1114 PATRICK TAYLOR                   CHUN Y
+  8    42  BADM 7020         2  MANAGERAL STATISTICS   3.0  1040-1200    T TH  1114 PATRICK TAYLOR                   CHUN Y
+ 19    11  BADM 7020         3  MANAGERAL STATISTICS   3.0  TBA             FS                                       CHUN Y
+ 10    40  BADM 7030         1  UNDERSTAND FIN INFO    3.0   910-1030    T TH  1116 PATRICK TAYLOR                   TIRAS S
+  9    41  BADM 7030         2  UNDERSTAND FIN INFO    3.0  1040-1200    T TH  1116 PATRICK TAYLOR                   TIRAS S
+  1    62  BADM 7030         3  UNDERSTAND FIN INFO    3.0   610-0900N   T     2162 PATRICK TAYLOR                   TIRAS S
+ 18    12  BADM 7030         4  UNDERSTAND FIN INFO    3.0   810-1200       FS 2145 PATRICK TAYLOR                   TIRAS S
+  7    43  BADM 7050         1  INFOR SYST MBA STDNT   3.0   910-1030   M W    2148 PATRICK TAYLOR                   SCHWARZ A
+ 11    39  BADM 7050         2  INFOR SYST MBA STDNT   3.0  1040-1200   M W    2148 PATRICK TAYLOR                   SCHWARZ A
+ 12    38  BADM 7070         1  UNDERSTAND BEHAV ORG   3.0   910-1030   M W    2146 PATRICK TAYLOR                   KLUEMPER D
+ 19    31  BADM 7070         2  UNDERSTAND BEHAV ORG   3.0  1040-1200   M W    2146 PATRICK TAYLOR                   KLUEMPER D
+(F)    63  BADM 7070         3  UNDERSTAND BEHAV ORG   3.0   610-0900N  M      2162 PATRICK TAYLOR                   SAULEY K
+ 17    13  BADM 7070         4  UNDERSTAND BEHAV ORG   3.0   110-0500       FS 2145 PATRICK TAYLOR                   WHITE R
+  6    54  BADM 7090         1  FIN MANAGEMENT         3.0  TBA         M                                            BLUE M
+  8    52  BADM 7090         2  FIN MANAGEMENT         3.0  TBA            TH                                        BLUE M
+  8    42  BADM 7100         1  MKTING ADMNSTRATION    3.0   910-1030   M W    1120 PATRICK TAYLOR                   RAGGIO R
+  7    43  BADM 7100         2  MKTING ADMNSTRATION    3.0  1040-1200   M W    1120 PATRICK TAYLOR                   RAGGIO R
+ 18    32  BADM 7120         1  OPERATIONS MANAGEMNT   3.0   910-1030    T TH                                        WATSON E
+ 19    31  BADM 7120         2  OPERATIONS MANAGEMNT   3.0  1040-1200    T TH  1112 PATRICK TAYLOR                   WATSON E
+  9    56  BADM 7120         3  OPERATIONS MANAGEMNT   3.0   610-0900N   T     2161 PATRICK TAYLOR                   WATSON E
+  5    55  BADM 7140         1  LEGAL ENVIR BUS I      3.0  TBA          T                                           BREAUX P
+ 12    23  BADM 7140         3  LEGAL ENVIR BUS I      3.0  TBA                                                      FRY M
+ 17    13  BADM 7160         1  NEGOT/PERS/INFLUENCE   3.0  TBA             FS                                       DANOS B
+  5    25  BADM 7170         1  INTERNAT MGMT CHALL    3.0   110-0500       FS                                       WATSON E
+  7    23  BADM 7190         1  MNG SOURCES COMP ADV   3.0  TBA                                                      CASHEN L
+ 20    30  BADM 7200         1  ECON ENVIRN OF THE F   3.0   910-1030    T TH  0120 TUREAUD HALL                     KORAY F
+ 15    35  BADM 7200         2  ECON ENVIRN OF THE F   3.0  1040-1200    T TH  0228 TUREAUD HALL                     KORAY F
+  8    52  BADM 7200         4  ECON ENVIRN OF THE F   3.0   610-0930N     TH  2161 PATRICK TAYLOR  PERMIS OF DEPT
+  7    23  BADM 7200         3  ECON ENVIRN OF THE F   3.0   810-1200       FS 2147 PATRICK TAYLOR                   KORAY F
+ 22     3  BADM 7270 SEM     1  SEM NEW DEV BADM       3.0  TBA                                                      WATSON E
+  9     1  BADM 7460         2  SP TOP: ENTREPREN      1.5   110-0400   M      2174 PATRICK TAYLOR
+ 20     5  BADM 7600         1  CONSULT FIELD PROJ     3.0   440-0730N  M      2170 PATRICK TAYLOR                   WEAVER K

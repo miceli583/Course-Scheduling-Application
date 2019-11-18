@@ -1,0 +1,35 @@
+  5    10  AGRO 7067 CLI     1  CROP BREEDING PRACT    2.0  TBA                                     PERMIS OF INST   HARRISON S
+ 14     1  AGRO 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      OARD J
+ 14     1  AGRO 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      SELIM H
+ 15        AGRO 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      MYERS G
+ 14     1  AGRO 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HARRISON S
+ 15        AGRO 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      GASTON L
+ 15        AGRO 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      WEBSTER E
+ 13     2  AGRO 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      GRIFFIN J
+ 15        AGRO 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      KIMBENG C
+ 15        AGRO 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      WALSH M
+ 13     2  AGRO 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      WANG J
+ 15        AGRO 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      SUBUDHI P
+ 14     1  AGRO 8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      KNOTT C
+ 13     2  AGRO 8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      TUBANA B
+ 13     2  AGRO 8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      WEINDORF D
+ 13     2  AGRO 8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      BAISAKH N
+ 14     1  AGRO 8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      LABONTE D
+ 12        AGRO 8901 RES     1  RES IN CROP SCIENCE    3-6  TBA                                                      STAFF
+ 11     1  AGRO 8902 RES     1  RES IN SOIL SCIENCE    3-6  TBA                                                      STAFF
+ 10     2  AGRO 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      WANG J
+  8     4  AGRO 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      OARD J
+ 12        AGRO 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      HARRISON S
+ 10     2  AGRO 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      MYERS G
+ 11     1  AGRO 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      SELIM H
+ 11     1  AGRO 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      GASTON L
+ 12        AGRO 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      WALSH M
+ 12        AGRO 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      KIMBENG C
+ 10     2  AGRO 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      GRIFFIN J
+ 12        AGRO 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      WEBSTER E
+ 10     2  AGRO 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      SUBUDHI P
+ 12        AGRO 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      KNOTT C
+  9     3  AGRO 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      TUBANA B
+ 12        AGRO 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      WEINDORF D
+ 11     1  AGRO 9000 RES    23  DISSERTATION RES       1-12 TBA                                                      BAISAKH N
+ 12        AGRO 9000 RES    24  DISSERTATION RES       1-12 TBA                                                      LABONTE D

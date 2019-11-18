@@ -1,0 +1,16 @@
+  4    14  PBS  7002 RES     1  RES TECH PATHOB SCI    1-4   300-0450     W                                          KEARNEY M
+  7     3  PBS  7003 SEM     1  SPEC TOP PATHOB SCI    1-4  TBA                                                      LANGOHR I
+  9     1  PBS  7003 SEM     2  SPEC TOP PATHOB SCI    1-4  TBA                                                      GAUNT S
+  6     4  PBS  7004         1  CUR LIT PATHOBIO SCI   1.0  TBA                                                      MILLER J
+  6     4  PBS  7004         2  CUR LIT PATHOBIO SCI   1.0  TBA                                                      LANGOHR I
+  9     1  PBS  7004         3  CUR LIT PATHOBIO SCI   1.0  TBA                                                      GAUNT S
+  8     2  PBS  7004         4  CUR LIT PATHOBIO SCI   1.0  TBA                                                      STOUT R
+  8     2  PBS  7004         5  CUR LIT PATHOBIO SCI   1.0  TBA                                                      JEYASEELAN S
+  8     2  PBS  7004         6  CUR LIT PATHOBIO SCI   1.0  TBA                                                      KOUSOULAS K
+ 13    12  PBS  7007 SEM     1  PBS SEMINAR            1.0  TBA                                                      MACALUSO K
+  2     8  PBS  7417         1  PATH INF PARAS AGENT   1-4  TBA                                                      THUNE R
+ 10        PBS  7419         1  POP DYN & ECOL PARA    3.0  TBA                                                      MALONE J
+  7     3  PBS  7508         1  HISTOPATH SLIDE CONF   1.0  TBA
+  7     3  PBS  7509 LAB     1  SURGICAL PATHOLOGY     1-2  TBA
+  7     3  PBS  7516 RES     1  ADV DIAG PATH ANIMAL   1-2  TBA
+ 10        PBS  7531         1  LAB ANIMAL SCIENCE I   2.0  TBA                                                      STOUT R

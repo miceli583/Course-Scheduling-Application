@@ -1,0 +1,81 @@
+  6    15  LIS  1001         5  LIBR RESRCH METH/MAT   1.0   940-1030   M W                                          RUSSO M
+  9    12  LIS  1001        18  LIBR RESRCH METH/MAT   1.0   940-1030   M W                                          RUSSO M
+  1    20  LIS  1001         6  LIBR RESRCH METH/MAT   1.0  1040-1130   M W                                          VEEDER H
+  1    20  LIS  1001        19  LIBR RESRCH METH/MAT   1.0  1040-1130   M W                                          VEEDER H
+  1    20  LIS  1001         7  LIBR RESRCH METH/MAT   1.0  1140-1230   M W                                          VEEDER H
+  8    13  LIS  1001        20  LIBR RESRCH METH/MAT   1.0  1140-1230   M W                                          VEEDER H
+  4    17  LIS  1001         8  LIBR RESRCH METH/MAT   1.0   240-0330   M W                                          FONTENOT M
+  9    12  LIS  1001        21  LIBR RESRCH METH/MAT   1.0   240-0330   M W                                          FONTENOT M
+  2    19  LIS  1001         9  LIBR RESRCH METH/MAT   1.0   910-1000    T TH                                        RYAN J
+ 14     7  LIS  1001        22  LIBR RESRCH METH/MAT   1.0   910-1000    T TH                                        RYAN J
+ 11    10  LIS  1001        12  LIBR RESRCH METH/MAT   1.0   110-0200    T TH                                        LERCHER A
+ 17     4  LIS  1001        25  LIBR RESRCH METH/MAT   1.0   110-0200    T TH                                        LERCHER A
+  5    16  LIS  1001        13  LIBR RESRCH METH/MAT   1.0   210-0300    T TH                                        LERCHER A
+ 13     8  LIS  1001        26  LIBR RESRCH METH/MAT   1.0   210-0300    T TH                                        LERCHER A
+ 15    35  LIS  1001         1  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   DAUGHERTY A
+  1    49  LIS  1001         2  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   HRYCAJ P
+ 13    37  LIS  1001         3  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   BELL J
+ 32    18  LIS  1001         4  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   MILLER R
+ 40    10  LIS  1001        14  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   PORTER M
+ 11    39  LIS  1001        15  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   HRYCAJ P
+ 44     6  LIS  1001        16  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   BELL J
+ 46     4  LIS  1001        17  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   MILLER R
+  8    22  LIS  2001         1  INTRO TO INFO TECH     3.0  1040-1130   M W F  0169 COATES                           FROSCH J
+ 13    15  LIS  7002         1  INFORMATION SERVICES   3.0   240-0530   M      0171 COATES          MAJORS ONLY      MCKNIGHT M
+  3    25  LIS  7004         1  MGT LIBR/INFORM SPEC   3.0   840-1130    T     0171 COATES          MAJORS ONLY      WARD R
+  3    25  LIS  7005         1  FND OF LIBR & INF SC   3.0  1140-0230   M      0171 COATES          MAJORS ONLY      DAWSON A
+ 12    18  LIS  7008         1  INFORM TECHNOLOGIES    3.0   840-1130      TH  0263BCOATES          MAJORS ONLY      WU Y
+ 13    15  LIS  7011         1  INFORM NEEDS ANALYSI   3.0  1140-0230    T     0171 COATES          MAJORS ONLY      BARRY C
+  9    19  LIS  7012         1  BIBL ORG & RES DEVEL   3.0  1140-0230     W    0171 COATES          MAJORS ONLY      PASKOFF B
+(H)    10  LIS  7013         1  EVAL INFORM SYSTEMS    3.0   410-0700    T     0202 COATES          MAJORS ONLY      JIN T
+ 19     9  LIS  7101         1  MEDIA & SERV CHILDRN   3.0   540-0830N   T     0171 COATES                           STAUFFER S
+  5     5  LIS  7202         1  RES FOR SCI & TECH     3.0   410-0700      TH  0202 COATES          50-99% WEB BASE  MCKNIGHT M
+ 12    16  LIS  7205         1  BUSINESS INFO RESOUR   3.0  TBA                                     100% WEB BASED   JIN T
+  3    19  LIS  7400         1  SCHOOL MEDIA CTRS      3.0   840-1130        S 0202 COATES                           THOMAS M
+  6    20  LIS  7408         1  PRIN ARCHIVES MGMNT    3.0   840-1130   M      0171 COATES                           DOW E
+  4    11  LIS  7503         1  INFO TECH PUBL POL     3.0   410-0700      TH                       50-99% WEB BASE  WARD R
+(F)     2  LIS  7503         9  INFO TECH PUBL POL     3.0  TBA                                     PERMIS OF INST   WARD R
+  1     5  LIS  7604         1  PRIN RECORDS MGMT      3.0   410-0700   M                           PERMIS OF INST   DOW E
+  5    27  LIS  7606         1  ABSTRACTNG & INDEXNG   3.0  TBA                                     100% WEB BASED   BARRY C
+ 16    14  LIS  7608         1  CATALOGING & CLASSIF   3.0   540-0830N  M      0169 COATES                           STAUFFER S
+  7     2  LIS  7610 SEM     1  INFO RETRVL SYSTEMS    3.0   840-1130     W    0230EMIDDLETON                        WU Y
+  5        LIS  7701 SEM     1  ARCH & RECORD KEEPIN   3.0   410-0700     W                         PERMIS OF INST   DOW E
+  3     2  LIS  7702 SEM     1  ADV ARCH APPRAISAL     3.0   410-0700    T                          PERMIS OF INST   DOW E
+ 11     4  LIS  7703 SEM     1  ADV ARCHIVAL ACCESS    3.0   410-0700      TH                       PERMIS OF INST   DOW E
+ 24     4  LIS  7807         1  INFORM LIT INSTRUCT    3.0   240-0530      TH  0171 COATES                           DAWSON A
+ 15        LIS  7810         1  SRCE MUS STUDY & RES   3.0  1040-1200    T TH
+ 99        LIS  7900 CLI     1  FLD EXP LIB/INF SER    3.0  TBA                                     PERMIS OF INST   BARRY C
+ 99        LIS  7900 CLI     2  FLD EXP LIB/INF SER    3.0  TBA                                     PERMIS OF INST   DAWSON A
+ 99        LIS  7900 CLI     3  FLD EXP LIB/INF SER    3.0  TBA                                     PERMIS OF INST   DOW E
+ 99        LIS  7900 CLI     4  FLD EXP LIB/INF SER    3.0  TBA                                     PERMIS OF INST   JIN T
+ 99        LIS  7900 CLI     5  FLD EXP LIB/INF SER    3.0  TBA                                     PERMIS OF INST   MCKNIGHT M
+ 99        LIS  7900 CLI     6  FLD EXP LIB/INF SER    3.0  TBA                                     PERMIS OF INST   STAUFFER S
+ 99        LIS  7900 CLI     7  FLD EXP LIB/INF SER    3.0  TBA                                     PERMIS OF INST   THOMAS M
+ 98     1  LIS  7900 CLI     8  FLD EXP LIB/INF SER    3.0  TBA                                     PERMIS OF INST   WARD R
+ 99        LIS  7900 CLI     9  FLD EXP LIB/INF SER    3.0  TBA                                     PERMIS OF INST   WU Y
+ 17    13  LIS  7901         1  ISSUES IN LIBS         1.0   710-0900N     TH  0171 COATES          MAJORS ONLY      PASKOFF B
+ 97     2  LIS  7902 CLI     1  FLD EXP SCH MED CTRS   3.0  TBA                                     PERMIS OF INST   THOMAS M
+ 99        LIS  7903 CLI     1  FLD EXP SPECIAL LIBR   3.0  TBA                                     PERMIS OF INST   JIN T
+ 99        LIS  7904 CLI     1  FLD EXP ACAD LIBRARI   3.0  TBA                                     PERMIS OF INST   DAWSON A
+ 99        LIS  7905 CLI     1  FLD EXP PUBLIC LIBR    3.0  TBA                                     PERMIS OF INST   WARD R
+ 99        LIS  7906 CLI     1  FLD EXP HL SC INFO     3.0  TBA                                     PERMIS OF INST   MCKNIGHT M
+ 30        LIS  7909 RES     1  MLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   BARRY C
+ 30        LIS  7909 RES     2  MLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   DAWSON A
+ 30        LIS  7909 RES     3  MLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   DOW E
+ 29     1  LIS  7909 RES     4  MLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   JIN T
+ 30        LIS  7909 RES     5  MLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   MCKNIGHT M
+ 30        LIS  7909 RES     6  MLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   STAUFFER S
+ 29     1  LIS  7909 RES     7  MLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   THOMAS M
+ 29     1  LIS  7909 RES     8  MLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   WARD R
+ 30        LIS  7909 RES     9  MLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   WU Y
+ 15    11  LIS  7912         1  NONFIC MATR CHILDREN   1-3   540-0830N    W    0171 COATES                           THOMAS M
+  9     1  LIS  7913 CLI     1  FLD EXP IN ARCHIVES    3.0  TBA                                     PERMIS OF INST   DOW E
+ 30        LIS  7914 RES     1  CLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   BARRY C
+ 30        LIS  7914 RES     2  CLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   DAWSON A
+ 30        LIS  7914 RES     3  CLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   DOW E
+ 30        LIS  7914 RES     4  CLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   JIN T
+ 30        LIS  7914 RES     5  CLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   MCKNIGHT M
+ 30        LIS  7914 RES     6  CLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   STAUFFER S
+ 30        LIS  7914 RES     7  CLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   THOMAS M
+ 30        LIS  7914 RES     8  CLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   WARD R
+ 30        LIS  7914 RES     9  CLIS DIR INDEP STUDY   1-3  TBA                                     PERMIS OF INST   WU Y

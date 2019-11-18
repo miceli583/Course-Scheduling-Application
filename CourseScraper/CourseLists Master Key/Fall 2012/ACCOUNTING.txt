@@ -1,0 +1,44 @@
+138   187  ACCT 2000         1  SURVEY OF ACCOUNTING   3.0   830-0920   M W F  0100 DODSON                           LOWE-ARDOIN L
+ 39   301  ACCT 2000         2  SURVEY OF ACCOUNTING   3.0   130-0250    T TH  0100 DODSON                           DENSTEL C
+ 10   290  ACCT 2001         1  INTR FINANCIAL ACCT    3.0  1200-0120    T TH  1510 BUSINESS ED COM                  HOGAN R
+  8   292  ACCT 2001         2  INTR FINANCIAL ACCT    3.0   130-0250    T TH  1510 BUSINESS ED COM                  HOLMES J
+  5   295  ACCT 2101         1  INTRO MANAGERIAL ACC   3.0   900-1020    T TH  1510 BUSINESS ED COM                  CHENIER J
+  5   295  ACCT 2101         2  INTRO MANAGERIAL ACC   3.0  1030-1150    T TH  1510 BUSINESS ED COM                  CHENIER J
+(F)    56  ACCT 3001         2  INTERMEDIATE ACCT I    3.0   900-1020    T TH  1735 BUSINESS ED COM                  HOLMES J
+  2    58  ACCT 3001         4  INTERMEDIATE ACCT I    3.0   900-1020    T TH  1615 BUSINESS ED COM                  DELAUNE L
+(F)    52  ACCT 3001         1  INTERMEDIATE ACCT I    3.0  1030-1150    T TH  1735 BUSINESS ED COM                  HOLMES J
+ 33    27  ACCT 3021         5  INTERMEDIATE ACCT II   3.0  1030-1150    T TH  1125 BUSINESS ED COM                  HOLLIE D
+  3    57  ACCT 3021         2  INTERMEDIATE ACCT II   3.0  1200-0120    T TH  1321 BUSINESS ED COM                  HOLLIE D
+(F)    60  ACCT 3021         3  INTERMEDIATE ACCT II   3.0   130-0250    T TH  1321 BUSINESS ED COM                  DELAUNE L
+(F)    50  ACCT 3121         2  COST ANAL & CONTROL    3.0   300-0420   M W    1700 BUSINESS ED COM                  CHENIER J
+ 24    36  ACCT 3121         1  COST ANAL & CONTROL    3.0   430-0550N  M W    1700 BUSINESS ED COM                  ESHLEMAN J
+ 26    29  ACCT 3122         1  ACCT INFO SYSTEMS      3.0   730-0850    T TH  1321 BUSINESS ED COM                  SOILEAU J
+  8    48  ACCT 3122         2  ACCT INFO SYSTEMS      3.0  1030-1150    T TH  1321 BUSINESS ED COM                  SOILEAU J
+ 10    45  ACCT 3221         1  INCOME TAX ACCT I      3.0  1030-1120   M W F  1700 BUSINESS ED COM                  LOWE-ARDOIN L
+ 10    45  ACCT 3221         2  INCOME TAX ACCT I      3.0  1130-1220   M W F  1700 BUSINESS ED COM                  LOWE-ARDOIN L
+(F)    37  ACCT 3222         1  AUDITING               3.0   900-1020    T TH  3131 PATRICK TAYLOR  CI-WRITTEN&SPOK  DELAUNE L
+  1    36  ACCT 3222         2  AUDITING               3.0  1030-1150    T TH  3131 PATRICK TAYLOR  CI-WRITTEN&SPOK  DELAUNE L
+(F)    21  ACCT 4021         1  CASES IN ACCT POLICY   3.0   530-0820N   T     1700 BUSINESS ED COM PERMIS OF INST   MOFFITT J
+ 38    22  ACCT 4022         2  ADVANCED ACCOUNTING    3.0   300-0420   M W    1615 BUSINESS ED COM                  LEGORIA J
+  8    42  ACCT 4022         1  ADVANCED ACCOUNTING    3.0   430-0550N  M W    1800 BUSINESS ED COM                  LEGORIA J
+  8    52  ACCT 4121         1  ADVANCED COST ANAL     3.0  1200-0120    T TH  1920 BUSINESS ED COM                  LIU M
+  9    31  ACCT 4221         1  INCOME TAX ACCT II     3.0   300-0420   M W    1220 BUSINESS ED COM                  CRUMBLEY D
+ 95     5  ACCT 4231 CLI     1  INTERNSHIP IN ACCT     3.0  TBA                                     PERMIS OF INST   CHENIER J
+(F)    40  ACCT 4234         1  INTERNL AUDIT II       3.0   900-1020    T TH  1720 BUSINESS ED COM                  SUMNERS G
+  7    53  ACCT 4234         2  INTERNL AUDIT II       3.0  1030-1150    T TH  1700 BUSINESS ED COM                  SUMNERS G
+ 99     1  ACCT 4333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   LAFLEUR L
+(F)    60  ACCT 4421         1  GOV/NOT-FOR-PROF ACC   3.0   730-0850    T TH  1735 BUSINESS ED COM                  TORRES D
+  7    23  ACCT 7021         3  ADV TH OF ACCOUNTS     3.0   900-1150   M W    1114 PATRICK TAYLOR                   REICHELT K
+  8    22  ACCT 7201         1  TAX ASP OF BUS ENT     3.0   900-1020    T TH  1110 PATRICK TAYLOR                   CHENG C
+ 99     1  ACCT 7231 CLI     1  INTRNSHIP IN ACCT      3.0  TBA                                     PERMIS OF INST   MOFFITT J
+ 41     9  ACCT 7232         1  CASE STUD INT AUDIT    3.0  TBA                                     PERMIS OF INST   SUMNERS G
+ 24    16  ACCT 7234         1  OPERATIONAL AUDITING   3.0   130-0250    T TH  1325 BUSINESS ED COM                  SUMNERS G
+  9    31  ACCT 7235         1  FRAUD AUDITING         3.0   600-0850N  M      1305 BUSINESS ED COM                  CRUMBLEY D
+ 90    10  ACCT 7333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   SUMNERS G
+(F)    22  ACCT 7401         1  ETHICS FOR PROF ACCT   3.0   130-0250    T TH  1745 BUSINESS ED COM PERMIS OF INST   MOFFITT J
+  2    18  ACCT 7401         2  ETHICS FOR PROF ACCT   3.0   300-0420    T TH  1745 BUSINESS ED COM PERMIS OF INST   MOFFITT J
+  8     4  ACCT 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      REICHELT K
+ 98     1  ACCT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      REICHELT K
+ 98     1  ACCT 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      TIRAS S
+ 97     2  ACCT 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CHENG C
+  8     2  ACCT 9003 RES     1  ACCOUNTING RES III     3.0   100-0350   M W                                          REICHELT K

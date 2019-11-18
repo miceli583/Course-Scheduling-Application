@@ -1,0 +1,54 @@
+ 15     9  KIN  1124 LAB     2  BEGIN TENNIS           1.0  0840-0940   MTWTF                                        CASTLEBERRY T
+ 14    10  KIN  1124 LAB     3  BEGIN TENNIS           1.0  0950-1050   MTWTF                                        BYWATER D
+  1    23  KIN  1124 LAB     4  BEGIN TENNIS           1.0  1100-1200   MTWTF                                        BYWATER D
+ 16     9  KIN  1125 LAB     1  BEGIN GOLF             1.0  0840-0940   MTWTF                                        AIKEN C
+ 16     9  KIN  1125 LAB     2  BEGIN GOLF             1.0  0950-1050   MTWTF                                        AIKEN C
+ 15    10  KIN  1142 LAB     1  BEGIN COND EXERCISES   1.0  0950-1050   MTWTF                                        HAMILTON J
+ 12    13  KIN  1142 LAB     2  BEGIN COND EXERCISES   1.0  1100-1200   MTWTF                                        HAMILTON J
+ 32     8  KIN  1144 LAB     1  BEGIN AEROBIC DANCE    1.0  1210-0110   MTWTF  0120 LONG FIELDHOUSE                  FISCHER M
+ 36     4  KIN  1144 LAB     2  BEGIN AEROBIC DANCE    1.0   120-0220   MTWTF  0120 LONG FIELDHOUSE                  FISCHER M
+ 11    12  KIN  1146 LAB     2  BEGIN WEIGHT TRAIN     1.0  0730-0830   MTWTF                                        DAVIS G
+  9    14  KIN  1146 LAB     1  BEGIN WEIGHT TRAIN     1.0  0950-1050   MTWTF                                        ROSE K
+  7    16  KIN  1146 LAB     3  BEGIN WEIGHT TRAIN     1.0  1100-1200   MTWTF                                        ROSE K
+ 21    14  KIN  1155 LAB     2  BEGIN JOGGING          1.0  0730-0830   MTWTF                                        AUSTIN K
+ 23    12  KIN  1155 LAB     3  BEGIN JOGGING          1.0  0830-0930   MTWTF                                        AUSTIN K
+  3    27  KIN  1156 LAB     2  OUTDOOR LIVING SKILL   1.0   430-0700N   T TH                                        BULLARD C
+(F)    40  KIN  1600         1  INDIV WELL & PUB HEA   3.0  1100-1200   MTWTF  0137 ALLEN                            FISHER A
+  6    39  KIN  2500         1  HUMAN ANATOMY          3.0  0950-1050   MTWTF  0108 LONG FIELDHOUSE                  HARGRODER W
+  4    41  KIN  2502 CLI     1  PRACTICUM IN SPORTS    3.0  0840-0940   MTWTF  0133 LONG FIELDHOUSE                  ENGEMANN E
+  7    33  KIN  2510         1  INTRO SPRT LSR ADMIN   3.0  1100-1200   MTWTF  0131 LONG FIELDHOUSE                  PFLEEGOR A
+(F)    50  KIN  2530         1  SPORT IN SOCIETY       3.0  0950-1050   MTWTF  0133 LONG FIELDHOUSE                  PFLEEGOR A
+  7    38  KIN  2577         1  H&PE FOR ELEM SCHOOL   3.0  0840-0940   MTWTF  0108 LONG FIELDHOUSE                  BEASLEY E
+ 19    41  KIN  2600         1  HUMAN SEXUALITY        3.0   230-0500    T TH  0108 LONG FIELDHOUSE                  BAKER B
+  8    17  KIN  2604         1  MENTAL HEALTH ISSUES   3.0  1210-0110   MTWTF  0131 LONG FIELDHOUSE                  FISHER A
+(F)     2  KIN  2900 RES     2  INDEPENDENT STUDY      1-3  TBA                                                      JACOBSEN D
+  7     3  KIN  2900 RES     3  INDEPENDENT STUDY      1-3  TBA                                                      JACOBSEN D
+ 17    13  KIN  3500 LAB     1  HUMAN ANATOMY LAB      1.0  TBA                                                      DAVIS G
+  2    28  KIN  3513         1  INTR MOTOR LEARNING    3.0   120-0220   MTWTF  0108 LONG FIELDHOUSE                  VAN GEMMERT A
+  7    28  KIN  3514         1  BIOMECHAN BASIS KIN    3.0  1100-1200   MTWTF  0133 LONG FIELDHOUSE                  LI L
+ 15    25  KIN  3515         1  PHYS BAS PHYSCL ACTV   3.0  1210-0110   MTWTF  0108 LONG FIELDHOUSE                  NELSON A
+(F)    20  KIN  4501         2  ESS SPORT PERF TRAIN   3.0  TBA                                                      THOMPSON M
+(F)    26  KIN  4505 CLI     1  PRACT HMN MVMNT SCI    3.0  TBA                                                      HARGRODER W
+  7    18  KIN  4509         1  SPORTS SUPPLEMENTS     3.0  0840-0940   MTWTF  0130 LONG FIELDHOUSE                  NELSON A
+  6    42  KIN  4515 SEM     1  SPORTS SEMINAR         3.0  1100-1200   MTWTF  0108 LONG FIELDHOUSE                  JACOBSEN D
+(F)    21  KIN  4519         1  CADAVER DISSECTION     3.0  1210-0210   M W                                          LANDIN D
+  1    19  KIN  4519         2  CADAVER DISSECTION     3.0   220-0420   M W                                          THOMPSON M
+ 12    18  KIN  4520         1  PSYCHOSOC & PHYS ACT   3.0  0840-0940   MTWTF  0131 LONG FIELDHOUSE                  GARN A
+  5    20  KIN  4538 LAB     1  PRACT IN APPLD FIT     6.0  TBA                                                      JOHNSON L
+ 13    17  KIN  4571         1  NEUROMTR CON HUM MVT   3.0  0950-1050   MTWTF  0131 LONG FIELDHOUSE                  HONDZINSKI J
+ 30    50  KIN  4835 CLI     1  PRACT SPT LEI ADMIN    6.0  TBA                                                      JACOBSEN D
+  7    18  KIN  4900 RES     1  INDEPENDENT STUDY      1-3  TBA                                                      SOLMON M
+ 16     4  KIN  7500 CLI     1  PRACT SPORT MGMT       3-9  TBA                                                      JACOBSEN D
+ 12     8  KIN  7505         2  PROB IN KIN            3.0  TBA                                                      SOLMON M
+  9     6  KIN  7999 SEM     1  ELECTROMYOGRAPHY       1-3  1210-0110   MTWTF  0130 LONG FIELDHOUSE                  LI L
+ 94     5  KIN  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      SOLMON M
+ 99        KIN  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      SOLMON M
+ 10    40  KIN  2500         2  HUMAN ANATOMY          3.0  0910-1040   MTWTF  0152 COATES                           LANDIN D
+  4    26  KIN  2504         1  PRIN OF CONDITIONING   3.0  1210-0110   MTWTF  0133 LONG FIELDHOUSE                  DAILEY D
+ 16    29  KIN  2509         1  MED TERM FOR KINESIO   3.0  0730-0900   MTWTF  0116 TUREAUD HALL                     CASTLE R
+  7    18  KIN  3507         1  OLYMPIC GMS ANC/MOD    3.0  1240-0210   MTWTF  0101 TUREAUD HALL                     HILL R
+ 22    18  KIN  3534         1  SCI BASIS EXERCISE     3.0  1210-0110   MTWTF  0117 TUREAUD HALL                     WELSCH M
+  8    32  KIN  3800         1  ETHIC/LGL ISS SPORT    3.0  0910-1040   MTWTF  0241 HIMES                            WILLIAMS D
+ 13    37  KIN  4513         1  FACILITIES MGT         3.0  1240-0210   MTWTF  0109 TUREAUD HALL                     SEIFRIED C
+ 23    17  KIN  4518         1  GOV & POLICY IN SPRT   3.0  1100-1230   MTWTF  0101 TUREAUD HALL                     SEIFRIED C
+  5    15  KIN  7505         1  SPORT NUTRITION        3.0   430-0815N   T TH  0130 LONG FIELDHOUSE                  STEWART L

@@ -1,0 +1,20 @@
+  7    21  LATN 1001         1  ELEMENTARY LATIN       4.0   740-0830   MTWTH  0019 ALLEN                            WEBB J
+(F)    28  LATN 1001         2  ELEMENTARY LATIN       4.0   840-0930   MTWTH  0019 ALLEN                            WEBB J
+(F)    28  LATN 1001         3  ELEMENTARY LATIN       4.0   940-1030   MTWTH  0111 LOCKETT                          CRAIG B
+(F)    28  LATN 1001         4  ELEMENTARY LATIN       4.0  1040-1130   MTWTH  0019 ALLEN                            WATANABE A
+(F)    28  LATN 1001         5  ELEMENTARY LATIN       4.0  1240-0130   MTWTH  0424 HODGES HALL                      CRAIG B
+(F)    28  LATN 1001         6  ELEMENTARY LATIN       4.0   240-0330   MTWTH  0112 AUDUBON                          OSTROM A
+  1    27  LATN 1001         7  ELEMENTARY LATIN       4.0   340-0430   MTWTH  0112 AUDUBON                          OSTROM A
+  7    17  LATN 2051         1  INTERMEDIATE LATIN     4.0   840-0930   MTWTH  0215 TUREAUD HALL                     KATCHMER M
+  4    20  LATN 2051         2  INTERMEDIATE LATIN     4.0   940-1030   MTWTH  0137 LOCKETT                          KATCHMER M
+  8    16  LATN 2051         3  INTERMEDIATE LATIN     4.0  1040-1130   MTWTH  0038 ALLEN                            WEBB J
+  4    20  LATN 2051         4  INTERMEDIATE LATIN     4.0  1240-0130   MTWTH  0038 ALLEN                            WATANABE A
+  4    20  LATN 2051         6  INTERMEDIATE LATIN     4.0   340-0430   MTWTH  0027 ALLEN                            SANDROCK J
+ 10    13  LATN 2053         1  INTERMEDIATE LATIN     3.0   940-1030   M W F  0114 PRESCOTT        CI-WRITTEN&SPOK  WEBB J
+  8     7  LATN 2053         2  INTERMEDIATE LATIN     3.0  1040-1230   M W F  0120 PRESCOTT        PERMIS OF DEPT   ASHE A
+(F)    30  LATN 2053         3  INTERMEDIATE LATIN     3.0   240-0330   M W F  0324 HODGES HALL                      FLETCHER K
+(F)    22  LATN 2073         1  ROMAN HISTORIANS       3.0  1040-1130   M W F  0036 ALLEN                            CRAIG B
+  6    14  LATN 2073         2  ROMAN HISTORIANS       3.0  1240-0130   M W F  0100 TUREAUD HALL                     BATINSKI E
+ 14     1  LATN 4001         1  INTENSIVE LATIN LANG   3.0  1240-0130   M W F  0282 LOCKETT                          WARGA R
+ 12    13  LATN 4003         1  READINGS HIS OF LIVY   3.0  1240-0130   M W F  0201 DAIRY SCIENCE                    FLETCHER K
+  1        LATN 4915 RES     1  IND WORK               1-3  TBA                                     PERMIS OF DEPT   STAFF

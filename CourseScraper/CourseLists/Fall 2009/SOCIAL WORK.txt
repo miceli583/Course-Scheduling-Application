@@ -1,0 +1,78 @@
+  1    59  SW   2000         1  INTRO TO SOCIAL WORK   3.0   940-1030   M W F  0026 HATCHER HALL                     CHIASSON-BREA
+(F)    71  SW   3002         1  CHILD AND COMMUNITY    3.0   840-0930   M W F  0139 ALLEN                            LEFEAUX P
+ 14    31  SW   3011         1  COM SERVICES & AGED    3.0   310-0600   M      2171 PATRICK TAYLOR                   SMELLEY S
+(F)    37  SW   7001         2  HUM BEH/SOC ENV I      3.0   840-1130     W    0156 LONG FIELDHOUSE MAJORS ONLY      ABADIE M
+  3    17  SW   7001         3  HUM BEH/SOC ENV I      3.0   410-0700     W    0202 COATES          MAJORS ONLY      BARTHELEMY J
+(F)    38  SW   7003         2  SOC WELFARE HIST/POL   3.0  1240-0330     W    0156 LONG FIELDHOUSE MAJORS ONLY      MOHAN B
+  3    17  SW   7003         3  SOC WELFARE HIST/POL   3.0   410-0700      TH  0204 COATES                           MOHAN B
+  1    22  SW   7005         1  SOCIAL WORK PRACT I    3.0   840-1130      TH  0156 LONG FIELDHOUSE MAJORS ONLY      LILLEY T
+  2    21  SW   7005         2  SOCIAL WORK PRACT I    3.0   840-1130      TH  0146 LONG FIELDHOUSE MAJORS ONLY      MACCIO E
+  8    15  SW   7005         3  SOCIAL WORK PRACT I    3.0   410-0700      TH  0156 LONG FIELDHOUSE MAJORS ONLY      LILLEY T
+ 97     2  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                                      LILLEY T
+ 45     5  SW   7007 CLI     2  FOUND FIELD INTERN I   3.0  TBA                                                      LEMIEUX C
+ 48     2  SW   7007 CLI     3  FOUND FIELD INTERN I   3.0  TBA                                                      ROUTON E
+ 49     1  SW   7007 CLI     4  FOUND FIELD INTERN I   3.0  TBA                                                      PLUMMER C
+ 47     3  SW   7007 CLI     5  FOUND FIELD INTERN I   3.0  TBA                                                      ABADIE M
+ 49     1  SW   7007 CLI     6  FOUND FIELD INTERN I   3.0  TBA                                                      BARTHELEMY J
+ 49     1  SW   7007 CLI     7  FOUND FIELD INTERN I   3.0  TBA                                                      CAIN D
+ 45     5  SW   7007 CLI     8  FOUND FIELD INTERN I   3.0  TBA                                                      DAVIS P
+ 49     1  SW   7007 CLI     9  FOUND FIELD INTERN I   3.0  TBA                                                      LIM Y
+ 47     3  SW   7007 CLI    10  FOUND FIELD INTERN I   3.0  TBA                                                      LIVERMORE M
+ 48     2  SW   7007 CLI    11  FOUND FIELD INTERN I   3.0  TBA                                                      MACCIO E
+ 49     1  SW   7007 CLI    12  FOUND FIELD INTERN I   3.0  TBA                                                      MOHAN B
+ 47     3  SW   7007 CLI    13  FOUND FIELD INTERN I   3.0  TBA                                                      MONROE P
+ 48     2  SW   7007 CLI    14  FOUND FIELD INTERN I   3.0  TBA                                                      PAGE T
+ 46     4  SW   7007 CLI    15  FOUND FIELD INTERN I   3.0  TBA                                                      WILKS S
+ 85        SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                                      LILLEY T
+ 24     1  SW   7008 CLI     2  FOUND FIELD INTERN I   3.0  TBA                                                      PLUMMER C
+ 17    18  SW   7009 RES     2  SOCIAL WORK RESEARCH   3.0   410-0700     W    0156 LONG FIELDHOUSE MAJORS ONLY      WILKS S
+(F)    38  SW   7009 RES     1  SOCIAL WORK RESEARCH   3.0  1240-0330      TH  0156 LONG FIELDHOUSE MAJORS ONLY      LIM Y
+ 87    12  SW   7204 RES     1  RES SW INTERVENTION    3.0  1240-0330     W                                          CAIN D
+ 98     1  SW   7205 SEM     1  PEDAGOG ISS SW EDUC    3.0  TBA                                     PERMIS OF DEPT   MOHAN B
+ 98     1  SW   7205 SEM     2  PEDAGOG ISS SW EDUC    3.0  TBA                                     PERMIS OF DEPT   ALLEN P
+ 98     1  SW   7205 SEM     3  PEDAGOG ISS SW EDUC    3.0  TBA                                     PERMIS OF DEPT   PLUMMER C
+ 98     1  SW   7206 RES     1  RESEARCH PRACTICUM     3-9  TBA                                     PERMIS OF DEPT   LIVERMORE M
+(F)    31  SW   7415         1  CHILD/FAMILY I         3.0   840-1130    T     0146 LONG FIELDHOUSE                  PLUMMER C
+(F)    37  SW   7501         4  PROG & PRACT EVALTN    3.0  1240-0330   M      0156 LONG FIELDHOUSE                  LEMIEUX C
+(F)    33  SW   7501         5  PROG & PRACT EVALTN    3.0  1240-0330   M      0146 LONG FIELDHOUSE                  MONROE P
+ 10    21  SW   7501         6  PROG & PRACT EVALTN    3.0   410-0700    T     0156 LONG FIELDHOUSE                  MONROE P
+ 89    10  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                                      LILLEY T
+ 23     2  SW   7502 CLI     2  ADV FIELD INTERN I     3.0  TBA                                                      LEMIEUX C
+ 11    14  SW   7502 CLI     3  ADV FIELD INTERN I     3.0  TBA                                                      ROUTON E
+ 19     6  SW   7502 CLI     4  ADV FIELD INTERN I     3.0  TBA                                                      PLUMMER C
+ 24     1  SW   7502 CLI     5  ADV FIELD INTERN I     3.0  TBA                                                      ABADIE M
+ 21     4  SW   7502 CLI     6  ADV FIELD INTERN I     3.0  TBA                                                      BARTHELEMY J
+ 20     5  SW   7502 CLI     7  ADV FIELD INTERN I     3.0  TBA                                                      CAIN D
+ 15    10  SW   7502 CLI     8  ADV FIELD INTERN I     3.0  TBA                                                      DAVIS P
+ 21     4  SW   7502 CLI     9  ADV FIELD INTERN I     3.0  TBA                                                      LIM Y
+ 22     3  SW   7502 CLI    10  ADV FIELD INTERN I     3.0  TBA                                                      LIVERMORE M
+ 22     3  SW   7502 CLI    11  ADV FIELD INTERN I     3.0  TBA                                                      MACCIO E
+ 21     4  SW   7502 CLI    12  ADV FIELD INTERN I     3.0  TBA                                                      MOHAN B
+ 22     3  SW   7502 CLI    13  ADV FIELD INTERN I     3.0  TBA                                                      MONROE P
+ 23     2  SW   7502 CLI    14  ADV FIELD INTERN I     3.0  TBA                                                      PAGE T
+ 23     2  SW   7502 CLI    15  ADV FIELD INTERN I     3.0  TBA                                                      WILKS S
+ 19     6  SW   7502 CLI    16  ADV FIELD INTERN I     3.0  TBA                                                      ALLEN P
+ 30        SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                                      LILLEY T
+ 24     1  SW   7503 CLI     2  ADV FLD INTERN II      3.0  TBA                                                      LEMIEUX C
+(F)    33  SW   7505         1  ADV DIRECT PRACTICE    3.0   840-1130   M      0156 LONG FIELDHOUSE                  MOLES A
+(F)    31  SW   7505         2  ADV DIRECT PRACTICE    3.0   840-1130   M      0146 LONG FIELDHOUSE                  ABADIE M
+  8    23  SW   7505         5  ADV DIRECT PRACTICE    3.0   410-0700    T     0146 LONG FIELDHOUSE                  PATE G
+  4    27  SW   7506         6  COM/AGCY CONT DIR PR   3.0   410-0700   M      0156 LONG FIELDHOUSE                  ALLEN P
+(F)    32  SW   7506         4  COM/AGCY CONT DIR PR   3.0  1240-0330    T     0156 LONG FIELDHOUSE                  ALLEN P
+(F)    30  SW   7506         5  COM/AGCY CONT DIR PR   3.0  1240-0330    T     0146 LONG FIELDHOUSE                  LIVERMORE M
+  4    26  SW   7804         1  ADDICTIVE DISORDERS    3.0   840-1130    T     0156 LONG FIELDHOUSE                  LEMIEUX C
+  5    20  SW   7807 SEM     1  A/IW/AT RISK YOUTH     3.0   410-0700   M      0146 LONG FIELDHOUSE                  BARTHELEMY J
+ 13    12  SW   7807 SEM     3  SP TOP: SOCIAL WORK    3.0   840-1130    T     0139 LONG FIELDHOUSE                  MACCIO E
+ 24     1  SW   7905 RES     1  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF DEPT   MACCIO E
+ 24     1  SW   7905 RES     2  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF DEPT   PAGE T
+ 24     1  SW   7905 RES     3  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF DEPT   MONROE P
+ 24     1  SW   7906 RES     1  IND READ/RES: SW PLC   3.0  TBA                                     PERMIS OF DEPT   ALLEN P
+ 24     1  SW   7906 RES     2  IND READ/RES: SW PLC   3.0  TBA                                     PERMIS OF DEPT   MOHAN B
+ 24     1  SW   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LEMIEUX C
+ 24     1  SW   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ALLEN P
+  2     3  SW   9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LEMIEUX C
+  1     4  SW   9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PAGE T
+  5        SW   9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MOHAN B
+  3     2  SW   9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CAIN D
+ 99        SW   9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LIVERMORE M
+ 98     1  SW   9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GUIN C

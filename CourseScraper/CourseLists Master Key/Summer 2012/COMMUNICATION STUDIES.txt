@@ -1,0 +1,21 @@
+(F)    26  CMST 1061         1  FUND OF COMMUNICATN    3.0  0840-0940   MTWTF  0046 ALLEN                            JACKSON S
+  2    24  CMST 1061         2  FUND OF COMMUNICATN    3.0  0950-1050   MTWTF  0137 LOCKETT                          KEATON S
+  1    25  CMST 2060         1  PUBLIC SPEAKING        3.0  0840-0940   MTWTF  0055 ALLEN                            HAAS B
+  2    24  CMST 2060         2  PUBLIC SPEAKING        3.0  0950-1050   MTWTF  0117 TUREAUD HALL                     POLANCO R
+  6    20  CMST 2060         3  PUBLIC SPEAKING        3.0  0950-1050   MTWTF  0113 LOCKETT                          PENCE M
+  2    24  CMST 2060         4  PUBLIC SPEAKING        3.0  1100-1200   MTWTF  0203 WOODIN HALL                      MCDONALD C
+  6    20  CMST 2061         1  SPCH COMM BUS & PROF   3.0  0950-1050   MTWTF  0203 WOODIN HALL                      DENHAM J
+(F)     1  CMST 2200 CLI     1  PRACT COMM STUDIES     1.0  TBA                                     PERMIS OF DEPT   EDWARDS J
+(F)    26  CMST 3107         1  RHET CONTEMP MEDIA     3.0  1210-0110   MTWTF  0055 ALLEN                            BUTCHER J
+(F)    14  CMST 3810 RES     2  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   EDWARDS J
+(F)    14  CMST 4200 CLI     2  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   EDWARDS J
+  4     6  CMST 7999 IND     1  IND RESEARCH IN CMST   1-3  TBA                                     PERMIS OF DEPT   EDWARDS J
+ 19     1  CMST 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   EDWARDS J
+  8    12  CMST 9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   EDWARDS J
+  3    27  CMST 2010         1  INTERPERSNL COMMNCTN   3.0  1100-1230   MTWTF  0113 LOCKETT                          BODIE G
+  1    25  CMST 2060         5  PUBLIC SPEAKING        3.0  0910-1040   MTWTF  0240 LOCKETT                          APPLIN M
+  4    22  CMST 2060         6  PUBLIC SPEAKING        3.0  0910-1040   MTWTF  0225 TUREAUD HALL                     HUNT L
+  1    25  CMST 2060         7  PUBLIC SPEAKING        3.0  1100-1230   MTWTF  0046 ALLEN                            FILBEL K
+  3    23  CMST 2060         9  PUBLIC SPEAKING        3.0  1100-1230   MTWTF  0103 COATES                           SILLS E
+(F)    26  CMST 3167         1  RHETORIC & CIVILIZAT   3.0  TBA                                                      GREY S
+  9    18  CMST 4119         1  NONVERBAL COMMUNICTN   3.0  1100-1230   MTWTF  0111 LOCKETT         CI-WRITTEN&SPOK  EDWARDS J

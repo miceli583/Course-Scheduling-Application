@@ -1,0 +1,8 @@
+ 15        CBS  7003 RES     1  SPEC TOP COM BIO SCI   1-4  TBA
+  4     1  CBS  7003 RES     2  SPEC TOP COM BIO SCI   1-4  TBA                                                      CHENG H
+  4     6  CBS  7104         1  BIOMED CELL/MOL BIOL   3.0   310-0400   M W F                                        LI S
+  1     5  CBS  7108         1  CR ANAL MOLE BIOL/ME   3.0  1010-1200     W                                          PENN A
+(F)     1  CBS  7109 LAB     1  ADV MACROSC ANATOMY    1-3  TBA                                                      BRAGULLA H
+  9     1  CBS  7112 LAB     1  ADV MICROSC ANATOMY    1-3  TBA                                                      FENG J
+ 10        CBS  7615         1  PULMONARY PHARMACOLO   3.0  TBA                                                      VENUGOPAL C
+  8     2  CBS  7628         1  BIOMED PHYSIOLOGY I    3.0   810-0900   MTWTF

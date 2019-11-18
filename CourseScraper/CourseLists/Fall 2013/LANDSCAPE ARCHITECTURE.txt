@@ -1,0 +1,38 @@
+  9   325  LA   1201         1  INTR LANDSCAPE ARCH    3.0   830-0920   M W F  0100 DODSON                           CONRAD M
+  1   279  LA   1201         2  INTR LANDSCAPE ARCH    3.0  1030-1150    T TH  0143 COATES                           CONRAD M
+  1   382  LA   1203         1  VIEWS AMER LANDSCAPE   3.0  1230-0120   M W F  0002 LOCKETT                          FRYLING C
+  3   380  LA   1203         2  VIEWS AMER LANDSCAPE   3.0   130-0220   M W F  0002 LOCKETT                          FRYLING C
+  2    16  LA   2001 LAB     1  LANDSCAPE DESIGN I     6.0   130-0520   M W F  0326 DESIGN BUILDING CI-SPOKEN&VISUA  MARSHALL C
+ 22    18  LA   2101 LAB     1  LA REPRESENTAION III   3.0  1130-0120   M W F  0301 DESIGN BUILDING CI-VISUAL&TECH   SUMMERLIN P
+ 32    18  LA   2201         1  LANDSCAPE HISTORY I    3.0   830-0920   M W F  0201 DESIGN BUILDING                  RISK J
+(F)    15  LA   3001 LAB     2  LANDSCAPE DESN III     6.0   130-0520   M W F  0324 DESIGN BUILDING                  HINDLE R
+  2    17  LA   3301         1  LAND ARCH TECH II      3.0   130-0220    T TH  0316 DESIGN BUILDING                  SUMMERLIN P
+  7    15  LA   3401         1  PLANT MATERIALS I      3.0   900-0950    T TH  0308 DESIGN BUILDING                  FRYLING C
+  1    14  LA   4001 LAB     1  LANDSCAPE DESIGN V     6.0   130-0520   M W F  0322 DESIGN BUILDING                  RISK J
+  2    10  LA   4001 LAB     2  LANDSCAPE DESIGN V     6.0   130-0520   M W F  0321 DESIGN BUILDING                  LIPSCHITZ F
+  1    12  LA   4008 LAB     1  ADV TOPICS STUDIO      6.0   130-0520   M W F  0310 DESIGN BUILDING                  MOSSOP E
+(F)    13  LA   4008 LAB     2  ADV TOPICS STUDIO      6.0   130-0520   M W F  0304 DESIGN BUILDING                  SHARKY B
+(F)    16  LA   4008 LAB     3  ADV TOPICS STUDIO      6.0   130-0520   M W F  0230 DESIGN BUILDING                  CANTRELL B
+ 10    38  LA   4201         2  PLAN THEORY & MTHDS    3.0   930-1220     W    0217 DESIGN BUILDING                  LIPSCHITZ F
+  1    27  LA   4301         1  LANDSCAPE TECH IV      3.0   930-1050    T TH  0316 DESIGN BUILDING                  SUMMERLIN P
+(F)     1  LA   4502 RES     3  IND STUDY IN L A       3.0  TBA                                                      SUMMERLIN P
+(F)     1  LA   4502 RES     4  IND STUDY IN L A       3.0  TBA                                                      CANTRELL B
+(F)     1  LA   4502 RES     5  IND STUDY IN L A       3.0  TBA                                                      MICHAELS K
+(F)     1  LA   4502 RES     6  IND STUDY IN L A       3.0  TBA                                                      ALLEN A
+(F)     2  LA   4502 RES     7  IND STUDY IN L A       3.0  TBA                                                      ALLEN A
+(F)     2  LA   4502 RES     8  IND STUDY IN L A       3.0  TBA                                                      ALLEN A
+  1     9  LA   4504 SEM    11  ADV ELECTIVE IN L A    3.0  1100-1220   M W    0308 DESIGN BUILDING CI-WRITTEN&SPOK  MOSSOP E
+(F)    26  LA   4504 SEM     1  ADV ELECTIVE IN L A    3.0   930-1220   M      0220 DESIGN BUILDING CI-WRITTEN&SPOK  DOUGLAS W
+  2    21  LA   4504 SEM    14  ADV ELECTIVE IN L A    3.0   930-1050    T TH  0226 DESIGN BUILDING                  SHARKY B
+(F)     1  LA   4504 SEM    18  ADV ELECTIVE IN L A    3.0   930-1050    T TH  0228 DESIGN BUILDING                  SHARKY B
+  1    14  LA   4504 SEM    16  ADV ELECTIVE IN L A    3.0   130-0420    T     0301 DESIGN BUILDING                  CANTRELL B
+  5    16  LA   4504 SEM     6  ADV ELECTIVE IN L A    3.0   630-0920N   T     0308 DESIGN BUILDING CI-VISUAL&TECH   ALLEN A
+  1     9  LA   4504 SEM    12  ADV ELECTIVE IN L A    3.0   930-1050     W F  0301 DESIGN BUILDING                  HINDLE R
+  6     4  LA   4504 SEM    15  ADV ELECTIVE IN L A    3.0   630-0920N     TH  0308 DESIGN BUILDING CI-VISUAL&TECH   ALLEN A
+  4    11  LA   4504 SEM     7  ADV ELECTIVE IN L A    3.0   930-1220       F  0308 DESIGN BUILDING                  MARSHALL C
+  4    26  LA   4504 SEM    13  ADV ELECTIVE IN L A    3.0   930-1220       F  0316 DESIGN BUILDING                  DYKEMA K
+  1    16  LA   4505 SEM     1  SPEC STUDIES IN L A    1-2   430-0520N   T     0301 DESIGN BUILDING                  MERLIN D
+ 12    22  LA   5201 SEM     1  RESEARCH SEMINAR       3.0   900-1020    T TH  0301 DESIGN BUILDING CI-WRITTEN&SPOK  DOUGLAS W
+  8    12  LA   7001 LAB     1  GRAD LANDSC DESN I     6.0   130-0520   M W F  0226 DESIGN BUILDING                  DYKEMA K
+(F)    19  LA   7003 LAB     1  GRAD LANDSC DESN III   6.0   130-0520   M W F  0225 DESIGN BUILDING                  MICHAELS K
+  2    16  LA   7101 LAB     2  GRAD LANDSC REPR I     3.0   930-1220   M W    0316 DESIGN BUILDING                  MARSHALL C

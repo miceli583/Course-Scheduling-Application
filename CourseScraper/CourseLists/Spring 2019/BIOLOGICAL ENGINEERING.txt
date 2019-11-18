@@ -1,0 +1,34 @@
+(F)    30  BE   1252         1  BIOL IN ENGINEERING    2.0  1230-0120   M      0221 TUREAUD HALL    SVC LEARNING     MARTIN E
+  6    24  BE   1252         2  BIOL IN ENGINEERING    2.0  1230-0120   M      0221 TUREAUD HALL    SVC LEARNING     MARTIN E
+ 10    20  BE   1252         3  BIOL IN ENGINEERING    2.0   130-0220    T     0204 TUREAUD HALL    SVC LEARNING     LIMA M
+  5    25  BE   1252         4  BIOL IN ENGINEERING    2.0   130-0220    T     0204 TUREAUD HALL    CI-WRITTEN&VISU  LIMA M
+(F)    30  BE   2350         1  EXPER METH FOR ENGRS   3.0  1230-0120   M W                         CI-VISUAL&TECH   TOTARO N
+(F)    30  BE   2350         2  EXPER METH FOR ENGRS   3.0  1230-0120   M W                         CI-VISUAL&TECH   TOTARO N
+ 19    55  BE   3290         1  PROFESSIONALISM        2.0   830-1020     W    0214 WILLIAMS                         LIMA M
+ 11    29  BE   3340         1  PROC DESN FOR BIOL E   3.0   800-0850    T TH  0105 TUREAUD HALL    CI-WRITTEN&SPOK  SABLIOV C
+  3    38  BE   3340         2  PROC DESN FOR BIOL E   3.0   800-0850    T TH  0105 TUREAUD HALL                     SABLIOV C
+ 24     1  BE   3989 RES     1  SPEC PROJ IN BIOL EN   1-4  TBA                                                      JUNG J
+ 25        BE   3989 RES     2  SPEC PROJ IN BIOL EN   1-4  TBA
+ 12    63  BE   4292 LAB     1  SENIOR ENGR DESN LAB   2.0   430-0720N   T TH                       CI-WRITTEN&SPOK  JUNG J
+(F)    26  BE   4323         1  BIOMECHANICS FOR ENG   3.0  1030-1120   M W    1218 PATRICK TAYLOR                   MONROE W
+ 19     6  BE   4335         1  TISSUE ENGINEERING     3.0   830-0920   M W F  0115 E B DORAN                        JUNG J
+(F)    65  BE   4352         1  TRANSPRT PHEN BIOL E   3.0  1030-1150    T TH  1236 PATRICK TAYLOR                   THEEGALA C
+(F)    24  BE   4910         1  SPECIAL TOPICS BE      3.0   900-1020    T TH  1216 PATRICK TAYLOR                   KWON Y
+  1    21  BE   4910         2  SPECIAL TOPICS BE      3.0   130-0250    T TH  0115 E B DORAN                        HOFFSETH K
+  8     2  BE   4989 RES     1  IND STUDY IN BIOL EN   1-4  TBA                                                      MONROE W
+ 18     2  BE   4989 RES     2  IND STUDY IN BIOL EN   1-4  TBA                                                      HOFFSETH K
+(F)     1  BE   4989 RES     3  IND STUDY IN BIOL EN   1-4  TBA                                                      JUNG J
+  4     1  BE   4989 RES     4  IND STUDY IN BIOL EN   1-4  TBA                                                      MARTIN E
+  1     9  BE   7500 SEM     1  SEMINAR                1.0  1230-0120   M      0115 E B DORAN                        SABLIOV C
+ 24        BE   7909 RES     1  ADV TOP BIOL ENGR      1-4  TBA
+  9     1  BE   7909 RES     2  ADV TOP BIOL ENGR      1-4  TBA                                                      SABLIOV C
+ 98     1  BE   7909 RES     3  ADV TOP BIOL ENGR      1-4  TBA                                                      MARTIN E
+ 12    10  BE   7910         2  SPECIAL TOPICS IN BE   3.0  1200-0120    T TH  0115 E B DORAN                        MARTIN E
+  9     1  BE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      MARTIN E
+  9     1  BE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BOLDOR D
+ 10        BE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      SATHIVEL S
+  5        BE   9000 RES     1  DISSERT RESEARCH       1-12 TBA
+  5        BE   9000 RES     2  DISSERT RESEARCH       1-12 TBA
+  5        BE   9000 RES     3  DISSERT RESEARCH       1-12 TBA
+  5        BE   9000 RES     4  DISSERT RESEARCH       1-12 TBA
+  5        BE   9000 RES     5  DISSERT RESEARCH       1-12 TBA

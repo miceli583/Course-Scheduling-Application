@@ -1,0 +1,39 @@
+ 17     3  MUS  1001         1  BEGINNING VOICE CL     2.0  1030-1200   M W    0331 SCHOOL OF MUSIC                  SIMS W
+  1    15  MUS  1108         2  PIANO CLASS            2.0  1100-1200   MTWTH  0201 M&DA BLDG                        BELLELO R
+ 57    43  MUS  1751         1  MUS APPRECIATION       3.0  0950-1050   MTWTF  0115 SCHOOL OF MUSIC                  HOUSER K
+  1    39  MUS  1751         2  MUS APPRECIATION       3.0  TBA                                     50-99% WEB BASE  DELONY W
+  3     2  MUS  2133 RES     1  SECONDARY ORGAN        2-3  TBA                                     AUDITION REQ'D   SPILLMAN H
+  1     4  MUS  3130 RES     1  PRIMARY VOICE          2-3  TBA                                     MAJORS ONLY      O'NEILL P
+ 94     5  MUS  3130 RES     2  PRIMARY VOICE          2-3  TBA                                     MAJORS ONLY      SIMS W
+  6     4  MUS  3131 RES     1  PRIMARY PIANO          2-3  TBA                                     MAJORS ONLY      GURT M
+ 97     2  MUS  3133 RES     1  PRIMARY ORGAN          2-3  TBA                                                      SPILLMAN H
+  1    14  MUS  4020 LAB     3  INTR ALEXANDER TECH    1.0  1040-1200    T TH  0118 SCHOOL OF MUSIC                  O'NEILL P
+(F)     6  MUS  7030 RES     1  GRADUATE VOICE         2-6  TBA                                     MAJORS ONLY      O'NEILL P
+ 89    10  MUS  7030 RES     2  GRADUATE VOICE         2-6  TBA                                     MAJORS ONLY      SIMS W
+ 93     6  MUS  7031 RES     1  GRADUATE PIANO         2-6  TBA                                     MAJORS ONLY      GURT M
+  4     1  MUS  7033 RES     1  GRADUATE ORGAN         2-6  TBA                                     MAJORS ONLY      SPILLMAN H
+  9     6  MUS  7928 SEM     1  SEM CHORAL REPERT      3.0   220-0350   MTWTF  0114 SCHOOL OF MUSIC                  FULTON W
+ 98     1  MUS  7997 RES     1  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   GRIMES J
+ 19     1  MUS  7997 RES     3  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   O'NEILL P
+ 19     1  MUS  7997 RES     4  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   CAMPBELL G
+ 18     2  MUS  7997 RES     5  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   GRIMES W
+ 19     1  MUS  7997 RES     7  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   BADE L
+ 98     1  MUS  8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CASSIDY J
+ 98     1  MUS  8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   BYO J
+ 97     2  MUS  9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BYO J
+ 98     1  MUS  9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CONSTANTINIDE
+ 98     1  MUS  9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GRIMES W
+ 98     1  MUS  9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BECK S
+ 19     1  MUS  9001 RES     1  DOC SOLO RECTL         1-3  TBA                                                      BADE L
+ 98     1  MUS  9009 RES     1  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   GURT M
+ 98     1  MUS  9009 RES     2  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   SKILLEN J
+ 97     2  MUS  9009 RES     4  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   FULTON W
+ 98     1  MUS  9009 RES     5  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   O'NEILL P
+ 98     1  MUS  9009 RES     6  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   GRAY R
+ 98     1  MUS  9009 RES     7  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   KEMLER K
+ 98     1  MUS  9010 RES     2  LEC REC/WRIT DOCUM     1-9  TBA                                     PERMIS OF DEPT   MCBRIDE-DALIN
+ 73    27  MUS  1751         3  MUS APPRECIATION       3.0  1100-1230   MTWTF  0115 SCHOOL OF MUSIC                  HOUSER K
+ 33    27  MUS  2000         1  HISTORY OF JAZZ        3.0  1240-0210   MTWTF  0115 SCHOOL OF MUSIC                  GRIMES W
+ 11    14  MUS  7700         1  SURVEY OF ANAL TECH    3.0  1240-0210   MTWTF  0215 M&DA BLDG                        PERRY J
+  3    22  MUS  7752         1  MUS OF RENAISSANCE     3.0  0910-1040   MTWTF  0245 M&DA BLDG                        MCFARLAND A
+ 13     7  MUS  7905         1  WORLD MUSIC EDUC       2-6  1100-1230   MTWTF  0247 M&DA BLDG                        BARTOLOME S

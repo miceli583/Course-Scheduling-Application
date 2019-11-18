@@ -1,0 +1,17 @@
+  4    24  SPAN 1101         1  ELEMENTARY SPANISH     4.0  0840-1050   MTWTH  0100 TUREAUD HALL                     AZENARA K
+  5    23  SPAN 1101         2  ELEMENTARY SPANISH     4.0  0950-1200   MTWTH  0101 TUREAUD HALL                     GARZA J
+  6    22  SPAN 1101         3  ELEMENTARY SPANISH     4.0  1210-0220   MTWTH  0101 TUREAUD HALL                     BOUDREAUX M
+  3    25  SPAN 1102         2  ELEMENTARY SPANISH     4.0  0840-1050   MTWTH  0204 AG ADMIN BLDG                    BYRD L
+(F)    29  SPAN 1152         1  INTENSIVE-BEGIN SPAN   4.0  0950-1200   MTWTH  0112 TUREAUD HALL                     LOTTEN S
+  5    23  SPAN 1152         2  INTENSIVE-BEGIN SPAN   4.0   600-0800N  MTWTH  0101 TUREAUD HALL                     HUBBARD K
+  7    17  SPAN 2101         1  INTERMED SPANISH       3.0  0840-0940   MTWTF  0023 ALLEN                            MATUS I
+  9    15  SPAN 2101         2  INTERMED SPANISH       3.0  0950-1050   MTWTF  0124 TUREAUD HALL                     FORKNER B
+(F)    24  SPAN 2101         4  INTERMED SPANISH       3.0  0950-1050   MTWTF  0125 TUREAUD HALL                     BAUZA C
+  9    15  SPAN 2101         3  INTERMED SPANISH       3.0   600-0730N  MTWTH  0117 TUREAUD HALL                     VALADEZ R
+  4    18  SPAN 2102         1  INTERMED SPANISH       3.0  0840-0940   MTWTF  0117 TUREAUD HALL                     BAENA A
+  2    20  SPAN 2102         2  INTERMED SPANISH       3.0  0950-1050   MTWTF  0117 TUREAUD HALL                     MCNEIL P
+  6    16  SPAN 2102         3  INTERMED SPANISH       3.0  1050-1150   MTWTF  0015 ATKINSON                         ESPINOZA T
+  7    15  SPAN 2102         6  INTERMED SPANISH       3.0   100-0200   MTWTF  0100 TUREAUD HALL                     MCNEIL P
+  6    17  SPAN 2102         4  INTERMED SPANISH       3.0   600-0730N  MTWTH  0108 TUREAUD HALL                     MARTINEZ N
+ 14     6  SPAN 4147         3  LAT AM LIT:1960-PRES   3.0   230-0430   M WTH  0324 HODGES HALL                      CORTAZAR A
+(F)     1  SPAN 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      THOMS J

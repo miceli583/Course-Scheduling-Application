@@ -1,0 +1,41 @@
+(F)    50  MGT  3111         1  ENTREPRENEURSHIP       3.0   900-1020    T TH  1121 PATRICK TAYLOR                   BANKS M
+(F)    50  MGT  3111         2  ENTREPRENEURSHIP       3.0  1030-1150    T TH  1121 PATRICK TAYLOR                   BANKS M
+(F)    55  MGT  3200         2  PRINC OF MANAGEMENT    3.0   830-0920   M W F  1800 BEC N UNDERGRAD                  MCLARTY B
+(F)    55  MGT  3200         3  PRINC OF MANAGEMENT    3.0   930-1020   M W F  1800 BEC N UNDERGRAD                  MCLARTY B
+(F)   940  MGT  3200         1  PRINC OF MANAGEMENT    3.0  1030-1150    T TH  0101 GYM AUDITORIUM                   SAULEY K
+ 13    27  MGT  3211         1  BUSINESS & SOCIETY     3.0   900-1020    T TH  1110 PATRICK TAYLOR                   MARIN D
+(F)    40  MGT  3211         2  BUSINESS & SOCIETY     3.0  1030-1150    T TH  1110 PATRICK TAYLOR                   MARIN D
+(F)     8  MGT  3280 CLI     1  MGT INTERNSHIP         3.0  TBA                                     PERMIS OF INST   MARIN D
+(F)    60  MGT  3320         1  HUMAN RESOURCE MGT     3.0  1030-1120   M W F  1700 BEC N UNDERGRAD                  MULDOON J
+(F)    60  MGT  3320         2  HUMAN RESOURCE MGT     3.0  1130-1220   M W F  1700 BEC N UNDERGRAD                  MULDOON J
+(F)    60  MGT  3320         3  HUMAN RESOURCE MGT     3.0   230-0320   M W F  1800 BEC N UNDERGRAD                  CALEO S
+(F)    60  MGT  3320         4  HUMAN RESOURCE MGT     3.0   300-0420    T TH  1845 BEC N UNDERGRAD                  HIGHTOWER G
+(F)    50  MGT  3500         1  INTRO TO LABOR RELAT   3.0   900-1020    T TH  2174 PATRICK TAYLOR                   HENAGAN S
+(F)    51  MGT  3500         2  INTRO TO LABOR RELAT   3.0  1030-1150    T TH  2174 PATRICK TAYLOR                   HENAGAN S
+  1    44  MGT  3830         1  STRAT MANAGING ORGS    3.0  1130-1220   M W F  1615 BEC N UNDERGRAD                  GUR F
+  1    44  MGT  3830         2  STRAT MANAGING ORGS    3.0  1230-0120   M W F  1615 BEC N UNDERGRAD                  GUR F
+(F)    46  MGT  3830        11  STRAT MANAGING ORGS    3.0   130-0220   M W F  1112 PATRICK TAYLOR                   BENDICKSON J
+(F)    45  MGT  3830        12  STRAT MANAGING ORGS    3.0   230-0320   M W F  1112 PATRICK TAYLOR                   BENDICKSON J
+(F)    48  MGT  3830         3  STRAT MANAGING ORGS    3.0   900-1020    T TH  1120 PATRICK TAYLOR                   MCGUIRE J
+  2    41  MGT  3830         4  STRAT MANAGING ORGS    3.0   900-1020    T TH  1920 BEC N UNDERGRAD                  IRWIN J
+(F)    46  MGT  3830         5  STRAT MANAGING ORGS    3.0  1030-1150    T TH  1920 BEC N UNDERGRAD                  IRWIN J
+(F)    50  MGT  3830         6  STRAT MANAGING ORGS    3.0   130-0250    T TH  1615 BEC N UNDERGRAD                  JAMES B
+(F)    50  MGT  3830         7  STRAT MANAGING ORGS    3.0   130-0250    T TH  1835 BEC N UNDERGRAD                  BRAGAW N
+(F)    46  MGT  3830         8  STRAT MANAGING ORGS    3.0   300-0420    T TH  1835 BEC N UNDERGRAD                  BRAGAW N
+(F)    44  MGT  3830         9  STRAT MANAGING ORGS    3.0   300-0420    T TH  1615 BEC N UNDERGRAD                  JAMES B
+(F)    42  MGT  3830        10  STRAT MANAGING ORGS    3.0   300-0550    T     1700 BEC N UNDERGRAD                  GRECKHAMER T
+  1    49  MGT  4114         1  FRANCHISING MANAGEME   3.0   900-1020    T TH  1615 BEC N UNDERGRAD                  JUSTIS R
+  3    52  MGT  4322         1  EMPLYEE SELECT/PLACE   3.0  1200-0120    T TH  1700 BEC N UNDERGRAD                  HIGHTOWER G
+  1    49  MGT  4420         1  MULTINATIONAL MGT      3.0   130-0250    T TH  2148 PATRICK TAYLOR                   WHITMAN D
+(F)    50  MGT  4420         2  MULTINATIONAL MGT      3.0   300-0420    T TH  2149 PATRICK TAYLOR                   WHITMAN D
+  1    44  MGT  4523         1  LEGAL ISS HUM RES MG   3.0   600-0850N    W    1845 BEC N UNDERGRAD                  ROUX R
+(F)    30  MGT  4620         1  HUMAN BEHAV ORGANIZA   3.0  1030-1150    T TH  1720 BEC N UNDERGRAD                  BERNERTH J
+  4    31  MGT  4620         2  HUMAN BEHAV ORGANIZA   3.0  1200-0120    T TH  2174 PATRICK TAYLOR                   HENAGAN S
+(F)    35  MGT  4620         3  HUMAN BEHAV ORGANIZA   3.0   130-0250    T TH  2174 PATRICK TAYLOR                   HENAGAN S
+  9    21  MGT  4620         4  HUMAN BEHAV ORGANIZA   3.0   130-0250    T TH  1720 BEC N UNDERGRAD                  BERNERTH J
+(F)     7  MGT  7212 SEM     2  SEM CONTEMP MGT TOP    3.0   100-0350     W    2500 BEC WEST AUDITO                  BEUS J
+(F)     1  MGT  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      GRECKHAMER T
+ 97     2  MGT  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CHANDLER T
+ 98     1  MGT  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      WHITMAN D
+  2     7  MGT  9201 SEM     1  RES MTHDS MANAGEMENT   3.0   900-1150    T                                           BEDEIAN A
+  7     3  MGT  9204 SEM     1  PROSEMINAR IN MGT      1.0   100-0350      TH  2500 BEC WEST AUDITO                  MCGUIRE J

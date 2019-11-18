@@ -1,0 +1,16 @@
+  4    16  MEDP 2051         1  RAD SCI APPLICATIONS   3.0  1230-0120   M W F  0106 NICHOLSON                        MATTHEWS J
+ 10    10  MEDP 4111         1  INT MEDICAL IMAGING    3.0   930-1020   M W F  0262 NICHOLSON                        DEY J
+  8     7  MEDP 7121         1  RADIOBIOLOGY           3.0  1130-1220   M W F  0262 NICHOLSON                        NEWHAUSER W
+  9     6  MEDP 7210         1  CLIN PRIN RAD THERPY   3.0  TBA                                                      WOOD C
+  8     7  MEDP 7331         1  RAD THERAPY PHYSICS    3.0   230-0350   M W    0262 NICHOLSON                        ZHANG R
+  7     8  MEDP 7530         1  RADIATION SHIELDING    3.0  1030-1120   M W F  0262 NICHOLSON                        MATTHEWS K
+ 24     1  MEDP 7991 RES     1  ADV PROJ MED PHY/HLT   1-3  TBA                                     PERMIS OF DEPT   FONTENOT J
+ 14     1  MEDP 7991 RES     2  ADV PROJ MED PHY/HLT   1-3  TBA                                     PERMIS OF DEPT   WANG W
+ 14     1  MEDP 7992 RES     1  ADV TOP NS & ENGR      1-3  TBA                                     PERMIS OF DEPT   WANG W
+ 12     8  MEDP 7995 SEM     1  SEMINAR                1.0  1230-0120       F  0262 NICHOLSON                        NEWHAUSER W
+  7     3  MEDP 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   FONTENOT J
+  7     3  MEDP 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MATTHEWS K
+  9     1  MEDP 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   NEWHAUSER W
+  7     3  MEDP 8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WANG W
+  9     1  MEDP 8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CARVER R
+  9     1  MEDP 8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT

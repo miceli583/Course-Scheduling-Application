@@ -1,0 +1,10 @@
+ 35   113  ASTR 1101         1  THE SOLAR SYSTEM       3.0   830-0920   M W F  E137 HOWE RUSSELL E                   GROCHOLSKI A
+ 20   230  ASTR 1101         2  THE SOLAR SYSTEM       3.0  1030-1120   M W F  0130 NICHOLSON                        GROCHOLSKI A
+ 12    78  ASTR 1102         1  STELLAR ASTRONOMY      3.0  1230-0120   M W F  0109 NICHOLSON                        GROCHOLSKI A
+ 74    74  ASTR 1102         2  STELLAR ASTRONOMY      3.0   130-0250    T TH  E130 HOWE RUSSELL E                   GROCHOLSKI A
+ 12    16  ASTR 1108 LAB     1  ASTRONOMY LAB          1.0   700-0850N  M      0365 NICHOLSON                        JOHNSON C
+ 17    11  ASTR 1108 LAB     2  ASTRONOMY LAB          1.0   700-0850N   T     0365 NICHOLSON                        MONTIEL E
+ 14    14  ASTR 1109 LAB     1  ASTRONOMY LAB          1.0   700-0850N    W    0365 NICHOLSON                        KEIVANI A
+  6     9  ASTR 4221         1  INTR ASTROPHYSICS      3.0  1030-1120   M W F  0106 NICHOLSON                        FRANK J
+  6     4  ASTR 7751         1  GALACTIC ASTROPHYSIC   3.0   130-0250    T TH  0262 NICHOLSON                        CLAYTON J
+  5     5  ASTR 7783         1  TOP IN ASTR & ASTROP   3.0   330-0420   M W F                                        HYNES R

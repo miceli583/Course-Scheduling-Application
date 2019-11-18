@@ -1,0 +1,33 @@
+ 36    84  IE   1002         1  INDUSTRIAL ENGR FUND   3.0   900-1020    T TH  0152 COATES          CI-WRITTEN&SPOK  NAHMENS I
+ 50    50  IE   3201         1  PRIN ENGR ECONOMY      3.0  1030-1150    T TH  0103 TUREAUD HALL                     AGHAZADEH F
+ 45   133  IE   3302         1  ENGR STATISTICS        3.0   830-0920   M W F  0009 LOCKETT                          KNAPP G
+ 20    68  IE   3520         1  SUPPLY CHAIN LOGISTI   3.0  1030-1120   M W F  1253 PATRICK TAYLOR                   SARKER B
+  7     8  IE   3699 CLI     1  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT   IKUMA L
+  7     8  IE   3699 CLI     2  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT   JEON H
+ 13     2  IE   3699 CLI     3  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT   SARKER B
+ 14     1  IE   3699 CLI     4  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT   KNAPP G
+ 13     2  IE   3699 CLI     5  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT   LIAO T
+  4    11  IE   3699 CLI     6  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT   NAHMENS I
+ 10    60  IE   4113         1  PROJECT MGMT           3.0   300-0420   M W    1253 PATRICK TAYLOR                   CHAMPNEY R
+  9    76  IE   4362         1  ADV ENGRNG STAT        3.0  1130-1250   M W    1221 PATRICK TAYLOR                   IKUMA L
+ 10    15  IE   4427         1  ECOMMERCE ENGR         3.0   100-0250     W    1360 PATRICK TAYLOR                   KNAPP G
+ 13    12  IE   4466         1  HUMN/COMP INTERACTN    3.0  1030-1150    T TH  0125 TUREAUD HALL                     CHAMPNEY R
+ 21    67  IE   4516         1  PLANT & SYSTEMS DESN   3.0   900-1020   M W    1225 PATRICK TAYLOR                   LIAO T
+(F)    50  IE   4530         1  LEAN MAN SYSTEMS       3.0   900-0950    T TH  0241 HIMES           CI-WRITTEN&SPOK  JEON H
+ 29    21  IE   4530         2  LEAN MAN SYSTEMS       3.0   900-0950    T TH  0241 HIMES           CI-WRITTEN&SPOK  JEON H
+  4    44  IE   4597         1  IE SENIOR DESIGN I     2.0   100-0150       F  1225 PATRICK TAYLOR  CI-WRITTEN&SPOK  IKUMA L
+ 26    22  IE   4598 LAB     1  IE SENIOR DESIGN II    2.0  1200-0350       F                       CI-WRITTEN&SPOK  SARKER B
+ 24    16  IE   4785 RES     1  HEALTHCARE ENG         1-3   100-0220   M W                                          HARVEY C
+  8     4  IE   7465         1  OCCUP BIOMECHANICS     3.0   130-0220    T TH  1216 PATRICK TAYLOR                   AGHAZADEH F
+  2     3  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                                      KNAPP G
+ 19     1  IE   7724 IND     2  INDEP STUDY IE         1-3  TBA                                                      NAHMENS I
+ 19     1  IE   7724 IND     4  INDEP STUDY IE         1-3  TBA                                                      SARKER B
+ 14     6  IE   7764         1  LOGISTICS & DIST SYS   3.0   130-0420       F  0226 TUREAUD HALL                     LIAO T
+ 98     1  IE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      KNAPP G
+  4     1  IE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      IKUMA L
+ 99        IE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      LIAO T
+ 99        IE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      HARVEY C
+ 97     2  IE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      NAHMENS I
+  5        IE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      AGHAZADEH F
+ 98     1  IE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      JEON H
+ 97     2  IE   8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      SARKER B

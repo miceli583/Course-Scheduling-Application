@@ -1,0 +1,44 @@
+  5    45  FIN  3351         1  PRINC REAL ESTATE      3.0   610-0900N  M      1112 PATRICK TAYLOR                   ANDREWS B
+ 20    30  FIN  3351         3  PRINC REAL ESTATE      3.0   610-0900N   T     2171 PATRICK TAYLOR                   COLEMAN M
+ 12    13  FIN  3353         1  REAL ESTATE FINANCE    3.0   740-0900   M W    1110 PATRICK TAYLOR                   SLAWSON V
+  2    52  FIN  3440         1  RISK AND INSURANCE     3.0   640-0930N    W    2161 PATRICK TAYLOR                   BOYD J
+  1    53  FIN  3440         2  RISK AND INSURANCE     3.0   640-0930N     TH  2146 PATRICK TAYLOR                   BOYD J
+  7     8  FIN  3632         2  BANK ADMINISTRATION    3.0   310-0600   M      3141 PATRICK TAYLOR  CI-WRITTEN&SPOK  ANDREWS B
+  5    15  FIN  3636         2  FIN MARKETS & INSTIT   3.0   940-1030   M W F  1114 PATRICK TAYLOR                   UZMANOGLU C
+  8   304  FIN  3715         1  BUSINESS FINANCE       3.0   140-0300   M W    0002 LOCKETT                          HINES R
+  6    50  FIN  3715         5  BUSINESS FINANCE       3.0  1210-0130    T TH  2172 PATRICK TAYLOR                   HWANG H
+(F)    42  FIN  3716         1  FINANCIAL MANAGEMENT   3.0   840-0930   M W F  2146 PATRICK TAYLOR                   ASTONE J
+  6    34  FIN  3716         3  FINANCIAL MANAGEMENT   3.0  1040-1200   M W    2146 PATRICK TAYLOR                   SUN P
+(F)    50  FIN  3716         4  FINANCIAL MANAGEMENT   3.0   140-0300   M W    2146 PATRICK TAYLOR                   SUN P
+(F)    41  FIN  3716         5  FINANCIAL MANAGEMENT   3.0   310-0430   M W    2146 PATRICK TAYLOR                   KELLY J
+  4    26  FIN  3716         6  FINANCIAL MANAGEMENT   3.0   910-1030    T TH  3142 PATRICK TAYLOR                   HE S
+(F)    55  FIN  3716         8  FINANCIAL MANAGEMENT   3.0  1040-1200    T TH  2169 PATRICK TAYLOR                   STEPHENS C
+(F)    53  FIN  3716         7  FINANCIAL MANAGEMENT   3.0  1210-0130    T TH  2146 PATRICK TAYLOR                   ALAM Z
+ 12    28  FIN  3716        11  FINANCIAL MANAGEMENT   3.0   140-0300    T TH  2149 PATRICK TAYLOR                   KIM S
+  3    22  FIN  3716        10  FINANCIAL MANAGEMENT   3.0   340-0630     W    2147 PATRICK TAYLOR  PERMIS OF DEPT   SANDERS L
+  3    17  FIN  3717         1  ADV CORPORATE FIN      3.0   310-0430   M W    1121 PATRICK TAYLOR                   KIRBY M
+  6    14  FIN  3717         3  ADV CORPORATE FIN      3.0   610-0900N  M      3142 PATRICK TAYLOR                   SHAH M
+  1    19  FIN  3717         2  ADV CORPORATE FIN      3.0   310-0430    T TH  3131 PATRICK TAYLOR                   STEPHENS C
+  3    27  FIN  3826         2  INVESTMENTS            3.0   310-0430    T TH  3140 PATRICK TAYLOR                   MORALES W
+ 10    20  FIN  3826         1  INVESTMENTS            3.0   440-0600N   T TH  1111 PATRICK TAYLOR                   MORALES W
+  7    13  FIN  3840         2  FIXED INCOME SECURIT   3.0  1040-1200    T TH  3142 PATRICK TAYLOR  PERMIS OF INST   MORALES W
+  7    13  FIN  3845         2  STU MGD INVEST FUND    3.0   140-0300   M W    2301 PATRICK TAYLOR  PERMIS OF INST   O'CONNOR L
+(F)     2  FIN  3900 RES     1  DIRECT STUDY & RESCH   1-6  TBA                                                      SLAWSON V
+(F)     3  FIN  3910         1  TOP IN FINANCE         1-3   310-0600      TH  1114 PATRICK TAYLOR  PERMIS OF INST   SEARLES T
+(F)     6  FIN  3930 CLI     1  FINANCE INTERNSHIP     3.0  TBA                                                      SLAWSON V
+ 13    22  FIN  4828         1  SEC ANLYS & PORT MGT   3.0   440-0600N   T TH  1116 PATRICK TAYLOR                   BLOMEYER E
+(F)    75  FIN  4830         1  ANLY CORP FIN STATMT   3.0   610-0900N  M      2142 PATRICK TAYLOR                   NARAYANAN R
+(F)    45  FIN  7310         1  REAL EST FIN DECISNS   3.0   610-0900N    W    3140 PATRICK TAYLOR                   PACE R
+(F)    26  FIN  7400         1  FIN RISK MANAGEMENT    3.0   310-0430   M W    1114 PATRICK TAYLOR                   CHANCE D
+  7     3  FIN  7550         1  THEORY OF FINANCE      3.0  1040-1200    T TH  3129 PATRICK TAYLOR                   SANGER G
+ 12     8  FIN  7718         1  MULTINATNL FIN MGT     3.0   310-0600    T     1112 PATRICK TAYLOR                   HE S
+(F)     6  FIN  7720         1  ASSET MANAGEMENT       3.0   310-0600      TH  2228 PATRICK TAYLOR  PERMIS OF INST   SEARLES T
+  7    23  FIN  7740         1  VENT CPTL & INV BNK    3.0   140-0300   M W    1121 PATRICK TAYLOR                   KIRBY M
+  6    24  FIN  7826         1  INV ANAL PORTFOL THY   3.0   310-0600      TH  1112 PATRICK TAYLOR                   ALAM Z
+  3     7  FIN  7845         1  STU MGD INVEST FUND    3.0   140-0300   M W    3142 PATRICK TAYLOR  PERMIS OF INST   O'CONNOR L
+(F)    10  FIN  7850 SEM     1  SEM IN INVESTMENTS     3.0   440-0730N   T     2174 PATRICK TAYLOR                   LIN J
+(F)     3  FIN  7900 RES     1  IND STUDY IN FIN       3.0  TBA                                                      SEARLES T
+ 13     2  FIN  7930 CLI     1  FINANCE INTERNSHIP     3.0  TBA                                                      SLAWSON V
+ 36    14  FIN  7950 SEM     1  SEMINAR IN RESEARCH    1.0  1040-1230       F  1118 PATRICK TAYLOR                   HE S
+ 98     1  FIN  8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      LIN J
+ 93     6  FIN  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      LIN J

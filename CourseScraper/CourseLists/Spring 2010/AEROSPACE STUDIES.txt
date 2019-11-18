@@ -1,0 +1,11 @@
+  6    14  ASST 1002         2  FOUNDATIONS USAF       1.0   140-0230     W                                          KROM M
+ 10    10  ASST 1002         3  FOUNDATIONS USAF       1.0   240-0330     W    0149AMIL-AERO STUDIE                  KROM M
+(F)    21  ASST 1002         1  FOUNDATIONS USAF       1.0   140-0230      TH  0149AMIL-AERO STUDIE                  KROM M
+  3    37  ASST 1012 LAB     1  LEADERSHIP LAB I       1.0   310-0500      TH  0149AMIL-AERO STUDIE                  LLORANCE C
+ 13    17  ASST 2002         1  EVOL USAF AERO POWER   1.0   140-0230    T     0149BMIL-AERO STUDIE                  LLORANCE C
+ 19    11  ASST 2002         2  EVOL USAF AERO POWER   1.0   140-0230      TH  0149BMIL-AERO STUDIE                  LLORANCE C
+  3    27  ASST 2012 LAB     1  LEADERSHIP LAB II      1.0   310-0500      TH  0149AMIL-AERO STUDIE                  LLORANCE C
+ 23    17  ASST 3002         1  AF LDRSHP STUDIES      3.0   910-1030    T TH  0149AMIL-AERO STUDIE                  GUENDEL F
+ 10    15  ASST 3012 LAB     1  LEADERSHIP LAB III     1.0   310-0600      TH  0149AMIL-AERO STUDIE                  LLORANCE C
+ 15    10  ASST 4002         1  NATL SEC AFFAIRS       3.0   740-0900    T TH  0149AMIL-AERO STUDIE                  SANDERS R
+ 17     8  ASST 4012 LAB     1  LEADERSHIP LAB IV      1.0   310-0600      TH  0149AMIL-AERO STUDIE                  LLORANCE C

@@ -1,0 +1,155 @@
+  8    92  CHEM 1001         2  CHEMICAL FUNDAMENTAL   3.0   130-0220   M W F  0103 TUREAUD HALL                     FLOWERS G
+  6    94  CHEM 1001         1  CHEMICAL FUNDAMENTAL   3.0   900-1020    T TH  0103 TUREAUD HALL                     COOK R
+ 22    67  CHEM 1002         1  CHEM OF LIFE & ENVIR   3.0   300-0420    T TH  0102 ALLEN                            POJMAN J
+ 19   231  CHEM 1201         1  GEN CHEMISTRY I        3.0   730-0820   M W F  0103 WILLIAMS                         LEONIK F
+ 10   240  CHEM 1201         2  GEN CHEMISTRY I        3.0   930-1020   M W F  0103 WILLIAMS                         HOGAN J
+(F)   260  CHEM 1201         3  GEN CHEMISTRY I        3.0  1030-1120   M W F  0103 WILLIAMS                         KOLNIAK P
+  7   243  CHEM 1201         5  GEN CHEMISTRY I        3.0   130-0220   M W F  0103 WILLIAMS                         COOK E
+ 26   224  CHEM 1201         6  GEN CHEMISTRY I        3.0   230-0320   M W F  0103 WILLIAMS                         HOGAN J
+ 38   212  CHEM 1201         7  GEN CHEMISTRY I        3.0   330-0420   M W F  0103 WILLIAMS                         LEONIK F
+ 46    29  CHEM 1201        10  GEN CHEMISTRY I        3.0   900-1020    T TH  0214 WILLIAMS        MAJORS ONLY      HOPKINS J
+ 11   129  CHEM 1201        17  GEN CHEMISTRY I        3.0   900-1020    T TH  E130 HOWE RUSSELL E                   RUPNIK K
+(F)   254  CHEM 1201         8  GEN CHEMISTRY I        3.0  1030-1150    T TH  0103 WILLIAMS                         KOLNIAK P
+  5   245  CHEM 1201         9  GEN CHEMISTRY I        3.0  1200-0120    T TH  0103 WILLIAMS                         SCHNEIDER C
+(F)   256  CHEM 1202         1  GENERAL CHEMISTRY      3.0  1230-0120   M W F  0103 WILLIAMS                         KOLNIAK P
+145   105  CHEM 1202         2  GENERAL CHEMISTRY      3.0   730-0850    T TH  0102 WILLIAMS                         HOGAN J
+  9   251  CHEM 1202         3  GENERAL CHEMISTRY      3.0   300-0420    T TH  0103 WILLIAMS                         STANLEY G
+  2    14  CHEM 1212 LAB     1  GENERAL CHEM LAB       2.0   730-1020   M W    0138 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB     2  GENERAL CHEM LAB       2.0   730-1020   M W    0134 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB     3  GENERAL CHEM LAB       2.0   730-1020   M W    0132 CHOPPIN                          ALLEN L
+  1    15  CHEM 1212 LAB     4  GENERAL CHEM LAB       2.0   730-1020   M W    0129 CHOPPIN                          ALLEN L
+  1    15  CHEM 1212 LAB     8  GENERAL CHEM LAB       2.0   730-1020   M W    0106 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    10  GENERAL CHEM LAB       2.0  1030-0120   M W    0138 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    11  GENERAL CHEM LAB       2.0  1030-0120   M W    0134 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    12  GENERAL CHEM LAB       2.0  1030-0120   M W    0132 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    13  GENERAL CHEM LAB       2.0  1030-0120   M W    0129 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    14  GENERAL CHEM LAB       2.0  1030-0120   M W    0125 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    15  GENERAL CHEM LAB       2.0  1030-0120   M W    0111 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    16  GENERAL CHEM LAB       2.0  1030-0120   M W    0107 CHOPPIN                          ALLEN L
+(F)    17  CHEM 1212 LAB    17  GENERAL CHEM LAB       2.0  1030-0120   M W    0106 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    18  GENERAL CHEM LAB       2.0  1030-0120   M W    0103 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    19  GENERAL CHEM LAB       2.0   130-0420   M W    0138 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    20  GENERAL CHEM LAB       2.0   130-0420   M W    0134 CHOPPIN                          ALLEN L
+  1    15  CHEM 1212 LAB    21  GENERAL CHEM LAB       2.0   130-0420   M W    0132 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    22  GENERAL CHEM LAB       2.0   130-0420   M W    0129 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    23  GENERAL CHEM LAB       2.0   130-0420   M W    0125 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    24  GENERAL CHEM LAB       2.0   130-0420   M W    0111 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    25  GENERAL CHEM LAB       2.0   130-0420   M W    0107 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    26  GENERAL CHEM LAB       2.0   130-0420   M W    0106 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    27  GENERAL CHEM LAB       2.0   130-0420   M W    0103 CHOPPIN                          ALLEN L
+(F)    16  CHEM 1212 LAB    28  GENERAL CHEM LAB       2.0   900-1150    T TH  0138 CHOPPIN                          KIZILKAYA F
+(F)    16  CHEM 1212 LAB    29  GENERAL CHEM LAB       2.0   900-1150    T TH  0134 CHOPPIN                          KIZILKAYA F
+(F)    16  CHEM 1212 LAB    30  GENERAL CHEM LAB       2.0   900-1150    T TH  0132 CHOPPIN                          KIZILKAYA F
+(F)    16  CHEM 1212 LAB    31  GENERAL CHEM LAB       2.0   900-1150    T TH  0129 CHOPPIN                          KIZILKAYA F
+  1    15  CHEM 1212 LAB    32  GENERAL CHEM LAB       2.0   900-1150    T TH  0125 CHOPPIN                          KIZILKAYA F
+(F)    16  CHEM 1212 LAB    33  GENERAL CHEM LAB       2.0   900-1150    T TH  0111 CHOPPIN                          KIZILKAYA F
+(F)    16  CHEM 1212 LAB    34  GENERAL CHEM LAB       2.0   900-1150    T TH  0107 CHOPPIN                          KIZILKAYA F
+(F)    16  CHEM 1212 LAB    35  GENERAL CHEM LAB       2.0   900-1150    T TH  0106 CHOPPIN                          KIZILKAYA F
+  1    15  CHEM 1212 LAB    36  GENERAL CHEM LAB       2.0   900-1150    T TH  0103 CHOPPIN                          KIZILKAYA F
+  1    15  CHEM 1212 LAB    37  GENERAL CHEM LAB       2.0   130-0420    T TH  0138 CHOPPIN                          LEONIK F
+(F)    16  CHEM 1212 LAB    38  GENERAL CHEM LAB       2.0   130-0420    T TH  0134 CHOPPIN                          LEONIK F
+(F)    16  CHEM 1212 LAB    39  GENERAL CHEM LAB       2.0   130-0420    T TH  0132 CHOPPIN                          LEONIK F
+  1    15  CHEM 1212 LAB    40  GENERAL CHEM LAB       2.0   130-0420    T TH  0129 CHOPPIN                          LEONIK F
+  1    15  CHEM 1212 LAB    41  GENERAL CHEM LAB       2.0   130-0420    T TH  0125 CHOPPIN                          LEONIK F
+(F)    16  CHEM 1212 LAB    42  GENERAL CHEM LAB       2.0   130-0420    T TH  0111 CHOPPIN                          LEONIK F
+(F)    16  CHEM 1212 LAB    43  GENERAL CHEM LAB       2.0   130-0420    T TH  0107 CHOPPIN                          LEONIK F
+  1    15  CHEM 1212 LAB    44  GENERAL CHEM LAB       2.0   130-0420    T TH  0106 CHOPPIN                          LEONIK F
+  3    13  CHEM 1212 LAB    45  GENERAL CHEM LAB       2.0   130-0420    T TH  0103 CHOPPIN                          LEONIK F
+  1    15  CHEM 1212 LAB    46  GENERAL CHEM LAB       2.0   430-0720N   T TH  0138 CHOPPIN                          KIZILKAYA F
+  4    12  CHEM 1212 LAB    47  GENERAL CHEM LAB       2.0   430-0720N   T TH  0134 CHOPPIN                          KIZILKAYA F
+  1    15  CHEM 1212 LAB    48  GENERAL CHEM LAB       2.0   430-0720N   T TH  0132 CHOPPIN                          KIZILKAYA F
+  1    15  CHEM 1212 LAB    49  GENERAL CHEM LAB       2.0   430-0720N   T TH  0129 CHOPPIN                          KIZILKAYA F
+(F)    16  CHEM 1212 LAB    50  GENERAL CHEM LAB       2.0   430-0720N   T TH  0125 CHOPPIN                          KIZILKAYA F
+(F)    16  CHEM 1212 LAB    51  GENERAL CHEM LAB       2.0   430-0720N   T TH  0111 CHOPPIN                          KIZILKAYA F
+(F)    16  CHEM 1212 LAB    53  GENERAL CHEM LAB       2.0   430-0720N   T TH  0106 CHOPPIN                          KIZILKAYA F
+ 13    76  CHEM 1421         1  HONORS: GENERAL CHEM   3.0   830-0920   M W F  0214 WILLIAMS                         COOK E
+  3    86  CHEM 1421         2  HONORS: GENERAL CHEM   3.0  1030-1120   M W F  0214 WILLIAMS                         COOK E
+  7    73  CHEM 2001         1  ANALYTICAL CHEMISTRY   3.0   930-1020   M W F  0202 WILLIAMS                         KIZILKAYA F
+  9    71  CHEM 2001         2  ANALYTICAL CHEMISTRY   3.0   300-0420    T TH  0202 WILLIAMS                         GARNO J
+  5    13  CHEM 2002 LAB     1  ANALYTICAL CHEM LAB    1.0   130-0420   M      0302 WILLIAMS                         KIZILKAYA F
+  3    15  CHEM 2002 LAB     2  ANALYTICAL CHEM LAB    1.0   130-0420     W    0302 WILLIAMS                         KIZILKAYA F
+  4    96  CHEM 2060         1  SURVEY ORGANIC CHEM    3.0  1200-0120    T TH  0103 TUREAUD HALL                     NAUMAN T
+122   128  CHEM 2261         1  ORGANIC CHEMISTRY      3.0   830-0920   M W F  0103 WILLIAMS                         TAYLOR C
+138   112  CHEM 2261         2  ORGANIC CHEMISTRY      3.0  1230-0120   M W F  0102 WILLIAMS                         CROWE W
+ 33   217  CHEM 2261         3  ORGANIC CHEMISTRY      3.0   730-0850    T TH  0103 WILLIAMS                         CROWE W
+ 11   239  CHEM 2261         4  ORGANIC CHEMISTRY      3.0   130-0250    T TH  0103 WILLIAMS                         CROWE W
+166    84  CHEM 2262         1  ORGANIC CHEMISTRY      3.0   230-0320   M W F  0102 WILLIAMS                         SPIVAK D
+140   110  CHEM 2262         2  ORGANIC CHEMISTRY      3.0   900-1020    T TH  0103 WILLIAMS                         NESTEROV E
+(F)    26  CHEM 2364 LAB     1  ORGANIC CHEM LAB       2.0   730-1020   M W    0308 WILLIAMS                         NAUMAN T
+(F)    26  CHEM 2364 LAB     2  ORGANIC CHEM LAB       2.0   730-1020   M W    0314 WILLIAMS                         NAUMAN T
+(F)    32  CHEM 2364 LAB     9  ORGANIC CHEM LAB       2.0  1030-0120   M W    0308 WILLIAMS                         NAUMAN T
+(F)    33  CHEM 2364 LAB    10  ORGANIC CHEM LAB       2.0  1030-0120   M W    0314 WILLIAMS                         NAUMAN T
+(F)    30  CHEM 2364 LAB     3  ORGANIC CHEM LAB       2.0   130-0420   M W    0308 WILLIAMS                         DAVILA A
+(F)    32  CHEM 2364 LAB     4  ORGANIC CHEM LAB       2.0   130-0420   M W    0314 WILLIAMS                         DAVILA A
+(F)    33  CHEM 2364 LAB     5  ORGANIC CHEM LAB       2.0   900-1150    T TH  0308 WILLIAMS                         DAVILA A
+(F)    34  CHEM 2364 LAB     6  ORGANIC CHEM LAB       2.0   900-1150    T TH  0314 WILLIAMS                         DAVILA A
+(F)    30  CHEM 2364 LAB     7  ORGANIC CHEM LAB       2.0   130-0420    T TH  0308 WILLIAMS                         DAVILA A
+(F)    32  CHEM 2364 LAB     8  ORGANIC CHEM LAB       2.0   130-0420    T TH  0314 WILLIAMS                         DAVILA A
+(F)    81  CHEM 2461         1  HNRS: ORGANIC CHEM I   3.0   930-1020   M W F  0214 WILLIAMS                         SMITH K
+ 95     4  CHEM 2900 CLI     1  RESEARCH INTERNSHIP    1-2  TBA                                     PERMIS OF INST   RUPNIK K
+  4    96  CHEM 3491         1  PHYSICAL CHEM I        3.0   830-0920   M W F  0241 HIMES                            HOPKINS J
+ 12    33  CHEM 3492         1  PHYSICAL CHEM II       3.0  1030-1150    T TH  0210 WILLIAMS                         CHEN B
+  7     9  CHEM 3493 LAB     1  PHYSICAL CHEM LAB      3.0   130-0420   M W    0263ACOATES          CI-WRITTEN&VISU  RUPNIK K
+ 88    11  CHEM 3900 RES     1  CHEMICAL PROBLEMS      1-3  TBA                                     PERMIS OF DEPT   RUPNIK K
+ 26     4  CHEM 4005         1  RESEARCH METHODS       3.0  1030-1220   M W    0205 PRESCOTT                         JOHNSON W
+  3    13  CHEM 4010         1  MACROMOLEC SYS I       3.0   130-0320    T     0206 WILLIAMS                         ZHANG D
+ 36    14  CHEM 4150         1  ENVIRONMENTAL CHEM     3.0   130-0250    T TH  0210 WILLIAMS                         COOK R
+ 26    24  CHEM 4552         1  INSTR CHAR ORG COMPS   2.0   930-1020   M W    0208 WILLIAMS                         MACNAUGHTAN M
+ 13     3  CHEM 4553 LAB     1  EXP INST CHAR ORG CP   2.0   130-0420    T TH  0302 WILLIAMS                         RUPNIK K
+ 17    13  CHEM 4556         1  ANALYT SPECTROSCOPY    3.0   900-1020    T TH  0206 WILLIAMS                         MURRAY K
+ 22     8  CHEM 4559         1  ELECTROANALYT CHEM     3.0   130-0250    T TH  0208 WILLIAMS                         MCCARLEY R
+ 19    11  CHEM 4561         1  INTR PHYSICAL-ORG CH   3.0  1030-1150    T TH  0208 WILLIAMS                         KARTIKA R
+ 29    21  CHEM 4562         1  INTERMEDIATE ORG CH    3.0   830-0920   M W F  0208 WILLIAMS                         RAGAINS J
+ 27    23  CHEM 4570         1  ADV GEN INORG CHEM     3.0   900-1020    T TH  0210 WILLIAMS        CI-VISUAL&TECH   BUTLER L
+ 20    10  CHEM 4594         1  INT TO QUANTUM CHEMI   3.0  1130-1220   M W F  0206 WILLIAMS                         HABER L
+ 22     8  CHEM 4596         1  CHEMICAL THERMODYNAM   3.0   930-1020   M W F  0206 WILLIAMS                         KURODA D
+ 32     8  CHEM 4597         1  INTR STAT THERMODYNA   3.0  1030-1120   M W F  0201 WILLIAMS                         KUMAR R
+ 19     1  CHEM 6002         2  CHEM PRINC FOR TEACH   3.0  TBA                                                      HOPKINS J
+ 19     1  CHEM 6003         1  LAB METHODS FOR TEAC   3.0  TBA                                                      HOPKINS J
+ 19     1  CHEM 6691 SEM     3  SEM: CUR DEV IN CHEM   1-3  TBA                                                      HOPKINS J
+ 22     8  CHEM 7292         1  SP TOP CHEM PHYS       2-3   130-0220   M W F  0210 WILLIAMS                         LOPATA K
+ 10    10  CHEM 7780         1  SP TOP MACROMOL CHEM   2-3   130-0320   M      0208 WILLIAMS                         RUSSO P
+ 50    39  CHEM 7800 SEM     1  SEMINAR                1.0  1230-0120   M      0202 WILLIAMS                         COOK R
+ 26    14  CHEM 7800 SEM     2  SEMINAR                1.0  1200-1250    T     0206 WILLIAMS                         BUTLER L
+ 25    35  CHEM 7800 SEM     3  SEMINAR                1.0  1200-1250    T     0201 WILLIAMS                         RAGAINS J
+ 22    18  CHEM 7800 SEM     4  SEMINAR                1.0  1200-1250    T     0210 WILLIAMS                         RUPNIK K
+ 37     3  CHEM 7800 SEM     8  SEMINAR                1.0  1230-0120     W    0208 WILLIAMS                         POJMAN J
+ 16    14  CHEM 7800 SEM     7  SEMINAR                1.0  1200-0120      TH  0206 WILLIAMS                         GILMAN S
+ 26   130  CHEM 7800 SEM     5  SEMINAR                1.0   330-0450       F                                        NESTEROV E
+ 65    24  CHEM 7800 SEM     6  SEMINAR                1.0   900-1050        S 0202 WILLIAMS                         GILMAN S
+ 38    22  CHEM 7901 SEM     1  SPEAK MACROMOLECULES   1.0  1230-0120       F  0202 WILLIAMS                         RUSSO P
+ 98     1  CHEM 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      CHEN B
+ 98     1  CHEM 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      CROWE W
+ 97     2  CHEM 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      DURAN R
+ 98     1  CHEM 8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      MAVERICK A
+ 98     1  CHEM 8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      MURRAY K
+ 98     1  CHEM 8000 RES    19  THESIS RESEARCH        1-12 TBA                                                      NESTEROV E
+ 96     3  CHEM 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BUTLER L
+ 97     2  CHEM 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      CHAN J
+ 97     2  CHEM 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      COOK R
+ 98     1  CHEM 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      CROWE W
+ 94     5  CHEM 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      DELLINGER H
+ 90     9  CHEM 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      GARNO J
+ 98     1  CHEM 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      GILMAN S
+ 96     3  CHEM 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      HABER L
+ 98     1  CHEM 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      HALL R
+ 95     4  CHEM 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      KARTIKA R
+ 93     6  CHEM 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      MACNAUGHTAN M
+ 96     3  CHEM 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      MARZILLI L
+ 97     2  CHEM 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      MAVERICK A
+ 93     6  CHEM 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      MCCARLEY R
+ 95     4  CHEM 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      MURRAY K
+ 95     4  CHEM 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      NESTEROV E
+ 95     4  CHEM 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      POJMAN J
+ 96     3  CHEM 9000 RES    21  DISSERTATION RES       1-12 TBA                                                      POLIAKOFF E
+ 92     7  CHEM 9000 RES    22  DISSERTATION RES       1-12 TBA                                                      RAGAINS J
+ 97     2  CHEM 9000 RES    23  DISSERTATION RES       1-12 TBA                                                      RUSSO P
+ 96     3  CHEM 9000 RES    24  DISSERTATION RES       1-12 TBA                                                      SMITH K
+ 93     6  CHEM 9000 RES    26  DISSERTATION RES       1-12 TBA                                                      SOPER S
+ 95     4  CHEM 9000 RES    27  DISSERTATION RES       1-12 TBA                                                      SPIVAK D
+ 94     5  CHEM 9000 RES    28  DISSERTATION RES       1-12 TBA                                                      STANLEY G
+ 90     9  CHEM 9000 RES    29  DISSERTATION RES       1-12 TBA                                                      TAYLOR C
+ 92     7  CHEM 9000 RES    30  DISSERTATION RES       1-12 TBA                                                      VICENTE M
+ 94     5  CHEM 9000 RES    31  DISSERTATION RES       1-12 TBA                                                      WARNER I
+ 92     7  CHEM 9000 RES    32  DISSERTATION RES       1-12 TBA                                                      ZHANG D
+ 98     1  CHEM 9000 RES    33  DISSERTATION RES       1-12 TBA                                                      CHEN B

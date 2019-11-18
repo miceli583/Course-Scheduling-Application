@@ -1,0 +1,6 @@
+(F)    32  ARAB 1101         1  BEGINNING ARABIC       4.0  1140-1230   MTWTH  0015 ATKINSON                         BACHAR H
+(F)    27  ARAB 1101         2  BEGINNING ARABIC       4.0  1240-0130   MTWTH  0046 ALLEN                            BACHAR H
+(F)    29  ARAB 1101         3  BEGINNING ARABIC       4.0   140-0230   MTWTH  0023 ALLEN                            BACHAR H
+  3    24  ARAB 2101         1  INTERMEDIATE ARABIC    4.0   940-1030   MTWTH  0023 ALLEN                            KHANNOUS T
+(F)    25  ARAB 2101         2  INTERMEDIATE ARABIC    4.0  1140-0130    T TH  0132 PRESCOTT                         WAGNER M
+ 14    11  ARAB 3101         1  ADVANCED ARABIC I      3.0   140-0300    T TH  0050 ALLEN                            WAGNER M

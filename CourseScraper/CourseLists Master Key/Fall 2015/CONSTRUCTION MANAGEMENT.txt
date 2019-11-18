@@ -1,0 +1,40 @@
+(F)   110  CM   1011         1  INTRO TO CM            3.0   900-1020    T TH  0139 ALLEN                            SCHNEIDER D
+(F)    50  CM   1020 LAB     1  ENGR GRAPS FOR MECH    2.0   830-1020   M W    1302BPATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+(F)    48  CM   1020 LAB     2  ENGR GRAPS FOR MECH    2.0  1030-1220   M W    1302BPATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
+(F)    48  CM   1020 LAB     3  ENGR GRAPS FOR MECH    2.0   100-0250   M W    1302BPATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
+  1    47  CM   1020 LAB     4  ENGR GRAPS FOR MECH    2.0   300-0450   M W    1302BPATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
+(F)    48  CM   1020 LAB     5  ENGR GRAPS FOR MECH    2.0   500-0650N  M W    1302BPATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+  5    43  CM   1020 LAB     6  ENGR GRAPS FOR MECH    2.0  1030-1220    T TH  1302APATRICK TAYLOR  CI-VISUAL&TECH   BEGAT V
+  4    45  CM   1102         1  CONST PLAN READING     3.0   730-0920   M      1302APATRICK TAYLOR                   OROOJI F
+(F)    49  CM   1102         2  CONST PLAN READING     3.0  1030-1220   M      1302APATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+(F)    49  CM   1102         3  CONST PLAN READING     3.0   130-0320   M      1302APATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+113    91  CM   2101         1  CNST MATL METHD I      3.0   430-0550N  M W    0016 LOCKETT                          BENTON R
+  2    76  CM   2102         1  CONSTRUCTION EQUIP     3.0   900-1020    T TH  1620 BUS ED N WING                    WANG C
+ 69   101  CM   2103         1  CONST MATL METHD II    3.0   600-0850N    W    0016 LOCKETT                          MONKO R
+ 11    14  CM   2105         1  CONST SURVEYING        3.0   730-0920   M                                            TRAHAN G
+  4    21  CM   2105         2  CONST SURVEYING        3.0   930-1120   M                                            TRAHAN G
+  5    20  CM   2105         3  CONST SURVEYING        3.0  1230-0220   M                                            TRAHAN G
+  3    22  CM   2105         4  CONST SURVEYING        3.0   230-0420   M                                            TRAHAN G
+(F)    41  CM   2215         1  CONSTRUCTION SAFETY    3.0  1030-1150    T TH  2216 PATRICK TAYLOR                   PECQUET C
+(F)    41  CM   2215         2  CONSTRUCTION SAFETY    3.0   130-0250    T TH  0109 TUREAUD HALL                     PECQUET C
+ 12    82  CM   2501         1  STRUCTURAL PRINCIPL    3.0  1200-0120    T TH  0105 TUREAUD HALL                     HEBERT K
+(F)    36  CM   3111         1  CONST ESTIMATING       3.0   930-1020   M W    0139 ALLEN                            HEUMANN S
+(F)    36  CM   3111         2  CONST ESTIMATING       3.0   930-1020   M W    0139 ALLEN                            HEUMANN S
+ 19    17  CM   3111         3  CONST ESTIMATING       3.0   930-1020   M W    0139 ALLEN                            HEUMANN S
+ 44    31  CM   3201         1  MECH ELEC SYSTEMS      3.0  1030-1120   M W F  0221 TUREAUD HALL                     HARPER C
+  3    12  CM   3236         1  RES CODES & SPECS      3.0  1030-1150    T TH  0110 OLD FORESTRY                     HEUMANN S
+  8    54  CM   3355         1  MAINT & TURNAROUNDS    3.0   600-0850N  M      0217 OLD FORESTRY                     DELATTE G
+ 38   102  CM   3502         1  CNST CIVIL MATLS       3.0   130-0250    T TH  0103 DESIGN BUILDING                  HEBERT K
+  3    22  CM   3503         1  SOILS IN CONSTRUCT     3.0   430-0550N   T TH  1413APATRICK TAYLOR                   RUPNOW T
+ 40    54  CM   3504         1  APPLIED STRUCT DSGN    3.0   900-1020    T TH  0206 TUREAUD HALL                     HEBERT K
+  3    35  CM   4101         1  CONST SCHED CST CTL    3.0   930-1020   M W    1302APATRICK TAYLOR                   ZHU Y
+  7    55  CM   4202         1  CONSTRUCT ENTERPRISE   3.0   730-0850    T TH  0217 OLD FORESTRY                     SCHNEIDER D
+(F)    18  CM   4208 CLI     1  INTERNSHIP IN CONST    3.0  TBA                                     PERMIS OF DEPT   BERRYMAN C
+(F)    61  CM   4211         1  CNST CONTRACTING       3.0  1030-1150    T TH  0220 COATES                           SCHNEIDER D
+ 25    68  CM   4221         1  CNST PROJECT MGMT      3.0  1130-1220   M W F  E134 HOWE RUSSELL E                   HARPER C
+  6    14  CM   4357         1  INDUST PROJ CONTROL    3.0   600-0850N     TH  0145 ELECTRICAL ENGR                  DELATTE G
+ 18     2  CM   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      FRIEDLAND C
+ 15     5  CM   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      HASSAN M
+ 10    10  CM   7302         1  ADV SUSTAINABLE CON    3.0   330-0620       F  1302BPATRICK TAYLOR  75-99% WEB BASE  HASSAN M
+ 11     7  CM   7150         1  DEC MAK TOOLS FOR CM   3.0   200-0450      TH  3213 PATRICK TAYLOR  75-99% WEB BASE  SHI J
+ 17    13  CM   7303         1  LIFE CYCLE ASSESS      3.0  TBA                                                      DYLLA H

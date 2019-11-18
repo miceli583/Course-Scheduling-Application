@@ -1,0 +1,59 @@
+  6    14  ENGL 1001         1  ENGL COMPOSITION       3.0  0730-0830   MTWTF  0116 PRESCOTT                         SMITH J
+  1    19  ENGL 1001         2  ENGL COMPOSITION       3.0  0840-0940   MTWTF  0116 PRESCOTT                         LEWIS C
+(F)    20  ENGL 1001         9  ENGL COMPOSITION       3.0  0840-0940   MTWTF  0120 PRESCOTT                         DISCHINGER M
+  6    14  ENGL 1001         4  ENGL COMPOSITION       3.0  0950-1050   MTWTF  0248 WOODIN HALL                      DANE P
+  7    13  ENGL 1001         7  ENGL COMPOSITION       3.0  0950-1050   MTWTF  0114 PRESCOTT                         RAAB D
+  4    16  ENGL 1001         5  ENGL COMPOSITION       3.0  1100-1200   MTWTF  0120 PRESCOTT                         FAULK L
+(F)    20  ENGL 1001         6  ENGL COMPOSITION       3.0  1100-1200   MTWTF  0112 PRESCOTT                         TUSSING-WHITE
+  9    11  ENGL 1001        12  ENGL COMPOSITION       3.0  1210-0110   MTWTF  0118 PRESCOTT                         MILLER M
+(F)    11  ENGL 1051         1  SPK ENGL INT GRD AST   3.0  0950-1200   M W F  0031 ALLEN           PERMIS OF DEPT   EPPERSON E
+(F)    11  ENGL 1051         2  SPK ENGL INT GRD AST   3.0  0950-1200    T TH  0031 ALLEN           PERMIS OF DEPT   EPPERSON E
+ 12     9  ENGL 2000         6  ENGLISH COMP           3.0  0730-0830   MTWTF  0114 PRESCOTT                         ELGIN M
+  2    16  ENGL 2000         1  ENGLISH COMP           3.0  0840-0940   MTWTF  0114 PRESCOTT                         MCKINNON R
+  6    15  ENGL 2000        10  ENGLISH COMP           3.0  0840-0940   MTWTF  0031 ALLEN                            MECHOLSKY K
+  5    15  ENGL 2000         2  ENGLISH COMP           3.0  0950-1050   MTWTF  0032 ALLEN                            HORACEK J
+  3    17  ENGL 2000         4  ENGLISH COMP           3.0  0950-1050   MTWTF  0212 AUDUBON                          FRYE C
+  3    17  ENGL 2000         7  ENGLISH COMP           3.0  0950-1050   MTWTF  0036 ALLEN                            MCCRAY B
+  1    19  ENGL 2000         8  ENGLISH COMP           3.0  0950-1050   MTWTF  0200 TUREAUD HALL                     HIGHLAND J
+  4    16  ENGL 2000         3  ENGLISH COMP           3.0  1100-1200   MTWTF  0036 ALLEN                            RICHE D
+  2    19  ENGL 2000         5  ENGLISH COMP           3.0  1100-1200   MTWTF  0100 TUREAUD HALL                     JONES C
+  4    17  ENGL 2000        11  ENGLISH COMP           3.0  1100-1200   MTWTF  0114 AUDUBON                          WILKY A
+ 12    25  ENGL 2025         1  FICTION                3.0  1210-0110   MTWTF  0031 ALLEN                            CANTRELL J
+(F)    34  ENGL 2025         4  FICTION                3.0  1210-0110   MTWTF  0114 AUDUBON                          DUPUY J
+  4    34  ENGL 2027         1  POETRY                 3.0  0950-1050   MTWTF  0237 LOCKETT                          KIESEL C
+  9    29  ENGL 2270         1  MAJ AMERICAN AUTHORS   3.0  0950-1050   MTWTF  0027 ALLEN                            KRONICK J
+(F)     1  ENGL 2920 RES     1  INDEPENDENT WORK       1.0  TBA                                                      COHEN M
+(F)     1  ENGL 2920 RES     2  INDEPENDENT WORK       1.0  TBA                                                      COSTELLO B
+(F)     1  ENGL 2921 RES     1  INDEPENDENT WORK       1.0  TBA                                                      COHEN M
+(F)     1  ENGL 2922 RES     1  INDEPENDENT WORK       1.0  TBA                                                      COHEN M
+(F)     1  ENGL 3920 RES     1  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   MCGEE P
+(F)     1  ENGL 3920 RES     5  INDEPENDENT STUDY      1-3  TBA                                                      MICHIE E
+ 98     1  ENGL 8000 RES    31  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   GLENUM L
+ 98     1  ENGL 8000 RES    58  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   COATS L
+ 98     1  ENGL 8900 RES    37  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   MICHIE E
+ 98     1  ENGL 8900 RES    41  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   OTERO S
+ 98     1  ENGL 9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   COWAN J
+ 98     1  ENGL 9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   COATS L
+ 98     1  ENGL 9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   FREEDMAN C
+ 98     1  ENGL 9000 RES    23  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ZERBA M
+ 98     1  ENGL 9000 RES    26  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KENNEDY J
+ 98     1  ENGL 9000 RES    27  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KRONICK J
+ 98     1  ENGL 9000 RES    29  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LOWE J
+ 97     2  ENGL 9000 RES    32  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MASSE M
+ 96     3  ENGL 9000 RES    37  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MICHIE E
+ 98     1  ENGL 9000 RES    41  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   OTERO S
+ 98     1  ENGL 9000 RES    42  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PECKHAM I
+ 97     2  ENGL 9000 RES    44  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   RASTOGI P
+ 98     1  ENGL 9000 RES    49  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ROLLINS B
+ 96     3  ENGL 9000 RES    53  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WELTMAN S
+ 98     1  ENGL 9000 RES    55  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WEINSTEIN S
+  5    10  ENGL 1005         1  ENGL COMPOSITION       3.0  0800-0930   MTWTF  0036 ALLEN           PERMIS OF INST   GLADMAN G
+ 14     8  ENGL 2002         2  BUSINESS WRITING       3.0  0730-0900   MTWTF  0032 ALLEN                            STROHSCHEIN M
+  5    17  ENGL 2002         1  BUSINESS WRITING       3.0  0910-1040   MTWTF  0205 COATES                           TUSA C
+  6    16  ENGL 2002         3  BUSINESS WRITING       3.0  1100-1230   MTWTF  0114 PRESCOTT                         CHANEY C
+  4    16  ENGL 2009         1  WRITING SCREENPLAYS    3.0   130-0430    TWTH  0023 ALLEN                            KORNHAUSER M
+ 16    19  ENGL 2025         3  FICTION                3.0  0730-0900   MTWTF  0424 HODGES HALL                      REZAIE A
+  4    33  ENGL 2025         2  FICTION                3.0  0910-1040   MTWTF  0112 TUREAUD HALL                     RILEY C
+  8    30  ENGL 2029         1  DRAMA                  3.0  0910-1040   MTWTF  0139 ALLEN                            EUBA F
+(F)    22  ENGL 3002         1  TECHNICAL WRITING      3.0  1100-1230   MTWTF  0032 ALLEN                            CASPER K
+ 11    27  ENGL 3022         1  BRITISH LIT II         3.0  1240-0210   MTWTF  0019 ALLEN                            WELTMAN S

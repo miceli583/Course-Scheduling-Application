@@ -1,0 +1,43 @@
+  3   172  ANSC 1011         1  INTRO TO ANML SCIENC   3.0   830-0920   M W F  0006 LOCKETT                          BIDNER T
+  2    18  ANSC 2040 CLI     1  JUDGING DAIRY CATTLE   2.0   130-0420    T     0215 TUREAUD HALL                     HUTCHISON C
+ 13    16  ANSC 2042 LAB     1  TECH JDG/EVAL PL/PRD   2.0   230-0420    T TH  0127 TUREAUD HALL                     INGRAM D
+ 10    65  ANSC 2060         1  COMP ANIMAL MGT        3.0  1030-1120   M W F  0228 COATES                           RITCHIE J
+  3    67  ANSC 2075         1  MILK AND DAIRY FOODS   3.0  1030-1150    T TH  1125 BUS ED S WING                    ARYANA K
+  1    35  ANSC 3033         1  EL LIVE-CARCASS EVAL   3.0   130-0220    T     0012 FRANCIONI                        PAGE T
+  3     2  ANSC 3050 CLI     1  INTERNSHIP             3.0  TBA                                     PERMIS OF DEPT   JENNY B
+(F)    20  ANSC 3053         1  MEATS                  3.0   800-0950    T     0012 FRANCIONI                        MCMILLIN K
+ 15    10  ANSC 3053         2  MEATS                  3.0   800-0950    T     0012 FRANCIONI                        MCMILLIN K
+  9    31  ANSC 3060         1  COMP ANIM HLTH & DIS   3.0  1130-1220   M W F  0228 COATES                           RITCHIE J
+ 25    20  ANSC 3070         1  SM ANI ANAT & PHYSIO   3.0   930-1020   M W F  0209 COATES                           RITCHIE J
+(F)     1  ANSC 3900 RES     4  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   BONDIOLI K
+(F)     2  ANSC 3900 RES     7  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   INGRAM D
+(F)     1  ANSC 3900 RES     8  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   MCMILLIN K
+(F)     3  ANSC 3900 RES    10  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   THOMPSON D
+ 26    24  ANSC 4001         1  PARAS EFF ON AN PERF   2.0   130-0220     W    0203 TUREAUD HALL                     MILLER J
+  1    61  ANSC 4009         1  ANIMAL NUTRITION       3.0   830-0920   M W F  0105 TUREAUD HALL                     MOREIRA V
+(F)    17  ANSC 4020         1  FRZN/CULT DARY PROD    4.0   900-1020    T TH  0202 WILLIAMS                         BOENEKE C
+  4    50  ANSC 4043         1  DOM ANIMAL ENDO        3.0  1030-1150    T TH  0134 J C MILLER                       WILLIAMS C
+(F)    65  ANSC 4045         1  REPRO PHYS             3.0   930-1020   M W F  0221 TUREAUD HALL                     BONDIOLI K
+  9    21  ANSC 4050         1  ANIMAL BIOTECHNOLOGY   3.0   230-0350   M W    0203 WOODIN HALL                      BONDIOLI K
+  4    11  ANSC 4051         1  POULTRY BIOLOGY        3.0   430-0720N   T     0127 TUREAUD HALL                     INGRAM D
+(F)    20  ANSC 4092 SEM     1  AN SC PROSEMINAR       1.0   130-0220   M      0127 TUREAUD HALL                     WILLIAMS C
+(F)     1  ANSC 4900         1  SPECIAL TOPICS         1-3  TBA                                                      COOPER R
+(F)     1  ANSC 4900         2  SPECIAL TOPICS         1-3  TBA                                                      WALKER N
+  8     7  ANSC 7001         1  EXPERIMENTAL METHODS   2.0  1030-1120   M W    0120 PRESCOTT                         THOMPSON D
+(F)     1  ANSC 7061 RES     2  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   BOENEKE C
+(F)     1  ANSC 7061 RES     7  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   THOMPSON D
+(F)     3  ANSC 7061 RES     8  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   WILLIAMS C
+(F)     1  ANSC 7061 RES     9  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   BONDIOLI K
+ 19     1  ANSC 7061 RES    10  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   COOPER R
+ 19     1  ANSC 7061 RES    11  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   PAGE T
+  2     7  ANSC 7091 SEM     1  SEMINAR                1.0  TBA                                                      BIDNER T
+(F)     3  ANSC 7900         1  ADV MUSCLE BIO& MEAT   1-6  TBA                                     PERMIS OF DEPT   CRUZEN S
+ 19     1  ANSC 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ARYANA K
+ 19     1  ANSC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BOENEKE C
+ 19     1  ANSC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BONDIOLI K
+ 19     1  ANSC 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      MCMILLIN K
+ 19     1  ANSC 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      MILLER J
+ 16     4  ANSC 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      WILLIAMS C
+ 17     3  ANSC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      BONDIOLI K
+ 19     1  ANSC 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      MCMILLIN K
+ 16     4  ANSC 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      THOMPSON D

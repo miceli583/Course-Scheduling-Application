@@ -1,0 +1,9 @@
+ 20        DMAE 7110 LAB     1  PRIN PROD WORKSHOP     3.0   900-1150   M W                                          DOLEJSI M
+ 12     8  DMAE 7115         1  PROD & PROJ MNGMT      4.0   900-1150    T     1108 PATRICK TAYLOR                   AUBANEL M
+  2     8  DMAE 7150 LAB     1  PRODUCTION TEAM I      3.0   100-0350    T TH                                        WESLEY K
+  8     2  DMAE 7155         1  ADV PROG & ART I       5.0   100-0250     W F  1262 PATRICK TAYLOR                   AUBANEL M
+  1     6  DMAE 7155         2  ADV PROG & ART I       5.0   100-0250     W F                                        BURKLEY A
+  7     3  DMAE 7250 LAB     1  PRODUCTION TEAM II     3.0   900-1150    T TH                                        BURKLEY A
+  6     1  DMAE 7255         1  ADV PROG & ART II      5.0   100-0250     W F  1262 PATRICK TAYLOR                   AUBANEL M
+  6     1  DMAE 7255         2  ADV PROG & ART II      5.0   100-0250     W F                                        BURKLEY A
+  7     3  DMAE 7270 LAB     1  CAPSTONE PROJ TEAM     6.0   100-0350   M                                            BURKLEY A

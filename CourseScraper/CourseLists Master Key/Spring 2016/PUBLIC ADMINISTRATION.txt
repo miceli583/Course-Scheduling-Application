@@ -1,0 +1,11 @@
+ 17    23  PADM 5010         1  STAT METHODS PUB ADM   3.0   600-0850N  M      1225 BUS ED S WING                    LLORENS J
+ 24     6  PADM 7800 RES     1  IND STUD IN PADM       3.0   900-1150       F  1220 BUS ED S WING                    CALEO S
+ 10        PADM 7850 CLI     1  PADM INTERNSHIP        3.0  TBA                                                      LLORENS J
+  7     3  PADM 7851 CLI     1  PADM PRACTICUM         3.0  TBA                                                      LLORENS J
+ 51    24  PADM 7900 SEM     1  PUB ADMIN COLLOQUIUM   3.0  1200-0250       F  1125 BUS ED S WING                    RICHARDSON J
+ 32    13  PADM 7902 SEM     1  SEM PUBL POLICY        3.0   600-0850N   T     1615 BUS ED N WING                    HEIDELBERG R
+ 36     9  PADM 7902 SEM     2  SEM PUBL POLICY        3.0   200-0450      TH  0218 TUREAUD HALL                     HEIDELBERG R
+(F)    23  PADM 7911         2  ORG PUB/NONPROF ORG    3.0   200-0450    T     0228 TUREAUD HALL                     CALEO S
+ 30    15  PADM 7911         1  ORG PUB/NONPROF ORG    3.0   600-0850N     TH  1615 BUS ED N WING                    CALEO S
+ 16    34  PADM 7914 SEM     1  PUBLIC BUDGETING       3.0   600-0850N    W    1845 BUS ED N WING                    RICHARDSON J
+ 32    13  PADM 7970 CLI     1  FUNDRAIS & GRANT WRT   3.0   600-0850N  M      1615 BUS ED N WING                    FLOURNOY M

@@ -1,0 +1,16 @@
+(F)    28  LATN 1001         1  ELEMENTARY LATIN       4.0   740-0830   MTWTH  0248 AG ADMIN BLDG                    ANDERSON P
+  1    27  LATN 1001         2  ELEMENTARY LATIN       4.0   840-0930   MTWTH  0212 AUDUBON                          WATANABE A
+(F)    28  LATN 1001         3  ELEMENTARY LATIN       4.0   940-1030   MTWTH  0116 LOCKETT                          CRAIG B
+  2    26  LATN 1001         4  ELEMENTARY LATIN       4.0  1040-1130   MTWTH  0116 LOCKETT                          CRAIG B
+(F)    28  LATN 1001         6  ELEMENTARY LATIN       4.0  1240-0130   MTWTH  0125 TUREAUD HALL                     WATANABE A
+(F)    28  LATN 1001         7  ELEMENTARY LATIN       4.0   140-0230   MTWTH  0212 AUDUBON                          SANDROCK J
+  3    21  LATN 2051         1  INTERMEDIATE LATIN     4.0   840-0930   MTWTH  0276 LOCKETT                          KATCHMER M
+  1    23  LATN 2051         2  INTERMEDIATE LATIN     4.0   940-1030   MTWTH  0235 LOCKETT                          KATCHMER M
+  4    22  LATN 2051         3  INTERMEDIATE LATIN     4.0  1240-0130   MTWTH  0203 AG ADMIN BLDG                    SANDROCK J
+  9    15  LATN 2051         4  INTERMEDIATE LATIN     4.0   240-0330   MTWTH  0212 AUDUBON                          OSTROM A
+  5    20  LATN 2053         1  INTERMEDIATE LATIN     3.0  1140-1230   M W F  0212 AUDUBON                          OSTROM A
+  5    20  LATN 2053         2  INTERMEDIATE LATIN     3.0  1240-0130   M W F  0124 TUREAUD HALL                     KATCHMER M
+ 10    15  LATN 2053         3  INTERMEDIATE LATIN     3.0   240-0330   M W F  0112 AUDUBON                          BATINSKI E
+(F)    28  LATN 2066         1  GOLDEN AGE PROSE       3.0  1040-1130   M W F  0114 AUDUBON                          BATINSKI E
+  4    21  LATN 2066         2  GOLDEN AGE PROSE       3.0  1240-0130   M W F  0218 STUBBS                           CRAIG B
+ 15    10  LATN 4120         1  ROMAN ELEGY            3.0  1240-0130   M W F  0127 TUREAUD HALL                     FLETCHER K

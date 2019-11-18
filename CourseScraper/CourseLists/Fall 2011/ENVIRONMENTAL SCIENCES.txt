@@ -1,0 +1,26 @@
+  7    53  ENVS 1126         1  INT TO ENV SCIENCES    3.0   940-1030   M W F  0102 TUREAUD HALL                     HOU A
+  4    72  ENVS 1126         2  INT TO ENV SCIENCES    3.0  1210-0130    T TH  0221 TUREAUD HALL                     LAWS E
+(F)    26  ENVS 1127         1  HONORS INTRO ENVIRON   3.0  1210-0130    T TH  0220 TUREAUD HALL                     WILSON V
+ 19     1  ENVS 3999 RES     1  UNDERGRAD RESEARCH     1-4  TBA                                                      JOHNSON C
+(F)     1  ENVS 3999 RES     2  UNDERGRAD RESEARCH     1-4  TBA                                                      WILSON V
+  4    11  ENVS 4035         1  AQUATIC POLLUTION      3.0   940-1030   M W F  1280 ENER,COAST,& EN                  LAWS E
+(F)    77  ENVS 4101         1  ENVIRON CHEMISTRY      3.0  1040-1130   M W F  0202 WILLIAMS                         PORTIER R
+ 12     8  ENVS 4145         1  REMOTE SENSING ES      3.0  1040-1200    T TH  1280 ENER,COAST,& EN                  D'SA E
+  5    13  ENVS 4149         2  DSGN ENV MGMT SYSTEM   3.0   610-0900N   T     1280 ENER,COAST,& EN CI-VISUAL&TECH   KENT J
+ 17     8  ENVS 4266         1  OCEAN POLICY           3.0   440-0600N  M W                         CI-WRITTEN&SPOK  WASCOM M
+ 11    19  ENVS 4477         1  ENRIV TOX: INTRO & A   3.0   440-0600N   T TH  0225 TUREAUD HALL                     WILSON V
+  9    16  ENVS 4500         1  HLTH EFCT ENV POLLUT   3.0   310-0430    T TH                                        JOHNSON C
+ 17     8  ENVS 7041         1  ENVIRON POLICY ANAL    3.0  1210-0130    T TH  1280 ENER,COAST,& EN                  REAMS M
+(F)    17  ENVS 7043         1  ENVIRON LAW & REGULA   3.0   140-0300   M W    1070 ENER,COAST,& EN                  WASCOM M
+  4    11  ENVS 7112         1  CONCEPTS IN MAR ECOT   3.0   310-0430   M W                                          PORTIER R
+  1     1  ENVS 7900 RES     1  SPEC PROB ENV SCI      1-4  TBA                                                      JOHNSON C
+  4    13  ENVS 7995 SEM     1  ENVIRONMENTL SEMINAR   1.0   110-0200       F  1280 ENER,COAST,& EN                  WILSON V
+(F)     1  ENVS 7997 RES     1  ENVIRONMENTAL PRACTI   1-6  TBA                                                      PORTIER R
+(F)     3  ENVS 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      LAM N
+(F)     1  ENVS 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      HISCOX A
+  2     1  ENVS 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      JOHNSON C
+(F)     1  ENVS 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      PORTIER R
+(F)     6  ENVS 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      REAMS M
+  2     1  ENVS 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      WASCOM M
+(F)     3  ENVS 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      HOU A
+  1        ENVS 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      WILSON V

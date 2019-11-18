@@ -1,0 +1,17 @@
+ 99        PETE 3990 RES     1  INDEPENDENT RESEARCH   1-2  TBA
+  5        PETE 7256 RES     1  SPEC PROB PETR ENGR    1-6  TBA
+  1        PETE 7256 RES     2  SPEC PROB PETR ENGR    1-6  TBA
+  1        PETE 7256 RES     3  SPEC PROB PETR ENGR    1-6  TBA
+ 99        PETE 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      WALTRICH P
+ 99        PETE 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      KAM S
+  5        PETE 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      CHEN Y
+  2        PETE 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      WILLIAMS W
+ 12        PETE 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      SHARMA J
+ 99        PETE 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      WOJTANOWICZ A
+ 99        PETE 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      AKBARI B
+ 99        PETE 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CHEN Y
+ 99        PETE 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      RAO D
+ 99        PETE 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      KAM S
+  5        PETE 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      GUPTA I
+  5        PETE 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      ALMEIDA M
+  1        PETE 4241         1  SP TOP PETR ENGR DES   3.0  TBA

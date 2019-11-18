@@ -1,0 +1,30 @@
+(F)    41  IE   2060         1  INT USE OF COMPUTERS   3.0   800-0850    T TH  0228 COATES          CI-VISUAL&TECH   JEON H
+ 15    25  IE   2060         2  INT USE OF COMPUTERS   3.0   800-0850    T TH  0228 COATES          CI-VISUAL&TECH   JEON H
+  8    77  IE   2400         1  METHODS & SYST ENGR    3.0  1130-1220   M W    1253 PATRICK TAYLOR                   IKUMA L
+ 26    24  IE   3201         1  PRIN ENGR ECONOMY      3.0  1000-1120   M W    1212 PATRICK TAYLOR                   LIAO T
+ 50    99  IE   3302         1  ENGR STATISTICS        3.0   830-0920   M W F  1200 PATRICK TAYLOR                   SARKER B
+ 47     1  IE   3699 CLI     1  ENGINEERING PRACTICE   3.0  TBA                                                      IKUMA L
+ 48        IE   3699 CLI     2  ENGINEERING PRACTICE   3.0  TBA
+ 11    41  IE   4113         1  PROJECT MGMT           3.0  1030-1150    T TH  1212 PATRICK TAYLOR                   CHAMPNEY R
+ 12    68  IE   4425         2  INFO SYST ENGR         3.0   130-0220   M W    1245 PATRICK TAYLOR  CI-WRITTEN&SPOK  KNAPP G
+  9    11  IE   4426         2  DIST INF SYSTEMS ENG   3.0   300-0520    T     1360 PATRICK TAYLOR                   KNAPP G
+ 18    67  IE   4453         1  QUALITY CONT & SIX S   3.0   830-0950   M W    0145 COATES                           LIAO T
+(F)    42  IE   4461         1  HUMAN FACTORS ENGR     3.0   930-1020    T TH  1200 PATRICK TAYLOR  CI-WRITTEN&SPOK  AGHAZADEH F
+ 15    27  IE   4461         2  HUMAN FACTORS ENGR     3.0   930-1020    T TH  1200 PATRICK TAYLOR  CI-WRITTEN&SPOK  AGHAZADEH F
+(F)    52  IE   4462         1  SAFETY ENGINEERING     3.0   130-0250    T TH  1236 PATRICK TAYLOR                   AGHAZADEH F
+ 18    62  IE   4520         1  SUPPLY CHAIN LOGISTI   3.0   130-0250    T TH  1225 PATRICK TAYLOR                   SARKER B
+ 20    20  IE   4597         1  IE SENIOR DESIGN I     2.0   100-0150       F  1244 PATRICK TAYLOR                   NAHMENS I
+  1    44  IE   4598 LAB     1  IE SENIOR DESIGN II    2.0   100-0440       F  1245 PATRICK TAYLOR  CI-WRITTEN&SPOK  IKUMA L
+  7     8  IE   4785 RES     1  HEALTHCARE SEMINAR     1-3  TBA
+(F)     1  IE   4785 RES     2  SPEC TOP IND ENGR      1-3  TBA                                                      KNAPP G
+ 12     8  IE   7722         1  SPECIAL TOPICS IE      3.0  1030-1150    T TH  1218 PATRICK TAYLOR                   JEON H
+ 19     1  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                                      JEON H
+ 19     1  IE   7724 IND     2  INDEP STUDY IE         1-3  TBA                                                      KNAPP G
+ 18     2  IE   7724 IND     3  INDEP STUDY IE         1-3  TBA                                                      HARVEY C
+  4     1  IE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HARVEY C
+  5        IE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      LIAO T
+ 19     1  IE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      NAHMENS I
+ 19     1  IE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      IKUMA L
+ 20        IE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      SARKER B
+ 18     2  IE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      KNAPP G
+ 20        IE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      AGHAZADEH F

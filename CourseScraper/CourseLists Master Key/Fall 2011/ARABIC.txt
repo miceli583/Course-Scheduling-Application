@@ -1,0 +1,7 @@
+  1    24  ARAB 1101         1  BEGINNING ARABIC       4.0   940-1030   MTWTH  0130 COATES                           BACHAR H
+ 12    13  ARAB 1101         4  BEGINNING ARABIC       4.0  1040-1130   MTWTH  0144 COATES                           BACHAR H
+  2    23  ARAB 1101         2  BEGINNING ARABIC       4.0  1140-1230   MTWTH  0130 COATES                           BACHAR H
+(F)    26  ARAB 1101         3  BEGINNING ARABIC       4.0  1240-0130   MTWTH  0130 COATES                           BACHAR H
+  8    12  ARAB 2101         2  INTERMEDIATE ARABIC    4.0  1240-0130   MTWTH  0276 LOCKETT                          ELNAILI S
+  5    20  ARAB 2101         1  INTERMEDIATE ARABIC    4.0  1240-0230   M W    0123 ALLEN           PREREQ CHECKED   HARDY J
+ 13    12  ARAB 3101         1  ADVANCED ARABIC I      3.0   240-0400   M W    0123 ALLEN           PREREQ CHECKED   BACHAR H

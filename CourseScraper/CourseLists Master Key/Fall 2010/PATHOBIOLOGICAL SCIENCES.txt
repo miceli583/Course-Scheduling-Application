@@ -1,0 +1,15 @@
+  9     1  PBS  7002 RES     1  RES TECH PATHOB SCI    1-4  TBA                                                      MORES C
+ 10        PBS  7003 SEM     1  SPEC TOP PATHOB SCI    1-4  TBA                                                      MILLER J
+  4     6  PBS  7003 SEM     3  SPEC TOP PATHOB SCI    1-4  TBA                                                      MACALUSO K
+  9     6  PBS  7004         1  CUR LIT PATHOBIO SCI   1.0  TBA                                                      MILLER J
+  8     2  PBS  7004         2  CUR LIT PATHOBIO SCI   1.0  TBA                                                      GAUNT S
+  6     4  PBS  7004         3  CUR LIT PATHOBIO SCI   1.0  TBA                                                      KOUSOULAS K
+  5     5  PBS  7004         4  CUR LIT PATHOBIO SCI   1.0  TBA                                                      THUNE R
+  5    10  PBS  7312         2  CONCPTS EPIDEMIOLOGY   4.0  1010-1200   M W                                          MILLER J
+ 10     8  PBS  7312         1  CONCPTS EPIDEMIOLOGY   4.0  1010-1200    T TH                                        MILLER J
+ 17     8  PBS  7413 LAB     1  FLOW CYTOMETRY LAB     1.0  TBA                                                      DIETRICH M
+  7     3  PBS  7508         1  HISTOPATH SLIDE CONF   1.0  TBA                                                      CHO D
+  9     1  PBS  7509 LAB     1  SURGICAL PATHOLOGY     1-2  TBA                                                      CHO D
+  1        PBS  7514 RES     1  LAB ANIMAL PATHOLOGY   2.0  TBA                                                      CHO D
+  8     2  PBS  7516 RES     1  ADV DIAG PATH ANIMAL   1-2  TBA                                                      CHO D
+  8     2  PBS  7525 RES     1  ADV VET CLIN PATH      1-2  TBA                                                      GAUNT S

@@ -1,0 +1,21 @@
+ 82     3  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 80     5  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 97     2  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 95     4  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      LILLEY T
+  4     1  SW   7905 RES     1  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF DEPT   LEMIEUX C
+  5        SW   7905 RES     2  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF INST
+ 25        SW   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     MAJORS ONLY      PAGE T
+ 25        SW   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     MAJORS ONLY      WILKS S
+ 25        SW   8000 RES     3  THESIS RESEARCH        1-12 TBA                                     MAJORS ONLY      LEMIEUX C
+ 96     3  SW   9000 RES     1  DISSERTATION RES       1-12 TBA                                     MAJORS ONLY      PAGE T
+ 99        SW   9000 RES     2  DISSERTATION RES       1-12 TBA                                     MAJORS ONLY      ALLEN P
+ 98     1  SW   9000 RES     3  DISSERTATION RES       1-12 TBA                                     MAJORS ONLY      MACCIO E
+ 99        SW   9000 RES     4  DISSERTATION RES       1-12 TBA                                     MAJORS ONLY      MONROE P
+ 98     1  SW   9000 RES     5  DISSERTATION RES       1-12 TBA                                     MAJORS ONLY      WILKS S
+ 99        SW   9000 RES     6  DISSERTATION RES       1-12 TBA                                     MAJORS ONLY      CHANEY C
+  7        SW   9000 RES     7  DISSERTATION RES       1-12 TBA                                     MAJORS ONLY      LIVERMORE M
+  2    48  SW   2000         1  INTRO TO SOCIAL WORK   3.0  TBA                                     100% WEB BASED   CHIASSON A
+ 23    17  SW   3002         1  CHILD AND COMMUNITY    3.0  0900-1040   MTWTF  0184 LONG FIELDHOUSE                  DINECOLA C
+ 31    14  SW   3003         1  SKILL WK WITH PEOPLE   3.0  1100-1230   MTWTF  0184 LONG FIELDHOUSE                  ALLEN P
+ 19    16  SW   7010         1  DIFFERENT DIAGNOSIS    3.0  TBA                                     MAJORS ONLY      MACCIO E
+ 22    18  SW   7807 SEM     1  SW/ETHICAL DILEMMAS    3.0  TBA                                     100% WEB BASED   LILLEY T

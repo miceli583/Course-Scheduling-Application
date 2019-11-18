@@ -1,0 +1,56 @@
+(F)    60  PETE 1010         1  INTR TO PETR ENGR      2.0   240-0330   M W    2427 PATRICK TAYLOR                   THURBER F
+  3   112  PETE 2032         1  RESERVOIR FLUID PROP   3.0  1140-1230   M W F  1119 PATRICK TAYLOR                   RADONJIC M
+(F)    15  PETE 2034 LAB     3  ROCK/FLUID PROP LAB    1.0   810-0900    T     2142 PATRICK TAYLOR                   KAM S
+(F)    15  PETE 2034 LAB     4  ROCK/FLUID PROP LAB    1.0   810-0900    T     2142 PATRICK TAYLOR                   KAM S
+(F)    15  PETE 2034 LAB     5  ROCK/FLUID PROP LAB    1.0   810-0900    T     2142 PATRICK TAYLOR                   KAM S
+(F)    15  PETE 2034 LAB     1  ROCK/FLUID PROP LAB    1.0   810-0900      TH  2142 PATRICK TAYLOR                   KAM S
+(F)    15  PETE 2034 LAB     2  ROCK/FLUID PROP LAB    1.0   810-0900      TH  2142 PATRICK TAYLOR                   KAM S
+(F)    15  PETE 2034 LAB     6  ROCK/FLUID PROP LAB    1.0   810-0900      TH  2142 PATRICK TAYLOR                   KAM S
+(F)    21  PETE 2060         1  COMP MTHDS PETE        2.0   340-0430    T     1114 PATRICK TAYLOR  CI-VISUAL&TECH   HULL W
+  1    20  PETE 2060         3  COMP MTHDS PETE        2.0   340-0430    T     1114 PATRICK TAYLOR  CI-VISUAL&TECH   HULL W
+  3    65  PETE 3053         1  PETE ASP SUBS GEOL     3.0   310-0430    T TH  2427 PATRICK TAYLOR                   KIMBRELL W
+  4    96  PETE 4046         1  WELL DESIGN-PRODUCTN   3.0   240-0330   M W F  0103 TUREAUD HALL                     TYAGI M
+  4    96  PETE 4050         1  RESERVOIR DYNAMICS     3.0   340-0430   M W F  0103 TUREAUD HALL                     WHITE C
+(F)    18  PETE 4056         1  NUM SIM IMP REC PROC   3.0  1140-0130   M      E134 HOWE RUSSELL E                   HUGHES R
+  3    15  PETE 4056         2  NUM SIM IMP REC PROC   3.0  1140-0130   M      E134 HOWE RUSSELL E                   HUGHES R
+(F)    18  PETE 4056         4  NUM SIM IMP REC PROC   3.0  1140-0130   M      E134 HOWE RUSSELL E                   HUGHES R
+  9    12  PETE 4056         5  NUM SIM IMP REC PROC   3.0  1140-0130   M      E134 HOWE RUSSELL E                   HUGHES R
+(F)    20  PETE 4056         7  NUM SIM IMP REC PROC   3.0  1140-0130   M                                            HUGHES R
+(F)     1  PETE 4056         8  NUM SIM IMP REC PROC   3.0  TBA                                                      HUGHES R
+(F)    21  PETE 4058 LAB     1  RESERVOIR MECH LAB     1.0  1040-1130   M      2427 PATRICK TAYLOR                   RAO D
+(F)    20  PETE 4058 LAB     2  RESERVOIR MECH LAB     1.0  1040-1130   M      2427 PATRICK TAYLOR                   RAO D
+(F)    21  PETE 4058 LAB     3  RESERVOIR MECH LAB     1.0  1040-1130   M      2427 PATRICK TAYLOR                   RAO D
+(F)    20  PETE 4058 LAB     4  RESERVOIR MECH LAB     1.0  1040-1130   M      2427 PATRICK TAYLOR                   RAO D
+  1    15  PETE 4060 LAB     1  PREV OL/GS WELLBLOW    1.0   810-0900     W    0152 COATES                           SMITH J
+(F)    16  PETE 4060 LAB     2  PREV OL/GS WELLBLOW    1.0   810-0900     W    0152 COATES                           SMITH J
+(F)    16  PETE 4060 LAB     4  PREV OL/GS WELLBLOW    1.0   810-0900     W    0152 COATES                           SMITH J
+(F)    16  PETE 4060 LAB     5  PREV OL/GS WELLBLOW    1.0   810-0900     W    0152 COATES                           SMITH J
+(F)    16  PETE 4060 LAB     6  PREV OL/GS WELLBLOW    1.0   810-0900     W    0152 COATES                           SMITH J
+ 12    51  PETE 4086         1  WELL DESN-DRILLING     3.0   140-0230   M W F  2427 PATRICK TAYLOR                   WOJTANOWICZ A
+  7    33  PETE 4241         1  SP TOP PETR ENGR DES   3.0   440-0600N  M W    2427 PATRICK TAYLOR                   DAHI TALEGHAN
+  1    42  PETE 4999 RES     1  SENIOR PROJECT II      1.0   310-0500      TH  2162 PATRICK TAYLOR  CI-WRITTEN       HUGHES R
+  3    37  PETE 4999 RES     2  SENIOR PROJECT II      1.0   310-0500      TH  2150 PATRICK TAYLOR  CI-WRITTEN       RADONJIC M
+  1    19  PETE 7201         1  FLUID FLOW POROUS ME   3.0   940-1030   M W F  2103 PATRICK TAYLOR                   THOMPSON K
+ 37    13  PETE 7241         1  SEL TOP IN ADV PETE    3.0   440-0730N   T     2427 PATRICK TAYLOR                   DAHI TALEGHAN
+(F)     3  PETE 7256 RES     1  SPEC PROB PETR ENGR    1-6  TBA                                                      WHITE C
+(F)     1  PETE 7256 RES     2  SPEC PROB PETR ENGR    1-6  TBA                                                      LANGLINAIS J
+(F)     1  PETE 7256 RES     3  SPEC PROB PETR ENGR    1-6  TBA                                                      WOJTANOWICZ A
+  3    47  PETE 7999 SEM     1  SEMINAR                1.0  1040-1200       F                                        WHITE C
+ 97     2  PETE 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      WHITE C
+ 98     1  PETE 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      TYAGI M
+ 97     2  PETE 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      RAO D
+ 97     2  PETE 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      SMITH J
+ 97     2  PETE 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      WOJTANOWICZ A
+ 98     1  PETE 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      HUGHES R
+ 96     3  PETE 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      RADONJIC M
+ 98     1  PETE 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      DAHI TALEGHAN
+ 97     2  PETE 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      THOMPSON K
+ 94     5  PETE 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      WHITE C
+ 94     5  PETE 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      TYAGI M
+ 94     5  PETE 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      RAO D
+ 98     1  PETE 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      SMITH J
+ 97     2  PETE 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      WOJTANOWICZ A
+ 96     3  PETE 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      KAM S
+ 97     2  PETE 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      HUGHES R
+ 96     3  PETE 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      RADONJIC M
+ 95     4  PETE 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      DAHI TALEGHAN

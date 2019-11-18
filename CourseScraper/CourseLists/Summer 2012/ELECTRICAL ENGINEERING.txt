@@ -1,0 +1,55 @@
+ 12    18  EE   2130         1  CIRCUITS II            3.0  0950-1050   MTWTF  1110 PATRICK TAYLOR                   RABALAIS M
+ 13    30  EE   2950         1  COMPREHENSIVE E E      3.0  0840-0940   MTWTF  2103 PATRICK TAYLOR                   RABALAIS M
+ 21     9  EE   3320         1  ELEC MAGNETIC FLDS     3.0  1100-1200   MTWTF  3140 PATRICK TAYLOR                   RABALAIS M
+ 19    11  EE   3750         1  MICROPROCESSR SYSTMS   2.0  1210-0110   MTWTH  3142 PATRICK TAYLOR                   DE SOUZA G
+  1    15  EE   3751         1  MICROPROCESSOR LAB     2.0   120-0220   M W    3141 PATRICK TAYLOR                   DE SOUZA G
+  6    10  EE   3751         2  MICROPROCESSOR LAB     2.0   120-0220   M W    3141 PATRICK TAYLOR                   DE SOUZA G
+ 23     7  EE   3950         1  ELECTRONICS            2.0  0840-0940   MTWTH  2228 PATRICK TAYLOR                   DE SOUZA G
+(F)     1  EE   7091 RES     1  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   DANIELS-RACE
+  1        EE   7091 RES     2  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT
+ 25        EE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   AJMERA P
+ 25        EE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CHOI J
+ 25        EE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CZARNECKI L
+ 25        EE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   DANIELS-RACE
+ 25        EE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   FELDMAN M
+ 24     1  EE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   GU G
+ 25        EE   8000 RES     8  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   GUNTURK B
+ 25        EE   8000 RES    11  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   KOPPELMAN D
+ 25        EE   8000 RES    12  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LI X
+ 25        EE   8000 RES    13  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LIANG X
+ 25        EE   8000 RES    14  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MENDRELA E
+ 25        EE   8000 RES    15  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   NARAGHI-POUR
+ 25        EE   8000 RES    16  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   PENG L
+ 25        EE   8000 RES    17  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   RAI S
+ 25        EE   8000 RES    20  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SRIVASTAVA A
+ 25        EE   8000 RES    22  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   TRAHAN J
+ 25        EE   8000 RES    23  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   VAIDYANATHAN
+ 25        EE   8000 RES    24  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   VERONIS G
+ 24     1  EE   8000 RES    25  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WEI S
+ 99        EE   8000 RES    26  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WOODS R
+ 98     1  EE   8000 RES    27  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WU H
+ 99        EE   8000 RES    28  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ZHOU K
+ 25        EE   9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   AJMERA P
+ 25        EE   9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHOI J
+ 25        EE   9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CZARNECKI L
+ 25        EE   9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DANIELS-RACE
+ 24     1  EE   9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   FELDMAN M
+ 24     1  EE   9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GU G
+ 25        EE   9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GUNTURK B
+ 25        EE   9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KOPPELMAN D
+ 25        EE   9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LI X
+ 25        EE   9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LIANG X
+ 25        EE   9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MENDRELA E
+ 24     1  EE   9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   NARAGHI-POUR
+ 25        EE   9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PENG L
+ 25        EE   9000 RES    17  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   RAI S
+ 25        EE   9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   RAMANUJAM J
+ 25        EE   9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SRIVASTAVA A
+ 25        EE   9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   TRAHAN J
+ 25        EE   9000 RES    23  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   VAIDYANATHAN
+ 25        EE   9000 RES    24  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   VERONIS G
+ 25        EE   9000 RES    25  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WEI S
+ 25        EE   9000 RES    26  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WOODS R
+ 22     3  EE   9000 RES    27  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WU H
+ 99        EE   9000 RES    28  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ZHOU K
+ 25        EE   8000 RES    18  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   RAMANUJAM J

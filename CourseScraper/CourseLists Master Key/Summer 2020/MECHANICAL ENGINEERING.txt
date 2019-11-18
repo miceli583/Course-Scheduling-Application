@@ -1,0 +1,25 @@
+ 47     3  ME   2543         1  SIM METHD FOR ME       3.0  1100-1200   MTWTF
+114     6  ME   3133         1  DYNAMICS               3.0   530-0630N  MTWTF
+ 13     2  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0  1200-0300    T TH
+ 59     1  ME   4433         1  HEAT TRANSFER          3.0  0950-1050   MTWTF
+ 11     1  ME   4611 LAB     1  THERMAL SYSTEM LAB     1.0  1210-0310    T TH
+ 12        ME   4621 LAB     1  THERMAL SCIENCE LAB    1.0  0840-1140    T TH
+  1        ME   4903 RES     1  SP PROJECTS UNDER GR   3.0  TBA
+  5        ME   7903 RES     1  INDEP STDY IN ME       3.0  TBA
+  5        ME   7903 RES     2  INDEP STDY IN ME       3.0  TBA
+ 99        ME   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      DE QUEIROZ M
+ 10        ME   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      KHONSARI M
+ 99        ME   9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CHARALAMPOPOU
+ 99        ME   9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DE QUEIROZ M
+ 99        ME   9000 RES     3  DISSERTATION RES       1-12 TBA                                                      LI G
+ 98     1  ME   9000 RES     4  DISSERTATION RES       1-12 TBA                                                      NIKITOPOULOS
+ 99        ME   9000 RES     5  DISSERTATION RES       1-12 TBA                                                      PARK S
+ 99        ME   9000 RES     6  DISSERTATION RES       1-12 TBA                                                      BARAN A
+ 99        ME   9000 RES     7  DISSERTATION RES       1-12 TBA                                                      WANG Y
+ 99        ME   9000 RES     8  DISSERTATION RES       1-12 TBA                                                      GARTIA M
+ 99        ME   9000 RES     9  DISSERTATION RES       1-12 TBA                                                      GILBERT H
+ 99        ME   9000 RES    10  DISSERTATION RES       1-12 TBA                                                      PALARDY G
+ 99        ME   9000 RES    11  DISSERTATION RES       1-12 TBA                                                      MURPHY M
+ 99        ME   9000 RES    12  DISSERTATION RES       1-12 TBA                                                      MENON S
+ 56     4  ME   2733         1  MATERIALS OF ENGR      3.0  0840-1000   MTWTF
+ 58     2  ME   3333         1  THERMODYNAMICS         3.0  0910-1040   MTWTF

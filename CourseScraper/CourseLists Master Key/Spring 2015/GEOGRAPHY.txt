@@ -1,0 +1,72 @@
+ 12   136  GEOG 1001         2  HUMN GEOG: AMER EURP   3.0   900-1020    T TH  E137 HOWE RUSSELL E                   O'KEEFE P
+ 90   285  GEOG 1001         1  HUMN GEOG: AMER EURP   3.0  1200-0120    T TH  0130 HOWE RUSSELL E                   O'KEEFE P
+  2   146  GEOG 1003         1  HUMN GEOG: AFR & ASI   3.0  1030-1120   M W F  E137 HOWE RUSSELL E                   O'KEEFE P
+ 42   106  GEOG 1003         2  HUMN GEOG: AFR & ASI   3.0   130-0220   M W F  E137 HOWE RUSSELL E                   O'KEEFE P
+ 14    14  GEOG 2039         1  CARTOGR DRAFT/GR PRS   3.0   400-0550   M      0260 HOWE RUSSELL E  CI-VISUAL&TECH   KENT J
+ 71   283  GEOG 2050         1  PHY GEOG ATMOSPHERE    3.0  1130-1220   M W F  0100 DODSON                           TREPANIER J
+ 52    96  GEOG 2050         2  PHY GEOG ATMOSPHERE    3.0  TBA                                                      DELONG K
+ 40   115  GEOG 2051         2  PHY GEOG LW SURFACES   3.0   930-1020   M W F  0103 DESIGN BUILDING                  NAMIKAS S
+ 95    53  GEOG 2051         1  PHY GEOG LW SURFACES   3.0  1230-0120   M W F  E130 HOWE RUSSELL E                   KONSOER K
+  3    27  GEOG 2051         5  PHY GEOG LW SURFACES   3.0  1230-0120   M W F  0245 HOWE RUSSELL E                   NAMIKAS S
+ 17    11  GEOG 2055         1  MAP READING            3.0   430-0520N   T TH  0260 HOWE RUSSELL E                   LEITNER M
+ 26     9  GEOG 4014         1  CLIMATOLOGY            3.0   830-0920   M W F  0245 HOWE RUSSELL E  CI-WRITTEN&VISU  ROHLI R
+  2     8  GEOG 4020         1  AERIAL PHOTO INTER     3.0   400-0550   M      E220 HOWE RUSSELL E                   MENG X
+ 34     6  GEOG 4024         1  COASTAL MORPHODYNAM    3.0   300-0420    T TH  0125 TUREAUD HALL                     XU K
+ 38    10  GEOG 4044         1  COMPUTER CARTOGRAPHY   3.0  1030-1150    T TH  0260 HOWE RUSSELL E                   LEITNER M
+ 15    13  GEOG 4045         1  ENVRNMNTL REMOTE SEN   3.0   630-0720N   T TH  0260 HOWE RUSSELL E                   WANG L
+ 11    17  GEOG 4047         1  GEOG INFORMAT SYSTMS   3.0  1230-0120   M W F  0260 HOWE RUSSELL E                   MENG X
+ 14    14  GEOG 4047         2  GEOG INFORMAT SYSTMS   3.0   300-0420    T TH  0260 HOWE RUSSELL E                   WANG L
+ 16    12  GEOG 4048         1  METH SPATIAL ANALYSI   3.0  1200-0120    T TH  0260 HOWE RUSSELL E                   LEITNER M
+ 20    15  GEOG 4080         1  HISTORICAL GEOGRAPHY   3.0   130-0250    T TH  0245 HOWE RUSSELL E                   COLTEN C
+ 13    11  GEOG 4090         1  HIST OF GEOGRAPHY      3.0   230-0350   M W    0254 HOWE RUSSELL E                   MATHEWSON K
+ 26     9  GEOG 4221         1  TROPICAL ATMOSPHERE    3.0   230-0350   M W    0245 HOWE RUSSELL E                   TREPANIER J
+374     1  GEOG 4998 RES     1  INDPDNT STUDY & RES    1-6  TBA                                                      KEIM B
+  9     5  GEOG 7911         1  DIGI HUMANITIES QGIS   3.0   600-0850N  M      0260 HOWE RUSSELL E                   SLUYTER A
+ 16     4  GEOG 7911         2  SCLEROCHRONOLOGY       3.0   300-0420    T TH  E220 HOWE RUSSELL E                   DELONG K
+  3     2  GEOG 7921 RES     1  RES FLD WK IN GEOG     3-6  TBA                                                      LEITNER M
+  4     1  GEOG 7921 RES     2  RES FLD WK IN GEOG     3-6  TBA                                                      SLUYTER A
+  3     2  GEOG 7921 RES     3  RES FLD WK IN GEOG     3-6  TBA                                                      DELONG K
+  4     1  GEOG 7921 RES     4  RES FLD WK IN GEOG     3-6  TBA                                     PERMIS OF INST   MARKS B
+  9     1  GEOG 7922 RES     1  RES FLD WK IN GEOG     3-6  TBA                                                      LEITNER M
+  9     1  GEOG 7922 RES     2  RES FLD WK IN GEOG     3-6  TBA                                                      DELONG K
+ 39     3  GEOG 7939 SEM     1  SEMINAR RADICAL GEOG   3.0   600-0850N    W    0225 COATES                           MARKS B
+ 99        GEOG 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   LIU K
+ 99        GEOG 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   COLTEN C
+ 98     1  GEOG 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   TREPANIER J
+ 99        GEOG 8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   LEITNER M
+ 99        GEOG 8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   LAM N
+ 98     1  GEOG 8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   MATHEWSON K
+ 96     3  GEOG 8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   ROHLI R
+ 99        GEOG 8000 RES     8  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   DELYSER D
+ 99        GEOG 8000 RES    10  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   SLUYTER A
+ 98     1  GEOG 8000 RES    11  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   KEIM B
+ 98     1  GEOG 8000 RES    12  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   MCKILLOP H
+ 99        GEOG 8000 RES    13  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   NAMIKAS S
+ 99        GEOG 8000 RES    16  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   REGIS H
+ 98     1  GEOG 8000 RES    17  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   WANG F
+ 96     3  GEOG 8000 RES    18  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   WANG L
+ 99        GEOG 8000 RES    19  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   SAUNDERS R
+ 99        GEOG 8000 RES    20  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   ROHLI R
+ 98     1  GEOG 8000 RES    21  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   MARKS B
+ 45        GEOG 9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   LIU K
+ 43     2  GEOG 9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   COLTEN C
+ 43     2  GEOG 9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MENG X
+ 45        GEOG 9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   LAM N
+ 41     4  GEOG 9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MATHEWSON K
+ 44     1  GEOG 9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   JACKSON J
+ 45        GEOG 9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MCKILLOP H
+ 44     1  GEOG 9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   DELYSER D
+ 45        GEOG 9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   ROHLI R
+ 43     2  GEOG 9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   LEITNER M
+ 44     1  GEOG 9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   SLUYTER A
+ 44     1  GEOG 9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   NAMIKAS S
+ 43     2  GEOG 9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   KEIM B
+ 41     4  GEOG 9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   WANG F
+ 45        GEOG 9000 RES    17  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BRODY M
+ 45        GEOG 9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   REGIS H
+ 43     2  GEOG 9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   WANG L
+ 45        GEOG 9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   SAUNDERS R
+ 45        GEOG 9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   DELONG K
+ 45        GEOG 9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   LAM N
+ 45        GEOG 9000 RES    23  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   LAM N
+ 45        GEOG 9000 RES    24  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   CHICOINE D

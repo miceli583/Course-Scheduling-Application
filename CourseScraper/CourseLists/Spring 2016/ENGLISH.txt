@@ -1,0 +1,333 @@
+  1    17  ENGL 1000         3  ENGL COMPOSITION       3.0   900-1020    T TH  0236 COATES          PERMIS OF INST   PENA D
+  1    21  ENGL 1000         5  ENGL COMPOSITION       3.0  1030-1150    T TH  0225 COATES          PERMIS OF INST   PENA D
+  1    18  ENGL 1000         2  ENGL COMPOSITION       3.0  1200-0120    T TH  0204 COATES          PERMIS OF INST   PENA D
+(F)    22  ENGL 1001         4  ENGL COMPOSITION       3.0   830-0920   M W F  0121 ALLEN                            MULLIN A
+(F)    22  ENGL 1001         6  ENGL COMPOSITION       3.0   830-0920   M W F  0055 ALLEN                            WIGGINS L
+(F)    22  ENGL 1001         1  ENGL COMPOSITION       3.0   930-1020   M W F  0121 ALLEN                            MULLIN A
+(F)    22  ENGL 1001        10  ENGL COMPOSITION       3.0   930-1020   M W F  0059 ALLEN                            WIGGINS L
+(F)    22  ENGL 1001         3  ENGL COMPOSITION       3.0  1130-1220   M W F  0034 ALLEN                            MULLIN A
+(F)    22  ENGL 1001         5  ENGL COMPOSITION       3.0  1130-1220   M W F  0051 ALLEN                            WIGGINS L
+(F)    22  ENGL 1001         7  ENGL COMPOSITION       3.0  1230-0120   M W F  0035 ALLEN                            WIGGINS L
+(F)    22  ENGL 1001        13  ENGL COMPOSITION       3.0  1230-0120   M W F  0137 ALLEN                            MULLIN A
+(F)    22  ENGL 1001         9  ENGL COMPOSITION       3.0   730-0850    T TH  0038 ALLEN                            SCHMITT E
+(F)    22  ENGL 1001         2  ENGL COMPOSITION       3.0   130-0250    T TH  0116 TUREAUD HALL                     COCO J
+(F)    22  ENGL 1001        11  ENGL COMPOSITION       3.0   300-0420    T TH  0116 TUREAUD HALL                     COCO J
+  1    19  ENGL 1004         3  ENGL COMPOSITION       3.0  1130-1220   M W F  0023 ALLEN           PERMIS OF INST   COLLINS C
+ 14     6  ENGL 1004         4  ENGL COMPOSITION       3.0  1230-0120   M W F  0055 ALLEN           PERMIS OF INST   COLLINS C
+(F)    22  ENGL 1004         1  ENGL COMPOSITION       3.0  1030-1150    T TH  0114 PRESCOTT        PERMIS OF INST   WORIES T
+  1    20  ENGL 1004         7  ENGL COMPOSITION       3.0  1200-0120    T TH  0127 TUREAUD HALL    PERMIS OF INST   WORIES T
+  1    15  ENGL 1005         1  ENGL COMPOSITION       3.0   930-1020   M W F  0131 ALLEN           PERMIS OF INST   CAMP A
+(F)    16  ENGL 1005         8  ENGL COMPOSITION       3.0  1130-1220   M W F  0032 ALLEN           PERMIS OF INST   CAMP A
+(F)    16  ENGL 1005         7  ENGL COMPOSITION       3.0  1230-0120   M W F  0032 ALLEN           PERMIS OF INST   CAMP A
+  5    11  ENGL 1005         9  ENGL COMPOSITION       3.0   130-0220   M W F  0032 ALLEN           PERMIS OF INST   CAMP A
+  2    14  ENGL 1005         2  ENGL COMPOSITION       3.0   900-1020    T TH  0210 TUREAUD HALL    PERMIS OF INST   IVERSON T
+  3    13  ENGL 1005         3  ENGL COMPOSITION       3.0   900-1020    T TH  0200 TUREAUD HALL    PERMIS OF INST   JOHNSON G
+  1    15  ENGL 1005         4  ENGL COMPOSITION       3.0  1030-1150    T TH  0129 TUREAUD HALL    PERMIS OF INST   JOHNSON G
+  7     9  ENGL 1005        10  ENGL COMPOSITION       3.0  1030-1150    T TH  0127 TUREAUD HALL    PERMIS OF INST   IVERSON T
+  1    15  ENGL 1005         5  ENGL COMPOSITION       3.0   130-0250    T TH  0213 TUREAUD HALL    PERMIS OF INST   IVERSON T
+  2    14  ENGL 1005         6  ENGL COMPOSITION       3.0   300-0420    T TH  0213 TUREAUD HALL    PERMIS OF INST   IVERSON T
+  3     7  ENGL 1051         1  SPK ENGL INT GRD AST   3.0  1030-1150   M W    0050 ALLEN           PERMIS OF DEPT   EPPERSON E
+  4     6  ENGL 1051         2  SPK ENGL INT GRD AST   3.0   900-1020    T TH  0046 ALLEN           PERMIS OF DEPT   EPPERSON E
+  4     6  ENGL 1051         3  SPK ENGL INT GRD AST   3.0  1030-1150    T TH  0046 ALLEN           PERMIS OF DEPT   EPPERSON E
+(F)    10  ENGL 1051         5  SPK ENGL INT GRD AST   3.0   130-0250    T TH  0055 ALLEN           PERMIS OF DEPT   DENNIS C
+  3    19  ENGL 2000        30  ENGLISH COMP           3.0   730-0820   M W F  0171 COATES                           DEAN D
+(F)    22  ENGL 2000        11  ENGLISH COMP           3.0   830-0920   M W F  0171 COATES                           DEAN D
+  9    13  ENGL 2000        27  ENGLISH COMP           3.0   830-0920   M W F  0046 ALLEN           SVC LEARNING     DRUMMOND L
+  2    20  ENGL 2000        28  ENGLISH COMP           3.0   830-0920   M W F  0132 ALLEN                            HAMPTON B
+(F)    22  ENGL 2000        37  ENGLISH COMP           3.0   830-0920   M W F  0128 ALLEN                            MCKINNON R
+(F)    22  ENGL 2000        40  ENGLISH COMP           3.0   830-0920   M W F  0059 ALLEN                            MALLARD J
+(F)    22  ENGL 2000        50  ENGLISH COMP           3.0   830-0920   M W F  0050 ALLEN                            WEILL C
+(F)    22  ENGL 2000        53  ENGLISH COMP           3.0   830-0920   M W F  0038 ALLEN                            WHITE D
+(F)    22  ENGL 2000        93  ENGLISH COMP           3.0   830-0920   M W F  0036 ALLEN                            KATSEANES E
+  2    20  ENGL 2000       112  ENGLISH COMP           3.0   830-0920   M W F  0034 ALLEN                            STEVENS R
+(F)    22  ENGL 2000         1  ENGLISH COMP           3.0   930-1020   M W F  0035 ALLEN                            WEILL C
+(F)    22  ENGL 2000        58  ENGLISH COMP           3.0   930-1020   M W F  0230EMIDDLETON                        DEAN D
+  1    21  ENGL 2000        64  ENGLISH COMP           3.0   930-1020   M W F  0134 ALLEN                            CHANEY C
+(F)    22  ENGL 2000        70  ENGLISH COMP           3.0   930-1020   M W F  0055 ALLEN                            WHITE D
+ 10    12  ENGL 2000        83  ENGLISH COMP           3.0   930-1020   M W F  0046 ALLEN           SVC LEARNING     DRUMMOND L
+(F)    22  ENGL 2000        87  ENGLISH COMP           3.0   930-1020   M W F  0114 PRESCOTT                         BOWLES D
+  2    20  ENGL 2000        90  ENGLISH COMP           3.0   930-1020   M W F  0132 ALLEN                            HAMPTON B
+(F)    22  ENGL 2000        95  ENGLISH COMP           3.0   930-1020   M W F  0036 ALLEN                            KATSEANES E
+  3    19  ENGL 2000       105  ENGLISH COMP           3.0   930-1020   M W F  0205 COATES                           PULLIAM J
+  3    19  ENGL 2000       107  ENGLISH COMP           3.0   930-1020   M W F  0038 ALLEN                            ROTHENBECK C
+(F)    22  ENGL 2000       109  ENGLISH COMP           3.0   930-1020   M W F  0128 ALLEN                            MCKINNON R
+(F)    22  ENGL 2000       110  ENGLISH COMP           3.0   930-1020   M W F  0034 ALLEN                            STEVENS R
+(F)    22  ENGL 2000         3  ENGLISH COMP           3.0  1030-1120   M W F  0225 TUREAUD HALL                     JONES W
+(F)    22  ENGL 2000        31  ENGLISH COMP           3.0  1030-1120   M W F  0244 LOCKETT                          WELLS E
+(F)    22  ENGL 2000        41  ENGLISH COMP           3.0  1030-1120   M W F  0137 ALLEN                            KENNEDY E
+(F)    22  ENGL 2000        47  ENGLISH COMP           3.0  1030-1120   M W F  0131 ALLEN                            LAWORE O
+  1    21  ENGL 2000        48  ENGLISH COMP           3.0  1030-1120   M W F  0114 PRESCOTT                         LYONS K
+  1    21  ENGL 2000        51  ENGLISH COMP           3.0  1030-1120   M W F  0121 ALLEN                            PELTIER R
+(F)    22  ENGL 2000        68  ENGLISH COMP           3.0  1030-1120   M W F  0055 ALLEN                            MYERS J
+(F)    22  ENGL 2000        94  ENGLISH COMP           3.0  1030-1120   M W F  0046 ALLEN                            ORGERON T
+(F)    22  ENGL 2000        97  ENGLISH COMP           3.0  1030-1120   M W F  0134 ALLEN                            POWELL L
+  1    21  ENGL 2000       113  ENGLISH COMP           3.0  1030-1120   M W F  0128 ALLEN                            GILLILAND E
+(F)    22  ENGL 2000       114  ENGLISH COMP           3.0  1030-1120   M W F  0059 ALLEN                            GRONIGER H
+(F)    22  ENGL 2000       118  ENGLISH COMP           3.0  1030-1120   M W F  0101 TUREAUD HALL                     VANTHOURNOUT
+(F)    22  ENGL 2000       119  ENGLISH COMP           3.0  1030-1120   M W F  0036 ALLEN                            ZOLOT A
+  1    21  ENGL 2000        16  ENGLISH COMP           3.0  1130-1220   M W F  0134 ALLEN                            CHANEY C
+  2    20  ENGL 2000        24  ENGLISH COMP           3.0  1130-1220   M W F  0123 ALLEN           SVC LEARNING     DRUMMOND L
+(F)    22  ENGL 2000        32  ENGLISH COMP           3.0  1130-1220   M W F  0244 LOCKETT                          NOHNER L
+(F)    22  ENGL 2000        35  ENGLISH COMP           3.0  1130-1220   M W F  0029 BROUSSARD HALL                   GRANGER S
+(F)    22  ENGL 2000        46  ENGLISH COMP           3.0  1130-1220   M W F  0055 ALLEN                            WEILL C
+  2    20  ENGL 2000        61  ENGLISH COMP           3.0  1130-1220   M W F  0117 TUREAUD HALL                     MORAN W
+(F)    22  ENGL 2000        74  ENGLISH COMP           3.0  1130-1220   M W F  0035 ALLEN                            HORACEK J
+(F)    22  ENGL 2000        82  ENGLISH COMP           3.0  1130-1220   M W F  0131 ALLEN                            MCKINNON R
+(F)    22  ENGL 2000        86  ENGLISH COMP           3.0  1130-1220   M W F  0128 ALLEN                            KATSEANES E
+(F)    22  ENGL 2000        88  ENGLISH COMP           3.0  1130-1220   M W F  0121 ALLEN                            WHITE D
+(F)    22  ENGL 2000        89  ENGLISH COMP           3.0  1130-1220   M W F  0019 ALLEN                            WILLIAMS K
+  1    21  ENGL 2000       121  ENGLISH COMP           3.0  1130-1220   M W F  0114 PRESCOTT                         MCGUCKIN R
+(F)    22  ENGL 2000        10  ENGLISH COMP           3.0  1230-0120   M W F  0023 ALLEN                            STEVENS R
+(F)    22  ENGL 2000        15  ENGLISH COMP           3.0  1230-0120   M W F  0129 ALLEN                            NOHNER L
+(F)    23  ENGL 2000        29  ENGLISH COMP           3.0  1230-0120   M W F  0038 ALLEN                            WILLIAMS K
+(F)    22  ENGL 2000        39  ENGLISH COMP           3.0  1230-0120   M W F  0059 ALLEN                            WHITE D
+(F)    22  ENGL 2000        66  ENGLISH COMP           3.0  1230-0120   M W F  0132 ALLEN                            SMITH J
+(F)    22  ENGL 2000        91  ENGLISH COMP           3.0  1230-0120   M W F  0128 ALLEN                            KATSEANES E
+  7    15  ENGL 2000       108  ENGLISH COMP           3.0  1230-0120   M W F  0034 ALLEN                            HAMPTON B
+(F)    22  ENGL 2000        71  ENGLISH COMP           3.0   130-0220   M W F  0051 ALLEN                            ROTHENBECK C
+(F)    22  ENGL 2000        72  ENGLISH COMP           3.0   130-0220   M W F  0129 ALLEN                            NOHNER L
+  3    19  ENGL 2000        73  ENGLISH COMP           3.0   130-0220   M W F  0134 ALLEN                            CHANEY C
+(F)    22  ENGL 2000       100  ENGLISH COMP           3.0   130-0220   M W F  0205 COATES                           PULLIAM J
+(F)    22  ENGL 2000       104  ENGLISH COMP           3.0   130-0220   M W F  0034 ALLEN                            WILLIAMS K
+(F)    22  ENGL 2000       116  ENGLISH COMP           3.0   130-0220   M W F  0132 ALLEN                            SMITH J
+  4    18  ENGL 2000         2  ENGLISH COMP           3.0   230-0320   M W F  0134 ALLEN                            CHANEY C
+(F)    22  ENGL 2000        77  ENGLISH COMP           3.0   230-0320   M W F  0051 ALLEN                            ROTHENBECK C
+  8    14  ENGL 2000       102  ENGLISH COMP           3.0   230-0320   M W F  0205 COATES                           PULLIAM J
+(F)    22  ENGL 2000        13  ENGLISH COMP           3.0   730-0850    T TH  0134 ALLEN                            STROHSCHEIN M
+  8    14  ENGL 2000       115  ENGLISH COMP           3.0   730-0850    T TH  0034 ALLEN                            VIGUERIE M
+(F)    22  ENGL 2000         5  ENGLISH COMP           3.0   900-1020    T TH  0100 TUREAUD HALL    SVC LEARNING     ANDREWS S
+(F)    22  ENGL 2000        17  ENGLISH COMP           3.0   900-1020    T TH  0027 ALLEN                            WITHEROW J
+(F)    22  ENGL 2000        20  ENGLISH COMP           3.0   900-1020    T TH  0215 TUREAUD HALL    SVC LEARNING     ARMISTEAD C
+(F)    22  ENGL 2000        33  ENGLISH COMP           3.0   900-1020    T TH  0137 ALLEN                            WILSON A
+(F)    23  ENGL 2000        45  ENGLISH COMP           3.0   900-1020    T TH  0035 ALLEN                            WILKY A
+(F)    22  ENGL 2000        49  ENGLISH COMP           3.0   900-1020    T TH  0129 TUREAUD HALL                     BOLAND K
+  1    21  ENGL 2000        52  ENGLISH COMP           3.0   900-1020    T TH  0055 ALLEN                            STRECKER W
+  7    15  ENGL 2000        55  ENGLISH COMP           3.0   900-1020    T TH  0248 WOODIN HALL                      MCCAUGHEY D
+(F)    22  ENGL 2000        62  ENGLISH COMP           3.0   900-1020    T TH  0059 ALLEN                            ROHLOFF J
+(F)    22  ENGL 2000        92  ENGLISH COMP           3.0   900-1020    T TH  0132 ALLEN                            TREVATHAN A
+  1    21  ENGL 2000        98  ENGLISH COMP           3.0   900-1020    T TH  0114 PRESCOTT                         ALEXIUS N
+(F)    22  ENGL 2000       103  ENGLISH COMP           3.0   900-1020    T TH  0134 ALLEN                            STROHSCHEIN M
+(F)    22  ENGL 2000         7  ENGLISH COMP           3.0  1030-1150    T TH  0244 LOCKETT                          ALEXIUS N
+(F)    22  ENGL 2000         8  ENGLISH COMP           3.0  1030-1150    T TH  0100 TUREAUD HALL    SVC LEARNING     ANDREWS S
+  1    21  ENGL 2000         9  ENGLISH COMP           3.0  1030-1150    T TH  0036 ALLEN                            WITHEROW J
+(F)    22  ENGL 2000        14  ENGLISH COMP           3.0  1030-1150    T TH  0137 ALLEN                            WILSON A
+(F)    22  ENGL 2000        19  ENGLISH COMP           3.0  1030-1150    T TH  0215 TUREAUD HALL    SVC LEARNING     ARMISTEAD C
+(F)    22  ENGL 2000        25  ENGLISH COMP           3.0  1030-1150    T TH  0135 LOCKETT                          TRUMBO G
+(F)    22  ENGL 2000        36  ENGLISH COMP           3.0  1030-1150    T TH  0038 ALLEN                            WILKY A
+(F)    22  ENGL 2000        38  ENGLISH COMP           3.0  1030-1150    T TH  0055 ALLEN                            STRECKER W
+(F)    22  ENGL 2000        43  ENGLISH COMP           3.0  1030-1150    T TH  0031 ALLEN                            DISCHINGER M
+(F)    22  ENGL 2000        44  ENGLISH COMP           3.0  1030-1150    T TH  0134 ALLEN                            TURNER M
+(F)    22  ENGL 2000        56  ENGLISH COMP           3.0  1030-1150    T TH  0132 ALLEN                            TREVATHAN A
+  1    21  ENGL 2000        65  ENGLISH COMP           3.0  1030-1150    T TH  0059 ALLEN                            ROHLOFF J
+(F)    22  ENGL 2000        78  ENGLISH COMP           3.0  1030-1150    T TH  0051 ALLEN                            GEHEBER P
+(F)    22  ENGL 2000        79  ENGLISH COMP           3.0  1030-1150    T TH  0112 TUREAUD HALL                     SMITH C
+(F)    22  ENGL 2000        85  ENGLISH COMP           3.0  1030-1150    T TH  0034 ALLEN                            THOMAS R
+(F)    22  ENGL 2000         4  ENGLISH COMP           3.0  1200-0120    T TH  0119 TUREAUD HALL                     TRUMBO G
+(F)    22  ENGL 2000        80  ENGLISH COMP           3.0  1200-0120    T TH  0123 ALLEN                            TOUGAS M
+(F)    22  ENGL 2000        81  ENGLISH COMP           3.0  1200-0120    T TH  0134 ALLEN                            STROHSCHEIN M
+(F)    22  ENGL 2000       123  ENGLISH COMP           3.0  1200-0120    T TH  0111 LOCKETT                          DISCHINGER M
+  8    14  ENGL 2000       126  ENGLISH COMP           3.0  1200-0120    T TH  0051 ALLEN                            MCCAUGHEY D
+(F)    22  ENGL 2000         6  ENGLISH COMP           3.0   130-0250    T TH  0019 ALLEN                            ALEXIUS N
+(H)     9  ENGL 2000        12  ENGLISH COMP           3.0   130-0250    T TH  0125 TUREAUD HALL    SVC LEARNING     ANDREWS S
+  1    21  ENGL 2000        21  ENGLISH COMP           3.0   130-0250    T TH  0117 TUREAUD HALL    SVC LEARNING     ARMISTEAD C
+(F)    22  ENGL 2000        22  ENGLISH COMP           3.0   130-0250    T TH  0123 ALLEN                            WITHEROW J
+  3    19  ENGL 2000        34  ENGLISH COMP           3.0   130-0250    T TH  0108 TUREAUD HALL                     TRUMBO G
+(F)    22  ENGL 2000        42  ENGLISH COMP           3.0   130-0250    T TH  0129 ALLEN                            TURNER M
+(F)    22  ENGL 2000        54  ENGLISH COMP           3.0   130-0250    T TH  0137 ALLEN                            GEHEBER P
+(F)    22  ENGL 2000        60  ENGLISH COMP           3.0   130-0250    T TH  0051 ALLEN                            TREVATHAN A
+(F)    22  ENGL 2000        67  ENGLISH COMP           3.0   130-0250    T TH  0046 ALLEN                            DISCHINGER M
+(F)    22  ENGL 2000        96  ENGLISH COMP           3.0   130-0250    T TH  0134 ALLEN                            STROHSCHEIN M
+(F)    22  ENGL 2000        99  ENGLISH COMP           3.0   130-0250    T TH  0132 ALLEN                            WILSON A
+  1    21  ENGL 2000       111  ENGLISH COMP           3.0   130-0250    T TH  0059 ALLEN                            ROHLOFF J
+(F)    22  ENGL 2000        18  ENGLISH COMP           3.0   300-0420    T TH  0019 ALLEN                            ALEXIUS N
+(F)    22  ENGL 2000        23  ENGLISH COMP           3.0   300-0420    T TH  0129 ALLEN                            WILKY A
+(F)    22  ENGL 2000        26  ENGLISH COMP           3.0   300-0420    T TH  0035 ALLEN                            WITHEROW J
+(F)    22  ENGL 2000        75  ENGLISH COMP           3.0   300-0420    T TH  0059 ALLEN                            ROHLOFF J
+(F)    22  ENGL 2000       101  ENGLISH COMP           3.0   300-0420    T TH  0134 ALLEN                            TURNER M
+(F)    22  ENGL 2000       117  ENGLISH COMP           3.0   300-0420    T TH  0137 ALLEN                            GEHEBER P
+ 13     9  ENGL 2000       125  ENGLISH COMP           3.0   300-0420    T TH  0055 ALLEN                            STRECKER W
+  1    21  ENGL 2002         1  BUSINESS WRITING       3.0   730-0820   M W F  0205 COATES                           TUSA C
+(F)    24  ENGL 2002         2  BUSINESS WRITING       3.0   830-0920   M W F  0205 COATES                           TUSA C
+(F)    22  ENGL 2002         5  BUSINESS WRITING       3.0  1030-1120   M W F  0032 ALLEN                            SILVIO C
+(F)    22  ENGL 2002         4  BUSINESS WRITING       3.0  1130-1220   M W F  0205 COATES                           TUSA C
+(F)    22  ENGL 2002         6  BUSINESS WRITING       3.0  1230-0120   M W F  0205 COATES                           TUSA C
+(F)    22  ENGL 2002         3  BUSINESS WRITING       3.0   130-0250    T TH  0050 ALLEN                            VINES K
+  2    20  ENGL 2005         4  INTR WRITING SH STOR   3.0  1130-1220   M W F  0108 AUDUBON                          DEAN D
+  7    15  ENGL 2005         2  INTR WRITING SH STOR   3.0   900-1020    T TH  0128 ALLEN                            LYNCH H
+  1    21  ENGL 2005         1  INTR WRITING SH STOR   3.0  1200-0120    T TH  0034 ALLEN                            ROSSI A
+ 13     9  ENGL 2007         2  INTR WRITING POETRY    3.0   900-1020    T TH  0125 TUREAUD HALL                     RAMSTETTER A
+(F)    22  ENGL 2007         1  INTR WRITING POETRY    3.0  1200-0120    T TH  0424 HODGES HALL                      LEUNG M
+(F)    22  ENGL 2009         2  WRITING SCREENPLAYS    3.0   430-0720N   T     0032 ALLEN                            GODSHALL Z
+(F)    22  ENGL 2009         1  WRITING SCREENPLAYS    3.0   430-0720N    W    0034 ALLEN                            BUCH J
+(F)    22  ENGL 2012         1  PRACT GRAMMAR/USAGE    3.0  1200-0120    T TH  0055 ALLEN                            DENNIS C
+  1    39  ENGL 2024         3  CRITICAL STRATEGIES    3.0  1230-0120   M W F  0031 ALLEN                            WEILL C
+(F)    40  ENGL 2024         1  CRITICAL STRATEGIES    3.0   130-0250    T TH  0112 TUREAUD HALL                     KATZIR B
+(F)    35  ENGL 2025         6  FICTION                3.0   930-1020   M W F  0031 ALLEN                            DANIELS T
+(F)    35  ENGL 2025        12  FICTION                3.0   930-1020   M W F  0027 ALLEN                            WILLIAMS K
+  2    33  ENGL 2025        14  FICTION                3.0   930-1020   M W F  0023 ALLEN                            NOHNER L
+  1    34  ENGL 2025         9  FICTION                3.0  1030-1120   M W F  0035 ALLEN                            URBAN E
+  4    31  ENGL 2025        11  FICTION                3.0  1030-1120   M W F  0031 ALLEN                            DOAN C
+  1    39  ENGL 2025         3  FICTION                3.0   230-0320   M W F  0029 BROUSSARD HALL                   GRANGER S
+(F)    35  ENGL 2025         1  FICTION                3.0   900-1020    T TH  0123 ALLEN                            TRUMBO G
+  1    34  ENGL 2025        13  FICTION                3.0   900-1020    T TH  0121 ALLEN                            TURNER M
+  6    29  ENGL 2025        16  FICTION                3.0   900-1020    T TH  0119 TUREAUD HALL                     WIEDENFELD L
+ 15    20  ENGL 2025        19  FICTION                3.0   900-1020    T TH  0112 TUREAUD HALL                     HOWELL R
+(F)    35  ENGL 2025         7  FICTION                3.0  1030-1150    T TH  0121 ALLEN                            BERGHOLTZ B
+ 13    22  ENGL 2025         5  FICTION                3.0  1200-0120    T TH  0226 TUREAUD HALL                     FEIFER M
+  4    31  ENGL 2025         2  FICTION                3.0   130-0250    T TH  0035 ALLEN                            STRECKER W
+  7    28  ENGL 2025        15  FICTION                3.0   130-0250    T TH  0121 ALLEN                            PENA D
+  1    34  ENGL 2025         4  FICTION                3.0   300-0420    T TH  0027 ALLEN                            WILSON A
+  5    30  ENGL 2025        10  FICTION                3.0   300-0420    T TH  0112 TUREAUD HALL                     COGNEVICH C
+  1    34  ENGL 2027        10  POETRY                 3.0  1030-1120   M W F  0019 ALLEN                            ROSELL C
+  1    34  ENGL 2027         7  POETRY                 3.0  1130-1220   M W F  0031 ALLEN                            ROTHENBECK C
+  2    33  ENGL 2027         6  POETRY                 3.0  1230-0120   M W F  0131 ALLEN                            MCKINNON R
+ 14    21  ENGL 2027         4  POETRY                 3.0  1030-1150    T TH  0035 ALLEN                            SANDIFORD K
+ 16    19  ENGL 2027         2  POETRY                 3.0  1200-0120    T TH  0225 TUREAUD HALL                     FREEDMAN C
+ 11    24  ENGL 2027         8  POETRY                 3.0  1200-0120    T TH  0131 ALLEN                            BRAKE M
+  2    33  ENGL 2027         9  POETRY                 3.0   130-0250    T TH  0031 ALLEN                            WILKY A
+ 12    23  ENGL 2027         1  POETRY                 3.0   300-0420    T TH  0031 ALLEN                            TREVATHAN A
+  1    34  ENGL 2027         5  POETRY                 3.0   300-0420    T TH  0125 TUREAUD HALL    SVC LEARNING     ANDREWS S
+(F)    40  ENGL 2029         3  DRAMA                  3.0  1230-0120   M W F  0027 ALLEN                            MONK S
+  1    34  ENGL 2029         2  DRAMA                  3.0   130-0250    T TH  0027 ALLEN                            VIGUERIE M
+  4    31  ENGL 2029         1  DRAMA                  3.0   300-0420    T TH  0023 ALLEN                            WELTMAN S
+  4    26  ENGL 2123         4  GLOBAL MODERNISMS      3.0   930-1020   M W F  0169 RES COLL ONE W  RES COLG-GLOBAL  HORACEK J
+  6    24  ENGL 2123         2  LITERARY TRAD & THEM   3.0  1130-1220   M W F  0027 ALLEN                            HAMPTON B
+ 14    16  ENGL 2123         3  LITERARY TRAD & THEM   3.0   900-1020    T TH  0031 ALLEN           CI-WRITTEN&SPOK  DISCHINGER M
+  6    24  ENGL 2123         1  LIT IN DIGITAL AGE     3.0  1200-0120    T TH  0121 ALLEN                            PAPPALARDO M
+(F)    34  ENGL 2148         7  SHAKESPEARE            3.0  1030-1120   M W F  0027 ALLEN                            DEMASTES W
+  3    22  ENGL 2148         1  SHAKESPEARE            3.0   830-0920     W F  0005 LOCKETT                          BARRETT C
+(F)    24  ENGL 2148         2  SHAKESPEARE            3.0   830-0920     W F  0005 LOCKETT                          BARRETT C
+  1    23  ENGL 2148         3  SHAKESPEARE            3.0   830-0920     W F  0005 LOCKETT                          BARRETT C
+(F)    24  ENGL 2148         4  SHAKESPEARE            3.0   830-0920     W F  0005 LOCKETT                          BARRETT C
+  2    22  ENGL 2148         5  SHAKESPEARE            3.0   830-0920     W F  0005 LOCKETT                          BARRETT C
+  7     8  ENGL 2201         1  INTRO WORLD LIT TRAD   3.0   930-1020   M W F  0212 AUDUBON                          HUANG P
+  4    11  ENGL 2202         1  INT MODERN WORLD LIT   3.0   130-0250    T TH  0119 TUREAUD HALL                     CIAMPARELLA A
+  5    20  ENGL 2220         2  MAJ BRITISH AUTHORS    3.0  1230-0120   M W F  0019 ALLEN                            MCDUFFIE I
+(F)    25  ENGL 2220         1  MAJ BRITISH AUTHORS    3.0  1200-0120    T TH  0035 ALLEN                            KATZIR L
+(F)    27  ENGL 2231         1  READNG FILM            3.0   930-1020     W F  0005 LOCKETT                          MACIAK P
+(F)    27  ENGL 2231         2  READNG FILM            3.0   930-1020     W F  0005 LOCKETT                          MACIAK P
+(F)    27  ENGL 2231         3  READNG FILM            3.0   930-1020     W F  0005 LOCKETT                          MACIAK P
+(F)    27  ENGL 2231         4  READNG FILM            3.0   930-1020     W F  0005 LOCKETT                          MACIAK P
+(F)    27  ENGL 2231         5  READNG FILM            3.0   930-1020     W F  0005 LOCKETT                          MACIAK P
+(F)    37  ENGL 2270         2  MAJ AMERICAN AUTHORS   3.0  1030-1120   M W F  0023 ALLEN                            HILL D
+  3    34  ENGL 2270         1  MAJ AMERICAN AUTHORS   3.0  1130-1220   M W F  1035 CYPRESS HALL                     STEVENS R
+  3    27  ENGL 2300         1  INTERPRET DISCOURSE    3.0   300-0420    T TH  0123 ALLEN           CI-WRITTEN&SPOK  BOWLES L
+(F)    20  ENGL 2423         1  INTR TO FOLKLORE       3.0  1030-1150    T TH  0125 TUREAUD HALL                     WARE C
+  1    31  ENGL 2593         1  IMAGES OF WOMEN: INT   3.0  1200-0120    T TH  0031 ALLEN                            AMO S
+ 17    18  ENGL 2593         2  IMAGES OF WOMEN: INT   3.0  1200-0120    T TH  0103 COATES                           GOURDINE A
+ 10    20  ENGL 2673         1  LITERAT & ETHNICITY    3.0   830-0920   M W F  0023 ALLEN                            MURAD R
+  5    25  ENGL 2673         2  LITERAT & ETHNICITY    3.0  1030-1150    T TH  0027 ALLEN                            YANG S
+  1    14  ENGL 2710         1  DESCRIPTVE GRAM ENGL   3.0   930-1020   M W F  0123 ALLEN                            SMITH J
+  7    23  ENGL 2823         1  TEEN TV                3.0   300-0420    T TH  0117 TUREAUD HALL    CI-WRITTEN&TECH  ARMISTEAD C
+ 24     6  ENGL 2824         1  THEORY OF ART & LIT.   3.0  1130-1220   M W F  0108 TUREAUD HALL                     HUTCHINSON R
+  9     1  ENGL 2920 RES     6  INDEPENDENT WORK       1.0  TBA                                     PERMIS OF DEPT   KING E
+  2     1  ENGL 2921 RES     6  INDEPENDENT WORK       1.0  TBA                                     PERMIS OF DEPT   KING E
+  2     1  ENGL 2922 RES     6  INDEPENDENT WORK       1.0  TBA                                     PERMIS OF DEPT   KING E
+ 10        ENGL 3000 RES     1  HON-THESIS             3.0  TBA                                     PERMIS OF DEPT
+ 10        ENGL 3000 RES     2  HON-THESIS             3.0  TBA                                     PERMIS OF DEPT
+ 10        ENGL 3000 RES     3  HON-THESIS             3.0  TBA                                     PERMIS OF DEPT
+(F)    35  ENGL 3020         2  BRITISH LIT I          3.0   900-1020    T TH  0023 ALLEN                            KING E
+  8    27  ENGL 3020         1  BRITISH LIT I          3.0   130-0250    T TH  0424 HODGES HALL                      GELLRICH J
+  1    34  ENGL 3022         1  BRITISH LIT II         3.0  1030-1120   M W F  0123 ALLEN                            CRUMP R
+(F)    35  ENGL 3022         2  BRITISH LIT II         3.0  1030-1150    T TH  0123 ALLEN                            CRUMP R
+  1    37  ENGL 3024         1  CRITICISM              3.0  1200-0120    T TH  0027 ALLEN                            ZERBA M
+ 15    20  ENGL 3070         2  AMER LITERATURE I      3.0  1200-0120    T TH  0023 ALLEN                            KRONICK J
+  2    33  ENGL 3070         1  AMER LITERATURE I      3.0   130-0250    T TH  0023 ALLEN                            YANG S
+(F)    35  ENGL 3072         1  AMER LITERATURE II     3.0  1030-1150    T TH  0019 ALLEN                            COSTELLO B
+ 15    20  ENGL 3072         2  AMER LITERATURE II     3.0  1200-0120    T TH  0019 ALLEN                            LAVENDER I
+ 11    19  ENGL 3202 LAB     1  DYN LEARN ENGL CLRM    1.0   300-0420   M W    0131 ALLEN                            WEINSTEIN S
+  1    39  ENGL 3223         1  ADOLESCENT LITERATUR   3.0  1030-1120   M W F  0100 TUREAUD HALL                     DAVIS V
+ 11    24  ENGL 3301         1  WRIT: PRAC/PEDAG/HIS   3.0   900-1020    T TH  0019 ALLEN                            HEIFFERON B
+ 13    12  ENGL 3310         1  LANGUAGE ISSUES        3.0   830-0920   M W F  0019 ALLEN                            WINGENBACH J
+(F)    20  ENGL 3716         1  DIALECTS OF ENGLISH    3.0  1130-1220   M W F  0137 ALLEN                            SMITH J
+ 12    18  ENGL 3824         1  IRISH REVOLUTION       3.0   900-1020    T TH  0051 ALLEN           CI-WRITTEN&SPOK  GEHEBER P
+  9     1  ENGL 3920 RES     1  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   HEIFFERON B
+  9     1  ENGL 3920 RES     2  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   THOMAS R
+  9     1  ENGL 3920 RES     3  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   BOWLES L
+  9     1  ENGL 3920 RES     4  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   MULLEN L
+  9     1  ENGL 3920 RES     5  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   WHEELER J
+  9     1  ENGL 3925 RES     6  HNRS: INDEP WORK       1.0  TBA                                     PERMIS OF DEPT   MACIAK P
+  9     1  ENGL 3927 RES     1  HNRS: INDEP WORK       1.0  TBA                                     PERMIS OF DEPT   BIBLER M
+  9     1  ENGL 3927 RES     3  HNRS: INDEP WORK       1.0  TBA                                     PERMIS OF DEPT   MACIAK P
+  9     1  ENGL 3929 RES     1  HNRS: INDEP WORK       1.0  TBA                                     PERMIS OF DEPT   DEMASTES W
+  9     1  ENGL 3929 RES     2  HNRS: INDEP WORK       1.0  TBA                                     PERMIS OF DEPT   MACIAK P
+  9     1  ENGL 3929 RES     6  HNRS: INDEP WORK       1.0  TBA                                     PERMIS OF DEPT   KRONICK J
+ 10        ENGL 3930 RES     1  ENGLISH INTERNSHIP     1-3  TBA                                     PERMIS OF DEPT   WEINSTEIN S
+  9     1  ENGL 3930 RES     2  ENGLISH INTERNSHIP     1-3  TBA                                     PERMIS OF DEPT   MORELAND R
+ 10        ENGL 3930 RES     3  ENGLISH INTERNSHIP     1-3  TBA                                     PERMIS OF DEPT
+ 10        ENGL 3930 RES     4  ENGLISH INTERNSHIP     1-3  TBA                                     PERMIS OF DEPT
+ 10        ENGL 3930 RES     5  ENGLISH INTERNSHIP     1-3  TBA                                     PERMIS OF DEPT
+  2    18  ENGL 4001         1  PERSONAL WRITING       3.0   300-0420    T TH  0038 ALLEN                            WHEELER J
+  2    18  ENGL 4002         1  SCIENTIFIC WRITING     3.0   300-0420    T TH  0036 ALLEN           1-49% WEB BASED  RICHARDSON M
+  1    19  ENGL 4005         1  SHORT STORY WRITING    3.0   300-0420    T TH  0034 ALLEN                            THOMAS R
+  5    11  ENGL 4007         1  WRITING POETRY         3.0  1200-0120    T TH  0059 ALLEN                            GLENUM L
+  8     2  ENGL 4008         1  WRITING DRAMA          3.0   130-0250    T TH  0193 M&DA BLDG                        EUBA F
+(F)    20  ENGL 4009 SEM     1  ADV SCREENWRITING WK   3.0   430-0720N   T     0112 PRESCOTT                         BUCH J
+  6    14  ENGL 4062         1  VICTORIANS PERFORMED   3.0  1200-0120    T TH  0038 ALLEN                            WELTMAN S
+(F)    15  ENGL 4104         2  DU BOIS & FAULKNER     3.0   430-0550N  M W    0132 ALLEN           SVC LEARNING     MORELAND R
+  4    11  ENGL 4104         1  DICKINSON & LYRIC      3.0   900-1020    T TH  0050 ALLEN                            KRONICK J
+  2    18  ENGL 4105 SEM     1  CAPSTONE FICTION       3.0   130-0250    T TH  0034 ALLEN                            THOMAS R
+ 10    10  ENGL 4109 SEM     1  CAPSTONE SCREENWRIT    3.0   430-0720N  M      0118 PRESCOTT                         GODSHALL Z
+  2    18  ENGL 4122         1  QUEER THEORY           3.0   130-0250    T TH  0036 ALLEN                            KAHAN B
+  4    20  ENGL 4137         1  STUDIES IN CHAUCER     3.0  1030-1150    T TH  0424 HODGES HALL                      GELLRICH J
+(F)    20  ENGL 4148         2  STUD IN SHAKESPEARE    3.0   930-1020   M W F  0032 ALLEN                            DEMASTES W
+(F)    22  ENGL 4148         1  WMN & PWR IN SHAKESP   3.0  1200-0120    T TH  0050 ALLEN                            KING E
+  2    18  ENGL 4204         1  CAPSTONE SEMINAR       3.0  TBA                                                      WEINSTEIN S
+  8    12  ENGL 4300         1  STUD RHETOR THEORY     3.0  1200-0120    T TH  0132 ALLEN           CI-WRITTEN&SPOK  BOWLES L
+  6     4  ENGL 4323         1  STUDIES IN CARIBBEAN   3.0  1030-1150    T TH  0128 ALLEN                            GOURDINE A
+(F)    10  ENGL 4475         1  AMERICAN FOLKLORE      3.0   130-0250    T TH  0032 ALLEN                            WARE C
+(F)    20  ENGL 4493         1  WOMEN & FOLKLORE       3.0   900-1020    T TH  0036 ALLEN           CI-WRITTEN&SPOK  OTERO S
+ 10    10  ENGL 4674         1  BLACK UPRISINGS INSF   3.0   900-1020    T TH  0034 ALLEN                            LAVENDER I
+(F)    10  ENGL 4710         1  INTR TO LINGUISTICS    3.0   130-0250    T TH  0285 LOCKETT                          JOHNSON G
+(F)    10  ENGL 4713         1  SYNTAX                 3.0   300-0420    T TH  0285 LOCKETT                          JOHNSON G
+  5     5  ENGL 4714         1  PHONOLOGY              3.0   900-1020    T TH  0169 COATES                           SHPORT I
+(F)    10  ENGL 4720         1  LANGUAGE ACQUISITION   3.0  1200-0120    T TH  0032 ALLEN                            SHPORT I
+(F)    12  ENGL 7006 SEM     1  FICTION WRITING        3-6  1230-0320       F  0202 ALLEN           MAJORS ONLY      WILCOX J
+(F)    12  ENGL 7007 SEM     1  POETRY WRITING         3-6   300-0550      TH  0202 ALLEN           MAJORS ONLY      GLENUM L
+(F)    12  ENGL 7106         1  THE FAKE MEMOIR        3.0   630-0920N    W    0202 ALLEN                            WHEELER J
+(F)    12  ENGL 7221 SEM     1  DIGITAL HUMANITIES     3.0  1200-0250      TH  0212CALLEN                            COATS L
+  1    11  ENGL 7423 SEM     1  QUEER GLOBAL CULTURE   3.0   300-0550    T     0118 PRESCOTT                         OTERO S
+  5     7  ENGL 7541 SEM     1  RHETORIC OF FLESH      3.0   330-0620     W    0212CALLEN                            HEIFFERON B
+(F)     1  ENGL 7621 SEM     1  RES MTH COMP/LIT/RHT   3.0  TBA                                                      WEINSTEIN S
+  1    11  ENGL 7783 SEM     1  NOIR FICTION & FILM    3.0  1230-0320   M      0114 LOCKETT                          CATANO J
+  3     9  ENGL 7920 SEM     1  DISS/PUBL WORKSHOP     1-3   330-0620     W    0202 ALLEN                            COPE K
+  3     9  ENGL 7922 SEM     1  BECKETT & HITCHCOCK    3.0  1200-0250    T     0241 LOCKETT                          MCGEE P
+  6     6  ENGL 7951 SEM     1  ATLANTIC DIASPORAS     3.0   600-0850N     TH  0212CALLEN                            SANDIFORD K
+  4     8  ENGL 7971 SEM     1  SLAVERY & SEXUALITY    3.0  1230-0320     W    0212CALLEN                            BIBLER M
+ 97     2  ENGL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   DAVIS J
+ 97     2  ENGL 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   GLENUM L
+ 97     2  ENGL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MULLEN L
+ 99        ENGL 8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WHEELER J
+ 98     1  ENGL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WILCOX J
+ 99        ENGL 8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 98     1  ENGL 8900 RES     1  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   FREEDMAN C
+ 98     1  ENGL 8900 RES     2  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   WELTMAN S
+ 98     1  ENGL 8900 RES     3  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   GODSHALL Z
+ 98     1  ENGL 8900 RES     4  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   LAVENDER I
+ 98     1  ENGL 8900 RES     5  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   OTERO S
+ 99        ENGL 8900 RES     6  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT
+ 97     2  ENGL 9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BARRETT C
+ 98     1  ENGL 9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BERMAN J
+ 98     1  ENGL 9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BIBLER M
+ 97     2  ENGL 9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BOWLES L
+ 98     1  ENGL 9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CATANO J
+ 98     1  ENGL 9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   COSTELLO B
+ 97     2  ENGL 9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   FREEDMAN C
+ 97     2  ENGL 9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GELLRICH J
+ 97     2  ENGL 9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   HEIFFERON B
+ 98     1  ENGL 9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KAHAN B
+ 97     2  ENGL 9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KENNEDY J
+ 94     5  ENGL 9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KRONICK J
+ 97     2  ENGL 9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MASSE M
+ 98     1  ENGL 9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   OTERO S
+ 95     4  ENGL 9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   RASTOGI P
+ 98     1  ENGL 9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ROVEE C
+ 95     4  ENGL 9000 RES    17  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WEINSTEIN S
+ 96     3  ENGL 9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WELTMAN S
+ 97     2  ENGL 9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   RICHARDSON M
+ 98     1  ENGL 9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        ENGL 9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        ENGL 9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        ENGL 9000 RES    23  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        ENGL 9000 RES    24  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        ENGL 9000 RES    25  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT

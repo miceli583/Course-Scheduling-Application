@@ -1,0 +1,44 @@
+(F)   200  HRE  2723         1  INTRO LEADERSHIP DEV   3.0  TBA                                     75-99% WEB BASE  HENRIQUEZ J
+(F)   200  HRE  2723         2  INTRO LEADERSHIP DEV   3.0  TBA                                     75-99% WEB BASE  HENRIQUEZ J
+  3    27  HRE  2723         3  INTRO LEADERSHIP DEV   3.0  TBA                                     PERMIS OF INST   DOWIE R
+(F)    30  HRE  2724         1  HON: INTRO LEAD DEV    3.0  TBA                                     75-99% WEB BASE  HENRIQUEZ J
+(F)    35  HRE  3071         1  PRIN HMN RESRCE DEV    3.0   430-0550N   T TH  0237 COATES                           GIBBONS E
+(F)    30  HRE  3271         1  LEADING LEARNING HRD   3.0  1200-0120    T TH  0111 COATES                           UDOKO P
+(F)    30  HRE  3331         1  STRATEGIC CAREER DEV   3.0   130-0250    T TH  0127 COATES                           WINCHELL B
+  7   193  HRE  3723         1  LDRSHP CONCPTS/PRIN    3.0  TBA                                     75-99% WEB BASE  HENRIQUEZ J
+ 22     8  HRE  3724         1  HON: LEAD CON & PRIN   3.0  TBA                                     75-99% WEB BASE  HENRIQUEZ J
+(F)    30  HRE  4025         1  PRIN ADULT EDUCATION   3.0  TBA                                     100% WEB BASED   ROBINSON P
+  1    29  HRE  4025         2  PRIN ADULT EDUCATION   3.0  TBA                                     100% WEB BASED   ROBINSON P
+(F)    30  HRE  4603         1  EVALUATION HRD         3.0  TBA                                     100% WEB BASED   BOULLION M
+ 42    58  HRE  4723         1  ADV LEADERSHIP DEV     3.0  TBA                                     75-99% WEB BASE  HENRIQUEZ J
+ 26     4  HRE  4724         1  HON: ADV LEAD DEV      3.0  TBA                                     75-99% WEB BASE  HENRIQUEZ J
+ 24     6  HRE  4804 CLI     1  INTERNSHIP: PROF DEV   3-12 TBA                                     PERMIS OF INST   GIBBONS E
+ 26     4  HRE  4805 CLI     1  TRANSITION COL/WORK    1.0  TBA                                     PERMIS OF INST   GIBBONS E
+ 73    27  HRE  4808 CLI     1  LEAD DEV INTERNSHIP    3.0  TBA                                     PERMIS OF INST   HENRIQUEZ J
+ 20    20  HRE  4809 RES     1  GREEK PRES LDERSHIP    1-3   430-0720N    W    0109 COATES          PERMIS OF INST   GREER R
+  4     1  HRE  4809 RES     2  ADV PROB IN HRE        1-3  TBA                                     PERMIS OF INST
+  2    23  HRE  7110 SEM     1  TEAM GROUP DYNAMICS    3.0   430-0720N     TH  0263ACOATES                           MITCHELL T
+ 19     6  HRE  7171         1  INSTRUCTNAL DESN HRD   3.0   430-0720N  M      0130 COATES                           PARK S
+  4    36  HRE  7577         1  TRAIN & DEV IN ORG     3.0  TBA                                     100% WEB BASED   RIZZUTO T
+ 12    13  HRE  7602         1  PRO DES EVAL 1         3.0   430-0720N    W    0202 COATES                           ROBISON S
+  6    19  HRE  7700 SEM     1  INTRO LEADER DEV       3.0   430-0720N   T     0202 COATES                           MITCHELL T
+  4     1  HRE  7801 RES     1  CUR PROB/ISSUES HRE    1-3  TBA                                     PERMIS OF INST   ROBINSON P
+  1     4  HRE  7803 RES     1  IND STUD IN HRE        1-3  TBA                                     PERMIS OF INST   BATES R
+  5        HRE  7803 RES     2  IND STUD IN HRE        1-3  TBA                                     PERMIS OF INST   BOULLION M
+  4     1  HRE  7803 RES     3  IND STUD IN HRE        1-3  TBA                                     PERMIS OF INST   MITCHELL T
+ 14    11  HRE  7921         1  APPLIED QUAL RESEARC   3.0   430-0720N    W    0103 COATES                           ROBINSON P
+ 18     7  HRE  8900 RES     8  TESTS & MEASUREMENTS   1-6   430-0720N     TH  0256 COATES                           RIZZUTO T
+ 15        HRE  8900 RES     1  RESEARCH PROBLEMS      1-6  TBA                                     PERMIS OF INST   BATES R
+ 15        HRE  8900 RES     2  RESEARCH PROBLEMS      1-6  TBA                                     PERMIS OF INST   DAUGHERTY J
+ 14     1  HRE  8900 RES     3  RESEARCH PROBLEMS      1-6  TBA                                     PERMIS OF INST   MITCHELL T
+ 15        HRE  8900 RES     4  RESEARCH PROBLEMS      1-6  TBA                                     PERMIS OF INST   PARK S
+ 15        HRE  8900 RES     5  RESEARCH PROBLEMS      1-6  TBA                                     PERMIS OF INST   RIZZUTO T
+ 12     3  HRE  8900 RES     6  RESEARCH PROBLEMS      1-6  TBA                                     PERMIS OF INST   ROBINSON P
+ 15        HRE  8900 RES     7  RESEARCH PROBLEMS      1-6  TBA                                     PERMIS OF INST   BURNETT M
+ 13     2  HRE  9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BATES R
+ 15        HRE  9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   DAUGHERTY J
+ 15        HRE  9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MITCHELL T
+ 14     1  HRE  9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   PARK S
+ 11     4  HRE  9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   RIZZUTO T
+ 13     2  HRE  9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   ROBINSON P
+ 12     3  HRE  9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BURNETT M

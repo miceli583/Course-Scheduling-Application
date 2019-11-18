@@ -1,0 +1,38 @@
+(F)    50  LIS  1000         1  INFO LIT & CRIT ANA    3.0  TBA                                     100% WEB BASED
+ 68    32  LIS  2003         1  INFO & INTERNET ENV    3.0  TBA                                     100% WEB BASED   JU B
+ 17    13  LIS  3004         1  INTRO TECH SERVICES    3.0  TBA                                     100% WEB BASED   MACAIODH P
+ 17    13  LIS  3006         1  INTRO COLLECT DEVT     3.0  TBA                                     100% WEB BASED
+ 24     6  LIS  3510         1  FDTNS DIGI INFO ORG    3.0  TBA                                     100% WEB BASED
+(F)    30  LIS  4101         1  COL DEV CHILDREN       3.0  TBA                                     100% WEB BASED   LEMAY M
+(F)    30  LIS  4102         1  COL DEV TEENS          3.0  TBA                                     100% WEB BASED   CANTEY C
+ 20    10  LIS  4513         1  INFO TECHNIQUES SM     3.0  TBA                                     100% WEB BASED   YANG S
+(F)    35  LIS  7000         1  INFO & SOCIETY         3.0  TBA                                     100% WEB BASED   STAUFFER S
+(F)    35  LIS  7004         1  MGT INFO ORGS          3.0  TBA                                     100% WEB BASED   JIN T
+(F)    36  LIS  7008         1  INFO TECH & SYSTEMS    3.0  TBA                                     100% WEB BASED   YANG S
+(F)    35  LIS  7009         1  UNDERSTAND RESRCH      3.0  TBA                                     100% WEB BASED   JU B
+(F)    35  LIS  7010         1  ORGANIZATION INFO      3.0  TBA                                     100% WEB BASED   STEWART J
+(F)    35  LIS  7011         1  INFORM NEEDS & SEEK    3.0  TBA                                     100% WEB BASED   WU Y
+(F)    30  LIS  7405         1  PUBLIC LIBRARIES       3.0  TBA                                     100% WEB BASED   STAUFFER S
+  2    28  LIS  7408         1  INTRO TO ARCHIVES      3.0  TBA                                     100% WEB BASED   RAMDEEN S
+ 14    16  LIS  7508         1  MGT KB ASSETS ORG      3.0  TBA                                     100% WEB BASED   JIN T
+ 17    13  LIS  7604         1  PRIN RECORDS MGMT      3.0  TBA                                     100% WEB BASED   LEUMAS E
+(F)    30  LIS  7608         1  INTRO CAT & CLASS      3.0  TBA                                     100% WEB BASED   STEWART J
+ 25     5  LIS  7618         1  E-DISCOVERY            3.0  TBA                                     100% WEB BASED   WU Y
+(F)    30  LIS  7704         1  ARCH ARRANG & DESCR    3.0  TBA                                     100% WEB BASED   BENOIT E
+(F)    30  LIS  7705         1  INTRO MUSEUM MGMT      3.0  TBA                                     100% WEB BASED   FLOYD D
+ 20    10  LIS  7808         1  ADV SEM:ARCH/CUL HTG   3.0  TBA                                     100% WEB BASED   ROESCHLEY A
+  9     1  LIS  7900 CLI     2  INTERNSHIP IN LIS      3.0  TBA                                     PERMIS OF INST   BENOIT E
+ 10        LIS  7900 CLI     3  INTERNSHIP IN LIS      3.0  TBA                                     PERMIS OF INST   JIN T
+ 10        LIS  7900 CLI     4  INTERNSHIP IN LIS      3.0  TBA                                     PERMIS OF INST   JU B
+  9     1  LIS  7900 CLI     5  INTERNSHIP IN LIS      3.0  TBA                                     PERMIS OF INST   STAUFFER S
+ 10        LIS  7900 CLI     6  INTERNSHIP IN LIS      3.0  TBA                                     PERMIS OF INST   STEWART J
+ 10        LIS  7900 CLI     7  INTERNSHIP IN LIS      3.0  TBA                                     PERMIS OF INST   WU Y
+ 10        LIS  7900 CLI     8  INTERNSHIP IN LIS      3.0  TBA                                     PERMIS OF INST   YANG S
+ 10        LIS  7909 RES     2  DIR INDEP STUDY        1-3  TBA                                     PERMIS OF INST   BENOIT E
+ 10        LIS  7909 RES     3  DIR INDEP STUDY        1-3  TBA                                     PERMIS OF INST   JIN T
+ 10        LIS  7909 RES     4  DIR INDEP STUDY        1-3  TBA                                     PERMIS OF INST   JU B
+ 10        LIS  7909 RES     5  DIR INDEP STUDY        1-3  TBA                                     PERMIS OF INST   STAUFFER S
+ 10        LIS  7909 RES     6  DIR INDEP STUDY        1-3  TBA                                     PERMIS OF INST   STEWART J
+ 10        LIS  7909 RES     7  DIR INDEP STUDY        1-3  TBA                                     PERMIS OF INST   WU Y
+ 10        LIS  7909 RES     8  DIR INDEP STUDY        1-3  TBA                                     PERMIS OF INST   YANG S
+766   234  LIS  1001         1  LIBR RESRCH METH/MAT   1.0  TBA                                     100% WEB BASED   BARRY C

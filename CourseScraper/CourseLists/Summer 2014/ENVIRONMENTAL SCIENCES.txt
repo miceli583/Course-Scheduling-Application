@@ -1,0 +1,17 @@
+ 39    11  ENVS 1126         1  INT TO ENV SCIENCES    3.0  0930-1030   MTWTF  0229 TUREAUD HALL                     OLSON G
+  1    17  ENVS 7042         1  ENVR CONFLICT RESOLU   3.0  TBA                                                      REAMS M
+(F)     1  ENVS 7900 RES     1  SPEC PROB ENV SCI      1-4  TBA                                                      PORTIER R
+  2     1  ENVS 7900 RES     3  SPEC PROB ENV SCI      1-4  TBA                                                      BARGU ATES S
+(F)     1  ENVS 7900 RES     4  SPEC PROB ENV SCI      1-4  TBA                                                      LAWS E
+(F)     1  ENVS 7900 RES     5  SPEC PROB ENV SCI      1-4  TBA                                                      WILSON V
+(F)     1  ENVS 7900 RES     6  SPEC PROB ENV SCI      1-4  TBA                                                      REAMS M
+  1     1  ENVS 7997 RES     2  ENVIRONMENTAL PRACTI   1-6  TBA                                                      DISMUKES D
+  1     1  ENVS 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HOU A
+(F)     1  ENVS 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      PORTIER R
+(F)     3  ENVS 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      REAMS M
+(F)     1  ENVS 9000 RES     1  DISSERTATION RESEAR    1-12 TBA                                                      HOU A
+(F)     3  ENVS 9000 RES     3  DISSERTATION RESEAR    1-12 TBA                                                      LAM N
+(F)     1  ENVS 9000 RES     4  DISSERTATION RESEAR    1-12 TBA                                                      LAWS E
+(F)     2  ENVS 9000 RES     6  DISSERTATION RESEAR    1-12 TBA                                                      PORTIER R
+(F)     1  ENVS 9000 RES     7  DISSERTATION RESEAR    1-12 TBA                                                      REAMS M
+(F)     2  ENVS 9000 RES     8  DISSERTATION RESEAR    1-12 TBA                                                      WILSON V

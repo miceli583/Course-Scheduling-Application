@@ -1,0 +1,17 @@
+  7    21  SPAN 1101         1  ELEMENTARY SPANISH     4.0  0840-1050   MTWTH  0035 ALLEN                            MCNEIL P
+  6    22  SPAN 1101         2  ELEMENTARY SPANISH     4.0  1100-0110   MTWTH  0023 ALLEN                            BAUZA C
+ 17    11  SPAN 1101         3  ELEMENTARY SPANISH     4.0   120-0330   MTWTH  0237 LOCKETT                          GARZA J
+  3    25  SPAN 1102         1  ELEMENTARY SPANISH     4.0  0840-1050   MTWTH  0121 ALLEN                            NEMOGA MORENO
+  3    25  SPAN 1102         3  ELEMENTARY SPANISH     4.0  1100-0110   MTWTH  0232 LOCKETT                          FORKNER B
+  5    25  SPAN 1152         1  INTENSIVE-BEGIN SPAN   4.0  1100-0110   MTWTH  0027 ALLEN                            MARTINEZ N
+  2    26  SPAN 1152         2  INTENSIVE-BEGIN SPAN   4.0   600-0800N  MTWTH  0019 ALLEN                            BYRD L
+  2    22  SPAN 2101         1  INTERMED SPANISH       3.0  0850-0950   MTWTF  0034 ALLEN                            AZENARA K
+  5    19  SPAN 2101         2  INTERMED SPANISH       3.0  1000-1100   MTWTF  0034 ALLEN                            LOTTEN S
+ 11    13  SPAN 2101         3  INTERMED SPANISH       3.0   600-0730N  MTWTH  0034 ALLEN                            LOTTEN S
+  6    16  SPAN 2102         1  INTERMED SPANISH       3.0  0740-0840   MTWTF  0034 ALLEN                            AZENARA K
+  5    17  SPAN 2102         2  INTERMED SPANISH       3.0  1200-0100   MTWTF  0036 ALLEN                            BYRD L
+  2    20  SPAN 2102         3  INTERMED SPANISH       3.0   100-0200   MTWTF  0101 TUREAUD HALL                     MATUS I
+(F)    23  SPAN 2102         4  INTERMED SPANISH       3.0   600-0730N  MTWTH  0023 ALLEN                            MATUS I
+ 13     7  SPAN 4147         1  LAT AM LIT:1960-PRES   3.0   230-0430   M WTH                                        FERNANDEZ-PAL
+(F)     1  SPAN 4915 RES     1  IND RES SP/SP-AM LIT   1-3  TBA                                     PERMIS OF DEPT   FERNANDEZ-PAL
+(F)     1  SPAN 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      MARTINS L

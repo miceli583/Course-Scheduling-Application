@@ -1,0 +1,59 @@
+  1        RNR  4061 SEM     1  SPEC PROB NAT RES      1-4  TBA
+ 10        RNR  4063 CLI     1  INTERNSHIP NAT RES     1-4  TBA
+ 15        RNR  4064 SEM     1  WILD FLD STD AFRICA    1.0  TBA
+ 10        RNR  7029 SEM     1  ADV TOP RENEW NT RES   1-4  TBA
+  1        RNR  7029 SEM     2  ADV TOP RENEW NT RES   1-4  TBA
+  1        RNR  7029 SEM     3  ADV TOP RENEW NT RES   1-4  TBA
+  1        RNR  7029 SEM     4  ADV TOP RENEW NT RES   1-4  TBA
+ 10        RNR  7072 SEM     1  GRAD SEM WILDLIFE      1.0  TBA
+ 99        RNR  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      LONG A
+ 99        RNR  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      LIVELY J
+ 99        RNR  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BLAZIER M
+ 99        RNR  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      CAO Q
+ 99        RNR  8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      COLLIER B
+ 99        RNR  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      CHAMBERS J
+ 99        RNR  8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      CHANG S
+ 99        RNR  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      DEAN T
+ 99        RNR  8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      DE HOOP C
+ 99        RNR  8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      DOZIER H
+ 99        RNR  8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      GREEN C
+ 99        RNR  8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      KALLER M
+ 99        RNR  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      KEIM R
+ 99        RNR  8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      KELSO W
+ 99        RNR  8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      KING S
+ 99        RNR  8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      LAPEYRE M
+ 99        RNR  8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      LIU Z
+ 99        RNR  8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      LUTZ C
+ 99        RNR  8000 RES    19  THESIS RESEARCH        1-12 TBA                                                      NYMAN J
+ 99        RNR  8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      REIGH R
+ 99        RNR  8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      RINGELMAN K
+ 99        RNR  8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      ROMAIRE R
+ 99        RNR  8000 RES    23  THESIS RESEARCH        1-12 TBA                                                      RUTHERFORD D
+ 99        RNR  8000 RES    24  THESIS RESEARCH        1-12 TBA                                                      ERRERA R
+ 99        RNR  8000 RES    25  THESIS RESEARCH        1-12 TBA                                                      STOUFFER P
+ 99        RNR  8000 RES    26  THESIS RESEARCH        1-12 TBA                                                      TAYLOR S
+ 99        RNR  8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      TIERSCH T
+ 99        RNR  8000 RES    28  THESIS RESEARCH        1-12 TBA                                                      VLOSKY R
+ 99        RNR  8000 RES    29  THESIS RESEARCH        1-12 TBA                                                      WU Q
+ 99        RNR  8000 RES    30  THESIS RESEARCH        1-12 TBA                                                      XU Y
+ 99        RNR  8000 RES    31  THESIS RESEARCH        1-12 TBA                                                      KELSO W
+ 99        RNR  8900 RES     1  RES PROB IN RNR        1-3  TBA                                                      LUTZ C
+ 99        RNR  8900 RES     2  RES PROB IN RNR        1-3  TBA                                                      DEAN T
+ 99        RNR  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      XU Y
+ 99        RNR  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      LIVELY J
+ 99        RNR  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      BLAZIER M
+ 99        RNR  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CHANG S
+ 99        RNR  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      DE HOOP C
+ 99        RNR  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      KALLER M
+ 99        RNR  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      KEIM R
+ 99        RNR  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      KELSO W
+ 99        RNR  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      KING S
+ 99        RNR  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      LUTZ C
+ 99        RNR  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      REIGH R
+ 99        RNR  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      RINGELMAN K
+ 99        RNR  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      STOUFFER P
+ 98     1  RNR  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      TAYLOR S
+ 99        RNR  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      KING S
+ 99        RNR  9000 RES    16  DISSERTATION RES       1-12 TBA                                                      VLOSKY R
+ 99        RNR  9000 RES    17  DISSERTATION RES       1-12 TBA                                                      WU Q
+  1        RNR  9000 RES    18  DISSERTATION RES       1-12 TBA                                                      KELSO W

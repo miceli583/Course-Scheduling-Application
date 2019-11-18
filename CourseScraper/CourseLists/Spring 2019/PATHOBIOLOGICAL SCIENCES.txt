@@ -1,0 +1,18 @@
+ 10        PBS  7002 RES     1  RES TECH PATHOB SCI    1-4  TBA                                                      MALONE J
+  7     3  PBS  7003 SEM     1  SPEC TOP PATHOB SCI    1-4  TBA                                                      EVANS D
+ 10        PBS  7003 SEM     2  SPEC TOP PATHOB SCI    1-4  TBA                                                      MALONE J
+  7     3  PBS  7003 SEM     3  SPEC TOP PATHOB SCI    1-4  TBA                                                      BEHNKE M
+  3     7  PBS  7003 SEM     4  SPEC TOP PATHOB SCI    1-4  TBA                                                      MACALUSO K
+  8     2  PBS  7004         1  CUR LIT PATHOBIO SCI   1.0  TBA                                                      GUERRERO-PLAT
+ 10        PBS  7004         2  CUR LIT PATHOBIO SCI   1.0  TBA                                                      STOUT R
+  7     3  PBS  7004         3  CUR LIT PATHOBIO SCI   1.0  TBA                                                      LANGOHR I
+  8     2  PBS  7004         4  CUR LIT PATHOBIO SCI   1.0  TBA                                                      GRASPERGE B
+  2     3  PBS  7004         5  CUR LIT PATHOBIO SCI   1.0  TBA                                                      BEHNKE M
+  3     2  PBS  7004         6  CUR LIT PATHOBIO SCI   1.0  TBA                                                      KOUSOULAS K
+ 12    13  PBS  7007 SEM     1  PBS SEMINAR            1.0  TBA                                                      MACALUSO K
+  6    14  PBS  7312         1  CONCPTS EPIDEMIOLOGY   4.0  TBA                                                      CHRISTOFFERSO
+  7     3  PBS  7508         1  HISTOPATH SLIDE CONF   1.0  TBA                                                      LANGOHR I
+  7     3  PBS  7509 LAB     1  SURGICAL PATHOLOGY     1-2  TBA                                                      LANGOHR I
+ 10        PBS  7514 RES     1  LAB ANIMAL PATHOLOGY   2.0  TBA
+  7     3  PBS  7516 RES     1  ADV DIAG PATH ANIMAL   1-2  TBA                                                      LANGOHR I
+  8     2  PBS  7531         1  LAB ANIMAL SCIENCE I   2.0  TBA

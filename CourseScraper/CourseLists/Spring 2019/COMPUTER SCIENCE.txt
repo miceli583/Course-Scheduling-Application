@@ -1,0 +1,178 @@
+(F)    40  CSC  1240         1  STATS & GRAPH MATLB    3.0  1130-1220   M W    0006 LOCKETT                          BRENER N
+(F)    48  CSC  1240         2  STATS & GRAPH MATLB    3.0  1130-1220   M W    0006 LOCKETT                          BRENER N
+  1    47  CSC  1240         3  STATS & GRAPH MATLB    3.0  1130-1220   M W    0006 LOCKETT                          BRENER N
+  2    22  CSC  1240         4  STATS & GRAPH MATLB    3.0  1130-1220   M W    0006 LOCKETT                          BRENER N
+ 24    56  CSC  1253         2  COMP SCI WITH C++      3.0   900-1020    T TH                                        DUNCAN W
+ 14    66  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  1225 PATRICK TAYLOR                   DUNCAN W
+ 38    22  CSC  1254         2  COMP SCI 11 WITH C++   3.0  1200-0120    T TH  0203 TUREAUD HALL                     LAFIELD W
+  3    37  CSC  1350         1  COMP SCI I-MJRS        4.0   930-1020   M W F  1263 PATRICK TAYLOR                   AYMOND P
+ 20    28  CSC  1350         2  COMP SCI I-MJRS        4.0   930-1020   M W F  1263 PATRICK TAYLOR                   AYMOND P
+ 10    26  CSC  1350         3  COMP SCI I-MJRS        4.0   930-1020   M W F  1263 PATRICK TAYLOR                   AYMOND P
+(F)    48  CSC  1351         1  COMP SCI II-MJRS       4.0   900-1020    T TH  1253 PATRICK TAYLOR                   AYMOND P
+(F)    41  CSC  1351         2  COMP SCI II-MJRS       4.0   900-1020    T TH  1253 PATRICK TAYLOR                   AYMOND P
+ 12    36  CSC  1351         3  COMP SCI II-MJRS       4.0  1030-1150    T TH  0120 TUREAUD HALL                     BRENER N
+ 15    13  CSC  1351         4  COMP SCI II-MJRS       4.0  1030-1150    T TH  0120 TUREAUD HALL                     BRENER N
+(F)    83  CSC  2259         1  DISCRETE STRUCTURES    3.0   130-0250    T TH  1253 PATRICK TAYLOR                   KUNDU S
+ 40    60  CSC  2262         1  NUMERICAL METHODS      3.0   300-0420    T TH  0204 TUREAUD HALL                     BRENER N
+ 24    51  CSC  2463         1  PROGMMG DGITL MEDIA    3.0   130-0250    T TH  0120 TUREAUD HALL                     THAPA S
+(F)    48  CSC  2610         1  CLOUD & WEB PROGMNG    3.0   900-1020    T TH  2324 PATRICK TAYLOR                   WANG Q
+  8    12  CSC  2700         1  CMPTVE PRGMG 1CR HR    1-3   630-0820N   T     1218 PATRICK TAYLOR                   TRAXLER I
+  7    89  CSC  3102         1  ADV DATA STRUCTURES    3.0  1200-0120    T TH  1221 PATRICK TAYLOR                   DUNCAN W
+  9    21  CSC  3200         1  ETHICS IN COMPUTING    1.0   830-0920   M      0117 TUREAUD HALL                     TRIANTAPHYLLO
+  9    86  CSC  3380         1  OBJ ORIENTED DESIGN    3.0  1030-1150    T TH  1263 PATRICK TAYLOR                   WILLIAMS G
+ 87    44  CSC  3501         1  COMP ORGANIZATN/DSN    3.0   330-0450   M W    1263 PATRICK TAYLOR                   ZHANG J
+  4     1  CSC  3992 RES     6  CSC HONORS THESIS      3.0  TBA                                     PERMIS OF DEPT   CHEN F
+  4     1  CSC  3999 RES     9  IND UNDERGRAD RES      1-3  TBA                                     PERMIS OF DEPT
+  4     1  CSC  3999 RES    33  IND UNDERGRAD RES      1-3  TBA                                     PERMIS OF DEPT   YE J
+(F)    82  CSC  4101         1  PROG LANGUAGES         3.0   200-0320   M W    1263 PATRICK TAYLOR                   MAHMOUD A
+ 45    75  CSC  4103         1  OPERATING SYSTEMS      3.0   500-0620N   T TH  0152 COATES                           CHEN F
+(F)    89  CSC  4263         1  VIDEO GAME DESIGN      3.0  1030-1150    T TH  1221 PATRICK TAYLOR                   YE J
+ 35    25  CSC  4330         1  SOFTWARE SYST DEVEL    3.0   930-1050   M W    1240 PATRICK TAYLOR                   CARVER D
+ 18    57  CSC  4351         1  COMPILER CONSTRUCTN    3.0  1230-0150   M W    0120 TUREAUD HALL                     BAUMGARTNER G
+(F)    26  CSC  4360         1  MALWARE ANALYSIS/REV   3.0  1000-1250   M      2317 PATRICK TAYLOR                   RICHARD G
+  2    58  CSC  4402         1  INTR DATABSE MGT SYS   3.0   130-0250    T TH  0102 TUREAUD HALL                     SUN M
+ 20    40  CSC  4512         1  OPTIMIZATION           3.0   300-0420    T TH  0102 TUREAUD HALL                     TRIANTAPHYLLO
+  3    47  CSC  4700         1  BLCKCHAIN CRYPTOCURR   3.0   930-1220       F  1212 PATRICK TAYLOR                   BUSCH K
+  4    36  CSC  4740         1  BIG DATA TECH          3.0   130-0250    T TH  2317 PATRICK TAYLOR                   LEE K
+ 98     1  CSC  4999 RES    12  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 19    11  CSC  7080         1  ADV COMPUTER ARCH      3.0   500-0750N   T     0112 TUREAUD HALL                     BUSCH K
+ 20        CSC  7090 IND     1  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT
+ 20        CSC  7090 IND     2  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 20        CSC  7090 IND     3  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   BUSCH K
+ 19     1  CSC  7090 IND     4  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   CARVER D
+ 17     3  CSC  7090 IND     5  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   CHEN J
+ 20        CSC  7090 IND     6  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   CHEN F
+ 20        CSC  7090 IND     8  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT
+ 19     1  CSC  7090 IND     9  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   KARKI B
+ 20        CSC  7090 IND    10  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT
+ 20        CSC  7090 IND    11  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   KUNDU S
+ 20        CSC  7090 IND    12  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 20        CSC  7090 IND    13  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   PARK S
+ 20        CSC  7090 IND    14  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   SHAH R
+ 20        CSC  7090 IND    15  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   SUN M
+ 20        CSC  7090 IND    16  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 20        CSC  7090 IND    17  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT
+ 20        CSC  7090 IND    18  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT
+ 18     2  CSC  7090 IND    19  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   ZHANG J
+ 19     1  CSC  7090 IND    20  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   KAISER H
+ 20        CSC  7090 IND    21  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT
+ 19     1  CSC  7090 IND    22  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   LI X
+ 20        CSC  7090 IND    23  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT
+ 20        CSC  7090 IND    24  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT
+ 18     2  CSC  7090 IND    25  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   BRANDT S
+ 20        CSC  7090 IND    26  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT
+ 19     1  CSC  7090 IND    27  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   SOYSAL O
+ 20        CSC  7090 IND    28  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   MAHMOUD A
+ 20        CSC  7090 IND    29  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   WANG Q
+ 20        CSC  7090 IND    30  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   LEE K
+ 20        CSC  7090 IND    31  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   RICHARD G
+ 20        CSC  7090 IND    32  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   WU Y
+ 19     1  CSC  7090 IND    33  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   YE J
+ 16    14  CSC  7101         1  PROGRAM LANG STRUCTS   3.0   200-0320   M W    0112 TUREAUD HALL                     BAUMGARTNER G
+ 14    16  CSC  7135         1  SOFTWARE ENGINEERING   3.0  1230-0150   M W    0112 TUREAUD HALL                     CARVER D
+ 28     2  CSC  7150         1  PRGM-ANLYS & MODL-CH   3.0   500-0750N    W    0100 TUREAUD HALL                     MUKHOPADHYAY
+  3    52  CSC  7333         1  MACHINE LEARNING       3.0  1200-0120    T TH  0102 TUREAUD HALL                     CHEN J
+ 39     1  CSC  7598         1  DISTRIBUTED COMPTNG    3.0   130-0220   M W F  1221 PATRICK TAYLOR                   VAIDYANATHAN
+  9     6  CSC  7700         1  DATASCI LARGE SCALE    3.0   330-0620   M      0119 TUREAUD HALL                     PARK S
+ 23     2  CSC  7700         3  ADV STORAGE SYSTEMS    3.0   900-1150    T     0127 TUREAUD HALL                     CHEN F
+ 19     6  CSC  7700         2  CLOUD&ENTERPRISE SYS   3.0   330-0620     W    1216 PATRICK TAYLOR                   WANG Q
+ 23     7  CSC  7800 SEM     1  CSC RESEARCH SEMINAR   1.0   330-0420      TH  1216 PATRICK TAYLOR                   KUNDU S
+ 99        CSC  7999 RES     1  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 99        CSC  7999 RES     2  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 99        CSC  7999 RES     3  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   BUSCH K
+ 99        CSC  7999 RES     4  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   CARVER D
+ 98     1  CSC  7999 RES     5  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   CHEN J
+ 99        CSC  7999 RES     6  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   CHEN F
+ 99        CSC  7999 RES     7  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 99        CSC  7999 RES     8  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 98     1  CSC  7999 RES     9  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KARKI B
+ 99        CSC  7999 RES    10  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 99        CSC  7999 RES    11  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KUNDU S
+ 99        CSC  7999 RES    12  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 99        CSC  7999 RES    13  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   PARK S
+ 99        CSC  7999 RES    14  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   SHAH R
+ 99        CSC  7999 RES    15  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   SUN M
+ 99        CSC  7999 RES    16  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 99        CSC  7999 RES    17  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 99        CSC  7999 RES    18  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 98     1  CSC  7999 RES    19  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   ZHANG J
+ 99        CSC  7999 RES    20  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KAISER H
+ 99        CSC  7999 RES    21  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 99        CSC  7999 RES    22  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   LI X
+ 99        CSC  7999 RES    23  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 99        CSC  7999 RES    24  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 99        CSC  7999 RES    25  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   BRANDT S
+ 99        CSC  7999 RES    26  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 99        CSC  7999 RES    27  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   SOYSAL O
+ 99        CSC  7999 RES    28  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   MAHMOUD A
+ 99        CSC  7999 RES    29  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   WANG Q
+ 99        CSC  7999 RES    30  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   LEE K
+ 99        CSC  7999 RES    31  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   RICHARD G
+ 99        CSC  7999 RES    32  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   WU Y
+ 98     1  CSC  7999 RES    33  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   YE J
+ 20        CSC  8000 RES     1  THESIS RESEARCH        1-12 TBA
+ 20        CSC  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BAUMGARTNER G
+ 20        CSC  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BUSCH K
+ 20        CSC  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      CARVER D
+ 19     1  CSC  8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      CHEN J
+ 20        CSC  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      CHEN F
+ 20        CSC  8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 20        CSC  8000 RES     8  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 20        CSC  8000 RES     9  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   KARKI B
+ 20        CSC  8000 RES    10  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 20        CSC  8000 RES    11  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   KUNDU S
+ 20        CSC  8000 RES    12  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 20        CSC  8000 RES    13  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   PARK S
+ 20        CSC  8000 RES    14  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SHAH R
+ 20        CSC  8000 RES    15  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SUN M
+ 20        CSC  8000 RES    16  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 20        CSC  8000 RES    17  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 20        CSC  8000 RES    18  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 20        CSC  8000 RES    19  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ZHANG J
+ 20        CSC  8000 RES    20  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   KAISER H
+ 20        CSC  8000 RES    21  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 20        CSC  8000 RES    22  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LI X
+ 20        CSC  8000 RES    23  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 20        CSC  8000 RES    24  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 20        CSC  8000 RES    25  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   BRANDT S
+ 20        CSC  8000 RES    26  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 19     1  CSC  8000 RES    27  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SOYSAL O
+ 20        CSC  8000 RES    28  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MAHMOUD A
+ 20        CSC  8000 RES    29  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WANG Q
+ 20        CSC  8000 RES    30  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LEE K
+ 18     2  CSC  8000 RES    31  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   RICHARD G
+ 20        CSC  8000 RES    32  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WU Y
+ 20        CSC  8000 RES    33  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   YE J
+ 99        CSC  9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 96     3  CSC  9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 97     2  CSC  9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BUSCH K
+ 95     4  CSC  9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CARVER D
+ 96     3  CSC  9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN J
+ 95     4  CSC  9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN F
+ 99        CSC  9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        CSC  9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 98     1  CSC  9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KARKI B
+ 99        CSC  9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 98     1  CSC  9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KUNDU S
+ 97     2  CSC  9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 96     3  CSC  9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PARK S
+ 99        CSC  9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SHAH R
+ 96     3  CSC  9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SUN M
+ 99        CSC  9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 99        CSC  9000 RES    17  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        CSC  9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 97     2  CSC  9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ZHANG J
+ 97     2  CSC  9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KAISER H
+ 99        CSC  9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        CSC  9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LI X
+ 99        CSC  9000 RES    23  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        CSC  9000 RES    24  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        CSC  9000 RES    25  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BRANDT S
+ 99        CSC  9000 RES    26  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        CSC  9000 RES    27  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SOYSAL O
+ 95     4  CSC  9000 RES    28  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MAHMOUD A
+ 98     1  CSC  9000 RES    29  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WANG Q
+ 98     1  CSC  9000 RES    30  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LEE K
+ 94     5  CSC  9000 RES    31  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   RICHARD G
+ 99        CSC  9000 RES    32  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WU Y
+ 98     1  CSC  9000 RES    33  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   YE J

@@ -1,0 +1,49 @@
+(F)   310  ACCT 2000         2  SURVEY OF ACCOUNTING   3.0  1200-0120    T TH  0100 DODSON                           BRIGGS E
+179   131  ACCT 2000         1  SURVEY OF ACCOUNTING   3.0   430-0720N    W    0100 DODSON                           LOWE-ARDOIN L
+(F)    98  ACCT 2001         4  INTR FINANCIAL ACCT    3.0   900-1020    T TH  0206 TUREAUD HALL                     LAFLEUR L
+(F)   260  ACCT 2001         2  INTR FINANCIAL ACCT    3.0  1030-1150    T TH  1510 BUS ED AUDITORI                  DENSTEL C
+(F)    64  ACCT 2001         5  INTR FINANCIAL ACCT    3.0  1200-0120    T TH  1920 BUS ED N WING                    WHITE J
+(F)   140  ACCT 2001         1  INTR FINANCIAL ACCT    3.0   130-0250    T TH  1510 BUS ED AUDITORI                  HOLMES J
+ 91   209  ACCT 2001         6  INTR FINANCIAL ACCT    3.0   600-0850N   T     1510 BUS ED AUDITORI                  WANG Y
+(F)    60  ACCT 2101         3  INTRO MANAGERIAL ACC   3.0   300-0420   M W    1920 BUS ED N WING                    SHAW D
+ 67   233  ACCT 2101         1  INTRO MANAGERIAL ACC   3.0   900-1020    T TH  1510 BUS ED AUDITORI                  CHENIER J
+ 62   238  ACCT 2101         2  INTRO MANAGERIAL ACC   3.0  1200-0120    T TH  1510 BUS ED AUDITORI                  CHENIER J
+(F)    46  ACCT 3001         1  INTERMEDIATE ACCT I    3.0   900-1020    T TH  1920 BUS ED N WING                    HOLMES J
+(F)    49  ACCT 3001         2  INTERMEDIATE ACCT I    3.0  1030-1150    T TH  1920 BUS ED N WING                    HOLMES J
+  4   116  ACCT 3001         3  INTERMEDIATE ACCT I    3.0  1200-0120    T TH  1620 BUS ED N WING                    LAFLEUR L
+(F)    54  ACCT 3021         4  INTERMEDIATE ACCT II   3.0   130-0250   M W    1920 BUS ED N WING                    HOLMES J
+ 10    50  ACCT 3021         3  INTERMEDIATE ACCT II   3.0   300-0420   M W    1845 BUS ED N WING                    LEGORIA J
+(F)    56  ACCT 3021         1  INTERMEDIATE ACCT II   3.0  1030-1150    T TH  1800 BUS ED N WING                    HOLLIE D
+(F)    60  ACCT 3021         2  INTERMEDIATE ACCT II   3.0  1200-0120    T TH  1800 BUS ED N WING                    HOLLIE D
+(F)    60  ACCT 3121         1  COST ANAL & CONTROL    3.0   130-0250    T TH  1835 BUS ED N WING                    PARK J
+  6    54  ACCT 3121         2  COST ANAL & CONTROL    3.0   300-0420    T TH  1800 BUS ED N WING                    ALFORD L
+(F)    50  ACCT 3122         1  ACCT INFO SYSTEMS      3.0   130-0250   M W    2520 BUS ED AUDITORI MAJORS ONLY      SOILEAU J
+  7    43  ACCT 3122         2  ACCT INFO SYSTEMS      3.0   430-0550N  M W    2520 BUS ED AUDITORI MAJORS ONLY      SOILEAU J
+ 56    60  ACCT 3221         1  INCOME TAX ACCT I      3.0   130-0250    T TH  1125 BUS ED S WING                    CHENG C
+  2    28  ACCT 3222         1  AUDITING               3.0   900-1020    T TH  1325 BUS ED S WING   CI-WRITTEN&SPOK  BUSLEPP W
+(F)    32  ACCT 3222         2  AUDITING               3.0  1030-1150    T TH  1325 BUS ED S WING   CI-WRITTEN&SPOK  BUSLEPP W
+(F)    33  ACCT 3222         3  AUDITING               3.0  1200-0120    T TH  1325 BUS ED S WING   CI-WRITTEN&SPOK  WILEY L
+ 50    10  ACCT 3233         3  INTERNAL AUDITING I    3.0   730-0850    T TH  1845 BUS ED N WING                    WANG Y
+ 17    43  ACCT 3233         1  INTERNAL AUDITING I    3.0   900-1020    T TH  1845 BUS ED N WING                    WANG Y
+  8    52  ACCT 3233         2  INTERNAL AUDITING I    3.0  1030-1150    T TH  1845 BUS ED N WING                    WANG Y
+  9    41  ACCT 4022         1  ADVANCED ACCOUNTING    3.0   430-0550N  M W    1845 BUS ED N WING                    LEGORIA J
+ 79    21  ACCT 4231 CLI     1  INTERNSHIP IN ACCT     3.0  TBA                                     PERMIS OF INST   CHENIER J
+ 18     2  ACCT 4237         1  GOVERN RISK & CNTRL    3.0   600-0850N   T     1325 BUS ED S WING                    SUMNERS G
+ 28    12  ACCT 4244         1  EDP AUDITING           3.0   300-0420   M W    2520 BUS ED AUDITORI                  SOILEAU J
+ 98     2  ACCT 4333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   LAFLEUR L
+  9    41  ACCT 4421         1  GOV/NOT-FOR-PROF ACC   3.0   730-0850    T TH  1220 BUS ED S WING                    BRIGGS E
+(F)    52  ACCT 4421         2  GOV/NOT-FOR-PROF ACC   3.0   900-1020    T TH  1220 BUS ED S WING                    BRIGGS E
+(F)    30  ACCT 7021         2  ADV TH OF ACCOUNTS     3.0   430-0720N   T     1425 BUS ED S WING                    PHILLIPS T
+ 93     7  ACCT 7231 CLI     1  INTRNSHIP IN ACCT      3.0  TBA                                     PERMIS OF INST   MOFFITT J
+ 18    22  ACCT 7233         1  GRAD INTERNAL AUDIT    3.0   130-0250    T TH  1225 BUS ED S WING                    SUMNERS G
+ 21     9  ACCT 7250         1  CUR TPCS FED INC TAX   3.0   600-0850N    W    1325 BUS ED S WING                    CHENG C
+ 14    21  ACCT 7900 RES     1  INDIV STUDY ACCT       3.0  TBA                                                      WILEY L
+ 15     5  ACCT 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      WILEY L
+  4     6  ACCT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      REICHELT K
+  7     3  ACCT 9002 RES     1  ACCOUNTING RES II      3.0  TBA                                                      HOLLIE D
+  7     3  ACCT 9003 RES     1  ACCOUNTING RES III     3.0  TBA                                                      REICHELT K
+  8     2  ACCT 9004 RES     1  ACCOUNTING RES IV      3.0  TBA                                                      REICHELT K
+ 19    21  ACCT 4221         1  INCOME TAX ACCT II     3.0   830-1150   M W F  2520 BUS ED AUDITORI                  MASSEL N
+ 24    16  ACCT 7210         1  TAX RES,PLAN,&BUS DE   3.0   100-0420   M W F  1745 BUS ED N WING                    MASSEL N
+ 10    25  ACCT 7222         1  AUDIT THEORY/STNDRDS   3.0   130-0420    T TH                                        AGHAZADEH S
+  1    34  ACCT 7401         1  ETHICS FOR PROF ACCT   3.0   830-1120   M W                                          MOFFITT J

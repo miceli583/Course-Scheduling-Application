@@ -1,0 +1,56 @@
+(H)    12  GEOL 1001         2  GEN GEOL PHYSICAL      3.0  TBA                                                      WELCH S
+(H)    12  GEOL 1003         1  GEN GEOL HISTORICAL    3.0  TBA                                                      WELCH S
+(H)    12  GEOL 1601 LAB     2  PHYSICAL GEOL LAB      1.0  TBA                                                      WELCH S
+(H)    12  GEOL 1602 LAB     1  HISTORICAL GEOL LAB    1.0  TBA                                                      WELCH S
+(H)    36  GEOL 3666 LAB     1  FIELD GEOLOGY          6.0  TBA                                                      KELLEY D
+(F)     2  GEOL 6001         1  EARTH SCI FOR TEACHE   3.0  TBA                                                      NUNN J
+(F)     1  GEOL 6001         2  EARTH SCI FOR TEACHE   3.0  TBA                                                      KELLEY D
+(F)     2  GEOL 7966 RES     1  FIELD WORK             1-9  TBA                                                      WEBB A
+ 98     1  GEOL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 98     1  GEOL 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BAO H
+ 99        GEOL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BART P
+ 98     1  GEOL 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      BYERLY G
+ 98     1  GEOL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      DUTROW B
+ 99        GEOL 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      ELLWOOD B
+ 99        GEOL 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 99        GEOL 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 98     1  GEOL 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      HANOR J
+ 98     1  GEOL 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      HENRY D
+ 99        GEOL 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      LORENZO J
+ 97     2  GEOL 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      NUNN J
+ 99        GEOL 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      SCHIEBOUT J
+ 97     2  GEOL 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      BART S
+ 99        GEOL 8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      WEBB A
+ 99        GEOL 8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      WICKS C
+ 99        GEOL 8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 99        GEOL 8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 99        GEOL 8000 RES    19  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 99        GEOL 8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 99        GEOL 8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 99        GEOL 8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 99        GEOL 8000 RES    23  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 99        GEOL 8000 RES    24  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+ 99        GEOL 8000 RES    25  THESIS RESEARCH        1-12 TBA                                                      UNASSIGNED
+(F)     1  GEOL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BENTLEY S
+ 98     1  GEOL 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BAO H
+ 99        GEOL 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      BART P
+ 99        GEOL 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      BYERLY G
+ 99        GEOL 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      DUTROW B
+ 98     1  GEOL 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      ELLWOOD B
+ 99        GEOL 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      UNASSIGNED
+ 99        GEOL 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      FERRELL R
+ 99        GEOL 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      HANOR J
+ 99        GEOL 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      HENRY D
+ 98     1  GEOL 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      LORENZO J
+ 98     1  GEOL 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      NUNN J
+ 99        GEOL 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      SCHIEBOUT J
+ 99        GEOL 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      BART S
+ 97     2  GEOL 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      WEBB A
+ 97     2  GEOL 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      WICKS C
+ 99        GEOL 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      STAFF
+ 99        GEOL 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      STAFF
+ 99        GEOL 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      STAFF
+ 23    57  GEOL 1001         1  GEN GEOL PHYSICAL      3.0  1100-1230   MTWTF  E130 HOWE RUSSELL E                   STIEGLER M
+ 75    25  GEOL 1003         2  GEN GEOL HISTORICAL    3.0  0910-1030   MTWTF  E130 HOWE RUSSELL E                   STIEGLER M
+  1    26  GEOL 1601 LAB     1  PHYSICAL GEOL LAB      1.0  1240-0330   M W    E213 HOWE RUSSELL E                   FUKAI I
+(F)     1  GEOL 7909 RES     1  DIR RES IN GEOL/GEOP   1-6  TBA                                                      BENTLEY S

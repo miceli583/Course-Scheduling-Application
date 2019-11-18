@@ -1,0 +1,33 @@
+ 44     6  BADM 7000 CLI     1  INTERNSHIP IN BADM     3.0  TBA                                                      WATSON E
+ 47   113  BADM 7010         1  EMERGING BUS ISSUES    1.0   900-1120       F  1510 BUSINESS ED COM                  WATSON E
+  2    30  BADM 7020         2  MANAGERAL STATISTICS   3.0   900-1020    T TH  1305 BUSINESS ED COM PERMIS OF INST   CHUN Y
+  6    29  BADM 7020         1  MANAGERAL STATISTICS   3.0  1030-1150    T TH  1305 BUSINESS ED COM                  CHUN Y
+ 11    36  BADM 7020         4  MANAGERAL STATISTICS   3.0  TBA                                                      CHUN Y
+(F)    15  BADM 7020         5  MANAGERAL STATISTICS   3.0  TBA                                     PERMIS OF INST   CHUN Y
+  6    29  BADM 7030         5  UNDERSTAND FIN INFO    3.0   830-0950   M W    1305 BUSINESS ED COM PERMIS OF INST   TIRAS S
+  5    30  BADM 7030         6  UNDERSTAND FIN INFO    3.0  1000-1120   M W    1305 BUSINESS ED COM PERMIS OF INST   TIRAS S
+  8    35  BADM 7030         3  UNDERSTAND FIN INFO    3.0   600-0850N   T     1220 BUSINESS ED COM                  TIRAS S
+(F)    15  BADM 7030         4  UNDERSTAND FIN INFO    3.0   100-0350       FS 1305 BUSINESS ED COM                  TIRAS S
+  5    30  BADM 7050         8  INFOR SYST MBA STDNT   3.0   830-0950   M W    1225 BUSINESS ED COM PERMIS OF INST   SCHWARZ A
+  6    29  BADM 7050         9  INFOR SYST MBA STDNT   3.0  1000-1120   M W    1225 BUSINESS ED COM PERMIS OF INST   SCHWARZ A
+  4    12  BADM 7050         4  INFOR SYST MBA STDNT   3.0   800-1150       FS 1225 BUSINESS ED COM                  HIRSCHHEIM R
+  4    41  BADM 7050         3  INFOR SYST MBA STDNT   3.0  TBA                                                      SCHWARZ A
+  1    26  BADM 7070         1  UNDERSTAND BEHAV ORG   3.0   830-0950   M W    1325 BUSINESS ED COM                  RICHARDSON H
+(F)    27  BADM 7070         2  UNDERSTAND BEHAV ORG   3.0  1000-1120   M W    1325 BUSINESS ED COM                  VAN SCOTTER J
+  2    41  BADM 7070         3  UNDERSTAND BEHAV ORG   3.0   600-0850N  M      1220 BUSINESS ED COM                  SAULEY K
+(F)    15  BADM 7070         4  UNDERSTAND BEHAV ORG   3.0   800-1150       FS 1305 BUSINESS ED COM                  SAULEY K
+  2    39  BADM 7100         3  MKTING ADMNSTRATION    3.0   600-0850N  M      1321 BUSINESS ED COM                  WU J
+ 11    29  BADM 7100         4  MKTING ADMNSTRATION    3.0   900-1020    T TH  1225 BUSINESS ED COM PERMIS OF INST   MINTZ O
+  2    30  BADM 7100         5  MKTING ADMNSTRATION    3.0  1030-1150    T TH  1225 BUSINESS ED COM PERMIS OF INST   MINTZ O
+ 12    33  BADM 7120         1  OPERATIONS MANAGEMNT   3.0  TBA                                     PERMIS OF INST   WATSON E
+  1    15  BADM 7140         2  LEGAL ENVIR BUS I      3.0  TBA                                                      FARGASON J
+ 18    12  BADM 7170         1  INTERNAT MGMT CHALL    3.0  TBA                                                      WATSON E
+  4    12  BADM 7190         1  MNG SOURCES COMP ADV   3.0  TBA                                                      BANKS M
+(F)    35  BADM 7200         1  ECON ENVIRN OF THE F   3.0   900-1020    T TH  1325 BUSINESS ED COM                  KORAY F
+  2    18  BADM 7200         2  ECON ENVIRN OF THE F   3.0  1030-1150    T TH  1325 BUSINESS ED COM                  KORAY F
+  1    50  BADM 7200         3  ECON ENVIRN OF THE F   3.0   600-0850N   T     1321 BUSINESS ED COM                  KORAY F
+ 10    35  BADM 7460         1  SP TOP: ENTREPREN      1.5  TBA                                                      JUSTIS R
+  1    11  BADM 7460         2  SP TOP: ENTREPREN      1.5  TBA                                     PERMIS OF INST   JUSTIS R
+ 10    35  BADM 7480 RES     1  IND STUDY ENTREPREN    1.5  TBA                                     PERMIS OF INST   JUSTIS R
+  1    11  BADM 7480 RES     2  IND STUDY ENTREPREN    1.5  TBA                                     PERMIS OF INST   JUSTIS R
+ 10    15  BADM 7600         2  CONSULT FIELD PROJ     3.0  TBA                                                      WATSON E

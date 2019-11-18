@@ -1,0 +1,79 @@
+ 10    25  HNRS 1008         1  INTRO TO LIFE SCIENC   4.0   140-0230   M W    0112 TUREAUD HALL                     INGRAM D
+  2    17  HNRS 2012         1  NIETZSCHE BIO MORAL    3.0   310-0430   M W    0204BFRENCH HOUSE                     PROTEVI J
+  2    17  HNRS 2012         2  FAITH AND DOUBT        3.0   140-0300    T TH  0213 FRENCH HOUSE                     WHITTAKER J
+  4    15  HNRS 2013         1  CHAR&STRAT-US CORPS    3.0   940-1030   M W F  0204BFRENCH HOUSE    CI-WRITTEN&SPOK  MARIN D
+(F)    19  HNRS 2013         7  COASTAL LOUISIANA      3.0  1040-1130   M W F  0204BFRENCH HOUSE                     ROUSE L
+  2    13  HNRS 2013         2  20TH CENTURY BRITAIN   3.0  1040-1200    T TH  0220 FRENCH HOUSE                     HOLMES A
+(F)    19  HNRS 2013         3  CS LEWIS &OXFORD XNS   3.0  1210-0130    T TH  0213 FRENCH HOUSE                     HENDERSON E
+  8    11  HNRS 2013         4  MOTHERS & DAUGHTERS    3.0   310-0430    T TH  0436 HODGES HALL     CI-WRITTEN&SPOK  JENSEN K
+  1    18  HNRS 2013         5  STAND-UP POLITICS      3.0   310-0600    T     0204BFRENCH HOUSE                     HOWES D
+(F)    15  HNRS 2013         6  NAZI GERMANY           3.0   310-0600    T     0213 FRENCH HOUSE                     CULBERT D
+  1    18  HNRS 2021         1  SHAKESPEARE & OPERA    3.0  1210-0130    T TH  0210 FRENCH HOUSE                     PERCY L
+  1    18  HNRS 2021         2  WESTERN ART MUSIC      3.0  1210-0130    T TH  0204BFRENCH HOUSE                     NIKITOPOULOS
+  1    18  HNRS 2021         3  FRENCH NEW WAVE FILM   3.0   140-0300    T TH  0204BFRENCH HOUSE                     BERTOLINI C
+(F)    19  HNRS 2021         4  AMERICAN CRIME FILM    3.0   310-0430    T TH  0117 ALLEN                            FREEDMAN C
+(F)    12  HNRS 3010 SEM     1  LEADERS & SCHOLARS     3.0  1040-1200    T TH  0204BFRENCH HOUSE                     LAMONICA D
+  2    17  HNRS 3030         1  AVANT-GARDE THTR/FLM   3.0   910-1030    T TH  0210 FRENCH HOUSE                     CLEMONS L
+  7    12  HNRS 3031         1  LEGAL STUDIES FORUM    3.0   910-1030    T TH                                        BAIER P
+  1    18  HNRS 3031         2  HOW DO WE KNOW         3.0   140-0430     W    0216 HODGES HALL                      PROWELL D
+(F)    22  HNRS 3100 RES     1  INTSHP/FLD WK/OFF-CP   1-6  TBA                                                      DOCHTERMAN M
+(F)    16  HNRS 3100 RES     2  INTSHP/FLD WK/OFF-CP   1-6  TBA                                                      BABCOCK F
+(F)     1  HNRS 3991 RES     1  THESIS                 3.0  TBA                                                      SOUTHERN L
+(F)     1  HNRS 3991 RES     2  THESIS                 3.0  TBA                                                      O'NEIL C
+(F)        HNRS 3991 RES     3  THESIS                 3.0  TBA                                                      WALKER L
+(F)     1  HNRS 3991 RES     4  THESIS                 3.0  TBA                                                      LONG A
+(F)     1  HNRS 3991 RES     5  THESIS                 3.0  TBA                                                      CLEMONS L
+(F)     1  HNRS 3991 RES     6  THESIS                 3.0  TBA                                                      CELENTANO D
+(F)     1  HNRS 3991 RES     7  THESIS                 3.0  TBA                                                      WALSH J
+(F)     1  HNRS 3991 RES     8  THESIS                 3.0  TBA                                                      MANN R
+(F)     1  HNRS 3991 RES     9  THESIS                 3.0  TBA                                                      PARENT T
+(F)     1  HNRS 3992 RES     1  THESIS                 3.0  TBA                                                      HAND S
+(F)     1  HNRS 3992 RES     2  THESIS                 3.0  TBA                                                      DING H
+(F)     1  HNRS 3992 RES     3  THESIS                 3.0  TBA                                                      DEMASTES W
+(F)     1  HNRS 3992 RES     4  THESIS                 3.0  TBA                                                      GENTRY L
+(F)     1  HNRS 3992 RES     5  THESIS                 3.0  TBA                                                      MANN R
+(F)     1  HNRS 3992 RES     6  THESIS                 3.0  TBA                                                      O'NEIL C
+(F)     1  HNRS 3992 RES     7  THESIS                 3.0  TBA                                                      OETTING J
+(F)     1  HNRS 3992 RES     8  THESIS                 3.0  TBA                                                      MANAGAN J
+(F)     1  HNRS 3992 RES     9  THESIS                 3.0  TBA                                                      BICKMORE S
+(F)     1  HNRS 3992 RES    10  THESIS                 3.0  TBA                                                      SULLIVAN J
+(F)     1  HNRS 3992 RES    11  THESIS                 3.0  TBA                                                      INGRAM D
+(F)        HNRS 3992 RES    12  THESIS                 3.0  TBA                                                      PORTER L
+(F)     1  HNRS 3992 RES    13  THESIS                 3.0  TBA                                                      TIGER J
+(F)     1  HNRS 3992 RES    14  THESIS                 3.0  TBA                                                      GAARDE M
+(F)     1  HNRS 3992 RES    15  THESIS                 3.0  TBA                                                      OETTING J
+(F)     1  HNRS 3992 RES    16  THESIS                 3.0  TBA                                                      BEECH R
+(F)     1  HNRS 3992 RES    17  THESIS                 3.0  TBA                                                      RAKOW K
+(F)     1  HNRS 3992 RES    18  THESIS                 3.0  TBA                                                      TIGER J
+(F)     1  HNRS 3992 RES    19  THESIS                 3.0  TBA                                                      KEENAN M
+(F)        HNRS 3992 RES    20  THESIS                 3.0  TBA                                                      FREEMAN C
+(F)     1  HNRS 3992 RES    21  THESIS                 3.0  TBA                                                      GROBMAN K
+(F)     1  HNRS 3992 RES    22  THESIS                 3.0  TBA                                                      SHIPMAN S
+(F)     1  HNRS 3992 RES    23  THESIS                 3.0  TBA                                                      MANN R
+(F)     1  HNRS 3992 RES    24  THESIS                 3.0  TBA                                                      CULBERT D
+(F)     1  HNRS 3992 RES    25  THESIS                 3.0  TBA                                                      CRUMBLEY D
+(F)     1  HNRS 3992 RES    26  THESIS                 3.0  TBA                                                      CASSAN H
+(F)     1  HNRS 3992 RES    27  THESIS                 3.0  TBA                                                      WELTMAN S
+(F)     1  HNRS 3992 RES    28  THESIS                 3.0  TBA                                                      THOMAS R
+(F)     1  HNRS 3992 RES    29  THESIS                 3.0  TBA                                                      BURNETT M
+(F)     1  HNRS 3992 RES    30  THESIS                 3.0  TBA                                                      LEWIS C
+(F)     1  HNRS 3992 RES    31  THESIS                 3.0  TBA                                                      HAND S
+(F)     1  HNRS 3992 RES    32  THESIS                 3.0  TBA                                                      SOBEK D
+(F)     1  HNRS 3992 RES    33  THESIS                 3.0  TBA                                                      BARKER B
+(F)     1  HNRS 3992 RES    34  THESIS                 3.0  TBA                                                      MAY J
+(F)     1  HNRS 3992 RES    35  THESIS                 3.0  TBA                                                      SCHAFER M
+(F)     1  HNRS 3992 RES    36  THESIS                 3.0  TBA                                                      CHANEY C
+(F)     1  HNRS 3992 RES    37  THESIS                 3.0  TBA                                                      GROVE A
+(F)     1  HNRS 3992 RES    38  THESIS                 3.0  TBA                                                      FREEMAN C
+(F)        HNRS 3992 RES    39  THESIS                 3.0  TBA                                                      HENNINGER K
+(F)     1  HNRS 3992 RES    40  THESIS                 3.0  TBA                                                      MANAGAN J
+(F)        HNRS 3992 RES    41  THESIS                 3.0  TBA                                                      KING A
+(F)     1  HNRS 3992 RES    42  THESIS                 3.0  TBA                                                      PETHKE C
+(F)     1  HNRS 3992 RES    43  THESIS                 3.0  TBA                                                      CLEMONS L
+(F)     1  HNRS 3992 RES    44  THESIS                 3.0  TBA                                                      ERDMAN J
+(F)     1  HNRS 3992 RES    45  THESIS                 3.0  TBA                                                      HOFFMAN P
+(F)     1  HNRS 3992 RES    46  THESIS                 3.0  TBA                                                      BERTOLINI C
+(F)     1  HNRS 3992 RES    47  THESIS                 3.0  TBA                                                      DEVLIN J
+(F)     1  HNRS 3992 RES    48  THESIS                 3.0  TBA                                                      LANDIN D
+(F)     1  HNRS 3992 RES    49  THESIS                 3.0  TBA                                                      RICHARDSON M
+(F)     1  HNRS 3992 RES    50  THESIS                 3.0  TBA                                                      BLACKWELL M

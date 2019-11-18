@@ -1,0 +1,33 @@
+  4    56  AGEC 1003         1  INTR TO AGRIC BUSINE   3.0  1030-1150    T TH  2172 PATRICK TAYLOR                   DETRE J
+ 50   100  AGEC 2003         2  INTRO TO AGRIC ECONO   3.0   830-0920   M W F  0010 LOCKETT                          GILLESPIE J
+ 25    35  AGEC 3003         1  ECON ANLY IN AGRIBUS   3.0  1230-0120   M W F  0102 TUREAUD HALL                     HARRISON R
+  9    31  AGEC 3303         1  FARM MANAGEMENT        3.0  1030-1150    T TH  0101 TUREAUD HALL                     HALL L
+ 90    34  AGEC 3413         1  AGRIC BUS MGT DECIS    3.0   830-0920   M W F  0152 COATES                           PAUDEL K
+ 97     2  AGEC 3700 CLI     1  INTERNSHIP             1-3  TBA                                                      HINSON R
+ 97     2  AGEC 3700 CLI     2  INTERNSHIP             1-3  TBA                                                      ZAPATA H
+ 60    30  AGEC 3803         1  AGRICULTURAL LAW       3.0   300-0420    T TH  0155 COATES                           COVERT G
+ 23    33  AGEC 4403         1  AGRICULTURAL FINANCE   3.0   900-1020    T TH  2172 PATRICK TAYLOR                   DETRE J
+ 32    28  AGEC 4603         1  AGRICULTURAL POLICY    3.0   930-1020   M W F  0203 TUREAUD HALL                     DELIBERTO M
+ 14     1  AGEC 4700 RES     2  PROBLMS IN AGRIC ECO   1-3  1030-1120   M W F                                        HINSON R
+ 15     5  AGEC 7113         1  AGRIBUS RES APPL       3.0   800-0920    T TH  0208 WOODIN HALL                      KENNEDY P
+ 10     8  AGEC 7123         1  OPER RES METH IN AGE   3.0  1030-1120   M W F  0114 PRESCOTT                         GILLESPIE J
+ 21    11  AGEC 7203         1  ADV AGRIC MKT THEORY   3.0   330-0420   M W F  0203 WOODIN HALL                      HARRISON R
+ 15     5  AGEC 7313         2  AG PROD LABOR SUPPLY   3.0  1000-1120    T TH  0209 WOODIN HALL                      MISHRA A
+  6     4  AGEC 7503         1  NATRL RESOURCE ECON    3.0  1000-1120     W F  0203 WOODIN HALL                      KAZMIERCZAK R
+ 98     1  AGEC 7703 RES     1  INDEPENDENT STUDY      1-3  TBA                                                      SALASSI M
+ 98     1  AGEC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      CAFFEY R
+ 98     1  AGEC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      KENNEDY P
+ 97     2  AGEC 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      WESTRA J
+ 96     3  AGEC 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      ZAPATA H
+ 98     1  AGEC 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      PAUDEL K
+ 98     1  AGEC 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      SALASSI M
+ 98     1  AGEC 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      FANNIN J
+ 98     1  AGEC 8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      GILLESPIE J
+ 98     1  AGEC 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      KAZMIERCZAK R
+ 97     2  AGEC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      HARRISON R
+ 98     1  AGEC 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      SALASSI M
+ 96     3  AGEC 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      KENNEDY P
+ 97     2  AGEC 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      KEITHLY W
+ 96     3  AGEC 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      GILLESPIE J
+ 97     2  AGEC 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      FANNIN J
+ 96     3  AGEC 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      MISHRA A

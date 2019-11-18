@@ -1,0 +1,22 @@
+  4     6  HUEC 7090         1  RES METH HUMAN ECOLO   3.0  TBA                                                      ROMEO L
+  7     3  HUEC 7091 RES     1  IND RD/RES HUMAN ECO   1-6  TBA                                     PERMIS OF DEPT   STANNARD C
+  9     1  HUEC 7091 RES     2  IND RD/RES HUMAN ECO   1-6  TBA                                                      NEGULESCU I
+  9     1  HUEC 7091 RES     3  IND RD/RES HUMAN ECO   1-6  TBA                                     PERMIS OF DEPT   LIU C
+  9     1  HUEC 7091 RES     4  IND RD/RES HUMAN ECO   1-6  TBA                                     PERMIS OF DEPT   KUTTRUFF J
+  9     1  HUEC 7900 RES     1  RES & PROJ DEV IN HU   1-12 TBA                                     PERMIS OF DEPT   STANNARD C
+ 10        HUEC 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   KUTTRUFF J
+ 10        HUEC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LANG C
+  9     1  HUEC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LIU C
+ 10        HUEC 8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   NEGULESCU I
+ 10        HUEC 8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ROMEO L
+ 10        HUEC 8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   STANNARD C
+  9     1  HUEC 9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KUTTRUFF J
+  8     2  HUEC 9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ROMEO L
+  8     2  HUEC 9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LIU C
+  9     1  HUEC 9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   STANNARD C
+  9     1  HUEC 9091 RES     1  INDEPENDENT RESEARCH   1-6  TBA                                     PERMIS OF DEPT   ROMEO L
+  9     1  HUEC 9091 RES     2  INDEPENDENT RESEARCH   1-6  TBA                                     PERMIS OF DEPT   STANNARD C
+ 10        HUEC 9091 RES     3  INDEPENDENT RESEARCH   1-6  TBA                                     PERMIS OF DEPT
+ 10        HUEC 9091 RES     4  INDEPENDENT RESEARCH   1-6  TBA                                     PERMIS OF DEPT
+ 10        HUEC 9091 RES     5  INDEPENDENT RESEARCH   1-6  TBA                                     PERMIS OF DEPT
+  5        HUEC 9091 RES     6  INDEPENDENT RESEARCH   1-6  TBA                                     PERMIS OF DEPT

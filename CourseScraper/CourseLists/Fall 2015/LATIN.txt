@@ -1,0 +1,16 @@
+  5    16  LATN 1001         1  ELEMENTARY LATIN       4.0   730-0820   MTWTH  0114 PRESCOTT                         HOWLAND B
+  5    16  LATN 1001         2  ELEMENTARY LATIN       4.0   830-0920   MTWTH  0123 ALLEN                            ANDERSON P
+(F)    22  LATN 1001         3  ELEMENTARY LATIN       4.0   930-1020   MTWTH  0101 AUDUBON                          BATINSKI E
+  2    19  LATN 1001         4  ELEMENTARY LATIN       4.0  1030-1120   MTWTH  0218 COATES                           WATANABE A
+  1    20  LATN 1001         5  ELEMENTARY LATIN       4.0  1130-1220   MTWTH  0101 AUDUBON                          BATINSKI E
+  1    20  LATN 1001         6  ELEMENTARY LATIN       4.0  1230-0120   MTWTH  0324 HODGES HALL                      WATANABE A
+(F)    21  LATN 1001         7  ELEMENTARY LATIN       4.0   130-0220   MTWTH  0101 AUDUBON                          WATANABE A
+  5    16  LATN 2051         1  INTERMEDIATE LATIN     4.0   730-0820   MTWTH  0123 ALLEN                            ANDERSON P
+ 11     9  LATN 2051         2  INTERMEDIATE LATIN     4.0   830-0920   MTWTH  0137 LOCKETT                          KATCHMER M
+  6    14  LATN 2051         3  INTERMEDIATE LATIN     4.0   930-1020   MTWTH  0114 PRESCOTT                         KATCHMER M
+  4    16  LATN 2053         1  INTERMEDIATE LATIN     3.0   930-1020   M W F  0134 LOCKETT                          FLETCHER K
+  5    15  LATN 2053         2  INTERMEDIATE LATIN     3.0  1230-0120   M W F  0108 AUDUBON                          KATCHMER M
+ 10    20  LATN 2073         1  ROMAN HISTORIANS       3.0  1230-0120   M W F  0027 ALLEN                            BATINSKI E
+ 10     5  LATN 4120         1  ROMAN ELEGY            3.0  1030-1120   M W F  0334 HODGES HALL                      FLETCHER K
+(F)     1  LATN 4915 RES     1  IND WORK               1-3  TBA                                     PERMIS OF DEPT   FLETCHER K
+(F)     1  LATN 4915 RES     2  IND WORK               1-3  TBA                                     PERMIS OF DEPT   FLETCHER K

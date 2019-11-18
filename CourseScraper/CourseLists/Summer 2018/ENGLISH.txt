@@ -1,0 +1,45 @@
+(F)    19  ENGL 1001         1  ENGL COMPOSITION       3.0  0840-0940   MTWTF  0034 ALLEN                            WIGGINS L
+(F)    18  ENGL 1001         2  ENGL COMPOSITION       3.0  0950-1050   MTWTF  0036 ALLEN                            NOHNER L
+(F)    18  ENGL 1001         3  ENGL COMPOSITION       3.0  0950-1050   MTWTF  0034 ALLEN                            DRUMMOND L
+  2    17  ENGL 2000         1  ENGLISH COMP           3.0  0840-0940   MTWTF  0046 ALLEN                            STRECKER W
+  3    16  ENGL 2000         2  ENGLISH COMP           3.0  0840-0940   MTWTF  0036 ALLEN                            HAMPTON B
+  1    18  ENGL 2000         3  ENGLISH COMP           3.0  0950-1050   MTWTF  0055 ALLEN                            SMITH J
+(F)    19  ENGL 2000         4  ENGLISH COMP           3.0  0950-1050   MTWTF  0051 ALLEN                            WHITE D
+  3    16  ENGL 2000         7  ENGLISH COMP           3.0  0950-1050   MTWTF  0132 ALLEN                            CHANEY C
+  1    18  ENGL 2000         5  ENGLISH COMP           3.0  1100-1200   MTWTF  0038 ALLEN                            PULLIAM J
+  1    18  ENGL 2000         6  ENGLISH COMP           3.0  1100-1200   MTWTF  0036 ALLEN                            MCKINNON R
+  7    13  ENGL 2002         1  BUSINESS WRITING       3.0  1100-1200   MTWTF  0171 COATES                           TUSA C
+  4    31  ENGL 2027         1  POETRY                 3.0  0950-1050   MTWTF  0027 ALLEN                            LUTTRELL R
+  9     1  ENGL 3920 RES     1  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF INST   DEMASTES W
+ 99        ENGL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST
+ 99        ENGL 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST
+ 99        ENGL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST
+ 98     1  ENGL 8900 RES     1  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   GOURDINE A
+ 99        ENGL 8900 RES     2  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT
+ 99        ENGL 8900 RES     3  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT
+ 99        ENGL 8900 RES     4  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT
+ 99        ENGL 9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST
+ 98     1  ENGL 9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   WELTMAN S
+ 99        ENGL 9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BARRETT C
+ 99        ENGL 9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BIBLER M
+ 99        ENGL 9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MICHIE E
+ 99        ENGL 9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MASSE M
+ 99        ENGL 9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   HEIFFERON B
+ 97     2  ENGL 9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   WEINSTEIN S
+ 99        ENGL 9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   COSTELLO B
+ 99        ENGL 9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   ROVEE C
+ 96     3  ENGL 9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   RASTOGI P
+ 98     1  ENGL 9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   KRONICK J
+ 99        ENGL 9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   CATANO J
+ 99        ENGL 9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BUTTS J
+ 99        ENGL 9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST
+ 98     1  ENGL 9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   FREEDMAN C
+ 98     1  ENGL 9000 RES    17  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   GOURDINE A
+ 99        ENGL 9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST
+ 99        ENGL 9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST
+ 99        ENGL 9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST
+ 12     8  ENGL 1004         1  ENGL COMPOSITION       3.0  0900-1030   MTWTF  0038 ALLEN           PERMIS OF INST   CAMP A
+  1    16  ENGL 1005         1  ENGL COMPOSITION       3.0  1240-0210   MTWTF  0032 ALLEN           PERMIS OF INST   GRIFA A
+ 14    16  ENGL 2025         1  FICTION                3.0  0900-1030   MTWTF  0023 ALLEN                            DANIELS T
+  6     9  ENGL 2202         1  INT MODERN WORLD LIT   3.0  1100-1230   MTWTF  0023 ALLEN                            RUSSO A
+  2    28  ENGL 3072         1  AMER LITERATURE II     3.0  1240-0210   MTWTF  0019 ALLEN                            COSTELLO B

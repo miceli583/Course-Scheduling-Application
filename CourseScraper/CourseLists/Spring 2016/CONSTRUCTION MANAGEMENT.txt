@@ -1,0 +1,43 @@
+(F)   116  CM   1011         1  INTRO TO CM            3.0   900-1020    T TH  1620 BUS ED N WING                    SCHNEIDER D
+(F)    45  CM   1020 LAB     1  ENGR GRAPS FOR MECH    2.0   830-1020   M W    1302BPATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
+(F)    45  CM   1020 LAB     2  ENGR GRAPS FOR MECH    2.0  1030-1220   M W    1302BPATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
+(F)    45  CM   1020 LAB     3  ENGR GRAPS FOR MECH    2.0   100-0250   M W    1302BPATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
+(F)    45  CM   1020 LAB     5  ENGR GRAPS FOR MECH    2.0   430-0620N  M W    1302BPATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+(F)    48  CM   1102         1  CONST PLAN READING     3.0   730-0920   M      1302APATRICK TAYLOR  CI-VISUAL&TECH   OROOJI F
+(F)    48  CM   1102         2  CONST PLAN READING     3.0  1030-1220   M      1302APATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+(F)    48  CM   1102         3  CONST PLAN READING     3.0   130-0320   M      1302APATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+ 25   125  CM   2101         1  CNST MATL METHD I      3.0   430-0550N  M W    0010 LOCKETT                          HEUMANN S
+  9    81  CM   2102         1  CONSTRUCTION EQUIP     3.0   900-1020    T TH  0155 COATES                           WANG C
+  2   123  CM   2103         1  CONST MATL METHD II    3.0   600-0850N    W    0009 LOCKETT                          FRIEDLAND C
+(F)    25  CM   2105         4  CONST SURVEYING        3.0   230-0420   M W                                          TRAHAN G
+ 12    13  CM   2105         1  CONST SURVEYING        3.0   730-0920   M                                            TRAHAN G
+(F)    25  CM   2105         2  CONST SURVEYING        3.0   930-1120   M                                            TRAHAN G
+(F)    25  CM   2105         3  CONST SURVEYING        3.0  1230-0220   M                                            TRAHAN G
+(F)    43  CM   2215         1  CONSTRUCTION SAFETY    3.0  1030-1150    T TH  0110 OLD FORESTRY    CI-WRITTEN&SPOK  PECQUET C
+(F)    40  CM   2215         2  CONSTRUCTION SAFETY    3.0   130-0250    T TH  0110 OLD FORESTRY    CI-WRITTEN&SPOK  PECQUET C
+ 15    79  CM   2501         1  STRUCTURAL PRINCIPL    3.0  1200-0120    T TH  0103 TUREAUD HALL                     HEBERT K
+(F)    40  CM   3111         1  CONST ESTIMATING       3.0   930-1020   M W    0155 COATES                           HEUMANN S
+ 30    10  CM   3111         2  CONST ESTIMATING       3.0   930-1020   M W    0155 COATES                           HEUMANN S
+ 17    31  CM   3145         1  COMMERCIAL ESTIMAT     3.0   600-0850N   T     1302APATRICK TAYLOR                   HEUMANN S
+ 27    21  CM   3356         1  INDUST CONST EST       3.0   600-0850N  M      1302APATRICK TAYLOR                   DELATTE G
+ 36    12  CM   3356         2  INDUST CONST EST       3.0   600-0850N    W    1302APATRICK TAYLOR                   DELATTE G
+ 39    51  CM   3502         1  CNST CIVIL MATLS       3.0   300-0420    T TH  E134 HOWE RUSSELL E                   HEBERT K
+ 25    95  CM   3503         1  SOILS IN CONSTRUCT     3.0   300-0420    T TH  E137 HOWE RUSSELL E                   HASSAN M
+  1    43  CM   3504         1  APPLIED STRUCT DSGN    3.0   900-1020    T TH  0101 TUREAUD HALL                     HEBERT K
+  1    46  CM   4101         1  CONST SCHED CST CTL    3.0   930-1020   M W    0206 TUREAUD HALL                     ZHU Y
+  9    38  CM   4101         2  CONST SCHED CST CTL    3.0   930-1020   M W    0206 TUREAUD HALL                     ZHU Y
+  6    56  CM   4202         1  CONSTRUCT ENTERPRISE   3.0   730-0850    T TH  0217 OLD FORESTRY    CI-WRITTEN&SPOK  SCHNEIDER D
+(F)     1  CM   4208 CLI     1  INTERNSHIP IN CONST    3.0  TBA                                     PERMIS OF DEPT   BERRYMAN C
+  6    94  CM   4211         1  CNST CONTRACTING       3.0   130-0250    T TH  0152 COATES                           SCHNEIDER D
+ 61    32  CM   4221         1  CNST PROJECT MGMT      3.0   600-0850N  M      0103 TUREAUD HALL    CI-WRITTEN&TECH  HARPER C
+(F)    45  CM   4355         1  DRIVEN PILE CNST       3.0  1200-0120    T TH  1835 BUS ED N WING                    FRIEDLAND C
+ 25    15  CM   4358         1  INDUST ELEC INSTALL    3.0   600-0850N     TH  0110 OLD FORESTRY                     MILLET K
+  3     2  CM   7207 RES     1  INDEPENDENT STUDY      3.0  TBA                                                      BERRYMAN C
+(F)     1  CM   7207 RES     2  INDEPENDENT STUDY      3.0  TBA                                                      HARPER C
+ 98     1  CM   7207 RES     3  INDEPENDENT STUDY      3.0  TBA
+  8     2  CM   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      FRIEDLAND C
+ 19     1  CM   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      HASSAN M
+ 10        CM   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      ZHU Y
+ 10        CM   8000 RES     4  THESIS RESEARCH        1-12 TBA
+ 48    12  CM   7220         1  BIM FOR CONSTRUCTION   3.0   200-0450      TH  0217 OLD FORESTRY    75-99% WEB BASE  ZHU Y
+ 47    13  CM   7010         1  RESEARCH METHODS       3.0   200-0450     W    3213 PATRICK TAYLOR  75-99% WEB BASE  WANG C

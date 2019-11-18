@@ -1,0 +1,13 @@
+  7    21  LATN 1001         1  ELEMENTARY LATIN       4.0   830-0920   MTWTH  0135 LOCKETT                          HOWLAND B
+  3    25  LATN 1001         2  ELEMENTARY LATIN       4.0   930-1020   MTWTH  0137 LOCKETT                          BATINSKI E
+  1    27  LATN 1001         3  ELEMENTARY LATIN       4.0  1030-1120   MTWTH  0114 AUDUBON                          ANDERSON P
+  5    23  LATN 1001         4  ELEMENTARY LATIN       4.0  1130-1220   MTWTH  1120 PATRICK TAYLOR                   WATANABE A
+  5    23  LATN 1001         5  ELEMENTARY LATIN       4.0  1230-0120   MTWTH  0211 TUREAUD HALL                     WATANABE A
+  7    21  LATN 1001         6  ELEMENTARY LATIN       4.0   130-0220   MTWTH  0236 COATES                           BATINSKI E
+  4    16  LATN 2051         1  INTERMEDIATE LATIN     4.0   730-0820   MTWTH  0112 PRESCOTT                         ANDERSON P
+  8    12  LATN 2051         2  INTERMEDIATE LATIN     4.0   830-0920   MTWTH  0116 PRESCOTT                         KATCHMER M
+  1    24  LATN 2051         3  INTERMEDIATE LATIN     4.0   930-1020   MTWTH  0218 STUBBS                           KATCHMER M
+  5    15  LATN 2053         1  INTERMEDIATE LATIN     3.0   930-1020   M W F  0118 PRESCOTT                         WARGA R
+ 10    10  LATN 2053         2  INTERMEDIATE LATIN     3.0  1200-0120    T TH  0118 PRESCOTT                         KATCHMER M
+  6    24  LATN 2066         1  GOLDEN AGE PROSE       3.0  1130-1220   M W F  0113 LOCKETT                          BATINSKI E
+ 10     5  LATN 4004         1  ROMAN COMEDY           3.0  1230-0120   M W F  0334 HODGES HALL                      FLETCHER K

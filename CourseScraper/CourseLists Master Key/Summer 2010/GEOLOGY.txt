@@ -1,0 +1,17 @@
+(H)    15  GEOL 1001         2  GEN GEOL PHYSICAL      3.0  TBA                                                      ANDERSON L
+(H)    15  GEOL 1003         1  GEN GEOL HISTORICAL    3.0  TBA                                                      ANDERSON L
+(H)    15  GEOL 1601 LAB     2  PHYSICAL GEOL LAB      1.0  TBA                                                      ANDERSON L
+(H)    15  GEOL 1602 LAB     1  HISTORICAL GEOL LAB    1.0  TBA                                                      ANDERSON L
+(H)    24  GEOL 3666 LAB     1  FIELD GEOLOGY          6.0  TBA                                                      KELLEY D
+ 98     1  GEOL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ANDERSON L
+ 98     1  GEOL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      DUTROW B
+ 97     2  GEOL 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      FERRELL R
+ 98     1  GEOL 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      HENRY D
+ 98     1  GEOL 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      LORENZO J
+ 95     4  GEOL 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      NUNN J
+ 98     1  GEOL 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      SCHIEBOUT J
+ 96     3  GEOL 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BAO H
+ 96     3  GEOL 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      ENGEL A
+ 98     1  GEOL 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      WEBB A
+ 50    50  GEOL 1001         1  GEN GEOL PHYSICAL      3.0  1100-1230   MTWTF  E137 HOWE RUSSELL CO                  STIEGLER M
+  2    25  GEOL 1601 LAB     1  PHYSICAL GEOL LAB      1.0  1240-0330   M W    E213 HOWE RUSSELL CO                  SUN T

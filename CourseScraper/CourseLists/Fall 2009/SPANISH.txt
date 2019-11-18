@@ -1,0 +1,82 @@
+(F)    28  SPAN 1101         1  ELEMENTARY SPANISH     4.0   740-0830    TWTF  0121 ALLEN                            VALADEZ R
+  1    27  SPAN 1101         2  ELEMENTARY SPANISH     4.0   840-0930    TWTF  0212 AUDUBON                          MCNEIL P
+(F)    28  SPAN 1101         3  ELEMENTARY SPANISH     4.0   940-1030    TWTF  0212 AUDUBON                          MCNEIL P
+(F)    28  SPAN 1101         4  ELEMENTARY SPANISH     4.0   940-1030    TWTF  0023 ALLEN                            MCNEIL P
+  1    27  SPAN 1101         5  ELEMENTARY SPANISH     4.0  1040-1130    TWTF  0212 AUDUBON                          MCNEIL P
+  1    27  SPAN 1101         6  ELEMENTARY SPANISH     4.0  1140-1230    TWTF  0031 ALLEN                            MCNEIL P
+  1    27  SPAN 1101         7  ELEMENTARY SPANISH     4.0  1240-0130    TWTF  0106 NICHOLSON                        MCNEIL P
+ 13    15  SPAN 1102         1  ELEMENTARY SPANISH     4.0   740-0830    TWTF  0023 ALLEN                            GARZA J
+  7    21  SPAN 1102         2  ELEMENTARY SPANISH     4.0   840-0930    TWTF  0035 ALLEN                            GARZA J
+(F)    28  SPAN 1102         3  ELEMENTARY SPANISH     4.0   940-1030    TWTF  0055 ALLEN                            GARZA J
+  1    27  SPAN 1102         4  ELEMENTARY SPANISH     4.0  1040-1130    TWTF  0204 AG ADMIN BLDG                    EVERETT J
+(F)    28  SPAN 1102         5  ELEMENTARY SPANISH     4.0  1140-1230    TWTF  0243 LOCKETT                          MCNEIL P
+(F)    28  SPAN 1102         6  ELEMENTARY SPANISH     4.0  1240-0130    TWTF  0212 AUDUBON                          EVERETT J
+  1    27  SPAN 1152        14  INTENSIVE-BEGIN SPAN   4.0   610-0800N  M W    0209 COATES                           SCHNEIDER J
+  1    27  SPAN 1152         1  INTENSIVE-BEGIN SPAN   4.0   840-0930    TWTF  0248 AG ADMIN BLDG                    SULLIVAN S
+(F)    28  SPAN 1152         2  INTENSIVE-BEGIN SPAN   4.0   940-1030    TWTF  0239 LOCKETT                          BAUZA C
+  1    27  SPAN 1152         3  INTENSIVE-BEGIN SPAN   4.0   940-1030    TWTF  0204 AG ADMIN BLDG                    NEMOGA MORENO
+(F)    28  SPAN 1152         4  INTENSIVE-BEGIN SPAN   4.0  1040-1130    TWTF  0023 ALLEN                            BAUZA C
+(F)    28  SPAN 1152         5  INTENSIVE-BEGIN SPAN   4.0  1040-1130    TWTF  0112 AUDUBON                          MCNEIL P
+  4    24  SPAN 1152         6  INTENSIVE-BEGIN SPAN   4.0  1140-1230    TWTF  0137 ALLEN                            LOTTEN S
+(F)    26  SPAN 1152         7  INTENSIVE-BEGIN SPAN   4.0  1140-1230    TWTF  0212 AUDUBON                          BAUZA C
+(F)    26  SPAN 1152         8  INTENSIVE-BEGIN SPAN   4.0  1240-0130    TWTF  0055 ALLEN                            LOTTEN S
+(F)    28  SPAN 1152         9  INTENSIVE-BEGIN SPAN   4.0  1240-0130    TWTF  0240 LOCKETT                          BAUZA C
+  2    26  SPAN 1152        10  INTENSIVE-BEGIN SPAN   4.0  1240-0130    TWTF  0204 AG ADMIN BLDG                    NEMOGA MORENO
+  2    26  SPAN 1152        11  INTENSIVE-BEGIN SPAN   4.0   140-0230    TWTF  0248 AG ADMIN BLDG                    NEMOGA MORENO
+  5    23  SPAN 1152        12  INTENSIVE-BEGIN SPAN   4.0   240-0330    TWTF  0027 ALLEN                            LOTTEN S
+ 15    11  SPAN 1152        13  INTENSIVE-BEGIN SPAN   4.0   240-0330    TWTF  0248 AG ADMIN BLDG                    NEMOGA MORENO
+  4    18  SPAN 2101         1  INTERMED SPANISH       3.0   740-0830   M W F  0027 ALLEN                            MATUS I
+  1    21  SPAN 2101         2  INTERMED SPANISH       3.0   840-0930   M W F  0114 PRESCOTT                         QUESTELL-LOPE
+  2    20  SPAN 2101         3  INTERMED SPANISH       3.0   840-0930   M W F  0027 ALLEN                            ESPINOZA T
+  1    21  SPAN 2101         4  INTERMED SPANISH       3.0   940-1030   M W F  0121 ALLEN                            AZENARA K
+(F)    22  SPAN 2101         5  INTERMED SPANISH       3.0  1040-1130   M W F  0240 LOCKETT                          QUESTELL-LOPE
+(F)    22  SPAN 2101         6  INTERMED SPANISH       3.0  1040-1130   M W F  0034 ALLEN                            AZENARA K
+(F)    22  SPAN 2101         7  INTERMED SPANISH       3.0  1140-1230   M W F  0208 WILLIAMS                         MATUS I
+(F)    22  SPAN 2101         8  INTERMED SPANISH       3.0  1140-1230   M W F  0027 ALLEN                            AZENARA K
+(F)    22  SPAN 2101         9  INTERMED SPANISH       3.0  1240-0130   M W F  0032 ALLEN                            AZENARA K
+(F)    22  SPAN 2101        10  INTERMED SPANISH       3.0  1240-0130   M W F  0218 STUBBS                           QUESTELL-LOPE
+(F)    22  SPAN 2101        11  INTERMED SPANISH       3.0   140-0230   M W F  0034 ALLEN                            FORKNER B
+  1    21  SPAN 2101        12  INTERMED SPANISH       3.0   240-0330   M W F  0034 ALLEN                            FORKNER B
+  8    14  SPAN 2101        13  INTERMED SPANISH       3.0   240-0330   M W F  0035 ALLEN                            MATUS I
+  5    17  SPAN 2101        14  INTERMED SPANISH       3.0   240-0330   M W F  0103 COATES                           QUESTELL-LOPE
+  2    20  SPAN 2101        15  INTERMED SPANISH       3.0   340-0430   M W F  0103 COATES                           QUESTELL-LOPE
+(F)    22  SPAN 2101        16  INTERMED SPANISH       3.0   610-0730N  M W    0112 AUDUBON                          AZENARA K
+ 10    12  SPAN 2102         1  INTERMED SPANISH       3.0   740-0830   M W F  0031 ALLEN                            ESPINOZA T
+  1    21  SPAN 2102         2  INTERMED SPANISH       3.0   840-0930   M W F  0031 ALLEN                            BYRD L
+(F)    22  SPAN 2102         3  INTERMED SPANISH       3.0   940-1030   M W F  0129 ALLEN                            BYRD L
+  1    21  SPAN 2102         4  INTERMED SPANISH       3.0  1040-1130   M W F  0027 ALLEN                            FORKNER B
+  2    20  SPAN 2102         5  INTERMED SPANISH       3.0  1040-1130   M W F  0215 TUREAUD HALL                     MARTINEZ N
+  2    20  SPAN 2102         6  INTERMED SPANISH       3.0  1140-1230   M W F  0035 ALLEN                            BAENA A
+(F)    22  SPAN 2102         7  INTERMED SPANISH       3.0  1140-1230   M W F  0015 ATKINSON                         MARTINEZ N
+  1    21  SPAN 2102         8  INTERMED SPANISH       3.0  1240-0130   M W F  0114 PRESCOTT                         BYRD L
+(F)    22  SPAN 2102         9  INTERMED SPANISH       3.0  1240-0130   M W F  0012 FRANCIONI                        MARTINEZ N
+(F)    23  SPAN 2102        10  INTERMED SPANISH       3.0  1240-0130   M W F  0203 AG ADMIN BLDG                    FORKNER B
+(F)    22  SPAN 2102        11  INTERMED SPANISH       3.0   140-0230   M W F  0015 ATKINSON                         MARTINEZ N
+(F)    22  SPAN 2102        12  INTERMED SPANISH       3.0   140-0230   M W F  0027 ALLEN                            BAENA A
+  2    20  SPAN 2102        13  INTERMED SPANISH       3.0   240-0330   M W F  0015 ATKINSON                         BYRD L
+  1    21  SPAN 2102        14  INTERMED SPANISH       3.0   610-0730N  M W    0032 ALLEN                            MARTINEZ N
+  2    18  SPAN 2155         1  SPAN TEXTUAL COMMENT   3.0  1040-1130   M W F  0208 WILLIAMS                         MATUS I
+(F)    20  SPAN 2155         5  SPAN TEXTUAL COMMENT   3.0  1040-1130   M W F  0138 PRESCOTT                         BAENA A
+  1    19  SPAN 2155         2  SPAN TEXTUAL COMMENT   3.0  1240-0130   M W F  0208 WILLIAMS                         MATUS I
+  3    17  SPAN 2155         3  SPAN TEXTUAL COMMENT   3.0   240-0330   M W F  0138 PRESCOTT                         BAENA A
+  5    15  SPAN 2155         4  SPAN TEXTUAL COMMENT   3.0   340-0430   M W F  0138 PRESCOTT                         BAENA A
+  1    16  SPAN 2156         1  ADV ORAL COMMUNICATI   3.0  1040-1130   M W F  0205 COATES          PERMIS OF DEPT   BYRD L
+(F)    17  SPAN 2156         2  ADV ORAL COMMUNICATI   3.0   140-0300    T TH  0282 LOCKETT         PERMIS OF DEPT   PARKER M
+ 12     3  SPAN 3001 LAB     1  TUT LEARN OF SPAN      1.0   310-0400    T     0128 PRESCOTT                         JUVES M
+(F)    21  SPAN 3010         1  ADV SPAN GRAM & COMP   3.0  1140-1230   M W F  0206 WILLIAMS        PERMIS OF DEPT   MORRIS A
+(F)    21  SPAN 3010         2  ADV SPAN GRAM & COMP   3.0  1240-0130   M W F  0206 WILLIAMS        PERMIS OF DEPT   MORRIS A
+(F)    21  SPAN 3020         1  LITERARY ANALYSIS      3.0  1040-1130   M W F  0128 ALLEN                            HENEGHAN D
+  2    18  SPAN 3044         1  LAT AM LIT II: IND-P   3.0   140-0230   M W F  0218 STUBBS                           FERNANDEZ-PAL
+  4    16  SPAN 3071         1  SURVEY SPAN LIT        3.0   840-0930   M W F  0324 HODGES HALL                      RICAPITO J
+(F)    20  SPAN 3073         1  ADV RDGS SPAN CIVIL    3.0   240-0330   M W F  0019 ALLEN                            HENEGHAN D
+  7    13  SPAN 4005         1  STRUCT OF SPAN LANG    3.0   240-0330   M W F  0243 LOCKETT                          OROZCO R
+ 10    10  SPAN 4053         1  SPEC TOP GOLD AGE PR   3.0  1140-1230   M W F  0324 HODGES HALL                      RICAPITO J
+ 12     8  SPAN 4147         1  LAT AM LIT:1960-PRES   3.0   340-0430   M W F  0034 ALLEN                            FERNANDEZ-PAL
+  7    13  SPAN 4602         1  SPANISH PHONETICS      3.0   140-0300    T TH  0034 ALLEN                            OROZCO R
+ 10    10  SPAN 4603         1  APL SPAN LINGUISTICS   3.0   310-0430    T TH  0120 PRESCOTT                         THOMS J
+ 13     7  SPAN 7946 SEM     1  SPAN AM LIT: 19 C-PR   3.0   440-0730N     TH  0138 PRESCOTT                         MARTINS L
+ 11     9  SPAN 7984 SEM     1  SPAN IN U. S.          3.0   440-0730N    W    0324 HODGES HALL                      OROZCO R
+ 15     5  SPAN 7990 SEM     1  SP TOP HISP CRITICIS   3.0   440-0730N  M      0112 PRESCOTT                         MORRIS A
+(F)     1  SPAN 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   KING J
+(F)     1  SPAN 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   FERNANDEZ-PAL
+(F)     1  SPAN 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MORRIS A

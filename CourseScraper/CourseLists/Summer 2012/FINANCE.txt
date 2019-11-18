@@ -1,0 +1,17 @@
+ 17    33  FIN  3351         1  PRINC REAL ESTATE      3.0   600-0830N   T TH  1111 PATRICK TAYLOR                   KELLY J
+  7    13  FIN  3715         1  BUSINESS FINANCE       3.0  0840-0940   MTWTF  3141 PATRICK TAYLOR                   YANG Y
+(F)    21  FIN  3715         5  BUSINESS FINANCE       3.0  1100-1200   MTWTF  1118 PATRICK TAYLOR                   VO L
+(F)     2  FIN  3845         1  STU MGD INVEST FUND    3.0  0950-1050   MTWTF  3131 PATRICK TAYLOR  PERMIS OF INST
+ 99        FIN  3900 RES     1  DIRECT STUDY & RESCH   1-6  TBA
+ 94     5  FIN  3930 CLI     1  FINANCE INTERNSHIP     3.0  TBA
+(F)     2  FIN  7845         1  STU MGD INVEST FUND    3.0  0950-1050   MTWTF  2228 PATRICK TAYLOR  PERMIS OF INST
+ 96     3  FIN  7900 RES     1  IND STUDY IN FIN       3.0  TBA
+ 14     1  FIN  7900 RES     2  IND STUDY IN FIN       3.0  TBA                                                      LAWRENCE F
+  5        FIN  7930 CLI     1  FINANCE INTERNSHIP     3.0  TBA
+ 99        FIN  8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      LIN J
+ 97     2  FIN  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      LIN J
+  7    13  FIN  3715         4  BUSINESS FINANCE       3.0  0730-0900   MTWTF  3131 PATRICK TAYLOR                   FANG Y
+(F)    20  FIN  3715         2  BUSINESS FINANCE       3.0  0910-1040   MTWTF  3140 PATRICK TAYLOR                   UTETE G
+  5    15  FIN  3715         3  BUSINESS FINANCE       3.0   130-0300   MTWTF  3140 PATRICK TAYLOR                   LE H
+  3    38  FIN  3716         1  FINANCIAL MANAGEMENT   3.0  0910-1040   MTWTF  2161 PATRICK TAYLOR                   HWANG H
+  8    28  FIN  3716         2  FINANCIAL MANAGEMENT   3.0  1040-1210   MTWTF  3141 PATRICK TAYLOR                   WANG H

@@ -1,0 +1,32 @@
+(F)    60  MKT  3401         2  PRIN OF MARKETING      3.0   930-1020   M W F  1845 BEC N UNDERGRAD                  SANTAELLA M
+(F)    60  MKT  3401         3  PRIN OF MARKETING      3.0  1030-1120   M W F  1845 BEC N UNDERGRAD                  SANTAELLA M
+(F)    40  MKT  3401         6  PRIN OF MARKETING      3.0  1130-1220   M W F  1745 BEC N UNDERGRAD                  LIU X
+  1    59  MKT  3401         4  PRIN OF MARKETING      3.0   130-0220   M W F  1845 BEC N UNDERGRAD                  SANTAELLA M
+  2    58  MKT  3401         5  PRIN OF MARKETING      3.0   230-0320   M W F  1845 BEC N UNDERGRAD                  SANTAELLA M
+201   799  MKT  3401         1  PRIN OF MARKETING      3.0   130-0250    T TH  0101 GYM AUDITORIUM                   KARAM T
+(F)    50  MKT  3411         1  CONSUM ANALYS & BEHA   3.0   900-1020    T TH  2172 PATRICK TAYLOR                   KUO A
+(F)    48  MKT  3411         2  CONSUM ANALYS & BEHA   3.0  1030-1150    T TH  2172 PATRICK TAYLOR                   KUO A
+(F)    38  MKT  3413         1  MARKETING RESEARCH     3.0   130-0250    T TH  1225 BEC S GRAD PAVI                  BURNS A
+  8    32  MKT  3413         2  MARKETING RESEARCH     3.0   300-0420    T TH  1225 BEC S GRAD PAVI                  BURNS A
+(F)    30  MKT  3421         1  MKT COMM: PROMOTION    3.0  1030-1150    T TH  1321 BEC S GRAD PAVI SVC LEARNING     FOLSE J
+  1    29  MKT  3421         2  MKT COMM: PROMOTION    3.0  1200-0120    T TH  1321 BEC S GRAD PAVI SVC LEARNING     FOLSE J
+(F)    40  MKT  3431         1  RETAILING MGT          3.0   130-0220   M W F  1425 BEC S GRAD PAVI                  HILER J
+  1    39  MKT  3500         1  MKT TOOLS FUNDAMENTA   3.0  1200-0120    T TH  1225 BEC S GRAD PAVI                  BLACK W
+(F)    40  MKT  4423         1  SALES MANAGEMENT       3.0   930-1020   M W F  1835 BEC N UNDERGRAD                  MANGUS S
+  4    23  MKT  4440         1  MKT ON THE INTERNET    3.0   130-0250    T TH  1325 BEC S GRAD PAVI SVC LEARNING     MINTZ O
+ 20    20  MKT  4440         2  MKT ON THE INTERNET    3.0   300-0420    T TH  1325 BEC S GRAD PAVI SVC LEARNING     MINTZ O
+(F)    22  MKT  4443         1  INTERNATIONAL MKT      3.0  1200-0120    T TH  1305 BEC S GRAD PAVI                  WU J
+ 23    17  MKT  4443         2  INTERNATIONAL MKT      3.0   130-0250    T TH  1305 BEC S GRAD PAVI                  WU J
+ 92     7  MKT  4445 CLI     1  INTERNSHIP IN MKT      1-6  TBA                                     PERMIS OF DEPT   BURNS A
+ 98     1  MKT  4445 CLI     2  INTERNSHIP IN MKT      1-6  TBA                                     PERMIS OF DEPT   KARAM T
+ 14    26  MKT  4451         1  MARKETING MANAGEMNT    3.0   900-1020    T TH  1325 BEC S GRAD PAVI                  RICE D
+(F)    42  MKT  4451         2  MARKETING MANAGEMNT    3.0  1030-1150    T TH  1325 BEC S GRAD PAVI                  RICE D
+ 10    10  MKT  4477 RES     2  IND STDY ADV MKT PRB   1-6   500-0750N     TH  1120 BEC S GRAD PAVI PERMIS OF DEPT   HERRICK C
+ 93     6  MKT  4477 RES     1  IND STDY ADV MKT PRB   1-6  TBA                                     PERMIS OF DEPT   KARAM T
+ 96     3  MKT  4477 RES     3  IND STDY ADV MKT PRB   1-6  TBA                                     PERMIS OF DEPT   FOLSE J
+ 97     2  MKT  4477 RES     4  IND STDY ADV MKT PRB   1-6  TBA                                                      SUMNERS G
+  7    33  MKT  7130         2  MKT RES & BRND ANLSY   3.0   900-1020    T TH  2520 BEC WEST AUDITO                  BLACK W
+ 19     1  MKT  7477 RES     1  SEM ADV MKTG PROBLMS   3.0  TBA                                     PERMIS OF DEPT   SANTAELLA M
+ 14     6  MKT  7477 RES     2  SEM ADV MKTG PROBLMS   3.0  TBA                                     PERMIS OF DEPT   BLACK W
+  7     3  MKT  7486         2  APPLIC OF MKT THEORY   3.0  1000-1250      TH                                        NIEDRICH R
+ 96     3  MKT  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      NIEDRICH R

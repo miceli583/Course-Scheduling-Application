@@ -1,0 +1,69 @@
+  3   117  ANSC 1011         1  INTRO TO ANML SCIENC   3.0   840-0930   M W F  0102 ALLEN                            GENTRY L
+ 20        ANSC 2001 RES     1  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   ARYANA K
+ 20        ANSC 2001 RES     2  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   BIDNER T
+ 20        ANSC 2001 RES     3  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   BONDIOLI K
+ 20        ANSC 2001 RES     4  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   GENTRY G
+ 19     1  ANSC 2001 RES     5  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   GENTRY L
+ 20        ANSC 2001 RES     6  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   GODKE R
+ 19     1  ANSC 2001 RES     7  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   INGRAM D
+ 20        ANSC 2001 RES    10  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   MCMILLIN K
+ 20        ANSC 2001 RES    11  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   MILLER J
+ 20        ANSC 2001 RES    12  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   SATTERLEE D
+ 20        ANSC 2001 RES    13  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   SOUTHERN L
+ 17     3  ANSC 2001 RES    14  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   THOMPSON D
+(F)    35  ANSC 3033         1  EL LIVE-CARCASS EVAL   3.0   140-0230    T     0012 FRANCIONI                        BIDNER T
+ 38     2  ANSC 3051 RES     1  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   ARYANA K
+ 98     1  ANSC 3051 RES     2  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   BIDNER T
+ 98     1  ANSC 3051 RES     3  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   BONDIOLI K
+ 99        ANSC 3051 RES     4  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   GENTRY G
+ 99        ANSC 3051 RES     5  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   GENTRY L
+ 99        ANSC 3051 RES     6  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   GODKE R
+ 98     1  ANSC 3051 RES     7  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   INGRAM D
+ 99        ANSC 3051 RES     8  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   MCMILLIN K
+ 98     1  ANSC 3051 RES     9  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   MILLER J
+ 99        ANSC 3051 RES    10  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   SATTERLEE D
+ 99        ANSC 3051 RES    11  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   SOUTHERN L
+ 95     4  ANSC 3051 RES    12  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   THOMPSON D
+  2    14  ANSC 3053         1  MEATS                  3.0   810-1000    T     0012 FRANCIONI                        MCMILLIN K
+  8    12  ANSC 3053         2  MEATS                  3.0   810-1000    T     0012 FRANCIONI                        MCMILLIN K
+  3    32  ANSC 3060         1  COMP ANIM HLTH & DIS   3.0  1140-1230   M W F  0213 TUREAUD HALL                     RITCHIE J
+ 30    20  ANSC 4001         1  PARAS EFF ON AN PERF   2.0   140-0230     W    0215 TUREAUD HALL                     MILLER J
+ 11    44  ANSC 4009         1  ANIMAL NUTRITION       3.0   840-0930   M W F  0203 TUREAUD HALL                     SOUTHERN L
+ 18    22  ANSC 4018         1  PPLES ANIML GENETICS   4.0  1040-1130   M W F  0229 TUREAUD HALL                     GARCIA M
+  2    28  ANSC 4045         1  REP PHYL FARM ANIMAL   3.0   940-1030   M W F  0215 TUREAUD HALL                     GODKE R
+ 13    17  ANSC 4050         1  ANIMAL BIOTECHNOLOGY   3.0   240-0400   M W    0116 TUREAUD HALL                     BONDIOLI K
+(F)     7  ANSC 4092 SEM     1  AN SC PROSEMINAR       1.0   140-0230   M                                            WILLIAMS C
+  8     7  ANSC 7001         1  EXPERIMENTAL METHODS   2.0  1040-1130   M W                                          THOMPSON D
+ 20        ANSC 7061 RES     1  RES ANIMAL SCIENCE     1-6  TBA                                                      ARYANA K
+ 20        ANSC 7061 RES     2  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   BIDNER T
+ 20        ANSC 7061 RES     3  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   BONDIOLI K
+ 20        ANSC 7061 RES     4  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   GENTRY G
+ 18     2  ANSC 7061 RES     5  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   GODKE R
+ 20        ANSC 7061 RES     6  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   INGRAM D
+ 20        ANSC 7061 RES     7  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   MCMILLIN K
+ 20        ANSC 7061 RES     8  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   MILLER J
+ 20        ANSC 7061 RES     9  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   SATTERLEE D
+ 20        ANSC 7061 RES    10  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   SOUTHERN L
+ 18     2  ANSC 7061 RES    11  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   THOMPSON D
+  9     6  ANSC 7091 SEM     1  SEMINAR                1.0   340-0430   M      0012 FRANCIONI                        GENTRY G
+  9     1  ANSC 7900         1  BIOL OF REPRO          1-6  TBA                                     PERMIS OF DEPT   GODKE R
+ 20        ANSC 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BIDNER T
+ 17     3  ANSC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BONDIOLI K
+ 17     3  ANSC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      GENTRY G
+ 18     2  ANSC 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      GODKE R
+ 20        ANSC 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      INGRAM D
+ 20        ANSC 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      MCMILLIN K
+ 18     2  ANSC 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      MILLER J
+ 20        ANSC 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      SATTERLEE D
+ 19     1  ANSC 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      SOUTHERN L
+ 19     1  ANSC 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      THOMPSON D
+ 20        ANSC 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BIDNER T
+ 19     1  ANSC 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BONDIOLI K
+ 19     1  ANSC 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      GENTRY G
+ 18     2  ANSC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      GODKE R
+ 20        ANSC 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      INGRAM D
+ 18     2  ANSC 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      MCMILLIN K
+ 20        ANSC 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      MILLER J
+ 20        ANSC 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      SATTERLEE D
+ 18     2  ANSC 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      SOUTHERN L
+ 19     1  ANSC 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      THOMPSON D

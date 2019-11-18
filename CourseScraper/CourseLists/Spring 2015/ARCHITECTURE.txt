@@ -1,0 +1,34 @@
+  1    14  ARCH 1002 LAB     1  ARCH DESIGN II         6.0   830-1220   M W F  0313 DESIGN BUILDING                  WATSON G
+(F)    20  ARCH 1002 LAB     2  ARCH DESIGN II         6.0   830-1220   M W F  0313 DESIGN BUILDING                  WATSON G
+  6     4  ARCH 1102 LAB     1  HNRS ARCH DESN II      6.0   830-1220   M W F                                        WATSON G
+  1    13  ARCH 2002 LAB     1  ARCH DESIGN IV         6.0   100-0450   M W F                       CI-SPOKEN&VISUA  KELSCH K
+  1    11  ARCH 2002 LAB     2  ARCH DESIGN IV         6.0   100-0450   M W F                       CI-SPOKEN&VISUA  WILLIAMS E
+ 27    26  ARCH 2006         1  ARCH TOPICS IV         3.0   130-0250    T TH  0313 DESIGN BUILDING CI-WRITTEN&VISU  DOYLE S
+ 18   132  ARCH 2008         1  HISTORY OF ARCH II     3.0   830-0920   M W F  0103 DESIGN BUILDING                  SPIETH D
+ 20     2  ARCH 2102 LAB     1  HNRS ARCH DESN IV      6.0   100-0450   M W F                       CI-WRITTEN&VISU  KELSCH K
+ 44   111  ARCH 2401         1  APPRECIATION OF ARCH   3.0   300-0420    T TH  0103 DESIGN BUILDING                  WILLIAMS E
+(F)    15  ARCH 3002 LAB     1  ARCH DESN VI           6.0   100-0450   M W F                       CI-WRITTEN&SPOK  DORAN W
+(F)    16  ARCH 3002 LAB     2  ARCH DESN VI           6.0   100-0450   M W F                       CI-SPOKEN&VISUA  BONIER C
+(F)   155  ARCH 3008         2  ENVIRON CONTROL SYST   3.0  1030-1150    T TH  0103 DESIGN BUILDING                  PITTS J
+ 13     2  ARCH 3102 LAB     1  HNRS ARCH DESIGN VI    6.0   100-0450   M W F
+(F)    19  ARCH 4002 LAB     1  ARCH DESIGN VIII       6.0   100-0450   M W F                                        ZWIRN R
+ 15    20  ARCH 4007         2  HIST OF ARCH III       3.0  1030-1120   M W F  0015 ATKINSON                         ZWIRN R
+ 10        ARCH 4102 LAB     1  HNRS ARCH DESN VIII    6.0   100-0450   M W F                                        ZWIRN R
+  3    12  ARCH 4202 LAB     1  ARCH DESIGN VIII OC    6.0  TBA                                                      DESMOND J
+  8     4  ARCH 4221 SEM     4  SEL TOP IN ARCHITECT   1-3   600-0850N   T     0118 PRESCOTT                         LIPSCOMB R
+(F)    12  ARCH 4221 SEM     1  SEL TOP IN ARCHITECT   1-3  TBA                                                      DESMOND J
+(F)    12  ARCH 4221 SEM     2  SEL TOP IN ARCHITECT   1-3  TBA                                                      DESMOND J
+(F)    11  ARCH 4221 SEM     3  SEL TOP IN ARCHITECT   1-3  TBA                                                      DESMOND J
+(F)    11  ARCH 4353         1  PPLES/PRACT LAND DEV   3.0   600-0850N    W                                          BAQUE A
+  3    12  ARCH 4700 RES     2  RESEARCH METHODS       3.0   600-0850N  M                           CI-WRITTEN&SPOK  KELSCH K
+  8     7  ARCH 4700 RES     1  RESEARCH METHODS       3.0   300-0420    T TH                                        ERDMAN J
+(F)    14  ARCH 5001 LAB     1  COMP ARCH DESIGN       6.0   100-0450   M W F                       CI-WRITTEN&VISU  HOLTON R
+(F)    13  ARCH 5001 LAB     2  COMP ARCH DESIGN       6.0   100-0450   M W F                                        SOFRANKO T
+(F)    32  ARCH 5005         2  ADV ARCH TECHNIQUES    3.0   900-1020    T TH  0313 DESIGN BUILDING                  HOLTON R
+(F)    33  ARCH 5006         2  PROFESSIONAL PRACTIC   3.0   600-0850N  M      0201 DESIGN BUILDING                  TIPTON K
+ 10     5  ARCH 7002 LAB     1  GRAD DESN STUDIO II    6.0   100-0450   M W F                                        CROW J
+  6     9  ARCH 7004 LAB     1  GRAD DESN STUDIO IV    6.0   100-0450   M W F                                        DOYLE S
+  7     8  ARCH 7006 LAB     1  GRAD DESN STUDIO VI    6.0   100-0450   M W F                                        EMERY MCCLURE
+  8    12  ARCH 7008 SEM     1  CONTEMPORARY ARCH      3.0   600-0850N     TH                                        BONIER C
+ 23     2  ARCH 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      EMERY MCCLURE
+ 24     1  ARCH 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      CROW J

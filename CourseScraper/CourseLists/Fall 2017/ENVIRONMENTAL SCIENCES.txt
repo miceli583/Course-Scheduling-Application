@@ -1,0 +1,52 @@
+ 12   130  ENVS 1126         2  INT TO ENV SCIENCES    3.0  1230-0120   M W F  0009 LOCKETT                          JOHNSON C
+ 45    97  ENVS 1126         1  INT TO ENV SCIENCES    3.0   900-1020   M W    0009 LOCKETT                          HOU A
+121   129  ENVS 1126         3  INT TO ENV SCIENCES    3.0  TBA                                     100% WEB BASED   JOHNSON C
+  1    24  ENVS 1127         1  HONORS INTRO ENVIRON   3.0  1200-0120    T TH  3178 ENER,COAST,& EN CI-WRITTEN&SPOK  WILSON V
+  4    14  ENVS 3102         1  MATHEMATICAL METHODS   3.0  1200-0120    T TH  1280 ENER,COAST,& EN                  LAWS E
+  1     1  ENVS 3999 RES     1  UNDERGRAD RESEARCH     1-6  TBA                                     PERMIS OF INST   WILSON V
+  1     1  ENVS 3999 RES     2  UNDERGRAD RESEARCH     1-6  TBA                                     PERMIS OF INST   PACE N
+(F)     2  ENVS 3999 RES     3  UNDERGRAD RESEARCH     1-6  TBA                                     PERMIS OF INST   JOHNSON C
+  2    18  ENVS 4010         1  APPLIED ECOLOGY        3.0  1130-1220   M W    0119 TUREAUD HALL    CI-SPOKEN&VISUA  HOOPER-BUI L
+ 10    75  ENVS 4101         1  ENVIRON CHEMISTRY      3.0  1030-1120   M W F  0105 TUREAUD HALL                     PORTIER R
+ 79     6  ENVS 4101         2  ENVIRON CHEMISTRY      3.0   230-0320   M W F  0103 TUREAUD HALL                     LOMNICKI S
+  5    10  ENVS 4145         1  REMOTE SENSING ES      3.0  1030-1150    T TH  1280 ENER,COAST,& EN                  D'SA E
+ 11     8  ENVS 4149         1  DSGN ENV MGMT SYSTEM   3.0   300-0550   M      1280 ENER,COAST,& EN CI-WRITTEN&TECH  LAM S
+  9    31  ENVS 4261         1  ENERGY & ENVIRONMENT   3.0   430-0550N   T TH  0119 TUREAUD HALL    CI-WRITTEN&SPOK  UPTON G
+  6    19  ENVS 4266         1  OCEAN POLICY           3.0   600-0720N   T TH  1070 ENER,COAST,& EN                  PACE N
+  7    18  ENVS 4477         1  ENRIV TOX: INTRO & A   3.0   430-0550N   T TH  3178 ENER,COAST,& EN                  WILSON V
+ 16     9  ENVS 7041         1  ENVIRON POLICY ANAL    3.0  1200-0120    T TH  1070 ENER,COAST,& EN                  REAMS M
+ 17     8  ENVS 7047         1  ENVIRON ECON & POLCY   3.0   130-0250    T TH  0108 TUREAUD HALL                     UPTON G
+  1     1  ENVS 7900 RES     1  SPEC PROB ENV SCI      1-4  TBA                                     PERMIS OF INST   DISMUKES D
+  1        ENVS 7900 RES     2  SPEC PROB ENV SCI      1-4  TBA                                     PERMIS OF INST   WILSON V
+  5     5  ENVS 7950 SEM     2  PESTICIDE CHEMISTRY    1-6  TBA                                                      ARMBRUST K
+ 17     5  ENVS 7995 SEM     1  ENVIRONMENTL SEMINAR   1.0   100-0150       F  1070 ENER,COAST,& EN                  WILSON V
+(F)     1  ENVS 7997 RES     1  ENVIRONMENTAL PRACTI   1-6  TBA                                                      REAMS M
+(F)     1  ENVS 7997 RES     2  ENVIRONMENTAL PRACTI   1-6  TBA                                     PERMIS OF INST   SNYDER B
+  2     1  ENVS 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      DISMUKES D
+  1     3  ENVS 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      ARMBRUST K
+  4        ENVS 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      HOU A
+  4        ENVS 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      JOHNSON C
+  5        ENVS 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      LAM S
+  2     2  ENVS 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      LAWS E
+  3        ENVS 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      PORTIER R
+  4        ENVS 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      REAMS M
+  4        ENVS 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      HOOPER-BUI L
+  4     1  ENVS 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      WILSON V
+  2        ENVS 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      LOMNICKI S
+  5        ENVS 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      HUDSON R
+  2        ENVS 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      DELORME D
+  1     1  ENVS 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      SNYDER B
+(F)     2  ENVS 9000 RES     1  DISSERTATION RESEAR    1-12 TBA                                                      HOU A
+  3     1  ENVS 9000 RES     2  DISSERTATION RESEAR    1-12 TBA                                                      LAM S
+  2     1  ENVS 9000 RES     3  DISSERTATION RESEAR    1-12 TBA                                                      LAWS E
+  4        ENVS 9000 RES     4  DISSERTATION RESEAR    1-12 TBA                                                      JOHNSON C
+  3     1  ENVS 9000 RES     5  DISSERTATION RESEAR    1-12 TBA                                                      HOOPER-BUI L
+  3        ENVS 9000 RES     6  DISSERTATION RESEAR    1-12 TBA                                                      PORTIER R
+(F)     4  ENVS 9000 RES     7  DISSERTATION RESEAR    1-12 TBA                                                      REAMS M
+  5     2  ENVS 9000 RES     8  DISSERTATION RESEAR    1-12 TBA                                                      WILSON V
+  3     1  ENVS 9000 RES     9  DISSERTATION RESEAR    1-12 TBA                                                      ARMBRUST K
+  1     3  ENVS 9000 RES    10  DISSERTATION RESEAR    1-12 TBA                                                      LOMNICKI S
+  2        ENVS 9000 RES    11  DISSERTATION RESEAR    1-12 TBA                                                      HUDSON R
+  2        ENVS 9000 RES    12  DISSERTATION RESEAR    1-12 TBA                                                      DELORME D
+ 99        ENVS 9000 RES    13  DISSERTATION RESEAR    1-12 TBA                                                      DISMUKES D
+  2        ENVS 9000 RES    14  DISSERTATION RESEAR    1-12 TBA                                                      SNYDER B

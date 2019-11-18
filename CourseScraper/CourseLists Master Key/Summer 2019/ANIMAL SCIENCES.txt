@@ -1,0 +1,37 @@
+ 20        ANSC 3900 RES     1  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   BONDIOLI K
+ 10        ANSC 3900 RES     2  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   COOPER R
+  5        ANSC 3900 RES     3  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   FU X
+  5        ANSC 3900 RES     4  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   JIANG Z
+  5        ANSC 3900 RES     5  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   MCMILLIN K
+  5        ANSC 3900 RES     6  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   MOREIRA V
+  3     2  ANSC 3900 RES     7  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   OBERHAUS E
+  4     1  ANSC 3900 RES     8  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   WILLIAMS C
+ 20        ANSC 7061 RES     1  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   BONDIOLI K
+  3        ANSC 7061 RES     2  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   COOPER R
+  5        ANSC 7061 RES     3  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   FU X
+  5        ANSC 7061 RES     4  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   JIANG Z
+  5        ANSC 7061 RES     5  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   MCMILLIN K
+  5        ANSC 7061 RES     6  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   MOREIRA V
+  4     1  ANSC 7061 RES     7  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   OBERHAUS E
+  3     2  ANSC 7061 RES     8  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   WILLIAMS C
+  3     2  ANSC 7091 SEM     1  SEMINAR                1.0  TBA                                                      COOPER R
+(F)     6  ANSC 7900         1  SPEC TOP ANIMAL SCI    1-6  TBA                                                      OBERHAUS E
+ 20        ANSC 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ARYANA K
+ 20        ANSC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      FU X
+ 20        ANSC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BOENEKE C
+ 19     1  ANSC 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      BONDIOLI K
+ 20        ANSC 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      JIANG Z
+ 17     3  ANSC 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      OBERHAUS E
+ 19     1  ANSC 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      MCMILLIN K
+ 20        ANSC 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      MOREIRA V
+ 19     1  ANSC 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      COOPER R
+ 20        ANSC 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      WILLIAMS C
+  4     1  ANSC 8000 RES    13  THESIS RESEARCH        1-12 TBA
+ 18     2  ANSC 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      COOPER R
+ 19     1  ANSC 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BONDIOLI K
+ 19     1  ANSC 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      MOREIRA V
+ 19     1  ANSC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      MCMILLIN K
+  3     2  ANSC 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      FU X
+  4     1  ANSC 9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   JIANG Z
+  5        ANSC 9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WILLIAMS C
+  5        ANSC 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      OBERHAUS E

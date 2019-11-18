@@ -1,0 +1,27 @@
+ 99        ENTM 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      CARLTON C
+ 97     2  ENTM 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DAVIS J
+ 96     3  ENTM 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      FOIL L
+ 99        ENTM 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      SUN Q
+ 99        ENTM 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HOOPER-BUI L
+ 97     2  ENTM 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      HUANG F
+ 99        ENTM 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      HUSSENEDER C
+ 99        ENTM 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      JOHNSON S
+ 99        ENTM 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      KERNS D
+ 99        ENTM 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      OTTEA J
+ 99        ENTM 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      REAGAN T
+ 96     3  ENTM 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      HEALY K
+ 97     2  ENTM 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      DIAZ R
+ 99        ENTM 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      SCHOWALTER T
+ 99        ENTM 8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      BEUZELIN J
+ 96     3  ENTM 8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      STOUT M
+ 97     2  ENTM 8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      SWALE D
+  1        ENTM 8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      KERNS D
+  5     1  ENTM 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CARLTON C
+ 96     3  ENTM 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DAVIS J
+ 98     1  ENTM 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      FOIL L
+ 98     1  ENTM 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      HUANG F
+ 99        ENTM 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      HUSSENEDER C
+ 93     6  ENTM 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      STOUT M
+ 97     2  ENTM 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      SWALE D
+  4     1  ENTM 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      SCHOWALTER T
+  5     1  ENTM 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      SUN Q

@@ -1,0 +1,47 @@
+  2    28  CHE  2160         1  COMP TECH CHE ENG SY   1.0  1240-0130    T     0100 TUREAUD HALL                     CYGAN M
+  5    25  CHE  2160         2  COMP TECH CHE ENG SY   1.0  1240-0130      TH  0100 TUREAUD HALL                     CYGAN M
+  5    24  CHE  2171         1  CHE FUND MAT EN BAL    3.0   840-0930   M W F  0282 CHEM ENGR                        WETZEL D
+(F)    29  CHE  2171         2  CHE FUND MAT EN BAL    3.0   940-1030   M W F  0282 CHEM ENGR                        WETZEL D
+ 34    43  CHE  2176         1  MATH MOD CHM ENG SYS   3.0   910-1030    T TH  0221 TUREAUD HALL                     NANDAKUMAR K
+(F)    83  CHE  3102         1  HEAT/MASS TRANSFER     4.0  1040-1130   MTWTH  0105 TUREAUD HALL                     THIBODEAUX L
+  1    17  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0120 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+(F)    15  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0120 TUREAUD HALL                     WETZEL D
+  1    17  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0120 TUREAUD HALL                     WETZEL D
+(F)    77  CHE  3171         1  PROCESS ECON/OPTIMIZ   3.0   910-1030    T TH  0206 TUREAUD HALL                     HJORTSO M
+(F)    81  CHE  3173         1  HETEROGENUS EQULBRUM   3.0   940-1030   M W F  0145 COATES                           WORNAT M
+  2    18  CHE  4162         1  UNIT OPERATIONS LAB    3.0   440-0530N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+  4    16  CHE  4162         2  UNIT OPERATIONS LAB    3.0   440-0530N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+  4    36  CHE  4172         1  PROCESS DESIGN         4.0   940-1030   M W F  0204 TUREAUD HALL                     KNOPF F
+  2    38  CHE  4172         2  PROCESS DESIGN         4.0   940-1030   M W F  0204 TUREAUD HALL                     KNOPF F
+ 13     7  CHE  4221 LAB     1  SENIOR RESEARCH        1.0   740-0830       F  0265 CHEM ENGR       PERMIS OF INST   HUNG F
+ 14     1  CHE  4222 LAB     1  SENIOR RESEARCH        2.0   540-0830N   T TH                                        FLAKE J
+(F)    35  CHE  4253         1  INTRO IND POLL CONTR   3.0  1140-1230   M W F  0282 CHEM ENGR                        VALSARAJ K
+ 17    18  CHE  4272         1  NANOMATERIALS          3.0  1240-0130   M W F  0282 CHEM ENGR                        GRIFFIN G
+  3    17  CHE  4410         1  SP TOP IN CHE DESIGN   3.0  1140-1230   M W F  0265 CHEM ENGR                        ROMAGNOLI J
+(F)    38  CHE  4420         1  SP TOP IN CHE SCIENC   3.0   140-0300    T TH  0282 CHEM ENGR                        BENTON M
+  5    20  CHE  7130         1  HEAT MASS TRANSPORT    3.0   340-0500    T TH  0282 CHEM ENGR                        THOMPSON K
+  1    24  CHE  7140         1  CH REACTOR DES METH    3.0   510-0630N  M W    0282 CHEM ENGR                        DOOLEY K
+ 18     7  CHE  7700         1  ADV TOPICS IN CHE      3.0   510-0630N   T TH  0282 CHEM ENGR                        ROMAGNOLI J
+ 93     6  CHE  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BENTON M
+ 98     1  CHE  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DOOLEY K
+ 95     4  CHE  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      FLAKE J
+ 98     1  CHE  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      GRIFFIN G
+ 98     1  CHE  8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      HUNG F
+ 98     1  CHE  8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      SPIVEY J
+ 98     1  CHE  8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      THOMPSON K
+ 98     1  CHE  8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      VALSARAJ K
+ 98     1  CHE  8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      WORNAT M
+ 95     4  CHE  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BENTON M
+ 95     4  CHE  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DOOLEY K
+ 95     4  CHE  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      FLAKE J
+ 98     1  CHE  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      GRIFFIN G
+ 98     1  CHE  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      HENRY J
+ 94     5  CHE  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      HUNG F
+ 98     1  CHE  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      KNOPF F
+ 95     4  CHE  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      NANDAKUMAR K
+ 95     4  CHE  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      ROMAGNOLI J
+ 93     6  CHE  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      SPIVEY J
+ 98     1  CHE  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      THIBODEAUX L
+ 96     3  CHE  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      THOMPSON K
+ 24     1  CHE  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      VALSARAJ K
+  7     3  CHE  9000 RES    16  DISSERTATION RES       1-12 TBA                                                      WORNAT M

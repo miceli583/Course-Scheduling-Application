@@ -1,0 +1,11 @@
+(F)     7  ATRN 2000         1  EMER MED RESPONSE      3.0   900-1020    T TH  1035 CYPRESS HALL                     WORKMAN P
+ 10    15  ATRN 2000         2  EMER MED RESPONSE      3.0   900-1020    T TH                       RES COLG-HSE
+  5    15  ATRN 2201         1  AT CLIN PRAC RES 2     2.0   750-0840     W                                          WORKMAN P
+  7        ATRN 2222 CLI     1  AT CLINICAL IMMERS      .0  TBA                                                      CASTLE R
+  3    17  ATRN 2505         1  ORTHO EVAL I           3.0   900-1020   M W                                          BENSON A
+  2    18  ATRN 2507         1  PHYS THERA MODALITY    3.0   900-1020    T TH                                        BENSON A
+ 12     8  ATRN 3201         1  AT CLIN PRAC RES 4     2.0  1130-1220     W                                          MICKUS M
+  7    13  ATRN 4201         1  AT CLIN PRAC RES 6     2.0   730-0820     W    0140 LONG FIELDHOUSE                  COLLINS M
+ 13     7  ATRN 4505         1  ASSESS GEN MED COND    3.0   730-0850   M W                                          PREVOT T
+ 12     8  ATRN 4509         1  THERA EX REHAB         3.0   730-0850    T TH                       CI-WRITTEN&SPOK  CASTLE R
+  7    13  ATRN 4700         1  DIAGNOSTIC PROCEDURE   3.0  1030-1150    T TH                                        CASTLE R

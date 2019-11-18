@@ -1,0 +1,54 @@
+  7    25  EDCI 1001         1  INTRO TO COLL STUDY    3.0  0840-0940   MTWTF  0203 WOODIN HALL                      MANTHEI L
+ 16    24  EDCI 1001         7  INTRO TO COLL STUDY    3.0  0840-0940   MTWTF  0253 HIMES                            WINKLER D
+ 11    25  EDCI 1001         3  INTRO TO COLL STUDY    3.0  0950-1050   MTWTF  0101 TUREAUD HALL                     BUCHANAN T
+ 17    13  EDCI 1001        12  INTRO TO COLL STUDY    3.0  0950-1050   MTWTF  0111 LOCKETT                          EISWORTH S
+  8    32  EDCI 1001         5  INTRO TO COLL STUDY    3.0   100-0300   M W F  0285 LOCKETT                          SAMSON D
+  1    24  EDCI 4450         2  PRINC IN SEC EDUCATI   3.0   100-0330   M W F  0120 PEABODY                          RICKS T
+(F)    26  EDCI 7105         3  TCHG RDG EL SCH        3.0  TBA                                     PERMIS OF DEPT   SULENTIC DOWE
+(F)    21  EDCI 7105         4  TCHG RDG EL SCH        3.0  TBA                                     PERMIS OF DEPT   SULENTIC DOWE
+ 12    24  EDCI 7465 SEM     1  SM: TEACH/RES SEC SC   3.0  0830-1030   M WTH  0119 TUREAUD HALL                     BINFORD P
+ 98     1  EDCI 7610 RES     1  ADV SM & PRCT C & I    3-6  TBA                                     PERMIS OF DEPT   BLANCHARD P
+ 49     1  EDCI 7684 CLI     1  ADV INTERNSHIP RDNG    6.0  TBA                                     PERMIS OF DEPT   CHEEK E
+ 99        EDCI 7684 CLI     2  ADV INTERNSHIP RDNG    6.0  TBA                                     PERMIS OF DEPT   SULENTIC DOWE
+ 23     2  EDCI 7768         2  PRACT ED FOR GIFTED    3-6  TBA                                     PERMIS OF DEPT   JOLLY J
+ 19     1  EDCI 7821 RES     1  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   BACH J
+ 20        EDCI 7821 RES     3  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   FASCHING-VARN
+ 19     1  EDCI 7821 RES     4  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   BICKMORE S
+ 19     1  EDCI 7821 RES     5  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   BUCHANAN T
+ 19     1  EDCI 7821 RES     6  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   CHEEK E
+ 19     1  EDCI 7822 RES     2  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   FASCHING-VARN
+  9     1  EDCI 7920 RES     1  ANLY RES CUR/INSTR     3.0  TBA                                     PERMIS OF DEPT   CHEEK E
+  4     1  EDCI 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BACH J
+  5        EDCI 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CHEEK E
+  4     1  EDCI 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      DENNY R
+  4     1  EDCI 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      HENDRY P
+  7     3  EDCI 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      WANDERSEE J
+  9     1  EDCI 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      CASBERGUE R
+ 98     1  EDCI 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      MITCHELL R
+ 98     1  EDCI 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      EGEA-KUEHNE D
+ 13    17  EDCI 1001         6  INTRO TO COLL STUDY    3.0  0900-1030   MTWTF  0132 LOCKETT                          BRAUD H
+ 13    17  EDCI 1001        10  INTRO TO COLL STUDY    3.0  0900-1030   MTWTF  0212 AUDUBON                          KELLY H
+ 13    27  EDCI 1001         2  INTRO TO COLL STUDY    3.0  1040-1210   MTWTF  0100 TUREAUD HALL                     LATHON E
+(F)    40  EDCI 1001         4  INTRO TO COLL STUDY    3.0  1100-1230   MTWTF  0112 AUDUBON                          DONNELLY K
+ 16    14  EDCI 2030         1  TEACH/SCHOOL/SOCIETY   3.0  1240-0210   MTWTF  0123 ALLEN                            LAUNEY B
+ 11    19  EDCI 3000         1  CHILDREN'S LITERATUR   3.0  0910-1040   MTWTF  0216 PEABODY                          DONNELLY K
+  6    14  EDCI 4460         1  PLAN/EVAL SCH INSTRU   3.0  1100-1230   MTWTF  0123 ALLEN                            LAUNEY B
+ 16    24  EDCI 4460         2  PLAN/EVAL SCH INSTRU   3.0  1100-1230    TWTH  0131 ALLEN                            GRANDSTAFF-BE
+(F)    13  EDCI 4460         3  PLAN/EVAL SCH INSTRU   3.0   130-0300    TWTH  0131 ALLEN                            GRANDSTAFF-BE
+ 43     2  EDCI 5880         1  SPEC TOPICS IN EDUC    1-3  TBA                                                      BLANCHARD P
+  9     6  EDCI 7018         1  STR INST MDL ST/DIS    3.0  TBA                                                      MOONEY P
+  7    13  EDCI 7135         2  TECH TCH RDG MD/SC S   3.0   430-0730N   TWTH  0216 PEABODY                          GRANDSTAFF-BE
+ 31     9  EDCI 7142         1  ST TCHG ENGL S SCH     3.0  0830-1200    TWTH  0129 TUREAUD HALL                     BACH J
+(F)    22  EDCI 7308         1  TOPICS IN SCIENCE ED   3.0  0800-1030   MTWTH  0102 PEABODY         PERMIS OF DEPT   WEBB A
+(F)    22  EDCI 7308         2  TOPICS IN SCIENCE ED   3.0  1130-0200   MTWTH  0102 PEABODY         PERMIS OF DEPT   WEBB A
+ 12    13  EDCI 7763         1  DEV CURR FOR GIFTED    3.0   100-0330   MTWTH  0218 PEABODY                          CULROSS R
+(F)     8  EDCI 7768         1  PRACT ED FOR GIFTED    3-6  TBA                                     PERMIS OF DEPT   JOLLY J
+ 19     1  EDCI 7821 RES     2  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   SULENTIC DOWE
+ 19     1  EDCI 7822 RES     1  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   SULENTIC DOWE
+ 19     1  EDCI 7822 RES     3  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   CULROSS R
+ 19     1  EDCI 7822 RES     4  PROB CURR & INSTRN     2-4  TBA                                                      JOLLY J
+(F)    26  EDCI 7824         2  ELEM SCHL CURRICULUM   3.0  0800-1030   MTWTH  0104 PEABODY         PERMIS OF DEPT   FASCHING-VARN
+(F)    21  EDCI 7824         1  ELEM SCHL CURRICULUM   3.0  1130-0200   MTWTH  0104 PEABODY         PERMIS OF DEPT   FASCHING-VARN
+ 20    10  EDCI 7825         1  SEC SCHL CURRICULUM    3.0  1230-0400    TWTH  0243 LOCKETT                          BACH J
+ 14     6  EDCI 7843         1  EARLY CHILDHOOD EDUC   3.0  1200-0400    T TH  0216 PEABODY                          BUCHANAN T
+  3    12  EDCI 7904         1  EDUC & COGNITION       3.0  0910-1040   MTWTF  0214 PEABODY                          KIRSHNER D

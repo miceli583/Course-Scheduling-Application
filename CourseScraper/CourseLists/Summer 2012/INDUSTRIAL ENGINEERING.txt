@@ -1,0 +1,14 @@
+ 10        IE   3699 CLI     1  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT   STAFF
+ 20        IE   4785 RES     1  SPEC TOP IND ENGR      1-3  TBA                                     PERMIS OF DEPT   STAFF
+ 18     2  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                     PERMIS OF DEPT   NAHMENS I
+ 19     1  IE   7724 IND     2  INDEP STUDY IE         1-3  TBA                                     PERMIS OF DEPT   AGHAZADEH F
+ 20        IE   7724 IND     3  INDEP STUDY IE         1-3  TBA                                     PERMIS OF DEPT   HASSAN M
+ 97     2  IE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   NAHMENS I
+ 28    17  IE   3201         1  PRIN ENGR ECONOMY      3.0  1210-0120   MTWTF  1118 PATRICK TAYLOR                   LIAO T
+ 14    20  IE   3302         1  ENGR STATISTICS        3.0   230-0400   MTWTF  3133 PATRICK TAYLOR                   KNAPP G
+ 23    11  IE   4462         1  SAFETY ENGINEERING     3.0  1200-0110   MTWTF  3133 PATRICK TAYLOR                   AGHAZADEH F
+(F)     1  IE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   FRIEDLAND C
+  3     2  IE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   IKUMA L
+  4     1  IE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ROIDER E
+ 18     2  IE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   AGHAZADEH F
+ 20        IE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   HASSAN M

@@ -1,0 +1,32 @@
+ 28    62  FDSC 1049         1  SCIENCE OF FOODS       2.0  1230-0120   M W    0206 TUREAUD HALL                     GUTIERREZ A
+ 21    29  FDSC 3000         1  FOOD SAFETY            3.0   930-1020   M W F  0213 TUREAUD HALL                     JANES M
+(F)     3  FDSC 3900 RES     1  FOOD CHEMICAL ASSAYS   1-3  TBA                                     PERMIS OF DEPT   LOSSO J
+ 17     1  FDSC 3900 RES     2  PEPPER MASH SPOILAGE   1-3  TBA                                     PERMIS OF DEPT   JANES M
+(F)     1  FDSC 3900 RES     3  MOD ATM PACKAGING      1-3  TBA                                                      LAMPILA L
+(F)    12  FDSC 3999 SEM     1  FDSC & TECH SEMINAR    1.0  1230-0120      TH  0125 TUREAUD HALL                     KING J
+  5    15  FDSC 4060         1  FOOD CHEMISTRY         4.0  1030-1150    T TH  0201 DAIRY SCIENCE                    KING J
+ 10    15  FDSC 4070         1  FOOD LAWS REGULATION   2.0  1130-1220   M W    0201 DAIRY SCIENCE                    FINLEY J
+  3    17  FDSC 4075         1  FOOD PRESERVATION      3.0  1230-0120   M W    0232 J C MILLER                       WILSON P
+  8    12  FDSC 4095         1  SENSORY EVAL OF FOOD   4.0  1030-1120   M W F  0116 TUREAUD HALL                     PRINYAWIWATKU
+(F)    18  FDSC 4163         1  INDUSTRIAL MICROBIOL   4.0   130-0220   M W    0134 J C MILLER                       JANES M
+(F)     1  FDSC 7030 RES     1  PRODUCT DEVELOPMENT    1-6  TBA                                                      FINLEY J
+(F)    10  FDSC 7040         1  FLAVOR & COLORS FOOD   3.0   900-0950    T TH  0116 TUREAUD HALL                     XU Z
+  2     8  FDSC 7050         1  FOOD PROTIEN BIOTECH   3.0   930-1020   M W F  0215 TUREAUD HALL                     LOSSO J
+(F)    11  FDSC 7071 SEM     1  SEM FDSC               1.0  1230-0120      TH  0125 TUREAUD HALL                     XU Z
+ 97     2  FDSC 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      AITA G
+ 98     1  FDSC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      LAMPILA L
+ 97     2  FDSC 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      JANES M
+ 98     1  FDSC 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      KING J
+ 96     3  FDSC 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      LOSSO J
+ 95     4  FDSC 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      FINLEY J
+ 97     2  FDSC 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      PRINYAWIWATKU
+ 98     1  FDSC 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      XU Z
+ 98     1  FDSC 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      SATHIVEL S
+ 98     1  FDSC 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DAY D
+ 95     4  FDSC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      JANES M
+ 98     1  FDSC 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      KING J
+ 98     1  FDSC 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      LOSSO J
+ 95     4  FDSC 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      FINLEY J
+ 95     4  FDSC 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      PRINYAWIWATKU
+ 98     1  FDSC 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      XU Z
+ 95     4  FDSC 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      SATHIVEL S

@@ -1,0 +1,140 @@
+  1    19  BIOL 1005         2  INTRO BIOLOGY LAB      2.0   120-0220   M W    0115 LIFE SCIENCES                    MCCOY M
+  5    15  BIOL 1005         4  INTRO BIOLOGY LAB      2.0   530-0630N  M W    0115 LIFE SCIENCES                    MCCOY M
+  4    16  BIOL 1005         3  INTRO BIOLOGY LAB      2.0   120-0220    T TH  0115 LIFE SCIENCES                    MCCOY M
+ 39    11  BIOL 1011         1  MICROORGANISMS & MAN   3.0  0900-1030   MTWTH  0228 TUREAUD HALL                     GAYDA R
+  3    29  BIOL 1208 LAB     1  BIOL LAB SCI MAJ I     1.0  1100-0200    T TH  0133 LIFE SCIENCES                    JOLISSAINT M
+ 18    14  BIOL 1208 LAB     2  BIOL LAB SCI MAJ I     1.0   230-0530    T TH  0133 LIFE SCIENCES                    JOLISSAINT M
+ 19    13  BIOL 1209 LAB     1  BIOL LAB SCI MAJ II    1.0  1100-0200   M W    0120 LIFE SCIENCES                    HRINCEVICH A
+(F)    32  BIOL 1209 LAB     2  BIOL LAB SCI MAJ II    1.0   230-0530   M W    0120 LIFE SCIENCES                    HRINCEVICH A
+  7    25  BIOL 1209 LAB     3  BIOL LAB SCI MAJ II    1.0   630-0930N  M W    0120 LIFE SCIENCES                    HRINCEVICH A
+ 88    11  BIOL 3999 RES     1  UNDERGRAD RES BIO SC   1-3  TBA                                     PERMIS OF DEPT   SIEBENALLER J
+ 19    66  BIOL 4087         1  BASIC BIOCHEMISTRY     4.0  0950-1200   MTWTH  0103 TUREAUD HALL                     POMARICO S
+  1    29  BIOL 4105         1  PARASITOLOGY           3.0  0900-1030   MTWTH  0125 TUREAUD HALL                     FARRAR R
+  3     9  BIOL 4106 LAB     2  PARASITOLOGY LAB       1.0  1030-0130   M W    0111 LIFE SCIENCES                    GARRETSON P
+  6     6  BIOL 4106 LAB     1  PARASITOLOGY LAB       1.0   130-0430   M W    0111 LIFE SCIENCES                    GARRETSON P
+  7    23  BIOL 4253         1  PRINCIPLES OF ECOLOG   3.0  1130-0100   MTWTH  0225 TUREAUD HALL                     ARONHIME B
+(F)    10  BIOL 4254 LAB     1  PRINC OF ECOLOGY LAB   1.0  0730-1030   M W    0006 WOODIN HALL                      ARONHIME B
+  7     3  BIOL 4254 LAB     2  PRINC OF ECOLOGY LAB   1.0  0730-1030    T TH  0006 WOODIN HALL                      ARONHIME B
+ 99        BIOL 7990 RES     1  IND RES BIOL SCIENCE   2-8  TBA                                                      AUSTIN C
+ 99        BIOL 7990 RES     2  IND RES BIOL SCIENCE   2-8  TBA                                                      BATZER M
+ 99        BIOL 7990 RES     3  IND RES BIOL SCIENCE   2-8  TBA                                                      BRUMFIELD R
+ 99        BIOL 7990 RES     4  IND RES BIOL SCIENCE   2-8  TBA                                                      BRYLINSKI M
+ 97     2  BIOL 7990 RES     5  IND RES BIOL SCIENCE   2-8  TBA                                                      CARSTENS B
+ 98     1  BIOL 7990 RES     6  IND RES BIOL SCIENCE   2-8  TBA                                                      CHAKRABARTY P
+ 96     3  BIOL 7990 RES     7  IND RES BIOL SCIENCE   2-8  TBA                                                      CHRISTNER B
+ 99        BIOL 7990 RES     8  IND RES BIOL SCIENCE   2-8  TBA                                                      CRONIN J
+ 97     2  BIOL 7990 RES     9  IND RES BIOL SCIENCE   2-8  TBA                                                      DIMARIO P
+ 99        BIOL 7990 RES    10  IND RES BIOL SCIENCE   2-8  TBA                                                      DING H
+ 98     1  BIOL 7990 RES    11  IND RES BIOL SCIENCE   2-8  TBA                                                      DIXIT V
+ 99        BIOL 7990 RES    12  IND RES BIOL SCIENCE   2-8  TBA                                                      DOERRLER W
+ 98     1  BIOL 7990 RES    13  IND RES BIOL SCIENCE   2-8  TBA                                                      DONZE D
+ 99        BIOL 7990 RES    14  IND RES BIOL SCIENCE   2-8  TBA                                                      DING H
+ 99        BIOL 7990 RES    15  IND RES BIOL SCIENCE   2-8  TBA                                                      GALVEZ F
+ 98     1  BIOL 7990 RES    16  IND RES BIOL SCIENCE   2-8  TBA                                                      GLEASON E
+ 99        BIOL 7990 RES    17  IND RES BIOL SCIENCE   2-8  TBA                                                      GROVE A
+ 99        BIOL 7990 RES    18  IND RES BIOL SCIENCE   2-8  TBA                                                      HAND S
+ 99        BIOL 7990 RES    19  IND RES BIOL SCIENCE   2-8  TBA                                                      HARMS K
+ 99        BIOL 7990 RES    20  IND RES BIOL SCIENCE   2-8  TBA                                                      HART C
+ 97     2  BIOL 7990 RES    21  IND RES BIOL SCIENCE   2-8  TBA                                                      HELLBERG M
+ 99        BIOL 7990 RES    22  IND RES BIOL SCIENCE   2-8  TBA                                                      KIM J
+ 99        BIOL 7990 RES    23  IND RES BIOL SCIENCE   2-8  TBA                                                      LEE Y
+ 99        BIOL 7990 RES    24  IND RES BIOL SCIENCE   2-8  TBA                                                      LICATA V
+ 99        BIOL 7990 RES    25  IND RES BIOL SCIENCE   2-8  TBA                                                      LU R
+ 99        BIOL 7990 RES    26  IND RES BIOL SCIENCE   2-8  TBA                                                      LUO B
+ 98     1  BIOL 7990 RES    27  IND RES BIOL SCIENCE   2-8  TBA                                                      MUENZBERG-GRU
+ 98     1  BIOL 7990 RES    28  IND RES BIOL SCIENCE   2-8  TBA                                                      NEWCOMER M
+ 98     1  BIOL 7990 RES    29  IND RES BIOL SCIENCE   2-8  TBA                                                      PETTIS G
+ 99        BIOL 7990 RES    30  IND RES BIOL SCIENCE   2-8  TBA                                                      REMSEN J
+ 97     2  BIOL 7990 RES    31  IND RES BIOL SCIENCE   2-8  TBA                                                      SHELDON F
+ 99        BIOL 7990 RES    32  IND RES BIOL SCIENCE   2-8  TBA                                                      SMITH A
+ 99        BIOL 7990 RES    33  IND RES BIOL SCIENCE   2-8  TBA                                                      STEPHENS J
+ 98     1  BIOL 7990 RES    34  IND RES BIOL SCIENCE   2-8  TBA                                                      STEVENS R
+ 99        BIOL 7990 RES    35  IND RES BIOL SCIENCE   2-8  TBA                                                      TERUYAMA R
+ 99        BIOL 7990 RES    36  IND RES BIOL SCIENCE   2-8  TBA                                                      URBATSCH L
+ 99        BIOL 7990 RES    37  IND RES BIOL SCIENCE   2-8  TBA                                                      WALDROP G
+ 99        BIOL 7990 RES    38  IND RES BIOL SCIENCE   2-8  TBA                                                      WILLIAMSON G
+ 86    13  BIOL 7990 RES    39  IND RES BIOL SCIENCE   2-8  TBA                                     PERMIS OF DEPT   SIEBENALLER J
+ 98     1  BIOL 7995 RES     1  IND READ IN BIOL SCI   1-3  TBA                                                      RAINEY F
+ 98     1  BIOL 7995 RES     2  IND READ IN BIOL SCI   1-3  TBA                                                      HELLBERG M
+ 86    13  BIOL 7995 RES     3  IND READ IN BIOL SCI   1-3  TBA                                     PERMIS OF DEPT   SIEBENALLER J
+ 99        BIOL 7995 RES     4  IND READ IN BIOL SCI   1-3  TBA
+ 98     1  BIOL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BROWN K
+ 97     2  BIOL 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      CRONIN J
+ 98     1  BIOL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      HART C
+ 98     1  BIOL 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      DONZE D
+ 99        BIOL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      DING H
+ 98     1  BIOL 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      RAINEY F
+ 98     1  BIOL 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      ELDERD B
+ 99        BIOL 8000 RES     8  THESIS RESEARCH        1-12 TBA
+ 99        BIOL 8000 RES     9  THESIS RESEARCH        1-12 TBA
+  6        BIOL 8910 RES     1  RES PARTICIPATION      3.0  TBA                                                      MOORE T
+ 97     2  BIOL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      AUSTIN C
+ 99        BIOL 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BARTLETT S
+ 96     3  BIOL 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      BATTISTA J
+ 98     1  BIOL 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      BATZER M
+ 98     1  BIOL 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      BLACKWELL M
+ 99        BIOL 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      BRICKER T
+ 99        BIOL 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      BROWN J
+ 99        BIOL 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      BROWN K
+ 96     3  BIOL 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      BRUMFIELD R
+ 99        BIOL 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      BRYLINSKI M
+ 97     2  BIOL 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      CARSTENS B
+ 98     1  BIOL 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      CHAKRABARTY P
+ 95     4  BIOL 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      CHRISTNER B
+ 98     1  BIOL 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      CRONIN J
+ 98     1  BIOL 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      DIMARIO P
+ 98     1  BIOL 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      DING H
+ 96     3  BIOL 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      DOERRLER W
+ 97     2  BIOL 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      DONZE D
+ 99        BIOL 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      ELDERD B
+ 99        BIOL 9000 RES    20  DISSERTATION RES       1-12 TBA
+ 98     1  BIOL 9000 RES    21  DISSERTATION RES       1-12 TBA                                                      FINELLI C
+ 99        BIOL 9000 RES    22  DISSERTATION RES       1-12 TBA                                                      FOLTZ D
+ 94     5  BIOL 9000 RES    23  DISSERTATION RES       1-12 TBA                                                      GALVEZ F
+ 98     1  BIOL 9000 RES    24  DISSERTATION RES       1-12 TBA                                                      GLEASON E
+ 93     6  BIOL 9000 RES    25  DISSERTATION RES       1-12 TBA                                                      GROVE A
+ 98     1  BIOL 9000 RES    26  DISSERTATION RES       1-12 TBA                                                      HAFNER M
+ 95     4  BIOL 9000 RES    27  DISSERTATION RES       1-12 TBA                                                      HAND S
+ 96     3  BIOL 9000 RES    28  DISSERTATION RES       1-12 TBA                                                      HARMS K
+ 97     2  BIOL 9000 RES    29  DISSERTATION RES       1-12 TBA                                                      HART C
+ 97     2  BIOL 9000 RES    30  DISSERTATION RES       1-12 TBA                                                      HELLBERG M
+ 97     2  BIOL 9000 RES    31  DISSERTATION RES       1-12 TBA                                                      HOMBERGER D
+ 99        BIOL 9000 RES    32  DISSERTATION RES       1-12 TBA                                                      KATO N
+ 96     3  BIOL 9000 RES    33  DISSERTATION RES       1-12 TBA                                                      KIM J
+ 98     1  BIOL 9000 RES    34  DISSERTATION RES       1-12 TBA                                                      KING G
+ 99        BIOL 9000 RES    35  DISSERTATION RES       1-12 TBA                                                      LAINE R
+ 98     1  BIOL 9000 RES    36  DISSERTATION RES       1-12 TBA                                                      LARKIN J
+ 96     3  BIOL 9000 RES    37  DISSERTATION RES       1-12 TBA                                                      LEE Y
+ 96     3  BIOL 9000 RES    38  DISSERTATION RES       1-12 TBA                                                      LICATA V
+ 99        BIOL 9000 RES    39  DISSERTATION RES       1-12 TBA                                                      LONGSTRETH D
+ 97     2  BIOL 9000 RES    40  DISSERTATION RES       1-12 TBA                                                      LU R
+ 97     2  BIOL 9000 RES    41  DISSERTATION RES       1-12 TBA                                                      LUO B
+ 99        BIOL 9000 RES    42  DISSERTATION RES       1-12 TBA                                                      LYNN J
+ 96     3  BIOL 9000 RES    43  DISSERTATION RES       1-12 TBA                                                      MORONEY J
+ 98     1  BIOL 9000 RES    44  DISSERTATION RES       1-12 TBA                                                      NEWCOMER M
+ 97     2  BIOL 9000 RES    45  DISSERTATION RES       1-12 TBA                                                      PETTIS G
+ 96     3  BIOL 9000 RES    46  DISSERTATION RES       1-12 TBA                                                      PLATT W
+ 98     1  BIOL 9000 RES    47  DISSERTATION RES       1-12 TBA                                                      RAINEY F
+ 97     2  BIOL 9000 RES    48  DISSERTATION RES       1-12 TBA                                                      REMSEN J
+ 97     2  BIOL 9000 RES    49  DISSERTATION RES       1-12 TBA                                                      SHELDON F
+ 99        BIOL 9000 RES    50  DISSERTATION RES       1-12 TBA                                                      SIEBENALLER J
+ 98     1  BIOL 9000 RES    51  DISSERTATION RES       1-12 TBA                                                      SMITH A
+ 98     1  BIOL 9000 RES    52  DISSERTATION RES       1-12 TBA                                                      STEPHENS J
+ 97     2  BIOL 9000 RES    53  DISSERTATION RES       1-12 TBA                                                      STEVENS R
+ 99        BIOL 9000 RES    54  DISSERTATION RES       1-12 TBA                                                      STICKLE W
+ 99        BIOL 9000 RES    55  DISSERTATION RES       1-12 TBA                                                      TERUYAMA R
+ 98     1  BIOL 9000 RES    56  DISSERTATION RES       1-12 TBA                                                      URBATSCH L
+ 97     2  BIOL 9000 RES    57  DISSERTATION RES       1-12 TBA                                                      WALDROP G
+ 99        BIOL 9000 RES    59  DISSERTATION RES       1-12 TBA                                                      WILLIAMSON G
+ 99        BIOL 9000 RES    60  DISSERTATION RES       1-12 TBA
+ 80    70  BIOL 1001         1  GENERAL BIOLOGY        3.0  1100-1230   MTWTF  0005 LOCKETT                          GLOWINSKI S
+ 76    74  BIOL 1002         1  GENERAL BIOLOGY        3.0  0910-1040   MTWTF  0010 LOCKETT                          GLOWINSKI S
+ 92   108  BIOL 1201         1  BIOL FOR SCI MAJ I     3.0  0910-1040   MTWTF  0006 LOCKETT                          CROUSILLAC S
+124    76  BIOL 1202         1  BIOL FOR SCI MAJ II    3.0  1100-1230   MTWTF  0016 LOCKETT                          CROUSILLAC S
+  1    31  BIOL 2051         1  GEN MICROBIOLOGY       4.0  0830-1000   MTWTF  0221 TUREAUD HALL                     SULLIVAN K
+(F)    32  BIOL 2051         2  GEN MICROBIOLOGY       4.0  0830-1000   MTWTF  0221 TUREAUD HALL                     SULLIVAN K
+(F)    30  BIOL 2153         1  PRINC OF GENETICS      4.0  1100-1240   MTWTF  0125 TUREAUD HALL                     BRININSTOOL G
+ 40    70  BIOL 2160         1  HUMAN PHYSIOLOGY       3.0  0910-1040   MTWTF  0102 WILLIAMS                         STICKLE W
+  4    31  BIOL 4246         1  MICROBIAL GENETICS     3.0  1030-1200   MTWTF  0119 TUREAUD HALL                     ACHBERGER E
+ 95     4  BIOL 6147         2  SEL TOP IN LIFE SCI    1-3  TBA                                                      STAFF
+ 96     3  BIOL 9000 RES    58  DISSERTATION RES       1-12 TBA                                                      WHITEHEAD J

@@ -1,0 +1,41 @@
+(F)    37  MGT  2000         1  INNOV & CREATIVITY     3.0  1130-1220   M W F  1720 BUSINESS ED COM                  GUR F
+(F)    33  MGT  2000         2  INNOV & CREATIVITY     3.0  1230-0120   M W F  1720 BUSINESS ED COM                  GUR F
+  2    40  MGT  3200         2  PRINC OF MANAGEMENT    3.0   930-1020   M W F  1700 BUSINESS ED COM                  MCLARTY B
+  1    44  MGT  3200         5  PRINC OF MANAGEMENT    3.0  1030-1120   M W F  1111 PATRICK TAYLOR                   MULDOON J
+(F)    41  MGT  3200         6  PRINC OF MANAGEMENT    3.0  1130-1220   M W F  1111 PATRICK TAYLOR                   MULDOON J
+  2    38  MGT  3200         3  PRINC OF MANAGEMENT    3.0  1230-0120   M W F  1735 BUSINESS ED COM                  MAURER J
+  2    38  MGT  3200         4  PRINC OF MANAGEMENT    3.0   230-0320   M W F  1800 BUSINESS ED COM                  BENDICKSON J
+ 10   900  MGT  3200         1  PRINC OF MANAGEMENT    3.0  1030-1150    T TH  0101 GYM AUDITORIUM                   SAULEY K
+ 29    11  MGT  3211         1  BUSINESS & SOCIETY     3.0   900-1020    T TH  2171 PATRICK TAYLOR                   MARIN D
+ 11    29  MGT  3211         2  BUSINESS & SOCIETY     3.0  1030-1150    T TH  2171 PATRICK TAYLOR                   MARIN D
+  1     8  MGT  3280 CLI     1  MGT INTERNSHIP         3.0  TBA                                     PERMIS OF INST   SAULEY K
+(F)    47  MGT  3320         1  HUMAN RESOURCE MGT     3.0   930-1020   M W F  1735 BUSINESS ED COM                  HIGHTOWER G
+  1    47  MGT  3320         2  HUMAN RESOURCE MGT     3.0  1030-1120   M W F  1735 BUSINESS ED COM                  CALEO S
+(F)    45  MGT  3320         3  HUMAN RESOURCE MGT     3.0  1130-1220   M W F  1735 BUSINESS ED COM                  CALEO S
+(F)    40  MGT  3320         4  HUMAN RESOURCE MGT     3.0   230-0320   M W F  1735 BUSINESS ED COM                  CALEO S
+(F)    49  MGT  3513         1  LABOR-MGT CONF/COOP    3.0   130-0250   M W    1835 BUSINESS ED COM                  CHANDLER T
+  1    48  MGT  3513         2  LABOR-MGT CONF/COOP    3.0   300-0420   M W    1835 BUSINESS ED COM                  CHANDLER T
+ 10    30  MGT  3830         1  STRAT MANAGING ORGS    3.0   900-1020    T TH  1112 PATRICK TAYLOR                   MCGUIRE J
+  9    31  MGT  3830         2  STRAT MANAGING ORGS    3.0   900-1020    T TH  1111 PATRICK TAYLOR                   BANKS M
+  1    39  MGT  3830         3  STRAT MANAGING ORGS    3.0  1030-1150    T TH  1111 PATRICK TAYLOR                   BANKS M
+(F)    40  MGT  3830         4  STRAT MANAGING ORGS    3.0  1200-0120    T TH  1111 PATRICK TAYLOR                   BANKS M
+ 17    18  MGT  3830         5  STRAT MANAGING ORGS    3.0  1200-0120    T TH  1225 BUSINESS ED COM CI-WRITTEN&SPOK  MARIN D
+(F)    40  MGT  3830         6  STRAT MANAGING ORGS    3.0   130-0250    T TH  1225 BUSINESS ED COM                  JAMES B
+  3    37  MGT  3830         7  STRAT MANAGING ORGS    3.0   300-0420    T TH  1225 BUSINESS ED COM                  JAMES B
+ 30    10  MGT  4020 CLI     1  INTERN ENTREPRENEUR    3.0  TBA                                     PERMIS OF INST   RODRIGUEZ J
+ 19    16  MGT  4030 RES     2  INDEP STUDY ENTREPRE   3.0   300-0550      TH  1720 BUSINESS ED COM PERMIS OF INST   RODRIGUEZ J
+ 11    29  MGT  4113         1  SMALL BUSINESS MANAG   3.0   900-1020    T TH  2169 PATRICK TAYLOR                   IRWIN J
+(F)    30  MGT  4113         2  SMALL BUSINESS MANAG   3.0  1030-1150    T TH  2169 PATRICK TAYLOR                   IRWIN J
+ 14    16  MGT  4120         1  SOCIAL ENTREPRENEUR    3.0  1030-1150   M W    1745 BUSINESS ED COM                  BANKS M
+ 12    28  MGT  4323         1  COMPENSATION ADMINIS   3.0   130-0250   M W    1325 BUSINESS ED COM                  RICHARDSON H
+  1    39  MGT  4420         1  MULTINATIONAL MGT      3.0   130-0250    T TH  1305 BUSINESS ED COM                  WHITMAN D
+(F)    40  MGT  4420         2  MULTINATIONAL MGT      3.0   300-0420    T TH  1305 BUSINESS ED COM                  WHITMAN D
+  2    28  MGT  4620         1  HUMAN BEHAV ORGANIZA   3.0   900-1020    T TH  1745 BUSINESS ED COM                  BEDEIAN A
+(F)    30  MGT  4620         2  HUMAN BEHAV ORGANIZA   3.0  1200-0120    T TH  1720 BUSINESS ED COM                  BERNERTH J
+  8    22  MGT  4620         3  HUMAN BEHAV ORGANIZA   3.0   130-0250    T TH  1720 BUSINESS ED COM                  BERNERTH J
+ 19    26  MGT  7111         1  ENTREPRENEURSHIP MGT   3.0  1200-0120    T TH  1305 BUSINESS ED COM                  JUSTIS R
+ 17     5  MGT  7811         1  RES ISS STRATEG MGT    3.0   130-0420      TH  3140 PATRICK TAYLOR                   GRECKHAMER T
+  1     2  MGT  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      RICHARDSON H
+  2     1  MGT  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      MCGUIRE J
+  3     2  MGT  9202 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      RICHARDSON H
+  3     2  MGT  9202 RES     2  PREDISSERT RESEARCH    1-9  TBA                                                      MCGUIRE J

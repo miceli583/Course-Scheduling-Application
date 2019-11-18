@@ -1,0 +1,21 @@
+(F)    23  PLHL 4000         1  GEN PLANT PATHOLOGY    4.0  1030-1150    T TH  1116 PATRICK TAYLOR                   SCHNEIDER R
+ 19     6  PLHL 7000         2  PHYTONEMATOLOGY        4.0  1030-1150    T TH  0308 LIFE SCIENCES                    MCGAWLEY E
+ 22     8  PLHL 7040         1  PLANT VIROLOGY         4.0   800-0850   M W    A465 LIFE SCIENCES A                  VALVERDE R
+  9     6  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W    A465 LIFE SCIENCES A                  DAMANN K
+ 98     1  PLHL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HOY J
+ 97     2  PLHL 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      SCHNEIDER R
+ 97     2  PLHL 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      HOLLIER C
+ 97     2  PLHL 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      HAM J
+  9     1  PLHL 8900 RES     1  TA EXPERIENCE FOR PP   1-5  TBA                                                      MCGAWLEY E
+  4     1  PLHL 8900 RES     7  TA EXPERIENCE PPCP G   1-5  TBA                                                      VALVERDE R
+ 98     1  PLHL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CLARK C
+ 97     2  PLHL 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      COHN M
+ 98     1  PLHL 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      DAMANN K
+ 98     1  PLHL 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      IVEY M
+ 98     1  PLHL 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      HOY J
+ 97     2  PLHL 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      CHEN Z
+ 97     2  PLHL 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SCHNEIDER R
+ 98     1  PLHL 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      VALVERDE R
+ 98     1  PLHL 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      HOLLIER C
+ 98     1  PLHL 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      OVERSTREET C
+ 96     3  PLHL 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      HAM J

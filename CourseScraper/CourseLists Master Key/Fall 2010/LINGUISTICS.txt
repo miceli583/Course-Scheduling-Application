@@ -1,0 +1,35 @@
+  4     1  LING 4150         1  PHONETICS              4.0   910-1030    T TH  0145 COATES                           BUCKINGHAM H
+  5        LING 4150         2  PHONETICS              4.0   910-1030    T TH  0145 COATES                           BUCKINGHAM H
+  5        LING 4150         3  PHONETICS              4.0   910-1030    T TH  0145 COATES                           BUCKINGHAM H
+  1     9  LING 4310         1  STUDIES IN LANGUAGE    3.0   940-1030   M W F  0035 ALLEN                            OLIVER E
+  2    10  LING 4710         1  INTR TO LINGUISTICS    3.0   340-0430   M W F  0031 ALLEN                            BRODY M
+ 18     2  LING 4750 RES     1  IND RES LING SPCH SC   1-3  TBA                                                      BUCKINGHAM H
+ 20        LING 4750 RES     2  IND RES LING SPCH SC   1-3  TBA                                                      OLIVER E
+(F)     5  LING 7060 SEM     1  CONVERSATION/DISCOUR   3.0   310-0600      TH                                        BRODY M
+ 17     3  LING 7756 RES     1  IND RES-PHON & LING    1-3  TBA                                                      BOWLES L
+ 20        LING 7756 RES     2  IND RES-PHON & LING    1-3  TBA                                                      BRODY M
+ 20        LING 7756 RES     3  IND RES-PHON & LING    1-3  TBA                                                      BUCKINGHAM H
+ 20        LING 7756 RES     4  IND RES-PHON & LING    1-3  TBA                                                      COGBURN J
+ 18     2  LING 7756 RES     5  IND RES-PHON & LING    1-3  TBA                                                      DUBOIS S
+ 20        LING 7756 RES     6  IND RES-PHON & LING    1-3  TBA                                                      HEGARTY M
+ 20        LING 7756 RES     7  IND RES-PHON & LING    1-3  TBA                                                      KIM Y
+ 20        LING 7756 RES     8  IND RES-PHON & LING    1-3  TBA                                                      KING J
+ 19     1  LING 7756 RES     9  IND RES-PHON & LING    1-3  TBA                                                      MCDONALD J
+ 20        LING 7756 RES    10  IND RES-PHON & LING    1-3  TBA                                                      NORRIS J
+ 20        LING 7756 RES    11  IND RES-PHON & LING    1-3  TBA                                                      OETTING J
+ 18     2  LING 7756 RES    12  IND RES-PHON & LING    1-3  TBA                                                      OLIVER E
+ 20        LING 7756 RES    13  IND RES-PHON & LING    1-3  TBA                                                      OROZCO R
+ 97     2  LING 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BRODY M
+ 99        LING 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BUCKINGHAM H
+ 99        LING 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      HEGARTY M
+ 99        LING 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      KING J
+ 99        LING 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      OETTING J
+ 99        LING 8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      OLIVER E
+ 99        LING 8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      OROZCO R
+ 96     3  LING 9000 RES     2  DISSERTATION RESEARC   1-12 TBA                                                      BRODY M
+ 98     1  LING 9000 RES     7  DISSERTATION RESEARC   1-12 TBA                                                      HEGARTY M
+ 99        LING 9000 RES    10  DISSERTATION RESEARC   1-12 TBA                                                      KING J
+ 99        LING 9000 RES    14  DISSERTATION RESEARC   1-12 TBA                                                      OETTING J
+ 99        LING 9000 RES    15  DISSERTATION RESEARC   1-12 TBA                                                      OLIVER E
+ 99        LING 9000 RES    16  DISSERTATION RESEARC   1-12 TBA                                                      OROZCO R
+ 98     1  LING 9000 RES    17  DISSERTATION RESEARC   1-12 TBA                                                      MCDONALD J

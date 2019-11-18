@@ -1,0 +1,84 @@
+118   232  POLI 1001         1  FUND ISSUES POLITICS   3.0  1030-1120   M W F  0100 DODSON                           EUBANKS C
+  1    34  POLI 2051         1  AMERICAN GOVERNMENT    3.0  1130-1220   M W F  0111 COATES                           THOMPSON D
+  1    34  POLI 2051         5  AMERICAN GOVERNMENT    3.0   230-0320   M W F  0101 TUREAUD HALL                     POINT C
+  1   149  POLI 2051         2  AMERICAN GOVERNMENT    3.0  1030-1150    T TH  0010 LOCKETT                          KENNY C
+  2    48  POLI 2051         7  AMERICAN GOVERNMENT    3.0  1200-0120    T TH  1111 PATRICK TAYLOR                   HALL M
+(F)    50  POLI 2051         4  AMERICAN GOVERNMENT    3.0   600-0850N   T     0116 STUBBS                           MCKEARN K
+  4    31  POLI 2053         3  INTRO COMP POLITICS    3.0  1030-1120   M W F  0200 TUREAUD HALL                     TOJE M
+  1    49  POLI 2053         1  INTRO COMP POLITICS    3.0  1230-0120   M W F  0218 COATES                           MOKEBA H
+  3    32  POLI 2053         2  INTRO COMP POLITICS    3.0  1200-0120    T TH  0228 TUREAUD HALL                     GILLEY J
+  3    47  POLI 2057         3  INTRO INTNTL POLITIC   3.0  1230-0120   M W F  0215 TUREAUD HALL                     HOMAYOUNVASH
+  2    48  POLI 2057         1  INTRO INTNTL POLITIC   3.0   330-0620   M      0218 COATES                           MOKEBA H
+  4    71  POLI 2057         2  INTRO INTNTL POLITIC   3.0  1030-1150    T TH  0105 TUREAUD HALL                     TIRONE D
+ 23    27  POLI 2060         2  INTRO TO POLI THEORY   3.0   830-0920   M W F  0218 COATES                           VOSBURG S
+  5    30  POLI 2060         1  INTRO TO POLI THEORY   3.0   130-0220   M W F  0100 TUREAUD HALL                     VARACALLI T
+ 49     1  POLI 3000 RES     1  HONORS-HONORS THESIS   3.0  TBA                                     PERMIS OF DEPT   SOBEK D
+ 17     8  POLI 3809 SEM     1  HONORS: SEMINAR        3.0   330-0450   M W    0225 COATES                           STONER J
+ 49     1  POLI 3896 RES     1  HNRS: READNGS COURSE   1-3  TBA                                     PERMIS OF DEPT   PARENT T
+ 98     1  POLI 3896 RES     2  HNRS: READNGS COURSE   1-3  TBA                                     PERMIS OF DEPT   EUBANKS C
+  4     1  POLI 3897 RES     1  HON- READINGS COURSE   1-3  TBA                                     PERMIS OF DEPT   EUBANKS C
+ 81    18  POLI 3901 CLI     1  UG INTERNSHIP POL SC   1-6  TBA                                     PERMIS OF DEPT   PARENT T
+ 14    36  POLI 4000         1  VOTING US NATL ELECT   3.0   130-0250    T TH  0228 TUREAUD HALL                     KENNY C
+  4    46  POLI 4020         1  AM CONSTITUTIONAL L    3.0   130-0220   M W F  0218 COATES                           BRATTON K
+  5    45  POLI 4021         1  AM CONST-CIVIL LIB     3.0   900-1020    T TH  0203 TUREAUD HALL                     HALL M
+ 21    29  POLI 4023         1  JUDICIAL POLITICS      3.0   300-0420    T TH  0228 TUREAUD HALL                     HITT M
+(F)    50  POLI 4026         1  CAMPAIGNS & ELECTNS    3.0   930-1020   M W F  0104 AUDUBON                          MANN C
+  9    41  POLI 4031         1  POL PARTIES IN US      3.0  1030-1150    T TH  0218 COATES                           HOGAN R
+ 39    11  POLI 4035         1  LEGISLATIVE PROCESS    3.0   130-0250    T TH  0215 TUREAUD HALL                     HOGAN R
+  1    34  POLI 4036         1  AMERICAN PRESIDENCY    3.0  1200-0120    T TH  0123 ALLEN                            MULCAHY K
+(F)    50  POLI 4039         1  SOUTHERN POLITICS      3.0   900-1020    T TH  0229 TUREAUD HALL                     PARENT T
+  7    43  POLI 4040         1  MILITARY HISTORY       3.0   130-0250    T TH  0213 TUREAUD HALL                     SOBEK D
+  7    43  POLI 4041         1  INTERNATIONAL LAW      3.0  1030-1120   M W F  0218 COATES                           MOKEBA H
+  8    42  POLI 4043         1  AMER FOREIGN POLICY    3.0   900-1020    T TH  0228 TUREAUD HALL                     CLARE J
+ 40    15  POLI 4044         1  CONTEM INTNTL SYSTEM   3.0   930-1020   M W F  0209 COATES                           MOKEBA H
+ 25    10  POLI 4046         1  INTL POLITICAL ECON    3.0   300-0420    T TH  0108 TUREAUD HALL                     TIRONE D
+ 17    33  POLI 4048         1  INTL CONFL & COOP      3.0  1200-0120    T TH  0215 TUREAUD HALL                     CLARE J
+ 38    12  POLI 4059         1  INTL POL MIDDLE EAST   3.0   130-0250    T TH  0104 AUDUBON                          HOMAYOUNVASH
+  8    12  POLI 4060         6  POLITICAL GEOGRAPHY    3.0  1130-1220   M W F  0245 HOWE RUSSELL E                   MARKS B
+ 38    12  POLI 4060         4  TOTALITARIANISM        3.0   230-0320   M W F  0213 TUREAUD HALL                     VOSBURG S
+ 42     8  POLI 4060         8  IRAN POST-REVO POL     3.0   430-0550N   T TH  0116 STUBBS                           HOMAYOUNVASH
+  2    13  POLI 4060         3  NAZI CULTURAL POLICY   3.0   600-0720N   T TH  0218 STUBBS                           MULCAHY K
+ 43     7  POLI 4063         1  COMP POL INSTITUTNS    3.0   300-0420    T TH  0213 TUREAUD HALL                     POTTER J
+  9    41  POLI 4064         1  COMP POL DEV AREAS     3.0   500-0750N    W    0218 COATES                           MOKEBA H
+ 38    12  POLI 4067         1  THE POLITICS OF ASIA   3.0  1200-0120    T TH  0213 TUREAUD HALL                     KIM W
+ 25    25  POLI 4074         1  POL EUROPEAN UNION     3.0   900-1020    T TH  0215 TUREAUD HALL                     RAY L
+ 17    18  POLI 4081         1  HS PL TH PLATO-MORE    3.0  1030-1150    T TH  0220 STUBBS                           SANDOZ G
+  9    16  POLI 4234         1  STUD IN LIT & POLITI   3.0  1230-0120   M W F  0218 STUBBS                           EUBANKS C
+ 98     1  POLI 4996 RES     1  READINGS COURSE        1-3  TBA                                     PERMIS OF DEPT   CLARK W
+ 97     2  POLI 4996 RES     2  READINGS COURSE        1-3  TBA                                     PERMIS OF DEPT   DAVIS B
+  8     2  POLI 4996 RES     3  READINGS COURSE        1-3  TBA                                     PERMIS OF DEPT   PARENT T
+  9     1  POLI 4996 RES     4  READINGS COURSE        1-3  TBA                                     PERMIS OF DEPT   SULLIVAN J
+  9     1  POLI 4996 RES     5  READINGS COURSE        1-3  TBA                                     PERMIS OF DEPT   TIRONE D
+ 96     3  POLI 4996 RES     6  READINGS COURSE        1-3  TBA                                     PERMIS OF DEPT   MULCAHY K
+ 98     1  POLI 4996 RES     7  READINGS COURSE        1-3  TBA                                     PERMIS OF DEPT   EUBANKS C
+ 97     2  POLI 4997 RES     2  READINGS COURSE        1-3  TBA                                     PERMIS OF DEPT   MOKEBA H
+  7    13  POLI 7000 SEM     1  PROFSS DEVELOPMENT     1.0   130-0220       F  0210 STUBBS                           GARAND J
+  4    11  POLI 7900         1  SEM AMERICAN POLITIC   3.0   200-0450    T     0210 STUBBS                           DUNAWAY J
+  7     8  POLI 7941 SEM     1  CIVIL WAR              3.0   900-1150    T     0210 STUBBS                           SOBEK D
+  1    14  POLI 7961 SEM     1  APPROACH TO STUD POL   3.0   900-1150     W    0215 TUREAUD HALL                     DAVIS B
+(F)    27  POLI 7962 SEM     1  SEM RES DES QUNT TCH   3.0   900-1150   M      0240 LOCKETT                          RAY L
+(F)    19  POLI 7964 SEM     1  CATEGORICAL DATA ANA   2-3   100-0350   M      0114 AUDUBON                          GARAND J
+  5    10  POLI 7971 SEM     1  COMPARATVE ELECTIONS   3.0   200-0450     W    0210 STUBBS                           POTTER J
+  7     8  POLI 7976 SEM     1  SEM COMP POL ECONOMY   3.0   900-1150      TH  0210 STUBBS                           KIM W
+  6     9  POLI 7980 SEM     1  SEM AM POL THOUGHT     3.0   600-0850N  M      0210 STUBBS                           STONER J
+  4     1  POLI 7998 RES     1  READINGS COURSE        3.0  TBA                                     PERMIS OF DEPT   JOSEPH C
+  3     2  POLI 7998 RES     2  READINGS COURSE        3.0  TBA                                     PERMIS OF DEPT   SANDOZ G
+  5        POLI 7998 RES     4  READINGS COURSE        3.0  TBA                                     PERMIS OF DEPT   GARAND J
+  4     1  POLI 7999 RES     1  READINGS COURSE        3.0  TBA                                     PERMIS OF DEPT   CLARE J
+  4     1  POLI 7999 RES     2  READINGS COURSE        3.0  TBA                                     PERMIS OF DEPT   CLARK W
+  4     1  POLI 7999 RES     3  READINGS COURSE        3.0  TBA                                     PERMIS OF DEPT   PARENT T
+ 98     1  POLI 8000 RES    11  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   HOGAN R
+ 98     1  POLI 8000 RES    13  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SOBEK D
+ 99        POLI 8000 RES    14  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SANDOZ G
+ 98     1  POLI 9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GARAND J
+ 92     7  POLI 9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   STONER J
+ 94     5  POLI 9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SANDOZ G
+ 96     3  POLI 9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   EUBANKS C
+ 96     3  POLI 9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CLARK W
+ 98     1  POLI 9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KENNY C
+ 98     1  POLI 9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   RAY L
+ 96     3  POLI 9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BRATTON K
+ 97     2  POLI 9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SOBEK D
+ 98     1  POLI 9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   HOGAN R
+ 98     1  POLI 9000 RES    25  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DUNAWAY J
+ 98     1  POLI 9000 RES    26  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MANN C
