@@ -4,5 +4,6 @@
 (F)    14  EVEG 4105         1  QUANT. WATER MANAGE.   3.0   140-0300    T TH  2171 PATRICK TAYLOR                   MALONE R
 (F)    11  EVEG 4120         1  DSN SLD&HAZ WST MGT    3.0  1040-1200    T TH  2171 PATRICK TAYLOR                   CONSTANT W
 (F)    13  EVEG 4135         1  WTR QUAL ANLYS NAT S   4.0   840-0930   M W F  3138 PATRICK TAYLOR                   PARDUE J
+                     LAB                                     240-0530     W                                          PARDUE J
 (F)     8  EVEG 4150         1  INT ENVR SYST DESN I   3.0   140-0430   M      2149 PATRICK TAYLOR                   PARDUE J
  20    10  EVEG 4780         1  SP TOP IN EVEG DESN    3.0  1040-1130   M W F  3131 PATRICK TAYLOR                   PARDUE J

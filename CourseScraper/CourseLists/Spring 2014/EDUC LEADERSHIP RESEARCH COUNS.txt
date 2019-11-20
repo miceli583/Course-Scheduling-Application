@@ -9,9 +9,12 @@
 (F)    22  ELRC 4507         1  COMPUTER TECH EDUC     3.0   300-0420    T TH  0118 PEABODY                          HEROMAN D
 (F)    20  ELRC 4600         1  COUNSL DISABLNG COND   3.0   430-0720N    W    0120 PEABODY                          GINTNER G
   9    21  ELRC 7006         1  EDUC STATISTICS        4.0   430-0720N   T     0123 ALLEN                            KENNEDY E
+                     LAB                                    TBA                                                      KENNEDY E
   3    17  ELRC 7010         1  PRIN TEST & MEASURMT   3.0   430-0720N    W    0234 COATES                           ARBUTHNOT K
   6    19  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   430-0720N  M      0132 ALLEN                            KENNEDY E
+                     LAB                                    TBA                                                      KENNEDY E
 (F)    16  ELRC 7243         1  QUAL METH EDUC RESCH   4.0   430-0720N   T     0214 PEABODY                          MACGREGOR S
+                     LAB                                    TBA                                                      MACGREGOR S
  18     2  ELRC 7248 CLI     1  INT RES PRACTICUM      3.0  TBA                                     PERMIS OF INST   KENNEDY E
   9     1  ELRC 7248 CLI     2  INT RES PRACTICUM      3.0  TBA                                                      MACGREGOR S
  19     1  ELRC 7249 CLI     1  ADV RES PRACTICUM      3.0  TBA                                     PERMIS OF DEPT   KENNEDY E
@@ -20,6 +23,7 @@
   3    12  ELRC 7345         1  COUNS SKILLS INTERV    3.0   430-0720N   T     0120 PEABODY                          CHOATE L
   6     9  ELRC 7345         2  COUNS SKILLS INTERV    3.0   430-0720N   T     0134 ALLEN                            CSASZAR I
   4    11  ELRC 7397         1  K-12 CAREER & COLL R   3.0   430-0720N  M      0120 PEABODY                          CURRY J
+                     LAB                                    TBA                                                      CURRY J
  11     9  ELRC 7399 CLI     1  SUPV COUNSEL INTSHP    3-9   430-0720N   T     0137 ALLEN                            GINTNER G
  10    10  ELRC 7399 CLI     2  SUPV COUNSEL INTSHP    3-9   430-0720N   T     0218 PEABODY                          WALTERS V
 (F)    18  ELRC 7404 CLI     2  INTERNSHIP IN ED ADM   3-6   430-0720N  M      0114 PRESCOTT                         RAY D

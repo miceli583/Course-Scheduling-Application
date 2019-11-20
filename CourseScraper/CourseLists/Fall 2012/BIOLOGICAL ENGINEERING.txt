@@ -1,16 +1,23 @@
   3    45  BE   1250 LAB     3  INTRO ENGR METHODS     2.0  1230-0320   M W    3136 PATRICK TAYLOR  CI-VISUAL&TECH   DUGAS A
   5    30  BE   1250 LAB     1  INTRO ENGR METHODS     2.0   130-0420    T TH  0106 AG METAL BLDG   CI-VISUAL&TECH   MONROE W
 (F)    26  BE   2352         1  QUANT BIOL IN ENGR     3.0  1030-1120   M W    2171 PATRICK TAYLOR                   SATHIVEL S
+                     LAB                                     130-0420   M      1118 PATRICK TAYLOR                   SATHIVEL S
   3    22  BE   2352         2  QUANT BIOL IN ENGR     3.0  1030-1120   M W    2171 PATRICK TAYLOR                   SATHIVEL S
+                     LAB                                     130-0420    T     1118 PATRICK TAYLOR                   SATHIVEL S
  12    13  BE   3320         1  MECH DESN BIOL ENGR    3.0  1230-0120    T TH  0102 TUREAUD HALL    CI-WRITTEN&VISU  HALL S
+                     LAB                                     130-0420     W    0140 AG METAL BLDG                    HALL S
  12    13  BE   3320         2  MECH DESN BIOL ENGR    3.0  1230-0120    T TH  0102 TUREAUD HALL    CI-WRITTEN&VISU  HALL S
+                     LAB                                     130-0420      TH  0140 AG METAL BLDG                    HALL S
  23     2  BE   3989 RES     1  SPEC PROJ IN BIOL EN   1-4  TBA                                                      HAYES D
   8    32  BE   4290 RES     1  SEN ENGR DESN & PROF   2.0   930-1020   M W    0200 TUREAUD HALL    CI-SPOKEN&TECH   HAYES D
 (F)    28  BE   4303         1  ENGR PROP OF BIOL MA   3.0   930-1020    T TH  1109 PATRICK TAYLOR  CI-WRITTEN&SPOK  BOLDOR D
+                     LAB                                     130-0420   M      0140 AG METAL BLDG                    BOLDOR D
 (F)    25  BE   4303         2  ENGR PROP OF BIOL MA   3.0   930-1020    T TH  1109 PATRICK TAYLOR  CI-WRITTEN&SPOK  BOLDOR D
+                     LAB                                     130-0420    T     0140 AG METAL BLDG                    BOLDOR D
   7    18  BE   4305         1  ENGR ENTREPRENEUR I    3.0   430-0720N    W    0115 E B DORAN                        HAYES D
   7    18  BE   4332         2  MOL MTHDS BIOL ENGR    3.0  1030-1150    T TH  0200 TUREAUD HALL                     MONROE W
  10    10  BE   4341         1  BIOL REACTOR SYS DES   3.0  1030-1120    T TH  0115 E B DORAN                        THEEGALA C
+                     LAB                                     130-0420     W                                          THEEGALA C
   3    25  BE   4383         1  NATURAL RESOURCE ENG   3.0   730-0850    T TH  0115 E B DORAN                        BENGTSON R
  19     1  BE   4989 RES     2  IND STUDY IN BIOL EN   1-4  TBA                                                      HAYES D
  19     1  BE   4989 RES     3  IND STUDY IN BIOL EN   1-4  TBA                                                      HALL S

@@ -34,13 +34,17 @@
 (F)    19  ART  1849 LAB     1  INTRO TO PAINTING      3.0   840-1130   M W    0203 FOSTER          MAJORS ONLY      SMITH E
 (F)    18  ART  1849 LAB     2  INTRO TO PAINTING      3.0  1240-0330   M W    0203 FOSTER          MAJORS ONLY      KELLEY K
 (F)    24  ART  2050         1  DIGITAL ART I          3.0   840-0930   M W    0108 ART BUILDING    MAJORS ONLY      ANDRY K
+                     LAB                                     940-1130   M W    0108 ART BUILDING
 (F)    24  ART  2050         2  DIGITAL ART I          3.0   340-0430   M W    0111 ART BUILDING                     LIVAUDAIS L
+                     LAB                                     440-0630N  M W    0111 ART BUILDING
 (F)    23  ART  2050         3  DIGITAL ART I          3.0   310-0400    T TH  0108 ART BUILDING                     HERSTER M
+                     LAB                                     410-0600    T TH  0108 ART BUILDING
   9    56  ART  2411         1  SURVEY OF ASIAN ART    3.0   940-1030   M W F  0201 DESIGN BUILDING                  WANG M
  13   132  ART  2470         1  SURV 20TH CENT ART     3.0  1210-0130    T TH  0103 DESIGN BUILDING                  RYAN S
 (F)    18  ART  2544 LAB     1  LETTERFORMS            3.0   840-1130   M W    0211 ART BUILDING    PERMIS OF INST   DEAN P
 (F)    24  ART  2544 LAB     2  LETTERFORMS            3.0   910-1200    T TH  0319 ART BUILDING    PERMIS OF INST   DEAN P
 (F)    22  ART  2551         1  TYPOG FOR VISUAL COM   3.0   840-0930   M W    0111 ART BUILDING    PERMIS OF INST   JOHNSON J
+                     LAB                                     940-1130   M W    0111 ART BUILDING                     JOHNSON J
 (F)    22  ART  2564 LAB     2  GRAPHIC ABSTRACTN      3.0  1240-0330   M W    0210 ART BUILDING    PERMIS OF INST   BOWER G
 (F)    19  ART  2564 LAB     1  GRAPHIC ABSTRACTN      3.0  1210-0300    T TH  0210 ART BUILDING    PERMIS OF INST   BOWER G
 (F)    20  ART  2655 LAB     1  BASIC JEWELRY/METALS   3.0  1240-0330   M W    0216 SCULPTURE/METAL MAJORS ONLY      HENTZ C

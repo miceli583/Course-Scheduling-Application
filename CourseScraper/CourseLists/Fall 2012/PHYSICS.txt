@@ -68,8 +68,10 @@
   7     5  PHYS 2207 LAB     2  MODERN PHYSICS LAB     1.0   130-0420     W    0007 NICHOLSON                        RUPNIK D
  11    19  PHYS 2231         1  ELEC & MAGNETISM       3.0   900-1020    T TH  0106 NICHOLSON                        GAARDE M
   5    20  PHYS 2411         2  COMPUTATIONAL SCI I    3.0  1130-1220   M   F  0106 NICHOLSON                        LAUNEY K
+                     LAB                                    1130-0120     W    0365 NICHOLSON                        LAUNEY K
  95     4  PHYS 2995 RES     1  RESEARCH INTERNSHIP    1.0   430-0520N    W                                          STACY J
   9     9  PHYS 3098         1  INSTRU ELECT FOR SCI   3.0  1030-1120    T TH  0106 NICHOLSON                        ADAMS P
+                     LAB                                     130-0420     W    0017 NICHOLSON                        ADAMS P
  15    10  PHYS 4112         2  INTERM MATH PHYSICS    3.0   130-0220   M W F  0106 NICHOLSON                        BEAIRD R
  10    15  PHYS 4123         2  INTERM MECHANICS       3.0  1200-0120    T TH  0106 NICHOLSON                        LEE H
   5    20  PHYS 4142         2  INTR QUANTUM MECH      3.0   130-0250    T TH  0106 NICHOLSON                        DOWLING J

@@ -113,7 +113,9 @@
  85    14  CHEM 3900 RES     1  CHEMICAL PROBLEMS      1-3  TBA                                     PERMIS OF DEPT   RUPNIK K
  14     1  CHEM 4003 LAB     1  SCI TCH SEC SCH III    1.0  TBA                                                      ALLEN L
 (F)     2  CHEM 4005         1  RESEARCH METHODS       3.0  TBA                                                      ALLEN L
+                     LAB                                    TBA                                                      ALLEN L
   4    11  CHEM 4011         1  MACROMOLEC SYS II      3.0   130-0320   M W    0210 WILLIAMS                         POJMAN J
+                     LAB                                     130-0320   M W    0210 WILLIAMS                         POJMAN J
  20    20  CHEM 4160         1  IND ORG CHEMISTRY      3.0   300-0420    T TH  0210 WILLIAMS                         NESTEROV E
   9     7  CHEM 4553 LAB     2  EXP INST CHAR ORG CP   2.0   730-1020    T TH  0302 WILLIAMS                         RUPNIK K
   4    12  CHEM 4553 LAB     1  EXP INST CHAR ORG CP   2.0   130-0420    T TH  0302 WILLIAMS                         RUPNIK K

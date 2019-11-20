@@ -6,8 +6,11 @@
   6    14  ART  1010 LAB     1  INTRO TO DRAWING       3.0   910-1200    T TH  0107 FOSTER                           PARKER J
   1    19  ART  1010 LAB     2  INTRO TO DRAWING       3.0  1210-0300    T TH  0107 FOSTER                           PARKER J
 (F)    22  ART  1011         3  2-DIMENSIONAL DESIGN   3.0  1240-0130   M W    0334 ART BUILDING    MAJORS ONLY      WREYFORD B
+                     LAB                                     140-0330   M W    0334 ART BUILDING                     WREYFORD B
   1    19  ART  1011         1  2-DIMENSIONAL DESIGN   3.0  1110-1200    T TH  0334 ART BUILDING    MAJORS ONLY      HYMEL M
+                     LAB                                     910-1100    T TH  0334 ART BUILDING                     HYMEL M
 (F)    22  ART  1011         4  2-DIMENSIONAL DESIGN   3.0   610-0700N   T TH  0334 ART BUILDING    MAJORS ONLY      WREYFORD B
+                     LAB                                     710-0900    T TH  0334 ART BUILDING                     WREYFORD B
   3    13  ART  1012 LAB     1  3-DIMENSIONAL DESN     3.0   840-1130   M W    0226 SCULPTURE/METAL MAJORS ONLY      SCHWERD L
 (F)    18  ART  1012 LAB     7  3-DIMENSIONAL DESN     3.0  1240-0330   M W    0226 SCULPTURE/METAL MAJORS ONLY      SINGLETON M
 (F)    17  ART  1012 LAB     5  3-DIMENSIONAL DESN     3.0  1210-0300    T TH  0226 SCULPTURE/METAL MAJORS ONLY      WALSH M
@@ -36,11 +39,17 @@
   3    15  ART  1849 LAB     6  INTRO TO PAINTING      3.0  1240-0330   M W    0203 FOSTER          MAJORS ONLY      MORRIS M
   4    14  ART  1849 LAB     1  INTRO TO PAINTING      3.0   910-1200    T TH  0203 FOSTER          MAJORS ONLY      CELENTANO D
   4    18  ART  2050         6  DIGITAL ART I          3.0   840-0930   M W    0108 ART BUILDING    MAJORS ONLY      MILES C
+                     LAB                                     940-1130   M W    0108 ART BUILDING                     MILES C
   1    22  ART  2050         7  DIGITAL ART I          3.0   840-0930   M W    0111 ART BUILDING    MAJORS ONLY      OSTRENKO F
+                     LAB                                     940-1130   M W    0111 ART BUILDING                     OSTRENKO F
   1    22  ART  2050         2  DIGITAL ART I          3.0  1240-0230   M W    0111 ART BUILDING    MAJORS ONLY      MILES C
+                     LAB                                     240-0330   M W                                          MILES C
   2    20  ART  2050         8  DIGITAL ART I          3.0   340-0430   M W    0111 ART BUILDING    MAJORS ONLY      FRENCH K
+                     LAB                                     440-0630N  M W    0111 ART BUILDING                     FRENCH K
 (F)    23  ART  2050         1  DIGITAL ART I          3.0   910-1100    T TH  0108 ART BUILDING    MAJORS ONLY      LIVAUDAIS L
+                     LAB                                    1110-1200    T TH                                        LIVAUDAIS L
 (F)    24  ART  2055         2  DIGITAL ART II         3.0  1240-0230   M W    0108 ART BUILDING    CI-VISUAL&TECH   OSTRENKO F
+                     LAB                                     240-0330   M W    0108 ART BUILDING                     OSTRENKO F
 (F)    18  ART  2360 LAB     2  INTERMED PRINTMAKING   3.0   340-0630   M W                         MAJORS ONLY      HORNBROOK J
   2    16  ART  2381 LAB     1  BOOK ARTS              3.0   340-0630   M W                         MAJORS ONLY      HUNTER K
   2    16  ART  2392 LAB     1  DIGITAL PRINTMAKING    3.0   840-1130   M W                         MAJORS ONLY      ARP K
@@ -74,6 +83,7 @@
 (F)    18  ART  4551 LAB     1  GRAPHIC DESIGN II      3.0   910-1200    T TH  0208 ART BUILDING    PERMIS OF INST   JOHNSON J
   1    17  ART  4555 LAB     1  GRAPHIC DESIGN III     3.0   840-1130   M W    0302 ART BUILDING    PERMIS OF INST   HODGIN G
 (F)    21  ART  4560         2  INTERACT MEDIA FOR V   3.0   910-1100    T TH  0111 ART BUILDING    CI-VISUAL&TECH   OSTRENKO F
+                     LAB                                    1110-1200    T TH  0111 ART BUILDING                     OSTRENKO F
 (F)    54  ART  4561         1  SURVEY OF GRAPHIC DE   3.0   310-0430    T TH  0313 DESIGN BUILDING PERMIS OF INST   DEAN P
 (F)    20  ART  4564 LAB     1  SENIOR GRAPHIC DESGN   3.0  1240-0330   M W    0302 ART BUILDING    PERMIS OF INST   BAGGETT L
 (F)    18  ART  4574 CLI     1  GRAPH DSN SYNTHESIS    3.0   340-0630   M W    0302 ART BUILDING    PERMIS OF INST   BAGGETT L

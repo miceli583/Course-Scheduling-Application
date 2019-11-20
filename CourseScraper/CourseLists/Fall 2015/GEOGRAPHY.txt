@@ -5,6 +5,7 @@
   2   136  GEOG 1003         2  HUMN GEOG: AFR & ASI   3.0  1200-0120    T TH  E130 HOWE RUSSELL E                   O'KEEFE P
  16     4  GEOG 2010         1  HUMAN GEOGRAPHY        3.0  1130-1220   M W F  E220 HOWE RUSSELL E                   SLUYTER A
  21     7  GEOG 2040         1  GEOSPATIAL TECH        3.0   430-0620N  M      0260 HOWE RUSSELL E  CI-VISUAL&TECH   KENT J
+                     LAB                                     430-0620N    W    0260 HOWE RUSSELL E                   KENT J
 236   107  GEOG 2050         1  PHY GEOG ATMOSPHERE    3.0   130-0220   M W F  0130 NICHOLSON                        DELONG K
  36   288  GEOG 2050         2  PHY GEOG ATMOSPHERE    3.0  1200-0120    T TH  0100 DODSON                           ROMOLO L
   5   143  GEOG 2051         2  PHY GEOG LW SURFACES   3.0   930-1020   M W F  E130 HOWE RUSSELL E                   NAMIKAS S
@@ -12,6 +13,7 @@
  11     9  GEOG 4015         1  PHYSICAL CLIMATOLOGY   3.0   300-0420    T TH  0245 HOWE RUSSELL E                   ROHLI R
  17    18  GEOG 4031         1  LATN AMER & CARIBB     3.0   130-0250    T TH  0245 HOWE RUSSELL E                   MATHEWSON K
  11    17  GEOG 4045         1  ENVRNMNTL REMOTE SEN   3.0   430-0620N   T     0260 HOWE RUSSELL E                   MENG X
+                     LAB                                     430-0620N     TH  0260 HOWE RUSSELL E                   MENG X
   7    21  GEOG 4047         1  GEOG INFORMAT SYSTMS   3.0  1130-1220   M W F  0260 HOWE RUSSELL E                   WANG L
   9    19  GEOG 4047         2  GEOG INFORMAT SYSTMS   3.0  1030-1150    T TH  0260 HOWE RUSSELL E                   WANG F
  12     8  GEOG 4061         1  POLITICAL GEOGRAPHY    3.0  1030-1120   M W F  0023 ALLEN                            MARKS B

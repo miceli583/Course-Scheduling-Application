@@ -1,13 +1,20 @@
   8    55  AGRO 1001         1  MANAGED PLANT SYSTEM   3.0  1240-0130   M W    0232 J C MILLER                       HIMELRICK D
+                     LAB                                     140-0230   M W    0232 J C MILLER                       HIMELRICK D
   6    12  AGRO 2051         1  SOIL SCIENCE           4.0   840-0930   M W F  0134 M B STURGIS                      GASTON L
+                     LAB                                    1240-0230   M      0241 M B STURGIS                      GASTON L
   8    10  AGRO 2051         2  SOIL SCIENCE           4.0   840-0930   M W F  0134 M B STURGIS                      GASTON L
+                     LAB                                     240-0430   M      0241 M B STURGIS                      GASTON L
  14     1  AGRO 3010 RES     1  RESEARCH PROBLEMS      3.0  TBA                                                      STAFF
   8    12  AGRO 3040         1  SOIL CONSERVATION      2.0   240-0430   M      0134 M B STURGIS                      WEINDORF D
  98     1  AGRO 3090 CLI     1  AGRO INTERNSHIP        3.0  TBA                                     PERMIS OF INST   WALSH M
   7    13  AGRO 4055         1  CHEM PROP OF SOILS     4.0   840-0930   M W F  0132 M B STURGIS                      WANG J
+                     LAB                                     140-0430      TH  0239 M B STURGIS                      STIETIYA M
  20        AGRO 4058         1  SOIL MORPHOL & CLASS   4.0   940-1030   M W F  0135 M B STURGIS                      WEINDORF D
+                     LAB                                     240-0500       F  0132 M B STURGIS                      STAFF
   3    22  AGRO 4070         1  WEED SCIENCE & ENVIR   3.0  1240-0230     W    0135 M B STURGIS                      GRIFFIN J
+                     LAB                                     240-0430     W    0132 M B STURGIS                      GRIFFIN J
  18     7  AGRO 4071         1  WEED BIOLOGY & ECOLO   3.0  TBA                                                      WEBSTER E
+                     LAB                                    TBA                                                      WEBSTER E
  15        AGRO 4091 RES     1  SP TOP IN CROP SCI     1-3  TBA                                                      OARD J
  10        AGRO 4091 RES     2  SP TOP IN CROP SCI     1-3  TBA                                                      STAFF
  15        AGRO 4091 RES     3  SP TOP IN CROP SCI     1-3  TBA                                                      STAFF

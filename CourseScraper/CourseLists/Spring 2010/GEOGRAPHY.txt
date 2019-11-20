@@ -6,12 +6,14 @@
 (F)   148  GEOG 2050         2  PHY GEOG ATMOSPHERE    3.0  1240-0130   M W F  E130 HOWE RUSSELL CO                  BITTON M
 113   262  GEOG 2051         1  PHY GEOG LW SURFACES   3.0  1040-1200    T TH  0130 HOWE RUSSELL CO                  NAMIKAS S
   5    23  GEOG 2055         1  MAP READING            3.0  1240-0230     W    0245 HOWE RUSSELL CO                  KESEL R
+                     LAB                                     240-0430     W    0245 HOWE RUSSELL CO                  KESEL R
  13    17  GEOG 4014         2  CLIMATOLOGY            3.0   910-1030    T TH  0245 HOWE RUSSELL CO                  GRYMES J
  24    11  GEOG 4015         1  PHYSICAL CLIMATOLOGY   3.0   310-0600    T     E131 HOWE RUSSELL CO                  ROHLI R
  30    10  GEOG 4022         1  GEOMORPHOLOGY          3.0  1040-1130   M W F  E131 HOWE RUSSELL CO                  KESEL R
   1    17  GEOG 4033         1  CNTRL ASIA & AFGHAN    3.0  1140-1230   M W F  0245 HOWE RUSSELL CO                  ROWE W
   4    26  GEOG 4044         1  COMPUTER CARTOGRAPHY   3.0   910-1030    T TH                                        LEITNER M
   2    26  GEOG 4045         1  ENVRNMNTL REMOTE SEN   3.0  1140-1230   M W    0260 HOWE RUSSELL CO                  WANG L
+                     LAB                                    1140-0130       F  0260 HOWE RUSSELL CO                  WANG L
  10    20  GEOG 4046         1  WEBMAPPING             3.0   610-0730N   T TH                                        JONES F
 (F)    28  GEOG 4047         1  GEOG INFORMAT SYSTMS   3.0   940-1030   M W F  0260 HOWE RUSSELL CO                  WANG L
   2     8  GEOG 4051         1  N AFRICA & MID EAST    3.0   510-0630N  M W                         CI-WRITTEN&SPOK  ROWE W

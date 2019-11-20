@@ -5,8 +5,11 @@
   1    54  PETE 2031         2  RESERVOIR ROCK PROP    3.0   910-1030    T TH  2427 PATRICK TAYLOR                   KAM S
  22    28  PETE 2032         1  RESERVOIR FLUID PROP   3.0  1210-0130    T TH  2427 PATRICK TAYLOR                   RAO D
 (F)    22  PETE 2060         4  COMP MTHDS PETE        2.0   310-0400    T     2162 PATRICK TAYLOR                   PAIDIN W
+                     LAB                                     140-0300      TH                                        PAIDIN W
 (F)    22  PETE 2060         5  COMP MTHDS PETE        2.0   310-0400    T     2162 PATRICK TAYLOR                   PAIDIN W
+                     LAB                                     310-0430      TH                                        PAIDIN W
 (F)    21  PETE 2060         6  COMP MTHDS PETE        2.0   310-0400    T     2162 PATRICK TAYLOR                   PAIDIN W
+                     LAB                                    1040-1200      TH                                        PAIDIN W
  11    89  PETE 3025         1  ECON ASPECTS PET PRO   3.0   140-0300    T TH  0103 TUREAUD HALL                     KAISER M
   8    52  PETE 3036         1  WELL LOGGING           3.0   940-1030   M W F  2427 PATRICK TAYLOR                   DAHI TALEGHAN
 (F)    60  PETE 3036         2  WELL LOGGING           3.0  1040-1130   M W F  2427 PATRICK TAYLOR                   DAHI TALEGHAN

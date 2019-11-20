@@ -22,11 +22,16 @@
   5    20  CE   3410 LAB     3  MECHNCS OF MATLS LAB   1.0   330-0620      TH                                        MALEKMOTIEI L
  30    70  CE   3415         1  STRUCTRL ANALYSIS I    3.0   130-0250   M W    0139 ALLEN                            CAI C
 (F)    30  CE   3500         1  PLANE SURV & MEASURE   3.0  1130-1220   M W    1221 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     230-0520   M      0200 TUREAUD HALL                     MUGNIER C
   1    29  CE   3500         2  PLANE SURV & MEASURE   3.0  1130-1220   M W    1221 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     300-0550     W    0200 TUREAUD HALL                     MUGNIER C
  11    19  CE   3500         3  PLANE SURV & MEASURE   3.0  1130-1220   M W    1221 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     230-0520    T     0200 TUREAUD HALL                     MUGNIER C
  24    50  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1030-1150    T TH  2113 PATRICK TAYLOR                   WOLSHON P
 (F)    25  CE   3700         1  ENGINEERING MAT LAB    1.0   330-0420    T     0109 TUREAUD HALL                     COOPER S
+                     LAB                                     430-0620N   T     0119 TUREAUD HALL                     COOPER S
 (F)    25  CE   3700         2  ENGINEERING MAT LAB    1.0   330-0420    T     0109 TUREAUD HALL                     COOPER S
+                     LAB                                     430-0620N     TH  0119 TUREAUD HALL                     COOPER S
 (F)   174  CE   4200         1  HYDROLOGY              3.0   730-0850    T TH  0005 LOCKETT                          TSAI F
  36    24  CE   4300         1  GEOTECHNICAL ENGR II   3.0  1030-1150    T TH  0211 TUREAUD HALL                     JUNG J
  28    22  CE   4320         1  COASTAL ENGINEERING    3.0   130-0250    T TH  0229 TUREAUD HALL                     CHEN Q
@@ -36,10 +41,14 @@
  13    17  CE   4435         1  INDETERM STRUCT ANAL   3.0   500-0620N  M W    2113 PATRICK TAYLOR                   ALY SAYED AHM
  24     6  CE   4440         1  ADV MCHNCS OF MATRLS   3.0  1030-1150    T TH  0206 WILLIAMS                         MOORTHY S
  11     9  CE   4500         1  GEODETIC PHOTO SUR     3.0   500-0650N  M      0112 TUREAUD HALL                     MUGNIER C
+                     LAB                                     700-0950N  M      0112 TUREAUD HALL                     MUGNIER C
   4    16  CE   4520         1  ADVANCED SURVEYING     3.0   500-0650N   T     0117 TUREAUD HALL                     MUGNIER C
+                     LAB                                     700-0950N   T     0117 TUREAUD HALL                     MUGNIER C
 (F)    65  CE   4670         1  FUND OF PAVEMENT DES   3.0   130-0250    T TH  0221 TUREAUD HALL                     ELSEIFI M
 (F)    71  CE   4750         1  PRF ISS CONC DESN CE   2.0   930-1120   M      1221 PATRICK TAYLOR  CI-WRITTEN&SPOK  WILLIAMS M
+                     LAB                                     300-0450     W    0221 TUREAUD HALL                     WILLIAMS M
  37    23  CE   4760         1  CIVIL ENGR DESIGN      3.0   300-0450    T     2113 PATRICK TAYLOR                   CRAIN J
+                     LAB                                     300-0550      TH  2113 PATRICK TAYLOR                   CRAIN J
  14     6  CE   7100         1  THY/OPR WWTR TREAT     3.0  1030-1150    T TH  1835 BUS ED N WING                    MOE W
  11     9  CE   7265         1  ADV SUB HYDROL/HYDRA   3.0   300-0420    T TH  0108 TUREAUD HALL                     TSAI F
   9    11  CE   7280         1  MODEL PHYS HYDROLOGY   3.0   900-1020    T TH  0108 TUREAUD HALL                     DENG Z

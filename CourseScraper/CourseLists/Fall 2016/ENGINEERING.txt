@@ -1,7 +1,9 @@
  61    14  ENGR 1050         1  INTRO TO ENGINEERING   2.0   300-0420    T TH  0202 WILLIAMS        CI-SPOKEN&VISUA  CODJOE J
  48    12  ENGR 2050 SEM     2  SEMINAR                1.0  TBA                                     C-I TECH         DAVIS P
   4    20  ENGR 3100         1  INTRO ROBOTICS         3.0   300-0450    T     0101 TUREAUD HALL                     KNAPP G
+                     LAB                                     300-0550      TH  0101 TUREAUD HALL                     KNAPP G
  10    10  ENGR 4100         1  INDUSTRIAL ROBOTICS    3.0  1230-0220     W    0101 TUREAUD HALL                     DE QUEIROZ M
+                     LAB                                    1230-0320       F  0101 TUREAUD HALL                     DE QUEIROZ M
  98     1  ENGR 9000 RES     1  DISSERTATION RES       1-12  800-0450   MTWTF                                        HARVEY C
  98     1  ENGR 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      AGHAZADEH F
  98     1  ENGR 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      LIAO T

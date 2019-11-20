@@ -13,11 +13,13 @@
   7     8  GEOG 4024         1  COASTAL MORPHODYNAM    3.0   130-0250    T TH  2228 PATRICK TAYLOR                   XU K
   7    21  GEOG 4044         1  COMPUTER CARTOGRAPHY   3.0   600-0850N     TH  0260 HOWE RUSSELL E                   COUVILLION B
  12    16  GEOG 4045         1  ENVRNMNTL REMOTE SEN   3.0   230-0320   M W    0260 HOWE RUSSELL E                   WANG L
+                     LAB                                     330-0420   M W    0260 HOWE RUSSELL E                   WANG L
   5    23  GEOG 4046         1  WEB GIS                3.0   900-1020    T TH  0260 HOWE RUSSELL E                   DRISKELL L
   2    26  GEOG 4047         1  GEOG INFORMAT SYSTMS   3.0  1030-1120   M W F  0260 HOWE RUSSELL E                   WANG L
  25    10  GEOG 4078         1  ENVIRN & DEVELOPMENT   3.0  1130-1220   M W F  0245 HOWE RUSSELL E                   O'KEEFE P
  32     8  GEOG 4090         1  HIST OF GEOGRAPHY      3.0  1200-0120    T TH  0245 HOWE RUSSELL E                   MATHEWSON K
   1    17  GEOG 4164         1  DELTAIC GEOLOGY        3.0   730-0820    T TH  E131 HOWE RUSSELL E                   BENTLEY S
+                     LAB                                     330-0520    T     0360 HOWE RUSSELL E                   BENTLEY S
 373     2  GEOG 4998 RES     1  INDPDNT STUDY & RES    1-6  TBA                                     PERMIS OF INST   TREPANIER J
 374     1  GEOG 4998 RES     2  INDPDNT STUDY & RES    1-6  TBA                                     PERMIS OF INST   SLUYTER A
  19     1  GEOG 4998 RES     3  INDPDNT STUDY & RES    1-6  TBA                                     PERMIS OF INST   COLTEN C

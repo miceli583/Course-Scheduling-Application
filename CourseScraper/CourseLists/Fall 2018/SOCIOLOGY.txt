@@ -13,9 +13,13 @@
 (F)    30  SOCL 2002         1  HNRS: INTRO SOCL       3.0   130-0220   M W F  0203 WOODIN HALL                      O'NEIL R
   3    27  SOCL 2002         2  HNRS: INTRO SOCL       3.0  1030-1150    T TH  0203 WOODIN HALL                      SHRUM W
   4    21  SOCL 2201         1  INTR STAT ANALYSIS     4.0   900-1020    T TH  E131 HOWE RUSSELL E  MAJORS ONLY      RACKIN H
+                     LAB                                     130-0320   M      0102 STUBBS
  13    12  SOCL 2201         2  INTR STAT ANALYSIS     4.0   900-1020    T TH  E131 HOWE RUSSELL E  MAJORS ONLY      RACKIN H
+                     LAB                                     330-0520   M      0102 STUBBS
   1    24  SOCL 2201         3  INTR STAT ANALYSIS     4.0  1200-0120    T TH  0054 ALLEN           MAJORS ONLY      KIM H
+                     LAB                                     130-0320     W    0102 STUBBS
   2    23  SOCL 2201         4  INTR STAT ANALYSIS     4.0  1200-0120    T TH  0054 ALLEN           MAJORS ONLY      KIM H
+                     LAB                                     330-0520     W    0102 STUBBS
  27    23  SOCL 2211         2  METHODS OF SOCL RES    3.0  1130-1220   M W F  0228 TUREAUD HALL    MAJORS ONLY      AYDOGDU R
   4    46  SOCL 2211         1  METHODS OF SOCL RES    3.0   130-0250    T TH  0102 TUREAUD HALL    MAJORS ONLY      THOMAS D
  33    57  SOCL 2301         1  INTRO TO CRIME STUD    3.0   930-1020   M W F  0228 COATES                           CHAUVIN C

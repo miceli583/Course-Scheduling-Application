@@ -7,11 +7,15 @@
 (F)    23  LA   2201         1  LANDSCAPE HISTORY I    3.0   830-0920   M W F  0201 DESIGN BUILDING                  RISK J
 (F)    13  LA   3001 LAB     1  LANDSCAPE DESN III     6.0   100-0450   M W F  0324 DESIGN BUILDING CI-SPOKEN&VISUA  GALINSKI A
 (F)    13  LA   3301         1  LAND ARCH TECH II      3.0   130-0220    T TH  0313 DESIGN BUILDING                  MILAZZO J
+                     LAB                                     230-0420    T TH  0313 DESIGN BUILDING                  MILAZZO J
  10    12  LA   3401         1  PLANT MATERIALS I      3.0   900-0950    T TH  0308 DESIGN BUILDING                  FRYLING C
+                     LAB                                    1000-1150    T TH  0308 DESIGN BUILDING                  FRYLING C
 (F)    13  LA   4001 LAB     1  LANDSCAPE DESIGN V     6.0   100-0450   M W F  0322 DESIGN BUILDING CI-WRITTEN&VISU  HOLZMAN J
   1    13  LA   4008 LAB     2  ADV TOPICS STUDIO      6.0   100-0450   M W F  0326 DESIGN BUILDING                  MOSSOP E
   2    15  LA   4201         3  PLAN THEORY & MTHDS    3.0   900-1020   M W    0301 DESIGN BUILDING CI-WRITTEN&TECH  LIPSCHITZ F
+                     LAB                                     900-1020   M W    0301 DESIGN BUILDING                  LIPSCHITZ F
 (F)    13  LA   4301         3  LANDSCAPE TECH IV      3.0   500-0750N    W    0313 DESIGN BUILDING                  MICHAELS K
+                     LAB                                     500-0750N    W    0313 DESIGN BUILDING                  MICHAELS K
 (F)     1  LA   4502 RES     1  IND STUDY IN L A       3.0  TBA                                                      ALLEN A
 (F)     1  LA   4502 RES     2  IND STUDY IN L A       3.0  TBA                                                      MOSSOP E
  10    15  LA   4504 SEM     1  ADV ELECTIVE IN L A    3.0   930-1220   M      0220 DESIGN BUILDING CI-WRITTEN&SPOK  DOUGLAS W

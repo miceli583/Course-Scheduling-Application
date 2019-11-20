@@ -3,7 +3,9 @@
  21     9  EE   3320         1  ELEC MAGNETIC FLDS     3.0  1100-1200   MTWTF  3140 PATRICK TAYLOR                   RABALAIS M
  19    11  EE   3750         1  MICROPROCESSR SYSTMS   2.0  1210-0110   MTWTH  3142 PATRICK TAYLOR                   DE SOUZA G
   1    15  EE   3751         1  MICROPROCESSOR LAB     2.0   120-0220   M W    3141 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     230-0430   M W    0302 ELECTRICAL ENGR                  DE SOUZA G
   6    10  EE   3751         2  MICROPROCESSOR LAB     2.0   120-0220   M W    3141 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     230-0430    T TH  0302 ELECTRICAL ENGR                  DE SOUZA G
  23     7  EE   3950         1  ELECTRONICS            2.0  0840-0940   MTWTH  2228 PATRICK TAYLOR                   DE SOUZA G
 (F)     1  EE   7091 RES     1  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   DANIELS-RACE
   1        EE   7091 RES     2  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT

@@ -6,6 +6,7 @@
  55    45  OCS  1005         6  INTRO OCEANOGRAPHY     3.0  TBA                                     100% WEB BASED   SUTOR M
  15    10  OCS  1006         1  HNRS: INTR OCEANOGR    3.0   900-1020    T TH  0201 TUREAUD HALL                     LAROCK P
 (F)    25  OCS  2007         2  INTRO MAR SCI GEO&PH   4.0  1030-1150    T TH  1070 ENER,COAST,& EN                  WALKER N
+                     LAB                                    1200-0150      TH                                        WALKER N
   9    16  OCS  2011         1  MATLAB COASTAL SCI     3.0   900-1020    T TH  1280 ENER,COAST,& EN                  BENFIELD M
  43    37  OCS  3103         1  GLOBAL ENVIR CYCLES    3.0  1230-0120   M W F  0206 TUREAUD HALL                     LAWS E
  27    13  OCS  3200         1  HURRICANES & TYPHOON   3.0   130-0250    T TH  2150 PATRICK TAYLOR  CI-WRITTEN&SPOK  LIU K
@@ -19,9 +20,11 @@
 (F)    19  OCS  4126         1  CHEMICAL OCEANOGRAPH   3.0  1030-1150    T TH  2171 PATRICK TAYLOR  CI-WRITTEN&SPOK  MAITI K
 (F)    26  OCS  4170         1  PHY OCEANOGRAPHY       3.0   930-1020   M W F  1070 ENER,COAST,& EN                  ROUSE L
   6    10  OCS  4372         1  ESTUARINE ECOLOGY      4.0   300-0420    T TH  0100 TUREAUD HALL                     TWILLEY R
+                     LAB                                    TBA                                                      TWILLEY R
   6     9  OCS  4410         1  ECOSYSTM MODELING      3.0   400-0650      TH                       CI-WRITTEN&TECH  JUSTIC D
   5    20  OCS  4465         1  SEM COAST ZONE MGT     3.0   500-0750N  M      0101 TUREAUD HALL                     KEMP G
   1     9  OCS  4565         1  RESTORATION ECOLOGY    3.0   300-0420   M W    1215 ENER,COAST,& EN PERMIS OF INST   TURNER R
+                     LAB                                    TBA                                                      TURNER R
  14     1  OCS  7001 RES     2  SUPERVISED TEACHING    1-6  TBA                                                      MAITI K
  14     1  OCS  7112         1  CONCEPTS IN MAR ECOT   3.0   300-0420   M W    3178 ENER,COAST,& EN                  PORTIER R
   3     9  OCS  7129         1  GLOB CLIM CHG & WETL   3.0   300-0420    T TH  3178 ENER,COAST,& EN                  RIVERA-MONROY

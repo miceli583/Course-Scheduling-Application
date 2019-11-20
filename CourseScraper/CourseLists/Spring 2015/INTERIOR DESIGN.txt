@@ -1,13 +1,17 @@
   1   279  ID   1051         1  INTRO INTERIOR DESGN   3.0  1030-1150    T TH  0143 COATES                           CAMPBELL J
 (F)    24  ID   1780         1  ID TECHNICAL DRAWING   3.0   800-0820   M W    0425 DESIGN BUILDING PERMIS OF DEPT   EDMONDS M
+                     LAB                                     830-1020   M W    0425 DESIGN BUILDING                  EDMONDS M
 (F)    17  ID   2751 LAB     1  INTER DESN STUD II     4.0   100-0450   M   F  0422 DESIGN BUILDING MAJORS ONLY      ZOU J
 (F)    17  ID   2751 LAB     2  INTER DESN STUD II     4.0   100-0450   M   F  0423 DESIGN BUILDING MAJORS ONLY      CAMPBELL J
 (F)    18  ID   2770         1  COLOR & ILLUMIN I      3.0   900-0920    T TH  0422 DESIGN BUILDING MAJORS ONLY      CAMPBELL J
+                     LAB                                     930-1120    T TH  0422 DESIGN BUILDING                  CAMPBELL J
 (F)    17  ID   2770         2  COLOR & ILLUMIN I      3.0   900-0920    T TH  0423 DESIGN BUILDING MAJORS ONLY      ZOU J
+                     LAB                                     930-1120    T TH  0423 DESIGN BUILDING                  ZOU J
   6    34  ID   2775         1  INT MAT/FINISH/FURN    3.0   930-1050   M W    0401 DESIGN BUILDING MAJORS ONLY      BURNS T
 (F)    16  ID   3753 LAB     1  INTER DSN STUD IV      4.0   100-0450   M   F  0417 DESIGN BUILDING MAJORS ONLY      TEBBUTT P
 (F)    17  ID   3753 LAB     2  INTER DSN STUD IV      4.0   100-0450   M   F  0414 DESIGN BUILDING MAJORS ONLY      DUNN M
 (F)    31  ID   3782         1  ID CONSTRUCT DOCS      3.0   500-0520N   T TH  0425 DESIGN BUILDING MAJORS ONLY      EDMONDS M
+                     LAB                                     530-0720N   T TH  0425 DESIGN BUILDING                  EDMONDS M
 (F)    15  ID   4742         1  ID ISSUES & THEORY     3.0  1030-1150   M   F  0411 DESIGN BUILDING MAJORS ONLY      CAMPBELL J
 (F)    16  ID   4742         2  ID ISSUES & THEORY     3.0  1030-1150   M   F  0412 DESIGN BUILDING MAJORS ONLY      DUNN M
   3    13  ID   4755 LAB     1  ID STUDIO VI           4.0   100-0450   M   F  0404 DESIGN BUILDING MAJORS ONLY      RITCHIE T
@@ -17,3 +21,4 @@
   3     7  ID   4758 CLI     1  ADV STDS INT DESN      1-6   830-0950    T TH  0411 DESIGN BUILDING                  EDMONDS M
 (F)    15  ID   4773         1  PRIN SUSTAINABILITY    3.0   600-0720N  M W    0401 DESIGN BUILDING                  CUDDEBACK M
 (F)    15  ID   4786         1  ADV COMPUTER VISUAL    3.0  1030-1050    T TH  0427 DESIGN BUILDING                  TEBBUTT P
+                     LAB                                    1100-1250    T TH  0427 DESIGN BUILDING                  TEBBUTT P

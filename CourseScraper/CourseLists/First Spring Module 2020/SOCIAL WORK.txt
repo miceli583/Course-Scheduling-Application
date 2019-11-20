@@ -1,35 +1,35 @@
- 20        SW   7005         1  PRAC W IND & FAM       3.0  TBA                                     MAJORS ONLY      MCILWAIN L
- 20        SW   7005         2  PRAC W IND & FAM       3.0  TBA                                     MAJORS ONLY      MCILWAIN L
- 20        SW   7005         3  PRAC W IND & FAM       3.0  TBA                                     LSU ONLINE       ROUTON E
+(F)    20  SW   7005         1  PRAC W IND & FAM       3.0  TBA                                     MAJORS ONLY      MCILWAIN L
+(F)    20  SW   7005         2  PRAC W IND & FAM       3.0  TBA                                     MAJORS ONLY      MCILWAIN L
+ 14     6  SW   7005         3  PRAC W IND & FAM       3.0  TBA                                     LSU ONLINE       ROUTON E
  20        SW   7005         4  PRAC W IND & FAM       3.0  TBA                                     LSU ONLINE
- 20        SW   7005         5  PRAC W IND & FAM       3.0  TBA                                     LSU ONLINE       CONRAD B
+  3    17  SW   7005         5  PRAC W IND & FAM       3.0  TBA                                     LSU ONLINE       CONRAD B
  20        SW   7005         6  PRAC W IND & FAM       3.0  TBA                                     100% WEB BASED   CONRAD B
  20        SW   7005         7  PRAC W IND & FAM       3.0  TBA                                     LSU ONLINE
  20        SW   7005         8  PRAC W IND & FAM       3.0  TBA                                     100% WEB BASED
- 30        SW   7006         1  PRAC W FRP ORG & COM   3.0  TBA                                     LSU ONLINE       HUNTER D
- 30        SW   7006         2  PRAC W FRP ORG & COM   3.0  TBA                                     100% WEB BASED   HUNTER D
-150        SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     LSU ONLINE       LILLEY T
-150        SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     100% WEB BASED   LILLEY T
- 25        SW   7009 RES     1  SOCIAL WORK RESEARCH   3.0  TBA                                     MAJORS ONLY      NORWOOD R
- 25        SW   7009 RES     2  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   NORWOOD R
- 25        SW   7009 RES     3  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   ROBISON S
- 25        SW   7009 RES     4  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   JAGGERS J
- 25        SW   7009 RES     5  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   JAGGERS J
- 25        SW   7009 RES     6  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   DINECOLA C
- 25        SW   7009 RES     7  SOCIAL WORK RESEARCH   3.0  TBA                                     LSU ONLINE       DINECOLA C
+  7    23  SW   7006         1  PRAC W FRP ORG & COM   3.0  TBA                                     LSU ONLINE       HUNTER D
+ 29     1  SW   7006         2  PRAC W FRP ORG & COM   3.0  TBA                                     100% WEB BASED   HUNTER D
+115    35  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     LSU ONLINE       LILLEY T
+147     3  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     100% WEB BASED   LILLEY T
+  3    22  SW   7009 RES     1  SOCIAL WORK RESEARCH   3.0  TBA                                     MAJORS ONLY      NORWOOD R
+ 20     5  SW   7009 RES     2  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   NORWOOD R
+ 23     2  SW   7009 RES     3  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   ROBISON S
+  4    21  SW   7009 RES     4  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   JAGGERS J
+ 24     1  SW   7009 RES     5  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   JAGGERS J
+  4    21  SW   7009 RES     6  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   DINECOLA C
+ 18     7  SW   7009 RES     7  SOCIAL WORK RESEARCH   3.0  TBA                                     LSU ONLINE       DINECOLA C
  25        SW   7009 RES     8  SOCIAL WORK RESEARCH   3.0  TBA                                     100% WEB BASED   CHIANG C
- 30        SW   7404         1  SW PRACT IN SCHOOLS    3.0  TBA                                     100% WEB BASED   AINSWORTH L
- 29     1  SW   7406         1  SW W/LGBTQ PEOPLE      3.0  TBA                                     MAJORS ONLY      LANDRENEAU C
- 30        SW   7412         1  SW IN MEDICAL CARE     3.0  TBA                                     100% WEB BASED   WILLIAMS A
- 30        SW   7416         1  CHILD/FAMILY II        3.0  TBA                                     MAJORS ONLY      YANG M
-150        SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     100% WEB BASED   LILLEY T
-150        SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     100% WEB BASED   LILLEY T
- 25        SW   7504         1  ADV SOCIAL POLICY      3.0  TBA                                     100% WEB BASED   CHURCH W
- 25        SW   7504         2  ADV SOCIAL POLICY      3.0  TBA                                     MAJORS ONLY      CHURCH W
- 24     1  SW   7504         3  ADV SOCIAL POLICY      3.0  TBA                                     MAJORS ONLY
- 24     1  SW   7504         4  ADV SOCIAL POLICY      3.0  TBA                                     MAJORS ONLY
- 25        SW   7504         5  ADV SOCIAL POLICY      3.0  TBA                                     LSU ONLINE
- 25        SW   7504         6  ADV SOCIAL POLICY      3.0  TBA                                     LSU ONLINE
- 30        SW   7804         1  ADDICTIVE DISORDERS    3.0  TBA                                     LSU ONLINE       JACKSON R
- 28     2  SW   7807 SEM     1  SP TOP: SOCIAL WORK    3.0  TBA                                     MAJORS ONLY      DINECOLA C
- 29     1  SW   7807 SEM     2  SP TOP: SOCIAL WORK    3.0  TBA                                     LSU ONLINE       COLSON T
+ 22     8  SW   7404         1  SW PRACT IN SCHOOLS    3.0  TBA                                     100% WEB BASED   AINSWORTH L
+ 22     8  SW   7406         1  SW W/LGBTQ PEOPLE      3.0  TBA                                     MAJORS ONLY      LANDRENEAU C
+ 20    10  SW   7412         1  SW IN MEDICAL CARE     3.0  TBA                                     100% WEB BASED   WILLIAMS A
+ 24     6  SW   7416         1  CHILD/FAMILY II        3.0  TBA                                     MAJORS ONLY      YANG M
+115    35  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     100% WEB BASED   LILLEY T
+110    40  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     100% WEB BASED   LILLEY T
+(F)    25  SW   7504         1  ADV SOCIAL POLICY      3.0  TBA                                     100% WEB BASED   CHURCH W
+(F)    25  SW   7504         2  ADV SOCIAL POLICY      3.0  TBA                                     MAJORS ONLY      CHURCH W
+(F)    25  SW   7504         3  ADV SOCIAL POLICY      3.0  TBA                                     MAJORS ONLY
+(F)    25  SW   7504         4  ADV SOCIAL POLICY      3.0  TBA                                     MAJORS ONLY
+ 10    15  SW   7504         5  ADV SOCIAL POLICY      3.0  TBA                                     LSU ONLINE
+ 22     3  SW   7504         6  ADV SOCIAL POLICY      3.0  TBA                                     LSU ONLINE
+  9    21  SW   7804         1  ADDICTIVE DISORDERS    3.0  TBA                                     LSU ONLINE       JACKSON R
+  4    26  SW   7807 SEM     1  SP TOP: SOCIAL WORK    3.0  TBA                                     MAJORS ONLY      DINECOLA C
+ 22     8  SW   7807 SEM     2  SP TOP: SOCIAL WORK    3.0  TBA                                     LSU ONLINE       COLSON T

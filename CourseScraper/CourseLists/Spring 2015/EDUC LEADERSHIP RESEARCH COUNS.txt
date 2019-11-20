@@ -9,10 +9,15 @@
 (F)    27  ELRC 4507         1  COMPUTER TECH EDUC     3.0   430-0720N   T                                           HEROMAN D
   8     9  ELRC 4600         1  COUNSL DISABLNG COND   3.0   430-0720N    W    0120 PEABODY                          GINTNER G
  11    19  ELRC 5300         1  GIRL/WOMEN ISU COUSL   3.0  TBA                                     100% WEB BASED   CHOATE L
+                     LAB                                    TBA                                                      CHOATE L
   3    12  ELRC 7006         1  EDUC STATISTICS        4.0   430-0720N   T     0111 LOCKETT                          KENNEDY E
+                     LAB                                     130-0320    T     0205 COATES                           KENNEDY E
 (F)    15  ELRC 7006         2  EDUC STATISTICS        4.0   430-0720N   T     0111 LOCKETT                          KENNEDY E
+                     LAB                                    TBA
  17     8  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   430-0720N  M      0059 ALLEN                            KENNEDY E
+                     LAB                                    TBA
 (F)    15  ELRC 7243         1  QUAL METH EDUC RESCH   4.0   430-0720N   T     0214 PEABODY                          MACGREGOR S
+                     LAB                                    TBA                                                      MACGREGOR S
  97     2  ELRC 7248 CLI     1  INT RES PRACTICUM      3.0  TBA                                     PERMIS OF DEPT   KENNEDY E
  98     1  ELRC 7248 CLI     2  INT RES PRACTICUM      3.0  TBA                                     PERMIS OF DEPT   MACGREGOR S
   4    11  ELRC 7290 RES     2  SM: EDUC RES METHOD    1-3   430-0720N    W    0209 COATES                           ARBUTHNOT K

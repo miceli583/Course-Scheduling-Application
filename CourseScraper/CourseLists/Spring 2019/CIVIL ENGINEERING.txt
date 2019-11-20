@@ -22,12 +22,18 @@
 (F)    28  CE   3410 LAB     3  MECHNCS OF MATLS LAB   1.0   430-0720N    W                                          SAFFARINI M
  47    47  CE   3415         1  STRUCTRL ANALYSIS I    3.0   130-0250    T TH  0206 TUREAUD HALL                     WU Z
  12    18  CE   3500         1  PLANE SURV & MEASURE   3.0  1130-1220   M W                                          MUGNIER C
+                     LAB                                     230-0520   M                                            MUGNIER C
  10    20  CE   3500         2  PLANE SURV & MEASURE   3.0  1130-1220   M W                                          MUGNIER C
+                     LAB                                     230-0520     W                                          MUGNIER C
  19    11  CE   3500         3  PLANE SURV & MEASURE   3.0  1130-1220   M W                                          MUGNIER C
+                     LAB                                     230-0520    T                                           MUGNIER C
   1    67  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1030-1150   M W    1236 PATRICK TAYLOR                   WOLSHON P
   2    23  CE   3700         1  ENGINEERING MAT LAB    1.0   430-0520N   T     1221 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                     530-0720N   T                                           COOPER S
  11    14  CE   3700         2  ENGINEERING MAT LAB    1.0   430-0520N   T     1221 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                     530-0720N    W                                          COOPER S
   9    16  CE   3700         3  ENGINEERING MAT LAB    1.0   430-0520N   T     1221 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                     530-0720N     TH                                        COOPER S
 (F)     1  CE   3740 RES     1  INDEP STUDY IN CE      3.0  TBA
   2    87  CE   4250         1  GROUND WATER           3.0   900-1020    T TH  1225 PATRICK TAYLOR                   TSAI F
   8    80  CE   4260         1  DESN HYDROLOG SYST     3.0   300-0420    T TH  1225 PATRICK TAYLOR                   WILLSON C
@@ -36,12 +42,17 @@
 (F)    85  CE   4410         1  PRIN REINFORCED CONC   3.0   130-0250    T TH                                        SUN C
   1    19  CE   4450         1  FINITE ELEMENT METHD   3.0   130-0250    T TH  0116 TUREAUD HALL    CI-WRITTEN&TECH  MOORTHY S
  26    34  CE   4460         1  DESIGN OF BRIDGES      3.0   300-0350    T TH  0109 TUREAUD HALL                     OKEIL A
+                     LAB                                     400-0550    T TH                                        OKEIL A
  10    40  CE   4530         1  CONTRL SURVEYING W/    3.0   530-0720N  M      0109 TUREAUD HALL                     MUGNIER C
+                     LAB                                     730-1020N  M                                            MUGNIER C
  25    25  CE   4550         1  BOUNDARY SURVEYING     3.0   530-0720N    W    0109 TUREAUD HALL                     MUGNIER C
+                     LAB                                     730-1020N    W                                          MUGNIER C
   4    46  CE   4600         1  GEOM DESN HWY/AIRPRT   3.0   830-1020      TH  2113 PATRICK TAYLOR                   WOLSHON P
+                     LAB                                     900-1150    T                                           WOLSHON P
  28    12  CE   4650         1  INT ASPHLT MIX DESN    3.0  1030-1150   M W    1244 PATRICK TAYLOR                   MOHAMMAD L
  21    14  CE   4660         1  INFRA CONDIT ASSE      3.0   900-1020    T TH  0112 TUREAUD HALL                     ELSEIFI M
   8    52  CE   4750         1  PRF ISS CONC DESN CE   2.0   830-1020   M      2113 PATRICK TAYLOR                   WILLIAMS M
+                     LAB                                     830-1020     W                                          WILLIAMS M
   1    11  CE   7101         1  PHYS/CHEM WAT TREAT    3.0   900-1020    T TH  0225 TUREAUD HALL                     SNOW S
 (F)    11  CE   7105         1  ADV TOP WATER QUAL     3.0  1030-1150    T TH  1216 PATRICK TAYLOR                   ZHU X
  13     7  CE   7280         1  MODEL PHYS HYDROLOGY   3.0   900-1020   M W    0116 TUREAUD HALL                     DENG Z

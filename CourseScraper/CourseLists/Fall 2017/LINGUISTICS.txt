@@ -12,10 +12,15 @@
   7     3  LING 4060         1  LANGUAGE AND CULTURE   3.0  1030-1120   M W F  E131 HOWE RUSSELL E                   BRODY M
 (F)     3  LING 4150         1  PHONETICS              3.0   900-1020    T TH  0132 PRESCOTT                         GIBSON T
   3        LING 4153         1  ACOUSTICS SP HEARING   4.0  1030-1150    T TH  0001 HATCHER HALL                     KIM Y
+                     LAB                                     330-0550   M                                            PARKER L
 (H)     2  LING 4380         1  DVLPMNT SPKN LANG      4.0  1200-0120    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     130-0220   M                                            VAUGHN L
 (H)        LING 4380         3  DVLPMNT SPKN LANG      4.0  1200-0120    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     230-0320   M                                            VAUGHN L
 (H)        LING 4380         2  DVLPMNT SPKN LANG      4.0   130-0250    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     130-0220   M                                            BOSANKO M
 (H)     2  LING 4380         4  DVLPMNT SPKN LANG      4.0   130-0250    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     230-0320   M                                            BOSANKO M
   1        LING 4602         1  SPANISH PHONETICS      3.0   130-0250    T TH  0102 AUDUBON                          KING J
   1        LING 4603         1  APL SPAN LINGUISTICS   3.0   130-0220   M W F  0112 LOCKETT                          DORADO D
   1     7  LING 4710         1  INTR TO LINGUISTICS    3.0  1230-0120   M W F  0032 ALLEN           CI-WRITTEN&SPOK  SHPORT I

@@ -8,9 +8,13 @@
   6    24  SOCL 2002         2  HNRS: INTRO SOCL       3.0   140-0230   M W F  0112 AUDUBON                          CHANCEY L
 (F)    30  SOCL 2002         1  HNRS: INTRO SOCL       3.0  1210-0130    T TH  1120 PATRICK TAYLOR                   DUMAIS S
 (F)    20  SOCL 2201         1  INTR STATISTICL ANAL   4.0   910-1030    T TH  0210 TUREAUD HALL    MAJORS ONLY      BEGGS J
+                     LAB                                     140-0330    T     0102 STUBBS                           BEGGS J
 (F)    20  SOCL 2201         2  INTR STATISTICL ANAL   4.0   910-1030    T TH  0210 TUREAUD HALL    MAJORS ONLY      BEGGS J
+                     LAB                                     340-0530    T     0102 STUBBS                           BEGGS J
 (F)    23  SOCL 2201         3  INTR STATISTICL ANAL   4.0  1210-0130    T TH  2146 PATRICK TAYLOR  MAJORS ONLY      WARD A
+                     LAB                                     140-0330     W    0102 STUBBS                           WARD A
 (F)    21  SOCL 2201         4  INTR STATISTICL ANAL   4.0  1210-0130    T TH  2146 PATRICK TAYLOR  MAJORS ONLY      WARD A
+                     LAB                                     340-0530     W    0102 STUBBS                           WARD A
 (F)    32  SOCL 2211         1  METHODS OF SOCL RES    3.0  1040-1130   M W F  0102 STUBBS          MAJORS ONLY      WEIL F
 (F)    31  SOCL 2211         2  METHODS OF SOCL RES    3.0  1040-1200    T TH  0220 STUBBS          MAJORS ONLY      GRIMES M
 (F)    55  SOCL 2411         2  INDUSTRIAL SOCIOLOGY   3.0  1210-0130    T TH  0215 WILLIAMS                         BEGGS J

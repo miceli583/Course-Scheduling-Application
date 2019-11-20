@@ -19,6 +19,7 @@
   7    33  KIN  2510         1  INTRO SPRT LSR ADMIN   3.0  1100-1200   MTWTF  0131 LONG FIELDHOUSE                  PFLEEGOR A
 (F)    50  KIN  2530         1  SPORT IN SOCIETY       3.0  0950-1050   MTWTF  0133 LONG FIELDHOUSE                  PFLEEGOR A
   7    38  KIN  2577         1  H&PE FOR ELEM SCHOOL   3.0  0840-0940   MTWTF  0108 LONG FIELDHOUSE                  BEASLEY E
+                     LAB                                    TBA                                                      BEASLEY E
  19    41  KIN  2600         1  HUMAN SEXUALITY        3.0   230-0500    T TH  0108 LONG FIELDHOUSE                  BAKER B
   8    17  KIN  2604         1  MENTAL HEALTH ISSUES   3.0  1210-0110   MTWTF  0131 LONG FIELDHOUSE                  FISHER A
 (F)     2  KIN  2900 RES     2  INDEPENDENT STUDY      1-3  TBA                                                      JACOBSEN D
@@ -32,7 +33,9 @@
   7    18  KIN  4509         1  SPORTS SUPPLEMENTS     3.0  0840-0940   MTWTF  0130 LONG FIELDHOUSE                  NELSON A
   6    42  KIN  4515 SEM     1  SPORTS SEMINAR         3.0  1100-1200   MTWTF  0108 LONG FIELDHOUSE                  JACOBSEN D
 (F)    21  KIN  4519         1  CADAVER DISSECTION     3.0  1210-0210   M W                                          LANDIN D
+                     LAB                                    TBA                                                      LANDIN D
   1    19  KIN  4519         2  CADAVER DISSECTION     3.0   220-0420   M W                                          THOMPSON M
+                     LAB                                    TBA                                                      THOMPSON M
  12    18  KIN  4520         1  PSYCHOSOC & PHYS ACT   3.0  0840-0940   MTWTF  0131 LONG FIELDHOUSE                  GARN A
   5    20  KIN  4538 LAB     1  PRACT IN APPLD FIT     6.0  TBA                                                      JOHNSON L
  13    17  KIN  4571         1  NEUROMTR CON HUM MVT   3.0  0950-1050   MTWTF  0131 LONG FIELDHOUSE                  HONDZINSKI J
@@ -45,9 +48,11 @@
  99        KIN  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      SOLMON M
  10    40  KIN  2500         2  HUMAN ANATOMY          3.0  0910-1040   MTWTF  0152 COATES                           LANDIN D
   4    26  KIN  2504         1  PRIN OF CONDITIONING   3.0  1210-0110   MTWTF  0133 LONG FIELDHOUSE                  DAILEY D
+                     LAB                                    0730-0830   MTWTH                                        DAILEY D
  16    29  KIN  2509         1  MED TERM FOR KINESIO   3.0  0730-0900   MTWTF  0116 TUREAUD HALL                     CASTLE R
   7    18  KIN  3507         1  OLYMPIC GMS ANC/MOD    3.0  1240-0210   MTWTF  0101 TUREAUD HALL                     HILL R
  22    18  KIN  3534         1  SCI BASIS EXERCISE     3.0  1210-0110   MTWTF  0117 TUREAUD HALL                     WELSCH M
+                     LAB                                    0730-0830   MTWTH                                        WELSCH M
   8    32  KIN  3800         1  ETHIC/LGL ISS SPORT    3.0  0910-1040   MTWTF  0241 HIMES                            WILLIAMS D
  13    37  KIN  4513         1  FACILITIES MGT         3.0  1240-0210   MTWTF  0109 TUREAUD HALL                     SEIFRIED C
  23    17  KIN  4518         1  GOV & POLICY IN SPRT   3.0  1100-1230   MTWTF  0101 TUREAUD HALL                     SEIFRIED C

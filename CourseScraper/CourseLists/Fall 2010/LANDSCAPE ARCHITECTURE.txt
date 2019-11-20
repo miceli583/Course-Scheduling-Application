@@ -11,13 +11,20 @@
   1    19  LA   3001 LAB     1  LANDSCAPE DESN III     6.0   140-0530   M W F  0324 DESIGN BUILDING CI-SPOKEN&VISUA  CANTRELL B
   1    14  LA   3001 LAB     2  LANDSCAPE DESN III     6.0   140-0530   M W F  0326 DESIGN BUILDING                  MICHAELS K
   1    23  LA   3301         1  LAND ARCH TECH II      3.0   140-0230    T TH  0301 DESIGN BUILDING                  SHARKY B
+                     LAB                                     240-0430    T TH  0301 DESIGN BUILDING                  SHARKY B
 (F)    23  LA   3301         2  LAND ARCH TECH II      3.0   140-0230    T TH  0301 DESIGN BUILDING                  ABBEY D
+                     LAB                                     240-0430    T TH  0301 DESIGN BUILDING                  ABBEY D
   1    21  LA   3401         1  PLANT MATERIALS I      3.0   910-1000    T TH  0301 DESIGN BUILDING                  ABBEY D
+                     LAB                                    1010-1200    T TH  0301 DESIGN BUILDING                  ABBEY D
 (F)    23  LA   3401         2  PLANT MATERIALS I      3.0   910-1000    T TH  0301 DESIGN BUILDING                  FRYLING C
+                     LAB                                    1010-1200    T TH  0301 DESIGN BUILDING                  FRYLING C
   1    21  LA   4001 LAB     1  LANDSCAPE DESIGN V     6.0   140-0530   M W F  0304 DESIGN BUILDING                  SHARKY B
  19    31  LA   4201         1  PLAN THEORY & MTHDS    3.0   840-0930    T TH  0313 DESIGN BUILDING                  CONRAD M
+                     LAB                                     940-1030    T TH  0313 DESIGN BUILDING                  CONRAD M
  27     8  LA   4301         2  LANDSCAPE TECH IV      3.0   940-1230     W    0307 DESIGN BUILDING                  ABBEY D
+                     LAB                                     940-1230     W    0307 DESIGN BUILDING                  ABBEY D
  15    20  LA   4301         1  LANDSCAPE TECH IV      3.0   940-1230       F  0308 DESIGN BUILDING                  ALLEN C
+                     LAB                                     940-1230       F  0308 DESIGN BUILDING                  ALLEN C
 (F)     1  LA   4502 RES     1  IND STUDY IN L A       3.0  TBA
 (F)     5  LA   4502 RES     2  IND STUDY IN L A       3.0  TBA                                                      DYKEMA K
  25    15  LA   4504 SEM     6  ADV ELECTIVE IN L A    3.0   940-1230   M      0307 DESIGN BUILDING                  ABBEY D

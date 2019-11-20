@@ -1,16 +1,25 @@
 (F)   200  COMD 2050         3  INTR TO LANGUAGE       3.0  1040-1200    T TH  0005 LOCKETT                          ALFANDRE D
   2    98  COMD 2050         1  INTR TO LANGUAGE       3.0   340-0630     W    0139 ALLEN                            BUCKINGHAM H
 (F)    22  COMD 2051         1  MANUAL COMMUNICATION   4.0   310-0430    T TH  0001 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     210-0300    T     0001 HATCHER HALL                     JUMONVILLE W
 (F)    21  COMD 2051         2  MANUAL COMMUNICATION   4.0   310-0430    T TH  0001 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     210-0300      TH  0235 LOCKETT                          JUMONVILLE W
 (F)    87  COMD 2081         1  INTRO TO COMD          3.0  1210-0130    T TH  0145 COATES                           STEAD A
 (F)    28  COMD 4150         1  PHONETICS              4.0   910-1030    T TH  0155 COATES                           BUCKINGHAM H
+                     LAB                                    1240-0130   M      0155 COATES                           BOURQUE A
 (F)    29  COMD 4150         2  PHONETICS              4.0   910-1030    T TH  0155 COATES                           BUCKINGHAM H
+                     LAB                                    1240-0130     W                                          BOURQUE A
 (F)    25  COMD 4150         3  PHONETICS              4.0   910-1030    T TH  0155 COATES                           BUCKINGHAM H
+                     LAB                                    1240-0130       F                                        BOURQUE A
   4    86  COMD 4250         1  ANAT PHYS SPCH & HEA   3.0   940-1030   M W F  0155 COATES                           KIM Y
   1    24  COMD 4380         5  DVLPMNT SPKN LANG      4.0   340-0630     W    0152 COATES                           OETTING J
+                     LAB                                     140-0230   M      0205 COATES                           HARTFIELD L
   4    21  COMD 4380         6  DVLPMNT SPKN LANG      4.0   340-0630     W    0152 COATES                           OETTING J
+                     LAB                                     240-0330   M      0205 COATES                           HARTFIELD L
 (F)    25  COMD 4380         7  DVLPMNT SPKN LANG      4.0   340-0630     W    0152 COATES                           OETTING J
+                     LAB                                     340-0430   M      0205 COATES                           HARTFIELD L
   6    19  COMD 4380         8  DVLPMNT SPKN LANG      4.0   340-0630     W    0152 COATES                           OETTING J
+                     LAB                                     140-0230   M      0230EMIDDLETON                        MOLAND C
  28    47  COMD 4383         1  BASIC FLUENCY DISORD   3.0   740-0900    T TH  0152 COATES                           HOFFMAN P
  36    54  COMD 4590         1  ADTRY REHAB CHLD       3.0   910-1030    T TH  E134 HOWE RUSSELL CO                  BARKER B
  62    28  COMD 4681 CLI     1  CLIN PREP/OBSERV       1.0   240-0330   M W    0145 COATES                           HOFFMAN P

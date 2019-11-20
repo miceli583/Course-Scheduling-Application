@@ -57,15 +57,25 @@
  94     5  MUS  2154 RES     2  SECONDARY JAZZ STUDY   2-3  TBA                                     PERMIS OF DEPT   GRIMES W
  94     5  MUS  2154 RES     3  SECONDARY JAZZ STUDY   2-3  TBA                                     PERMIS OF DEPT   SHAW B
  15    10  MUS  2300         1  INSTR & VOCAL TECHN    1-2   840-0930   M W F  0247 M&DA BLDG       MAJORS ONLY      BYO J
+                     LAB                                     840-0930   M W F                                        BYO J
  18     7  MUS  2300         3  INSTR & VOCAL TECHN    1-2   840-0930   M W F  0245 M&DA BLDG       MAJORS ONLY      OLESEN B
+                     LAB                                     840-0930   M W F                                        OLESEN B
   3    17  MUS  2300         4  INSTR & VOCAL TECHN    1-2   940-1030   M W                         MAJORS ONLY      HOEFER C
+                     LAB                                     940-1030   M W                                          HOEFER C
   4    21  MUS  2300         6  INSTR & VOCAL TECHN    1-2  1040-1130    T     0247 M&DA BLDG                        BARTOLOME S
+                     LAB                                    1040-1130      TH  0247 M&DA BLDG                        BARTOLOME S
   6     9  MUS  2731         1  MUSIC THEORY I         4.0  1040-1130   M W F  0115 SCHOOL OF MUSIC                  BAZAYEV I
+                     LAB                                     810-0900    T TH  0215 M&DA BLDG                        BAZAYEV I
   3    12  MUS  2731         2  MUSIC THEORY I         4.0  1040-1130   M W F  0115 SCHOOL OF MUSIC                  BAZAYEV I
+                     LAB                                     910-1000    T TH  0215 M&DA BLDG                        BAZAYEV I
   4    11  MUS  2731         4  MUSIC THEORY I         4.0  1040-1130   M W F  0115 SCHOOL OF MUSIC                  BAZAYEV I
+                     LAB                                     910-1000    T TH                                        BAZAYEV I
   4    11  MUS  2731         5  MUSIC THEORY I         4.0  1040-1130   M W F  0115 SCHOOL OF MUSIC                  BAZAYEV I
+                     LAB                                     810-0900    T TH                                        BAZAYEV I
   3    12  MUS  2733         1  HNRS: MUSIC THEORY I   4.0  1040-1130   M W F  0115 SCHOOL OF MUSIC                  BAZAYEV I
+                     LAB                                     910-1000    T TH  0247 M&DA BLDG                        BAZAYEV I
   8     7  MUS  2733         2  HNRS: MUSIC THEORY I   4.0  1040-1130   M W F  0115 SCHOOL OF MUSIC                  BAZAYEV I
+                     LAB                                     810-0900    T TH  0247 M&DA BLDG                        BAZAYEV I
  15    10  MUS  3130 RES     1  PRIMARY VOICE          2-3   240-0330    T                          MAJORS ONLY      GRAY R
  18     7  MUS  3130 RES     2  PRIMARY VOICE          2-3   240-0330    T                          MAJORS ONLY      O'NEILL P
  15    10  MUS  3130 RES     3  PRIMARY VOICE          2-3   240-0330    T                          MAJORS ONLY      SIMS W
@@ -106,10 +116,14 @@
  14     1  MUS  3154 RES     3  PRIMARY JAZZ STUDY     2-3  TBA                                     AUDITION REQ'D   SHAW B
   6    10  MUS  3334 LAB     1  GROUP PIANO V          1.0   910-1000    T TH  0201 M&DA BLDG                        PIKE P
   5    25  MUS  3703         1  THEORY SURVEY          2.0   910-1030    T TH  0249 M&DA BLDG                        PERRY J
+                     LAB                                     910-1030    T TH  0249 M&DA BLDG                        PERRY J
   4    26  MUS  3704 LAB     1  THEOR SURV-AURAL SKL   1.0   840-0930   M W F  0215 M&DA BLDG                        PERRY J
  29    41  MUS  3731         4  MUSIC THEORY III       4.0  1140-1230   M W F  0115 SCHOOL OF MUSIC                  PECK R
+                     LAB                                    TBA                                                      PECK R
  11     9  MUS  3733         2  HNRS: MUS THEORY III   4.0  1140-1230   M W F  0115 SCHOOL OF MUSIC                  PECK R
+                     LAB                                    TBA                                                      PECK R
   6    19  MUS  3749         1  CHORAL LIT & COND I    2.0   940-1030   M W F  0118 SCHOOL OF MUSIC                  FULTON W
+                     LAB                                     940-1030   M W F  0118 SCHOOL OF MUSIC                  FULTON W
   5        MUS  3757         1  ORGAN LIT HIST DES     3.0  TBA                                     MAJORS ONLY      SPILLMAN H
   8    12  MUS  3771         1  INSTR CONDUCTING I     2.0   910-1030    T TH  0001 BAND HALL                        KING R
   6    14  MUS  3771         2  INSTR CONDUCTING I     2.0  1040-1200    T TH  0001 BAND HALL                        MELLEY E
@@ -194,6 +208,7 @@
   1     4  MUS  4799 RES     3  COACHING IN APPL MUS   2.0  TBA                                     PERMIS OF DEPT   SIMS W
   4     1  MUS  4799 RES     4  COACHING IN APPL MUS   2.0  TBA                                     AUDITION REQ'D   DILUTIS R
  16     9  MUS  7020         1  ADV ITAL DICT SINGER   1.0  1040-1130   M W    0245 M&DA BLDG                        O'NEILL P
+                     LAB                                    1040-1130       F  0245 M&DA BLDG
  11     4  MUS  7030 RES     1  GRADUATE VOICE         2-6   240-0330    T                          MAJORS ONLY      GRAY R
  21     4  MUS  7030 RES     2  GRADUATE VOICE         2-6   240-0330    T                          MAJORS ONLY      O'NEILL P
  23     2  MUS  7030 RES     3  GRADUATE VOICE         2-6   240-0330    T                          MAJORS ONLY      SIMS W

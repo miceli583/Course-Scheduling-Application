@@ -17,11 +17,16 @@
 (F)    25  CE   3410 LAB     1  MECHNCS OF MATLS LAB   1.0   530-0820N    W    0101 TUREAUD HALL                     ZHANG C
  45    30  CE   3415         1  STRUCTRL ANALYSIS I    3.0   130-0250    T TH  0204 TUREAUD HALL                     ALY SAYED AHM
   1    19  CE   3500         1  PLANE SURV & MEASURE   3.0  1130-1220   M W    0225 TUREAUD HALL                     MUGNIER C
+                     LAB                                     230-0520   M      0125 TUREAUD HALL                     MUGNIER C
   3    17  CE   3500         2  PLANE SURV & MEASURE   3.0  1130-1220   M W    0225 TUREAUD HALL                     MUGNIER C
+                     LAB                                     230-0520     W    0125 TUREAUD HALL                     MUGNIER C
  29    48  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1030-1150    T TH  0206 TUREAUD HALL                     WOLSHON P
 (F)    20  CE   3700         1  ENGINEERING MAT LAB    1.0   430-0520N   T     0232 J C MILLER                       COOPER S
+                     LAB                                     530-0720N   T     0232 J C MILLER                       COOPER S
 (F)    20  CE   3700         2  ENGINEERING MAT LAB    1.0   430-0520N   T     0232 J C MILLER                       COOPER S
+                     LAB                                     530-0720N    W    0232 J C MILLER                       COOPER S
 (F)    21  CE   3700         3  ENGINEERING MAT LAB    1.0   430-0520N   T     0232 J C MILLER                       COOPER S
+                     LAB                                     530-0720N     TH  0232 J C MILLER                       COOPER S
   1    59  CE   4250         1  GROUND WATER           3.0   900-1020    T TH  2412 PATRICK TAYLOR                   TSAI F
   8    32  CE   4260         1  DESN HYDROLOG SYST     3.0  1200-0120    T TH  2412 PATRICK TAYLOR                   RODI R
 (F)    51  CE   4310         1  GEOTECHNICL ENGR III   3.0   300-0420    T TH  2412 PATRICK TAYLOR                   JUNG J
@@ -29,10 +34,14 @@
  27    48  CE   4410         1  PRIN REINFORCED CONC   3.0   130-0250    T TH  0120 TUREAUD HALL                     CAI C
  25    25  CE   4450         1  FINITE ELEMENT METHD   3.0  1030-1150    T TH  1302BPATRICK TAYLOR                   MOORTHY S
  40    20  CE   4460         1  DESIGN OF BRIDGES      3.0   430-0520N   T TH  2412 PATRICK TAYLOR                   OKEIL A
+                     LAB                                     530-0720N   T TH  2412 PATRICK TAYLOR                   OKEIL A
  24    16  CE   4530         1  CONTRL SURVEYING W/    3.0   530-0720N  M      0101 TUREAUD HALL                     MUGNIER C
+                     LAB                                     730-1020N  M      0101 TUREAUD HALL                     MUGNIER C
  39    11  CE   4550         1  BOUNDARY SURVEYING     3.0   500-0650N   T     0134 J C MILLER                       MUGNIER C
+                     LAB                                     700-0950N   T     0134 J C MILLER                       MUGNIER C
  23    17  CE   4650         1  INT ASPHLT MIX DESN    3.0  1030-1150   M W    2412 PATRICK TAYLOR                   MOHAMMAD L
  29    31  CE   4750         1  PRF ISS CONC DESN CE   2.0   830-1020   M      2412 PATRICK TAYLOR  CI-WRITTEN&SPOK  WILLIAMS M
+                     LAB                                     830-1020     W    2412 PATRICK TAYLOR                   WILLIAMS M
  25    15  CE   4780         1  INFRAS CONDIT ASSESS   3.0  1030-1150    T TH  0100 TUREAUD HALL                     ELSEIFI M
  16     4  CE   7310         1  ADV GEOTECHN ENGR II   3.0  1030-1150    T TH  2412 PATRICK TAYLOR                   JUNG J
  14     6  CE   7335         2  SOIL IMP & STABILIZ    3.0   130-0250   M W    0119 LOCKETT                          ABU-FARSAKH M

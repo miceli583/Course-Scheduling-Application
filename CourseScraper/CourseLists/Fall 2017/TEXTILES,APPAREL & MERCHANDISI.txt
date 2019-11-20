@@ -12,10 +12,13 @@
   5        TAM  3091 RES     1  READ/RES TAM           1-6  TBA                                     PERMIS OF DEPT
  20        TAM  3091 RES     2  READ/RES TAM           1-6  TBA                                     PERMIS OF DEPT
   8    12  TAM  4034         1  TEXTILE & APPAREL PR   3.0   900-0950    T TH  0251 HUMAN ECOLOGY                    NEGULESCU I
+                     LAB                                    1000-1150    T     0251 HUMAN ECOLOGY                    NEGULESCU I
 (F)    12  TAM  4037 LAB     1  ADV APPAREL PRODUCT    3.0  1200-0250    T TH  0244 HUMAN ECOLOGY                    ROMEO L
   1    11  TAM  4037 LAB     2  ADV APPAREL PRODUCT    3.0   300-0550    T TH  0244 HUMAN ECOLOGY                    ROMEO L
   4    11  TAM  4043         1  ADVANCED TEXTILES      3.0  1200-1250    T TH  0119 J C MILLER                       NEGULESCU I
+                     LAB                                     100-0250      TH  0251 HUMAN ECOLOGY                    NEGULESCU I
   2    13  TAM  4043         2  ADVANCED TEXTILES      3.0  1200-1250    T TH  0119 J C MILLER                       NEGULESCU I
+                     LAB                                     100-0250    T     0251 HUMAN ECOLOGY                    NEGULESCU I
  15    60  TAM  4044         1  TEXTILE & APPAREL EC   3.0   830-0920   M W F  0206 TUREAUD HALL                     LANG C
  17    38  TAM  4046         1  ADV TOP APPAREL MERC   3.0  1030-1120   M W F  0109 TUREAUD HALL                     LIU C
  22    63  TAM  4072         1  DRESS/ADRNMENT AFTER   3.0   930-1020   M W F  0206 TUREAUD HALL                     WELKER D

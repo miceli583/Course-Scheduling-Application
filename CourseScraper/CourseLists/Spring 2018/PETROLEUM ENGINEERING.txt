@@ -11,7 +11,9 @@
   1    23  PETE 2034 LAB     7  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0009 LOCKETT                          IZADI M
 (H)        PETE 2034 LAB     8  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0009 LOCKETT                          IZADI M
   5    19  PETE 2060         1  COMP MTHDS PETE        2.0   830-0920    T     0016 LOCKETT                          THOMPSON K
+                     LAB                                    1030-1220      TH                                        THOMPSON K
   6    18  PETE 2060         2  COMP MTHDS PETE        2.0   830-0920    T     0016 LOCKETT                          THOMPSON K
+                     LAB                                    1030-1220       F                                        THOMPSON K
  50    60  PETE 3025         1  ECON ASPECTS PET PRO   3.0   730-0850    T TH  1263 PATRICK TAYLOR                   HUGHES R
  47    53  PETE 3036         1  WELL LOGGING           3.0  1130-1220   M W F  0103 TUREAUD HALL                     GUPTA I
  30    80  PETE 3050         1  RESERVOIR DYNAMICS     3.0   130-0220   M W F  1263 PATRICK TAYLOR                   ZEIDOUNI M

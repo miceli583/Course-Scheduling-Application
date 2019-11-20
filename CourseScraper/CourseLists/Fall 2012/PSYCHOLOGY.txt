@@ -4,11 +4,17 @@
   4   246  PSYC 2000         3  INTR TO PSYC           3.0   300-0420    T TH  0100 DODSON                           VIEIRA K
  94   206  PSYC 2000         5  INTR TO PSYC           3.0   600-0850N     TH  0100 DODSON                           WALKER E
   3    25  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0015 LOCKETT                          BECK M
+                     LAB                                     230-0420   M      0230EMIDDLETON                        BECK M
   2    26  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0015 LOCKETT                          BECK M
+                     LAB                                     830-1020    T     0230EMIDDLETON                        BECK M
   2    26  PSYC 2017         3  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0015 LOCKETT                          BECK M
+                     LAB                                     830-1020     W    0263BCOATES                           BECK M
   4    24  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0015 LOCKETT                          BECK M
+                     LAB                                     300-0450    T     0230EMIDDLETON                        BECK M
   3    25  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0015 LOCKETT                          BECK M
+                     LAB                                     300-0450      TH  0230EMIDDLETON                        BECK M
 (F)    25  PSYC 2017         6  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0015 LOCKETT                          BECK M
+                     LAB                                    1230-0220   M      0230EMIDDLETON                        BECK M
 (F)    90  PSYC 2040         2  SOCIAL PSYCHOLOGY      3.0   130-0220   M W F  0145 COATES                           BOOTH S
   8   172  PSYC 2060         1  EDUCATIONAL PSYC       3.0  1130-1220   M W F  0010 LOCKETT                          GRANT S
   8   137  PSYC 2070         1  DEVELOP PSYC LIFE SP   3.0   430-0720N     TH  0103 DESIGN BUILDING                  HORN R

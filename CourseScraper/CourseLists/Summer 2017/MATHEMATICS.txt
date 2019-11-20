@@ -1,5 +1,7 @@
 (F)    35  MATH 1431         1  CAL-BUS & ECO APLCAT   3.0  1210-0220   MTW    0220 COATES                           BARNES M
+                     LAB                                    1210-0110      TH  0232 MIDDLETON                        BARNES M
   5    30  MATH 1431         2  CAL-BUS & ECO APLCAT   3.0  1210-0220   MTW    0220 COATES                           BARNES M
+                     LAB                                     120-0220      TH  0232 MIDDLETON                        BARNES M
 (F)    40  MATH 1550         1  AN GEOM & CALCULUS-I   5.0  0840-1050   MTWTF  0136 LOCKETT                          SAID E
 (F)    35  MATH 1550         2  AN GEOM & CALCULUS-I   5.0  0950-1200   MTWTF  0277 LOCKETT                          ADILI A
   2    37  MATH 1550         3  AN GEOM & CALCULUS-I   5.0  1100-0110   MTWTF  0241 LOCKETT                          CENICEROS J
@@ -103,9 +105,13 @@
  99        MATH 9000 RES    39  DISSERTATION RES       1-12 TBA                                                      MAHLBURG K
  97     2  MATH 9000 RES    40  DISSERTATION RES       1-12 TBA                                                      VELA-VICK D
   8    32  MATH 1021         1  COLLEGE ALGEBRA        3.0  0910-1040   MTWTF  0241 LOCKETT                          KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
   1    29  MATH 1021         2  COLLEGE ALGEBRA        3.0  1100-1230   MTWTF  0244 LOCKETT                          KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
   5    35  MATH 1022         1  PLANE TRIGONOMETRY     3.0  0910-1040   MTWTF  0243 LOCKETT                          KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
   5    35  MATH 1022         2  PLANE TRIGONOMETRY     3.0  1100-1230   MTWTF  0136 LOCKETT                          KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
   1    29  MATH 1029         1  INTRO CONTEMP MATH     3.0  1100-1230   MTWTF  0234 COATES                           SALMOIRAGHI F
  14    21  MATH 1100         1  NATURE OF MATHEMATCS   3.0  1100-1230   MTWTF  0218 COATES                           PERLIS R
  19    11  MATH 1202         1  GEOM/REASONG/MEASURE   3.0  1240-0210   MTWTF  0103 COATES                           DOUGHERTY E

@@ -24,6 +24,7 @@
 (F)     3  ARCH 5002 LAB     5  ARCH DESN CONCENTRAT   6.0  TBA                                                      KENNEDY C
 (F)     3  ARCH 5002 LAB     6  ARCH DESN CONCENTRAT   6.0  TBA                                                      BOSWORTH F
 (F)     6  ARCH 5005         1  ADV ARCH TECHNIQUES    3.0   440-0530N  M                                            PITTS J
+                     LAB                                     540-0730N  M                                            PITTS J
   1        ARCH 5101 LAB     1  HNRS COMP ARCH DESN    6.0  1240-0430   M W F
   2    10  ARCH 7001 LAB     1  GRAD DESN STUDIO I     6.0  1240-0430   M W F                                        SOFRANKO T
   4     8  ARCH 7003 LAB     1  GRAD DESN STUDIO III   6.0  1240-0430   M W F                                        BERTOLINI C

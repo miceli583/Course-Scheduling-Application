@@ -8,9 +8,13 @@
  17    13  SOCL 2002         1  HNRS: INTRO SOCL       3.0  1030-1150    T TH  0119 TUREAUD HALL                     SHRUM W
 (F)    30  SOCL 2002         2  HNRS: INTRO SOCL       3.0  1200-0120    T TH  0243 LOCKETT                          THOMAS D
 (F)    25  SOCL 2201         1  INTR STAT ANALYSIS     4.0   900-1020    T TH  0228 TUREAUD HALL    MAJORS ONLY      CHIU W
+                     LAB                                     130-0320   M      0102 STUBBS                           CHIU W
 (F)    25  SOCL 2201         2  INTR STAT ANALYSIS     4.0   900-1020    T TH  0228 TUREAUD HALL                     CHIU W
+                     LAB                                     330-0520   M      0102 STUBBS                           CHIU W
 (F)    30  SOCL 2201         3  INTR STAT ANALYSIS     4.0  1200-0120    T TH  0211 TUREAUD HALL                     COHEN I
+                     LAB                                     130-0320     W    0102 STUBBS                           COHEN I
 (F)    30  SOCL 2201         4  INTR STAT ANALYSIS     4.0  1200-0120    T TH  0211 TUREAUD HALL    MAJORS ONLY      COHEN I
+                     LAB                                     330-0520     W    0102 STUBBS                           COHEN I
   3    27  SOCL 2211         1  METHODS OF SOCL RES    3.0  1030-1120   M W F  0102 STUBBS          MAJORS ONLY      WEIL F
  19    36  SOCL 2211         2  METHODS OF SOCL RES    3.0   130-0250    T TH  0109 TUREAUD HALL    MAJORS ONLY      THOMAS D
  71    77  SOCL 2501         1  CURR SOCIAL PROBLEMS   3.0  1130-1220   M W F  E137 HOWE RUSSELL E                   THOMAS D

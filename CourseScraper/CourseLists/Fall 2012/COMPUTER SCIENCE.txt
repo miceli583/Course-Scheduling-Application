@@ -1,10 +1,15 @@
   1    17  CSC  1100         1  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    0120 TUREAUD HALL                     ALVIN C
+                     LAB                                    1030-1220       F  0168 COATES                           GANGULY A
   3    15  CSC  1100         2  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    0120 TUREAUD HALL                     ALVIN C
+                     LAB                                     230-0420   M      0168 COATES                           STOYANOV G
  15     3  CSC  1100         3  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    0120 TUREAUD HALL                     ALVIN C
+                     LAB                                    1230-0220       F  0168 COATES                           GANGULY A
 (F)    18  CSC  1100         5  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    0120 TUREAUD HALL                     ALVIN C
+                     LAB                                     930-1120     W    0168 COATES                           STOYANOV G
  11    34  CSC  1200         1  ETHICS IN COMPUTING    1.0  1230-0120     W    0112 AUDUBON         CI-WRITTEN       BUSCH K
   2    43  CSC  1200         2  ETHICS IN COMPUTING    1.0   230-0320     W    0112 AUDUBON         CI-WRITTEN       BUSCH K
  35    55  CSC  1240         1  STATS & GRAPH MATLB    3.0  1230-0120   M W    0103 TUREAUD HALL                     BRENER N
+                     LAB                                    1230-0220       F  0232 MIDDLETON                        BRENER N
  16    64  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  0214 WILLIAMS                         DUNCAN W
  15    65  CSC  1253         2  COMP SCI WITH C++      3.0  1200-0120    T TH  0214 WILLIAMS                         DUNCAN W
   1    53  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1030-1150    T TH  0120 TUREAUD HALL                     KAISER H
@@ -14,8 +19,11 @@
   6    34  CSC  1351         1  COMP SCI II-MJRS       3.0   130-0250    T TH  2150 PATRICK TAYLOR                   KUNDU S
   5    45  CSC  2259         1  DISCRETE STRUCTURES    3.0  1030-1150    T TH  0215 WILLIAMS                         ZHANG J
  48    12  CSC  2533         1  INTRO ENGR COMPUT      3.0   930-1020   M W    0103 TUREAUD HALL                     BRENER N
+                     LAB                                     230-0520       F  0232 MIDDLETON                        BRENER N
  32    28  CSC  2533         3  INTRO ENGR COMPUT      3.0  1030-1120   M W    0218 TUREAUD HALL                     BRENER N
+                     LAB                                     230-0520       F  0230EMIDDLETON                        BRENER N
  16    24  CSC  2533         2  INTRO ENGR COMPUT      3.0   900-0950    T TH  0218 TUREAUD HALL                     BRENER N
+                     LAB                                     500-0750N     TH  0232 MIDDLETON                        BRENER N
  10    10  CSC  2700         2  CMPTVE PRGM - 1 HR C   1-3   630-0820N   T     0101 TUREAUD HALL                     TRAXLER I
  11    69  CSC  3102         1  ADV DATA STRUCTURES    3.0   900-1020    T TH  0105 TUREAUD HALL                     SHAH R
  18     2  CSC  3991 RES     1  CSC HONORS RESEARCH    3.0  TBA                                                      BAUMGARTNER G

@@ -6,15 +6,18 @@
  11    19  OCS  1005         5  INTRO OCEANOGRAPHY     3.0   610-0730N   T TH  0100 TUREAUD HALL                     CONDREY R
   7    18  OCS  1006         1  HNRS: INTR OCEANOGR    3.0  1210-0130    T TH  1070 ENER,COAST,& EN                  CARNEY R
   3    22  OCS  2009         1  INTR MARINE SCIENCE    4.0   940-1030   M W F  1070 ENER,COAST,& EN                  ROUSE L
+                     LAB                                     340-0430      TH                                        ROUSE L
   8    17  OCS  3103         1  GLOBAL ENVIR CYCLES    3.0   910-1030    T TH  1070 ENER,COAST,& EN                  CABLE J
 (F)     1  OCS  3999 RES     1  UNDERGRAD RESEARCH     1-6  TBA                                                      MENDELSSOHN I
 (F)     1  OCS  3999 RES     2  UNDERGRAD RESEARCH     1-6  TBA                                                      BENFIELD M
 (F)     1  OCS  4001         2  INTRO TO WET & ECOLC   1-6  TBA                                                      GAMBRELL R
  14    11  OCS  4015         1  OCEAN TO ESTUARIES I   5.0  1040-1230    T TH                                        ROUSE L
+                     LAB                                    1240-0130      TH
   7     8  OCS  4030 SEM     1  TECH OF RES PRESENTN   1.0   240-0330     W                                          SHAW R
   1    24  OCS  4090         1  MARINE/ENVIR MICRO     3.0   140-0300    T TH  0120 TUREAUD HALL                     LAROCK P
 (F)    11  OCS  4308         1  PLANTS COASTL ENVIR    3.0   310-0430    T TH  1280 ENER,COAST,& EN                  MENDELSSOHN I
 (F)    16  OCS  4372         2  ESTUARINE ECOLOGY      4.0   140-0430       F                                        TWILLEY R
+                     LAB                                    TBA
   1     9  OCS  4410         1  ECOSYSTM MODELING      3.0   410-0700      TH                       CI-WRITTEN&TECH  JUSTIC D
  12    13  OCS  4465         1  SEM COAST ZONE MGT     3.0   510-0800N  M      1120 PATRICK TAYLOR                   WILKINS J
   2    10  OCS  4560         1  WETLAND LOSS/REST/MG   3.0   310-0430   M W                         PERMIS OF INST   TURNER R
@@ -23,6 +26,7 @@
   6     4  OCS  7001 RES     2  ENVIRONMENTAL OPTICS   1-6  TBA                                                      D'SA E
   2     8  OCS  7130         1  MAR ISOT BIOGEOCHEM    3.0   310-0600      TH                                        FRY B
   3    12  OCS  7132         1  CSTL PHYS/CHEM SYSTM   3.0   140-0300   M      1070 ENER,COAST,& EN                  GAMBRELL R
+                     LAB                                    TBA                                                      GAMBRELL R
  97     2  OCS  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BALTZ D
  93     6  OCS  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      COWAN J
  99        OCS  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BENFIELD M

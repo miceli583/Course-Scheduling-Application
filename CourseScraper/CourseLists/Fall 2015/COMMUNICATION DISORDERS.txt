@@ -2,13 +2,18 @@
   2    73  COMD 2050         2  INTR TO LANGUAGE       3.0  1200-0120    T TH  0026 HATCHER HALL                     PARR C
   3    72  COMD 2050         3  INTR TO LANGUAGE       3.0   130-0250    T TH  0026 HATCHER HALL                     PARKER R
   3    22  COMD 2051         1  MANUAL COMMUNICATION   4.0   300-0550    T     0026 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     130-0220     W                                          JUMONVILLE W
  14    11  COMD 2051         2  MANUAL COMMUNICATION   4.0   300-0550    T     0026 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     230-0320     W                                          JUMONVILLE W
   1    55  COMD 2081         1  INTRO TO COMD          3.0  1200-0120    T TH  0102 TUREAUD HALL                     VANSANT M
  11    78  COMD 4150         1  PHONETICS              3.0  1200-0120    T TH  0214 WILLIAMS                         GIBSON T
  26    74  COMD 4250         1  ANAT PHYS SPCH & HEA   3.0   730-0850    T TH  0026 HATCHER HALL                     COALSON G
 (F)    37  COMD 4380         1  DVLPMNT SPKN LANG      4.0   130-0250    T TH  0214 COATES                           OETTING J
+                     LAB                                     430-0520N  M      0232 MIDDLETON                        RIVIERE A
   1    34  COMD 4380         2  DVLPMNT SPKN LANG      4.0   130-0250    T TH  0214 COATES                           OETTING J
+                     LAB                                     230-0320   M      0232 MIDDLETON                        RIVIERE A
  17    18  COMD 4380         3  DVLPMNT SPKN LANG      4.0   300-0420    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     330-0420   M      0232 MIDDLETON                        RIVIERE A
  13    27  COMD 4381         1  DISORDERS OF ARTIC     3.0   830-0920   M W F  0001 HATCHER HALL                     HOFFMAN P
 (F)    48  COMD 4383         1  BASIC FLUENCY DISORD   3.0   900-1020    T TH  0001 HATCHER HALL                     COALSON G
   5    85  COMD 4590         1  ADTRY REHAB CHLD       3.0   730-0850    T TH  0139 ALLEN                            JUMONVILLE W

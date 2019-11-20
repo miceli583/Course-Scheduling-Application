@@ -64,7 +64,9 @@
   9    21  PHYS 2221         1  INTRO TO MECHANICS     3.0   940-1030   M W F  0218 COATES          PERMIS OF DEPT   LEE H
  21     4  PHYS 2995 RES     1  RESEARCH INTERNSHIP    1.0   440-0530N    W    0365 NICHOLSON                        STACY J
 (F)    15  PHYS 3098         1  INSTRU ELECT FOR SCI   3.0  1040-1130    T TH  0118 NICHOLSON       PERMIS OF DEPT   ADAMS P
+                     LAB                                     140-0430     W    0017 NICHOLSON                        ADAMS P
  15     5  PHYS 4005         1  RESEARCH METHODS       3.0  1040-1230   M      0215 WILLIAMS        PERMIS OF DEPT   JOHNSON W
+                     LAB                                    1040-1230     W                                          JOHNSON W
   4    21  PHYS 4125         1  THERMODY STAT MECH     3.0  1140-1230   M W F  0118 NICHOLSON       PERMIS OF DEPT   VEKHTER I
   2    26  PHYS 4132         1  ELECTROMAGNETISM E W   3.0  1040-1130   M W F  0118 NICHOLSON       PERMIS OF DEPT   GAARDE M
   3    22  PHYS 4135         1  MODERN OPTICS          3.0   140-0300    T TH  0118 NICHOLSON                        STACY J

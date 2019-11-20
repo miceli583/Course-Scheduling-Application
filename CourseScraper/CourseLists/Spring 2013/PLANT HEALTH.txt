@@ -1,7 +1,10 @@
   2     5  PLHL 3060         1  INTR PL PHYSIOLOGY     4.0   900-1020    T TH  0210 WILLIAMS                         LONGSTRETH D
+                     LAB                                     130-0420     W    0308 LIFE SCIENCES                    LONGSTRETH D
   7    13  PLHL 4001         1  PLNT DIS MGT/CONTROL   3.0  1030-1150   M W                                          HOLLIER C
+                     LAB                                     130-0320   M                                            HOLLIER C
  18     2  PLHL 4444         1  SEED PHYSIOLOGY        3.0   130-0250    T TH  0206 WILLIAMS                         COHN M
   5    11  PLHL 7011         1  PHYTOBACTERIOLOGY      4.0   900-1020    T TH                                        HAM J
+                     LAB                                     130-0420    T                                           HAM J
   9     6  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W                                          HAM J
  14     2  PLHL 7061         1  PLANT GROWTH DEVELOP   3.0   130-0250    T TH                                        SMITH A
   8    12  PLHL 7067         1  PROFESSIONAL DEVELOP   2.0   430-0620N    W                                          COHN M

@@ -3,6 +3,7 @@
 112    36  GEOG 1003         4  HUMN GEOG: AFR & ASI   3.0   140-0230   M W F  E130 HOWE RUSSELL CO                  WATTS P
 143   232  GEOG 1003         1  HUMN GEOG: AFR & ASI   3.0   140-0300    T TH  0130 HOWE RUSSELL CO                  POTTER A
   2    18  GEOG 2039         1  CARTOGR DRAFT/GR PRS   3.0   240-0330   M W                                          EGGART M
+                     LAB                                     340-0430   M W                                          EGGART M
   6   369  GEOG 2050         1  PHY GEOG ATMOSPHERE    3.0  1040-1130   M W F  0130 HOWE RUSSELL CO                  BROWN D
 (F)   148  GEOG 2051         1  PHY GEOG LW SURFACES   3.0   940-1030   M W F  E130 HOWE RUSSELL CO                  NAMIKAS S
  11   137  GEOG 2051         2  PHY GEOG LW SURFACES   3.0  1140-1230   M W F  E130 HOWE RUSSELL CO                  KESEL R
@@ -10,6 +11,7 @@
   8    10  GEOG 4024         1  COASTAL MORPHODYNAM    3.0   440-0730N  M      0245 HOWE RUSSELL CO                  NAMIKAS S
   2    38  GEOG 4031         1  LATN AMER & CARIBB     3.0  1240-0130   M W F  E134 HOWE RUSSELL CO                  MATHEWSON K
  10     5  GEOG 4041         1  FIELD METH IN GEOG     3.0   740-0830        S 0245 HOWE RUSSELL CO                  KESEL R
+                     LAB                                     840-1230        S 0245 HOWE RUSSELL CO                  KESEL R
   2    28  GEOG 4042         1  ENTERPRISE GIS         3.0   610-0730N   T TH  0216 DESIGN BUILDING                  JONES F
 (F)    20  GEOG 4044         1  COMPUTER CARTOGRAPHY   3.0  1040-1200    T TH                                        LEITNER M
   2    26  GEOG 4047         2  GEOG INFORMAT SYSTMS   3.0  1040-1130   M W F  0260 HOWE RUSSELL CO                  WANG L

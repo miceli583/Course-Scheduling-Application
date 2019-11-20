@@ -4,6 +4,7 @@
   9    11  COMD 3057 SEM     1  RESEARCH METH COMD     3.0   300-0420    T TH  0155 LONG FIELDHOUSE CI-WRITTEN&SPOK  BARKER B
  20    20  COMD 4150         1  PHONETICS              3.0  1030-1150    T TH  0001 HATCHER HALL                     GIBSON T
 (F)    91  COMD 4153         2  ACOUSTICS SP HEARING   4.0   130-0250    T TH  0002 LOCKETT                          KIM Y
+                     LAB                                     330-0520   M      0009 LOCKETT                          DELROSE L
  27    83  COMD 4190         1  INTR TO AUDIOLOGY      3.0   730-0850    T TH  0026 HATCHER HALL                     JUMONVILLE W
  28    12  COMD 4250         1  ANAT PHYS SPCH & HEA   3.0   900-1020    T TH  0129 ALLEN                            COALSON G
  41    69  COMD 4381         1  DISORDERS OF ARTIC     3.0  1030-1120   M W F  0026 HATCHER HALL                     HOFFMAN P

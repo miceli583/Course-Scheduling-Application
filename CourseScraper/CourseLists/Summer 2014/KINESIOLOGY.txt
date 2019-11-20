@@ -28,7 +28,9 @@
  28    22  KIN  4515 SEM     1  SPORTS SEMINAR         3.0  1100-1200   MTWTF  0108 LONG FIELDHOUSE                  WILLIAMS D
  18    12  KIN  4518         1  GOV & POLICY IN SPRT   3.0  0840-0940   MTWTF  0130 LONG FIELDHOUSE                  SOEBBING B
 (F)    20  KIN  4519         1  CADAVER DISSECTION     3.0  1210-0210   M W                         MAJORS ONLY      LANDIN D
+                     LAB                                    TBA                                                      LANDIN D
 (F)    22  KIN  4519         2  CADAVER DISSECTION     3.0   220-0420   M W                         MAJORS ONLY      LANDIN D
+                     LAB                                    TBA                                                      LANDIN D
   7    48  KIN  4520         1  PSYCHOSOC & PHYS ACT   3.0  TBA                                     50-99% WEB BASE  GARN A
  13    12  KIN  4538 LAB     1  PRACT IN APPLD FIT     6.0  TBA                                                      JOHNSON L
  22    58  KIN  4835 CLI     1  PRACT SPT LEI ADMIN    6.0  TBA                                                      JACOBSEN D
@@ -40,9 +42,11 @@
  22    78  KIN  2500         1  HUMAN ANATOMY          3.0  0910-1040   MTWTF  0139 ALLEN                            HARGRODER W
   4    41  KIN  2509         1  MED TERM FOR KINESIO   3.0  0730-0900   MTWTF  0108 LONG FIELDHOUSE                  CASTLE R
   9    31  KIN  2577         2  H&PE FOR ELEM SCHOOL   3.0   220-0350   MTWTF  0131 LONG FIELDHOUSE                  BEASLEY E
+                     LAB                                    TBA                                                      BEASLEY E
  19    21  KIN  2600         1  HUMAN SEXUALITY        3.0   230-0500    TWTH  0108 LONG FIELDHOUSE                  BAKER B
   5    30  KIN  3515         1  PHYS BAS PHYSCL ACTV   3.0  1240-0210   MTWTF  0130 LONG FIELDHOUSE                  NELSON A
   9    21  KIN  3534         1  SCI BASIS EXERCISE     3.0  0910-1010   MTWTF  0108 LONG FIELDHOUSE                  JOHANNSEN N
+                     LAB                                    0730-0830   MTWTH                                        AUSTIN K
  30    20  KIN  4501         2  BUS HIST INTERCOL FB   3.0  1100-1230   MTWTF  0131 LONG FIELDHOUSE                  SEIFRIED C
   9    21  KIN  4512         1  LIFSPAN MOTR DEVELOP   3.0  0730-0900   MTWTF  0131 LONG FIELDHOUSE                  BEASLEY E
  32    18  KIN  4513         1  FACILITIES MGT         3.0  1240-0210   MTWTF  0131 LONG FIELDHOUSE                  SEIFRIED C

@@ -1,6 +1,8 @@
  26    54  MATH 1029         1  INTRO CONTEMP MATH     3.0  TBA                                     100% WEB BASED   LEDET J
  21    14  MATH 1431         1  CAL-BUS & ECO APLCAT   3.0  1210-0220   MTW    0138 LOCKETT                          VAUGHN D
+                     LAB                                     230-0330     W    0138 LOCKETT                          VAUGHN D
  47    53  MATH 1431         2  CAL-BUS & ECO APLCAT   3.0  TBA                                     100% WEB BASED   VAUGHN D
+                     LAB                                    TBA                                                      VAUGHN D
  14    26  MATH 1550         1  AN GEOM & CALCULUS-I   5.0  0840-1050   MTWTF  0138 LOCKETT                          AZHANG A
  24    16  MATH 1550         2  AN GEOM & CALCULUS-I   5.0  0950-1200   MTWTF  0277 LOCKETT                          PETTA MESTRIG
  26    14  MATH 1550         3  AN GEOM & CALCULUS-I   5.0  1100-0110   MTWTF  0243 LOCKETT                          CHATTERJEE R
@@ -66,9 +68,13 @@
   4     1  MATH 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SUNDAR P
   4     1  MATH 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      DANI P
 112    38  MATH 1021         1  COLLEGE ALGEBRA        3.0  0910-1040   MTWTF  0015 LOCKETT                          KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
  89    61  MATH 1021         2  COLLEGE ALGEBRA        3.0  TBA                                     100% WEB BASED   KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
 123    27  MATH 1022         1  PLANE TRIGONOMETRY     3.0  1100-1230   MTWTF  0015 LOCKETT                          KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
 103    47  MATH 1022         2  PLANE TRIGONOMETRY     3.0  TBA                                     100% WEB BASED   KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
  30    10  MATH 1100         2  NATURE OF MATHEMATCS   3.0  0910-1040   MTWTF  0112 LOCKETT                          BOUYA F
  63    37  MATH 1100         1  NATURE OF MATHEMATCS   3.0  TBA                                     100% WEB BASED   DOUGHERTY E
  19    11  MATH 1202         1  GEOM/REASONG/MEASURE   3.0  1240-0210   MTWTF  0112 LOCKETT                          DOUGHERTY E

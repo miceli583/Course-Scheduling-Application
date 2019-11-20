@@ -61,7 +61,30 @@ public class CourseScraper {
             {
                 if (line.length() > 0)
                 {
-                    if (line.charAt(0) == '(' || (Character.isDigit(line.charAt(2))))
+                    int charIndex = 0;
+                    char firstChar = line.charAt(charIndex);
+                    String firstWord = "";
+                    
+                    while (firstChar == ' ')
+                    {
+                        charIndex++;
+                        firstChar = line.charAt(charIndex);
+                    }
+
+                    while (firstChar != ' ')
+                    {
+                        firstWord += firstChar;
+                        charIndex++;
+
+                        if (charIndex >= line.length())
+                        {
+                            break;
+                        }
+
+                        firstChar = line.charAt(charIndex);
+                    }
+
+                    if (line.charAt(0) == '(' || Character.isDigit(line.charAt(2)) || firstWord.compareTo("LAB") == 0)
                     {
                         lines.add(line);
                     }

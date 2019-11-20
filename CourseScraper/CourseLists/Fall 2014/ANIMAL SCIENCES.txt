@@ -2,15 +2,21 @@
 (F)     1  ANSC 2001 RES     1  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   BIDNER T
 (F)     1  ANSC 2001 RES     4  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   THOMPSON D
   6    14  ANSC 2030         1  BASIC HORSEMANSHIP     3.0  1030-1120   M W    0109 TUREAUD HALL                     WALKER N
+                     LAB                                     800-0950    T                                           WALKER N
  13     7  ANSC 2030         2  BASIC HORSEMANSHIP     3.0  1030-1120   M W    0109 TUREAUD HALL                     WALKER N
+                     LAB                                     900-1050      TH                                        WALKER N
  17     3  ANSC 2030         3  BASIC HORSEMANSHIP     3.0  1030-1120   M W    0109 TUREAUD HALL                     WALKER N
+                     LAB                                    1100-1250      TH                                        WALKER N
 (F)    20  ANSC 2040 CLI     1  JUDGING DAIRY CATTLE   2.0   130-0420    T     0201 DAIRY SCIENCE                    HUTCHISON C
  10    19  ANSC 2042 LAB     1  TECH JDG/EVAL PL/PRD   2.0   230-0420    T TH  0124 TUREAUD HALL                     INGRAM D
   2    73  ANSC 2060         1  COMP ANIMAL MGT        3.0  1030-1120   M W F  0120 TUREAUD HALL                     RITCHIE J
   4    61  ANSC 2075         1  MILK AND DAIRY FOODS   3.0  1030-1150    T TH  0109 TUREAUD HALL                     ARYANA K
 (F)    36  ANSC 3033         1  EL LIVE-CARCASS EVAL   3.0   130-0220    T     0012 FRANCIONI                        PAGE T
+                     LAB                                     230-0420    T TH  0012 FRANCIONI                        PAGE T
 (F)    20  ANSC 3053         1  MEATS                  3.0   800-0950    T     0125 TUREAUD HALL                     MCMILLIN K
+                     LAB                                     800-0950      TH  0131 FRANCIONI                        MCMILLIN K
   9    16  ANSC 3053         2  MEATS                  3.0   800-0950    T     0125 TUREAUD HALL                     MCMILLIN K
+                     LAB                                    1000-1150      TH  0131 FRANCIONI                        MCMILLIN K
   2    38  ANSC 3060         1  COMP ANIM HLTH & DIS   3.0  1130-1220   M W F  0100 TUREAUD HALL                     RITCHIE J
  11    34  ANSC 3070         1  SM ANI ANAT & PHYSIO   3.0   930-1020   M W F  0213 TUREAUD HALL                     RITCHIE J
 (F)     1  ANSC 3900 RES     1  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   ARYANA K
@@ -22,13 +28,17 @@
 (F)     3  ANSC 3900 RES    12  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   THOMPSON D
 (F)     2  ANSC 3900 RES    14  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   WILLIAMS C
  33    17  ANSC 4001         1  PARAS EFF ON AN PERF   2.0   130-0220     W    0215 TUREAUD HALL                     MILLER J
+                     LAB                                     230-0420     W    0215 TUREAUD HALL                     MILLER J
 (F)    66  ANSC 4009         1  ANIMAL NUTRITION       3.0   830-0920   M W F  0120 TUREAUD HALL                     PAGE T
   8    30  ANSC 4018         2  PPLES ANIML GENETICS   4.0  1200-0120    T TH  0012 FRANCIONI                        GARCIA M
+                     LAB                                    1230-0220       F  0012 FRANCIONI                        GARCIA M
   2    15  ANSC 4020         1  FRZN/CULT DARY PROD    4.0   900-1020    T TH  0201 DAIRY SCIENCE                    BOENEKE C
+                     LAB                                     130-0420      TH                                        BOENEKE C
   1    53  ANSC 4043         1  DOM ANIMAL ENDO        3.0  1030-1150    T TH  2172 PATRICK TAYLOR                   WILLIAMS C
   1    59  ANSC 4045         1  REPRO PHYS             3.0   930-1020   M W F  0105 TUREAUD HALL                     BONDIOLI K
  18    12  ANSC 4050         1  ANIMAL BIOTECHNOLOGY   3.0   230-0350   M W    0012 FRANCIONI                        BONDIOLI K
   5    10  ANSC 4051         1  POULTRY BIOLOGY        3.0   430-0720N   T     0101 TUREAUD HALL    CI-WRITTEN&SPOK  INGRAM D
+                     LAB                                     430-0720N     TH  0101 TUREAUD HALL                     INGRAM D
 (F)    21  ANSC 4092 SEM     1  AN SC PROSEMINAR       1.0   130-0220   M      0201 DAIRY SCIENCE                    WILLIAMS C
   6     9  ANSC 7001         1  EXPERIMENTAL METHODS   2.0  1030-1120   M W    0012 FRANCIONI                        THOMPSON D
  18     7  ANSC 7018         1  RUMEN PHYS & METABOL   3.0   930-1020   M W F  0201 DAIRY SCIENCE                    JENNY B

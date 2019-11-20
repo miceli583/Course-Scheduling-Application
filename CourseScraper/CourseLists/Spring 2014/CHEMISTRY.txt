@@ -95,7 +95,9 @@
   1    17  CHEM 3493 LAB     1  PHYSICAL CHEM LAB      3.0   130-0420   M W    0230EMIDDLETON       CI-WRITTEN&VISU  RUPNIK K
  89    10  CHEM 3900 RES     1  CHEMICAL PROBLEMS      1-3  TBA                                     PERMIS OF DEPT   RUPNIK K
   9     1  CHEM 4005         1  RESEARCH METHODS       3.0  1030-1220   M      0205 PRESCOTT                         WISCHUSEN E
+                     LAB                                    1030-1220     W    0205 PRESCOTT                         WISCHUSEN E
   6     6  CHEM 4011         1  MACROMOLEC SYS II      3.0   130-0320   M      0206 WILLIAMS                         POJMAN J
+                     LAB                                     130-0320     W                                          POJMAN J
  24    16  CHEM 4160         1  IND ORG CHEMISTRY      3.0   300-0420    T TH  0210 WILLIAMS                         NESTEROV E
  10     6  CHEM 4553 LAB     2  EXP INST CHAR ORG CP   2.0   900-1150    T TH  0302 WILLIAMS                         RUPNIK K
   4    12  CHEM 4553 LAB     1  EXP INST CHAR ORG CP   2.0   130-0420    T TH  0302 WILLIAMS                         GARNO J
@@ -106,6 +108,7 @@
  62    27  CHEM 4571         1  ORGANOMETALLIC CHEM    3.0   900-1020    T TH  0202 WILLIAMS        CI-SPOKEN&TECH   STANLEY G
   6    14  CHEM 4581         1  INTROD MATH CHEM       3.0  1130-1220   M W F  0206 WILLIAMS                         BUTLER L
  19     1  CHEM 6001         1  CHEM INSTRCT DEM/EXP   3.0  TBA                                                      HOPKINS J
+                     LAB                                    TBA                                                      HOPKINS J
  13     7  CHEM 6691 SEM     1  SEM: CUR DEV IN CHEM   1-3  TBA                                                      HOPKINS J
   7    13  CHEM 7010         1  MACROMOLEC SYST III    3.0  1030-1150    T TH  0206 WILLIAMS                         SPIVAK D
  13     7  CHEM 7221         1  CHEM DYNAMCS/KINETCS   3.0   130-0250    T TH  0206 WILLIAMS                         CHEN B

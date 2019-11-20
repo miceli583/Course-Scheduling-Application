@@ -13,6 +13,7 @@
  20        ANSC 2001 RES    13  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   HAY G
  18     2  ANSC 2001 RES    14  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   WILLIAMS C
 (F)    37  ANSC 3033         1  EL LIVE-CARCASS EVAL   3.0   140-0230    T     0012 FRANCIONI                        BIDNER T
+                     LAB                                     240-0430    T TH  0012 FRANCIONI                        BIDNER T
  40        ANSC 3051 RES     1  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   BIDNER T
  99        ANSC 3051 RES     2  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   BONDIOLI K
  99        ANSC 3051 RES     3  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   GARCIA M
@@ -26,12 +27,16 @@
  99        ANSC 3051 RES    11  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   SOUTHERN L
  95     4  ANSC 3051 RES    12  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   THOMPSON D
   1    19  ANSC 3053         1  MEATS                  3.0   810-1000    T     0012 FRANCIONI                        MCMILLIN K
+                     LAB                                     810-1000      TH  0012 FRANCIONI                        MCMILLIN K
 (F)    20  ANSC 3053         2  MEATS                  3.0   810-1000    T     0012 FRANCIONI                        MCMILLIN K
+                     LAB                                    1010-1200      TH  0012 FRANCIONI                        MCMILLIN K
 (F)    35  ANSC 3060         1  COMP ANIM HLTH & DIS   3.0  1140-1230   M W F  0109 TUREAUD HALL                     RITCHIE J
   6    39  ANSC 3070         1  SM ANI ANAT & PHYSIO   3.0   940-1030   M W F  0229 TUREAUD HALL                     RITCHIE J
  31    19  ANSC 4001         1  PARAS EFF ON AN PERF   2.0   140-0230     W    0229 TUREAUD HALL                     MILLER J
+                     LAB                                     240-0430     W    0229 TUREAUD HALL                     MILLER J
 (F)    57  ANSC 4009         1  ANIMAL NUTRITION       3.0   840-0930   M W F  0120 TUREAUD HALL                     SOUTHERN L
  12    28  ANSC 4018         1  PPLES ANIML GENETICS   4.0  1040-1130   M W F  0226 TUREAUD HALL                     GARCIA M
+                     LAB                                    1240-0230       F  0226 TUREAUD HALL                     GARCIA M
   3    27  ANSC 4045         1  REP PHYL FARM ANIMAL   3.0   940-1030   M W F  0211 TUREAUD HALL                     GODKE R
  20    10  ANSC 4050         1  ANIMAL BIOTECHNOLOGY   3.0   240-0400   M W    0102 TUREAUD HALL                     BONDIOLI K
 (F)    21  ANSC 4092 SEM     1  AN SC PROSEMINAR       1.0   140-0230   M      0201 DAIRY SCIENCE                    WILLIAMS C

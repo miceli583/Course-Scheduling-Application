@@ -6,20 +6,34 @@
  12    18  CHE  3100         1  CHEM EQUIL & KINETIC   3.0   940-1030   M W F  0265 CHEM ENGR                        VALSARAJ K
   7    93  CHE  3101         1  MOMENTUM TRANSFER      3.0  1040-1130   M W F  0103 TUREAUD HALL                     WETZEL D
   3     3  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0282 CHEM ENGR       CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430   M      0164DCHEM ENGR                        WETZEL D
   3     3  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0282 CHEM ENGR       CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430   M      0164DCHEM ENGR                        FLAKE J
 (F)     4  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0282 CHEM ENGR       CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430    T     0164DCHEM ENGR                        WETZEL D
 (F)     4  CHE  3104         4  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0282 CHEM ENGR       CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430    T     0164DCHEM ENGR                        KNOPF F
   9    91  CHE  3172         1  CHE THERMODYNAMICS     3.0   940-1030   M W F  0103 TUREAUD HALL                     HUNG F
 (F)    33  CHE  4151         1  UNIT OPS DESIGN        4.0   940-1030   M W F  0155 COATES                           CORRIPIO A
+                     LAB                                     910-1030    T TH  0282 CHEM ENGR                        CORRIPIO A
   7    29  CHE  4151         2  UNIT OPS DESIGN        4.0   940-1030   M W F  0155 COATES                           CORRIPIO A
+                     LAB                                    1040-1200    T TH  0282 CHEM ENGR                        CORRIPIO A
 (F)     5  CHE  4162         1  UNIT OPERATIONS LAB    3.0   440-0530N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430   M W    0164 CHEM ENGR                        TOUPS H
   1     4  CHE  4162         2  UNIT OPERATIONS LAB    3.0   440-0530N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430   M W    0164 CHEM ENGR                        LASHOVER J
   1     4  CHE  4162         3  UNIT OPERATIONS LAB    3.0   440-0530N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430   M W    0164 CHEM ENGR                        HENRY J
   1     4  CHE  4162         4  UNIT OPERATIONS LAB    3.0   440-0530N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430   M W    0164 CHEM ENGR                        HENRY J
 (F)     5  CHE  4162         5  UNIT OPERATIONS LAB    3.0   440-0530N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430    T TH  0164 CHEM ENGR                        TOUPS H
 (F)     5  CHE  4162         6  UNIT OPERATIONS LAB    3.0   440-0530N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430    T TH  0164 CHEM ENGR                        LASHOVER J
   1     4  CHE  4162         7  UNIT OPERATIONS LAB    3.0   440-0530N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430    T TH  0164 CHEM ENGR                        THIBODEAUX L
 (F)     5  CHE  4162         8  UNIT OPERATIONS LAB    3.0   440-0530N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430    T TH  0164 CHEM ENGR                        HJORTSO M
  43    57  CHE  4190         1  CHEM REACTION ENGR     3.0  1140-1230   M W F  0103 TUREAUD HALL                     GRIFFIN G
  33    61  CHE  4198         1  PROCESS DYNAMICS       3.0  1040-1130   M W F  0206 TUREAUD HALL                     ROMAGNOLI J
   4     6  CHE  4222 LAB     1  SENIOR RESEARCH        2.0   540-0830N   T TH  0164 CHEM ENGR                        BENTON M

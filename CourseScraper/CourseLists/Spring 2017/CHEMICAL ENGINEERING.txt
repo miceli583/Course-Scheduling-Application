@@ -3,29 +3,51 @@
  59    83  CHE  2176         1  MATH MOD CHM ENG SYS   3.0   900-1020    T TH  0009 LOCKETT                          AYENI O
   8   147  CHE  3102         1  HEAT/MASS TRANSFER     4.0   830-1020    T TH  0103 DESIGN BUILDING                  ARGES C
 (F)     7  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR  CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420   M                                            STEVENS C
 (F)     7  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420   M                                            BALHOFF D
 (F)     7  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR  CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420   M                                            MELVIN E
 (F)     7  CHE  3104         4  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR  CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420    T                                           MELVIN A
 (F)     7  CHE  3104         5  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420    T                                           BALHOFF D
 (F)     7  CHE  3104         6  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420    T                                           MCPEAK K
 (F)     7  CHE  3104         7  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420     W                                          SPIVEY J
 (F)     7  CHE  3104         8  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420     W                                          DORMAN J
 (F)     7  CHE  3104         9  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR  CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420     W                                          BALHOFF D
 (F)     7  CHE  3104        10  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420      TH                                        SPIVEY J
 (F)     7  CHE  3104        11  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420      TH                                        DORMAN J
 (F)     7  CHE  3104        12  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420      TH                                        BALHOFF D
  68   132  CHE  3171         1  PROCESS ECON/OPTIMIZ   3.0  1030-1120   M W F  0143 COATES                           XU Y
  37   163  CHE  3173         1  HETEROGENUS EQULBRUM   3.0   930-1020   M W F  0143 COATES                           DING K
 (F)     8  CHE  4162         1  UNIT OPERATIONS LAB    3.0   430-0520N  M      0102 ALLEN           CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W                                          GRIFFIN G
 (F)    11  CHE  4162         2  UNIT OPERATIONS LAB    3.0   430-0520N  M      0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420   M W                                          GRIFFIN G
 (F)     8  CHE  4162         3  UNIT OPERATIONS LAB    3.0   430-0520N  M      0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420   M W                                          DOOLEY K
 (F)     9  CHE  4162         4  UNIT OPERATIONS LAB    3.0   430-0520N  M      0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420   M W                                          AYENI O
 (F)     9  CHE  4162         5  UNIT OPERATIONS LAB    3.0   430-0520N   T     0102 ALLEN           CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH                                        DOOLEY K
 (F)     9  CHE  4162         6  UNIT OPERATIONS LAB    3.0   430-0520N   T     0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420    T TH                                        DOOLEY K
 (F)     7  CHE  4162         7  UNIT OPERATIONS LAB    3.0   430-0520N   T     0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420    T TH                                        GRIFFIN G
 (F)     8  CHE  4162         8  UNIT OPERATIONS LAB    3.0   430-0520N   T     0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420    T TH                                        AYENI O
   7    63  CHE  4172         1  PROCESS DESIGN         4.0   930-1020   M W F  0006 LOCKETT                          FLAKE J
+                     LAB                                     900-1020    T TH  1124 PATRICK TAYLOR                   FLAKE J
 (F)    70  CHE  4172         2  PROCESS DESIGN         4.0   930-1020   M W F  0006 LOCKETT                          FLAKE J
+                     LAB                                    1030-1150   M W    1124 PATRICK TAYLOR                   CORRIPIO A
  14    26  CHE  4210         1  INDUSTRL CATALYSIS     3.0  1200-0120    T TH  0282 CHEM ENGR                        SPIVEY J
  18     6  CHE  4221 LAB     2  SENIOR RESEARCH        1.0   730-0820N  M                           CI-WRITTEN       FLAKE J
   7     3  CHE  4221 LAB     1  SENIOR RESEARCH        1.0   730-0820       F                       CI-WRITTEN       FLAKE J

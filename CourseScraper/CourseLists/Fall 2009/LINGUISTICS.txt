@@ -1,6 +1,9 @@
 (F)     5  LING 4150         1  PHONETICS              4.0   910-1030    T TH  0155 COATES                           BUCKINGHAM H
+                     LAB                                    1240-0130   M      0155 COATES                           BUCKINGHAM H
 (F)     5  LING 4150         2  PHONETICS              4.0   910-1030    T TH  0155 COATES                           BUCKINGHAM H
+                     LAB                                    1240-0130     W    0155 COATES                           BUCKINGHAM H
   3     2  LING 4150         3  PHONETICS              4.0   910-1030    T TH  0155 COATES                           BUCKINGHAM H
+                     LAB                                    1240-0130       F  0155 COATES                           BUCKINGHAM H
  13     7  LING 4310         1  LING OF AM SIGN LANG   3.0   440-0530N  M W F  0132 PRESCOTT
   3     7  LING 4310         2  STUDIES IN LANGUAGE    3.0   910-1030    T TH  0117 ALLEN                            BOWLES L
 (F)    17  LING 4710         1  INTR TO LINGUISTICS    3.0   940-1030   M W F  0127 TUREAUD HALL                     OLIVER E

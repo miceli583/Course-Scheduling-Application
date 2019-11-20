@@ -3,6 +3,7 @@
  12    18  EE   3320         1  ELEC MAGNETIC FLDS     3.0  1100-1200   MTWTF  0101 TUREAUD HALL                     RABALAIS M
  10    20  EE   3750         1  MICROPROCESSR SYSTMS   2.0  1210-0110   MTWTH  0145 ELECTRICAL ENGR                  DE SOUZA G
   3     9  EE   3751         1  MICROPROCESSOR LAB     2.0   120-0220   M W    0145 ELECTRICAL ENGR                  DE SOUZA G
+                     LAB                                     230-0430   M W    0302 ELECTRICAL ENGR                  DE SOUZA G
  22     8  EE   3950         1  ELECTRONICS            2.0  0840-0940   MTWTH  0149 ELECTRICAL ENGR                  DE SOUZA G
 (F)     1  EE   7091 RES     1  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   MEHRAEEN S
 (F)     1  EE   7091 RES     2  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   TRAHAN J

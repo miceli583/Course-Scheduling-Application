@@ -3,11 +3,17 @@
  14   186  PSYC 2000         1  INTR TO PSYC           3.0   300-0420    T TH  0002 LOCKETT                          RIESKE R
 154   146  PSYC 2005         1  INTRO TO PSYC MAJOR    1.0  TBA                                                      MATHEWS R
   1    19  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0152 COATES          MAJORS ONLY      BECK M
+                     LAB                                     230-0420   M      0205 COATES                           BECK M
   2    18  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0152 COATES          MAJORS ONLY      BECK M
+                     LAB                                     300-0450     W    0205 COATES                           BECK M
   5    15  PSYC 2017         3  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0152 COATES          MAJORS ONLY      BECK M
+                     LAB                                     830-1020     W    0232 MIDDLETON                        BECK M
   1    19  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0152 COATES          MAJORS ONLY      BECK M
+                     LAB                                     300-0450    T     0205 COATES                           BECK M
   5    15  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0152 COATES          MAJORS ONLY      BECK M
+                     LAB                                     300-0450      TH  0205 COATES                           BECK M
 (F)    20  PSYC 2017         6  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0152 COATES          MAJORS ONLY      BECK M
+                     LAB                                    1230-0220   M      0205 COATES                           BECK M
   6   159  PSYC 2040         1  SOCIAL PSYCHOLOGY      3.0   600-0850N    W    0010 LOCKETT                          DOMANGUE T
  55   105  PSYC 2060         1  EDUCATIONAL PSYC       3.0   600-0850N  M      0010 LOCKETT                          GUSTIN Q
   2   198  PSYC 2070         1  DEVELOP PSYC LIFE SP   3.0   430-0720N    W    0143 COATES                           ERWIN M

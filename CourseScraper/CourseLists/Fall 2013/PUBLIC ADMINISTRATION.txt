@@ -1,5 +1,7 @@
  11    29  PADM 5010         1  STAT METHODS PUB ADM   3.0   200-0450    T     1425 BEC S GRAD PAVI                  LLORENS J
+                     LAB                                     200-0450    T     1425 BEC S GRAD PAVI                  LLORENS J
  46    14  PADM 5010         2  STAT METHODS PUB ADM   3.0   600-0850N    W    1220 BEC S GRAD PAVI                  LLORENS J
+                     LAB                                     600-0850N    W    1220 BEC EAST ROTUND                  LLORENS J
   7    53  PADM 5600         1  MICROEC TH POLICY AN   3.0   600-0850N  M      1920 BEC N UNDERGRAD                  RICHARDSON J
   6    14  PADM 7610         1  HEALTHCARE ORG/FIN     3.0   600-0850N    W    1409 BEC S GRAD PAVI                  SALLES P
  27    13  PADM 7710         1  PUBLIC FIN MGT         3.0   600-0850N    W    1425 BEC S GRAD PAVI                  MOROZOV B

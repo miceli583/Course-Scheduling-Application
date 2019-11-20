@@ -1,5 +1,7 @@
 (F)    18  NFS  1014         1  FOOD THEORY & SKILLS   4.0   930-1020   M W F  0136 LOCKETT         MAJORS ONLY      MYHAND J
+                     LAB                                     130-0420    T                                           MYHAND J
 (F)    18  NFS  1014         2  FOOD THEORY & SKILLS   4.0   930-1020   M W F  0136 LOCKETT         MAJORS ONLY      MYHAND J
+                     LAB                                     130-0420      TH                                        MYHAND J
  71    79  NFS  1110         1  INTRO TO NUTRITION     3.0  1230-0120   M W F  0002 LOCKETT                          BALL M
 (F)    92  NFS  1110         2  INTRO TO NUTRITION     3.0  1200-0120    T TH  0206 TUREAUD HALL                     DORE S
   5    72  NFS  2000         1  FUND OF FOOD SCIENCE   3.0  1030-1150    T TH  0212 COATES          MAJORS ONLY      GUTIERREZ BAR
@@ -18,12 +20,18 @@
 (F)    16  NFS  4021 SEM     2  TOPICS IN NUTRITION    1.0   130-0220     W    0101 TUREAUD HALL    PERMIS OF DEPT   LAMMI-KEEFE C
 (F)    42  NFS  4023         1  DIETETICS MANAGEMENT   3.0  1030-1150    T TH  0119 TUREAUD HALL    MAJORS ONLY      DORE S
   2    18  NFS  4040         1  QUAL ASSURNCE FD IND   4.0  1030-1150    T TH  0211 TUREAUD HALL                     ARYANA K
+                     LAB                                     130-0420   M      0119 DAIRY SCIENCE                    ARYANA K
   3    17  NFS  4050         1  FOOD COMP & ANALYSIS   4.0   930-1020   M W F  0124 TUREAUD HALL                     LOSSO J
+                     LAB                                     230-0520     W                                          LOSSO J
   6    14  NFS  4076         1  FOOD PRODUCT DEV       3.0   830-0920   M W    0116 TUREAUD HALL                     PRINYAWIWATKU
+                     LAB                                     130-0420       F  0116 TUREAUD HALL                     PRINYAWIWATKU
 (F)    25  NFS  4110         1  NUTRITION CAPSTONE     3.0  1200-1250    T TH  0134 J C MILLER                       TUURI G
+                     LAB                                     100-0350    T     0134 J C MILLER                       TUURI G
 (F)    24  NFS  4110         2  NUTRITION CAPSTONE     3.0  1200-1250    T TH  0134 J C MILLER                       TUURI G
+                     LAB                                     100-0350      TH  0134 J C MILLER                       TUURI G
   2    50  NFS  4114         1  NUTRI & DISEASES II    4.0   730-0920    T TH  0120 TUREAUD HALL    MAJORS ONLY      BALL M
 (F)    22  NFS  4162         1  FOOD MICROBIOLOGY      4.0   130-0220    T TH  0214 WILLIAMS                         JANES M
+                     LAB                                     300-0450    T TH  0241 J C MILLER                       JANES M
   7     8  NFS  7002         1  TPCS IN MICRONUTRIEN   2.0  1030-1150    T TH  0050 ALLEN                            KEENAN M
   3     9  NFS  7021         1  WEIGHT MANAGEMENT      3.0   440-0720N    W    0108 AUDUBON                          O'NEIL C
 (F)     5  NFS  7030 RES     1  FOODBORNE EPID         1-6  TBA                                     PERMIS OF DEPT   JANES M

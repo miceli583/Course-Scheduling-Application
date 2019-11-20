@@ -2,15 +2,25 @@
   2   338  MC   2000         2  INTR TO MASS MEDIA     3.0   900-1020    T TH  0100 DODSON                           SONG F
 (F)    30  MC   2001         1  HON INTRO MASS MEDIA   3.0   900-1020    T TH  0135 JOURNALISM                       DEFLEUR M
   2    16  MC   2010         1  MEDIA WRITING          3.0   830-1020   M      0107 JOURNALISM      MAJORS ONLY      ODELL T
+                     LAB                                     830-1020     W    0107 JOURNALISM                       ODELL T
   1    17  MC   2010         2  MEDIA WRITING          3.0   830-1020   M      0100 JOURNALISM      MAJORS ONLY      DILL R
+                     LAB                                     830-1020     W    0100 JOURNALISM                       DILL R
 (F)    18  MC   2010         3  MEDIA WRITING          3.0  1230-0220   M      0100 JOURNALISM      MAJORS ONLY      CARTER C
+                     LAB                                    1230-0220     W    0100 JOURNALISM                       CARTER C
   1    17  MC   2010         5  MEDIA WRITING          3.0  1230-0220   M      0107 JOURNALISM      MAJORS ONLY      PAUL N
+                     LAB                                    1230-0220     W    0107 JOURNALISM                       PAUL N
 (F)    17  MC   2010         4  MEDIA WRITING          3.0   230-0420   M      0111 JOURNALISM      MAJORS ONLY      COOK A
+                     LAB                                     230-0420     W    0111 JOURNALISM                       COOK A
   1    17  MC   2010         9  MEDIA WRITING          3.0   730-0920    T                                           DILL R
+                     LAB                                     730-0920      TH                                        DILL R
   2    16  MC   2010         6  MEDIA WRITING          3.0   800-0950    T     0100 JOURNALISM      MAJORS ONLY      BONGIORNI S
+                     LAB                                     800-0950      TH  0100 JOURNALISM                       BONGIORNI S
 (F)    19  MC   2010         7  MEDIA WRITING          3.0  1200-0150    T     0111 JOURNALISM                       ODELL T
+                     LAB                                    1200-0150      TH  0111 JOURNALISM                       ODELL T
   2    16  MC   2010         8  MEDIA WRITING          3.0   200-0350    T     0100 JOURNALISM      CI-WRITTEN&SPOK  DILL R
+                     LAB                                     200-0350      TH  0100 JOURNALISM                       DILL R
 (F)    19  MC   2011         1  HNRS: MEDIA WRITING    3.0   200-0350    T     0111 JOURNALISM      MAJORS ONLY      SHELLEDY J
+                     LAB                                     200-0350      TH  0111 JOURNALISM                       SHELLEDY J
 (F)    18  MC   2015 LAB     1  VISUAL COMMUNICATION   3.0   930-1020   M W    0111 JOURNALISM      MAJORS ONLY      ALTINAY Z
 (F)    18  MC   2015 LAB     2  VISUAL COMMUNICATION   3.0  1030-1120   M W    0100 JOURNALISM      MAJORS ONLY      COOK A
 (F)    19  MC   2015 LAB     3  VISUAL COMMUNICATION   3.0  1030-1120   M W    0107 JOURNALISM      CI-VISUAL&TECH   HEBERT J
@@ -24,23 +34,33 @@
   6    24  MC   2040         1  ADVERTIS INDST SOC     3.0   300-0420    T TH  0135 JOURNALISM      MAJORS ONLY      OSBORNE A
  11   174  MC   2525         1  MEDIA PERSUASION       3.0   130-0250    T TH  0016 LOCKETT         MAJORS ONLY      PORTER L
   6     6  MC   3002         1  FEATURE WRITING        3.0  1000-1050    T     0225 HODGES HALL     MAJORS ONLY      SHELLEDY J
+                     LAB                                    1100-1150    T     0225 HODGES HALL                      SHELLEDY J
  20    65  MC   3010         1  PUBLIC RELATIONS PRA   3.0   130-0250    T TH  0139 ALLEN           MAJORS ONLY      LUNDY L
 (F)    43  MC   3018         3  FOUND OF MEDIA RES     3.0   930-1020   M W F  0236 HODGES HALL     MAJORS ONLY      LAPOE V
 (F)    42  MC   3018         1  FOUND OF MEDIA RES     3.0   300-0420    T TH  0216 HODGES HALL     MAJORS ONLY      KAMAL M
 (F)    42  MC   3018         2  FOUND OF MEDIA RES     3.0   300-0420    T TH  0236 HODGES HALL     MAJORS ONLY      YORK C
  12    18  MC   3018         4  FOUND OF MEDIA RES     3.0   430-0550N   T TH  0135 JOURNALISM      MAJORS ONLY      PADGETT J
   3    15  MC   3031         2  ADVERT CREATVE STRAT   3.0   430-0620N  M      0111 JOURNALISM      MAJORS ONLY      TERRITO H
+                     LAB                                     430-0620N    W    0111 JOURNALISM                       TERRITO H
   1    17  MC   3031         1  ADVERT CREATVE STRAT   3.0   800-0950    T     0107 JOURNALISM      MAJORS ONLY      WINDELS K
+                     LAB                                     800-0950      TH  0107 JOURNALISM                       WINDELS K
   4    38  MC   3080         2  MASS MEDIA LAW         3.0   830-0920   M W F  0236 HODGES HALL     MAJORS ONLY      DAY L
 (F)    39  MC   3080         3  MASS MEDIA LAW         3.0  1130-1220   M W F  0236 HODGES HALL     MAJORS ONLY      FREEMAN C
   4    36  MC   3080         1  MASS MEDIA LAW         3.0   130-0250    T TH  0216 HODGES HALL     MAJORS ONLY      COYLE E
   1    17  MC   3101         1  PRINT NEWS & EDIT      3.0  1030-1220   M      0111 JOURNALISM      MAJORS ONLY      ANDERSON R
+                     LAB                                    1030-1220     W    0111 JOURNALISM                       ANDERSON R
 (F)    18  MC   3101         2  PRINT NEWS & EDIT      3.0   230-0420   M      0107 JOURNALISM      MAJORS ONLY      DILL R
+                     LAB                                     230-0420     W    0107 JOURNALISM                       DILL R
   4    14  MC   3101         3  PRINT NEWS & EDIT      3.0   400-0550    T     0100 JOURNALISM      MAJORS ONLY      ROWLEY K
+                     LAB                                     400-0550      TH  0100 JOURNALISM                       ROWLEY K
   4    14  MC   3102         1  BROADCAST NEWS/PROD    3.0   830-1020   M      B012 HODGES HALL     MAJORS ONLY      GRIMM J
+                     LAB                                     830-1020     W    B012 HODGES HALL                      GRIMM J
 (F)    19  MC   3102         2  BROADCAST NEWS/PROD    3.0  1030-1220   M      B012 HODGES HALL     MAJORS ONLY      HENDERSON K
+                     LAB                                    1030-1220     W    B012 HODGES HALL                      HENDERSON K
   2    16  MC   3103         1  ADV PRINT NEWSGATHER   3.0   230-0420   M      0100 JOURNALISM      MAJORS ONLY      RITTER R
+                     LAB                                     230-0420     W    0100 JOURNALISM                       RITTER R
   1    17  MC   3104         1  ADV BROADCAST NEWS     3.0  1000-1050    T     B012 HODGES HALL     MAJORS ONLY      CARTER C
+                     LAB                                    1100-1150    T     B012 HODGES HALL                      CARTER C
   7    35  MC   3333         1  MINORITIES & MEDIA     3.0  1200-0120    T TH  0236 HODGES HALL     MAJORS ONLY      LAPOE B
  12    18  MC   3504         1  INTRO POLI COMM        3.0   830-0920   M W F  0135 JOURNALISM      MAJORS ONLY      LEBRON M
  14    16  MC   3505         1  MEDIA & POL PROCESS    3.0   130-0250    T TH  0140 JOURNALISM      MAJORS ONLY      TURCOTTE J
@@ -49,18 +69,27 @@
  81    18  MC   3998 CLI     3  INTERNSHIP             3.0  TBA                                     PERMIS OF DEPT   BROUSSARD J
  94     5  MC   3998 CLI     4  INTERNSHIP             3.0  TBA                                     PERMIS OF DEPT   DUNAWAY J
  23     7  MC   4000         1  MEDIA AND MILITARY     3.0  1230-0220    T     0135 JOURNALISM      MAJORS ONLY      SYLVESTER J
+                     LAB                                    1230-0220      TH  0135 JOURNALISM                       SYLVESTER J
 (F)    18  MC   4001         1  PUB REL WRITING        3.0  1230-0220   M      0111 JOURNALISM      MAJORS ONLY      LUNDY L
+                     LAB                                    1230-0220     W    0111 JOURNALISM                       LUNDY L
 (F)    20  MC   4001         2  PUB REL WRITING        3.0  1000-1150    T     0100 JOURNALISM      MAJORS ONLY      MOORE-COPPLE
+                     LAB                                    1000-1150      TH  0100 JOURNALISM                       MOORE-COPPLE
  11     7  MC   4001         4  PUB REL WRITING        3.0  1230-0220    T     0107 JOURNALISM      MAJORS ONLY      WINDELS K
+                     LAB                                    1230-0220      TH  0107 JOURNALISM                       WINDELS K
 (F)    18  MC   4001         3  PUB REL WRITING        3.0   430-0620N   T     0111 JOURNALISM      MAJORS ONLY      BERTHELOT A
+                     LAB                                     430-0620N     TH  0111 JOURNALISM                       BERTHELOT A
 (F)    40  MC   4004         1  CASE STUDIES PUB REL   3.0  1200-0120    T TH  0216 HODGES HALL     MAJORS ONLY      DAHMEN N
  12    28  MC   4004         2  CASE STUDIES PUB REL   3.0   430-0720N   T     0216 HODGES HALL     MAJORS ONLY      PARK H
  11    19  MC   4005         1  PUB RELATN CAMPAIGNS   3.0  1030-1220    T     0140 JOURNALISM      MAJORS ONLY      BROUSSARD J
+                     LAB                                    1030-1220      TH  0140 JOURNALISM                       BROUSSARD J
   3    17  MC   4005         3  PUB RELATN CAMPAIGNS   3.0  1200-0150    T     0100 JOURNALISM      MAJORS ONLY      PARK H
+                     LAB                                    1200-0150      TH  0100 JOURNALISM                       PARK H
   5    13  MC   4031         1  ADVERTISING DESIGN     3.0   800-0950    T     0111 JOURNALISM      MAJORS ONLY      HEBERT J
+                     LAB                                     800-0950      TH  0111 JOURNALISM                       HEBERT J
  22    18  MC   4034         1  ADV MEDIA ANLYS/PLAN   3.0  1030-1150    T TH  0236 HODGES HALL     MAJORS ONLY      JEONG Y
   6    34  MC   4040 SEM     1  ADVERTISING PROBLEMS   3.0   130-0250    T TH  0236 HODGES HALL     MAJORS ONLY      JEONG Y
  19    11  MC   4045         1  ADVERTISING CAMPAIGN   3.0  1030-1220    T     0135 JOURNALISM      MAJORS ONLY      OSBORNE A
+                     LAB                                    1030-1220      TH  0135 JOURNALISM                       OSBORNE A
  28    14  MC   4050         1  MEDIA MANAGEMENT       3.0   830-0920   M W F  0216 HODGES HALL     MAJORS ONLY      RITTER M
   1    39  MC   4090         3  MEDIA ETH & SOC RESP   3.0   930-1020   M W F  0216 HODGES HALL     MAJORS ONLY      CHRISTENSEN B
   2    40  MC   4090         2  MEDIA ETH & SOC RESP   3.0   900-1020    T TH  0236 HODGES HALL     MAJORS ONLY      CEPPOS J
@@ -69,8 +98,11 @@
   7     3  MC   4091         1  HON MEDIA ETHICS       3.0  1030-1120   M W F  0233 HODGES HALL                      DAY L
   7    23  MC   4095         1  AMERICAN MEDIA HIST    3.0   900-1020    T TH  0140 JOURNALISM      MAJORS ONLY      COYLE E
 (F)    15  MC   4151         1  FIELD EXPERIENCE       3.0   130-0220   M      0236 HODGES HALL     MAJORS ONLY      SHELLEDY J
+                     LAB                                    TBA                                                      SHELLEDY J
   5    13  MC   4280         1  TV NEWS PRODUCING      3.0   130-0320   M      B012 HODGES HALL     MAJORS ONLY      ODELL T
+                     LAB                                     130-0320     W    B012 HODGES HALL                      ODELL T
 (F)    19  MC   4500         1  ADV JOURNALISM         3.0   800-0850    T     0216 HODGES HALL     MAJORS ONLY      ODELL T
+                     LAB                                     900-0950    T     0216 HODGES HALL                      ODELL T
  11    19  MC   4520 SEM     1  ADV SEM POL COM        3.0  1030-1120   M W F  0135 JOURNALISM      CI-WRITTEN&VISU  DIGRADO J
  98     1  MC   4999 RES     2  INDEPENDENT STUDY      3.0  TBA                                     PERMIS OF DEPT   REYNOLDS A
   6    19  MC   7000 SEM     2  PROSEM MASS COM PUB    1.0  1130-1220     W    0140 JOURNALISM                       REYNOLDS A

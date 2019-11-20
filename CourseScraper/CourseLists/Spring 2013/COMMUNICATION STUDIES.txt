@@ -15,6 +15,7 @@
 (F)    30  CMST 2010         4  INTERPERSNL COMMNCTN   3.0   730-0850    T TH  0225 COATES          100% WEB BASED   PRIDE-SHAW S
 165    85  CMST 2010         3  INTERPERSNL COMMNCTN   3.0   900-1020    T TH  0143 COATES                           PRIDE-SHAW S
   1    24  CMST 2012         1  INTRO TO FILM          4.0  1200-0120    T TH  0234 COATES                           JACKSON S
+                     LAB                                     600-0850N     TH  0151 COATES                           JACKSON S
 (F)    24  CMST 2040         3  INTR TO PERFORM LITR   3.0   830-0920   M W F  0137 COATES                           POLANCO R
   1    23  CMST 2040         4  INTR TO PERFORM LITR   3.0   930-1020   M W F  0137 COATES                           POLANCO R
   2    22  CMST 2040         1  INTR TO PERFORM LITR   3.0   900-1020    T TH  0137 COATES                           MICHALIK L
@@ -91,6 +92,7 @@
  10        CMST 2200 CLI     4  PRACT COMM STUDIES     1.0  TBA                                     PERMIS OF DEPT   LEBRET J
  10        CMST 2200 CLI     5  PRACT COMM STUDIES     1.0  TBA                                     PERMIS OF DEPT   MCDONALD C
   5    55  CMST 3012         1  HISTORY OF FILM        4.0   130-0250    T TH  0220 COATES                           SUCHY P
+                     LAB                                     600-0850N   T     0155 COATES                           DELOACH M
   8    12  CMST 3040         1  PERFORMANCE COMPOSIT   3.0  1230-0120   M W F  0137 COATES                           LEBRET J
 (F)    26  CMST 3107         1  RHET CONTEMP MEDIA     3.0   930-1020   M W F  0111 COATES                           BUTCHER J
 (F)    28  CMST 3113         1  CONVERSATION           3.0   730-0850    T TH  0237 COATES                           FANNIN A

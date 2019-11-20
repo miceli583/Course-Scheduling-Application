@@ -13,14 +13,22 @@
   5    20  RNR  2101         1  ECOL RENEW NAT RES     3.0  1130-1250    T TH  0230 RENEWABLE NAT R CI-WRITTEN&SPOK  ERRERA R
 (F)    28  RNR  2101         2  ECOL RENEW NAT RES     3.0   130-0250    T TH  0230 RENEWABLE NAT R                  DOZIER H
 (F)    25  RNR  2102         1  NAT RES MEASUR & GIS   3.0   830-0920    T TH  0141 RENEWABLE NAT R                  CAO Q
+                     LAB                                     130-0420   M      0141 RENEWABLE NAT R                  CAO Q
   4    21  RNR  2102         2  NAT RES MEASUR & GIS   3.0   830-0920    T TH  0141 RENEWABLE NAT R                  CAO Q
+                     LAB                                     130-0420       F  0141 RENEWABLE NAT R                  CAO Q
 (F)    31  RNR  3002         1  SILVICULTURE           2.0  1000-1150    T     0141 RENEWABLE NAT R C-I TECH         DEAN T
 (F)    19  RNR  3004         1  FOR PHOTOGRAM, GPS,    3.0   900-0950    T TH  0214 RENEWABLE NAT R                  WOLCOTT M
+                     LAB                                     130-0420       F  0214 RENEWABLE NAT R                  WOLCOTT M
 (F)    25  RNR  3018         1  ECOL & MGT LA WILDL    4.0  1230-0120    T TH  0142 RENEWABLE NAT R SVC LEARNING     STOUFFER P
+                     LAB                                     130-0420    T TH  0142 RENEWABLE NAT R                  STOUFFER P
 (F)    26  RNR  3018         2  ECOL & MGT LA WILDL    4.0  1230-0120    T TH  0141 RENEWABLE NAT R                  RINGELMAN K
+                     LAB                                     130-0420    T TH  0141 RENEWABLE NAT R                  RINGELMAN K
 (F)     6  RNR  3108         1  CS STDS HABITAT REST   2.0  1230-0120    T     0207 RENEWABLE NAT R SVC LEARNING     NYMAN J
+                     LAB                                     130-0420    T     0207 RENEWABLE NAT R                  NYMAN J
 (F)    26  RNR  4020         1  TAX/ECOL WETLAND PL    4.0  1030-1120   M W F  0206 RENEWABLE NAT R                  NYMAN J
+                     LAB                                     120-0420   M      0206 RENEWABLE NAT R                  NYMAN J
   4    21  RNR  4022         1  PRINC OF AQUACULTURE   4.0  1030-1150   M W    0230 RENEWABLE NAT R                  GREEN C
+                     LAB                                     130-0420     W    0206 RENEWABLE NAT R                  GREEN C
 (F)    46  RNR  4023         1  MARINE FISH RESOURCE   3.0   830-0920   M W F  0141 RENEWABLE NAT R                  KELSO W
 (F)    30  RNR  4037         1  BIOLOGY OF FISHES      3.0  1230-0120   M W F  0230 RENEWABLE NAT R                  XU W
  15    15  RNR  4038         1  FOREST ECONOMICS       3.0  1030-1120   M W F  0141 RENEWABLE NAT R                  CHANG S
@@ -32,8 +40,10 @@
  89    10  RNR  4063 CLI     1  INTERNSHIP NAT RES     1-4  TBA                                                      KALLER M
  15     5  RNR  4064 SEM     1  WILD FLD STD AFRICA    1.0  TBA                                                      COLLIER B
 (F)    43  RNR  4101         1  NAT RES MGT/POL/HDIM   4.0   830-0920    T TH  0142 RENEWABLE NAT R CI-WRITTEN&SPOK  KEIM R
+                     LAB                                     930-1220    T TH  0142 RENEWABLE NAT R                  KEIM R
 (F)    42  RNR  4103         1  CONSERVATION GENETIC   3.0   930-1020   M W F  0230 RENEWABLE NAT R                  TAYLOR S
   1     9  RNR  4900         1  WATERSHED HYDROLOGY    3.0   130-0250     W    0230 RENEWABLE NAT R                  XU Y
+                     LAB                                     830-1050       F  0214 RENEWABLE NAT R                  XU Y
  20     5  RNR  7007         1  RESOURCE POLICY        3.0  1000-1120    T TH  0230 RENEWABLE NAT R                  LAPEYRE M
   8     7  RNR  7008         1  GREEN ENERGY           3.0   230-0520   M      0230 RENEWABLE NAT R                  DE HOOP C
   5        RNR  7029 SEM     1  GIS NAT RES            1-4  TBA                                                      DE HOOP C
@@ -42,6 +52,7 @@
 (F)    11  RNR  7029 SEM     4  MISS RIV DIVERSION     1-4  TBA                                                      XU Y
   7     3  RNR  7029 SEM     5  ADV TOP RENEW NT RES   1-4  TBA                                                      TIERSCH T
  10     5  RNR  7030         1  AQUATIC ENTOMOLOGY     4.0   130-0250    T TH  0206 RENEWABLE NAT R                  CARLTON C
+                     LAB                                     300-0550      TH  0206 RENEWABLE NAT R                  CARLTON C
  20        RNR  7043         1  ENVIRONMEN LAW & REG   3.0   150-0310   M W                                          HUDSON R
   9     3  RNR  7071 RES     1  GRADUATE SEMINAR FOR   1.0  TBA                                                      DE HOOP C
 (F)    10  RNR  7072 SEM     1  GRAD SEM WILDLIFE      1.0  TBA                                                      COLLIER B

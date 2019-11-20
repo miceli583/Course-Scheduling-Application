@@ -1,12 +1,12 @@
-(F)    41  SW   2000         2  INTRO TO SOCIAL WORK   3.0  1030-1120   M W F  0112 LOCKETT                          HEBERT A
-(F)    42  SW   2000         1  INTRO TO SOCIAL WORK   3.0  TBA                                     100% WEB BASED   CHIASSON A
-  1    39  SW   3002         1  CHILD AND COMMUNITY    3.0   930-1020   M W F  0276 LOCKETT                          EUGENE D
-  9    31  SW   3003         1  SKILL WK WITH PEOPLE   3.0  1030-1150    T TH  0019 ALLEN
+(F)    40  SW   2000         2  INTRO TO SOCIAL WORK   3.0  1030-1120   M W F  0112 LOCKETT                          HEBERT A
+(F)    43  SW   2000         1  INTRO TO SOCIAL WORK   3.0  TBA                                     100% WEB BASED   CHIASSON A
+(F)    40  SW   3002         1  CHILD AND COMMUNITY    3.0   930-1020   M W F  0276 LOCKETT                          EUGENE D
+  7    33  SW   3003         1  SKILL WK WITH PEOPLE   3.0  1030-1150    T TH  0019 ALLEN
   1    25  SW   3006         1  PRACTICE WITH GRPS     3.0  1030-1150    T TH  0179 LONG FIELDHOUSE MAJORS ONLY      BAILEY J
   2    24  SW   3008         1  HBSE II                3.0   130-0250    T TH  0152 LONG FIELDHOUSE MAJORS ONLY
   1    25  SW   3103         1  SW HISTORY & POLICY    3.0   900-1020    T TH  0179 LONG FIELDHOUSE MAJORS ONLY      LIVERMORE M
- 24    16  SW   4070         2  JUVENILE CRIMNL JUST   3.0  1200-0120    T TH  0239 LOCKETT                          CHURCH W
- 19    21  SW   4070         1  CHILD MALTREATMENT     3.0   300-0550    T     0023 ALLEN                            MOON C
+ 23    17  SW   4070         2  JUVENILE CRIMNL JUST   3.0  1200-0120    T TH  0239 LOCKETT                          CHURCH W
+ 18    22  SW   4070         1  CHILD MALTREATMENT     3.0   300-0550    T     0023 ALLEN                            MOON C
  10    15  SW   4100 CLI     1  FIELD INTERNSHIP       9.0  TBA                                     MAJORS ONLY
  25        SW   4100 CLI     2  FIELD INTERNSHIP       9.0  TBA                                     MAJORS ONLY
  10    15  SW   4200 SEM     1  INTEGRATIVE SEMINAR    3.0   830-1120       F  0179 LONG FIELDHOUSE MAJORS ONLY      BAILEY J
@@ -35,10 +35,10 @@
 (F)    27  SW   7010         1  DIFFERENT DIAGNOSIS    3.0   830-1120      TH  0184 LONG FIELDHOUSE MAJORS ONLY      PURSER G
 (F)    27  SW   7010         2  DIFFERENT DIAGNOSIS    3.0  1230-0320      TH  0184 LONG FIELDHOUSE MAJORS ONLY      PURSER G
  20        SW   7202 RES     1  RES PROB SOC POLCY     3.0  1230-0320     W
-  7     8  SW   7204 RES     1  RES SW INTERVENTION    3.0  1230-0320     W    0179 LONG FIELDHOUSE MAJORS ONLY      CHIANG C
+  6     9  SW   7204 RES     1  RES SW INTERVENTION    3.0  1230-0320     W    0179 LONG FIELDHOUSE MAJORS ONLY      CHIANG C
   5        SW   7206 RES     1  RESEARCH PRACTICUM     3-9  TBA                                     MAJORS ONLY
   5        SW   7206 RES     2  RESEARCH PRACTICUM     3-9  TBA                                     MAJORS ONLY
-  3     4  SW   7207         1  INTEGRATIVE SEMINAR    3.0  1230-0320    T                          MAJORS ONLY
+  2     5  SW   7207         1  INTEGRATIVE SEMINAR    3.0  1230-0320    T                          MAJORS ONLY
 (F)    17  SW   7305         1  GRIEF & BEREAVEMENT    3.0  1230-0320    T     0112 PRESCOTT                         SMELLEY S
 (F)    17  SW   7403         1  SOCIAL WORK & AGING    3.0   830-1120    T     0152 LONG FIELDHOUSE
 (F)    17  SW   7404         1  SW PRACT IN SCHOOLS    3.0  1230-0320    T     0184 LONG FIELDHOUSE                  CONRAD B

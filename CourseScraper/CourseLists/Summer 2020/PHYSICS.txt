@@ -1,19 +1,19 @@
  20        PHYS 1209 LAB     1  GEN PHYS LAB PHYS M    1.0  1210-0200   M  TH
-179    21  PHYS 2001         1  GENERAL PHYSICS        3.0  0950-1050   MTWTF
+177    23  PHYS 2001         1  GENERAL PHYSICS        3.0  0950-1050   MTWTF
 174    26  PHYS 2001         3  GENERAL PHYSICS        3.0  TBA
 191     9  PHYS 2002         1  GENERAL PHYSICS        3.0  1100-1200   MTWTF
-179    21  PHYS 2002         3  GENERAL PHYSICS        3.0  TBA
- 12    12  PHYS 2108 LAB     1  LAB WRK TECHN PHYS     1.0  1210-0300   M  TH
+181    19  PHYS 2002         3  GENERAL PHYSICS        3.0  TBA
+ 10    14  PHYS 2108 LAB     1  LAB WRK TECHN PHYS     1.0  1210-0300   M  TH
  21     3  PHYS 2108 LAB     5  LAB WRK TECHN PHYS     1.0  1210-0300   M  TH
  20     4  PHYS 2108 LAB     2  LAB WRK TECHN PHYS     1.0   340-0630   M  TH
  20     4  PHYS 2108 LAB     3  LAB WRK TECHN PHYS     1.0   700-1000N  M  TH
  20     4  PHYS 2108 LAB     4  LAB WRK TECHN PHYS     1.0  0910-1200    T  F
  17     7  PHYS 2109 LAB     1  GEN PHYSICS LAB        1.0  1210-0300   M  TH
- 20     4  PHYS 2109 LAB     2  GEN PHYSICS LAB        1.0   340-0630   M  TH
+ 19     5  PHYS 2109 LAB     2  GEN PHYSICS LAB        1.0   340-0630   M  TH
  24        PHYS 2109 LAB     3  GEN PHYSICS LAB        1.0   700-1000N  M  TH
- 18     6  PHYS 2109 LAB     4  GEN PHYSICS LAB        1.0  0910-1200    T  F
+ 19     5  PHYS 2109 LAB     4  GEN PHYSICS LAB        1.0  0910-1200    T  F
  23     1  PHYS 2109 LAB     5  GEN PHYSICS LAB        1.0  1210-0300    T  F
- 58     2  PHYS 2110         1  PARTICLE MECHANICS     3.0  1100-1200   MTWTF
+ 57     3  PHYS 2110         1  PARTICLE MECHANICS     3.0  1100-1200   MTWTF
  58     2  PHYS 2110         2  PARTICLE MECHANICS     3.0   120-0220   MTWTF
  57     3  PHYS 2112         1  THERMO AND WAVES       3.0  1100-1200   MTWTF
  58     2  PHYS 2113         1  ELECTROMAGNETISM       3.0  0950-1050   MTWTF
@@ -79,5 +79,5 @@
  10        PHYS 9000 RES    32  DISSERTATION RES       1-12 TBA                                                      DEY J
  10        PHYS 9000 RES    33  DISSERTATION RES       1-12 TBA                                                      ZHANG R
  10        PHYS 9000 RES    34  DISSERTATION RES       1-12 TBA                                                      PLUMMER E
-193     7  PHYS 2001         2  GENERAL PHYSICS        3.0  1240-0210   MTWTF
+194     6  PHYS 2001         2  GENERAL PHYSICS        3.0  1240-0210   MTWTF
 197     3  PHYS 2002         2  GENERAL PHYSICS        3.0   300-0440   MTWTF

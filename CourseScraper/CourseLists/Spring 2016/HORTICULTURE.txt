@@ -3,6 +3,7 @@
  17    28  HORT 2061         1  PLANT PROPAGATION      3.0  1030-1150    T TH  0132 J C MILLER                       MIRABELLO R
  11    19  HORT 2070 LAB     1  HORTICULTURE LAB       1.0   130-0420    T     0107 HORTICUL. TCHG                   MIRABELLO R
  11    19  HORT 2122         1  HERB PLANT MATERIALS   2.0  1030-1120       F  0134 J C MILLER                       MIRABELLO R
+                     LAB                                    1130-0120       F  0134 J C MILLER                       MIRABELLO R
  14    16  HORT 2860         1  GROW DVMT AGR CROPS    3.0  TBA                                                      KUEHNY J
  18     2  HORT 3000 CLI     1  HORTICULTURAL INTERN   3.0  TBA                                     PERMIS OF INST
  19     1  HORT 3010 RES     1  RESEARCH PROBLEMS      3.0  TBA                                     PERMIS OF INST   BEASLEY J
@@ -10,12 +11,14 @@
  20        HORT 3010 RES     3  RESEARCH PROBLEMS      3.0  TBA                                     PERMIS OF INST
  20        HORT 3010 RES     4  RESEARCH PROBLEMS      3.0  TBA                                     PERMIS OF INST
  13    12  HORT 3040         1  LANDSCAPE CONSTRUCTN   2.0   130-0220      TH  0232 J C MILLER                       MIRABELLO R
+                     LAB                                     230-0420      TH  0232 J C MILLER                       MIRABELLO R
  12     8  HORT 4012         2  SUSTAINABLE AG         1-3   230-0350   M W    0232 J C MILLER                       MOTSENBOCKER
  18     2  HORT 4012         3  HORT CROP PHYSIOLOGY   1-3  TBA                                     PERMIS OF INST   KUEHNY J
   1     4  HORT 4012         4  ATHLETIC FIELD MGT     1-3  TBA                                     PERMIS OF INST   KUEHNY J
   8     7  HORT 4030         1  PLANTN/BEV/TROP NUT    3.0   130-0420     W    0119 J C MILLER                       PICHA D
   2     5  HORT 4072 SEM     1  SUST ORNAMENTAL PROD   3.0  TBA                                                      KUEHNY J
  35     5  HORT 4090         1  GOLF COURSE OPERATIO   4.0  1000-1050   M W F  0107 HORTICUL. TCHG                   BEASLEY J
+                     LAB                                     400-0550   M      0107 HORTICUL. TCHG                   BEASLEY J
   9     1  HORT 7071         1  ADVANCED PLANT GENET   3.0  1030-0120    T TH  0135 M B STURGIS                      LABONTE D
  10        HORT 7074         1  QUAN GEN PL IMPRV      3.0  TBA
  24     1  HORT 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BUSH E

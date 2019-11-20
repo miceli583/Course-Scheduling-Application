@@ -1,16 +1,26 @@
 (F)    61  CSC  1240         1  STATS & GRAPH MATLB    3.0  1130-1220   M W    0016 LOCKETT                          BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
   3    45  CSC  1240         2  STATS & GRAPH MATLB    3.0  1130-1220   M W    0016 LOCKETT                          BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
  27    21  CSC  1240         3  STATS & GRAPH MATLB    3.0  1130-1220   M W    0016 LOCKETT                          BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
  15     9  CSC  1240         4  STATS & GRAPH MATLB    3.0  1130-1220   M W    0016 LOCKETT                          BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
   4    76  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  1200 PATRICK TAYLOR                   DUNCAN W
  17    63  CSC  1253         2  COMP SCI WITH C++      3.0  1200-0120    T TH  1225 PATRICK TAYLOR                   BHATTARAI D
  28    32  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1030-1150    T TH  0211 TUREAUD HALL                     LAFIELD W
 (F)    40  CSC  1350         1  COMP SCI I-MJRS        4.0   930-1020   M W F  0026 HATCHER HALL                     DUNCAN W
+                     LAB                                     330-0620   M                                            DUNCAN W
  16    32  CSC  1350         2  COMP SCI I-MJRS        4.0   930-1020   M W F  0026 HATCHER HALL                     DUNCAN W
+                     LAB                                     330-0620   M                                            DUNCAN W
  23    13  CSC  1350         3  COMP SCI I-MJRS        4.0   930-1020   M W F  0026 HATCHER HALL                     DUNCAN W
+                     LAB                                     500-0750N     TH                                        DUNCAN W
  16    32  CSC  1351         1  COMP SCI II-MJRS       4.0   900-1020    T TH  1263 PATRICK TAYLOR                   BRANDT S
+                     LAB                                     130-0420      TH                                        BRANDT S
   2    38  CSC  1351         2  COMP SCI II-MJRS       4.0   900-1020    T TH  1263 PATRICK TAYLOR                   BRANDT S
+                     LAB                                     500-0750N     TH                                        BRANDT S
   6    42  CSC  1351         3  COMP SCI II-MJRS       4.0  1030-1150    T TH  1263 PATRICK TAYLOR                   BRENER N
+                     LAB                                     230-0520       F                                        BRENER N
 (F)    66  CSC  2259         1  DISCRETE STRUCTURES    3.0   130-0250    T TH  1225 PATRICK TAYLOR                   KUNDU S
  11    89  CSC  2262         1  NUMERICAL METHODS      3.0   300-0420    T TH  0103 TUREAUD HALL                     BRENER N
  42    33  CSC  2463         1  PROGMMG DGITL MEDIA    3.0   130-0250    T TH  0120 TUREAUD HALL                     THAPA S

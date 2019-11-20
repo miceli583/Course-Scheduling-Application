@@ -4,30 +4,46 @@
   1    35  CM   1020 LAB     4  ENGR GRAPS FOR MECH    2.0  1130-0120   M W    1256 PATRICK TAYLOR  CI-VISUAL&TECH   CHAMPNEY R
  30   163  CM   1112         1  CONST MATL METH I      3.0   130-0250    T TH  0015 LOCKETT                          HEUMANN S
   7    18  CM   2105         1  CONST SURVEYING        3.0   730-0920   M      1233 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     730-0920     W                                          TRAHAN G
 (F)    27  CM   2105         2  CONST SURVEYING        3.0   930-1120   M      1233 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     930-1120     W                                          TRAHAN G
 (F)    25  CM   2105         3  CONST SURVEYING        3.0  1230-0220   M      1233 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                    1230-0220     W                                          TRAHAN G
 (F)    25  CM   2105         4  CONST SURVEYING        3.0   230-0420   M      1233 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     230-0420     W                                          TRAHAN G
  36   112  CM   2112         1  CONST MATL METH II     3.0  TBA                                     75-99% WEB BASE  FRIEDLAND C
   3   127  CM   2113         1  CONSTRUCTION EQUIP     3.0   430-0550N   T TH  1263 PATRICK TAYLOR  75-99% WEB BASE  WANG C
   2    42  CM   2116         1  CONST PLAN READING     3.0  TBA                                     75-99% WEB BASE  LEE Y
+                     LAB                                     830-1020   M      3133 PATRICK TAYLOR                   LEE Y
 (F)    44  CM   2116         2  CONST PLAN READING     3.0  TBA                                     75-99% WEB BASE  LEE Y
+                     LAB                                    1130-0120   M      3133 PATRICK TAYLOR                   LEE Y
   7    37  CM   2116         3  CONST PLAN READING     3.0  TBA                                     75-99% WEB BASE  LEE Y
+                     LAB                                     130-0320   M      3133 PATRICK TAYLOR                   LEE Y
   1    39  CM   2215         1  CONSTRUCTION SAFETY    3.0   900-1020    T TH  2350 PATRICK TAYLOR  CI-WRITTEN&SPOK  PECQUET C
   1    39  CM   2215         2  CONSTRUCTION SAFETY    3.0  1030-1150    T TH  3125 PATRICK TAYLOR  CI-WRITTEN&SPOK  PECQUET C
  12    28  CM   2215         3  CONSTRUCTION SAFETY    3.0   130-0250    T TH  3125 PATRICK TAYLOR  CI-WRITTEN&SPOK  PECQUET C
  19   111  CM   2501         1  STRUCTURAL PRINCIPL    3.0   130-0250    T TH  0152 COATES                           HEBERT K
   3    41  CM   3111         1  CONST ESTIMATING       3.0   830-0920   M W    0102 ALLEN           CI-VISUAL&TECH   HEUMANN S
+                     LAB                                     930-1120     W    3133 PATRICK TAYLOR                   HEUMANN S
  19    25  CM   3111         2  CONST ESTIMATING       3.0   830-0920   M W    0102 ALLEN           CI-VISUAL&TECH   HEUMANN S
+                     LAB                                    1130-0120     W    3133 PATRICK TAYLOR                   HEUMANN S
  29    15  CM   3111         3  CONST ESTIMATING       3.0   830-0920   M W    0102 ALLEN           CI-VISUAL&TECH   HEUMANN S
+                     LAB                                     230-0420     W    3133 PATRICK TAYLOR                   HEUMANN S
  17    27  CM   3356         1  INDUST CONST EST       3.0   600-0850N    W    3133 PATRICK TAYLOR                   DELATTE G
+                     LAB                                     600-0850N    W                                          DELATTE G
  26    74  CM   3502         1  CNST CIVIL MATLS       3.0   300-0420    T TH  0103 TUREAUD HALL                     HEBERT K
   4   101  CM   3503         1  SOILS IN CONSTRUCT     3.0   600-0850N  M      1100 PATRICK TAYLOR                   SHIRZAD S
  12    88  CM   3504         1  APPLIED STRUCT DSGN    3.0  1200-0120    T TH  1263 PATRICK TAYLOR                   HEBERT K
  12    28  CM   4101         1  CONST SCHED CST CTL    3.0  1230-0120   M W    0102 ALLEN                            ZHU Y
+                     LAB                                     830-1020       F  3133 PATRICK TAYLOR                   ZHU Y
  13    27  CM   4101         2  CONST SCHED CST CTL    3.0  1230-0120   M W    0102 ALLEN                            ZHU Y
+                     LAB                                    1030-1220       F  3133 PATRICK TAYLOR                   ZHU Y
   2    38  CM   4101         3  CONST SCHED CST CTL    3.0  1230-0120   M W    0102 ALLEN                            ZHU Y
+                     LAB                                    1230-0220       F  3133 PATRICK TAYLOR                   ZHU Y
   2    53  CM   4202         1  CONSTRUCT ENTERPRISE   3.0   800-0850    T TH  3125 PATRICK TAYLOR  CI-WRITTEN&SPOK  SCHNEIDER D
+                     LAB                                    TBA                                                      SCHNEIDER D
   4    51  CM   4202         2  CONSTRUCT ENTERPRISE   3.0   900-0950    T TH  3125 PATRICK TAYLOR                   MASSARRA C
+                     LAB                                    TBA                                                      MASSARRA C
   1    39  CM   4206         1  BIM                    3.0  1030-1150    T TH  2350 PATRICK TAYLOR  CI-WRITTEN&SPOK  SAEIDI S
   1    49  CM   4206         3  HUM FACT &LEADSHP CM   3.0  1200-0120    T TH  2350 PATRICK TAYLOR  75-99% WEB BASE  WILLIAMS K
 (F)     1  CM   4207 RES     1  INDEPENDENT STUDY      3.0  TBA                                                      BERRYMAN C

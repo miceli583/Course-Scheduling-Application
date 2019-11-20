@@ -1,7 +1,11 @@
   2    41  EXST 2201         1  STATISTICAL ANALYSIS   4.0  1240-0200   MTWTH  0010 LOCKETT                          MCKENNA M
+                     LAB                                     210-0400   M W    0048 WOODIN HALL                      MCKENNA M
   5    38  EXST 2201         2  STATISTICAL ANALYSIS   4.0  1240-0200   MTWTH  0010 LOCKETT                          MCKENNA M
+                     LAB                                     210-0400    T TH  0048 WOODIN HALL                      COXE W
   9    34  EXST 2201         3  STATISTICAL ANALYSIS   4.0  1240-0200   MTWTH  0010 LOCKETT                          MCKENNA M
+                     LAB                                    0910-1100    T TH  0048 WOODIN HALL                      COXE W
   5    38  EXST 2201         4  STATISTICAL ANALYSIS   4.0  1240-0200   MTWTH  0010 LOCKETT                          MCKENNA M
+                     LAB                                    0910-1100   M W    0048 WOODIN HALL                      MCKENNA M
  10     5  EXST 3999 RES     1  SUP IND STUDY & RES    1-4  1210-0110   M W F                       1-49% WEB BASED  DEREUS L
   2    23  EXST 4025         1  SAS PROGRAMMING        3.0  0840-1130    T TH  0011 WOODIN HALL                      SWOOPE E
  92     7  EXST 7084 CLI     1  PRAC STAT CONSULT II   2.0  TBA                                     PERMIS OF INST

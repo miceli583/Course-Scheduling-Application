@@ -48,7 +48,9 @@
  81    18  CHEM 3900 RES     1  CHEMICAL PROBLEMS      1-3  TBA                                     PERMIS OF DEPT   RUPNIK K
  14     1  CHEM 4003 LAB     1  SCI TCH SEC SCH III    1.0  TBA                                     PERMIS OF DEPT   ALLEN L
  29     1  CHEM 4005         1  RESEARCH METHODS       3.0   140-0330     W    0208 WILLIAMS        PERMIS OF DEPT   JOHNSON W
+                     LAB                                     140-0330   M                                            JOHNSON W
   6    20  CHEM 4010         1  MACROMOLEC SYS I       4.0   140-0300    T TH  0210 WILLIAMS                         ZHANG D
+                     LAB                                     310-0500    T                                           ZHANG D
  24    26  CHEM 4150         1  ENVIRONMENTAL CHEM     3.0  1040-1200    T TH  2146 PATRICK TAYLOR                   COOK R
   4    46  CHEM 4552         1  INSTR CHAR ORG COMPS   2.0   940-1030   M W    0210 WILLIAMS                         MACNAUGHTAN M
   9     7  CHEM 4553 LAB     1  EXP INST CHAR ORG CP   2.0   140-0430    T TH  0302 WILLIAMS                         RUPNIK K

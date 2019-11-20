@@ -8,8 +8,11 @@
 (F)    11  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0304 DESIGN BUILDING                  SHARKY B
   5    16  LA   3201         1  LANDSCAPE HISTORY II   3.0   830-0920   M W F  0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
 (F)    11  LA   3301         1  LAND ARCH TECH II      3.0   130-0220    T TH  0301 DESIGN BUILDING CI-WRITTEN&VISU  BOGASKI K
+                     LAB                                     230-0420    T TH  0301 DESIGN BUILDING                  BOGASKI K
   4    17  LA   3302         1  LANDSCAPE TECH III     3.0   900-0950    T TH  0301 DESIGN BUILDING                  SHARKY B
+                     LAB                                    1000-1150    T TH  0301 DESIGN BUILDING                  SHARKY B
 (F)    11  LA   3402         1  PLANT MATERIALS II     3.0   830-1120    T TH  0316 DESIGN BUILDING                  FRYLING C
+                     LAB                                     830-1120    T TH                                        FRYLING C
 (F)    14  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      CONRAD M
  19     6  LA   4501 RES     1  FIELD STUDIES IN L A   3.0   600-0850N  M      0313 DESIGN BUILDING                  CONRAD M
   5    10  LA   4504 SEM     1  ADV ELECTIVE IN L A    3.0   130-0250    T TH  0316 DESIGN BUILDING                  BENHAM K
@@ -25,6 +28,7 @@
   6     7  LA   7061 LAB     1  ADVANCED TOPICS II     6.0   130-0520   M W F  0324 DESIGN BUILDING                  HARMON B
 (F)     9  LA   7102 LAB     1  GRAD LANDSC REPR II    3.0   930-1120   M W F                                        HARMON B
  12    13  LA   7501         1  GRAD LA FIELD STUDY    3.0   600-0650N  M      0103 COATES                           CONRAD M
+                     LAB                                     700-0850N  M W                                          CONRAD M
   4     1  LA   7502 IND     2  GRAD INDEPEND STUDY    3.0  TBA                                                      DOUGLAS W
   4     1  LA   7502 IND     3  GRAD INDEPEND STUDY    3.0  TBA                                                      FRYLING C
 (F)     2  LA   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HARMON B

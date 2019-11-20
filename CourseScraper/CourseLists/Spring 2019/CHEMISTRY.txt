@@ -110,6 +110,7 @@
  87    12  CHEM 3900 RES     1  RESEARCH CHEMISTRY     1-3  TBA                                     PERMIS OF DEPT   RUPNIK K
  11     4  CHEM 4003 LAB     1  SCI TCH SEC SCH III    1.0  TBA                                                      ALLEN L
   4    11  CHEM 4011         1  MACROMOLEC SYS II      3.0  1030-1220   M W    0206 WILLIAMS        CI-SPOKEN&TECH   POJMAN J
+                     LAB                                    1030-1220   M W                                          POJMAN J
  11     5  CHEM 4553 LAB     2  EXP INST CHAR ORG CP   2.0   730-1020    T TH  0302 WILLIAMS        CI-WRITTEN&SPOK  RUPNIK K
   5    11  CHEM 4553 LAB     1  EXP INST CHAR ORG CP   2.0   130-0420    T TH  0302 WILLIAMS                         KIZILKAYA F
  12     8  CHEM 4558         1  MASS SPECTROMETRY      3.0   130-0250    T TH  0208 WILLIAMS                         MURRAY K

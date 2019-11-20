@@ -1,11 +1,16 @@
   4   256  AGRO 1001         1  PLANTS AND PEOPLE      3.0   130-0250    T TH  0130 HOWE RUSSELL E                   HIMELRICK D
+                     LAB                                     130-0250    T TH  0130 HOWE RUSSELL E
 (F)     3  AGRO 2011         1  ANAL ENV ISSUES        3.0   300-0420    T TH  0132 M B STURGIS     CI-WRITTEN&SPOK  WALSH M
   1    18  AGRO 2051         1  SOIL SCIENCE           4.0   830-0920   M W F  0134 M B STURGIS                      GASTON L
+                     LAB                                    1230-0220   M      0241 M B STURGIS
   4    14  AGRO 2051         2  SOIL SCIENCE           4.0   830-0920   M W F  0134 M B STURGIS                      GASTON L
+                     LAB                                     230-0420   M
  15     5  AGRO 3010 RES     1  RES APPL CROP SCI      3.0   300-0420    T TH  0135 M B STURGIS                      BEAN E
   9    16  AGRO 4005         1  FORAGE ECOL & MGMT     3.0   900-1020    T TH  0132 M B STURGIS                      TWIDWELL E
   9    19  AGRO 4052         1  SOIL FERTILITY & MGT   4.0   930-1020   M W F  0132 M B STURGIS                      TUBANA B
+                     LAB                                     230-0420    T     0241 M B STURGIS
   1     9  AGRO 4056         1  MICROB ECOL & NUTR C   4.0  1030-1150    T TH  0132 M B STURGIS                      FULTZ L
+                     LAB                                     130-0420      TH  0241 M B STURGIS                      FULTZ L
   5     5  AGRO 4077         1  ENVIRNMTL SOIL PHYSV   3.0   900-1020    T TH  0135 M B STURGIS                      SELIM H
  15        AGRO 4091 RES     1  SP TOP IN CROP SCI     1-3  TBA                                     PERMIS OF INST
  15        AGRO 4092 RES     1  SPEC TOPICS SOIL SCI   1-3  TBA                                     PERMIS OF INST   WALSH M

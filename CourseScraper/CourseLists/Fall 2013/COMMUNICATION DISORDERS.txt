@@ -1,15 +1,21 @@
  15    35  COMD 2050         2  INTR TO LANGUAGE       3.0   830-0920   M W F  0132 PRESCOTT                         PARKER R
   6   194  COMD 2050         1  INTR TO LANGUAGE       3.0  1200-0120    T TH  0016 LOCKETT                          LANE C
   2    23  COMD 2051         1  MANUAL COMMUNICATION   4.0   300-0550    T     0026 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     130-0220     W    0026 HATCHER HALL                     JUMONVILLE W
   4    21  COMD 2051         2  MANUAL COMMUNICATION   4.0   300-0550    T     0026 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     230-0320     W    0026 HATCHER HALL                     JUMONVILLE W
  33    47  COMD 2081         1  INTRO TO COMD          3.0  1200-0120    T TH  0026 HATCHER HALL                     VARNADO C
   1    19  COMD 3057 SEM     1  RESEARCH METH COMD     3.0  1030-1150    T TH  0068 HATCHER HALL    CI-WRITTEN&SPOK  BARKER B
  18   102  COMD 4150         1  PHONETICS              3.0   730-0850    T TH  0009 LOCKETT                          GIBSON T
   5   105  COMD 4250         1  ANAT PHYS SPCH & HEA   3.0   930-1020   M W F  0241 HIMES                            HOFFMAN P
 (F)    32  COMD 4380         1  DVLPMNT SPKN LANG      4.0   130-0250    T TH  E137 HOWE RUSSELL E                   GONSOULIN C
+                     LAB                                     130-0220   M      0232 MIDDLETON                        GONSOULIN C
 (F)    31  COMD 4380         2  DVLPMNT SPKN LANG      4.0   130-0250    T TH  E137 HOWE RUSSELL E                   GONSOULIN C
+                     LAB                                     230-0320   M      0232 MIDDLETON                        GONSOULIN C
   2    29  COMD 4380         3  DVLPMNT SPKN LANG      4.0   130-0250    T TH  E137 HOWE RUSSELL E                   GONSOULIN C
+                     LAB                                     330-0420   M      0232 MIDDLETON                        GONSOULIN C
  29     6  COMD 4380         4  DVLPMNT SPKN LANG      4.0   130-0250    T TH  E137 HOWE RUSSELL E                   GONSOULIN C
+                     LAB                                     430-0520N  M      0232 MIDDLETON                        GONSOULIN C
  12    38  COMD 4383         1  BASIC FLUENCY DISORD   3.0  1200-0120    T TH  0218 COATES                           COALSON G
  15    78  COMD 4590         1  ADTRY REHAB CHLD       3.0   900-1020    T TH  0139 ALLEN           CI-WRITTEN&TECH  BARKER B
  62    18  COMD 4681 CLI     1  CLIN PREP/OBSERV       1.0   430-0620N    W    0026 HATCHER HALL                     OURSO N

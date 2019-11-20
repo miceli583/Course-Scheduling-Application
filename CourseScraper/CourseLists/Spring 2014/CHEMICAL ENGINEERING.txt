@@ -4,26 +4,45 @@
  29    65  CHE  2176         1  MATH MOD CHM ENG SYS   3.0   900-1020    T TH  0105 TUREAUD HALL                     NANDAKUMAR K
  11   105  CHE  3102         1  HEAT/MASS TRANSFER     4.0  1030-1120   MTWTH  0026 HATCHER HALL                     THIBODEAUX L
 (F)     5  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420   M      0164 CHEM ENGR                        FLAKE J
 (F)     6  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420   M      0164 CHEM ENGR                        WETZEL D
 (F)     5  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420   M      0164 CHEM ENGR                        MELVIN E
 (F)     6  CHE  3104         4  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420    T     0164 CHEM ENGR                        FLAKE J
 (F)     6  CHE  3104         5  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420    T     0164 CHEM ENGR                        WETZEL D
 (F)     6  CHE  3104         6  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420    T     0164 CHEM ENGR                        MELVIN E
 (F)     6  CHE  3104         7  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420     W    0164 CHEM ENGR                        FLAKE J
 (F)     6  CHE  3104         8  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420     W    0164 CHEM ENGR                        WETZEL D
 (F)     6  CHE  3104         9  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420     W    0164 CHEM ENGR                        THIBODEAUX L
  30    94  CHE  3171         1  PROCESS ECON/OPTIMIZ   3.0   900-1020    T TH  0152 COATES                           HJORTSO M
  40   108  CHE  3173         1  HETEROGENUS EQULBRUM   3.0   930-1020   M W F  E130 HOWE RUSSELL E                   GRIFFIN G
 (F)     6  CHE  4162         1  UNIT OPERATIONS LAB    3.0   430-0520N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164BCHEM ENGR                        ROMAGNOLI J
 (F)     6  CHE  4162         2  UNIT OPERATIONS LAB    3.0   430-0520N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164BCHEM ENGR                        TOUPS H
 (F)     6  CHE  4162         3  UNIT OPERATIONS LAB    3.0   430-0520N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164BCHEM ENGR                        HJORTSO M
 (F)     6  CHE  4162         4  UNIT OPERATIONS LAB    3.0   430-0520N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164BCHEM ENGR                        TOUPS H
 (F)     5  CHE  4162         5  UNIT OPERATIONS LAB    3.0   430-0520N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164BCHEM ENGR                        TOUPS H
 (F)     5  CHE  4162         6  UNIT OPERATIONS LAB    3.0   430-0520N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164BCHEM ENGR                        TOUPS H
 (F)     2  CHE  4162         7  UNIT OPERATIONS LAB    3.0   430-0520N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164BCHEM ENGR                        NANDAKUMAR K
 (F)     4  CHE  4162         8  UNIT OPERATIONS LAB    3.0   430-0520N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164BCHEM ENGR                        TOUPS H
   1    39  CHE  4172         1  PROCESS DESIGN         4.0   930-1020   M W F  0206 TUREAUD HALL                     KNOPF F
+                     LAB                                     900-1020    T TH  0282 CHEM ENGR                        KNOPF F
   3    37  CHE  4172         2  PROCESS DESIGN         4.0   930-1020   M W F  0206 TUREAUD HALL                     KNOPF F
+                     LAB                                    1030-1150    T TH  0282 CHEM ENGR                        KNOPF F
  17     3  CHE  4221 LAB     1  SENIOR RESEARCH        1.0   730-0820       F                       CI-WRITTEN       HUNG F
  10    55  CHE  4253         1  INTRO IND POLL CONTR   3.0  1130-1220   M W F  0221 TUREAUD HALL                     HUNG F
  11    29  CHE  4272         1  NANOMATERIALS          3.0  1230-0120   M W F  0282 CHEM ENGR                        GRIFFIN G

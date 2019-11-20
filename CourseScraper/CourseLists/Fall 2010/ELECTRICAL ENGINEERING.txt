@@ -2,18 +2,28 @@
  28    42  EE   2130         1  CIRCUITS II            3.0  1140-1230   M W F  0120 TUREAUD HALL                     RABALAIS M
  13    37  EE   2230         1  ELECTRONICS I          3.0   240-0330   M W F  2146 PATRICK TAYLOR                   CHOI J
 (F)     9  EE   2231         1  ELECTRONICS LAB I      2.0   810-0900      TH  1111 PATRICK TAYLOR                   AUDIFFRED B
+                     LAB                                    1040-1230      TH  0133 ELECTRICAL ENGR                  SCALZO J
 (F)     9  EE   2231         2  ELECTRONICS LAB I      2.0   810-0900      TH  1111 PATRICK TAYLOR                   AUDIFFRED B
+                     LAB                                     110-0300      TH  0133 ELECTRICAL ENGR                  SARKAR A
 (F)     9  EE   2231         3  ELECTRONICS LAB I      2.0   810-0900      TH  1111 PATRICK TAYLOR                   AUDIFFRED B
+                     LAB                                     310-0500      TH  0133 ELECTRICAL ENGR                  LIU Y
   3     6  EE   2231         4  ELECTRONICS LAB I      2.0   810-0900      TH  1111 PATRICK TAYLOR                   AUDIFFRED B
+                     LAB                                     310-0500    T     0133 ELECTRICAL ENGR                  LIU Y
   4    61  EE   2720         1  DIGITAL LOGIC I        2.0  1240-0130   M W    E137 HOWE RUSSELL CO                  SKAVANTZOS A
   3    57  EE   2720         2  DIGITAL LOGIC I        2.0  1240-0130   M W    0109 TUREAUD HALL                     TRAHAN J
  26    34  EE   2730         1  DIGITAL LOGIC II       2.0  1040-1130   M W    2161 PATRICK TAYLOR                   VAIDYANATHAN
   1     8  EE   2731         1  DIGTL LOGIC DSGN LAB   2.0   810-0900    T     0149 ELECTRICAL ENGR                  DE SOUZA G
+                     LAB                                    1040-1230    T     0230 ELECTRICAL ENGR                  DE SOUZA G
 (F)     9  EE   2731         2  DIGTL LOGIC DSGN LAB   2.0   810-0900    T     0149 ELECTRICAL ENGR                  DE SOUZA G
+                     LAB                                     110-0300    T     0230 ELECTRICAL ENGR                  XU Y
 (F)     9  EE   2731         3  DIGTL LOGIC DSGN LAB   2.0   810-0900    T     0149 ELECTRICAL ENGR                  DE SOUZA G
+                     LAB                                     310-0500    T     0230 ELECTRICAL ENGR                  XU Y
   1     8  EE   2731         4  DIGTL LOGIC DSGN LAB   2.0   810-0900    T     0149 ELECTRICAL ENGR                  DE SOUZA G
+                     LAB                                     840-1030      TH  0230 ELECTRICAL ENGR                  XU Y
 (F)     9  EE   2731         5  DIGTL LOGIC DSGN LAB   2.0   810-0900    T     0149 ELECTRICAL ENGR                  DE SOUZA G
+                     LAB                                     310-0500      TH  0230 ELECTRICAL ENGR                  ZHANG D
   1     8  EE   2731         6  DIGTL LOGIC DSGN LAB   2.0   810-0900    T     0149 ELECTRICAL ENGR                  DE SOUZA G
+                     LAB                                     110-0300      TH  0230 ELECTRICAL ENGR                  ZHANG D
 (F)   115  EE   2950         1  COMPREHENSIVE E E      3.0  1040-1130   M W F  0103 DESIGN BUILDING                  RABALAIS M
   2    82  EE   2950         3  COMPREHENSIVE E E      3.0  1040-1200    T TH  0212 COATES                           RABALAIS M
  16    84  EE   2950         2  COMPREHENSIVE E E      3.0  1210-0130    T TH  0009 LOCKETT                          RABALAIS M
@@ -22,9 +32,13 @@
  16     4  EE   3070 CLI     1  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT   SCALZO J
  13    47  EE   3220         1  ELECTRONICS II         3.0   940-1030   M W F  0203 TUREAUD HALL                     FELDMAN M
 (F)    12  EE   3221         1  ELECTRONICS LAB II     2.0   910-1000    T     0132 J C MILLER                       AUDIFFRED B
+                     LAB                                    1040-1230    T     0238 ELECTRICAL ENGR                  AUDIFFRED B
   1    11  EE   3221         2  ELECTRONICS LAB II     2.0   910-1000    T     0132 J C MILLER                       AUDIFFRED B
+                     LAB                                     110-0300    T     0238 ELECTRICAL ENGR                  LIU C
   1    11  EE   3221         3  ELECTRONICS LAB II     2.0   910-1000    T     0132 J C MILLER                       AUDIFFRED B
+                     LAB                                     310-0500    T     0238 ELECTRICAL ENGR                  LIU C
   2    10  EE   3221         4  ELECTRONICS LAB II     2.0   910-1000    T     0132 J C MILLER                       AUDIFFRED B
+                     LAB                                     310-0500      TH  0238 ELECTRICAL ENGR                  SARKAR A
  18    12  EE   3232         1  SOLID STATE DEVICES    3.0  1240-0130   M W F  0145 ELECTRICAL ENGR                  AJMERA P
  26    24  EE   3320         1  ELEC MAGNETIC FLDS     3.0   140-0230   M W F  0228 TUREAUD HALL                     RABALAIS M
  27    33  EE   3410         1  ELECTRIC POWER         3.0   340-0500   M W    0211 TUREAUD HALL                     MEHRAEEN S
@@ -32,30 +46,44 @@
   5    45  EE   3610         1  SIGNALS AND SYSTEMS    3.0  1240-0130   M W F  0203 TUREAUD HALL                     LIANG X
  17    53  EE   3750         1  MICROPROCESSR SYSTMS   2.0   740-0830   M W    0221 TUREAUD HALL                     TRAHAN J
  12     6  EE   3751         1  MICROPROCESSOR LAB     2.0   910-1000      TH  0132 J C MILLER                       DE SOUZA G
+                     LAB                                    1040-1230      TH  0302 ELECTRICAL ENGR                  LIU Y
   1    17  EE   3751         2  MICROPROCESSOR LAB     2.0   910-1000      TH  0132 J C MILLER                       DE SOUZA G
+                     LAB                                     110-0300      TH  0302 ELECTRICAL ENGR                  LIU Y
 (F)        EE   3751         4  MICROPROCESSOR LAB     2.0   910-1000      TH  0132 J C MILLER                       DE SOUZA G
+                     LAB                                    1040-1230    T     0302 ELECTRICAL ENGR
  41     9  EE   3755         1  COMPUTER ORGANIZATIO   3.0   240-0330   M W F  0228 TUREAUD HALL                     SKAVANTZOS A
  18    92  EE   3950         1  ELECTRONICS            2.0  1040-1130   M W    0152 COATES                           DE SOUZA G
   3    17  EE   4000         1  PROCESSING DGTL SIGS   3.0   840-0930   M W F  0229 TUREAUD HALL                     ARAVENA J
   3     9  EE   4000         3  MICROFLUIDIC BIOCHIP   3.0   140-0230   M W    2146 PATRICK TAYLOR                   CHOI J
  15    15  EE   4002         2  RF SYSTEMS & CIRCUIT   3.0  1210-0100    T TH  1116 PATRICK TAYLOR                   NARAGHI-POUR
   1     9  EE   4242         1  VLSI DESIGN            3.0   840-0930   M W    0100 TUREAUD HALL                     SRIVASTAVA A
+                     LAB                                     140-0330   M      0125 ELECTRICAL ENGR                  SRIVASTAVA A
   4     6  EE   4242         4  VLSI DESIGN            3.0   840-0930   M W    0100 TUREAUD HALL                     SRIVASTAVA A
+                     LAB                                     310-0500    T     0125 ELECTRICAL ENGR                  SOUNDARARAJAN
  26    34  EE   4410         2  PWR SYS PROTECTION     3.0   610-0900N   T     0211 TUREAUD HALL                     MCANELLY M
 (F)     8  EE   4490         1  ADJUST SPEED DRIVES    3.0  1040-1130   M W    E137 HOWE RUSSELL CO                  MENDRELA E
+                     LAB                                     840-1030    T     0118BELECTRICAL ENGR                  AMIRI E
   2     6  EE   4490         2  ADJUST SPEED DRIVES    3.0  1040-1130   M W    E137 HOWE RUSSELL CO                  MENDRELA E
+                     LAB                                    1040-1230    T     0118BELECTRICAL ENGR                  AMIRI E
 (F)     8  EE   4490         3  ADJUST SPEED DRIVES    3.0  1040-1130   M W    E137 HOWE RUSSELL CO                  MENDRELA E
+                     LAB                                     310-0500    T     0118BELECTRICAL ENGR                  AMIRI E
  28    12  EE   4580         1  TOP CONTRL SYST DSGN   3.0   340-0500   M W    0220 TUREAUD HALL                     GU G
  24    16  EE   4660         1  RANDOM PROCESSES I     3.0  1140-1230   M W F  0226 TUREAUD HALL                     LIANG X
  18    12  EE   4702         1  COMPUTER GRAPHICS      3.0   140-0230   M W F  0149 ELECTRICAL ENGR                  LI X
   5    15  EE   4720         1  COMPUTER ARCHITECTUR   3.0  1040-1130   M W F  0220 TUREAUD HALL                     KOPPELMAN D
   5    20  EE   4745         1  NEURAL COMPUTING       3.0   940-1030   M W F  0149 ELECTRICAL ENGR                  RAI S
 (F)    16  EE   4750         1  MICROPROC INTERFAC T   4.0   240-0330   M W    2169 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     340-0630   M W    0302 ELECTRICAL ENGR                  DE SOUZA G
   8     7  EE   4750         2  MICROPROC INTERFAC T   4.0   240-0330   M W    2169 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     340-0630    T TH  0302 ELECTRICAL ENGR                  DE SOUZA G
 (F)    12  EE   4810         1  SENIOR DESIGN I        3.0  1040-1130    T TH  0210 WILLIAMS        CI-WRITTEN&SPOK  AUDIFFRED B
+                     LAB                                     640-0830N      F  0351 ENGR RES & DEV                   AUDIFFRED B
   1    11  EE   4810         2  SENIOR DESIGN I        3.0  1040-1130    T TH  0210 WILLIAMS                         AUDIFFRED B
+                     LAB                                     640-0830N     TH  0351 ENGR RES & DEV                   AUDIFFRED B
   2    10  EE   4810         3  SENIOR DESIGN I        3.0  1040-1130    T TH  0210 WILLIAMS                         AUDIFFRED B
+                     LAB                                     640-0830N   T     0351 ENGR RES & DEV                   AUDIFFRED B
   4     8  EE   4810         4  SENIOR DESIGN I        3.0  1040-1130    T TH  0210 WILLIAMS                         AUDIFFRED B
+                     LAB                                     640-0830N    W    0351 ENGR RES & DEV                   AUDIFFRED B
   1    29  EE   4820 LAB     1  SENIOR DESIGN II       3.0   310-0600    T TH  0116 TUREAUD HALL    CI-WRITTEN&SPOK  AUDIFFRED B
  19     1  EE   7091 RES     1  E E RESEARCH           3.0  TBA                                     PERMIS OF DEPT   TRAHAN J
  16     4  EE   7091 RES     2  E E RESEARCH           3.0  TBA                                     PERMIS OF DEPT   GU G

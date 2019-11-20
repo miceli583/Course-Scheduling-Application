@@ -7,9 +7,13 @@
  19    74  SOCL 2001         3  INTRODUCTORY SOCL      3.0   600-0850N    W    E130 HOWE RUSSELL E                   ASAY D
   4    26  SOCL 2002         1  HNRS: INTRO SOCL       3.0   130-0250    T TH  0117 TUREAUD HALL                     SLACK T
   3    24  SOCL 2201         1  INTR STATISTICL ANAL   4.0   900-1020    T TH  0116 STUBBS                           LEHMAN B
+                     LAB                                     130-0320    T     0102 STUBBS                           KELLEY R
   2    25  SOCL 2201         2  INTR STATISTICL ANAL   4.0   900-1020    T TH  0116 STUBBS                           LEHMAN B
+                     LAB                                     330-0520    T     0102 STUBBS                           KELLEY R
   4    23  SOCL 2201         3  INTR STATISTICL ANAL   4.0   300-0420    T TH  0209 COATES                           DUMAIS S
+                     LAB                                     130-0320     W    0102 STUBBS                           PAUL C
  10    17  SOCL 2201         5  INTR STATISTICL ANAL   4.0   300-0420    T TH  0209 COATES                           DUMAIS S
+                     LAB                                     330-0520     W    0102 STUBBS                           PAUL C
 (F)    67  SOCL 2211         3  METHODS OF SOCL RES    3.0   130-0250    T TH  0214 COATES                           CHAUVIN C
  38   104  SOCL 2501         1  CURR SOCIAL PROBLEMS   3.0  1230-0120   M W F  1109 PATRICK TAYLOR                   GREMILLION S
 108    92  SOCL 2505         2  MARRIAGE & FAMILY      3.0   300-0420   M W    0005 LOCKETT                          LEWIS S

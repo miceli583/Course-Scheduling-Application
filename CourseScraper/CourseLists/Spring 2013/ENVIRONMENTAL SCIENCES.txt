@@ -14,6 +14,7 @@
   5    20  ENVS 4266         1  OCEAN POLICY           3.0  1030-1150    T TH  1070 ENER,COAST,& EN                  HUDSON R
   2    13  ENVS 4600         1  GLOBAL ENVIR CHANGE    3.0  1200-0120    T TH  0100 TUREAUD HALL                     LIU K
 (F)    10  ENVS 4900         1  WATERSHED HYDROLOGY    3.0   130-0250     W    0230 RENEWABLE NAT R                  XU Y
+                     LAB                                     830-1050       F  0214 RENEWABLE NAT R                  XU Y
   2     8  ENVS 4999         1  CAPSTONE CES           1.0   330-0420      TH                       CI-SPOKEN        SHAW R
   8    12  ENVS 7040         1  ENVIRON PLAN & MGT     3.0   130-0250    T TH  1280 ENER,COAST,& EN                  REAMS M
  12     3  ENVS 7043         2  ENVIRON LAW & REGULA   3.0   330-0450   M W                                          HUDSON R

@@ -11,9 +11,13 @@
   4    20  PETE 2034 LAB     7  ROCK/FLUID PROP LAB    1.0   800-0850    T     0002 LOCKETT                          KAM S
   3    21  PETE 2034 LAB     8  ROCK/FLUID PROP LAB    1.0   800-0850    T     0002 LOCKETT                          KAM S
 (F)    34  PETE 2060         1  COMP MTHDS PETE        2.0   330-0420    T     0010 LOCKETT                          MOXLEY F
+                     LAB                                     900-1050      TH  1413 PATRICK TAYLOR                   MOXLEY F
   6    42  PETE 2060         2  COMP MTHDS PETE        2.0   330-0420    T     0010 LOCKETT                          MOXLEY F
+                     LAB                                    1200-0150      TH  1302BPATRICK TAYLOR                   MOXLEY F
   1    47  PETE 2060         3  COMP MTHDS PETE        2.0   330-0420    T     0010 LOCKETT                          MOXLEY F
+                     LAB                                     800-0950       F  1302BPATRICK TAYLOR                   MOXLEY F
 (F)    34  PETE 2060         4  COMP MTHDS PETE        2.0   330-0420    T     0010 LOCKETT                          MOXLEY F
+                     LAB                                    1230-0220       F  1413 PATRICK TAYLOR                   MOXLEY F
  21   124  PETE 3025         1  ECON ASPECTS PET PRO   3.0   730-0850    T TH  0006 LOCKETT                          VEAZEY M
 (F)   131  PETE 3036         1  WELL LOGGING           3.0   230-0320   M W F  0009 LOCKETT                          DAHI TALEGHAN
 (F)   143  PETE 3053         1  PETE ASP SUBS GEOL     3.0   300-0420    T TH  0009 LOCKETT                          KIMBRELL W

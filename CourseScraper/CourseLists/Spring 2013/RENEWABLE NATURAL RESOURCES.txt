@@ -8,6 +8,7 @@
 (F)     9  RNR  1002 SEM     6  ISS NAT RESOURCE MGT   1.0  1230-0120     W    0214 RENEWABLE NAT R                  ROHWER F
 (F)     7  RNR  1002 SEM     7  ISS NAT RESOURCE MGT   1.0  1230-0120     W                                          KELSO W
  30    15  RNR  2002         1  INTRO FISH & AQUACUL   3.0  1230-0220      TH  0230 RENEWABLE NAT R                  KELSO W
+                     LAB                                     230-0520      TH  0230 RENEWABLE NAT R                  KELSO W
 (F)    54  RNR  2031         2  PRINC WILDLIFE MGT     3.0   830-0920   M W F  0142 RENEWABLE NAT R                  NYMAN J
 (F)    47  RNR  2039         1  INT RNR RESRC PLCY     3.0   930-1020   M W F  0142 RENEWABLE NAT R                  ROHWER F
  14     1  RNR  2061 SEM     2  PRB NAT RESOURCE MGT   1-4   230-0520   M      0230 RENEWABLE NAT R                  DE HOOP C
@@ -16,7 +17,9 @@
  10     6  RNR  2071         1  HNRS INTRO RNR POLIC   4.0   930-1120   M W F  0142 RENEWABLE NAT R                  ROHWER F
   9     7  RNR  2072         2  HNRS PRINC WILDLIFE    4.0   800-0920   M W F                                        NYMAN J
 (F)    21  RNR  3004         3  FOR PHOTOGRAM, GPS,    3.0  1200-0150       F  0214 RENEWABLE NAT R                  WOLCOTT M
+                     LAB                                     200-0450       F  0214 RENEWABLE NAT R                  WOLCOTT M
   2    22  RNR  3018         2  ECOL & MGT LA WILDL    4.0  1230-0120     W F  0141 RENEWABLE NAT R                  STOUFFER P
+                     LAB                                     130-0420     W F  0141 RENEWABLE NAT R                  STOUFFER P
  30    10  RNR  3034 CLI     1  FLD STUD IN DENDROLO   1.0  TBA                                                      CHAMBERS J
  30    10  RNR  3036 CLI     1  FLD STUD IN MENSURAT   2.0  TBA                                                      CAO Q
  30    10  RNR  3037 CLI     1  FLD STUD IN SILVICUL   1.0  TBA                                                      DEAN T
@@ -27,9 +30,12 @@
   4    11  RNR  3103         2  FOREST BIOMETRICS      2.0   730-0920   M W    0206 RENEWABLE NAT R                  CAO Q
  16    14  RNR  3105         2  FOREST BIOLOGY         2.0  1130-1220   MT TF  0141 RENEWABLE NAT R                  CHAMBERS J
  10    10  RNR  3107         2  WOOD PROCUREMENT       2.0   930-1020    T     0141 RENEWABLE NAT R                  DE HOOP C
+                     LAB                                    1230-0520    T     0141 RENEWABLE NAT R                  DE HOOP C
   4     8  RNR  3108         1  CS STDS HABITAT REST   2.0  1230-0120      TH  0141 RENEWABLE NAT R                  NYMAN J
+                     LAB                                     130-0420      TH  0141 RENEWABLE NAT R                  NYMAN J
   9    21  RNR  4023         1  MARINE FISH RESOURCE   3.0   830-0920   M W F  0230 RENEWABLE NAT R                  KELSO W
  20    10  RNR  4032         2  FOR FIRE PROTECT USE   2.0  1030-1120      TH  0206 RENEWABLE NAT R                  DE HOOP C
+                     LAB                                    1230-0520      TH  0206 RENEWABLE NAT R                  DE HOOP C
 (F)    30  RNR  4037         1  BIOLOGY OF FISHES      3.0  1030-1120   M W F  0141 RENEWABLE NAT R                  GREEN C
 (F)    13  RNR  4061 RES     6  PROB NAT RES MGT       1-4  1130-0110   M      0208 RENEWABLE NAT R                  ROHWER F
   6     4  RNR  4061 RES     4  PROB NAT RES MGT       1-4   230-0520   M      0230 RENEWABLE NAT R                  DE HOOP C
@@ -39,11 +45,16 @@
   9     1  RNR  4061 RES     8  PROB NAT RES MGT       1-4  TBA                                                      TAYLOR S
   9     1  RNR  4061 RES     9  PROB NAT RES MGT       1-4  TBA                                                      ROMAIRE R
 (F)    24  RNR  4101         2  NAT RES MGT/POL/HDIM   4.0   830-0920    T TH  0142 RENEWABLE NAT R CI-WRITTEN&SPOK  KEIM R
+                     LAB                                     930-1220    T TH  0142 RENEWABLE NAT R                  KEIM R
 (F)    30  RNR  4103         1  CONSERVATION GENETIC   3.0   930-1020   M W F  0230 RENEWABLE NAT R                  TAYLOR S
 (F)    12  RNR  4106         2  TECH LIMNOLOGY/FISH    2.0   130-0320      TH  0142 RENEWABLE NAT R                  KALLER M
+                     LAB                                     330-0520      TH  0142 RENEWABLE NAT R                  KALLER M
  12     8  RNR  4900         1  WATERSHED HYDROLOGY    3.0   130-0250     W    0230 RENEWABLE NAT R                  XU Y
+                     LAB                                     830-1050       F  0214 RENEWABLE NAT R                  XU Y
   5     7  RNR  7012         1  ECOL/MGT WATERFOWL     3.0  TBA                                                      ROHWER F
+                     LAB                                    TBA                                                      ROHWER F
   2     8  RNR  7016         3  TOP/TECH CONSVTN SCI   3.0   930-1120    T     0225 RENEWABLE NAT R                  TAYLOR S
+                     LAB                                     930-1220      TH  0225 RENEWABLE NAT R                  TAYLOR S
  10     5  RNR  7020         1  ECOLOGY OF FISHES      3.0  TBA                                                      KELSO W
  13     7  RNR  7029 SEM     1  ADV TOP RENEW NT RES   1-4   230-0520   M      0230 RENEWABLE NAT R                  DE HOOP C
   4     1  RNR  7029 SEM     3  ADV TOP RENEW NT RES   1-4  1200-0450       F                                        DE HOOP C

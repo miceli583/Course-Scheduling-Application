@@ -77,7 +77,9 @@
  13    12  PHYS 2401         1  INTRO CONCPTS IN PHY   3.0   130-0220   M W F  0106 NICHOLSON                        STACY J
  35        PHYS 2995 SEM     1  UNDERGRAD SEMINAR      1.0   430-0520N  M      0118 NICHOLSON       PERMIS OF DEPT   STACY J
 (F)    14  PHYS 3098         1  INSTRU ELECT FOR SCI   3.0  1130-1220   M W    0118 NICHOLSON                        STADLER S
+                     LAB                                     230-0520     W    0017 NICHOLSON                        STADLER S
   7     7  PHYS 3098         2  INSTRU ELECT FOR SCI   3.0  1130-1220   M W    0116 PRESCOTT                         STADLER S
+                     LAB                                     300-0550      TH  0017 NICHOLSON                        STADLER S
  10    15  PHYS 4125         1  THERMODY STAT MECH     3.0  1030-1120   M W F  0118 NICHOLSON                        VEKHTER I
   5    20  PHYS 4132         1  ELECTROMAGNETISM E W   3.0   900-1020    T TH  0118 NICHOLSON                        GONZALEZ G
   4    21  PHYS 4141         1  INTR QUANTUM MECH      3.0  1030-1150    T TH  0118 NICHOLSON                        ZHANG J

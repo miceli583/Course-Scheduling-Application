@@ -1,7 +1,7 @@
 108     2  CE   2450         1  STATICS                3.0  0730-0830   MTWTF
- 35     5  CE   2460         1  DYNAMICS & VIBRATION   3.0  0950-1050   MTWTF
+ 34     6  CE   2460         1  DYNAMICS & VIBRATION   3.0  0950-1050   MTWTF
  41     2  CE   3300         1  GEOTECHNICAL ENGR I    3.0  1100-1200   MTWTF
- 93     7  CE   3400         1  MECHNCS OF MATERIALS   3.0  0840-0940   MTWTF
+ 92     8  CE   3400         1  MECHNCS OF MATERIALS   3.0  0840-0940   MTWTF
  15     6  CE   3410 LAB     1  MECHNCS OF MATLS LAB   1.0  1050-0150   M W
  99        CE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ALY A
  99        CE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      MOE W

@@ -6,13 +6,17 @@
  20    15  IE   4362         1  ADV ENGRNG STAT        3.0   130-0250    T TH  3131 PATRICK TAYLOR                   LIAO T
  15    17  IE   4516         1  PLANT & SYSTEMS DESN   3.0  1030-1150    T TH  3133 PATRICK TAYLOR  CI-WRITTEN&SPOK  MANN L
  19    13  IE   4530         3  LEAN MAN SYSTEMS       3.0   130-0220   M W    3133 PATRICK TAYLOR  CI-WRITTEN&TECH  KNAPP G
+                     LAB                                     330-0620     W    3136 PATRICK TAYLOR                   KNAPP G
  42     6  IE   4597         1  IE SENIOR DESIGN I     2.0   230-0520   M      3133 PATRICK TAYLOR  PERMIS OF DEPT   AGHAZADEH F
+                     LAB                                    TBA                                                      AGHAZADEH F
  21    11  IE   4599         1  IE SR DESN PROJECT     3.0  TBA                                     PERMIS OF DEPT   AGHAZADEH F
 (F)     2  IE   4785 RES     2  SPEC TOP IND ENGR      1-3  TBA                                     PERMIS OF DEPT   KNAPP G
   8     2  IE   4785 RES     3  SPEC TOP IND ENGR      1-3  TBA                                     PERMIS OF DEPT   SARKER B
   8     2  IE   4785 RES     4  SPEC TOP IND ENGR      1-3  TBA                                     PERMIS OF DEPT   IKUMA L
  13     7  IE   7425         2  ADV INFO SYST ENGR     3.0   900-0950   M W    1121 PATRICK TAYLOR                   KNAPP G
+                     LAB                                     300-0550    T     0101 CONSTRUCTION MG                  KNAPP G
  10     5  IE   7465         1  OCCUP BIOMECHANICS     3.0   130-0220   M W    3131 PATRICK TAYLOR                   AGHAZADEH F
+                     LAB                                     230-0520     W    3412 PATRICK TAYLOR                   AGHAZADEH F
  24     8  IE   7541         1  LINEAR PROG ALGORITH   3.0  1200-0120   M W    3133 PATRICK TAYLOR                   SARKER B
  25     7  IE   7722         1  HLTHCARE RES METHODS   3.0  1030-1150   M W    3133 PATRICK TAYLOR                   IKUMA L
  19     1  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                                      KNAPP G

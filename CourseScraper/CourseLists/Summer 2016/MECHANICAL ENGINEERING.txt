@@ -1,7 +1,9 @@
  17    31  ME   2543         1  SIM METHD FOR ME       3.0  1030-1130   MTWTF                                        DEVIREDDY R
  14    26  ME   2543         2  SIM METHD FOR ME       3.0   230-0330   MTWTF                                        RAMACHANDRAN
   7    45  ME   3133         1  DYNAMICS               3.0   530-0630N  MTWTF  E137 HOWE RUSSELL E                   RAMACHANDRAN
+                     LAB                                     630-0730N  MTWTF  E137 HOWE RUSSELL E                   WAGGENSPACK W
   2    50  ME   3133         2  DYNAMICS               3.0   530-0630N  MTWTF  E137 HOWE RUSSELL E                   RAMACHANDRAN
+                     LAB                                     630-0730N  MTWTF  E137 HOWE RUSSELL E                   WAGGENSPACK W
  96     3  ME   3249 RES     1  ENGINEERING PRACTICE   1-3  TBA                                                      WAGGENSPACK W
   3    47  ME   3333         1  THERMODYNAMICS         3.0   120-0220   MTWTF  0228 TUREAUD HALL                     WONG H
  32    28  ME   4433         1  HEAT TRANSFER          3.0  0900-1000   MTWTF  0203 TUREAUD HALL                     GARTIA M

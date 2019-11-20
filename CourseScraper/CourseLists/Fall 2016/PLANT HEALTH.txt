@@ -1,6 +1,9 @@
   3    22  PLHL 4000         1  GEN PLANT PATHOLOGY    4.0  1030-1150    T TH  A465 LIFE SCIENCES A                  MCGAWLEY E
+                     LAB                                     130-0420      TH  0308 LIFE SCIENCES                    MCGAWLEY E
 (F)    15  PLHL 4054         1  INTRO MYCOLOGY         4.0   930-1020   M W F  A465 LIFE SCIENCES A                  DOYLE V
+                     LAB                                    1130-0320     W    0308 LIFE SCIENCES                    DOYLE V
  22     8  PLHL 7040         2  PLANT VIROLOGY         4.0   800-0850   M W    A465 LIFE SCIENCES A                  VALVERDE R
+                     LAB                                     900-1250     W                                          VALVERDE R
   7     8  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W                                          CLARK C
   7     3  PLHL 7063         1  PLANT METABOLISM       3.0   300-0420    T TH  0112 PRESCOTT                         MORONEY J
  98     1  PLHL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      DAMANN K

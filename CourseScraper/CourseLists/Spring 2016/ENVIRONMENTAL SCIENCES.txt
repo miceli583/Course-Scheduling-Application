@@ -11,6 +11,7 @@
  28    22  ENVS 4262         1  ENV HAZARDS ANALYSIS   3.0   600-0850N  M      0102 TUREAUD HALL                     MARVE J
   6     9  ENVS 4600         1  GLOBAL ENVIR CHANGE    3.0  1200-0120    T TH  0112 TUREAUD HALL                     LIU K
   4     6  ENVS 4900         1  WATERSHED HYDROLOGY    3.0   130-0250     W    0230 RENEWABLE NAT R                  XU Y
+                     LAB                                     830-1050       F  0214 RENEWABLE NAT R                  XU Y
  28     7  ENVS 4950         3  SPECIAL TOPICS         1-3   430-0720N   T     1070 ENER,COAST,& EN                  THIBODEAUX L
 (F)    13  ENVS 4999         1  CAPSTONE CES           1.0   430-0520N    W    3178 ENER,COAST,& EN CI-VISUAL        SHAW R
  10    10  ENVS 7040         1  ENVIRON PLAN & MGT     3.0   130-0250    T TH  1280 ENER,COAST,& EN                  REAMS M

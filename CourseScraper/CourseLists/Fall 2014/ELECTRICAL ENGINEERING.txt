@@ -1,15 +1,24 @@
   4    44  EE   1810         1  INTRO TO ECE           2.0   900-0950    T     0228 COATES          CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                    1230-0220    T     3136 PATRICK TAYLOR                   PARODI AMAYA
   1    47  EE   1810         2  INTRO TO ECE           2.0   900-0950    T     0228 COATES          CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                     300-0450    T     3136 PATRICK TAYLOR                   PARODI AMAYA
  14    61  EE   2120         1  CIRCUITS I             3.0   830-0920   M W F  2142 PATRICK TAYLOR                   SCALZO J
   6    44  EE   2130         1  CIRCUITS II            3.0  1130-1220   M W F  1114 PATRICK TAYLOR                   RABALAIS M
   8    48  EE   2230         1  ELECTRONICS I          3.0  1030-1120   M W F  2146 PATRICK TAYLOR                   CHOI J
   4    12  EE   2231         1  ELECTRONICS LAB I      2.0   900-0950    T     1114 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     300-0450    T     0133 ELECTRICAL ENGR                  FELDMAN M
   4    12  EE   2231         2  ELECTRONICS LAB I      2.0   900-0950    T     1114 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     830-1020      TH  0133 ELECTRICAL ENGR                  FELDMAN M
   5    11  EE   2231         3  ELECTRONICS LAB I      2.0   900-0950    T     1114 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     300-0450      TH  0133 ELECTRICAL ENGR                  FELDMAN M
   3    15  EE   2731         2  DIGTL LOGIC LAB        2.0   800-0850    T     1109 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     100-0250    T     0322 ELECTRICAL ENGR                  ZHANG H
   4    14  EE   2731         3  DIGTL LOGIC LAB        2.0   800-0850    T     1109 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     100-0250      TH  0322 ELECTRICAL ENGR                  ZHANG H
   2    16  EE   2731         4  DIGTL LOGIC LAB        2.0   800-0850    T     1109 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     300-0450      TH  0322 ELECTRICAL ENGR                  GHOMIAN T
  10     8  EE   2731         5  DIGTL LOGIC LAB        2.0   800-0850    T     1109 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     300-0450    T     0322 ELECTRICAL ENGR                  GHOMIAN T
  65    85  EE   2740         1  DIGITAL LOGIC          3.0  1230-0120   M W F  1119 PATRICK TAYLOR                   VAIDYANATHAN
   3    44  EE   2810         1  TOOLS IN ECE           2.0  1000-1150    T     1105 PATRICK TAYLOR                   SCALZO J
  75   175  EE   2950         1  COMPREHENSIVE E E      3.0  1030-1120   M W F  0002 LOCKETT                          RABALAIS M
@@ -27,32 +36,53 @@
  20    40  EE   3410         1  ELECTRIC POWER         3.0   930-1020   M W F  0102 TUREAUD HALL                     CZARNECKI L
  10    60  EE   3610         1  SIGNALS AND SYSTEMS    3.0  1230-0120   M W F  2142 PATRICK TAYLOR                   ABDELWAHAB M
   9     9  EE   3752         1  MICROPROCESSOR SYST    3.0   730-0820     W F  2149 PATRICK TAYLOR                   TRAHAN J
+                     LAB                                     830-1020    T     0302 ELECTRICAL ENGR                  FARLOW S
 (F)    18  EE   3752         3  MICROPROCESSOR SYST    3.0   730-0820     W F  2149 PATRICK TAYLOR                   TRAHAN J
+                     LAB                                     300-0450    T     0302 ELECTRICAL ENGR                  MANSOUR A
  12    58  EE   3755         2  COMPUTER ORGANIZATIO   3.0   130-0220   M W F  2142 PATRICK TAYLOR                   PENG L
  10   125  EE   3950         1  ELECTRONICS            2.0  1030-1120   M W    0009 LOCKETT                          DE SOUZA G
 (F)    21  EE   4003         5  PLC PROG IND CNTRL     3.0   230-0320   M W    2161 PATRICK TAYLOR                   CHEN X
+                     LAB                                     300-0450    T     3423 PATRICK TAYLOR                   CHEN X
+                     LAB                                     100-0250      TH  0008 ELECTRICAL ENGR                  BHATTARAI P
 (F)     8  EE   4003         3  PWR SYSTM PROT W/LAB   3.0   600-0750N   T     2161 PATRICK TAYLOR                   MCANELLY M
+                     LAB                                     100-0250    T     0008 ELECTRICAL ENGR                  BHATTARAI P
   1     7  EE   4003         4  PWR SYSTM PROT W/LAB   3.0   600-0750N   T     2161 PATRICK TAYLOR                   MCANELLY M
+                     LAB                                     300-0450    T     0008 ELECTRICAL ENGR                  TOUPS T
 (F)     8  EE   4003         7  PWR SYSTM PROT W/LAB   3.0   600-0750N   T     2161 PATRICK TAYLOR                   MCANELLY M
+                     LAB                                     300-0450      TH  0008 ELECTRICAL ENGR                  BHATTARAI P
 (F)     8  EE   4003         8  PWR SYSTM PROT W/LAB   3.0   600-0750N   T     2161 PATRICK TAYLOR                   MCANELLY M
+                     LAB                                     600-0750N     TH  0008 ELECTRICAL ENGR                  TOUPS T
 (F)     8  EE   4003         9  PWR SYSTM PROT W/LAB   3.0   600-0750N   T     2161 PATRICK TAYLOR                   MCANELLY M
+                     LAB                                     830-1020    T     0008 ELECTRICAL ENGR                  BHATTARAI P
   2    12  EE   4242         1  VLSI DESIGN            3.0   830-0920   M W    3141 PATRICK TAYLOR                   SRIVASTAVA A
+                     LAB                                     830-1020      TH  0125 ELECTRICAL ENGR                  SRIVASTAVA A
   1    13  EE   4242         3  VLSI DESIGN            3.0   830-0920   M W    3141 PATRICK TAYLOR                   SRIVASTAVA A
+                     LAB                                     100-0250      TH  0125 ELECTRICAL ENGR                  MOHSIN K
 (F)     8  EE   4350         1  APPLIED EMAG: RF SYS   3.0  1200-1250    T TH  3142 PATRICK TAYLOR                   SCALZO J
+                     LAB                                     100-0250    T     0365 ENGR RES & DEV                   SCALZO J
   3     5  EE   4350         4  APPLIED EMAG: RF SYS   3.0  1200-1250    T TH  3142 PATRICK TAYLOR                   SCALZO J
+                     LAB                                    1230-0220     W    0365 ENGR RES & DEV                   SCALZO J
 (F)    10  EE   4422         5  ELECTRIC MACHINE DSN   3.0  1030-1120   M W    1111 PATRICK TAYLOR                   FARASAT M
+                     LAB                                     500-0650N     TH  0118 ELECTRICAL ENGR                  FARASAT M
   2     4  EE   4460         1  POWER ELECTRONICS      3.0  1230-0120   M W    1110 PATRICK TAYLOR                   CZARNECKI L
+                     LAB                                     830-1020    T     0118 ELECTRICAL ENGR                  TOUPS T
 (F)     6  EE   4460         3  POWER ELECTRONICS      3.0  1230-0120   M W    1110 PATRICK TAYLOR                   CZARNECKI L
+                     LAB                                     300-0450      TH  0118 ELECTRICAL ENGR                  TOUPS T
   2     4  EE   4460         4  POWER ELECTRONICS      3.0  1230-0120   M W    1110 PATRICK TAYLOR                   CZARNECKI L
+                     LAB                                     830-1020      TH  0118 ELECTRICAL ENGR                  CZARNECKI L
  31     9  EE   4580         1  TOP CONTRL SYST DSGN   3.0   330-0450   M W    2228 PATRICK TAYLOR                   ZHOU K
  25    15  EE   4660         1  RANDOM PROCESSES I     3.0   130-0220   M W F  3142 PATRICK TAYLOR                   LIANG X
  17    13  EE   4702         1  GPU PROGRAMMING        3.0   930-1020   M W F  3141 PATRICK TAYLOR                   KOPPELMAN D
  13    18  EE   4745         1  NEURAL COMPUTING       3.0  1030-1120   M W F  3129 PATRICK TAYLOR                   RAI S
 (F)    15  EE   4750         3  MICROPROC INTERFAC T   3.0   230-0320   M W    2228 PATRICK TAYLOR                   PENG L
+                     LAB                                     830-1020      TH  0302 ELECTRICAL ENGR                  KAMRAN HABIBK
   7     8  EE   4750         4  MICROPROC INTERFAC T   3.0   230-0320   M W    2228 PATRICK TAYLOR                   PENG L
+                     LAB                                    1230-0220      TH  0302 ELECTRICAL ENGR                  KAMRAN HABIBK
  26    14  EE   4755         1  DIGIT DSN USING HDL    3.0  1130-1220   M W F  2228 PATRICK TAYLOR                   KOPPELMAN D
   2    32  EE   4810         1  SENIOR DESIGN I        3.0  1030-1150    T TH  2142 PATRICK TAYLOR  CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                     630-0820N      F  0351 ENGR RES & DEV                   DE SOUZA G
  12    22  EE   4810         2  SENIOR DESIGN I        3.0  1030-1150    T TH  2142 PATRICK TAYLOR  CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                     330-0520      TH  0351 ENGR RES & DEV                   ALI A
  13    17  EE   4820 LAB     1  SENIOR DESIGN II       3.0   300-0550    T     0326 ENGR RES & DEV  CI-SPOKEN&TECH   SCALZO J
  70     5  EE   4820 LAB     3  SENIOR DESIGN II       3.0  TBA                                     CI-SPOKEN&TECH   SCALZO J
   8     7  EE   7000         2  COMPUTATIONAL EMAG     3.0   330-0450   M W    1112 PATRICK TAYLOR                   VERONIS G

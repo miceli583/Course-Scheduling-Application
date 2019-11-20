@@ -2,7 +2,9 @@
   2    45  MATH 1100         1  NATURE OF MATHEMATCS   3.0  0730-0830   MTWTF  0213 TUREAUD HALL                     KAFLE B
   1    41  MATH 1100         2  NATURE OF MATHEMATCS   3.0  1100-1200   MTWTF  0121 ALLEN                            DRIBUS B
   4    30  MATH 1431         3  CAL-BUS & ECO APLCAT   3.0  1100-1250   MTWTF  0005 LOCKETT                          VAUGHN D
+                     LAB                                    1100-1150   MTWTF  0232 MIDDLETON                        VAUGHN D
  18    16  MATH 1431         5  CAL-BUS & ECO APLCAT   3.0  1100-1250   MTWTF  0005 LOCKETT                          VAUGHN D
+                     LAB                                    1200-1250   MTWTF  0232 MIDDLETON                        VAUGHN D
  10    30  MATH 1550         1  AN GEOM & CALCULUS-I   5.0  0730-0940   MTWTF  0116 LOCKETT                          BAKHOVA M
   7    33  MATH 1550         2  AN GEOM & CALCULUS-I   5.0  0840-1050   MTWTF  0035 ALLEN                            LI Q
   5    37  MATH 1550         5  AN GEOM & CALCULUS-I   5.0  0840-1050   MTWTF  0123 ALLEN                            TRIPATHI G
@@ -69,7 +71,9 @@
  49    41  MATH 1021         1  COLLEGE ALGEBRA        3.0  0910-1040   MTWTF  0016 LOCKETT                          FITCH G
  46    44  MATH 1021         2  COLLEGE ALGEBRA        3.0  1100-1230   MTWTF  0016 LOCKETT                          FITCH G
  52    38  MATH 1022         1  PLANE TRIGONOMETRY     3.0  0910-1040   MTWTF  0015 LOCKETT                          NEAL K
+                     LAB                                    TBA                                                      NEAL K
  35    55  MATH 1022         2  PLANE TRIGONOMETRY     3.0  1100-1230   MTWTF  0002 LOCKETT                          NEAL K
+                     LAB                                    TBA                                                      NEAL K
   2    38  MATH 1029         2  INTRO COMTEMP MATH     3.0  1100-1230   MTWTF  0027 ALLEN                            HAGENS K
   3    41  MATH 1100         3  NATURE OF MATHEMATCS   3.0  0910-1040   MTWTF  0006 LOCKETT                          HAGENS K
  18     7  MATH 4997 SEM     1  VERT INT RESEARCH      3.0  TBA                                                      DAVIDSON M

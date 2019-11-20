@@ -1,10 +1,15 @@
 (F)    19  CSC  1100         1  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    2161 PATRICK TAYLOR                   ALVIN C
+                     LAB                                    1030-1220       F  0168 COATES
 (F)    19  CSC  1100         2  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    2161 PATRICK TAYLOR                   ALVIN C
+                     LAB                                     230-0420   M      0168 COATES
   7    12  CSC  1100         3  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    2161 PATRICK TAYLOR                   ALVIN C
+                     LAB                                    1230-0220       F  0168 COATES
   4    15  CSC  1100         4  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    2161 PATRICK TAYLOR                   ALVIN C
+                     LAB                                     230-0420     W
 (F)    32  CSC  1200         1  ETHICS IN COMPUTING    1.0  1230-0120     W    3141 PATRICK TAYLOR                   KANNAN R
   8    23  CSC  1200         2  ETHICS IN COMPUTING    1.0   230-0320     W    3141 PATRICK TAYLOR                   KANNAN R
  26    24  CSC  1240         1  STATS & GRAPH MATLB    3.0  1230-0120   M W    0218 TUREAUD HALL                     BRENER N
+                     LAB                                    1230-0220       F  0232 MIDDLETON                        BRENER N
  10    81  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  0206 TUREAUD HALL                     DUNCAN W
   4    71  CSC  1253         2  COMP SCI WITH C++      3.0  1200-0120    T TH  0206 TUREAUD HALL                     DUNCAN W
  36    14  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1030-1150    T TH  2146 PATRICK TAYLOR  CI-WRITTEN&TECH  DOUGLAS C
@@ -15,8 +20,11 @@
  18    22  CSC  2259         1  DISCRETE STRUCTURES    3.0   130-0250    T TH  1116 PATRICK TAYLOR                   TRIANTAPHYLLO
 (F)    52  CSC  2262         1  NUMERICAL METHODS      3.0   300-0420    T TH  1111 PATRICK TAYLOR                   SHAH R
  26    24  CSC  2533         1  INTRO ENGR COMPUT      3.0   930-1020   M W    0218 TUREAUD HALL                     BRENER N
+                     LAB                                     230-0520       F  0230EMIDDLETON                        BRENER N
  18    32  CSC  2533         3  INTRO ENGR COMPUT      3.0  1030-1120   M W    0218 TUREAUD HALL                     BRENER N
+                     LAB                                     230-0520       F  0232 MIDDLETON                        BRENER N
   5    45  CSC  2533         2  INTRO ENGR COMPUT      3.0   900-0950    T TH  0218 TUREAUD HALL                     BRENER N
+                     LAB                                     500-0750N     TH  0232 MIDDLETON                        BRENER N
 (F)    20  CSC  2700         1  INTRO DIGITAL MEDIA    1-3   900-1020    T TH  0168 COATES                           KOOIMA R
   9    11  CSC  2700         2  CMPTVE PRGMG-1 HR CR   1-3   630-0820N   T     3142 PATRICK TAYLOR                   TRAXLER I
   4    41  CSC  3102         1  ADV DATA STRUCTURES    3.0  1030-1150    T TH  1116 PATRICK TAYLOR                   KUNDU S

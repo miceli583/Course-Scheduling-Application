@@ -7,6 +7,7 @@
 (F)    12  ANSC 2085 LAB     1  MILK QUAL CONTRL LAB   2.0   830-1020    T TH  0119 DAIRY SCIENCE   PERMIS OF DEPT   BOENEKE C
 (F)    13  ANSC 2093 CLI     1  DARY PRODUC JUDG       2.0   130-0220    T TH  0119 DAIRY SCIENCE                    BOENEKE C
   8    30  ANSC 2133         1  GROWTH/DEV LIVESTOCK   3.0   800-0850    T TH  0234 COATES                           AHRENS C
+                     LAB                                    1200-0150     W    0012 FRANCIONI                        AHRENS C
   2    68  ANSC 3010         1  APPL ANML FEED FORM    3.0  1030-1120   M W F  0221 TUREAUD HALL                     WILLIAMS C
 (F)     1  ANSC 3050 CLI     1  INTERNSHIP             3.0  TBA                                     PERMIS OF DEPT   WILLIAMS C
 (F)    40  ANSC 3060         1  COMP ANIM HLTH & DIS   3.0  1130-1220   M W F  0127 TUREAUD HALL                     RITCHIE J
@@ -20,22 +21,31 @@
 (F)     5  ANSC 3900 RES     7  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   THOMPSON D
 (F)     3  ANSC 3900 RES     8  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   WILLIAMS C
  27    22  ANSC 4001         1  PARAS EFF ON AN PERF   2.0   130-0220     W    0218 COATES
+                     LAB                                     230-0420     W    0236 COATES
  11     9  ANSC 4040         1  QUALITY ASSURANCE      4.0  1030-1150    T TH  0109 TUREAUD HALL                     ARYANA K
+                     LAB                                     130-0420   M                                            ARYANA K
   7     5  ANSC 4047 LAB     1  REPRO MANAGEMENT       1.0   230-0520   M                                            OBERHAUS E
 (F)    16  ANSC 4052         1  POULTRY MANAGEMENT     3.0   430-0720N   T TH  0118 PRESCOTT                         INGRAM D
+                     LAB                                    TBA                                                      INGRAM D
   2    10  ANSC 4054         1  DAIRY FARM MGT         4.0  1200-0120    T TH  0204 ANIMAL&FOOD SCI                  WILLIAMS C
+                     LAB                                     130-0420    T     0204 ANIMAL&FOOD SCI                  WILLIAMS C
  16    22  ANSC 4060         1  CONTEMP ISS IN ANSC    3.0  1030-1150    T TH  0213 TUREAUD HALL                     MCMILLIN K
  12     8  ANSC 4081         1  SWINE PRODUCTION       3.0  1230-0120   M W    0210 TUREAUD HALL                     BRAUD T
+                     LAB                                     230-0420    T     0210 TUREAUD HALL                     BRAUD T
  15    14  ANSC 4084         1  BEEF CATTLE PROD       3.0  1100-1150    T TH  0204 ANIMAL&FOOD SCI                  PAGE T
+                     LAB                                     230-0420     W    0204 ANIMAL&FOOD SCI                  PAGE T
  10    10  ANSC 4087         1  BEST PRACT SUST AG     3.0   130-0250    T TH  0125 TUREAUD HALL                     MOREIRA V
  34    26  ANSC 4088         1  HORSE PRODUCTION       3.0   130-0220    T TH  0211 TUREAUD HALL                     THOMPSON D
+                     LAB                                     230-0420      TH  0211 TUREAUD HALL                     THOMPSON D
 (F)    21  ANSC 4092 SEM     1  AN SC PROSEMINAR       1.0   130-0220   M      0200 TUREAUD HALL                     WILLIAMS C
   1    20  ANSC 4092 SEM     2  AN SC PROSEMINAR       1.0   230-0320   M      0200 TUREAUD HALL                     WILLIAMS C
   8    12  ANSC 4094         1  MEAT TECHNOLOGY        3.0  1130-1220   M W    0204 ANIMAL&FOOD SCI                  MCMILLIN K
+                     LAB                                    1130-0220       F  0012 FRANCIONI                        MCMILLIN K
 (F)    22  ANSC 4900         3  ONEHEALTHPEOPLEANIMA   1-3   900-1020    T TH  0204 ANIMAL&FOOD SCI PERMIS OF DEPT   COULON D
 (F)     6  ANSC 4900         1  SPECIAL TOPICS         1-3  TBA                                     PERMIS OF DEPT   BONDIOLI K
 (F)     8  ANSC 4900         2  SPECIAL TOPICS         1-3  TBA                                     PERMIS OF DEPT   COOPER R
   8     7  ANSC 7052         1  BIO GAMETE & EMBRYO    4.0   930-1020   M W F  0114 LOCKETT                          BONDIOLI K
+                     LAB                                     230-0420   M                                            BONDIOLI K
  20        ANSC 7061 RES     1  RES ANIMAL SCIENCE     1-6  TBA                                                      ARYANA K
  20        ANSC 7061 RES     2  RES ANIMAL SCIENCE     1-6  TBA                                                      BONDIOLI K
  19     1  ANSC 7061 RES     3  RES ANIMAL SCIENCE     1-6  TBA                                                      COOPER R

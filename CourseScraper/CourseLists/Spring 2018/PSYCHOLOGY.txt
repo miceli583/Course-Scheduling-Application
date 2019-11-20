@@ -4,14 +4,23 @@
 (F)   250  PSYC 2000         3  INTR TO PSYC           3.0   130-0250    T TH  0002 LOCKETT                          GREENING S
  29   141  PSYC 2005         1  INTRO TO PSYC MAJOR    1.0  TBA                                     MAJORS ONLY      MENNIE K
 (F)    28  PSYC 2016         1  STAT FOR BEH SCI       4.0  1200-0120    T TH  0139 ALLEN           MAJORS ONLY      MCDONALD J
+                     LAB                                    1030-1220     W    0171 COATES
 (F)    27  PSYC 2016         2  STAT FOR BEH SCI       4.0  1200-0120    T TH  0139 ALLEN           MAJORS ONLY      MCDONALD J
+                     LAB                                    1230-0220     W    0171 COATES
 (F)    27  PSYC 2016         3  STAT FOR BEH SCI       4.0  1200-0120    T TH  0139 ALLEN           MAJORS ONLY      MCDONALD J
+                     LAB                                     930-1120       F  0171 COATES
 (F)    28  PSYC 2016         4  STAT FOR BEH SCI       4.0  1200-0120    T TH  0139 ALLEN           MAJORS ONLY      MCDONALD J
+                     LAB                                     300-0450      TH  0171 COATES
 (F)    20  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0103 TUREAUD HALL    MAJORS ONLY      ZHANG D
+                     LAB                                     230-0420   M      0171 COATES
 (F)    19  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0103 TUREAUD HALL    MAJORS ONLY      ZHANG D
+                     LAB                                     830-1020     W    0171 COATES
 (F)    20  PSYC 2017         3  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0103 TUREAUD HALL    MAJORS ONLY      ZHANG D
+                     LAB                                     300-0450    T     0205 COATES
   1    19  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0103 TUREAUD HALL    MAJORS ONLY      ZHANG D
+                     LAB                                    1230-0220   M      0171 COATES
   1    18  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  0103 TUREAUD HALL    MAJORS ONLY      ZHANG D
+                     LAB                                     300-0450     W    0171 COATES
  99    66  PSYC 2040         1  SOCIAL PSYCHOLOGY      3.0   600-0850N     TH  0016 LOCKETT                          ADAIR F
   7   143  PSYC 2060         1  EDUCATIONAL PSYC       3.0   600-0850N    W    0009 LOCKETT                          DOMANGUE T
  69    91  PSYC 2070         1  DEVELOP PSYC LIFE SP   3.0   230-0320   M W F  0010 LOCKETT                          KEMP L

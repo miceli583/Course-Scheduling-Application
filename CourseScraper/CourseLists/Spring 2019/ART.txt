@@ -4,8 +4,11 @@
 (F)    17  ART  1010 LAB     1  INTRO TO DRAWING       3.0   900-1150    T TH  0227 FOSTER                           ARCENEAUX A
 (F)    18  ART  1010 LAB     2  INTRO TO DRAWING       3.0  1200-0250    T TH  0227 FOSTER                           PARKER J
   4    13  ART  1011         3  2-DIMENSIONAL DESIGN   3.0   330-0420   M W    0209 DESIGN BUILDING MAJORS ONLY      AKTER T
+                     LAB                                     430-0620N  M W    0209 DESIGN BUILDING                  AKTER T
   2    17  ART  1011         1  2-DIMENSIONAL DESIGN   3.0   900-0950    T TH  0209 DESIGN BUILDING MAJORS ONLY      BARGIOTAS T
+                     LAB                                    1000-1150    T TH  0209 DESIGN BUILDING                  BARGIOTAS T
   6    13  ART  1011         2  2-DIMENSIONAL DESIGN   3.0  1200-1250    T TH  0209 DESIGN BUILDING MAJORS ONLY      AKTER T
+                     LAB                                     100-0250    T TH  0209 DESIGN BUILDING                  AKTER T
   2    13  ART  1012 LAB     2  3-DIMENSIONAL DESN     3.0  1200-0250   M W    0128 STUDIO ARTS BLD MAJORS ONLY      SCHWERD L
 (F)    18  ART  1012 LAB     3  3-DIMENSIONAL DESN     3.0   900-1150    T TH  0226 STUDIO ARTS BLD MAJORS ONLY      TILLMAN E
 (F)    18  ART  1012 LAB     1  3-DIMENSIONAL DESN     3.0  1200-0250    T TH  0226 STUDIO ARTS BLD MAJORS ONLY      MCCLAY M
@@ -27,9 +30,13 @@
 (F)    18  ART  1849 LAB     1  INTRO TO PAINTING      3.0   830-1120   M W    0203 FOSTER          MAJORS ONLY      SMITH E
   1    16  ART  1849 LAB     2  INTRO TO PAINTING      3.0   330-0620   M W    0203 FOSTER          MAJORS ONLY      MALVETO J
 (F)    22  ART  2050         4  DIGITAL ART I          3.0   830-1020   M W    0113 ART BUILDING    MAJORS ONLY      DAO N
+                     LAB                                    1030-1120   M W    0113 ART BUILDING                     DAO N
   1    21  ART  2050         2  DIGITAL ART I          3.0   330-0420   M W    0108 ART BUILDING    MAJORS ONLY      STABLER H
+                     LAB                                     430-0620N  M W    0108 ART BUILDING                     STABLER H
   1    21  ART  2050         1  DIGITAL ART I          3.0   900-1050    T TH  0108 ART BUILDING    MAJORS ONLY      TAVAKOLI N
+                     LAB                                    1100-1150    T TH  0108 ART BUILDING                     TAVAKOLI N
   1    21  ART  2050         3  DIGITAL ART I          3.0   900-1050    T TH  0113 ART BUILDING    MAJORS ONLY      NIVENS J
+                     LAB                                    1100-1150    T TH  0113 ART BUILDING                     NIVENS J
 (F)     8  ART  2230 LAB     2  VIRTUAL SPACE          3.0  1230-0320   M W    0330 ART BUILDING    PERMIS OF INST   WESLEY K
 (F)    20  ART  2230 LAB     1  VIRTUAL SPACE          3.0  1200-0250    T TH  0330 ART BUILDING    PERMIS OF INST   NAM H
 (F)     8  ART  2342 LAB     1  PAPERMAKING            3.0   900-1150    T TH  0020 HATCHER HALL                     KOPTCHO L
@@ -37,6 +44,7 @@
   1     1  ART  2361 LAB     1  HNRS INTERMED PRINT    3.0  1230-0320   M W    0020 HATCHER HALL    PERMIS OF INST   FRIEDMAN L
   2    13  ART  2392 LAB     1  DIGITAL PRINTMAKING    3.0   330-0620   M W    0020 HATCHER HALL    PERMIS OF INST   FRIEDMAN L
   9     9  ART  2551         1  TYPOGRAPHY-VIS.COMM.   3.0  1200-0150    T TH  0113 ART BUILDING    PERMIS OF INST   RESTREPO PERE
+                     LAB                                     200-0250    T TH  0113 ART BUILDING                     RESTREPO PERE
 (F)    20  ART  2552 LAB     2  COLOR DESIGN           3.0  1230-0320   M W    0319 ART BUILDING    PERMIS OF INST   DEAN P
   3    15  ART  2552 LAB     1  COLOR DESIGN           3.0  1200-0250    T TH  0208 ART BUILDING    PERMIS OF INST   DEAN P
   1    11  ART  2552 LAB     3  COLOR DESIGN           3.0  1200-0250    T TH  0319 ART BUILDING                     ZOU J
@@ -56,6 +64,7 @@
   1     9  ART  4020 LAB     5  CREATIVE ART CAREERS   3.0   600-0850N   T TH  0330 ART BUILDING    PERMIS OF INST
   2     8  ART  4020 LAB     1  SCHOOL ART INTERNSHI   3.0  TBA                                     PERMIS OF INST   PARKER R
 (F)    16  ART  4059         2  DIGITAL MEDIA CAP      3.0   230-0420   M      1108 PATRICK TAYLOR  CI-WRITTEN&TECH  DANNENBERG R
+                     LAB                                     230-0420     W    1108 PATRICK TAYLOR                   DANNENBERG R
   6     4  ART  4080 LAB     1  PERFORMANCE ART        3.0   330-0620   M W    0201 DAIRY SCIENCE                    KELLEY K
   3    21  ART  4220 LAB     1  ADV MOVING IMAGE       3.0  1200-0250    T TH  0108 ART BUILDING    PERMIS OF INST   OSTRENKO F
   9     6  ART  4240 LAB     2  TOPICS IN DIG ART      3.0   930-1120   M W F  0330 ART BUILDING    PERMIS OF INST   WESLEY K

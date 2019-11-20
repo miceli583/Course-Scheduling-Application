@@ -2,7 +2,9 @@
  28    19  MATH 1100         1  NATURE OF MATHEMATCS   3.0  0730-0830   MTWTF  0215 TUREAUD HALL                     DOUGHERTY E
 (F)    32  MATH 1100         2  NATURE OF MATHEMATCS   3.0  1100-1200   MTWTF  0241 LOCKETT                          ZHANG L
 (F)    36  MATH 1431         1  CAL-BUS & ECO APLCAT   3.0  1100-1250   MTWTF  0109 NICHOLSON                        VAUGHN D
+                     LAB                                    1100-1150   MTWTF  0232 MIDDLETON                        VAUGHN D
 (F)    35  MATH 1431         2  CAL-BUS & ECO APLCAT   3.0  1100-1250   MTWTF  0109 NICHOLSON                        VAUGHN D
+                     LAB                                    1200-1250   MTWTF  0232 MIDDLETON                        VAUGHN D
   7    33  MATH 1550         1  AN GEOM & CALCULUS-I   5.0  0730-0940   MTWTF  0124 TUREAUD HALL                     VERTIGAN D
   1    39  MATH 1550         2  AN GEOM & CALCULUS-I   5.0  0840-1050   MTWTF  0200 TUREAUD HALL                     KAFLE B
 (F)    40  MATH 1550         3  AN GEOM & CALCULUS-I   5.0  0950-1200   MTWTF  0136 LOCKETT                          CHOI K
@@ -94,8 +96,11 @@
   5    68  MATH 1021         2  COLLEGE ALGEBRA        3.0  1100-1230   MTWTF  0015 LOCKETT                          KOPCSO D
  12    38  MATH 1021         3  COLLEGE ALGEBRA        3.0  TBA                                                      KURTZ S
  29    31  MATH 1022         1  PLANE TRIGONOMETRY     3.0  0910-1040   MTWTF  0016 LOCKETT                          FITCH G
+                     LAB                                    TBA                                                      FITCH G
  27    33  MATH 1022         2  PLANE TRIGONOMETRY     3.0  1100-1230   MTWTF  0006 LOCKETT                          FITCH G
+                     LAB                                    TBA                                                      FITCH G
  26    24  MATH 1022         3  PLANE TRIGONOMETRY     3.0  TBA                                                      KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
   3    37  MATH 1029         2  INTRO COMTEMP MATH     3.0  1100-1230   MTWTF  0112 LOCKETT                          PERLIS R
  25    19  MATH 1100         3  NATURE OF MATHEMATCS   3.0  0910-1040   MTWTF  0213 TUREAUD HALL                     HE H
  19     6  MATH 4997 SEM     1  VERT INT RESEARCH      3.0  TBA                                                      DAVIDSON M

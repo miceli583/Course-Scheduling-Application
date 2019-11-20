@@ -1,6 +1,8 @@
  19     1  ENTM 3000 CLI     1  PEST MGT INTERSHIP     3.0  TBA                                                      REAGAN T
  10    10  ENTM 4006         1  FUND APLD ENTOMOLOGY   3.0   840-0930   M   F                       50-99% WEB BASE  REAGAN T
+                     LAB                                     240-0430       F  0110 LIFE SCIENCES
  16     9  ENTM 4012         1  FUND OF HORT ENTM      3.0   940-1030    T TH  0110 LIFE SCIENCES                    STORY R
+                     LAB                                     140-0330    T     0110 LIFE SCIENCES
   1     4  ENTM 4015         1  CONSERVATION BIOLOGY   4.0  1040-1200    T TH  0112 TUREAUD HALL    CI-WRITTEN&SPOK  HARMS K
 (F)     5  ENTM 4015         2  CONSERVATION BIOLOGY   4.0  1040-1200    T TH  0112 TUREAUD HALL    CI-WRITTEN&SPOK  HARMS K
 (F)    15  ENTM 4040         1  INSECT ECOLOGY         3.0  1210-0130    T TH  0226 TUREAUD HALL                     HOOPER-BUI L

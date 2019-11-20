@@ -1,7 +1,11 @@
   4    31  EXST 2201         1  STATISTICAL ANALYSIS   4.0  1210-0130   MTWTH  0015 LOCKETT                          MCKENNA M
+                     LAB                                    1010-1200   M W    0048 AG ADMIN BLDG                    DEROCHE C
   4    39  EXST 2201         2  STATISTICAL ANALYSIS   4.0  1210-0130   MTWTH  0015 LOCKETT                          MCKENNA M
+                     LAB                                     140-0330   M W    0048 AG ADMIN BLDG                    DEROCHE C
   5    38  EXST 2201         3  STATISTICAL ANALYSIS   4.0  1210-0130   MTWTH  0015 LOCKETT                          MCKENNA M
+                     LAB                                    1010-1200    T TH  0048 AG ADMIN BLDG                    DEROCHE C
   5    38  EXST 2201         4  STATISTICAL ANALYSIS   4.0  1210-0130   MTWTH  0015 LOCKETT                          MCKENNA M
+                     LAB                                     140-0330    T TH  0048 AG ADMIN BLDG                    DEROCHE C
  23     3  EXST 4012         1  INTR SAMPLING TECH     3.0   130-0300   M W F  0011 AG ADMIN BLDG   1-49% WEB BASED  DEREUS L
  11    11  EXST 4025         1  SAS PROGRAMMING        3.0  0840-1110    T TH  0011 AG ADMIN BLDG                    SWOOPE E
  98     1  EXST 7084 CLI     1  PRAC STAT CONSULT II   2.0  TBA                                     PERMIS OF INST   MARX B

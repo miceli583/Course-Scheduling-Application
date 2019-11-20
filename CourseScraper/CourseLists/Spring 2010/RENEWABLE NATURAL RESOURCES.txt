@@ -12,7 +12,9 @@
  15        RNR  2061         4  PRB NAT RESOURCE MGT   1-4  TBA                                                      ROHWER F
  11     4  RNR  2061         6  PRB NAT RESOURCE MGT   1-4  TBA                                                      ROHWER F
 (F)    25  RNR  3018         1  ECOLOGY LA WILDLIFE    4.0  1240-0130     W F  0142 RENEWABLE NAT R                  CHAMBERLAIN M
+                     LAB                                     140-0430     W F  0142 RENEWABLE NAT R                  CHAMBERLAIN M
  32     8  RNR  4022         1  PRINC OF AQUACULTURE   4.0  1040-1130   M W F  0230 RENEWABLE NAT R                  GREEN C
+                     LAB                                     140-0430      TH  0230 RENEWABLE NAT R                  GREEN C
   1    19  RNR  4023         1  MARINE FISH RESOURCE   3.0   840-0930   M W F  0230 RENEWABLE NAT R                  KELSO W
  13    12  RNR  4037         1  BIOLOGY OF FISHES      3.0   940-1030   M W F  0230 RENEWABLE NAT R                  RUTHERFORD D
   6     4  RNR  4061 RES    32  ENERGY ALTERNA SRCES   1-4   240-0530   M      0142 RENEWABLE NAT R                  DE HOOP C
@@ -47,9 +49,12 @@
  10        RNR  4061 RES    29  PROB NAT RES MGT       1-4  TBA                                                      XU Y
  10        RNR  4061 RES    30  PROB NAT RES MGT       1-4  TBA                                                      AFTON A
   6    34  RNR  4101         1  INT NAT RES MGT/POL    4.0  1140-1230     W F  0230 RENEWABLE NAT R                  KEIM R
+                     LAB                                    1140-0330   M      0230 RENEWABLE NAT R                  KEIM R
 (F)    29  RNR  4103         1  CONSERVATION GENETIC   3.0   810-0930    T TH  0230 RENEWABLE NAT R                  TAYLOR S
   7     5  RNR  4106         1  TECH LIMNOLOGY/FISH    2.0   140-0230    T     0208 RENEWABLE NAT R                  KALLER M
+                     LAB                                     140-0430      TH  0208 RENEWABLE NAT R                  KALLER M
 (F)    22  RNR  4900         1  WATERSHED HYDROLOGY    3.0   140-0300     W    0230 RENEWABLE NAT R                  XU Y
+                     LAB                                     310-0430     W    0214 RENEWABLE NAT R                  XU Y
   6     4  RNR  7029         3  ENRG FROM GREEN SRCS   1-4   240-0530   M      0142 RENEWABLE NAT R                  DE HOOP C
   9     1  RNR  7029         2  FISH NUTRITION         1-4  TBA                                                      REIGH R
   9     1  RNR  7029         4  ADV TOP RENEW NT RES   1-4  TBA                                                      ROHWER F

@@ -6,8 +6,11 @@
 (F)     8  RNR  1002 SEM     3  ISS NAT RESOURCE MGT   1.0  1240-0130      TH  0230 RENEWABLE NAT R                  RUTHERFORD D
 (F)     8  RNR  1002 SEM     4  ISS NAT RESOURCE MGT   1.0  1240-0130      TH  0225 RENEWABLE NAT R                  XU Y
 (F)    30  RNR  2001         1  TREES & WDY PLANTS S   2.0  1240-0130    T     0206 RENEWABLE NAT R                  CHAMBERS J
+                     LAB                                     140-0430    T     0206 RENEWABLE NAT R                  CHAMBERS J
 (F)    29  RNR  2001         2  TREES & WDY PLANTS S   2.0  1240-0130      TH  0206 RENEWABLE NAT R                  CHAMBERS J
+                     LAB                                     140-0430      TH  0206 RENEWABLE NAT R                  CHAMBERS J
  31    14  RNR  2002         1  INTRO FISH & AQUACUL   3.0  1240-0130    T TH  0141 RENEWABLE NAT R                  KELSO W
+                     LAB                                     140-0430    T     0141 RENEWABLE NAT R                  KELSO W
 (F)    40  RNR  2039         1  INT RNR RESRC PLCY     3.0  1040-1130   M W F  0142 RENEWABLE NAT R                  ROHWER F
  14     1  RNR  2061 SEM     1  PRB NAT RESOURCE MGT   1-4  TBA                                                      SHILLING C
  15        RNR  2061 SEM     2  PRB NAT RESOURCE MGT   1-4  TBA                                                      KELSO W
@@ -16,11 +19,17 @@
  10     5  RNR  2061 SEM     6  PRB NAT RESOURCE MGT   1-4  TBA                                                      NYMAN J
 (F)    49  RNR  2101         1  ECOL RENEW NAT RES     3.0   940-1030   M W F  0142 RENEWABLE NAT R                  STOUFFER P
 (F)    25  RNR  2102         1  NAT RES MEASUR & GIS   3.0   840-0930    T TH  0141 RENEWABLE NAT R                  CAO Q
+                     LAB                                     140-0430   M      0141 RENEWABLE NAT R                  CAO Q
   7    18  RNR  2102         2  NAT RES MEASUR & GIS   3.0   840-0930    T TH  0141 RENEWABLE NAT R                  CAO Q
+                     LAB                                     140-0430       F  0141 RENEWABLE NAT R                  CAO Q
 (F)    33  RNR  3002         1  SILVICULTURE           3.0   940-1030    T TH  0141 RENEWABLE NAT R                  DEAN T
+                     LAB                                     140-0430     W    0141 RENEWABLE NAT R                  DEAN T
 (F)    30  RNR  4011         1  WILD MGT TECHNIQUES    4.0   840-0930   M W F  0206 RENEWABLE NAT R                  ROHWER F
+                     LAB                                     140-0430       F  0206 RENEWABLE NAT R                  ROHWER F
   1    14  RNR  4013         1  ECOL/MGT WETLND WILD   4.0   940-1030   M W F  0230 RENEWABLE NAT R                  NYMAN J
+                     LAB                                     140-0430      TH  0230 RENEWABLE NAT R                  NYMAN J
  10        RNR  4020         1  TAX/ECOL WETLAND PL    4.0  1210-0130    T TH                                        URBATSCH L
+                     LAB                                     140-0430      TH                                        URBATSCH L
   5    15  RNR  4025         1  LIMNOLOGY              3.0   910-1030    T TH  0230 RENEWABLE NAT R                  ROMAIRE R
  21     9  RNR  4038         1  FOREST ECONOMICS       3.0   840-0930   M W F  0141 RENEWABLE NAT R                  CHANG S
 (F)    21  RNR  4040         1  FISHERIES MANAGEMENT   3.0   840-0930   M W F  0230 RENEWABLE NAT R                  KELSO W
@@ -58,8 +67,10 @@
   8     2  RNR  4061 RES    32  PROB NAT RES MGT       1-4  TBA                                                      TAYLOR S
 (F)    26  RNR  4107         1  HUM DIM NAT RES        3.0  1140-1230   M W F  0142 RENEWABLE NAT R CI-WRITTEN&SPOK  KALLER M
 (F)     9  RNR  4145         1  ICHTHYOLOGY            4.0  1240-0130   M W    0214 FOSTER                           CHAKRABARTY P
+                     LAB                                     140-0730   M      0214 FOSTER                           CHAKRABARTY P
 (F)    19  RNR  7001         1  RESEARCH METHODOLOGY   3.0  1110-1230   M W    0230 RENEWABLE NAT R                  KEIM R
 (F)     9  RNR  7011         2  MAMMALIAN ECOL/MGT     3.0   740-0830   M W    0225 RENEWABLE NAT R                  CHAMBERLAIN M
+                     LAB                                     840-1030   M W    0225 RENEWABLE NAT R                  CHAMBERLAIN M
   5     5  RNR  7029 SEM     3  ADV TOP RENEW NT RES   1-4   310-0430    T                                           TIERSCH T
  10        RNR  7029 SEM     1  ADV FOR BIOMETRICS     1-4  TBA                                                      CAO Q
   7     3  RNR  7029 SEM     2  SCI ADVOC COM POLICY   1-4  TBA                                                      LAPEYRE M

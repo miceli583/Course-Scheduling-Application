@@ -4,6 +4,7 @@
 131   225  GEOL 1003         1  GEN GEOL HISTORICAL    3.0   900-1020    T TH  0130 HOWE RUSSELL E                   LUTHER A
   2    14  GEOL 1003         2  GEN GEOL HISTORICAL    3.0  1030-1150    T TH  E202 HOWE RUSSELL E                   BAO H
 (F)    33  GEOL 1201         1  PRIN GEOLOGY I         4.0   130-0250    T TH  E207 HOWE RUSSELL E  CI-SPOKEN&VISUA  LUTHER A
+                     LAB                                     300-0420    T TH  0360 HOWE RUSSELL E                   LUTHER A
   8    12  GEOL 1601 LAB     9  PHYSICAL GEOL LAB      1.0   730-1020   M      E213 HOWE RUSSELL E                   LUTHER A
   3    17  GEOL 1601 LAB     2  PHYSICAL GEOL LAB      1.0  1030-0120   M      E213 HOWE RUSSELL E                   LUTHER A
   1    19  GEOL 1601 LAB    10  PHYSICAL GEOL LAB      1.0   130-0420   M      E213 HOWE RUSSELL E                   LUTHER A
@@ -19,7 +20,9 @@
  15     7  GEOL 1602 LAB     1  HISTORICAL GEOL LAB    1.0   730-1020   M      E208 HOWE RUSSELL E                   LUTHER A
   7    15  GEOL 1602 LAB     2  HISTORICAL GEOL LAB    1.0  1030-0120   M      E208 HOWE RUSSELL E                   LUTHER A
   9    13  GEOL 3032         1  SED & DEP ENVS         4.0   900-1020    T TH  E207 HOWE RUSSELL E                   WILSON C
+                     LAB                                     130-0420    T                                           WILSON C
  12    10  GEOL 3041         1  IG MET PETROLOGY       4.0  1030-1150    T TH  E207 HOWE RUSSELL E  CI-WRITTEN&SPOK  HENRY D
+                     LAB                                     130-0420      TH  E206 HOWE RUSSELL E                   HENRY D
   4     1  GEOL 3909 RES     1  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   WICKS C
   4     1  GEOL 3909 RES     2  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   BART P
   4     1  GEOL 3909 RES     3  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   CLIFT P
@@ -46,6 +49,7 @@
  11     9  GEOL 4043         1  EARTH MAT & ENVIRONM   3.0   900-1020    T TH  0347 HOWE RUSSELL E                   DUTROW B
   1    29  GEOL 4044         1  PETROLEUM GEOLOGY      3.0   430-0550N  MT     E207 HOWE RUSSELL E  CI-WRITTEN&SPOK  CLIFT P
   7    10  GEOL 4068         1  REFLECT SEISMOLOGY     3.0   730-0920   M      E207 HOWE RUSSELL E  CI-VISUAL&TECH   LORENZO J
+                     LAB                                     130-0420   M      E202 HOWE RUSSELL E                   LORENZO J
 (F)    15  GEOL 4081         1  CHEM OCEANOGRAPHY      3.0  1200-0120    T TH  0116 TUREAUD HALL    CI-WRITTEN&SPOK  MAITI K
   4    11  GEOL 4182         1  PHYSICAL HYDROGEOLOG   3.0   730-0850    T TH  E207 HOWE RUSSELL E  CI-WRITTEN&VISU  WICKS C
   5    15  GEOL 7061         1  SEQUENCE STRATIGRAPH   3.0   930-1220       F  E207 HOWE RUSSELL E                   BART P

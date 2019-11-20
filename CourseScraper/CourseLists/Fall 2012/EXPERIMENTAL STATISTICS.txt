@@ -1,55 +1,107 @@
   5    10  EXST 2000         1  INTRO TO MICROCOMPUT   3.0   930-1020   M W    0112 AUDUBON                          SWOOPE E
+                     LAB                                    1130-0120   M      0011 WOODIN HALL                      SWOOPE E
 (F)    23  EXST 2201         1  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1030-1220   M      0048 WOODIN HALL                      COXE W
 (F)    23  EXST 2201         2  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1030-1220   M      0048 WOODIN HALL                      SWOOPE E
 (F)    22  EXST 2201         3  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1230-0220   M      0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201         4  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1230-0220   M      0048 WOODIN HALL                      MCKENNA M
 (F)    23  EXST 2201         5  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     230-0420   M      0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201         6  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     230-0420   M      0048 WOODIN HALL                      SWOOPE E
 (F)    22  EXST 2201         7  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     830-1020    T     0048 WOODIN HALL                      COXE W
 (F)    23  EXST 2201         8  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     830-1020    T     0048 WOODIN HALL                      MCKENNA M
 (F)    23  EXST 2201         9  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1030-1220    T     0048 WOODIN HALL                      COXE W
 (F)    23  EXST 2201        10  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1030-1220    T     0048 WOODIN HALL                      SWOOPE E
 (F)    22  EXST 2201        11  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1230-0220    T     0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        12  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1230-0220    T     0048 WOODIN HALL                      MCKENNA M
 (F)    23  EXST 2201        13  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     230-0420    T     0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        14  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     230-0420    T     0048 WOODIN HALL                      SWOOPE E
 (F)    23  EXST 2201        15  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1030-1220     W    0048 WOODIN HALL                      COXE W
 (F)    23  EXST 2201        16  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1030-1220     W    0048 WOODIN HALL                      MCKENNA M
 (F)    22  EXST 2201        17  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1230-0220     W    0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        18  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1230-0220     W    0048 WOODIN HALL                      SWOOPE E
 (F)    22  EXST 2201        19  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     230-0420     W    0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        20  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     230-0420     W    0048 WOODIN HALL                      MCKENNA M
 (F)    22  EXST 2201        21  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     830-1020      TH  0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        22  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     830-1020      TH  0048 WOODIN HALL                      SWOOPE E
 (F)    22  EXST 2201        23  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1030-1220      TH  0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        24  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1030-1220      TH  0048 WOODIN HALL                      MCKENNA M
 (F)    22  EXST 2201        25  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1230-0220      TH  0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        26  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1230-0220      TH  0048 WOODIN HALL                      SWOOPE E
 (F)    22  EXST 2201        27  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     230-0420      TH  0048 WOODIN HALL                      COXE W
   1    21  EXST 2201        28  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                     230-0420      TH  0048 WOODIN HALL                      MCKENNA M
 (F)    22  EXST 2201        29  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1230-0220       F  0048 WOODIN HALL                      COXE W
   1    21  EXST 2201        30  STATISTICAL ANALYSIS   4.0   930-1020   M W F  0101 GYM AUDITORIUM                   MCKENNA M
+                     LAB                                    1230-0220       F  0048 WOODIN HALL                      SWOOPE E
 (F)    22  EXST 2201        31  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     430-0620N  M      0048 WOODIN HALL                      COXE W
   1    21  EXST 2201        32  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     430-0620N  M      0048 WOODIN HALL                      MCKENNA M
 (F)    22  EXST 2201        33  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     430-0620N   T     0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        34  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     430-0620N   T     0048 WOODIN HALL                      SWOOPE E
 (F)    22  EXST 2201        35  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     830-1020     W    0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        36  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     830-1020     W    0048 WOODIN HALL                      MCKENNA M
 (F)    23  EXST 2201        37  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     430-0620N    W    0048 WOODIN HALL                      COXE W
 (F)    23  EXST 2201        38  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     430-0620N    W    0048 WOODIN HALL                      SWOOPE E
 (F)    22  EXST 2201        39  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     430-0620N     TH  0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        40  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     430-0620N     TH  0048 WOODIN HALL                      MCKENNA M
 (F)    23  EXST 2201        41  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     830-1020       F  0048 WOODIN HALL                      COXE W
   1    21  EXST 2201        42  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                     830-1020       F  0048 WOODIN HALL                      SWOOPE E
 (F)    22  EXST 2201        43  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                    1030-1220       F  0048 WOODIN HALL                      COXE W
 (F)    22  EXST 2201        44  STATISTICAL ANALYSIS   4.0  1230-0120   M W F  0100 DODSON                           MCKENNA M
+                     LAB                                    1030-1220       F  0048 WOODIN HALL                      MCKENNA M
   6    19  EXST 7004         1  EXPERI STATISTICS I    4.0   830-0920   M W F  0112 AUDUBON                          BLOUIN D
+                     LAB                                     130-0320   M      0011 WOODIN HALL                      BLOUIN D
 (F)    27  EXST 7005         1  STATIS TECHNIQUES I    4.0   900-1020    T TH  0241 HIMES                            GEAGHAN J
+                     LAB                                    1030-1220      TH  0011 WOODIN HALL                      GEAGHAN J
 (F)    28  EXST 7005         2  STATIS TECHNIQUES I    4.0   900-1020    T TH  0241 HIMES                            GEAGHAN J
+                     LAB                                     230-0420      TH  0011 WOODIN HALL                      GEAGHAN J
   2    24  EXST 7005         3  STATIS TECHNIQUES I    4.0   900-1020    T TH  0241 HIMES                            GEAGHAN J
+                     LAB                                    1030-1220       F  0011 WOODIN HALL                      GEAGHAN J
 (F)    26  EXST 7005         4  STATIS TECHNIQUES I    4.0   900-1020    T TH  0241 HIMES                            GEAGHAN J
+                     LAB                                    1230-0220      TH  0011 WOODIN HALL                      GEAGHAN J
   6    20  EXST 7015         1  STATIS TECHNIQUES II   4.0   130-0250    T TH  0145 COATES                           LI B
+                     LAB                                     300-0450    T     0011 WOODIN HALL                      LI B
  16    10  EXST 7015         2  STATIS TECHNIQUES II   4.0   130-0250    T TH  0145 COATES                           LI B
+                     LAB                                    1030-1220     W    0011 WOODIN HALL                      LI B
  26    19  EXST 7034         1  REGRESSION ANALYSIS    3.0  1030-1150    T TH  0112 AUDUBON                          MARX B
   4    16  EXST 7037         1  MULTIVARIATE STAT      3.0   900-1020    T TH  0044 WOODIN HALL                      MCCARTER K
  11     5  EXST 7039         1  STAT MTH REL SUR DAT   3.0   130-0250    T TH  0263ACOATES                           ESCOBAR L

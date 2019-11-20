@@ -1,16 +1,26 @@
 (F)    60  CSC  1240         1  STATS & GRAPH MATLB    3.0  1130-1220   M W    0152 COATES                           BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
   4    32  CSC  1240         2  STATS & GRAPH MATLB    3.0  1130-1220   M W    0152 COATES                           BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
   4    32  CSC  1240         3  STATS & GRAPH MATLB    3.0  1130-1220   M W    0152 COATES                           BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
 (F)    91  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  0206 TUREAUD HALL                     DUNCAN W
  23    57  CSC  1253         2  COMP SCI WITH C++      3.0  1200-0120    T TH  1225 PATRICK TAYLOR                   DOUGLAS C
  25    35  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1030-1150    T TH  0109 TUREAUD HALL                     LAFIELD W
 (F)    36  CSC  1350         1  COMP SCI I-MJRS        4.0   930-1020   M W F  0010 LOCKETT                          DUNCAN W
+                     LAB                                     330-0620   M                                            DUNCAN W
 (F)    34  CSC  1350         2  COMP SCI I-MJRS        4.0   930-1020   M W F  0010 LOCKETT                          DUNCAN W
+                     LAB                                     330-0620     W                                          DUNCAN W
  20    76  CSC  1350         3  COMP SCI I-MJRS        4.0   930-1020   M W F  0010 LOCKETT                          DUNCAN W
+                     LAB                                     500-0750N     TH                                        DUNCAN W
   2    32  CSC  1350         4  COMP SCI I-MJRS        4.0   900-1020    T TH  0124 TUREAUD HALL                     CLEMENTS W
+                     LAB                                     330-0620     W                                          CLEMENTS W
 (F)    23  CSC  1351         1  COMP SCI II-MJRS       4.0   900-1020    T TH  0102 TUREAUD HALL                     BRENER N
+                     LAB                                     130-0420      TH                                        BRENER N
 (F)    14  CSC  1351         2  COMP SCI II-MJRS       4.0   900-1020    T TH  0102 TUREAUD HALL                     BRENER N
+                     LAB                                     130-0420      TH                                        BRENER N
 (F)    23  CSC  1351         3  COMP SCI II-MJRS       4.0   900-1020    T TH  0102 TUREAUD HALL                     BRENER N
+                     LAB                                     430-0720N     TH                                        BRENER N
   2   138  CSC  2259         1  DISCRETE STRUCTURES    3.0  1200-0120    T TH  0102 ALLEN                            TRIANTAPHYLLO
   3    41  CSC  2262         1  NUMERICAL METHODS      3.0   300-0420    T TH  0100 TUREAUD HALL                     BRENER N
  11    29  CSC  2700         2  INTRO CYBRSERTY 3CR    1-3   500-0620N  M W    0117 TUREAUD HALL                     CAPELLO H

@@ -1,5 +1,7 @@
  12     8  PLHL 4001         1  PLNT DIS MGT/CONTROL   3.0  1030-1150   M W                                          HOLLIER C
+                     LAB                                     130-0320   M                                            HOLLIER C
  22     3  PLHL 7000         1  PHYTONEMATOLOGY        4.0  1030-1150    T TH  0253 HIMES                            MCGAWLEY E
+                     LAB                                     130-0520      TH                                        MCGAWLEY E
  12     3  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W                                          HAM J
  10     5  PLHL 7067         1  PRO DEV FOR PLANT SC   2.0   430-0620N    W    0120 PRESCOTT                         COHN M
   9     6  PLHL 7083         1  EPIDEM & CRP LOSS AS   3.0   830-0920   M W F  0119 LOCKETT                          HOY J

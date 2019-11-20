@@ -1,7 +1,10 @@
  10    20  PLHL 4000         1  GEN PLANT PATHOLOGY    4.0  1030-1150    T TH                                        MCGAWLEY E
+                     LAB                                     130-0420      TH                                        MCGAWLEY E
   5     5  PLHL 4054         1  INTRO MYCOLOGY         4.0   930-1020   M W F  0308 LIFE SCIENCES                    BLACKWELL M
+                     LAB                                    1130-0320     W    0308 LIFE SCIENCES                    BLACKWELL M
  15     1  PLHL 7010         1  PLANT MOLECULAR BIOL   3.0   815-0935    T TH                                        MURAI N
  19    11  PLHL 7040         1  PLANT VIROLOGY         4.0  TBA                                                      VALVERDE R
+                     LAB                                    TBA                                                      VALVERDE R
   4    11  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W                                          MCGAWLEY E
   6     4  PLHL 7082         1  SOILBRN PLNT PATHOGE   3.0  TBA                                                      SCHNEIDER R
  98     1  PLHL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      CLARK C

@@ -3,8 +3,11 @@
   5    13  ART  1847 LAB     1  DRAWING-COMPOSITION    3.0  1200-0300   MTWTH  0107 FOSTER                           WALSH M
   1    19  ART  1849 LAB     1  INTRO TO PAINTING      3.0  0900-1200   MTWTH  0203 FOSTER                           WREYFORD B
  10    13  ART  2050         2  DIGITAL ART I          3.0  0900-1000   MTWTH  0111 ART BUILDING                     WINFIELD P
+                     LAB                                    1000-1200   MTWTH                                        WINFIELD P
  10    13  ART  2050         1  DIGITAL ART I          3.0  1200-0100   MTWTH  0111 ART BUILDING                     LIVAUDAIS L
+                     LAB                                     100-0300   MTWTH                                        LIVAUDAIS L
   5    15  ART  2055         1  DIGITAL ART II         3.0  0900-1000   MTWTH  0108 ART BUILDING    PERMIS OF INST   OSTRENKO F
+                     LAB                                    1000-1200   MTWTH  0108 ART BUILDING                     OSTRENKO F
   7    13  ART  3992 LAB     1  INT DIGITAL PHOTO      3.0   340-0630   MTWTH  0229 ART BUILDING                     HESS A
 (F)     1  ART  4020 LAB     2  SPEC TOP STUDIO        3.0  TBA                                     PERMIS OF INST   HERSTER M
 (F)     1  ART  4020 LAB     3  SPEC TOP STUDIO        3.0  TBA                                                      OSTRENKO F
@@ -24,3 +27,4 @@
  97     2  ART  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      MALVETO J
 (F)     1  ART  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      WALSH M
  10    10  ART  1011         2  2-DIMENSIONAL DESIGN   3.0  0900-1000   MTWTF  0334 ART BUILDING                     ARTHUR S
+                     LAB                                    1000-1200   MTWTF  0334 ART BUILDING                     ARTHUR S

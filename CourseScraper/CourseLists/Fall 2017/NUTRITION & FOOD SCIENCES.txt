@@ -1,5 +1,7 @@
 (F)    18  NFS  1014         1  FOOD THEORY & SKILLS   4.0   830-0920   M W F  0234 COATES                           MYHAND J
+                     LAB                                     130-0420   M                                            MYHAND J
   5    13  NFS  1014         2  FOOD THEORY & SKILLS   4.0   830-0920   M W F  0234 COATES                           MYHAND J
+                     LAB                                     130-0420     W                                          MYHAND J
  29    46  NFS  1110         1  INTRO TO NUTRITION     3.0  1230-0120   M W F  0206 TUREAUD HALL                     BALL M
   4    96  NFS  1110         2  INTRO TO NUTRITION     3.0  1200-0120    T TH  0139 ALLEN                            DORE S
   2    43  NFS  2110         1  NUTRITION ASSESSMENT   3.0   130-0250    T TH  0102 TUREAUD HALL                     MILIOTO B
@@ -7,7 +9,9 @@
  14    76  NFS  3000         1  FOOD SAFETY            3.0   930-1020   M W F  0105 TUREAUD HALL                     XU W
 (F)    42  NFS  3110         1  NUTRITION COUNSELING   3.0  1030-1150    T TH  0114 AUDUBON                          MILIOTO B
 (F)    17  NFS  3119         1  QUANT FOODS PRODUCTI   4.0   900-1020    T TH  0116 STUBBS                           DORE S
+                     LAB                                     130-0420    T     0119 J C MILLER                       DORE S
 (F)    17  NFS  3119         2  QUANT FOODS PRODUCTI   4.0   900-1020    T TH  0116 STUBBS                           DORE S
+                     LAB                                     130-0420      TH  0213 TUREAUD HALL                     DORE S
 (F)     5  NFS  3900 RES     1  NUTR & FDSC UG RES     1-3  TBA                                                      MYHAND J
   1     1  NFS  3900 RES     2  SURVEY VALIDATION      1-3  TBA                                                      TUURI G
   3        NFS  3900 RES     3  NUTR & FDSC UG RES     1-3  TBA
@@ -15,11 +19,16 @@
   5    11  NFS  4021 SEM     2  TOPICS IN NUTRITION    1.0   830-0920     W    0112 TUREAUD HALL    PERMIS OF DEPT   LAMMI-KEEFE C
 (F)    16  NFS  4021 SEM     1  TOPICS IN NUTRITION    1.0  1030-1120     W    0112 TUREAUD HALL    PERMIS OF DEPT   O'NEIL C
   7    13  NFS  4060         1  FOOD CHEMISTRY         4.0  1030-1150    T TH  0204 WOODIN HALL                      KING J
+                     LAB                                     130-0420    T                                           KING J
  29    11  NFS  4070         1  FOOD LAWS REGULATION   2.0   230-0420       F  0108 TUREAUD HALL                     ADHIKARI A
  12    11  NFS  4075         1  FOOD PRESERVATION      3.0   900-0950    T TH  0218 TUREAUD HALL                     SATHIVEL S
+                     LAB                                     230-0520      TH  0218 TUREAUD HALL                     SATHIVEL S
  13     7  NFS  4095         1  SENSORY EVAL OF FOOD   4.0  1030-1120   M W F  0129 TUREAUD HALL                     PRINYAWIWATKU
+                     LAB                                     130-0420     W    0220 TUREAUD HALL                     PRINYAWIWATKU
   5    20  NFS  4111         1  NUTRI & DISEASE I      4.0  1030-1150    T TH  0132 J C MILLER      MAJORS ONLY      BALL M
+                     LAB                                     130-0420   M      0134 J C MILLER                       BALL M
   6    19  NFS  4111         2  NUTRI & DISEASE I      4.0  1030-1150    T TH  0132 J C MILLER                       BALL M
+                     LAB                                     130-0420     W    0134 J C MILLER
   5    10  NFS  7001         1  MACRONUTRIENTS         3.0  1030-1150    T TH  0149 ELECTRICAL ENGR                  KEENAN M
  10        NFS  7002         1  TPCS IN MICRONUTRIEN   2.0  1000-1150   M      0112 TUREAUD HALL                     KEENAN M
   6     4  NFS  7004         1  MOL & CLIN NUTR I      2.0   315-0435   M      0220 TUREAUD HALL                     LAMMI-KEEFE C
@@ -27,6 +36,7 @@
   7     3  NFS  7030 RES     2  ANTIMICROBIALS         1-6  TBA                                                      ADHIKARI A
   7     3  NFS  7030 RES     3  AD FOOD & NUTR RES     1-6  TBA                                                      SATHIVEL S
   5     5  NFS  7040         1  FLAVOR & COLORS FOOD   3.0   900-0950    T TH  0220 TUREAUD HALL                     XU Z
+                     LAB                                     130-0420      TH  0129 TUREAUD HALL                     XU Z
   2    14  NFS  7071 SEM     1  GR SEM NUTR & FDSC     1.0  1230-0120      TH  0226 TUREAUD HALL                     JANES M
  96     3  NFS  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ADHIKARI A
  99        NFS  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      AITA G

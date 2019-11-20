@@ -1,15 +1,22 @@
   7    33  CSC  1100         1  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    1112 PATRICK TAYLOR                   PETERSON B
+                     LAB                                    1030-1220       F  3136 PATRICK TAYLOR                   PETERSON B
   4    16  CSC  1100         2  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    1112 PATRICK TAYLOR                   PETERSON B
+                     LAB                                     930-1120     W    0168 COATES                           MOLES S
   3    45  CSC  1200         1  ETHICS IN COMPUTING    1.0  1230-0120     W    1112 PATRICK TAYLOR                   KANNAN R
   2    46  CSC  1200         2  ETHICS IN COMPUTING    1.0   230-0320     W    1111 PATRICK TAYLOR                   KANNAN R
   5   105  CSC  1240         1  STATS & GRAPH MATLB    3.0  1130-1220   M W    1119 PATRICK TAYLOR                   BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
 (F)    90  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  0204 TUREAUD HALL                     DUNCAN W
 (F)    75  CSC  1253         2  COMP SCI WITH C++      3.0  1200-0120    T TH  0221 TUREAUD HALL                     SHARMA G
  15    45  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1030-1150    T TH  0109 TUREAUD HALL                     DOUGLAS C
   8    40  CSC  1350         1  COMP SCI I-MJRS        4.0   930-1020   M W F  2162 PATRICK TAYLOR                   DUNCAN W
+                     LAB                                    1230-0320   M      3136 PATRICK TAYLOR                   DUNCAN W
 (F)    48  CSC  1350         2  COMP SCI I-MJRS        4.0  1030-1120   M W F  2162 PATRICK TAYLOR                   DUNCAN W
+                     LAB                                     330-0620   M      3136 PATRICK TAYLOR                   BRENER N
  13    42  CSC  1351         3  COMP SCI II-MJRS       4.0   900-1020    T TH  2148 PATRICK TAYLOR                   KUNDU S
+                     LAB                                     430-0720N     TH  1105 PATRICK TAYLOR                   KUNDU S
  24    31  CSC  1351         4  COMP SCI II-MJRS       4.0   900-1020    T TH  2146 PATRICK TAYLOR                   BRENER N
+                     LAB                                     130-0420      TH  1105 PATRICK TAYLOR                   BRENER N
   4    61  CSC  2259         1  DISCRETE STRUCTURES    3.0   130-0250    T TH  2142 PATRICK TAYLOR                   TRIANTAPHYLLO
   8    57  CSC  2262         1  NUMERICAL METHODS      3.0   300-0420    T TH  2162 PATRICK TAYLOR                   SHAH R
   7    13  CSC  2700         3  CMPTATNL TOOLS 3CRHR   1-3  1200-0120    T TH                                        TRAXLER K

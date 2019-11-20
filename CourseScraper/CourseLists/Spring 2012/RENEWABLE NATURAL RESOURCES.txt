@@ -11,8 +11,11 @@
  14     1  RNR  2061 SEM     4  PRB NAT RESOURCE MGT   1-4  TBA                                                      KELSO W
   5    11  RNR  2071         1  HNRS INTRO RNR POLIC   4.0   940-1130   M W F  0142 RENEWABLE NAT R                  ROHWER F
 (F)    15  RNR  3004         3  FOR PHOTOGRAM, GPS,    3.0  1210-0200       F  0214 RENEWABLE NAT R                  WOLCOTT M
+                     LAB                                     210-0500       F  0214 RENEWABLE NAT R                  WOLCOTT M
 (F)    27  RNR  3018         2  ECOL & MGT LA WILDL    4.0  1240-0130     W F  0206 RENEWABLE NAT R SVC LEARNING     STOUFFER P
+                     LAB                                     140-0430     W F  0206 RENEWABLE NAT R                  STOUFFER P
  11    11  RNR  4022         1  PRINC OF AQUACULTURE   4.0   910-1030    T TH  0142 RENEWABLE NAT R                  GREEN C
+                     LAB                                     140-0530     W                                          GREEN C
   9    21  RNR  4023         1  MARINE FISH RESOURCE   3.0   840-0930   M W F  0230 RENEWABLE NAT R                  KELSO W
   7     3  RNR  4061 RES     2  PROB NAT RES MGT       1-4   240-0530   M      0230 RENEWABLE NAT R                  DE HOOP C
   7     3  RNR  4061 RES     1  PROB NAT RES MGT       1-4  TBA                                                      KALLER M
@@ -23,8 +26,10 @@
   9     1  RNR  4061 RES     8  PROB NAT RES MGT       1-4  TBA                                                      CHAMBERS J
   9     1  RNR  4061 RES     9  PROB NAT RES MGT       1-4  TBA                                                      TIERSCH T
   2    38  RNR  4101         1  NAT RES MGT/POL/HDIM   4.0  1140-1230     W F  0141 RENEWABLE NAT R CI-WRITTEN&SPOK  KEIM R
+                     LAB                                    1140-0330   M      0141 RENEWABLE NAT R                  KEIM R
 (F)    29  RNR  4103         1  CONSERVATION GENETIC   3.0  1140-0100    T TH  0230 RENEWABLE NAT R                  TAYLOR S
   8    12  RNR  4900         1  WATERSHED HYDROLOGY    3.0   140-0300     W    0230 RENEWABLE NAT R                  XU Y
+                     LAB                                     840-1100       F  0214 RENEWABLE NAT R                  XU Y
   6    14  RNR  7029 SEM     1  ADV TOP RENEW NT RES   1-4   240-0530   M      0230 RENEWABLE NAT R                  DE HOOP C
 (F)     9  RNR  7029 SEM     6  ADV TOP RENEW NT RES   1-4  1210-0500       F  0214 RENEWABLE NAT R                  DE HOOP C
   3     7  RNR  7029 SEM     3  ADV TOP RENEW NT RES   1-4  TBA                                                      ANDERSON J

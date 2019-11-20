@@ -1,13 +1,18 @@
   1    99  COMD 2050         1  INTR TO LANGUAGE       3.0   930-1020   M W F  0152 COATES                           PARKER R
   1    99  COMD 2050         2  INTR TO LANGUAGE       3.0  1200-0120    T TH  0204 TUREAUD HALL                     PARR C
   4    21  COMD 2051         1  MANUAL COMMUNICATION   4.0   300-0550    T     0026 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     130-0220     W    0026 HATCHER HALL                     JUMONVILLE W
  12    13  COMD 2051         2  MANUAL COMMUNICATION   4.0   300-0550    T     0026 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     230-0320     W    0026 HATCHER HALL                     JUMONVILLE W
   4    52  COMD 2081         2  INTRO TO COMD          3.0  1200-0120    T TH  2146 PATRICK TAYLOR                   OURSO N
   4    85  COMD 4150         3  PHONETICS              3.0  1200-0120    T TH  0105 TUREAUD HALL                     GIBSON T
  26    84  COMD 4250         2  ANAT PHYS SPCH & HEA   3.0   730-0850    T TH  0009 LOCKETT                          COALSON G
 (F)    36  COMD 4380         1  DVLPMNT SPKN LANG      4.0   130-0250    T TH  0155 COATES                           OETTING J
+                     LAB                                     130-0220   M      0232 MIDDLETON                        DELROSE L
   1    34  COMD 4380         7  DVLPMNT SPKN LANG      4.0   130-0250    T TH  0155 COATES                           OETTING J
+                     LAB                                     530-0620N  M      0232 MIDDLETON                        DELROSE L
  14    21  COMD 4380         8  DVLPMNT SPKN LANG      4.0   330-0620     W    0131 ALLEN                            OETTING J
+                     LAB                                     630-0720N  M      0232 MIDDLETON                        DELROSE L
  28    12  COMD 4381         1  DISORDERS OF ARTIC     3.0   830-0920   M W F  0112 TUREAUD HALL                     HOFFMAN P
 (F)    47  COMD 4590         3  ADTRY REHAB CHLD       3.0   900-1020    T TH  1112 PATRICK TAYLOR                   BARKER B
  44    32  COMD 4590         2  ADTRY REHAB CHLD       3.0   100-0350    T     0221 TUREAUD HALL                     BARKER B

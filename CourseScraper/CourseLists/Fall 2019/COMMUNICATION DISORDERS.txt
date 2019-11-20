@@ -3,11 +3,16 @@
   3    63  COMD 2081         2  INTRO TO COMD          3.0  1030-1150    T TH  0054 ALLEN                            LARSEN D
  24    76  COMD 3150         1  PHONETICS              3.0   900-1020    T TH  0026 HATCHER HALL                     GIBSON T
  12    48  COMD 4153         1  ACOUSTICS SP HEARING   4.0  1030-1150    T TH  0203 TUREAUD HALL                     KIM Y
+                     LAB                                     330-0520   M      0214 COATES                           THOMPSON A
  11    59  COMD 4250         1  ANAT PHYS SPCH & HEA   3.0   730-0850    T TH  0026 HATCHER HALL                     MCGREAL S
   1    24  COMD 4380         1  DVLPMNT SPKN LANG      4.0  1200-0120    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     130-0220   M      0171 COATES                           BOSANKO M
   5    20  COMD 4380         3  DVLPMNT SPKN LANG      4.0  1200-0120    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     230-0320   M      0171 COATES                           BOSANKO M
   7    18  COMD 4380         2  DVLPMNT SPKN LANG      4.0   130-0250    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     130-0220   M      0205 COATES                           VAUGHN L
   1    24  COMD 4380         4  DVLPMNT SPKN LANG      4.0   130-0250    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     230-0320   M      0205 COATES                           VAUGHN L
  22    38  COMD 4381         1  SPEECH DIS             3.0   300-0420    T TH  0220 COATES                           CHUNG H
   2    53  COMD 4383         1  BASIC FLUENCY DISORD   3.0   900-1020    T TH  0209 COATES                           TRELEAVEN S
  20    60  COMD 4590         1  ADTRY REHAB CHLD       3.0  1200-0120    T TH  0026 HATCHER HALL                     SUTHERLAND W

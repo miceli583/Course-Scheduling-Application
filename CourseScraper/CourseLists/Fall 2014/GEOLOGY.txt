@@ -24,9 +24,13 @@
   3    25  GEOL 1602 LAB     2  HISTORICAL GEOL LAB    1.0   130-0420      TH  E207 HOWE RUSSELL E                   MA Y
   2    26  GEOL 1602 LAB     1  HISTORICAL GEOL LAB    1.0   430-0720N     TH  E207 HOWE RUSSELL E                   MA Y
   1    21  GEOL 3032         1  SED & DEP ENVS         4.0   730-0850    T TH  E137 HOWE RUSSELL E                   BENTLEY S
+                     LAB                                     130-0420    T     0360 HOWE RUSSELL E                   BENTLEY S
   2    20  GEOL 3032         2  SED & DEP ENVS         4.0   730-0850    T TH  E137 HOWE RUSSELL E                   BENTLEY S
+                     LAB                                     130-0420      TH  0360 HOWE RUSSELL E                   BENTLEY S
   2    20  GEOL 3041         1  IG MET PETROLOGY       4.0  1030-1120   M W F  E137 HOWE RUSSELL E  CI-WRITTEN&SPOK  HENRY D
+                     LAB                                     130-0420    T     E206 HOWE RUSSELL E                   HENRY D
 (F)    23  GEOL 3041         2  IG MET PETROLOGY       4.0  1030-1120   M W F  E137 HOWE RUSSELL E  CI-WRITTEN&SPOK  HENRY D
+                     LAB                                     130-0420      TH  E206 HOWE RUSSELL E                   HENRY D
  70   280  GEOL 3200         1  EARTH MATERIALS PETE   3.0  1230-0120   M W F  0100 DODSON                           MA Y
 (H)     1  GEOL 3909 RES     1  GEOLOGICAL RES         1-3  TBA                                                      ELLWOOD B
 (F)     1  GEOL 3909 RES     2  GEOLOGICAL RES         1-3  TBA                                                      BART S
@@ -40,10 +44,13 @@
 (H)     1  GEOL 3909 RES    10  GEOLOGICAL RES         1-3  TBA                                                      BENTLEY S
 (F)     1  GEOL 3999 RES     3  UNDERGRADUATE THESIS   3.0  TBA                                                      BENTLEY S
 (F)    11  GEOL 4012         1  INTRO MICROPALEONTOL   3.0  1230-0220   M      0347 HOWE RUSSELL E  CI-WRITTEN&SPOK  BART S
+                     LAB                                    1230-0320     W    0347 HOWE RUSSELL E                   BART S
   2    12  GEOL 4019         1  GEOARCHAEOLOGY         4.0  1130-1220   M W F  E207 HOWE RUSSELL E  CI-WRITTEN&SPOK  ELLWOOD B
+                     LAB                                    TBA                                                      ELLWOOD B
   1    29  GEOL 4044         1  PETROLEUM GEOLOGY      3.0   130-0250    T TH  0215 WILLIAMS        CI-WRITTEN&VISU  CLIFT P
   4    20  GEOL 4066         1  PLATE TECTONICS        3.0  1030-1120   M W F  E207 HOWE RUSSELL E  CI-VISUAL&TECH   WEBB A
   3    17  GEOL 4068         1  REFLECT SEISMOLOGY     3.0   730-0820   M W    E207 HOWE RUSSELL E  CI-VISUAL&TECH   LORENZO J
+                     LAB                                     130-0420   M      E208 HOWE RUSSELL E                   LORENZO J
   3    17  GEOL 4081         1  CHEM OCEANOGRAPHY      3.0  1030-1150    T TH  2171 PATRICK TAYLOR  CI-WRITTEN&SPOK  MAITI K
 (F)    22  GEOL 7062         2  SEISMIC STRATIGRAPHY   3.0  1230-0320   M      E207 HOWE RUSSELL E                   BART P
   4    11  GEOL 7200         1  SCI COMM/VISUALZTN     3.0  1230-0320     W    E207 HOWE RUSSELL E                   DUTROW B

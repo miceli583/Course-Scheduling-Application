@@ -2,14 +2,20 @@
 (F)    25  BE   1250 LAB     2  INTRO ENGR METHODS     2.0   240-0430   M W F  0106 AG METAL BLDG   CI-VISUAL&TECH   HAYES D
   2    23  BE   1250 LAB     3  INTRO ENGR METHODS     2.0   140-0430    T TH  0106 AG METAL BLDG   CI-WRITTEN&VISU  MONROE W
   2    23  BE   2352         1  QUANT BIOL IN ENGR     3.0  1040-1130   M W    0221 TUREAUD HALL                     SATHIVEL S
+                     LAB                                     140-0430   M      0115 E B DORAN                        SATHIVEL S
 (F)    25  BE   2352         2  QUANT BIOL IN ENGR     3.0  1040-1130   M W    0221 TUREAUD HALL                     SATHIVEL S
+                     LAB                                     140-0430    T     0115 E B DORAN                        SATHIVEL S
  10    15  BE   3320         1  MECH DESN BIOL ENGR    3.0  1040-1130    T TH  0213 TUREAUD HALL    CI-WRITTEN&TECH  HALL S
+                     LAB                                     140-0430     W    0116 AG METAL BLDG                    HALL S
  14    11  BE   3320         2  MECH DESN BIOL ENGR    3.0  1040-1130    T TH  0213 TUREAUD HALL    CI-WRITTEN&TECH  HALL S
+                     LAB                                     140-0430      TH  0116 AG METAL BLDG                    HALL S
   5    15  BE   3371         1  LAND/TURF IRRIGTN      2.0   740-0930   M      0115 E B DORAN                        THOMAS D
  24     1  BE   3989 RES     1  SPEC PROJ IN BIOL EN   1-4  TBA
  13    27  BE   4290 RES     1  SEN ENGR DESN & PROF   2.0   940-1030    T TH  0225 TUREAUD HALL    CI-WRITTEN&SPOK  LIMA M
   2    23  BE   4303         1  ENGR PROP OF BIOL MA   3.0  1240-0130   M W    0215 TUREAUD HALL                     BOLDOR D
+                     LAB                                     140-0430   M      0140 AG METAL BLDG                    BOLDOR D
  13    12  BE   4303         2  ENGR PROP OF BIOL MA   3.0  1240-0130   M W    0215 TUREAUD HALL                     BOLDOR D
+                     LAB                                     140-0430      TH  0140 AG METAL BLDG                    BOLDOR D
 (F)    30  BE   4332         1  MOL MTHDS BIOL ENGR    3.0  1210-0130    T TH  0101 TUREAUD HALL                     MONROE W
   4    21  BE   4383         1  NATURAL RESOURCE ENG   3.0   740-0900    T TH  0115 E B DORAN                        BENGTSON R
   3    12  BE   4989 RES     1  BIOL MAT CHARAC TECH   1-4   140-0300    T TH  0211 TUREAUD HALL                     HAYES D

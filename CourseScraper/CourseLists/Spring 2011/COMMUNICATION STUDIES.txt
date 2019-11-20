@@ -16,6 +16,7 @@
 (F)   120  CMST 2010         4  INTERPERSNL COMMNCTN   3.0   910-1030    T TH  0152 COATES                           WHITEHEAD K
   1   119  CMST 2010         5  INTERPERSNL COMMNCTN   3.0  1040-1200    T TH  0152 COATES                           WHITEHEAD K
   1    19  CMST 2012         1  INTRO TO FILM          4.0  1210-0130    T TH  0102 COATES                           LEBRET J
+                     LAB                                     610-0900N   T     0151 COATES                           LEBRET J
 (F)    24  CMST 2040         1  INTR TO PERFORM LITR   3.0   940-1030   M W F  0137 COATES                           HAAS B
   1    23  CMST 2040         2  INTR TO PERFORM LITR   3.0  1040-1130   M W F  0137 COATES                           HAAS B
   6    18  CMST 2040         3  INTR TO PERFORM LITR   3.0   910-1030    T TH  0137 COATES                           JACKSON S
@@ -64,6 +65,7 @@
 (F)    26  CMST 2064         2  SM GROUP COMMUNICATI   3.0  1210-0130    T TH  0103 COATES                           FANNIN A
   9     1  CMST 2200 CLI     4  PRACT COMM STUDIES     1.0  TBA                                     PERMIS OF DEPT   LEBRET J
 (F)    79  CMST 3012         1  HISTORY OF FILM        4.0  1240-0130   M W F  0152 COATES                           SUCHY P
+                     LAB                                     610-0900N    W    0152 COATES                           MCGEOUGH D
   3    17  CMST 3040         1  PERFORMANCE COMPOSIT   3.0  1040-1200    T TH  0137 COATES                           BRISINI T
 (F)    26  CMST 3041         1  PERF IN EVERYDAY LIF   3.0   140-0230   M W F  0111 COATES                           GRATCH A
 (F)    37  CMST 3107         1  RHET CONTEMP MEDIA     3.0   940-1030   M W F  0103 COATES                           BUTCHER J

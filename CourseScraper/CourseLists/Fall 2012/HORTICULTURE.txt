@@ -1,9 +1,12 @@
  24     1  HORT 2011         1  ANAL ENV ISSUES        3.0   130-0250    T TH  0135 M B STURGIS     CI-WRITTEN&SPOK  WALSH M
  11    14  HORT 2020         1  INST/MAIN ORN LANDSC   2.0   130-0220     W    0107 HORTICUL. TCHG                   MIRABELLO R
+                     LAB                                     230-0420     W    0107 HORTICUL. TCHG                   MIRABELLO R
  18     7  HORT 2025         1  INTRO GREEN INDUSTRY   2.0  1230-0120   M W    0132 J C MILLER                       BUSH E
 (F)    35  HORT 2050         1  GEN HORTICULTURE       3.0   900-1020    T TH  0132 J C MILLER                       MIRABELLO R
  11     9  HORT 2086         1  INTR TURFGRASS MGMT    3.0   800-0920   M W    0119 J C MILLER                       BEASLEY J
+                     LAB                                     100-0350   M      0107 HORTICUL. TCHG                   BEASLEY J
  13     7  HORT 2124         1  WOODY PLNT MATRLS I    2.0   800-0850      TH  0232 J C MILLER                       MIRABELLO R
+                     LAB                                     830-1120       F  0107 HORTICUL. TCHG                   MIRABELLO R
  12     8  HORT 3000 CLI     1  HORTICULTURAL INTERN   3.0  TBA                                                      LABONTE D
  18     2  HORT 3010 RES     1  RESEARCH PROBLEMS      3.0  TBA                                                      LABONTE D
  17     3  HORT 3010 RES     2  RESEARCH PROBLEMS      3.0  TBA                                                      MIRABELLO R
@@ -15,6 +18,7 @@
   2     2  HORT 4012         4  PLANT GROWTH & DEVEL   1-3  TBA                                                      KUEHNY J
  18     2  HORT 4012         6  PLANT GROWTH & DEVEL   1-3  TBA                                                      KUEHNY J
   5     5  HORT 4020         1  GREENHOUSE MNG         4.0  TBA                                                      KUEHNY J
+                     LAB                                    TBA                                                      KUEHNY J
  24     1  HORT 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BUSH E
  23     2  HORT 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      KUEHNY J
  24     1  HORT 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      LABONTE D

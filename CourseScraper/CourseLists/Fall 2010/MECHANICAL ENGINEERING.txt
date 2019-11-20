@@ -1,22 +1,36 @@
   5    89  ME   2212         1  INTRO MECH ENGR DESN   2.0   310-0400    T     1109 PATRICK TAYLOR  CI-WRITTEN&SPOK  WAHAB M
+                     LAB                                     310-0500      TH  0105 TUREAUD HALL                     WAHAB M
  32   108  ME   2334         1  THERMODYNAMICS         4.0   940-1030   MTWTF  E130 HOWE RUSSELL CO                  CHARALAMPOPOU
   5   115  ME   2723         1  MATERIALS OF ENGR FO   3.0  1210-0130    T TH  0102 ALLEN                            RAMAN A
  37    43  ME   2733         1  MATERIALS OF ENGR      3.0  1210-0130    T TH  0119 NICHOLSON                        MENG W
  51   149  ME   3143         1  SYST DYNAMCS & MODL    3.0  1040-1200    T TH  0006 LOCKETT                          WANG W
   2    93  ME   3333         1  THERMODYNAMICS         3.0  1140-1230   M W F  0204 TUREAUD HALL                     GUO S
 (F)     6  ME   3633         1  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     140-0430   M                                            SINCLAIR G
 (F)     6  ME   3633         2  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     440-0730N  M                                            SINCLAIR G
 (F)     6  ME   3633         3  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     140-0430    T                                           SINCLAIR G
 (F)     6  ME   3633         4  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     440-0730N   T                                           SINCLAIR G
 (F)     6  ME   3633         5  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     140-0430     W                                          SINCLAIR G
 (F)     6  ME   3633         6  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     440-0730N    W                                          SINCLAIR G
 (F)     6  ME   3633         7  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     140-0430      TH                                        SINCLAIR G
 (F)     6  ME   3633         8  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     440-0730N     TH                                        SINCLAIR G
 (F)     6  ME   3633         9  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     140-0430       F                                        SINCLAIR G
 (F)     6  ME   3633        10  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     740-1030   M                                            SINCLAIR G
 (F)     6  ME   3633        12  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     740-1030N   T                                           SINCLAIR G
 (F)     6  ME   3633        13  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     740-1030N    W                                          SINCLAIR G
 (F)     5  ME   3633        14  MANFUCT PROCESS & ME   3.0  1140-1230   M W    1109 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                    1040-0130       F                                        SINCLAIR G
 (F)    12  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0   140-0430   M      1220 PATRICK TAYLOR                   PARK S
 (F)    12  ME   3701 LAB     2  MATRLS OF ENGRNG LAB   1.0   440-0730N  M      1220 PATRICK TAYLOR                   PARK S
 (F)    12  ME   3701 LAB     3  MATRLS OF ENGRNG LAB   1.0   140-0430    T     1220 PATRICK TAYLOR                   PARK S
@@ -36,6 +50,7 @@
 (F)    12  ME   4201 LAB     4  MECH ENGR DESIGN LAB   1.0   140-0430     W    2209 PATRICK TAYLOR                   HELMS J
   2    10  ME   4201 LAB     5  MECH ENGR DESIGN LAB   1.0   440-0730N    W    2209 PATRICK TAYLOR                   HELMS J
  43    46  ME   4243         1  ME CAPSTONE DESN I     3.0  1040-1200    T TH                       CI-WRITTEN&SPOK  MURPHY M
+                     LAB                                    1240-0230       F  0202 WILLIAMS                         MURPHY M
  14     1  ME   4573         1  INTERACT COMP GRPHCS   3.0   910-1030    T TH  0201 WILLIAMS                         KOOIMA R
   1    11  ME   4621 LAB     1  THERMAL SCIENCE LAB    1.0  1040-0130   M      1216 PATRICK TAYLOR  CI-WRITTEN       GUO S
 (F)    12  ME   4621 LAB     2  THERMAL SCIENCE LAB    1.0   140-0430   M      1216 PATRICK TAYLOR  CI-WRITTEN       GUO S
@@ -43,6 +58,7 @@
   1    11  ME   4621 LAB     4  THERMAL SCIENCE LAB    1.0   140-0430      TH  1216 PATRICK TAYLOR  CI-WRITTEN       GUO S
   1    14  ME   4643         2  THERMAL ENVIRON ENGR   3.0   440-0600N   T TH  3131 PATRICK TAYLOR                   NIKITOPOULOS
   8     7  ME   4723         1  ADV MAT ANALYSIS       3.0   440-0530N   T TH  2149 PATRICK TAYLOR                   PARK S
+                     LAB                                     540-0700N   T TH                                        PARK S
 (F)    15  ME   4763         1  FUND CORROSN SC/ENGR   3.0   440-0600N  M W    0125 TUREAUD HALL                     RAMAN A
 (F)    15  ME   4933         2  VEHICLE DYNAMICS       3.0  1040-1130   M W F  0124 TUREAUD HALL                     HELMS J
 (F)    17  ME   4933         3  WELDING ENGINEERING    3.0  1210-0130    T TH  1111 PATRICK TAYLOR                   WAHAB M

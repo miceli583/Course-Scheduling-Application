@@ -65,7 +65,9 @@
 (F)    33  PHYS 2221         1  INTRO TO MECHANICS     3.0   940-1030   M W F  0118 NICHOLSON       PERMIS OF DEPT   RAU A
   9    11  PHYS 2995 RES     1  RESEARCH INTERNSHIP    1.0   440-0530N    W    0262 NICHOLSON       PERMIS OF INST   STACY J
  21     9  PHYS 4005         1  RESEARCH METHODS       3.0  1040-1200    T TH                                        JOHNSON W
+                     LAB                                    TBA                                                      JOHNSON W
   3    11  PHYS 4098         1  INSTRU ELECT FOR SCI   3.0  1040-1130    T TH  0118 NICHOLSON       PERMIS OF DEPT   GIAMMANCO J
+                     LAB                                     140-0430     W    0017 NICHOLSON                        GIAMMANCO J
  11    14  PHYS 4125         1  THERMODY STAT MECH     3.0  1140-1230   M W F  0118 NICHOLSON       PERMIS OF DEPT   DITUSA J
  14    11  PHYS 4132         1  ELECTROMAGNETISM E W   3.0  1210-0130    T TH  0118 NICHOLSON       PERMIS OF DEPT   KUTTER T
  13    12  PHYS 4141         1  INTR QUANTUM MECH      3.0  1240-0130   M W F  0118 NICHOLSON       PERMIS OF DEPT   GIESEL K

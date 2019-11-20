@@ -10,17 +10,29 @@
  75   175  BIOL 1002         2  GENERAL BIOLOGY        3.0  1240-0130   M W F  0103 WILLIAMS                         POLLOCK S
  39   211  BIOL 1002         3  GENERAL BIOLOGY        3.0  1040-1200    T TH  0102 WILLIAMS                         POMARICO S
 (F)    20  BIOL 1005         3  INTRO BIOLOGY LAB      2.0  1140-1230   M      0208 WILLIAMS                         WISCHUSEN E
+                     LAB                                     310-0600    T     0115 LIFE SCIENCES                    WISCHUSEN E
 (F)    20  BIOL 1005         4  INTRO BIOLOGY LAB      2.0  1140-1230   M      0208 WILLIAMS                         WISCHUSEN E
+                     LAB                                     610-0900N   T     0115 LIFE SCIENCES                    WISCHUSEN E
 (F)    20  BIOL 1005         5  INTRO BIOLOGY LAB      2.0  1140-1230   M      0210 WILLIAMS                         WISCHUSEN E
+                     LAB                                     840-1130     W    0115 LIFE SCIENCES                    WISCHUSEN E
 (F)    20  BIOL 1005         6  INTRO BIOLOGY LAB      2.0  1140-1230   M      0210 WILLIAMS                         WISCHUSEN E
+                     LAB                                    1140-0230     W    0115 LIFE SCIENCES                    WISCHUSEN E
 (F)    20  BIOL 1005         1  INTRO BIOLOGY LAB      2.0   140-0230   M      0210 WILLIAMS                         WISCHUSEN E
+                     LAB                                     910-1200    T     0115 LIFE SCIENCES                    WISCHUSEN E
 (F)    20  BIOL 1005         2  INTRO BIOLOGY LAB      2.0   140-0230   M      0210 WILLIAMS                         WISCHUSEN E
+                     LAB                                    1210-0300    T     0115 LIFE SCIENCES                    WISCHUSEN E
 (F)    20  BIOL 1005         7  INTRO BIOLOGY LAB      2.0   640-0730N  M      0210 WILLIAMS                         WISCHUSEN E
+                     LAB                                     240-0530     W    0115 LIFE SCIENCES                    WISCHUSEN E
   1    19  BIOL 1005         8  INTRO BIOLOGY LAB      2.0   640-0730N  M      0210 WILLIAMS                         WISCHUSEN E
+                     LAB                                     540-0830N    W    0115 LIFE SCIENCES                    WISCHUSEN E
   1    19  BIOL 1005         9  INTRO BIOLOGY LAB      2.0  1240-0130     W    0208 WILLIAMS                         WISCHUSEN E
+                     LAB                                     910-1200      TH  0115 LIFE SCIENCES                    WISCHUSEN E
 (F)    20  BIOL 1005        10  INTRO BIOLOGY LAB      2.0  1240-0130     W    0208 WILLIAMS                         WISCHUSEN E
+                     LAB                                    1210-0300      TH  0115 LIFE SCIENCES                    WISCHUSEN E
   2    18  BIOL 1005        11  INTRO BIOLOGY LAB      2.0  1240-0130     W    0210 WILLIAMS                         WISCHUSEN E
+                     LAB                                     310-0600      TH  0115 LIFE SCIENCES                    WISCHUSEN E
   2    18  BIOL 1005        12  INTRO BIOLOGY LAB      2.0  1240-0130     W    0210 WILLIAMS                         WISCHUSEN E
+                     LAB                                     610-0900N     TH  0115 LIFE SCIENCES                    WISCHUSEN E
 (F)   195  BIOL 1011         1  MICROORGANISMS & MAN   3.0   340-0500   M W    0015 LOCKETT                          GAYDA R
   8    16  BIOL 1012 LAB     1  MICROORGAN & MAN LAB   1.0   910-1030    T TH  0536 LIFE SCIENCES                    GAYDA R
   9    15  BIOL 1012 LAB     2  MICROORGAN & MAN LAB   1.0  1040-1200    T TH  0536 LIFE SCIENCES                    ROBINS J
@@ -91,19 +103,33 @@
 (F)    32  BIOL 1209 LAB    11  BIOL LAB SCI MAJ II    1.0   910-1200      TH  0120 LIFE SCIENCES                    WISCHUSEN E
  11    21  BIOL 1209 LAB    12  BIOL LAB SCI MAJ II    1.0  1210-0300      TH  0120 LIFE SCIENCES                    WISCHUSEN E
 (F)    32  BIOL 2051         8  GEN MICROBIOLOGY       4.0  1140-1230   M W F  0130 NICHOLSON                        BRININSTOOL G
+                     LAB                                     740-0900    T TH  0136 LIFE SCIENCES                    SIVAPRAGASAM
 (F)    32  BIOL 2051         9  GEN MICROBIOLOGY       4.0  1140-1230   M W F  0130 NICHOLSON                        BRININSTOOL G
+                     LAB                                     910-1030    T TH  0136 LIFE SCIENCES                    BRININSTOOL G
 (F)    32  BIOL 2051        10  GEN MICROBIOLOGY       4.0  1140-1230   M W F  0130 NICHOLSON                        BRININSTOOL G
+                     LAB                                    1040-1200    T TH  0136 LIFE SCIENCES                    SULLIVAN K
 (F)    32  BIOL 2051        11  GEN MICROBIOLOGY       4.0  1140-1230   M W F  0130 NICHOLSON                        BRININSTOOL G
+                     LAB                                    1210-0130    T TH  0136 LIFE SCIENCES                    MEYER T
 (F)    32  BIOL 2051        12  GEN MICROBIOLOGY       4.0  1140-1230   M W F  0130 NICHOLSON                        BRININSTOOL G
+                     LAB                                     140-0300    T TH  0136 LIFE SCIENCES                    MEYER T
 (F)    33  BIOL 2051        13  GEN MICROBIOLOGY       4.0  1140-1230   M W F  0130 NICHOLSON                        BRININSTOOL G
+                     LAB                                     310-0430    T TH  0136 LIFE SCIENCES                    BROUSSARD T
 (F)    32  BIOL 2051        14  GEN MICROBIOLOGY       4.0  1140-1230   M W F  0130 NICHOLSON                        BRININSTOOL G
+                     LAB                                     440-0600N   T TH  0136 LIFE SCIENCES                    BROUSSARD T
 (F)    32  BIOL 2051         1  GEN MICROBIOLOGY       4.0   910-1030    T TH  0143 COATES                           SULLIVAN K
+                     LAB                                     740-0900   M W    0136 LIFE SCIENCES                    SIVAPRAGASAM
 (F)    32  BIOL 2051         2  GEN MICROBIOLOGY       4.0   910-1030    T TH  0143 COATES                           SULLIVAN K
+                     LAB                                     910-1030   M W    0136 LIFE SCIENCES                    GUAN D
 (F)    32  BIOL 2051         3  GEN MICROBIOLOGY       4.0   910-1030    T TH  0143 COATES                           SULLIVAN K
+                     LAB                                    1040-1200   M W    0136 LIFE SCIENCES                    GUAN D
 (F)    32  BIOL 2051         4  GEN MICROBIOLOGY       4.0   910-1030    T TH  0143 COATES                           SULLIVAN K
+                     LAB                                    1210-0130   M W    0136 LIFE SCIENCES                    GARRETT S
 (F)    32  BIOL 2051         5  GEN MICROBIOLOGY       4.0   910-1030    T TH  0143 COATES                           SULLIVAN K
+                     LAB                                     140-0300   M W    0136 LIFE SCIENCES                    GARRETT S
 (F)    32  BIOL 2051         6  GEN MICROBIOLOGY       4.0   910-1030    T TH  0143 COATES                           SULLIVAN K
+                     LAB                                     310-0430   M W    0136 LIFE SCIENCES                    CRANDALL R
 (F)    32  BIOL 2051         7  GEN MICROBIOLOGY       4.0   910-1030    T TH  0143 COATES                           SULLIVAN K
+                     LAB                                     440-0600N  M W    0136 LIFE SCIENCES                    CRANDALL R
  10   114  BIOL 2083         1  ELEMENTS OF BIOCHEM    3.0  1240-0130   M W F  0152 COATES                           HAWKINS E
 (F)    32  BIOL 2153         1  PRINC OF GENETICS      4.0   140-0230   M W F  0009 LOCKETT                          SMITH A
 (F)    28  BIOL 2153         2  PRINC OF GENETICS      4.0   140-0230   M W F  0009 LOCKETT                          SMITH A
@@ -124,14 +150,19 @@
   1    93  BIOL 3090         1  CELL BIOLOGY           3.0  1040-1200    T TH  0105 TUREAUD HALL                     HART C
 (F)    20  BIOL 3116 LAB     1  ADV GEN MBIO           3.0   940-1230   M W    0536 LIFE SCIENCES   CI-WRITTEN&SPOK  SULLIVAN K
  13    11  BIOL 3152         1  COMP ANAT VERTEBRATE   4.0   910-1000    T TH  0234 COATES                           HOMBERGER D
+                     LAB                                    1040-0130    T TH  0137 LIFE SCIENCES                    HOMBERGER D
   3    19  BIOL 3156         1  DEVELOPMENTAL ZOOLGY   4.0   840-0930   M W F  0208 WILLIAMS                         LYNN J
+                     LAB                                     910-1200    T     0114 LIFE SCIENCES                    YOUNG E
 (F)    22  BIOL 3156         2  DEVELOPMENTAL ZOOLGY   4.0   840-0930   M W F  0208 WILLIAMS                         LYNN J
+                     LAB                                     140-0430    T     0114 LIFE SCIENCES                    DUBANSKY B
 (F)    29  BIOL 3999 RES     1  UNDERGRAD RES BIO SC   1-3  TBA                                     PERMIS OF DEPT   LYNN J
   8     7  BIOL 4003 LAB     1  SCI TCH SEC SCH III    1.0   440-0530N  M      0203 PRESCOTT        PERMIS OF DEPT   WISCHUSEN E
   1     9  BIOL 4015         1  CONSERVATION BIOLOGY   4.0  1040-1200    T TH  0215 WILLIAMS        CI-WRITTEN&SPOK  HARMS K
   1     9  BIOL 4015         2  CONSERVATION BIOLOGY   4.0  1040-1200    T TH  0215 WILLIAMS        CI-WRITTEN&SPOK  HARMS K
   4    14  BIOL 4020         1  TAX/ECOL WETLAND PL    4.0  1210-0130    T TH  0118 LIFE SCIENCES                    URBATSCH L
+                     LAB                                     140-0430      TH  0118 LIFE SCIENCES                    JONES T
   1     6  BIOL 4054         1  INTRO MYCOLOGY         4.0   940-1030   M W F  0308 LIFE SCIENCES                    BLACKWELL M
+                     LAB                                    1140-0330     W    0308 LIFE SCIENCES                    BLACKWELL M
   7     8  BIOL 4084         1  GEOMICROBIOLOGY        3.0   940-1030   M W F  E207 HOWE RUSSELL CO CI-WRITTEN&SPOK  ENGEL A
 (F)   100  BIOL 4087         1  BASIC BIOCHEMISTRY     4.0  1240-0230   M W    0103 TUREAUD HALL                     WALDROP G
 (F)    91  BIOL 4087         2  BASIC BIOCHEMISTRY     4.0  1210-0200    T TH  0214 WILLIAMS                         MORONEY P
@@ -150,8 +181,11 @@
   1    49  BIOL 4124         1  MICROBIAL PATHOGENS    3.0   440-0600N  M W    0201 WILLIAMS                         WALKER J
   2    28  BIOL 4125         1  PROKARYOTIC DIVERSIT   3.0   310-0430    T TH  0208 WILLIAMS                         KING G
 (F)    21  BIOL 4141         1  MAMMALOGY              4.0   910-1000    T TH  0214 FOSTER                           HAFNER M
+                     LAB                                     510-0800N   T TH  0214 FOSTER                           FERNANDEZ J
 (F)     6  BIOL 4145         1  ICHTHYOLOGY            4.0  1240-0130   M W    0214 FOSTER                           CHAKRABARTY P
+                     LAB                                     140-0730   M      0214 FOSTER                           MCMAHAN C
   3    21  BIOL 4154         1  INVERTEBRATE ZOOLOGY   4.0   910-1030    T TH  0225 TUREAUD HALL                     HELLBERG M
+                     LAB                                     140-0430    T     0111 LIFE SCIENCES                    POSBIC K
   6    29  BIOL 4155         1  ENVIRONMENT PHYSIOLG   3.0   910-1030    T TH  0220 TUREAUD HALL    CI-WRITTEN&SPOK  STICKLE W
 (F)    48  BIOL 4160         2  VERTEBRATE PHYSIOLOG   3.0  1040-1200    T TH  0229 TUREAUD HALL                     GALVEZ F
 (F)    49  BIOL 4160         1  VERTEBRATE PHYSIOLOG   3.0  1210-0130    T TH  0229 TUREAUD HALL                     GALVEZ F
@@ -159,6 +193,7 @@
 (F)    15  BIOL 4161 LAB     2  VERTEBRATE PHYL LAB    1.0   940-1230     W    0012 LIFE SCIENCES                    BOSWELL L
 (F)    15  BIOL 4161 LAB     3  VERTEBRATE PHYL LAB    1.0   140-0430     W    0012 LIFE SCIENCES                    BORCAR A
 (F)     9  BIOL 4163         1  INDUSTRIAL MICROBIOL   4.0   140-0230   M W    0134 J C MILLER                       JANES M
+                     LAB                                     310-0500   M W                                          JANES M
 (F)    50  BIOL 4165         1  ENVIRON ADAPTATIONS    3.0  1210-0130    T TH  0228 TUREAUD HALL                     SIEBENALLER J
   1    49  BIOL 4177         1  NEUROBIOLOGY           3.0  1040-1200    T TH  0228 TUREAUD HALL                     GLEASON E
  39    51  BIOL 4190         1  INTR VIROLOGY          3.0   740-0900    T TH  0206 TUREAUD HALL                     LU R
@@ -177,8 +212,11 @@
   1    11  BIOL 4254 LAB     8  PRINC OF ECOLOGY LAB   1.0   810-1100       F  0006 AG ADMIN BLDG                    BHATTARAI G
   4     4  BIOL 4308         1  PLANTS COASTL ENVIR    3.0   310-0430    T TH  1280 ENER,COAST,& EN                  MENDELSSOHN I
 (F)    15  BIOL 4385         1  BIOCHEMISTRY LAB       3.0   140-0230       F  0206 WILLIAMS                         LEE Y
+                     LAB                                     140-0430   M W    0501 LIFE SCIENCES                    LEE Y
   2    10  BIOL 4385         2  BIOCHEMISTRY LAB       3.0   140-0230       F  0206 WILLIAMS                         LEE Y
+                     LAB                                     140-0430    T TH  0501 LIFE SCIENCES                    HAWKINS E
   2    10  BIOL 4385         3  BIOCHEMISTRY LAB       3.0   140-0230       F  0206 WILLIAMS                         LEE Y
+                     LAB                                     910-1200    T TH  0501 LIFE SCIENCES                    HAWKINS E
   9    41  BIOL 4450         1  MOLEC REG CELL FUNCT   3.0   910-1030    T TH  0229 TUREAUD HALL                     DIMARIO P
  14     7  BIOL 4800         4  SEL TOP IN BIOL SCIE   2-4   310-0600   M      0116 PRESCOTT        PERMIS OF DEPT   CHRISTNER B
 (F)    15  BIOL 4800         1  CONSERVATION BIOLOGY   2-4  1040-1200    T TH  0215 WILLIAMS        PERMIS OF DEPT   HARMS K
@@ -186,8 +224,10 @@
 (F)    30  BIOL 4800         3  BI CHEM OF AGING       2-4   310-0600    T     0226 TUREAUD HALL    CI-WRITTEN&SPOK  LAINE R
   6     4  BIOL 7080         1  POPULATION ECOLOGY     3.0   140-0300    T TH                                        CRONIN J
 (F)    13  BIOL 7111         1  SYSTEMATIC BIOLOGY     4.0   310-0500    T TH  0102 AUDUBON                          SHELDON F
+                     LAB                                    TBA                                                      SHELDON F
   8     7  BIOL 7162         1  MLCLR BIO OF MICRORG   3.0   140-0300    T TH                                        DING H
   5     7  BIOL 7253         1  MOLECULAR POPUL GENE   4.0   140-0300    T TH  0208 WILLIAMS                         FOLTZ D
+                     LAB                                     140-0430       F  0205 COATES                           FOLTZ D
   5     7  BIOL 7290         1  BCH/CHEM CMPLX CARBO   3.0   310-0600      TH                                        LAINE R
   1    19  BIOL 7800         2  MECH EUKARYOTIC GENE   2-4  1210-0130    T TH  0127 TUREAUD HALL                     DONZE D
   5     5  BIOL 7800         5  MANAGING GLOBAL CHAN   2-4   210-0500     W                                          KING G

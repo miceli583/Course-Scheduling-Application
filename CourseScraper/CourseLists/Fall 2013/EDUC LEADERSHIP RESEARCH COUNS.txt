@@ -11,9 +11,13 @@
  12    10  ELRC 4507         2  COMPUTER TECH EDUC     3.0   430-0720N   T     0118 PEABODY                          HEROMAN D
   1    19  ELRC 4602         1  INTRO TO COUNSELING    3.0   430-0720N  M      0120 PEABODY                          CHOATE L
 (F)    20  ELRC 7006         1  EDUC STATISTICS        4.0   430-0720N   T     0123 ALLEN                            KENNEDY E
+                     LAB                                     130-0320    T     0205 COATES                           KENNEDY E
 (F)    17  ELRC 7006         2  EDUC STATISTICS        4.0   430-0720N   T     0123 ALLEN                            KENNEDY E
+                     LAB                                     730-0920N   T     0205 COATES                           KENNEDY E
   8    17  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   430-0720N    W    0123 ALLEN                            KENNEDY E
+                     LAB                                     730-0920N    W    0230EMIDDLETON                        KENNEDY E
 (F)    15  ELRC 7243         2  QUAL METH EDUC RESCH   4.0   430-0720N   T     0214 PEABODY                          MACGREGOR S
+                     LAB                                    TBA                                                      MACGREGOR S
   2     8  ELRC 7270         1  MIXED MTHDS RES EDUC   3.0   430-0720N     TH  0214 PEABODY                          MACGREGOR S
 (F)    33  ELRC 7299         1  INTRO ED SCHOLARSHIP   3.0   430-0720N  M      0129 ALLEN           PERMIS OF INST   MATHEWS F
 (F)    21  ELRC 7331         1  COUNSEL THEORY/TECHN   3.0   430-0720N    W    0120 PEABODY                          GINTNER G
@@ -23,6 +27,7 @@
 (F)    22  ELRC 7391         1  COUN ACROSS LIFESPAN   3.0   430-0720N   T     0120 PEABODY                          CURRY J
   1    22  ELRC 7393         1  MULTICULT COUNSLNG     3.0   430-0720N   T     0104 PEABODY                          CSASZAR I
 (H)    13  ELRC 7397         1  SP TOPICS COUNSELING   3.0   430-0720N  M      0104 PEABODY                          GINTNER G
+                     LAB                                    TBA                                                      GINTNER G
  19     6  ELRC 7401         1  ADMIN OF SCH PERS      3.0   430-0720N    W    0214 PEABODY                          TAYLOR D
  14     6  ELRC 7423 SEM     1  ADV SCH IMPR/ACT RS    3.0   500-0750N  M      0132 ALLEN                            TAYLOR D
   1    14  ELRC 7431 CLI     1  BST PRCT SCH LEAD II   6.0   530-0820N   T     0121 ALLEN                            BICKMORE D

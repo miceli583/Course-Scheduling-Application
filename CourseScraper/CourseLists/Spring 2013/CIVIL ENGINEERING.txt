@@ -16,7 +16,9 @@
   2    23  CE   3410 LAB     4  MECHNCS OF MATLS LAB   1.0   530-0820N    W                                          YAGHOOBI M
  18    57  CE   3415         1  STRUCTRL ANALYSIS I    3.0  1030-1150    T TH  0120 TUREAUD HALL                     REED K
   1    24  CE   3500         2  PLANE SURV & MEASURE   3.0  1130-1220   M W    2146 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     130-0420   M      2146 PATRICK TAYLOR                   MUGNIER C
 (F)    25  CE   3500         3  PLANE SURV & MEASURE   3.0  1130-1220   M W    2146 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     130-0420     W    2146 PATRICK TAYLOR                   MUGNIER C
 (F)    60  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1030-1150    T TH  0211 TUREAUD HALL                     WOLSHON P
 (F)    20  CE   3700 LAB     6  ENGINEERING MAT LAB    1.0   300-0550   M      1110 PATRICK TAYLOR                   MAHDI M
 (F)    20  CE   3700 LAB     3  ENGINEERING MAT LAB    1.0   100-0350     W    0215 TUREAUD HALL                     COOPER S
@@ -30,10 +32,14 @@
  47    13  CE   4420         2  PPLE PRESTR CONCRETE   3.0   300-0420    T TH  2148 PATRICK TAYLOR                   CAI C
  32    18  CE   4450         1  FINITE ELEMENT METHD   3.0  1030-1120   M W F  1116 PATRICK TAYLOR                   MOORTHY S
  31    29  CE   4460         1  DESIGN OF BRIDGES      3.0   430-0520N   T TH  2412 PATRICK TAYLOR                   FOSSIER P
+                     LAB                                     530-0720N   T TH  2412 PATRICK TAYLOR                   FOSSIER P
  13    27  CE   4530         2  CONTRL SURVEYING W/    3.0   530-0720N  M      2150 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     730-1020N  M      2150 PATRICK TAYLOR                   MUGNIER C
  28    22  CE   4550         1  BOUNDARY SURVEYING     3.0   500-0650N   T     1111 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     700-0950N   T                                           MUGNIER C
  28    12  CE   4650         1  INT ASPHLT MIX DESN    3.0   900-1020    T TH  0108 TUREAUD HALL                     MOHAMMAD L
   7    53  CE   4750         1  PRF ISS CONC DESN CE   2.0   830-1020   M      2412 PATRICK TAYLOR  CI-SPOKEN&VISUA  WILLIAMS M
+                     LAB                                     830-1020     W    2412 PATRICK TAYLOR                   WILLIAMS M
  20    10  CE   7100         1  THY/OPR WWTR TREAT     3.0   900-1020    T TH  0125 TUREAUD HALL                     RUSCH K
  20    10  CE   7110         1  OPR/PRO SANI ENGR II   3.0  1030-1150    T TH  0210 TUREAUD HALL                     ADRIAN D
  24     6  CE   7300         1  ADV GEOTECHN ENGR I    3.0   130-0250    T TH  0119 TUREAUD HALL                     ZHANG G

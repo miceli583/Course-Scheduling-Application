@@ -10,13 +10,19 @@
 (F)    14  LA   3001 LAB     1  LANDSCAPE DESN III     6.0   130-0520   M W F  0226 DESIGN BUILDING CI-SPOKEN&VISUA  MARSHALL C
   1    12  LA   3001 LAB     3  LANDSCAPE DESN III     6.0   130-0520   M W F  0228 DESIGN BUILDING CI-SPOKEN&VISUA  MARSHALL C
 (F)    18  LA   3301         1  LAND ARCH TECH II      3.0   130-0220    T TH  0324 DESIGN BUILDING                  SHARKY B
+                     LAB                                     230-0420    T TH  0324 DESIGN BUILDING                  SHARKY B
   1    25  LA   3301         2  LAND ARCH TECH II      3.0   130-0220    T TH  0301 DESIGN BUILDING                  ABBEY D
+                     LAB                                     230-0420    T TH  0301 DESIGN BUILDING                  ABBEY D
   1    21  LA   3401         1  PLANT MATERIALS I      3.0   900-0950    T TH  0301 DESIGN BUILDING                  ABBEY D
+                     LAB                                    1000-1150    T TH  0301 DESIGN BUILDING                  ABBEY D
   7    17  LA   3401         2  PLANT MATERIALS I      3.0   900-0950    T TH  0301 DESIGN BUILDING                  FRYLING C
+                     LAB                                    1000-1150    T TH  0301 DESIGN BUILDING                  FRYLING C
 (F)    10  LA   4001 LAB     1  LANDSCAPE DESIGN V     6.0   130-0520   M W F  0304 DESIGN BUILDING CI-WRITTEN&VISU  SHARKY B
 (F)    10  LA   4001 LAB     2  LANDSCAPE DESIGN V     6.0   130-0520   M W F  0230 DESIGN BUILDING CI-WRITTEN&SPOK  DOUGLAS W
  22    28  LA   4201         1  PLAN THEORY & MTHDS    3.0   830-0920    T TH  0313 DESIGN BUILDING                  CONRAD M
+                     LAB                                     930-1020    T TH                                        CONRAD M
   1    19  LA   4301         2  LANDSCAPE TECH IV      3.0   930-1220     W    0209 DESIGN BUILDING                  ABBEY D
+                     LAB                                     930-1220     W    0209 DESIGN BUILDING                  ABBEY D
 (F)     2  LA   4502 RES     1  IND STUDY IN L A       3.0  TBA                                                      CARNEY J
 (F)     2  LA   4502 RES     2  IND STUDY IN L A       3.0  TBA                                                      DYKEMA K
 (F)     2  LA   4502 RES     3  IND STUDY IN L A       3.0  TBA                                                      MICHAELS K

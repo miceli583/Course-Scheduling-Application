@@ -3,6 +3,7 @@
 195   160  GEOL 1001         1  GEN GEOL PHYSICAL      3.0   300-0420    T TH  0130 HOWE RUSSELL E                   ELLWOOD B
 208   147  GEOL 1003         1  GEN GEOL HISTORICAL    3.0   130-0250    T TH  0130 HOWE RUSSELL E                   WALIMUNI DEVA
   8     9  GEOL 1202         1  PRIN GEOLOGY II        4.0   300-0550    T     E207 HOWE RUSSELL E                   BART P
+                     LAB                                     300-0550      TH  E207 HOWE RUSSELL E                   BART P
 (F)    20  GEOL 1601 LAB     1  PHYSICAL GEOL LAB      1.0  1030-0120    T     E213 HOWE RUSSELL E                   LUTHER A
   2    18  GEOL 1601 LAB     2  PHYSICAL GEOL LAB      1.0   130-0420    T     E213 HOWE RUSSELL E                   LUTHER A
 (F)    20  GEOL 1601 LAB     5  PHYSICAL GEOL LAB      1.0   430-0720N   T     E213 HOWE RUSSELL E                   LUTHER A
@@ -11,8 +12,11 @@
   8     9  GEOL 1602 LAB     2  HISTORICAL GEOL LAB    1.0   730-1020    T     E208 HOWE RUSSELL E                   LUTHER A
   5    12  GEOL 1602 LAB     1  HISTORICAL GEOL LAB    1.0  1030-0120    T     E208 HOWE RUSSELL E                   LUTHER A
   8    12  GEOL 2081         1  MINERALOGY             4.0  1030-1150    T TH  E207 HOWE RUSSELL E                   DUTROW B
+                     LAB                                     130-0250    T TH  E207 HOWE RUSSELL E                   DUTROW B
   6    11  GEOL 3061         1  EVOLUTION BIOSPHERE    4.0  1200-0120    T TH  0360 HOWE RUSSELL E                   HERRMANN A
+                     LAB                                     300-0550    T     0360 HOWE RUSSELL E                   HERRMANN A
  15    10  GEOL 3071         1  STRUCTURAL GEOL        4.0   830-1020   M      E207 HOWE RUSSELL E                   FORTE A
+                     LAB                                     830-1120     W    E207 HOWE RUSSELL E                   FORTE A
  30   118  GEOL 3200         1  EARTH MATERIALS PETE   3.0   900-1020    T TH  E137 HOWE RUSSELL E                   ELLWOOD B
   9     1  GEOL 3909 RES     1  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   BENTLEY S
   4     1  GEOL 3909 RES     2  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   HENRY D
@@ -30,6 +34,7 @@
   4     1  GEOL 3999 RES     7  UNDERGRADUATE THESIS   3.0  TBA                                     PERMIS OF DEPT
 (F)    12  GEOL 4002         1  TECTONICS OF SW US     3.0   430-0720N  M      0125 TUREAUD HALL                     LUTHER A
   5    15  GEOL 4051         1  PROG&DATA ANALYSIS     3.0   830-1020    T     0347 HOWE RUSSELL E                   WANG J
+                     LAB                                     900-0950      TH  0347 HOWE RUSSELL E                   WANG J
  21     9  GEOL 4131         1  BASIN ANALYSIS         3.0  1100-0150   M      E207 HOWE RUSSELL E  CI-SPOKEN&VISUA  CLIFT P
   8     7  GEOL 7900         4  MICROANALYSIS          3.0   230-0420   M      E202 HOWE RUSSELL E                   HENRY D
   4    13  GEOL 7900         3  APPLIED GEOPHYSICS     3.0  1030-1150    T TH  0347 HOWE RUSSELL E                   LUTTRELL K

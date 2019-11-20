@@ -4,10 +4,15 @@
   3   247  PSYC 2000         5  INTR TO PSYC           3.0  1210-0130    T TH  0102 WILLIAMS                         BRIGANTI A
  10   314  PSYC 2000         4  INTR TO PSYC           3.0   310-0430    T TH  0100 DODSON                           VINCI C
 (F)    26  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          VAN LAMSWEERD
+                     LAB                                     240-0430   M      0232 MIDDLETON                        VAN LAMSWEERD
   7    18  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          VAN LAMSWEERD
+                     LAB                                     840-1030    T     0232 MIDDLETON                        VAN LAMSWEERD
 (F)    28  PSYC 2017         3  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          VAN LAMSWEERD
+                     LAB                                     840-1030     W    0232 MIDDLETON                        VAN LAMSWEERD
  19     6  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          VAN LAMSWEERD
+                     LAB                                     840-1030      TH  0232 MIDDLETON                        VAN LAMSWEERD
   2    25  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          VAN LAMSWEERD
+                     LAB                                     310-0500      TH  0232 MIDDLETON                        VAN LAMSWEERD
  46    44  PSYC 2040         2  SOCIAL PSYCHOLOGY      3.0   140-0230   M W F  0145 COATES                           KARAM T
  59    51  PSYC 2040         1  SOCIAL PSYCHOLOGY      3.0   610-0900N     TH  0152 COATES                           MARTIN S
  37    63  PSYC 2060         2  EDUCATIONAL PSYC       3.0   610-0900N  M      0009 LOCKETT                          GUSTIN Q

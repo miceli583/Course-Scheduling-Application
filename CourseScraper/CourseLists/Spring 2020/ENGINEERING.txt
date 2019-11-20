@@ -1,5 +1,6 @@
  16     4  ENGR 4100         1  INDUSTRIAL ROBOTICS    3.0   130-0320    T     0125 TUREAUD HALL                     GILBERT H
- 99        ENGR 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      AGHAZADEH F
+                     LAB                                     130-0420      TH                                        GILBERT H
+ 98     1  ENGR 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      AGHAZADEH F
  99        ENGR 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DEVIREDDY R
  99        ENGR 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      SARKER B
  98     1  ENGR 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      KNAPP G
@@ -7,7 +8,7 @@
  99        ENGR 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      WANG W
  99        ENGR 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      ZHU Y
  99        ENGR 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      FRIEDLAND C
- 98     1  ENGR 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      HASSAN M
+ 97     2  ENGR 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      HASSAN M
  99        ENGR 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      BOLDOR D
  99        ENGR 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SABLIOV C
  99        ENGR 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      NAHMENS I
@@ -21,7 +22,7 @@
  99        ENGR 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      JEON H
  99        ENGR 9000 RES    21  DISSERTATION RES       1-12 TBA                                                      MARTIN E
  99        ENGR 9000 RES    22  DISSERTATION RES       1-12 TBA                                                      KARKI B
- 99        ENGR 9000 RES    23  DISSERTATION RES       1-12 TBA                                                      LEE Y
+ 98     1  ENGR 9000 RES    23  DISSERTATION RES       1-12 TBA                                                      LEE Y
  99        ENGR 9000 RES    24  DISSERTATION RES       1-12 TBA                                                      GARTIA M
  99        ENGR 9000 RES    25  DISSERTATION RES       1-12 TBA                                                      KWON Y
  99        ENGR 9000 RES    26  DISSERTATION RES       1-12 TBA                                                      JAFARI A

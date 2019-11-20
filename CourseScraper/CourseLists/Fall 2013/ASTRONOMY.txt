@@ -8,5 +8,6 @@
 (F)    16  ASTR 1109 LAB     1  ASTRONOMY LAB          1.0   700-0850N    W    0365 NICHOLSON                        MONTIEL E
  11     9  ASTR 1109 LAB     3  ASTRONOMY LAB          1.0   700-0850N     TH  0365 NICHOLSON                        MONTIEL E
   1    11  ASTR 4261         1  MOD OBSERVATIONAL T    3.0   130-0220   M      0262 NICHOLSON                        SCHAEFER B
+                     LAB                                     730-1020N  M W    0262 NICHOLSON                        SCHAEFER B
  22     3  ASTR 7741         1  STELLAR ASTROPHYSICS   3.0  1130-1220   M W F  0118 NICHOLSON                        FRANK J
  18     2  ASTR 7777 SEM     1  SEM: ASTR & ASTROPHY   1-6  1200-1250    T                                           SCHAEFER B

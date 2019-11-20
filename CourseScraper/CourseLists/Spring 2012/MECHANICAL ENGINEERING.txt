@@ -1,27 +1,47 @@
  34    66  ME   2212         1  INTRO MECH ENGR DESN   2.0   310-0400    T     0204 TUREAUD HALL    CI-WRITTEN&VISU  WOLDESENBET E
+                     LAB                                     310-0500      TH  0204 TUREAUD HALL                     WOLDESENBET E
  12    68  ME   2334         1  THERMODYNAMICS         4.0   240-0330   M   F  0105 TUREAUD HALL                     CHARALAMPOPOU
  30    50  ME   2723         1  MATERIALS OF ENGR FO   3.0  1210-0130    T TH  2169 PATRICK TAYLOR                   RAMAN A
  12    63  ME   2733         2  MATERIALS OF ENGR      3.0   140-0300    T TH  2162 PATRICK TAYLOR                   MOLDOVAN D
   7   133  ME   3133         1  DYNAMICS               3.0  1240-0130   M W F  1119 PATRICK TAYLOR                   WAGGENSPACK W
+                     LAB                                     140-0230   M W F  1119 PATRICK TAYLOR                   WAGGENSPACK W
  74    46  ME   3333         1  THERMODYNAMICS         3.0   910-1030    T TH  0139 ALLEN                            WONG H
 (F)    15  ME   3603         1  FUND OF INSTRUMENTN    3.0   940-1030   M W    1119 PATRICK TAYLOR                   DE QUEIROZ M
+                     LAB                                     140-0430    T                                           DE QUEIROZ M
 (F)    13  ME   3603         2  FUND OF INSTRUMENTN    3.0   940-1030   M W    1119 PATRICK TAYLOR                   DE QUEIROZ M
+                     LAB                                     140-0430      TH                                        DE QUEIROZ M
 (F)    14  ME   3603         3  FUND OF INSTRUMENTN    3.0   940-1030   M W    1119 PATRICK TAYLOR                   DE QUEIROZ M
+                     LAB                                     440-0730N  M                                            DE QUEIROZ M
 (F)    15  ME   3603         4  FUND OF INSTRUMENTN    3.0   940-1030   M W    1119 PATRICK TAYLOR                   DE QUEIROZ M
+                     LAB                                     440-0730N   T                                           DE QUEIROZ M
 (F)    16  ME   3603         5  FUND OF INSTRUMENTN    3.0   940-1030   M W    1119 PATRICK TAYLOR                   DE QUEIROZ M
+                     LAB                                     440-0730N     TH                                        DE QUEIROZ M
 (F)    15  ME   3603         6  FUND OF INSTRUMENTN    3.0   940-1030   M W    1119 PATRICK TAYLOR                   DE QUEIROZ M
+                     LAB                                    1040-0130    T                                           DE QUEIROZ M
 (F)    14  ME   3603         9  FUND OF INSTRUMENTN    3.0   940-1030   M W    1119 PATRICK TAYLOR                   DE QUEIROZ M
+                     LAB                                    1040-0130      TH                                        DE QUEIROZ M
 (F)    15  ME   3603        12  FUND OF INSTRUMENTN    3.0   940-1030   M W    1119 PATRICK TAYLOR                   DE QUEIROZ M
+                     LAB                                     740-1030N     TH                                        DE QUEIROZ M
 (F)    12  ME   3603        13  FUND OF INSTRUMENTN    3.0   940-1030   M W    1119 PATRICK TAYLOR                   DE QUEIROZ M
+                     LAB                                     440-0730N    W                                          DE QUEIROZ M
 (F)     5  ME   3633         1  MANFUCT PROCESS & ME   3.0  1240-0130   M W    2162 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     140-0430   M                                            SINCLAIR G
 (F)     5  ME   3633         2  MANFUCT PROCESS & ME   3.0  1240-0130   M W    2162 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     440-0730N  M                                            SINCLAIR G
 (F)     5  ME   3633         3  MANFUCT PROCESS & ME   3.0  1240-0130   M W    2162 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     140-0430    T                                           SINCLAIR G
 (F)     5  ME   3633         4  MANFUCT PROCESS & ME   3.0  1240-0130   M W    2162 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     440-0730N   T                                           SINCLAIR G
   1     4  ME   3633         5  MANFUCT PROCESS & ME   3.0  1240-0130   M W    2162 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     140-0430     W                                          SINCLAIR G
 (F)     6  ME   3633         6  MANFUCT PROCESS & ME   3.0  1240-0130   M W    2162 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     440-0730N    W                                          SINCLAIR G
 (F)     6  ME   3633         7  MANFUCT PROCESS & ME   3.0  1240-0130   M W    2162 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     140-0430      TH                                        SINCLAIR G
 (F)     5  ME   3633         8  MANFUCT PROCESS & ME   3.0  1240-0130   M W    2162 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     440-0730N     TH                                        SINCLAIR G
 (F)     5  ME   3633         9  MANFUCT PROCESS & ME   3.0  1240-0130   M W    2162 PATRICK TAYLOR                   SINCLAIR G
+                     LAB                                     140-0430       F                                        SINCLAIR G
 (F)    11  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0   140-0430   M      1220 PATRICK TAYLOR                   WANG Y
 (F)    11  ME   3701 LAB     2  MATRLS OF ENGRNG LAB   1.0   440-0730N  M      1220 PATRICK TAYLOR                   WANG Y
 (F)    12  ME   3701 LAB     3  MATRLS OF ENGRNG LAB   1.0   140-0430    T     1220 PATRICK TAYLOR                   WANG Y
@@ -56,6 +76,7 @@
  18     7  ME   7273         1  ADV STRESS ANALY-ME    3.0   310-0430    T TH  1118 PATRICK TAYLOR                   SINCLAIR G
  17    13  ME   7443         1  ADV HEAT TRANSFER II   3.0  1040-1200    T TH  3142 PATRICK TAYLOR                   DEVIREDDY R
 (F)    16  ME   7723         1  MAT CHAR-ELECT BEAM    3.0  1210-0100    T TH  0117 TUREAUD HALL                     WANG Y
+                     LAB                                    1240-0330       F  0117 TUREAUD HALL                     WANG Y
  25     5  ME   7743         1  DEF DIF TRNSF SOLIDS   3.0   140-0300    T TH  3131 PATRICK TAYLOR                   MENG W
  12     8  ME   7843         1  VISCOUS FLUID FLOW     3.0   440-0600N   T TH  3140 PATRICK TAYLOR                   WONG H
  20   100  ME   7901 SEM     1  SEMINAR                1.0   340-0430       F  1119 PATRICK TAYLOR                   WANG Y

@@ -46,8 +46,11 @@
   1     4  MUS  2154 RES     2  SECONDARY JAZZ STUDY   2-3   400-0450    T                          PERMIS OF DEPT   SHAW B
   5        MUS  2154 RES     3  SECONDARY JAZZ STUDY   2-3  TBA                                     PERMIS OF DEPT   DELONY W
  14    11  MUS  2300         1  INSTR & VOCAL TECHN    1-2   930-1020   M W    0247 M&DA BLDG       MAJORS ONLY      ISBELL D
+                     LAB                                     930-1020       F  0247 M&DA BLDG
  16     9  MUS  2300         3  INSTR & VOCAL TECHN    1-2   900-1020    T TH  0114 SCHOOL OF MUSIC MAJORS ONLY      BYO J
+                     LAB                                    TBA
   9    16  MUS  2300         2  INSTR & VOCAL TECHN    1-2  1030-1150    T TH  0247 M&DA BLDG       MAJORS ONLY      MOORE H
+                     LAB                                    TBA
  10    15  MUS  2400         1  JAZZ FUNDMNTL TCHRS    1.0   800-0850    T TH  0118 SCHOOL OF MUSIC MAJORS ONLY      DELONY W
  16     9  MUS  2621 LAB     1  AURAL SKILLS I         1.0   800-0850    T TH  0221 M&DA BLDG                        DROZZINA A
  11    49  MUS  2622         1  MUSIC THEORY II        3.0  1030-1120   M W F  0115 SCHOOL OF MUSIC                  SHANAHAN D
@@ -56,8 +59,11 @@
  15    10  MUS  2623 LAB     4  AURAL SKILLS II        1.0   900-0950    T TH  0221 M&DA BLDG                        ROSADO A
  51     9  MUS  2632         1  HNRS MUS THEORY II     3.0  1030-1120   M W F  0115 SCHOOL OF MUSIC                  SHANAHAN D
   2    13  MUS  2700         1  INTRO MUS TECH         3.0   830-0920   M   F  0115 SCHOOL OF MUSIC                  BERDAHL E
+                     LAB                                    1030-1220      TH  0248 M&DA BLDG                        MITCHUSSON C
   8     7  MUS  2700         2  INTRO MUS TECH         3.0   830-0920   M   F  0115 SCHOOL OF MUSIC                  BERDAHL E
+                     LAB                                    1230-0220      TH  0248 M&DA BLDG
  10     5  MUS  2700         3  INTRO MUS TECH         3.0   830-0920   M   F  0115 SCHOOL OF MUSIC                  BERDAHL E
+                     LAB                                     330-0520     W    0248 M&DA BLDG
 (F)    20  MUS  2745         1  INTRO COMPUTER MUSIC   3.0   930-1020   M W F  0248 M&DA BLDG                        SHEFFIELD E
  15    10  MUS  3130 RES     1  PRIMARY VOICE          2-3   230-0320    T     0100 SCHOOL OF MUSIC MAJORS ONLY      HENDRICKSON B
  16     9  MUS  3130 RES     2  PRIMARY VOICE          2-3   230-0320    T     0114 SCHOOL OF MUSIC MAJORS ONLY      MOON S
@@ -107,9 +113,12 @@
  23     7  MUS  3632         1  HNRS MUS THEORY IV     3.0  1130-1220   M W F  0115 SCHOOL OF MUSIC                  PECK R
  14    31  MUS  3710         1  OVERVIEW WEST MUS HI   3.0   830-0920   M W F  0245 M&DA BLDG                        BOUTWELL B
  13     7  MUS  3750         1  CHORAL LIT & COND II   1-2   930-1020   M W F  0118 SCHOOL OF MUSIC MAJORS ONLY      DAVIS N
+                     LAB                                    TBA
  20        MUS  3757         1  ORGAN LIT HIST DES     3.0  TBA                                     PERMIS OF DEPT   SPILLMAN H
   8    12  MUS  3772         1  INSTR CONDUCTING II    2.0   900-1020    T TH  0001 BAND HALL                        LLINAS D
+                     LAB                                    TBA
  17     3  MUS  3780         1  INTRO STAGE TECH       2.0  1030-1150    T TH  0115 SCHOOL OF MUSIC                  HARRIS R
+                     LAB                                    TBA
  14     6  MUS  3997 RES     3  DIRECTED STUDIES MUS   1-3  1030-1120       F  0245 M&DA BLDG       PERMIS OF DEPT   BOROWITZ M
  20        MUS  3997 RES     1  DIRECTED STUDIES MUS   1-3  TBA                                     PERMIS OF DEPT   PIKE P
  19     1  MUS  3997 RES     2  DIRECTED STUDIES MUS   1-3  TBA                                     PERMIS OF DEPT   MCDONOUGH J
@@ -177,6 +186,7 @@
  10     5  MUS  4799 RES     4  COACHING IN APPL MUS   2.0  TBA                                                      HARRIS T
  15        MUS  4799 RES     5  COACHING IN APPL MUS   2.0  TBA                                                      SIMS W
  13     7  MUS  7020         1  ADV ITAL DICT SINGER   1.0  1030-1120   M W    0245 M&DA BLDG                        MOON S
+                     LAB                                    TBA
  24     1  MUS  7030 RES     1  GRADUATE VOICE         2-6   230-0320    T                          MAJORS ONLY      HENDRICKSON B
  22     3  MUS  7030 RES     2  GRADUATE VOICE         2-6   230-0320    T                          MAJORS ONLY      MOON S
  19     6  MUS  7030 RES     3  GRADUATE VOICE         2-6   230-0320    T                          MAJORS ONLY      SIMS W

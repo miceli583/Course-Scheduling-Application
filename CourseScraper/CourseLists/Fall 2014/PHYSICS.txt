@@ -159,10 +159,12 @@
   1    11  PHYS 2207 LAB     2  MODERN PHYSICS LAB     1.0   130-0420     W    0007 NICHOLSON                        RUPNIK D
 (F)    25  PHYS 2231         3  ELEC & MAGNETISM       3.0   830-0920   M W F  0118 NICHOLSON                        MATTHEWS J
   3    22  PHYS 2411         1  COMPUTATIONAL SCI I    3.0  1130-1220   M   F  0118 NICHOLSON                        LAUNEY K
+                     LAB                                    1130-0120     W    0365 NICHOLSON                        LAUNEY K
  15    20  PHYS 2995 SEM     3  UNDERGRAD SEMINAR      1.0   600-0650N  M                           PERMIS OF INST   CHERRY M
   2    33  PHYS 2995 SEM     2  UNDERGRAD SEMINAR      1.0   930-1020       F                       PERMIS OF INST   BROWNE D
  14     6  PHYS 2995 SEM     4  UNDERGRAD SEMINAR      1.0  TBA                                     PERMIS OF INST   BROWNE D
  18     2  PHYS 4005         1  RESEARCH METHODS       3.0  1030-1220   M W    0205 PRESCOTT                         JOHNSON W
+                     LAB                                    TBA                                                      STUVER A
   9    16  PHYS 4112         1  INTERM MATH PHYSICS    3.0   130-0250    T TH  0118 NICHOLSON                        BEAIRD R
   6    19  PHYS 4123         1  INTERM MECHANICS       3.0  1200-0120    T TH  0118 NICHOLSON                        TZANOV M
  15     5  PHYS 4142         1  INTR QUANTUM MECH      3.0  1030-1150    T TH  0118 NICHOLSON                        SINGH P

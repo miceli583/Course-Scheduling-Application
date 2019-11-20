@@ -1,5 +1,7 @@
 (F)    50  ME   2212         1  INTRO MECH ENGR DESN   2.0   300-0350    T     0016 LOCKETT         CI-WRITTEN&SPOK  WAGGENSPACK W
+                     LAB                                     300-0450      TH                                        WAGGENSPACK W
   1    49  ME   2212         2  INTRO MECH ENGR DESN   2.0   300-0350    T     0016 LOCKETT         CI-WRITTEN&SPOK  WAGGENSPACK W
+                     LAB                                     500-0650N     TH                                        WAGGENSPACK W
   5   135  ME   2334         1  THERMODYNAMICS         4.0   730-0820   MTWTF  0002 LOCKETT                          GUO S
 (F)   143  ME   2334         2  THERMODYNAMICS         4.0   730-0820   MTWTF  0010 LOCKETT                          CHARALAMPOPOU
  19    29  ME   2543         3  SIM METHD FOR ME       3.0   730-0850    T TH  1302BPATRICK TAYLOR                   RAMACHANDRAN
@@ -8,36 +10,65 @@
   3   139  ME   2723         1  MATERIALS OF ENGR FO   3.0  1200-0120    T TH  0009 LOCKETT                          LU F
   5   145  ME   2733         1  MATERIALS OF ENGR      3.0   430-0550N   T TH  0015 LOCKETT                          MOLDOVAN D
  55   125  ME   3133         1  DYNAMICS               3.0  1230-0120   M W F  0015 LOCKETT                          WANG W
+                     LAB                                     130-0220   M W F  0015 LOCKETT                          WANG W
 (F)    95  ME   3333         1  THERMODYNAMICS         3.0   900-1020    T TH  E137 HOWE RUSSELL E                   WALKER E
 (F)    42  ME   3333         2  THERMODYNAMICS         3.0   900-1020    T TH  2218 PATRICK TAYLOR                   PITALO G
 (F)    14  ME   3603         1  FUND OF INSTRUMENTN    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                     130-0420   M      2209 PATRICK TAYLOR                   SCHOEGL I
 (F)    16  ME   3603         2  FUND OF INSTRUMENTN    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                     130-0420    T     2209 PATRICK TAYLOR                   SCHOEGL I
 (F)    15  ME   3603         3  FUND OF INSTRUMENTN    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                     130-0420     W    2209 PATRICK TAYLOR                   SCHOEGL I
 (F)    16  ME   3603         4  FUND OF INSTRUMENTN    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                     130-0420      TH  2209 PATRICK TAYLOR                   SCHOEGL I
 (H)        ME   3603         5  FUND OF INSTRUMENTN    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                     430-0720N  M      2209 PATRICK TAYLOR                   SCHOEGL I
 (F)    13  ME   3603         6  FUND OF INSTRUMENTN    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                     530-0820N   T     2209 PATRICK TAYLOR                   SCHOEGL I
 (F)    13  ME   3603         7  FUND OF INSTRUMENTN    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                     430-0720N    W    2209 PATRICK TAYLOR                   SCHOEGL I
 (F)    12  ME   3603         8  FUND OF INSTRUMENTN    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                     530-0820N     TH  2209 PATRICK TAYLOR                   SCHOEGL I
   1    11  ME   3603         9  FUND OF INSTRUMENTN    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                    1030-0120    T     2209 PATRICK TAYLOR                   SCHOEGL I
   1    11  ME   3603        10  FUND OF INSTRUMENTN    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                    1030-0120      TH  2209 PATRICK TAYLOR                   SCHOEGL I
   9     3  ME   3613         5  HNRS:FUND OF INSTRM    3.0   900-1020    T TH  0143 COATES                           SCHOEGL I
+                     LAB                                     430-0720N  M                                            SCHOEGL I
 (F)     6  ME   3633         1  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     730-1020   M                                            WAHAB M
 (F)     5  ME   3633         2  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     730-1020    T                                           WAHAB M
 (F)     5  ME   3633         3  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     730-1020     W                                          WAHAB M
 (F)     5  ME   3633         4  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     730-1020      TH                                        WAHAB M
 (F)     6  ME   3633         5  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     730-1020       F                                        WAHAB M
 (F)     6  ME   3633         6  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                    1030-0120    T                                           WAHAB M
 (F)     6  ME   3633         7  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                    1030-0120      TH                                        WAHAB M
 (F)     6  ME   3633         8  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                    1030-0120       F                                        WAHAB M
 (F)     6  ME   3633         9  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     130-0420   M                                            WAHAB M
 (F)     5  ME   3633        10  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     130-0420    T                                           WAHAB M
 (F)     6  ME   3633        11  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     130-0420     W                                          WAHAB M
 (F)     6  ME   3633        12  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     130-0420      TH
 (F)     6  ME   3633        13  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     130-0420       F                                        WAHAB M
 (F)     6  ME   3633        14  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     430-0720N  M                                            WAHAB M
 (F)     6  ME   3633        15  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     430-0720N   T                                           WAHAB M
 (F)     6  ME   3633        16  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     430-0720N    W                                          WAHAB M
 (F)     6  ME   3633        17  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0009 LOCKETT                          WAHAB M
+                     LAB                                     430-0720N     TH                                        WAHAB M
   1    11  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0   130-0420   M      1220 PATRICK TAYLOR                   MOLDOVAN D
 (F)    13  ME   3701 LAB     5  MATRLS OF ENGRNG LAB   1.0   430-0720N  M      1220 PATRICK TAYLOR                   MOLDOVAN D
   1    11  ME   3701 LAB     2  MATRLS OF ENGRNG LAB   1.0   130-0420    T     1220 PATRICK TAYLOR                   MOLDOVAN D
@@ -78,6 +109,7 @@
  24     6  ME   7323         1  ADV FLUID DYN II       3.0   300-0420    T TH  2218 PATRICK TAYLOR                   WONG H
  24     6  ME   7443         1  ADV HEAT TRANSFER II   3.0   130-0220   M W F  0149 ELECTRICAL ENGR                  GARTIA M
   9    11  ME   7723         1  MAT CHAR-ELECT BEAM    3.0   430-0520N   T TH  0120 PRESCOTT                         MENG W
+                     LAB                                     530-0720N   T TH                                        MENG W
  15    15  ME   7743         1  DEF DIF TRNSF SOLIDS   3.0  1200-0120    T TH  0145 ELECTRICAL ENGR                  MOLDOVAN D
  57    63  ME   7901 SEM     1  SEMINAR                1.0   330-0420       F  0152 COATES                           LU F
 (H)        ME   7903 RES     1  INDEP STDY IN ME       3.0  TBA

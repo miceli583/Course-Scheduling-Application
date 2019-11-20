@@ -1,10 +1,12 @@
 (F)    16  ENTM 4005         1  INSECT TAXONOMY        4.0   930-1020   M W    0110 LIFE SCIENCES                    CARLTON C
+                     LAB                                     130-0520   M      0110 LIFE SCIENCES                    CARLTON C
 (F)     5  ENTM 4015         1  CONSERVATION BIOLOGY   4.0   130-0250    T TH  0100 TUREAUD HALL                     PLATT W
 (F)     5  ENTM 4015         2  CONSERVATION BIOLOGY   4.0   130-0250    T TH  0100 TUREAUD HALL                     PLATT W
   4     1  ENTM 4099 RES     1  UNDERGR ENTM RESEARC   1-3  TBA
   5        ENTM 4099 RES     2  UNDERGR ENTM RESEARC   1-3  TBA
   3     2  ENTM 4199 SEM     1  SPEC TOPICS IN ENTM    1-3  TBA                                                      HOOPER-BUI L
   3     9  ENTM 7002         1  PLANT RESIST ARTHROP   4.0  TBA                                                      STOUT M
+                     LAB                                    TBA                                                      STOUT M
   9     6  ENTM 7007 SEM     1  SEMINAR ENTOMOLOGY     1.0   200-0250       F                                        CARLTON C
   6     4  ENTM 7008 RES     1  SPECIAL TOPICS ENTM    1-3  TBA                                                      HENDERSON G
   2     3  ENTM 7008 RES     2  SPECIAL TOPICS ENTM    1-3  TBA                                                      HOOPER-BUI L

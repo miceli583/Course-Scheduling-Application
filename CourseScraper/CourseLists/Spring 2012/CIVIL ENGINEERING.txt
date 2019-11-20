@@ -6,6 +6,7 @@
  21    79  CE   2450         3  STATICS                3.0  1140-1230   M W F  0204 TUREAUD HALL                     REED K
  25    75  CE   2460         1  DYNAMICS & VIBRATION   3.0   740-0830   M W F  0015 LOCKETT                          MOORTHY S
  16    74  CE   2700         1  INT CIVIL ENGR PR      2.0   140-0330       F  0204 TUREAUD HALL                     AMOROSO S
+                     LAB                                    TBA                                                      AMOROSO S
  50    44  CE   2720         1  COMPUTNL METH  CE I    3.0   140-0300    T TH  0105 TUREAUD HALL                     ELSEIFI M
 (F)    43  CE   3300         2  GEOTECHNICAL ENGR I    3.0   110-0230   M W    1118 PATRICK TAYLOR                   ELSEIFI M
 (F)    20  CE   3350 LAB     1  GEOTECH ENGR LAB I     1.0   310-0600   M      0220 TUREAUD HALL                     AUTIN Z
@@ -16,7 +17,9 @@
 (F)    20  CE   3410 LAB     1  MECHNCS OF MATLS LAB   1.0   240-0530     W    0210 TUREAUD HALL    CI-WRITTEN       HOSSAIN T
   1    55  CE   3415         2  STRUCTRL ANALYSIS I    3.0  1040-1200    T TH  2171 PATRICK TAYLOR                   WU Z
   2    23  CE   3500         2  PLANE SURV & MEASURE   3.0  1140-1230   M W    2150 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     140-0430   M      0210 TUREAUD HALL                     MUGNIER C
 (F)    25  CE   3500         3  PLANE SURV & MEASURE   3.0  1140-1230   M W    2149 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     240-0530     W    2146 PATRICK TAYLOR                   MUGNIER C
  10    50  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0   910-1030    T TH  2412 PATRICK TAYLOR                   ROTHERMEL K
 (F)    20  CE   3700 LAB     1  ENGINEERING MAT LAB    1.0   240-0530     W    0201 TUREAUD HALL                     SALARI S
   5    15  CE   3700 LAB     2  ENGINEERING MAT LAB    1.0   140-0430      TH  0201 TUREAUD HALL                     SALARI S
@@ -29,10 +32,14 @@
  30    30  CE   4420         1  PPLE PRESTR CONCRETE   3.0  1040-1200    T TH  0109 TUREAUD HALL                     CAI C
   9    41  CE   4450         1  FINITE ELEMENT METHD   3.0  1040-1130   M W F  0229 TUREAUD HALL                     MOORTHY S
  41    19  CE   4460         1  DESIGN OF BRIDGES      3.0   440-0530N   T TH  2412 PATRICK TAYLOR                   FOSSIER P
+                     LAB                                     540-0730N   T TH  2412 PATRICK TAYLOR                   FOSSIER P
  11    29  CE   4530         1  CONTRL SURVEYING W/    3.0   510-0700N  M      0125 TUREAUD HALL                     MUGNIER C
+                     LAB                                     710-1000N  M      0125 TUREAUD HALL                     MUGNIER C
   6    44  CE   4550         1  BOUNDARY SURVEYING     3.0   510-0700N   T     1116 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     710-1000N   T     0228 TUREAUD HALL                     MUGNIER C
  33     7  CE   4650         1  INT ASPHLT MIX DESN    3.0  1040-1200    T TH  0127 TUREAUD HALL                     MOHAMMAD L
  24    36  CE   4750         2  PRF ISS CONC DESN CE   2.0   840-1030   M      0109 TUREAUD HALL    CI-SPOKEN&VISUA  WILLIAMS M
+                     LAB                                     840-1030     W    0109 TUREAUD HALL                     WILLIAMS M
   5    10  CE   7180         2  WATER QUAL SIMULATNS   3.0  TBA                                                      ADRIAN D
  11     9  CE   7265         1  ADV SUB HYDROL/HYDRA   3.0   910-1030    T TH  3131 PATRICK TAYLOR                   TSAI F
  10     5  CE   7280         3  MODEL PHYS HYDROLOGY   3.0  1210-0130    T TH  1111 PATRICK TAYLOR                   DENG Z
@@ -40,6 +47,7 @@
   2     8  CE   7485         1  MECH COMPOS MATERIAL   3.0   910-1030   M W    3131 PATRICK TAYLOR                   VOYIADJIS G
  10    10  CE   7610         1  TRAFFIC EN OP CONTR    3.0  1040-1200    T TH  2412 PATRICK TAYLOR                   ISHAK S
  12     8  CE   7641         1  URBAN TRANSP PLAN MO   4.0   840-0930   M W F  3141 PATRICK TAYLOR                   WILMOT C
+                     LAB                                    TBA                                                      WILMOT C
 (F)     1  CE   7700 RES     2  SPCL TOPICS CIVIL EN   3.0  TBA                                                      ELSEIFI M
   9     6  CE   7701 RES     1  SPCL TOPICS CIVIL EN   3.0   140-0300    T TH  3129 PATRICK TAYLOR                   SMITH H
   4     6  CE   7701 RES     2  SPCL TOPICS CIVIL EN   3.0   310-0430    T TH  2228 PATRICK TAYLOR                   CHEN Q

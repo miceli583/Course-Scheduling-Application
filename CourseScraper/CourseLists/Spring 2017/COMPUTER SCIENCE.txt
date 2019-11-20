@@ -1,18 +1,28 @@
 (F)    60  CSC  1200         1  ETHICS IN COMPUTING    1.0  1030-1120     W    0211 TUREAUD HALL                     BUSCH K
   9    51  CSC  1200         2  ETHICS IN COMPUTING    1.0   130-0220     W    0102 TUREAUD HALL                     BUSCH K
   3    57  CSC  1240         1  STATS & GRAPH MATLB    3.0  1130-1220   M W    0102 ALLEN                            BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
   3    33  CSC  1240         2  STATS & GRAPH MATLB    3.0  1130-1220   M W    0102 ALLEN                            BRENER N
+                     LAB                                    1130-0120       F  1131 PATRICK TAYLOR                   BRENER N
  18    18  CSC  1240         3  STATS & GRAPH MATLB    3.0  1130-1220   M W    0102 ALLEN                            BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
   7    77  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  1221 PATRICK TAYLOR                   WAGLE B
   9    80  CSC  1253         2  COMP SCI WITH C++      3.0  1200-0120    T TH  0214 WILLIAMS                         DOUGLAS C
  23    45  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1030-1150    T TH  0105 TUREAUD HALL                     CASTLEBERRY D
 (F)    34  CSC  1350         1  COMP SCI I-MJRS        4.0   930-1020   M W F  0241 HIMES                            DUNCAN W
+                     LAB                                     330-0620   M      1131 PATRICK TAYLOR                   DUNCAN W
   1    33  CSC  1350         2  COMP SCI I-MJRS        4.0   930-1020   M W F  0241 HIMES                            DUNCAN W
+                     LAB                                     330-0620   M      1108 PATRICK TAYLOR                   DUNCAN W
   4    25  CSC  1350         3  COMP SCI I-MJRS        4.0   930-1020   M W F  0241 HIMES                            DUNCAN W
+                     LAB                                     330-0620     W    1131 PATRICK TAYLOR                   DUNCAN W
 (F)    34  CSC  1351         1  COMP SCI II-MJRS       4.0   900-1020    T TH  0221 TUREAUD HALL                     BRANDT S
+                     LAB                                     130-0420      TH  1131 PATRICK TAYLOR                   BRANDT S
 (F)    34  CSC  1351         2  COMP SCI II-MJRS       4.0   900-1020    T TH  0221 TUREAUD HALL                     BRANDT S
+                     LAB                                     500-0750N     TH                                        BRANDT S
   4    30  CSC  1351         3  COMP SCI II-MJRS       4.0  1030-1150    T TH  0103 TUREAUD HALL                     BRENER N
+                     LAB                                     230-0520       F                                        BRENER N
  21    13  CSC  1351         5  COMP SCI II-MJRS       4.0  1030-1150    T TH  0103 TUREAUD HALL                     BRENER N
+                     LAB                                     230-0520       F                                        BRENER N
   6    54  CSC  2259         1  DISCRETE STRUCTURES    3.0  1200-0120    T TH  0102 TUREAUD HALL                     KUNDU S
  12    88  CSC  2262         1  NUMERICAL METHODS      3.0   300-0420    T TH  0103 TUREAUD HALL                     BRENER N
 (F)    77  CSC  2463         1  PROGMMG DGITL MEDIA    3.0   130-0250    T TH  1221 PATRICK TAYLOR                   OSTRENKO F

@@ -18,5 +18,5 @@
  99        CHE  9000 RES    17  DISSERTATION RES       1-12 TBA                                                      MCPEAK K
  99        CHE  9000 RES    18  DISSERTATION RES       1-12 TBA                                                      PLAISANCE C
  34     2  CHE  2172         1  CHE THERMODYNAMICS     3.0  1030-1200   MTWTF
- 21     4  CHE  3101         1  MOMENTUM TRANSFER      3.0  1200-0130   MTWTF
+ 22     3  CHE  3101         1  MOMENTUM TRANSFER      3.0  1200-0130   MTWTF
   1        CHE  3900 IND     1  IND RESEARCH I         3.0  TBA
