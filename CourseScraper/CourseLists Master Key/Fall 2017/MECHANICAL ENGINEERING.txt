@@ -1,5 +1,7 @@
 (F)    60  ME   2212         1  INTRO MECH ENGR DESN   2.0   300-0350    T     0140 ELAB            CI-WRITTEN&SPOK  WAGGENSPACK W
+                     LAB                                     300-0450      TH  0140 ELAB                             WAGGENSPACK W
   6    54  ME   2212         2  INTRO MECH ENGR DESN   2.0   300-0350    T     0140 ELAB            CI-WRITTEN&SPOK  WAGGENSPACK W
+                     LAB                                     500-0650N     TH  0140 ELAB                             WAGGENSPACK W
 (F)   150  ME   2334         1  THERMODYNAMICS         4.0   730-0820   MTWTF                                        SCHOEGL I
  37    63  ME   2334         2  THERMODYNAMICS         4.0   730-0820   MTWTF  0015 LOCKETT                          MARIS N
 (F)    36  ME   2543         1  SIM METHD FOR ME       3.0  1200-0120   M W                                          WALKER E
@@ -12,24 +14,43 @@
  22    66  ME   3333         1  THERMODYNAMICS         3.0  1030-1150    T TH  0204 TUREAUD HALL                     DEVIREDDY R
 (F)    88  ME   3333         2  THERMODYNAMICS         3.0  1200-0120    T TH  1221 PATRICK TAYLOR                   WALKER E
 (F)     6  ME   3633         1  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     830-1020   M                                            MENG W
 (F)     6  ME   3633         2  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     830-1020    T                                           MENG W
 (F)     6  ME   3633         3  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     830-1020     W                                          MENG W
 (F)     6  ME   3633         4  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     830-1020      TH                                        MENG W
 (F)     6  ME   3633         5  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     830-1020       F                                        MENG W
 (F)     6  ME   3633         6  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                    1130-0120   M                                            MENG W
 (F)     6  ME   3633         7  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                    1130-0120    T                                           MENG W
 (F)     6  ME   3633         8  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                    1130-0120     W                                          MENG W
 (F)     6  ME   3633         9  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                    1130-0120      TH                                        MENG W
 (F)     6  ME   3633        10  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                    1130-0120       F                                        MENG W
 (F)     6  ME   3633        11  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     230-0420   M                                            MENG W
 (F)     6  ME   3633        12  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     230-0420    T                                           MENG W
 (F)     6  ME   3633        13  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     230-0420     W                                          MENG W
 (F)     6  ME   3633        14  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     230-0420      TH                                        MENG W
 (F)     6  ME   3633        15  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     230-0420       F                                        MENG W
 (F)     6  ME   3633        16  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     530-0720N  M                                            MENG W
 (F)     6  ME   3633        17  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     530-0720N   T                                           MENG W
 (F)     6  ME   3633        18  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     530-0720N    W                                          MENG W
 (F)     6  ME   3633        19  MANFUCT PROCESS & ME   3.0   130-0220   M W    E130 HOWE RUSSELL E                   MENG W
+                     LAB                                     530-0720N     TH                                        MENG W
   2    13  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0  1030-0120   M                                            MARIS N
 (F)    15  ME   3701 LAB     5  MATRLS OF ENGRNG LAB   1.0   130-0420   M                                            MARIS N
   4    11  ME   3701 LAB     2  MATRLS OF ENGRNG LAB   1.0  1030-0120    T                                           MARIS N
@@ -54,6 +75,7 @@
 (F)    16  ME   4201 LAB     9  MECH ENGR DESIGN LAB   1.0   430-0720N    W                                          LI G
 (F)    16  ME   4201 LAB     6  MECH ENGR DESIGN LAB   1.0   130-0420      TH                                        LI G
  20   140  ME   4243         1  ME CAPSTONE DESN I     3.0  1030-1150    T TH                       CI-WRITTEN&SPOK  NIKITOPOULOS
+                     LAB                                    1230-0220       F                                        NIKITOPOULOS
   3    22  ME   4273         1  STRESS ANALY IN ME     3.0   430-0550N  M W    0226 TUREAUD HALL                     GUILLOT M
  23    97  ME   4433         1  HEAT TRANSFER          3.0  1030-1120   M W F  1125 BUS ED S WING                    CHARALAMPOPOU
 (F)    15  ME   4621 LAB     1  THERMAL SCIENCE LAB    1.0  1030-0120   M                           CI-WRITTEN       GUO S

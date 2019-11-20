@@ -1,4 +1,5 @@
  15    15  PADM 5010         1  STAT METHODS PUB ADM   3.0   600-0850N  M      1425 BUS ED S WING                    LLORENS J
+                     LAB                                     600-0850N  M                                            LLORENS J
  27    17  PADM 7710         2  PUBLIC FIN MGT         3.0   600-0850N     TH  1220 BUS ED S WING                    MOROZOV B
 (F)     1  PADM 7800 RES     1  IND STUD IN PADM       3.0  TBA                                                      LLORENS J
   9     1  PADM 7850 CLI     1  PADM INTERNSHIP        3.0  TBA

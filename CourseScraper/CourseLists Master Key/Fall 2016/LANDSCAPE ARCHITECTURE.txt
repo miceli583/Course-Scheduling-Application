@@ -8,10 +8,14 @@
   8    15  LA   2201         1  LANDSCAPE HISTORY I    3.0   830-0920   M W F  0201 DESIGN BUILDING                  RISK J
   3    10  LA   3001 LAB     1  LANDSCAPE DESN III     6.0   130-0520   M W F  0304 DESIGN BUILDING                  BIRCH T
   3    10  LA   3301         1  LAND ARCH TECH II      3.0   130-0220    T TH  0301 DESIGN BUILDING                  SHARKY B
+                     LAB                                     230-0420    T TH  0301 DESIGN BUILDING                  SHARKY B
  12    10  LA   3401         1  PLANT MATERIALS I      3.0   900-0950    T TH  0308 DESIGN BUILDING                  FRYLING C
+                     LAB                                    1000-1150    T TH  0308 DESIGN BUILDING                  FRYLING C
 (F)    14  LA   4001 LAB     1  LANDSCAPE DESIGN V     6.0   130-0520   M W F  0316 DESIGN BUILDING                  JARVIS K
   1    16  LA   4201         1  PLAN THEORY & MTHDS    3.0   900-1020   M W F  0301 DESIGN BUILDING                  KRON W
+                     LAB                                     900-1020   M W F  0301 DESIGN BUILDING                  KRON W
  22    14  LA   4301         1  LANDSCAPE TECH IV      3.0  1230-0150    T TH  0324 DESIGN BUILDING                  BOYER M
+                     LAB                                     200-0250    T TH  0324 DESIGN BUILDING                  BOYER M
   5    10  LA   4504 SEM     2  ADV ELECTIVE IN L A    3.0   600-0850N   T     0308 DESIGN BUILDING                  ALLEN A
   2    13  LA   5001 LAB     1  LANDSCAPE DESIGN VII   6.0   130-0520   M W F  0310 DESIGN BUILDING                  MARSHALL C
  10    13  LA   5201 SEM     1  RESEARCH SEMINAR       3.0   900-1020    T TH  0313 DESIGN BUILDING                  BOYER M

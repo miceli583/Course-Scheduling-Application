@@ -8,6 +8,7 @@
  12    38  GEOG 4031         1  LATN AMER & CARIBB     3.0  1210-0130    T TH  E134 HOWE RUSSELL E                   MATHEWSON K
   1    26  GEOG 4042         1  ENTERPRISE GIS         3.0   640-0800N   T TH                                        JONES F
   2    26  GEOG 4045         1  ENVRNMNTL REMOTE SEN   3.0   440-0630N   T TH  0260 HOWE RUSSELL E                   WANG L
+                     LAB                                     440-0630N   T TH                                        WANG L
   7    21  GEOG 4047         1  GEOG INFORMAT SYSTMS   3.0   940-1030   M W F  0260 HOWE RUSSELL E                   WANG F
   3    24  GEOG 4047         2  GEOG INFORMAT SYSTMS   3.0  1210-0130    T TH  0260 HOWE RUSSELL E                   WANG L
  20     8  GEOG 4048         2  METH SPATIAL ANALYSI   3.0  TBA                                                      EDWARDS B

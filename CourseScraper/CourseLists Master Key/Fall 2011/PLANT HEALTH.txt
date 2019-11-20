@@ -1,6 +1,9 @@
   7    23  PLHL 4000         1  GEN PLANT PATHOLOGY    4.0  1040-1200    T TH                                        CLARK C
+                     LAB                                     140-0430      TH  0308 LIFE SCIENCES                    CLARK C
  13     3  PLHL 4018         1  FOREST INSECTS & DIS   4.0   740-0900    T TH  0206 RENEWABLE NAT R                  AIME M
+                     LAB                                    1040-1230       F  0110 LIFE SCIENCES                    AIME M
   2     8  PLHL 4054         1  INTRO MYCOLOGY         4.0   940-1030   M W F  0308 LIFE SCIENCES                    AIME M
+                     LAB                                    1140-0330     W    0308 LIFE SCIENCES                    AIME M
   5    10  PLHL 7052 SEM     1  SEMINAR                1.0   340-0430     W                                          HOLLIER C
   5     5  PLHL 7082         1  SOILBRN PLNT PATHOGE   3.0  TBA                                                      SCHNEIDER R
  98     1  PLHL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      CLARK C

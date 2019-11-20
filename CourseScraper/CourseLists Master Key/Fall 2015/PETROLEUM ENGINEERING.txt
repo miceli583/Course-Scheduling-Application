@@ -4,11 +4,17 @@
   2   198  PETE 2031         1  RESERVOIR ROCK PROP    3.0   900-1020    T TH  0005 LOCKETT                          KAM S
  42   158  PETE 2032         1  RESERVOIR FLUID PROP   3.0  1200-0120    T TH  0006 LOCKETT                          WILLIAMS W
 (F)    46  PETE 2060         2  COMP MTHDS PETE        2.0   430-0520N   T     0100 DODSON                           THOMPSON K
+                     LAB                                     330-0520      TH  1302BPATRICK TAYLOR                   THOMPSON K
 (F)    45  PETE 2060         3  COMP MTHDS PETE        2.0   430-0520N   T     0100 DODSON                           THOMPSON K
+                     LAB                                     900-1050      TH  1302BPATRICK TAYLOR                   THOMPSON K
 (F)    45  PETE 2060         5  COMP MTHDS PETE        2.0   430-0520N   T     0100 DODSON                           THOMPSON K
+                     LAB                                     530-0720N     TH  1302BPATRICK TAYLOR                   THOMPSON K
 (F)    36  PETE 2060         6  COMP MTHDS PETE        2.0   430-0520N   T     0100 DODSON                           THOMPSON K
+                     LAB                                     130-0320      TH                                        THOMPSON K
 (F)     3  PETE 2060         7  COMP MTHDS PETE        2.0   430-0520N   T     0100 DODSON                           THOMPSON K
+                     LAB                                    TBA                                                      THOMPSON K
 (H)     2  PETE 2060       200  COMP MTHDS PETE        2.0   430-0520N   T     0100 DODSON          100% WEB BASED   THOMPSON K
+                     LAB                                     730-0920N     TH  1302BPATRICK TAYLOR                   THOMPSON K
   1   149  PETE 3025         1  ECON ASPECTS PET PRO   3.0   730-0850    T TH  0005 LOCKETT                          VEAZEY M
  17   143  PETE 3036         3  WELL LOGGING           3.0   130-0250    T TH  0005 LOCKETT                          DAHI TALEGHAN
  19     1  PETE 3036         4  WELL LOGGING           3.0  TBA                                                      DAHI TALEGHAN

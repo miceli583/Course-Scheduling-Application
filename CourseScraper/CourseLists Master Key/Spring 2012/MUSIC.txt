@@ -47,13 +47,20 @@
  12     3  MUS  2154 RES     2  SECONDARY JAZZ STUDY   2-3  TBA                                     PERMIS OF DEPT   GRIMES W
  94     5  MUS  2154 RES     3  SECONDARY JAZZ STUDY   2-3  TBA                                     PERMIS OF DEPT   SHAW B
  13     7  MUS  2300         1  INSTR & VOCAL TECHN    1-2   940-1030   M W    0247 M&DA BLDG       MAJORS ONLY      ORMAN E
+                     LAB                                     940-1030       F                                        ORMAN E
  12     8  MUS  2300         3  INSTR & VOCAL TECHN    1-2   910-1030    T TH  0114 SCHOOL OF MUSIC MAJORS ONLY      STRICKLAND K
+                     LAB                                    TBA                                                      STRICKLAND K
   2    18  MUS  2300         2  INSTR & VOCAL TECHN    1-2  1040-1130    T     0247 M&DA BLDG       MAJORS ONLY      BYO J
+                     LAB                                    1040-1130      TH                                        BYO J
   8    12  MUS  2400         1  JAZZ FUNDMNTL TCHRS    1.0   610-0800N   T     0247 M&DA BLDG       MAJORS ONLY      GRIMES W
 (F)    15  MUS  2732         1  MUSIC THEORY II        4.0  1040-1130   M W F  0115 SCHOOL OF MUSIC                  PECK R
+                     LAB                                     810-0900    T TH  0245 M&DA BLDG                        PECK R
 (F)    15  MUS  2732         2  MUSIC THEORY II        4.0  1040-1130   M W F  0115 SCHOOL OF MUSIC                  PECK R
+                     LAB                                     910-1000    T TH  0245 M&DA BLDG                        PECK R
 (F)    17  MUS  2732         3  MUSIC THEORY II        4.0  1040-1130   M W F  0115 SCHOOL OF MUSIC                  PECK R
+                     LAB                                     810-0900    T TH  0221 M&DA BLDG                        PECK R
 (H)    16  MUS  2734         1  HNRS: MUSIC THEORY I   4.0  1040-1130   M W F  0115 SCHOOL OF MUSIC                  PECK R
+                     LAB                                     910-1000    T TH  0273 M&DA BLDG                        PECK R
  87    12  MUS  3130 RES     1  PRIMARY VOICE          2-3   240-0330    T     0100 SCHOOL OF MUSIC MAJORS ONLY      GRAY R
  17     3  MUS  3130 RES     2  PRIMARY VOICE          2-3   240-0330    T     0114 SCHOOL OF MUSIC MAJORS ONLY      O'NEILL P
  10    10  MUS  3130 RES     3  PRIMARY VOICE          2-3   240-0330    T     0115 SCHOOL OF MUSIC MAJORS ONLY      SIMS W
@@ -92,10 +99,14 @@
   5     7  MUS  3335 LAB     1  GROUP PIANO VI         1.0   910-1000    T TH  0201 M&DA BLDG       MAJORS ONLY      PIKE P
   8    22  MUS  3710         1  OVERVIEW WEST MUS HI   3.0   910-1030    T TH  0221 M&DA BLDG                        HOWE B
  10    45  MUS  3732         1  MUSIC THEORY IV        4.0  1140-1230   M W F  0115 SCHOOL OF MUSIC                  SMYTH D
+                     LAB                                    TBA                                                      SMYTH D
  16     4  MUS  3734         1  HNRS: MUS THEORY IV    4.0  1140-1230   M W F  0115 SCHOOL OF MUSIC                  SMYTH D
+                     LAB                                    TBA                                                      SMYTH D
   1    16  MUS  3745         1  INTRO COMPUTER MUSIC   3.0   910-1030    T TH  0248 M&DA BLDG       CI-WRITTEN&TECH  HWANG N
  14     6  MUS  3750         1  CHORAL LIT & COND II   2.0   940-1030   M W F  0118 SCHOOL OF MUSIC MAJORS ONLY      PETZET J
+                     LAB                                    TBA                                                      PETZET J
   4    16  MUS  3772         1  INSTR CONDUCTING II    2.0   910-1030    T TH  0001 BAND HALL                        MELLEY E
+                     LAB                                    TBA                                                      MELLEY E
  17     3  MUS  3997 RES     4  DIRECTED STUDIES MUS   1-3  TBA                                     PERMIS OF DEPT   BARTOLOME S
  17     3  MUS  3997 RES     6  DIRECTED STUDIES MUS   1-3  TBA                                     PERMIS OF DEPT   ORMAN E
  18     2  MUS  3997 RES     7  DIRECTED STUDIES MUS   1-3  TBA                                     PERMIS OF DEPT   BAZAYEV I
@@ -162,6 +173,7 @@
  98     1  MUS  4799 RES     7  COACHING IN APPL MUS   2.0  TBA                                     PERMIS OF DEPT   HE L
  98     1  MUS  4799 RES     8  COACHING IN APPL MUS   2.0  TBA                                     PERMIS OF DEPT   COX J
   5    10  MUS  7020         1  ADV ITAL DICT SINGER   1.0  1040-1130   M W    0245 M&DA BLDG                        O'NEILL P
+                     LAB                                    TBA                                                      O'NEILL P
  11     4  MUS  7030 RES     1  GRADUATE VOICE         2-6   240-0330    T     0100 SCHOOL OF MUSIC MAJORS ONLY      GRAY R
  23     2  MUS  7030 RES     2  GRADUATE VOICE         2-6   240-0330    T     0114 SCHOOL OF MUSIC MAJORS ONLY      O'NEILL P
  15     5  MUS  7030 RES     3  GRADUATE VOICE         2-6   240-0330    T     0115 SCHOOL OF MUSIC MAJORS ONLY      SIMS W

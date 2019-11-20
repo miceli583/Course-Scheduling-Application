@@ -1,14 +1,17 @@
 (F)   375  GEOG 1001         1  HUMN GEOG: AMER EURP   3.0  1210-0130    T TH  0002 LOCKETT                          DELYSER D
  24   351  GEOG 1003         1  HUMN GEOG: AFR & ASI   3.0   910-1030    T TH  0130 HOWE RUSSELL CO                  ROWE W
   3    17  GEOG 2039         1  CARTOGR DRAFT/GR PRS   3.0   240-0330   M W                                          EGGART M
+                     LAB                                     340-0430   M W                                          EGGART M
  88   287  GEOG 2050         1  PHY GEOG ATMOSPHERE    3.0  1040-1130   M W F  0130 HOWE RUSSELL CO                  DELONG K
 (F)   148  GEOG 2050         2  PHY GEOG ATMOSPHERE    3.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  KEIM B
  10   138  GEOG 2051         1  PHY GEOG LW SURFACES   3.0  1240-0130   M W F  E130 HOWE RUSSELL CO                  KESEL R
 (F)   148  GEOG 2051         2  PHY GEOG LW SURFACES   3.0   910-1030    T TH  E137 HOWE RUSSELL CO                  NAMIKAS S
   1    27  GEOG 4013         1  METEOROLOGY            3.0   310-0430    T TH  0260 HOWE RUSSELL CO                  ROBBINS K
   4    14  GEOG 4018         1  GEOGRPHCL HYDRLGY      3.0   440-0530N   T TH  E131 HOWE RUSSELL CO                  NAMIKAS S
+                     LAB                                     540-0630N   T TH  E131 HOWE RUSSELL CO                  NAMIKAS S
  28    22  GEOG 4031         1  LATN AMER & CARIBB     3.0  1240-0130   M W F  E134 HOWE RUSSELL CO                  MATHEWSON K
  10     5  GEOG 4041         1  FIELD METH IN GEOG     3.0   740-0830        S 0245 HOWE RUSSELL CO                  KESEL R
+                     LAB                                     840-1230        S 0245 HOWE RUSSELL CO                  KESEL R
   4    23  GEOG 4042         1  ENTERPRISE GIS         3.0   610-0730N   T TH                                        JONES F
   6    14  GEOG 4044         1  COMPUTER CARTOGRAPHY   3.0  1040-1200    T TH                                        LEITNER M
 (F)    29  GEOG 4047         1  GEOG INFORMAT SYSTMS   3.0   940-1030   M W F  0260 HOWE RUSSELL CO                  WANG L
@@ -20,6 +23,7 @@
  30    10  GEOG 4078         1  ENVIRN & DEVELOPMENT   3.0   410-0530   M W    E131 HOWE RUSSELL CO                  SLUYTER A
   3    12  GEOG 4079         1  GEOG OF RELIGION       3.0   310-0430    T TH                                        ROWE W
  20     8  GEOG 4083         1  QUATERNRY PALEOECLGY   3.0   640-0830N  M      0260 HOWE RUSSELL CO                  DELONG K
+                     LAB                                     640-0830N    W    0260 HOWE RUSSELL CO                  DELONG K
   9    11  GEOG 4086         1  HMN/ENVIRN INTERACT    3.0   240-0400   M W    E131 HOWE RUSSELL CO                  SLUYTER A
  31     9  GEOG 4090         1  HIST OF GEOGRAPHY      3.0  1210-0130    T TH  E131 HOWE RUSSELL CO                  MATHEWSON K
  20     5  GEOG 4997         1  RMOTE SNSING/GIS APP   3.0   240-0330     W    0245 HOWE RUSSELL CO                  BRAUD D

@@ -1,10 +1,14 @@
 (F)    15  CM   2012         2  PLN CST ANAL RES CON   3.0   120-0220   MTWTH  3136 PATRICK TAYLOR                   HEUMANN S
+                     LAB                                     230-0330   MTWTH  3136 PATRICK TAYLOR                   HEUMANN S
  10    10  CM   2121         2  MTRLS MTHDS EQMNT I    3.0  0950-1050   MTWTH  3133 PATRICK TAYLOR                   SPRING C
   7    18  CM   2131         1  MTRLS MTHDS EQMNT II   3.0   600-0900N  M W    2216 PATRICK TAYLOR                   DELATTE G
   7    18  CM   2141         1  CONST PLANNING & SCH   3.0  1210-0110   MTWTH  0101 CONSTRUCTION MG                  NELSON J
+                     LAB                                     120-0220   MTWTH  0101 CONSTRUCTION MG                  NELSON J
  11     9  CM   3000         1  CONSTRUTION SAFETY     3.0  1210-0310    T TH  2216 PATRICK TAYLOR                   PECQUET C
   3    17  CM   3121         1  COM CONS ESTIMATING    3.0  0730-0830   MTWTH  0101 CONSTRUCTION MG                  SPRING C
+                     LAB                                    0840-0940   MTWTH  0101 CONSTRUCTION MG                  SPRING C
   7    13  CM   3131         1  INDUST CONS ESTIMTNG   3.0  0950-1050   MTWTH  0101 CONSTRUCTION MG                  NELSON J
+                     LAB                                    1100-1200   MTWTH  0101 CONSTRUCTION MG                  NELSON J
   9    11  CM   3303         1  MECH & ELEC SYSTEMS    3.0   440-0740N   T TH  2216 PATRICK TAYLOR                   BANKSTON J
   4    20  CM   3505         1  STRUCTURAL TECH I      3.0  1100-1200   MTWTH  2218 PATRICK TAYLOR                   HEBERT K
   7    13  CM   3506         1  STRUCTURAL TECH II     3.0   120-0220   MTWTH  2218 PATRICK TAYLOR                   HEBERT K

@@ -46,9 +46,13 @@
   8     2  MUS  2154 RES     1  SECONDARY JAZZ STUDY   2-3   400-0450    T     0118 SCHOOL OF MUSIC PERMIS OF DEPT   GRIMES W
   9     1  MUS  2154 RES     2  SECONDARY JAZZ STUDY   2-3   400-0450    T     0118 SCHOOL OF MUSIC PERMIS OF DEPT   SHAW B
  11    14  MUS  2300         1  INSTR & VOCAL TECHN    1-2   830-0920   M W F  0247 M&DA BLDG       MAJORS ONLY      BYO J
+                     LAB                                     830-0920   M W F  0247 M&DA BLDG
   4    21  MUS  2300         4  INSTR & VOCAL TECHN    1-2   930-1020   M W F  B028 M&DA BLDG       MAJORS ONLY      COLLINS M
+                     LAB                                     930-1020   M W F
  17     8  MUS  2300         2  INSTR & VOCAL TECHN    1-2  1030-1150    T TH  0247 M&DA BLDG                        BOWERS J
+                     LAB                                    1030-1150    T TH  0247 M&DA BLDG
  11    14  MUS  2300         3  INSTR & VOCAL TECHN    1-2  1030-1120    T TH  0114 SCHOOL OF MUSIC MAJORS ONLY      WALLACE E
+                     LAB                                    1030-1120    T TH  0114 SCHOOL OF MUSIC
 (F)    59  MUS  2620         1  MUSIC THEORY I         3.0  1030-1120   M W F  0115 SCHOOL OF MUSIC                  SHANAHAN D
  20     5  MUS  2621 LAB     1  AURAL SKILLS I         1.0   800-0850    T TH  0248 M&DA BLDG                        SHANAHAN D
  14    11  MUS  2621 LAB     2  AURAL SKILLS I         1.0   800-0850    T TH  0249 M&DA BLDG                        SHANAHAN D
@@ -104,6 +108,7 @@
  26     4  MUS  3630         1  HNRS MUS THEORY III    3.0  1130-1220   M W F  0115 SCHOOL OF MUSIC                  PECK R
   1    29  MUS  3703         1  THEORY SURVEY          3.0   900-1020    T TH  0247 M&DA BLDG                        HAZELWOOD Z
   6    14  MUS  3749         1  CHORAL LIT & COND I    1-2   930-1020   M W F  0118 SCHOOL OF MUSIC                  DAVIS N
+                     LAB                                     930-1020   M W F  0118 SCHOOL OF MUSIC                  DAVIS N
   9    11  MUS  3771         1  INSTR CONDUCTING I     2.0   900-1020    T TH  0001 BAND HALL                        JONES K
   1    14  MUS  3771         2  INSTR CONDUCTING I     2.0  1030-1150    T TH  0001 BAND HALL                        JONES K
  10        MUS  3997 RES     1  DIRECTED STUDIES MUS   1-3  TBA                                     PERMIS OF DEPT   PIKE P
@@ -176,6 +181,7 @@
  10     5  MUS  4799 RES     8  COACHING IN APPL MUS   2.0  TBA                                                      HENDRICKSON B
  14     1  MUS  4799 RES     9  COACHING IN APPL MUS   2.0  TBA                                                      BADE L
   4    16  MUS  7019         1  ADV FREN DICT SINGER   1.0  1030-1120   M W    0245 M&DA BLDG                        MOON S
+                     LAB                                    1030-1120       F  0245 M&DA BLDG                        MOON S
  24     1  MUS  7030 RES     1  GRADUATE VOICE         2-6   230-0320    T     0100 SCHOOL OF MUSIC MAJORS ONLY      HENDRICKSON B
  18     7  MUS  7030 RES     2  GRADUATE VOICE         2-6   230-0320    T     0001 BAND HALL       MAJORS ONLY      SIMS W
  22     3  MUS  7030 RES     3  GRADUATE VOICE         2-6   230-0320    T     0114 SCHOOL OF MUSIC MAJORS ONLY      MOON S

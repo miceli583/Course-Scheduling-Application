@@ -1,8 +1,8 @@
- 34    26  EVEG 3050 LAB     1  GLOB ISS ENV ENGR      1.0  1130-0120     W                                          ELANGO V
+ 35    25  EVEG 3050 LAB     1  GLOB ISS ENV ENGR      1.0  1130-0120     W                                          ELANGO V
  41    57  EVEG 3110         1  WATR/WSTWTR TREATMNT   3.0  1200-0120    T TH  1225 PATRICK TAYLOR                   SNOW S
  23    37  EVEG 3145         1  ENV ENGR III           3.0   300-0420    T TH  0109 TUREAUD HALL                     ZHU X
  18    67  EVEG 3200         1  WATR RESOURCES ENGR    3.0   130-0250   M W    0206 TUREAUD HALL                     DENG Z
-  9    32  EVEG 3400         1  ENVIRON ENGINEER II    3.0  1030-1150    T TH  0127 TUREAUD HALL                     MOE W
+  8    33  EVEG 3400         1  ENVIRON ENGINEER II    3.0  1030-1150    T TH  0127 TUREAUD HALL                     MOE W
  19    26  EVEG 4151         1  INT ENVR SYST DES II   3.0   830-1120   M      1212 PATRICK TAYLOR                   PARDUE J
  35    15  EVEG 4156         1  WATER WW TREAT DEVEL   3.0   900-1020    T TH  1236 PATRICK TAYLOR  CI-WRITTEN&SPOK  SNOW S
- 19     6  EVEG 4781         1  SP TOP IN EVEG SCI     3.0  1200-0120    T TH  0119 TUREAUD HALL                     PARDUE J
+ 18     7  EVEG 4781         1  SP TOP IN EVEG SCI     3.0  1200-0120    T TH  0119 TUREAUD HALL                     PARDUE J

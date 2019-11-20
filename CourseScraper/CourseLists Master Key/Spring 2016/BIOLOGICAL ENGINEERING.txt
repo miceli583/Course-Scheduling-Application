@@ -1,13 +1,20 @@
 (F)    35  BE   1252         1  BIOL IN ENGINEERING    2.0   130-0220    T     0102 ALLEN           SVC LEARNING     LIMA M
+                     LAB                                     130-0420     W    0137 ALLEN
 (F)    35  BE   1252         2  BIOL IN ENGINEERING    2.0   130-0220    T     0102 ALLEN           SVC LEARNING     LIMA M
+                     LAB                                     130-0420      TH  0234 COATES
   1    34  BE   1252         3  BIOL IN ENGINEERING    2.0   130-0220    T     0102 ALLEN           SVC LEARNING     LIMA M
+                     LAB                                     130-0420       F  0137 ALLEN
   4    26  BE   2350         1  EXPER METH FOR ENGRS   3.0  1230-0120   M W    0120 TUREAUD HALL    CI-WRITTEN&TECH  DUGAS A
+                     LAB                                     130-0420   M      0140 AG METAL BLDG                    DUGAS A
   5    25  BE   2350         2  EXPER METH FOR ENGRS   3.0  1230-0120   M W    0120 TUREAUD HALL    CI-WRITTEN&TECH  DUGAS A
+                     LAB                                     130-0420    T     0140 AG METAL BLDG                    DUGAS A
   2    48  BE   3290         1  PROFESSIONALISM        2.0  1030-1220       F  0228 TUREAUD HALL                     CONSTANT W
 (F)    53  BE   3340         2  PROC DESN FOR BIOL E   3.0   800-0850    T TH  0229 TUREAUD HALL    CI-WRITTEN&SPOK  SABLIOV C
+                     LAB                                     230-0520   M      0229 TUREAUD HALL                     SABLIOV C
  22     3  BE   3989 RES     1  SPEC PROJ IN BIOL EN   1-4  TBA
  11    44  BE   4292 LAB     1  SENIOR ENGR DESN LAB   2.0   430-0720N   T TH  0211 TUREAUD HALL                     HAYES D
   6    24  BE   4323         1  BIOMECHANICS FOR ENG   3.0  1030-1120   M W    0109 TUREAUD HALL                     MONROE W
+                     LAB                                     130-0420     W    0211 TUREAUD HALL                     MONROE W
  28    32  BE   4335         1  TISSUE ENGINEERING     3.0   830-0920   M W F  0102 TUREAUD HALL                     HAYES D
  17    38  BE   4352         1  TRANSPRT PHEN BIOL E   3.0  1030-1150    T TH  0109 TUREAUD HALL                     THEEGALA C
   7     3  BE   4989 RES     1  IND STUDY IN BIOL EN   1-4  TBA

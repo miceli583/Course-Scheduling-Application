@@ -5,14 +5,23 @@
   5   225  PSYC 2000         3  INTR TO PSYC           3.0  1200-0120    T TH  0143 COATES                           GREENING S
   2   158  PSYC 2005         1  INTRO TO PSYC MAJOR    1.0  TBA                                     100% WEB BASED   HICKS J
   1    27  PSYC 2016         1  STAT FOR BEH SCI       4.0   130-0250    T TH  0145 COATES          MAJORS ONLY      MCDONALD J
+                     LAB                                    1230-0220     W    0171 COATES                           MCDONALD J
 (F)    28  PSYC 2016         2  STAT FOR BEH SCI       4.0   130-0250    T TH  0145 COATES          MAJORS ONLY      MCDONALD J
+                     LAB                                    1230-0220       F  0171 COATES                           MCDONALD J
 (F)    24  PSYC 2016         3  STAT FOR BEH SCI       4.0   130-0250    T TH  0145 COATES          MAJORS ONLY      MCDONALD J
+                     LAB                                     330-0520     W    0205 COATES                           MCDONALD J
   7    16  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0   130-0250    T TH  0009 LOCKETT         MAJORS ONLY      BECK M
+                     LAB                                     230-0420   M      0171 COATES                           BECK M
   7    16  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0   130-0250    T TH  0009 LOCKETT                          BECK M
+                     LAB                                     300-0450     W    0171 COATES                           BECK M
 (F)    16  PSYC 2017         3  ELEM EXPERMTL PSYC     4.0   130-0250    T TH  0009 LOCKETT                          BECK M
+                     LAB                                     830-1020     W    0169 COATES                           BECK M
   1    22  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0   130-0250    T TH  0009 LOCKETT                          BECK M
+                     LAB                                     300-0450    T     0171 COATES                           BECK M
   3    20  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0   130-0250    T TH  0009 LOCKETT                          BECK M
+                     LAB                                     300-0450      TH  0171 COATES                           BECK M
 (F)    23  PSYC 2017         6  ELEM EXPERMTL PSYC     4.0   130-0250    T TH  0009 LOCKETT                          BECK M
+                     LAB                                    1230-0220   M      0171 COATES                           BECK M
  35   149  PSYC 2040         1  SOCIAL PSYCHOLOGY      3.0   600-0850N    W    0015 LOCKETT                          DOMANGUE T
  94    86  PSYC 2060         1  EDUCATIONAL PSYC       3.0   600-0850N  M      0010 LOCKETT                          GUSTIN Q
   1    69  PSYC 2070         2  DEVELOP PSYC LIFE SP   3.0  1130-1220   M W F  0155 COATES                           LYON B

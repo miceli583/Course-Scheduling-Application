@@ -11,8 +11,11 @@
   2    22  PETE 2034 LAB     7  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0002 LOCKETT                          KAM S
   2    22  PETE 2034 LAB     8  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0002 LOCKETT                          KAM S
 (F)    30  PETE 2060         1  COMP MTHDS PETE        2.0   830-0920    T     0005 LOCKETT                          WILLIAMS W
+                     LAB                                    1030-1220      TH                                        WILLIAMS W
 (F)    31  PETE 2060         2  COMP MTHDS PETE        2.0   830-0920    T     0005 LOCKETT                          WILLIAMS W
+                     LAB                                    1030-1220       F                                        WILLIAMS W
  29    26  PETE 2060         3  COMP MTHDS PETE        2.0   830-0920    T     0005 LOCKETT                          WILLIAMS W
+                     LAB                                     130-0320       F                                        WILLIAMS W
  47    69  PETE 3025         1  ECON ASPECTS PET PRO   3.0   930-1020   M W F  0026 HATCHER HALL                     VEAZEY M
  36   114  PETE 3036         1  WELL LOGGING           3.0  1030-1120   M W F  0103 DESIGN BUILDING                  GUPTA I
  72    93  PETE 3050         1  RESERVOIR DYNAMICS     3.0   130-0220   M W F  0015 LOCKETT                          ZEIDOUNI M

@@ -1,18 +1,27 @@
   1    19  CSC  1100         2  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    0145 COATES                           PETERSON B
+                     LAB                                    1030-1220       F  0168 COATES
  20    30  CSC  1200         1  ETHICS IN COMPUTING    1.0   930-1020   M      0109 TUREAUD HALL                     CARVER D
   1    49  CSC  1200         2  ETHICS IN COMPUTING    1.0   130-0220   M      0232 J C MILLER                       CARVER D
  30    20  CSC  1200         3  ETHICS IN COMPUTING    1.0   230-0320   M      0232 J C MILLER                       CARVER D
   4    45  CSC  1240         1  STATS & GRAPH MATLB    3.0  1130-1220   M W    E137 HOWE RUSSELL E                   BRENER N
+                     LAB                                    1130-0120       F  1302APATRICK TAYLOR                   BRENER N
   9    41  CSC  1240         2  STATS & GRAPH MATLB    3.0  1130-1220   M W    E137 HOWE RUSSELL E                   BRENER N
+                     LAB                                    1130-0120       F  0171 COATES                           BRENER N
  29    61  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  0105 TUREAUD HALL                     DUNCAN W
   8    82  CSC  1253         2  COMP SCI WITH C++      3.0  1200-0120    T TH  0105 TUREAUD HALL                     CASTLEBERRY D
   6    54  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1030-1150    T TH  0203 TUREAUD HALL                     KAISER H
   4    36  CSC  1350         1  COMP SCI I-MJRS        4.0   930-1020   M W F  0232 J C MILLER                       DUNCAN W
+                     LAB                                     330-0620   M      1302APATRICK TAYLOR                   DUNCAN W
   2    38  CSC  1350         2  COMP SCI I-MJRS        4.0  1030-1120   M W F  0232 J C MILLER                       MAHMOUD A
+                     LAB                                     330-0620     W    1302APATRICK TAYLOR                   DUNCAN W
  12    28  CSC  1350         3  COMP SCI I-MJRS        4.0  1130-1220   M W F  0206 TUREAUD HALL                     KUNDU S
+                     LAB                                     230-0520       F  1413 PATRICK TAYLOR                   BRENER N
   5    35  CSC  1351         1  COMP SCI II-MJRS       4.0   900-1020    T TH  0218 TUREAUD HALL                     BRENER N
+                     LAB                                     130-0420      TH  0169 COATES                           BRENER N
  11    19  CSC  1351         2  COMP SCI II-MJRS       4.0   900-1020    T TH  0145 ELECTRICAL ENGR                  KUNDU S
+                     LAB                                     500-0750N     TH  1302APATRICK TAYLOR                   KUNDU S
   2    46  CSC  1351         3  COMP SCI II-MJRS       4.0  1030-1150    T TH  0109 TUREAUD HALL                     BRANDT S
+                     LAB                                     230-0520       F  1302APATRICK TAYLOR                   LOFFLER F
   3    73  CSC  2259         1  DISCRETE STRUCTURES    3.0  1200-0120    T TH  0120 TUREAUD HALL                     TRIANTAPHYLLO
  10   100  CSC  2262         1  NUMERICAL METHODS      3.0   300-0420    T TH  0139 ALLEN                            SHAH R
   4    22  CSC  2463         1  PROGMMG DGITL MEDIA    3.0   130-0250    T TH  0108 TUREAUD HALL                     KOOIMA R

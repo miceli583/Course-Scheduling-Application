@@ -1,21 +1,32 @@
   3    35  EE   1810         1  INTRO TO ECE           2.0   900-0950    T TH  0221 TUREAUD HALL    CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                     100-0250    T     1302APATRICK TAYLOR                   TOUPS T
   6    32  EE   1810         2  INTRO TO ECE           2.0   900-0950    T TH  0221 TUREAUD HALL    CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                     300-0450      TH  1302APATRICK TAYLOR                   TOUPS T
  30    60  EE   2120         1  CIRCUITS I             3.0   830-0920   M W F  0103 TUREAUD HALL                     SCALZO J
  24    51  EE   2130         1  CIRCUITS II            3.0  1130-1220   M W F  0120 TUREAUD HALL                     MEHRAEEN S
  29    48  EE   2230         1  ELECTRONICS I          3.0  1030-1120   M W F  0212 COATES                           SONG E
 (F)    16  EE   2231         1  ELECTRONICS LAB I      2.0   800-0850    T     0203 TUREAUD HALL                     FELDMAN M
+                     LAB                                    1030-1220    T     0133 ELECTRICAL ENGR                  MOHSIN K
 (F)    17  EE   2231         2  ELECTRONICS LAB I      2.0   800-0850    T     0203 TUREAUD HALL                     FELDMAN M
+                     LAB                                     100-0250    T     0133 ELECTRICAL ENGR                  MOHSIN K
 (F)    17  EE   2231         5  ELECTRONICS LAB I      2.0   800-0850    T     0203 TUREAUD HALL                     FELDMAN M
+                     LAB                                     830-1020      TH  0133 ELECTRICAL ENGR                  MOHSIN K
   2    14  EE   2731         1  DIGTL LOGIC LAB        2.0   800-0850      TH  0100 DODSON                           DE SOUZA G
+                     LAB                                    1030-1220      TH  0322 ELECTRICAL ENGR                  HASAN M
   1    15  EE   2731         2  DIGTL LOGIC LAB        2.0   800-0850      TH  0100 DODSON                           DE SOUZA G
+                     LAB                                     100-0250      TH  0322 ELECTRICAL ENGR                  GHOMIAN T
   5    11  EE   2731         3  DIGTL LOGIC LAB        2.0   800-0850      TH  0100 DODSON                           DE SOUZA G
+                     LAB                                     300-0450      TH  0322 ELECTRICAL ENGR                  HASAN M
   4    12  EE   2731         4  DIGTL LOGIC LAB        2.0   800-0850      TH  0100 DODSON                           DE SOUZA G
+                     LAB                                     100-0250    T     0322 ELECTRICAL ENGR                  GHOMIAN T
  34   106  EE   2740         1  DIGITAL LOGIC          3.0  1230-0120   M W F  0102 ALLEN                            TRAHAN J
 (F)    48  EE   2810         1  TOOLS IN ECE           2.0  1200-0150      TH  1302APATRICK TAYLOR                   SCALZO J
  60   140  EE   2950         1  COMPREHENSIVE E E      3.0  1030-1120   M W F  0002 LOCKETT                          ABDELWAHAB M
  25   175  EE   2950         2  COMPREHENSIVE E E      3.0  1200-0120    T TH  0006 LOCKETT                          ABDELWAHAB M
  22    14  EE   3001         1  SPCL TOP ECE W/LAB     3.0   230-0320   M W    0100 TUREAUD HALL                     FELDMAN M
+                     LAB                                     830-1020    T     0238 ELECTRICAL ENGR                  HOU H
  25    11  EE   3001         2  SPCL TOP ECE W/LAB     3.0   230-0320   M W    0100 TUREAUD HALL                     FELDMAN M
+                     LAB                                     100-0250      TH  0238 ELECTRICAL ENGR                  HOU H
  18     2  EE   3060 RES     1  SPECIAL PROJECTS       2.0  TBA                                     PERMIS OF DEPT   FELDMAN M
  18     2  EE   3061 RES     1  SPECIAL PROJECTS       2.0  TBA                                     PERMIS OF DEPT   FARASAT M
  16     4  EE   3061 RES     2  SPECIAL PROJECTS       2.0  TBA                                     PERMIS OF DEPT   SCALZO J
@@ -30,13 +41,21 @@
   3    73  EE   3950         1  ELECTRONICS            2.0  1030-1120    T TH  0120 TUREAUD HALL                     DE SOUZA G
  37    13  EE   4000         2  NANOMATERIALS & APPS   3.0   930-1020   M W F  0132 J C MILLER                       DANIELS-RACE
 (F)     8  EE   4003         9  PWR SYS MODEL W/LAB    3.0   930-1020   M W    0120 TUREAUD HALL                     MEHRAEEN S
+                     LAB                                    TBA                                                      BHATTARAI P
   1     7  EE   4003        10  PWR SYS MODEL W/LAB    3.0   930-1020   M W    0120 TUREAUD HALL                     MEHRAEEN S
+                     LAB                                    TBA                                                      BHATTARAI P
 (F)     8  EE   4003        11  PWR SYS MODEL W/LAB    3.0   930-1020   M W    0120 TUREAUD HALL                     MEHRAEEN S
+                     LAB                                    TBA                                                      JAHANMARD P
 (F)     8  EE   4003        12  PWR SYS MODEL W/LAB    3.0   930-1020   M W    0120 TUREAUD HALL                     MEHRAEEN S
+                     LAB                                    TBA                                                      JAHANMARD P
   6     6  EE   4003         5  DSP ALG & IMP W/LAB    3.0  1130-1220   M W    0119 TUREAUD HALL                     NARAGHI-POUR
+                     LAB                                     830-1020      TH  0351 ENGR RES & DEV                   GHAVAMI K
   5     7  EE   4003         7  DSP ALG & IMP W/LAB    3.0  1130-1220   M W    0119 TUREAUD HALL                     NARAGHI-POUR
+                     LAB                                     100-0250      TH  0351 ENGR RES & DEV                   GHAVAMI K
   5     7  EE   4003         1  DIS CNRLSYS DSN LAB    3.0  1230-0120   M W    0248 WOODIN HALL                      GU G
+                     LAB                                     830-1020    T     0355 ENGR RES & DEV                   PANDEY A
   5     7  EE   4003         2  DIS CNTRLSYS DSN LAB   3.0  1230-0120   M W    0248 WOODIN HALL                      GU G
+                     LAB                                     100-0250    T     0355 ENGR RES & DEV                   PANDEY A
  23    17  EE   4232         1  SLD STATE DEVICES II   3.0   130-0220   M W F  0134 J C MILLER                       PARK K
 (F)        EE   4340         1  FIBER & MICRO PROPAG   3.0   830-0920   M W F  0100 TUREAUD HALL                     VERONIS G
   6    19  EE   4340         2  FIBER & MICRO PROPAG   3.0   330-0450   M W    0100 TUREAUD HALL                     VERONIS G
@@ -45,11 +64,15 @@
   7    29  EE   4730         1  3D GRAPH & GEOM MODL   3.0   430-0550N  M W    0149 ELECTRICAL ENGR                  LI X
   3    43  EE   4740         1  DISCR STRUC COMP ENG   3.0  1230-0120   M W F  0145 ELECTRICAL ENGR                  VAIDYANATHAN
  19    21  EE   4810         1  SENIOR DESIGN I        3.0  1030-1150    T TH  0201 WILLIAMS        CI-WRITTEN&SPOK  SCALZO J
+                     LAB                                     300-0550    T     0351 ENGR RES & DEV                   SCALZO J
   5     5  EE   4810         2  SENIOR DESIGN I        3.0  1030-1150    T TH  0201 WILLIAMS        CI-WRITTEN&SPOK  SCALZO J
+                     LAB                                     300-0550     W    0351 ENGR RES & DEV                   SCALZO J
   5     5  EE   4810         3  SENIOR DESIGN I        3.0  1030-1150    T TH  0201 WILLIAMS        CI-WRITTEN&SPOK  SCALZO J
+                     LAB                                    TBA                                                      SCALZO J
  13    42  EE   4820 LAB     1  SENIOR DESIGN II       3.0   300-0550    T TH  0326 ENGR RES & DEV  CI-WRITTEN&SPOK  DE SOUZA G
  66     9  EE   4820 LAB     2  SENIOR DESIGN II       3.0  TBA                                     CI-WRITTEN&SPOK  DE SOUZA G
   2    13  EE   4859         2  DIGITAL MEDIA CAPSTN   3.0   630-0820N   T     0330 ART BUILDING    CI-VISUAL&TECH   DE SOUZA G
+                     LAB                                    TBA                                                      DE SOUZA G
  19     1  EE   7091 RES     1  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   RAMANUJAM J
  19     1  EE   7091 RES     2  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   FELDMAN M
  18     2  EE   7091 RES     3  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   DANIELS-RACE

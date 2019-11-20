@@ -1,18 +1,30 @@
 (F)    34  EE   1810         1  INTRO TO ECE           2.0   300-0420    T     0102 ALLEN           CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                     230-0420   M                                            NUNEZ FORESTI
   2    32  EE   1810         2  INTRO TO ECE           2.0   300-0420    T     0102 ALLEN           CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                    1230-0220     W                                          MOHSIN K
   3    31  EE   1810         3  INTRO TO ECE           2.0   300-0420    T     0102 ALLEN           CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                     430-0620N    W                                          MOHSIN K
  35    85  EE   2120         1  CIRCUITS I             3.0   830-0920   M W F  0152 COATES                           SCALZO J
  33    42  EE   2130         1  CIRCUITS II            3.0  1130-1220   M W F  1620 BUS ED N WING                    RABALAIS M
  18    52  EE   2230         1  ELECTRONICS I          3.0  1030-1120   M W F  0221 TUREAUD HALL                     CHOI J
   1    15  EE   2231         1  ELECTRONICS LAB I      2.0   900-0950    T     0204 TUREAUD HALL                     FELDMAN M
+                     LAB                                    1030-1220      TH  0133 ELECTRICAL ENGR                  CHEN X
 (F)    16  EE   2231         2  ELECTRONICS LAB I      2.0   900-0950    T     0204 TUREAUD HALL                     FELDMAN M
+                     LAB                                     100-0250    T     0133 ELECTRICAL ENGR                  FELDMAN M
   6    10  EE   2231         3  ELECTRONICS LAB I      2.0   900-0950    T     0204 TUREAUD HALL                     FELDMAN M
+                     LAB                                     100-0250      TH  0133 ELECTRICAL ENGR                  FELDMAN M
   8     8  EE   2231         4  ELECTRONICS LAB I      2.0   900-0950    T     0204 TUREAUD HALL                     FELDMAN M
+                     LAB                                     300-0450    T     0133 ELECTRICAL ENGR                  CHEN X
   5    13  EE   2731         1  DIGTL LOGIC LAB        2.0   800-0850      TH  0241 HIMES                            TRAHAN J
+                     LAB                                    1030-1220      TH  0322 ELECTRICAL ENGR                  KAMRAN HABIBK
   1    17  EE   2731         2  DIGTL LOGIC LAB        2.0   800-0850      TH  0241 HIMES                            TRAHAN J
+                     LAB                                     100-0250      TH  0322 ELECTRICAL ENGR                  CHEN X
   6    12  EE   2731         3  DIGTL LOGIC LAB        2.0   800-0850      TH  0241 HIMES                            TRAHAN J
+                     LAB                                     300-0450      TH  0322 ELECTRICAL ENGR                  HASAN M
   4    14  EE   2731         4  DIGTL LOGIC LAB        2.0   800-0850      TH  0241 HIMES                            TRAHAN J
+                     LAB                                     300-0450    T     0322 ELECTRICAL ENGR                  HASAN M
   3    15  EE   2731         5  DIGTL LOGIC LAB        2.0   800-0850      TH  0241 HIMES                            TRAHAN J
+                     LAB                                     100-0250    T     0322 ELECTRICAL ENGR                  CHEN X
  55    65  EE   2740         1  DIGITAL LOGIC          3.0  1230-0120   M W F  1125 BUS ED S WING                    VAIDYANATHAN
   7    53  EE   2810         1  TOOLS IN ECE           2.0  1100-1250    T                                           SCALZO J
  17    99  EE   2950         1  COMPREHENSIVE E E      3.0  1030-1120   M W F  1620 BUS ED N WING                    RABALAIS M
@@ -27,32 +39,52 @@
   4    80  EE   3530         1  INTRO TO CONTROL ENG   3.0   130-0220   M W F  0155 COATES                           FARASAT M
  20    50  EE   3610         1  SIGNALS AND SYSTEMS    3.0   930-1020   M W F  0120 TUREAUD HALL                     WU H
 (F)    19  EE   3752         1  MICROPROCESSOR SYST    3.0   730-0820     W F  0103 TUREAUD HALL                     TRAHAN J
+                     LAB                                     830-1020      TH  0302 ELECTRICAL ENGR                  MANSOUR A
   4    14  EE   3752         2  MICROPROCESSOR SYST    3.0   730-0820     W F  0103 TUREAUD HALL                     TRAHAN J
+                     LAB                                     300-0450      TH  0302 ELECTRICAL ENGR                  MANSOUR A
   1    17  EE   3752         3  MICROPROCESSOR SYST    3.0   730-0820     W F  0103 TUREAUD HALL                     TRAHAN J
+                     LAB                                    1030-1220    T     0302 ELECTRICAL ENGR                  TRAHAN J
   2    16  EE   3752         4  MICROPROCESSOR SYST    3.0   730-0820     W F  0103 TUREAUD HALL                     TRAHAN J
+                     LAB                                     100-0250    T     0302 ELECTRICAL ENGR                  MANSOUR A
   4    14  EE   3752         5  MICROPROCESSOR SYST    3.0   730-0820     W F  0103 TUREAUD HALL                     TRAHAN J
+                     LAB                                     300-0450    T     0302 ELECTRICAL ENGR                  MANSOUR A
  10    60  EE   3755         1  COMPUTER ORGANIZATIO   3.0  1230-0120   M W F  0120 TUREAUD HALL                     PENG L
  12   130  EE   3950         1  ELECTRONICS            2.0  1030-1120   M W F  0009 LOCKETT                          DE SOUZA G
 (F)    34  EE   4003         1  PLC PROG IND CNTRL     3.0   230-0320   M W                                          GU G
+                     LAB                                     230-0420       F                                        ZHOU J
   4     8  EE   4240         1  LINEAR CIRCUIT DESGN   3.0   930-1020   M W    0100 TUREAUD HALL                     SRIVASTAVA A
+                     LAB                                     830-1020    T     0252 ELECTRICAL ENGR                  SRIVASTAVA A
   1    11  EE   4242         1  VLSI DESIGN            3.0   830-0920   M W    0100 TUREAUD HALL                     SRIVASTAVA A
+                     LAB                                     830-1020      TH  0125 ELECTRICAL ENGR                  SRIVASTAVA A
   4     8  EE   4242         2  VLSI DESIGN            3.0   830-0920   M W    0100 TUREAUD HALL                     SRIVASTAVA A
+                     LAB                                     300-0450      TH  0125 ELECTRICAL ENGR                  MOHSIN K
   2    10  EE   4242         3  VLSI DESIGN            3.0   830-0920   M W    0100 TUREAUD HALL                     SRIVASTAVA A
+                     LAB                                     100-0250      TH  0125 ELECTRICAL ENGR                  MOHSIN K
 (F)    12  EE   4350         1  APPLIED EMAG: RF SYS   3.0  1230-0120   M W    0100 TUREAUD HALL                     SCALZO J
+                     LAB                                     100-0250    T     0365 ENGR RES & DEV                   SCALZO J
   2    10  EE   4350         2  APPLIED EMAG: RF SYS   3.0  1230-0120   M W    0100 TUREAUD HALL                     SCALZO J
+                     LAB                                     100-0250      TH  0365 ENGR RES & DEV                   BOUDREAUX J
   1    39  EE   4445         1  PWR SYS OPS & CONTRO   3.0   600-0850N   T     0102 TUREAUD HALL                     MCANELLY M
 (F)     8  EE   4490         1  ADJUST SPEED DRIVES    3.0  1130-1220   M W    0200 TUREAUD HALL                     FARASAT M
+                     LAB                                     830-1020    T     0008 ELECTRICAL ENGR                  NUNEZ FORESTI
 (F)     8  EE   4490         2  ADJUST SPEED DRIVES    3.0  1130-1220   M W    0200 TUREAUD HALL                     FARASAT M
+                     LAB                                     100-0250    T     0008 ELECTRICAL ENGR                  NUNEZ FORESTI
   1     7  EE   4490         3  ADJUST SPEED DRIVES    3.0  1130-1220   M W    0200 TUREAUD HALL                     FARASAT M
+                     LAB                                     300-0450    T     0008 ELECTRICAL ENGR                  FARASAT M
 (F)     8  EE   4490         4  ADJUST SPEED DRIVES    3.0  1130-1220   M W    0200 TUREAUD HALL                     FARASAT M
+                     LAB                                     830-1020      TH  0008 ELECTRICAL ENGR                  NUNEZ FORESTI
  28    12  EE   4660         1  RANDOM PROCESSES I     3.0   130-0220   M W F  0129 TUREAUD HALL                     LIANG X
  14    16  EE   4702         1  GPU PROGRAMMING        3.0   230-0320   M W F  0226 TUREAUD HALL                     KOPPELMAN D
   6    24  EE   4745         1  NEURAL COMPUTING       3.0  1030-1120   M W F  0145 ELECTRICAL ENGR                  RAI S
  15    25  EE   4755         1  DIGIT DSN USING HDL    3.0  1230-0120   M W F  0226 TUREAUD HALL                     KOPPELMAN D
   5     5  EE   4810         3  SENIOR DESIGN I        3.0  1030-1150    T TH                       CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                    TBA                                                      DE SOUZA G
   5    20  EE   4810         4  SENIOR DESIGN I        3.0  1030-1150    T TH  0119 J C MILLER      CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                     830-1020       F                                        DE SOUZA G
  16     9  EE   4810         5  SENIOR DESIGN I        3.0  1030-1150    T TH  0119 J C MILLER      CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                    1030-1220       F                                        DE SOUZA G
  71     4  EE   4810         6  SENIOR DESIGN I        3.0  1030-1150    T TH  0119 J C MILLER      CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                    1230-0220       F                                        DE SOUZA G
   6    14  EE   4820 LAB     2  SENIOR DESIGN II       3.0   430-0720N  M W                         CI-SPOKEN&TECH   SCALZO J
   2    28  EE   4820 LAB     1  SENIOR DESIGN II       3.0   330-0450    T TH                       CI-SPOKEN&TECH   SCALZO J
   9     1  EE   4820 LAB     3  SENIOR DESIGN II       3.0  TBA                                     CI-SPOKEN&TECH   SCALZO J

@@ -4,11 +4,17 @@
   1   199  PSYC 2000         4  INTR TO PSYC           3.0   140-0300    T TH  0005 LOCKETT                          MUNSON M
   4   336  PSYC 2000         5  INTR TO PSYC           3.0   610-0900N    W    0100 DODSON                           KNAPP J
 (F)    25  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     240-0430   M      0232 MIDDLETON                        EAVES S
  11    14  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     840-1030    T     0232 MIDDLETON                        EAVES S
   9    16  PSYC 2017         3  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     310-0500    T     0232 MIDDLETON                        EAVES S
   5    20  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     840-1030     W    0232 MIDDLETON                        EAVES S
   1    24  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     240-0430     W    0232 MIDDLETON                        EAVES S
  13    12  PSYC 2017         6  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     310-0500      TH  0232 MIDDLETON                        EAVES S
   1   127  PSYC 2040         2  SOCIAL PSYCHOLOGY      3.0   610-0900N  M      0009 LOCKETT                          KNAPP J
 (F)   123  PSYC 2040         1  SOCIAL PSYCHOLOGY      3.0   610-0900N     TH  0152 COATES                           ADAIR F
 (F)   111  PSYC 2060         3  EDUCATIONAL PSYC       3.0   310-0430   M W    0009 LOCKETT                          COOK C

@@ -7,5 +7,6 @@
   2    26  ASTR 1108 LAB     2  ASTRONOMY LAB          1.0   710-0900N   T     0365 NICHOLSON                        HAREMZA J
  10    18  ASTR 1109 LAB     1  ASTRONOMY LAB          1.0   710-0900N    W    0365 NICHOLSON                        KADAM K
   6     9  ASTR 4261         1  MOD OBSERVATIONAL T    3.0   140-0230    T     0118 NICHOLSON       CI-WRITTEN&SPOK  HYNES R
+                     LAB                                     740-1030N  M W    0118 NICHOLSON                        HYNES R
  24     1  ASTR 7741         1  STELLAR ASTROPHYSICS   3.0  1040-1200    T TH  0108 NICHOLSON                        TOHLINE J
  20        ASTR 7777 SEM     1  SEM: ASTR & ASTROPHY   1-6  1210-0100    T     0108 NICHOLSON                        SCHAEFER B

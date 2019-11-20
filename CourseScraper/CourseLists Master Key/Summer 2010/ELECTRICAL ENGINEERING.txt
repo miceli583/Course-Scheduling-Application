@@ -3,7 +3,9 @@
  15    15  EE   3320         1  ELEC MAGNETIC FLDS     3.0  1100-1200   MTWTF  1111 PATRICK TAYLOR                   RABALAIS M
   9    21  EE   3610         1  SIGNALS AND SYSTEMS    3.0  0950-1050   MTWTF  1111 PATRICK TAYLOR                   SCALZO J
 (F)    12  EE   3751         1  MICROPROCESSOR LAB     2.0   120-0220   M W    0102 TUREAUD HALL                     DE SOUZA G
+                     LAB                                     230-0430   M W    0302 ELECTRICAL ENGR                  DE SOUZA G
   4     8  EE   3751         3  MICROPROCESSOR LAB     2.0   120-0220   M W    0102 TUREAUD HALL                     DE SOUZA G
+                     LAB                                     230-0430    T TH  0302 ELECTRICAL ENGR                  DE SOUZA G
  15    15  EE   3950         1  ELECTRONICS            2.0  0840-0940   MTWTH  3142 PATRICK TAYLOR                   DE SOUZA G
 (F)     2  EE   4002         2  SPEC TOPICS IN E E     3.0  0840-0940   MTWTF  0008 ELECTRICAL ENGR                  FELDMAN M
 (F)     1  EE   7091 RES     1  E E RESEARCH           3.0  TBA                                     PERMIS OF DEPT   WU H

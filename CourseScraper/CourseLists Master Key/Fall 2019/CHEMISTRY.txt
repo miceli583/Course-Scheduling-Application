@@ -87,7 +87,9 @@
   5    11  CHEM 3493 LAB     1  PHYS CHEMISTRY LAB     3.0   130-0420   M W    0169 COATES          CI-WRITTEN&VISU  RUPNIK K
  88    11  CHEM 3900 RES     1  RESEARCH IN CHEM       1-3  TBA                                     PERMIS OF DEPT   RUPNIK K
  27     3  CHEM 4005         1  RESEARCH METHODS       3.0  1030-1220   M W    0205 PRESCOTT        CI-WRITTEN&SPOK  MESA D
+                     LAB                                    TBA                                                      MESA D
   9    16  CHEM 4010         1  MACROMOLEC SYS I       3.0   130-0320    T     0117 TUREAUD HALL                     SCHNEIDER G
+                     LAB                                     130-0320      TH                                        SCHNEIDER G
  22    18  CHEM 4150         1  ENVIRONMENTAL CHEM     3.0   130-0250    T TH  0201 WILLIAMS                         COOK R
  21    29  CHEM 4552         1  INSTRUMENTAL METHOD    2.0   930-1020   M W    0210 WILLIAMS                         MURRAY K
  12     4  CHEM 4553 LAB     1  LAB IN INSTRU METHOD   2.0   130-0420    T TH  0302 WILLIAMS        CI-WRITTEN&SPOK  RUPNIK K

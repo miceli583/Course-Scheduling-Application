@@ -9,8 +9,11 @@
 (F)    24  PETE 2034 LAB     4  ROCK/FLUID PROP LAB    1.0   800-0850    T     1109 PATRICK TAYLOR                   KAM S
   7    17  PETE 2034 LAB     6  ROCK/FLUID PROP LAB    1.0   800-0850    T     1109 PATRICK TAYLOR                   KAM S
   6    41  PETE 2060         1  COMP MTHDS PETE        2.0   330-0420    T     E130 HOWE RUSSELL E                   DAHI TALEGHAN
+                     LAB                                     900-1050      TH  3136 PATRICK TAYLOR                   DAHI TALEGHAN
  11    36  PETE 2060         2  COMP MTHDS PETE        2.0   330-0420    T     E130 HOWE RUSSELL E                   DAHI TALEGHAN
+                     LAB                                    1200-0150      TH  3136 PATRICK TAYLOR                   DAHI TALEGHAN
   4    43  PETE 2060         3  COMP MTHDS PETE        2.0   330-0420    T     E130 HOWE RUSSELL E                   DAHI TALEGHAN
+                     LAB                                     300-0450      TH  3136 PATRICK TAYLOR                   DAHI TALEGHAN
 (F)   167  PETE 3053         1  PETE ASP SUBS GEOL     3.0   300-0420    T TH  1109 PATRICK TAYLOR                   KIMBRELL W
 (F)     5  PETE 3053         2  PETE ASP SUBS GEOL     3.0  TBA                                                      KIMBRELL W
  10   110  PETE 4046         2  WELL DESIGN-PRODUCTN   3.0   130-0220   M W F  0005 LOCKETT                          TYAGI M

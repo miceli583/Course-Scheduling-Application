@@ -1,5 +1,8 @@
  13     7  DMAE 7110 LAB     1  PRIN PROD WORKSHOP     3.0   900-1150    T TH                                        AUBANEL M
  16     4  DMAE 7115         1  PROD & PROJ MNGMT      4.0   100-0350     W    0230EMIDDLETON                        AUBANEL M
+                     LAB                                     100-0350      TH  0230EMIDDLETON                        AUBANEL M
   7     3  DMAE 7150 LAB     1  PRODUCTION TEAM I      3.0   100-0350     W                                          WESLEY K
   5     2  DMAE 7155         1  ADV PROG & ART I       5.0   100-0350   M                                            WESLEY K
+                     LAB                                     100-0350       F                                        WESLEY K
   6     1  DMAE 7155         2  ADV PROG & ART I       5.0   100-0350   M                                            AUBANEL M
+                     LAB                                     100-0350       F                                        AUBANEL M

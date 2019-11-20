@@ -28,7 +28,9 @@
 (F)    15  ARCH 5001 LAB     1  COMP ARCH DESIGN       6.0  1240-0430   M W F                                        CARPENTER K
   2    13  ARCH 5001 LAB     2  COMP ARCH DESIGN       6.0  1240-0430   M W F                                        ZWIRN R
  34     6  ARCH 5005         3  ADV ARCH TECHNIQUES    3.0  1010-1100   M                                            EMERY MCCLURE
+                     LAB                                    1110-1200   M W                                          EMERY MCCLURE
  12    28  ARCH 5005         1  ADV ARCH TECHNIQUES    3.0   440-0530N    W    0201 DESIGN BUILDING                  ZWIRN R
+                     LAB                                     540-0730N    W    0201 DESIGN BUILDING                  ZWIRN R
  12    38  ARCH 5006         1  PROFESSIONAL PRACTIC   3.0   610-0900N  M      0201 DESIGN BUILDING                  TIPTON K
   2    10  ARCH 7002 LAB     1  GRAD DESN STUDIO II    6.0  1240-0430   M W F                                        SULLIVAN J
   4     8  ARCH 7004 LAB     1  GRAD DESN STUDIO IV    6.0  1240-0430   M W F                                        ERDMAN J

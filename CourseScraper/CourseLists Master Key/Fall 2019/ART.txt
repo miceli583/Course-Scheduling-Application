@@ -3,11 +3,17 @@
   2    15  ART  1009 LAB     1  INTR THREE-DIM COMP    3.0   830-1120   M W    0226 STUDIO ARTS BLD                  TILLMAN E
   4    14  ART  1010 LAB     1  INTRO TO DRAWING       3.0   300-0550    T TH  0227 FOSTER                           PARKER J
 (F)    18  ART  1011         1  2-DIMENSIONAL DESIGN   3.0   830-0920   M W    0209 DESIGN BUILDING MAJORS ONLY      COMBS S
+                     LAB                                     930-1120   M W    0209 DESIGN BUILDING                  COMBS S
   1    17  ART  1011         2  2-DIMENSIONAL DESIGN   3.0  1230-0120   M W    0209 DESIGN BUILDING MAJORS ONLY      COBB S
+                     LAB                                     130-0320   M W    0209 DESIGN BUILDING                  COBB S
   1    17  ART  1011         3  2-DIMENSIONAL DESIGN   3.0   330-0420   M W    0209 DESIGN BUILDING MAJORS ONLY      ABOUCHACRA D
+                     LAB                                     430-0620N  M W    0209 DESIGN BUILDING                  ABOUCHACRA D
   4    13  ART  1011         6  2-DIMENSIONAL DESIGN   3.0   630-0720N  M W    0209 DESIGN BUILDING                  ZORN M
+                     LAB                                     730-0920N  M W    0209 DESIGN BUILDING                  ZORN M
 (F)    20  ART  1011         4  2-DIMENSIONAL DESIGN   3.0   900-0950    T TH  0209 DESIGN BUILDING MAJORS ONLY      ANDRESEN S
+                     LAB                                    1000-1150    T TH  0209 DESIGN BUILDING                  ANDRESEN S
 (F)    19  ART  1011         5  2-DIMENSIONAL DESIGN   3.0  1200-1250    T TH  0209 DESIGN BUILDING MAJORS ONLY      ANDRESEN S
+                     LAB                                     100-0250    T TH  0209 DESIGN BUILDING                  ANDRESEN S
 (F)    15  ART  1012 LAB     2  3-DIMENSIONAL DESN     3.0   330-0620   M W    0226 STUDIO ARTS BLD MAJORS ONLY      MOLECKE H
 (F)    17  ART  1012 LAB     3  3-DIMENSIONAL DESN     3.0   900-1150    T TH  0226 STUDIO ARTS BLD MAJORS ONLY      WALSH M
 (F)    16  ART  1012 LAB     4  3-DIMENSIONAL DESN     3.0  1200-0250    T TH  0226 STUDIO ARTS BLD MAJORS ONLY      TIPTON R
@@ -33,9 +39,13 @@
   1    16  ART  1849 LAB     1  INTRO TO PAINTING      3.0  1230-0320   M W    0203 FOSTER          MAJORS ONLY      SMITH E
 (F)    18  ART  1849 LAB     3  INTRO TO PAINTING      3.0   330-0620   M W    0203 FOSTER          MAJORS ONLY      MALVETO J
   2    18  ART  2050         3  DIGITAL ART I          3.0   830-0920   M W    0113 ART BUILDING    MAJORS ONLY      STABLER H
+                     LAB                                     930-1120   M W    0113 ART BUILDING                     STABLER H
 (F)    20  ART  2050         1  DIGITAL ART I          3.0  1230-0220   M W    0108 ART BUILDING    MAJORS ONLY      RESTREPO PERE
+                     LAB                                     230-0320   M W    0108 ART BUILDING                     RESTREPO PERE
 (F)    20  ART  2050         2  DIGITAL ART I          3.0   330-0520   M W    0108 ART BUILDING    MAJORS ONLY      DAO N
+                     LAB                                     530-0620N  M W    0108 ART BUILDING                     DAO N
 (F)    20  ART  2055         1  DIGITAL ART II         3.0   600-0850N   T     0330 ART BUILDING                     FLEIG J
+                     LAB                                     600-0850N     TH  0330 ART BUILDING                     FLEIG J
   2    20  ART  2210 LAB     2  CREATIVE CODING        3.0  1230-0320   M W    0330 ART BUILDING                     YANG J
 (F)    25  ART  2210 LAB     1  CREATIVE CODING        3.0  1200-0250    T TH  0319 ART BUILDING    PERMIS OF INST   OSTRENKO F
 (F)    23  ART  2220 LAB     1  MOVING IMAGE           3.0   900-1150    T TH  0330 ART BUILDING    PERMIS OF INST   DOLEJSI M
@@ -47,7 +57,9 @@
   2    16  ART  2544 LAB     2  LETTERFORMS            3.0   900-1150    T TH  0319 ART BUILDING    PERMIS OF INST   DOUBLEDAY R
  14     1  ART  2545 LAB     1  HONORS LETTER FORMS    3.0  TBA                                                      DEAN P
 (F)    20  ART  2551         1  TYPOGRAPHY-VIS.COMM.   3.0   330-0520   M W    0113 ART BUILDING    MAJORS ONLY      DEAN P
+                     LAB                                     530-0620N  M W    0113 ART BUILDING                     DEAN P
 (F)    20  ART  2551         2  TYPOGRAPHY-VIS.COMM.   3.0  1200-1250    T TH  0113 ART BUILDING    MAJORS ONLY      RESTREPO PERE
+                     LAB                                     100-0250    T TH                                        RESTREPO PERE
   1    17  ART  2564 LAB     1  GRAPHIC ABSTRACTN      3.0  1230-0320   M W    0211 ART BUILDING    PERMIS OF INST   BOWER G
 (F)    18  ART  2564 LAB     2  GRAPHIC ABSTRACTN      3.0   900-1150    T TH  0211 ART BUILDING    PERMIS OF INST   BOWER G
   4     9  ART  2661 LAB     1  INTERMED CERAMICS      3.0   600-0850N   T TH  0154 STUDIO ARTS BLD PERMIS OF INST   MADDOCKS J

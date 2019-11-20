@@ -95,7 +95,9 @@
   4    12  CHEM 3493 LAB     1  PHYSICAL CHEM LAB      3.0   130-0420   M W    0205 COATES          CI-WRITTEN&VISU  RUPNIK K
  81    18  CHEM 3900 RES     1  CHEMICAL PROBLEMS      1-3  TBA                                     PERMIS OF DEPT   RUPNIK K
  28     2  CHEM 4005         1  RESEARCH METHODS       3.0  1030-1220   M W    0205 PRESCOTT                         JOHNSON W
+                     LAB                                    TBA                                                      JOHNSON W
   5    11  CHEM 4010         1  MACROMOLEC SYS I       3.0   130-0320    T     0201 WILLIAMS                         ZHANG D
+                     LAB                                     130-0320      TH  0201 WILLIAMS                         ZHANG D
  36    14  CHEM 4150         1  ENVIRONMENTAL CHEM     3.0   130-0250    T TH  0214 WILLIAMS        CI-WRITTEN&SPOK  COOK R
   9    41  CHEM 4552         1  INSTR CHAR ORG COMPS   2.0   930-1020   M W    0201 WILLIAMS                         MACNAUGHTAN M
  12     4  CHEM 4553 LAB     1  EXP INST CHAR ORG CP   2.0   130-0420    T TH  0302 WILLIAMS                         RUPNIK K

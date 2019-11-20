@@ -4,6 +4,7 @@
  51    19  PETE 2032         1  RESERVOIR FLUID PROP   3.0  1030-1120   M W F  1221 PATRICK TAYLOR                   WILLIAMS W
  19     1  PETE 2032         2  RESERVOIR FLUID PROP   3.0  TBA                                                      WILLIAMS W
   9    36  PETE 2061         1  STATS DATA VISUAL      2.0   900-0950    T     1236 PATRICK TAYLOR                   OLORODE F
+                     LAB                                     830-1020      TH                                        OLORODE F
 106    59  PETE 3025         1  ECON ASPECTS PET PRO   3.0   730-0850    T TH  1202 PATRICK TAYLOR                   HUGHES R
  87    61  PETE 3036         1  WELL LOGGING           3.0   230-0320   M W F  1202 PATRICK TAYLOR                   SHARMA J
 (F)    20  PETE 3037 LAB     2  PETE FIELD OPERATNS    1.0   530-0620N  M      1202 PATRICK TAYLOR  CI-WRITTEN       WALTRICH P

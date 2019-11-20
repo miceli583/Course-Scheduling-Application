@@ -3,12 +3,18 @@
   1   124  HUEC 2010         1  NUTRITION IN HEALTH    3.0  1240-0130   M W F  0102 ALLEN                            MYHAND J
  90    90  HUEC 2010         2  NUTRITION IN HEALTH    3.0   240-0330   M W F  0010 LOCKETT                          CHANMUGAM P
 (F)    15  HUEC 2014         1  FOOD FUNDAMENTALS      4.0   940-1030   M W F  0132 J C MILLER      MAJORS ONLY      MYHAND J
+                     LAB                                     740-1030    T     0219 HUMAN ECOLOGY                    MYHAND J
   7    11  HUEC 2014         2  FOOD FUNDAMENTALS      4.0   940-1030   M W F  0132 J C MILLER      MAJORS ONLY      MYHAND J
+                     LAB                                     740-1030      TH  0219 HUMAN ECOLOGY                    MYHAND J
  27    33  HUEC 2019         1  NUTRIT EDUC & COUNSL   3.0  1040-1200    T TH  0134 J C MILLER                       MILIOTO B
 (F)    18  HUEC 2032         1  INTRO APPAREL DESIGN   4.0   910-1000    T TH  0108 TUREAUD HALL    MAJORS ONLY      WELKER D
+                     LAB                                    1010-1200    T TH  0247 HUMAN ECOLOGY                    WELKER D
 (F)    18  HUEC 2032         2  INTRO APPAREL DESIGN   4.0   910-1000    T TH  0108 TUREAUD HALL    MAJORS ONLY      WELKER D
+                     LAB                                     940-1130   M W    0247 HUMAN ECOLOGY                    WELKER D
   2    13  HUEC 2037         1  APPAREL STRUCT & FIT   4.0   910-1000    T TH  0244 HUMAN ECOLOGY   MAJORS ONLY      BOURGEOIS E
+                     LAB                                    1010-1200    T TH  0244 HUMAN ECOLOGY                    BOURGEOIS E
   5    10  HUEC 2037         2  APPAREL STRUCT & FIT   4.0   310-0400    T TH  0244 HUMAN ECOLOGY   MAJORS ONLY      ALDRIDGE R
+                     LAB                                     410-0600    T TH  0244 HUMAN ECOLOGY                    ALDRIDGE R
  22    63  HUEC 2040         1  TEXTILE SCIENCE        3.0   840-0930   M W F  0214 WILLIAMS                         VINCI P
 (F)    30  HUEC 2041 LAB     1  TEXTILE SCIENCE LAB    1.0   140-0430   M      0251 HUMAN ECOLOGY                    RAMIREZ S
 (F)    30  HUEC 2041 LAB     3  TEXTILE SCIENCE LAB    1.0   140-0430       F  0251 HUMAN ECOLOGY                    KOBIA C
@@ -17,7 +23,9 @@
  22    34  HUEC 2110         1  MTHDS NUTRNL ASSESS    3.0   140-0300    T TH  0132 J C MILLER      MAJORS ONLY      MILIOTO B
   4    12  HUEC 3021 LAB     1  QUANT FOOD PROD LAB    2.0  1240-0430    T     0219 HUMAN ECOLOGY                    PULS J
 (F)    29  HUEC 3043         1  APP MARCHAND STRAT &   3.0  1210-0100    T TH  0102 TUREAUD HALL    MAJORS ONLY      FREEMAN C
+                     LAB                                     140-0330    T     0230EMIDDLETON                        FREEMAN C
 (F)    27  HUEC 3043         2  APP MARCHAND STRAT &   3.0  1210-0100    T TH  0102 TUREAUD HALL    MAJORS ONLY      FREEMAN C
+                     LAB                                     140-0330      TH  0230EMIDDLETON                        FREEMAN C
  22    23  HUEC 3056         1  CHLD COG & LING DV     3.0   140-0300    T TH  0206 WILLIAMS                         PIERCE S
   2    63  HUEC 3060         1  FAMILY FINANCE         3.0   910-1030    T TH  0221 TUREAUD HALL                     LAWRENCE F
   3    27  HUEC 3065         1  AD-CHLD RELATIONSHIP   3.0  1210-0130    T TH  0152 HUMAN ECOLOGY                    DICARLO C
@@ -47,17 +55,23 @@
  13    32  HUEC 4023         1  MGMT IN DIETETICS      3.0   240-0330   M W F  0206 WILLIAMS                         PULS J
  98     1  HUEC 4027 CLI     1  PRACTICUM IN DIETETI   1-3  TBA                                     PERMIS OF INST   O'NEIL C
 (F)    25  HUEC 4034         1  TEXTILE & APPAREL PR   3.0   910-1000    T TH  0244 LOCKETT                          NEGULESCU I
+                     LAB                                    1010-1200    T     0251 HUMAN ECOLOGY                    NEGULESCU I
  38    37  HUEC 4041         1  HISTORY OF TEXTILES    3.0  1240-0130   M W F  0006 LOCKETT                          KUTTRUFF J
   5    20  HUEC 4043         1  ADVANCED TEXTILES      3.0   340-0530    T     0251 HUMAN ECOLOGY                    NEGULESCU I
+                     LAB                                     340-0530      TH  0251 HUMAN ECOLOGY                    NEGULESCU I
 (F)    19  HUEC 4045         1  SYNTH: TEXTIL & APP    3.0  1210-0100    T     0244 HUMAN ECOLOGY                    MCROBERTS L
+                     LAB                                     110-0300    T TH  0244 HUMAN ECOLOGY                    MCROBERTS L
   8    27  HUEC 4051         1  ADOLESCENT & FAMILY    3.0  1040-1200    T TH  0152 HUMAN ECOLOGY                    MITCHELL K
  10    20  HUEC 4065         1  FAMILY LIFE EDUCTN     3.0   310-0430    T TH  0152 HUMAN ECOLOGY                    CHANEY C
  13    17  HUEC 4067 CLI     1  INTERN FAM CHLD CONS   8.0   740-1030   M      0152 HUMAN ECOLOGY   MAJORS ONLY      MARKS L
  31    69  HUEC 4070         1  ENTREPR IN HUM ECOLG   3.0   310-0430   M W    0103 TUREAUD HALL                     LIU C
  31    84  HUEC 4071         1  DRESS/ADRNMENT TO 17   3.0   840-0930   M W F  0102 ALLEN                            KUTTRUFF J
 (F)    23  HUEC 4110         1  CAPSTONE NUTR SCI      3.0   740-0830    T TH  0208 WILLIAMS        CI-WRITTEN&SPOK  O'NEIL C
+                     LAB                                     840-1130    T     0208 WILLIAMS                         O'NEIL C
   1    21  HUEC 4110         2  CAPSTONE NUTR SCI      3.0   740-0830    T TH  0208 WILLIAMS                         O'NEIL C
+                     LAB                                     840-1130      TH  0208 WILLIAMS                         O'NEIL C
  18    14  HUEC 4381         1  STUDENT TEACH: PK/K   12.0  TBA                                                      BAUMGARTNER J
+                     LAB                                    TBA                                                      MCCOLLISTER T
   5     7  HUEC 7010 SEM     1  FOOD-NUTRITION SEM     1.0   240-0330     W                                          LAMMI-KEEFE C
   5    11  HUEC 7011         1  NUTRIGENOMICS          1-4   310-0500   M      0100 TUREAUD HALL                     MARTIN R
   5     5  HUEC 7031         1  SOC-PSYC THRS DRESS    3.0   910-1030    T TH                                        BELLEAU B

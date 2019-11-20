@@ -1,21 +1,30 @@
 (F)    31  IE   2060         1  INT USE OF COMPUTERS   3.0   900-0950    T TH  0203 TUREAUD HALL    CI-WRITTEN&SPOK  JEON H
+                     LAB                                     300-0550    T     1302BPATRICK TAYLOR
 (F)    30  IE   2060         2  INT USE OF COMPUTERS   3.0   900-0950    T TH  0203 TUREAUD HALL    CI-WRITTEN&SPOK  JEON H
+                     LAB                                     300-0550     W    1413 PATRICK TAYLOR
 (F)   103  IE   2400         1  METHODS & SYST ENGR    3.0  1130-1220   M W    0103 TUREAUD HALL                     IKUMA L
+                     LAB                                     300-0550   M
 (F)    60  IE   3201         1  PRIN ENGR ECONOMY      3.0   130-0250    T TH  0211 TUREAUD HALL                     AGHAZADEH F
 121   233  IE   3302         1  ENGR STATISTICS        3.0   830-0920   M W F  0100 DODSON                           LIAO T
   3        IE   3699 CLI     1  ENGINEERING PRACTICE   3.0  TBA
  21    20  IE   4113         1  PROJECT MANAGEMENT     3.0  1030-1150    T TH  0117 TUREAUD HALL                     NAHMENS I
 (F)    48  IE   4425         1  INFO SYST ENGR         3.0   130-0220   M W    0218 TUREAUD HALL    CI-WRITTEN&SPOK  KNAPP G
+                     LAB                                     300-0550      TH  1302BPATRICK TAYLOR
  24    52  IE   4453         1  QUALITY CONT & SIX S   3.0  1000-1120   M W    0221 TUREAUD HALL                     LIAO T
 (F)    29  IE   4461         1  HUMAN FACTORS ENGR     3.0  1200-1250    T TH  0221 TUREAUD HALL    CI-WRITTEN&SPOK  AGHAZADEH F
+                     LAB                                     300-0550    T     2228 PATRICK TAYLOR
   1    24  IE   4461         2  HUMAN FACTORS ENGR     3.0  1200-1250    T TH  0221 TUREAUD HALL    CI-WRITTEN&SPOK  AGHAZADEH F
+                     LAB                                     300-0550     W    2218 PATRICK TAYLOR
  13     2  IE   4465         1  BIOMECHANICS FOR ENG   3.0  1030-1120   M W    0109 TUREAUD HALL
+                     LAB                                     130-0420     W    0211 TUREAUD HALL
  22    54  IE   4520         1  SUPPLY CHAIN LOGISTI   3.0   130-0250    T TH  0221 TUREAUD HALL                     SARKER B
  30    10  IE   4597         1  IE SENIOR DESIGN I     2.0   230-0320     W    2228 PATRICK TAYLOR  CI-WRITTEN&SPOK  IKUMA L
+                     LAB                                     330-0420     W
  20    20  IE   4598 LAB     1  IE SENIOR DESIGN II    2.0   230-0520     W F                       CI-WRITTEN&SPOK  IKUMA L
   1        IE   4785 RES     1  SPEC TOP IND ENGR      1-3  TBA
   6     4  IE   4785 RES     2  SPEC TOP IND ENGR      1-3  TBA                                                      NAHMENS I
  11     9  IE   7425         2  ADV INFO SYST ENGR     3.0   930-1020   M W    3403 PATRICK TAYLOR                   KNAPP G
+                     LAB                                     300-0550     W    3403 PATRICK TAYLOR
  31     9  IE   7722         1  SPECIAL TOPICS IE      3.0   130-0250    T TH  0129 TUREAUD HALL                     NAHMENS I
   6     4  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                                      KNAPP G
   1     1  IE   7724 IND     2  INDEP STUDY IE         1-3  TBA                                                      SARKER B

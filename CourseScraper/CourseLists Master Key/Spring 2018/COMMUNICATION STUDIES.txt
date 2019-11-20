@@ -18,6 +18,7 @@
 (F)    40  CMST 2010         2  INTERPERSNL COMMNCTN   3.0  1030-1120   M W F  0225 COATES                           OSMANOVIC S
  31    69  CMST 2010         3  INTERPERSNL COMMNCTN   3.0   900-1020    T TH  0152 COATES                           PRIDE-SHAW S
   3    17  CMST 2012         2  INTRO TO FILM          4.0   130-0250    T TH  0202 COATES                           LANGNER G
+                     LAB                                     600-0850N   T     0151 COATES                           LANGNER G
   1    23  CMST 2040         1  INTR TO PERFORM LITR   3.0   830-0920   M W F  0137 COATES                           BENNETT N
 (F)    24  CMST 2040         2  INTR TO PERFORM LITR   3.0   930-1020   M W F  0137 COATES                           BENNETT N
   1    23  CMST 2040         3  INTR TO PERFORM LITR   3.0   900-1020    T TH  0137 COATES                           SCHARES E
@@ -103,6 +104,7 @@
   8     2  CMST 2200 CLI     2  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   COLLINS C
  10        CMST 2200 CLI     3  PRACT COMM STUDIES     1-3  TBA                                     PERMIS OF DEPT   REED J
   3    57  CMST 3012         1  HISTORY OF FILM        4.0   130-0220   M W F  0145 COATES                           SUCHY P
+                     LAB                                     600-0850N    W    0145 COATES                           VIGUEIRA G
   2    22  CMST 3040         1  PERFORMANCE COMPOSIT   3.0  1030-1120   M W F  0137 COATES                           SAMPSON C
   1    29  CMST 3041         1  PERF IN EVERYDAY LIF   3.0   900-1020    T TH  0111 COATES                           MCELEARNEY P
   1    25  CMST 3060         1  ADV PUBLIC SPEAKING    3.0   900-1020    T TH  0237 COATES          CI-WRITTEN&SPOK  MCDONALD B

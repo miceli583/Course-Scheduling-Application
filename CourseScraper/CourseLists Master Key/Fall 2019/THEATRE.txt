@@ -11,6 +11,7 @@
 (F)    19  THTR 1025         3  ACTING I               3.0  1030-1150    T TH  0135 M&DA BLDG                        KERR K
 (F)    20  THTR 1025         5  ACTING I               3.0   130-0250    T TH  0125 M&DA BLDG                        WHITE A
 (F)    20  THTR 1029         1  STG MVMNT I            3.0   900-1020    T     0166 M&DA BLDG       CI-WRITTEN&VISU  ERICKSON N
+                     LAB                                     900-1020      TH  0166 M&DA BLDG                        ERICKSON N
   5    25  THTR 1127 LAB     1  BEGIN MODERN DANCE     1.0   900-1020    T TH  0123AM&DA BLDG                        RIBEIRO DA SI
  10    20  THTR 1131 LAB     1  BEGIN BALLET           1.0   930-1050   M W    0123AM&DA BLDG                        PERLIS S
   2    28  THTR 1153 LAB     1  BEGIN JAZZ DANCE       1.0   130-0250    T TH  0123AM&DA BLDG                        SANDRIDGE M
@@ -50,9 +51,13 @@
   5    13  THTR 2031 LAB     3  AERIAL PRACTICE I      1.0   130-0220   M W F  0166 M&DA BLDG                        RIBEIRO DA SI
 (F)    31  THTR 2130         1  SCRIPT ANALYSIS        3.0   130-0220   M W F  0301 M&DA BLDG                        FLETCHER J
  16     9  THTR 2735         1  FILM NEW MEDIA I       3.0  1030-1150    T TH  0301 M&DA BLDG                        PLETCHER I
+                     LAB                                    1030-1150    T TH                                        PLETCHER I
   3     7  THTR 2830         1  TECH DRAFTING THEATR   3.0   130-0250    T TH  0181 M&DA BLDG                        HOUSTON T
+                     LAB                                    TBA                                                      HOUSTON T
 (F)    17  THTR 3025         1  ACTING III             3.0   900-1020    T TH  0125 M&DA BLDG                        JUDY G
+                     LAB                                     900-1020    T TH                                        JUDY G
 (F)    18  THTR 3026         1  INTRO ACT FOR CAMERA   3.0  1030-1150    T TH  0125 M&DA BLDG                        CHREST J
+                     LAB                                    1030-1150    T TH                                        CHREST J
 (F)    36  THTR 3120         1  THTR HIST/LIT I        3.0  1130-1220   M W F  0121 ALLEN                            SIKES A
   6     6  THTR 3123 LAB     1  COSTUME CONSTRUCTION   3.0   900-1020    T TH  0173 M&DA BLDG                        KAZUSCHYK K
   1     7  THTR 3530         1  SOUND TECHNOLOGY       3.0   900-1020    T TH  0314 M&DA BLDG                        CHO E
@@ -75,12 +80,15 @@
  23     7  THTR 7002         1  DANCE FOR ACTORS       1.0   830-0950       F  0123AM&DA BLDG                        RIBEIRO DA SI
   2    10  THTR 7130         1  SCRIPT ANALYSIS/DRAM   3.0  1130-1220   M W F  0193 M&DA BLDG                        FLETCHER J
   8     7  THTR 7220         1  ACTING STUDIO I        3.0   230-0350   M W    0135 M&DA BLDG                        COOKE S
+                     LAB                                    TBA                                                      COOKE S
 (F)     8  THTR 7227         1  VOICE STUDIO I         3.0   300-0420    T TH  0166 M&DA BLDG                        SANSOM R
+                     LAB                                    TBA                                                      SANSOM R
 (F)     7  THTR 7233         1  MOVEMENT STUDIO I      3.0   900-1020   M W    0166 M&DA BLDG                        ERICKSON N
   2     4  THTR 7421         1  ADV SCENE DSGN I       3.0   900-1020    T TH  0181 M&DA BLDG                        HOUSTON T
   4     2  THTR 7525         1  ADV CSTM TECH II       3.0   130-0420      TH  0173 M&DA BLDG                        BERNARDONI J
   3     3  THTR 7601         1  SHOP TECH SAFETY I     3.0   900-1020   M W    0155 M&DA BLDG                        WOOD C
   7     3  THTR 7801         1  PROPERTIES I           3.0  1030-1150    T TH  0167 M&DA BLDG                        EDDY J
+                     LAB                                    TBA                                                      EDDY J
   5     7  THTR 7901         1  ANCIENT THTR & PERF    3.0   130-0250    T TH  0193 M&DA BLDG                        SIKES A
   4     6  THTR 7920 SEM     1  DRAMA OF AFR DIASPOR   3.0  1030-1150    T TH  0193 M&DA BLDG                        EUBA F
   1     5  THTR 7930 LAB     1  THEATRE PRODUCTION     1-12 TBA                                                      MURPHY J

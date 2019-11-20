@@ -1,15 +1,22 @@
   7    18  BE   1250 LAB     1  INTRO ENGR METHODS     2.0   140-0430   M W    0106 AG METAL BLDG   CI-VISUAL&TECH   MONROE W
 (F)    25  BE   1252         1  BIOL IN ENGINEERING    2.0  1240-0130    T     0109 TUREAUD HALL    CI-WRITTEN&SPOK  LIMA M
+                     LAB                                     140-0430     W    0115 E B DORAN                        LIMA M
 (F)    25  BE   1252         2  BIOL IN ENGINEERING    2.0  1240-0130    T     0109 TUREAUD HALL                     LIMA M
+                     LAB                                     140-0430      TH  0115 E B DORAN                        LIMA M
   8    17  BE   1252         3  BIOL IN ENGINEERING    2.0  1240-0130    T     0109 TUREAUD HALL                     LIMA M
+                     LAB                                     140-0430       F  0115 E B DORAN                        LIMA M
   8    17  BE   2350         1  EXPER METH FOR ENGRS   3.0   810-0900    T TH  0103 TUREAUD HALL                     BOLDOR D
+                     LAB                                     140-0430      TH  0140 AG METAL BLDG                    BOLDOR D
  10    15  BE   2350         2  EXPER METH FOR ENGRS   3.0   810-0900    T TH  0103 TUREAUD HALL                     BOLDOR D
+                     LAB                                     140-0430    T     0140 AG METAL BLDG                    BOLDOR D
   3    37  BE   3290         1  PROFESSIONALISM        2.0  1040-1230       F  0116 TUREAUD HALL    CI-WRITTEN&VISU  THOMAS D
  11    39  BE   3340         1  PROC DESN FOR BIOL E   3.0   940-1030    T TH  0228 TUREAUD HALL                     SABLIOV C
+                     LAB                                     140-0430   M      0228 TUREAUD HALL                     SABLIOV C
  24     1  BE   3989 RES     1  SPEC PROJ IN BIOL EN   1-4  TBA                                                      BENGTSON R
  24     1  BE   3989 RES     2  SPEC PROJ IN BIOL EN   1-4  TBA                                                      MONROE W
   1    34  BE   4292 LAB     1  SENIOR ENGR DESN LAB   2.0   440-0730N  M W    0112 TUREAUD HALL                     HAYES D
   5    20  BE   4323         1  BIOMECHANICS FOR ENG   3.0  1040-1130   M W    0115 E B DORAN                        MONROE W
+                     LAB                                     140-0430     W    0116 AG METAL BLDG                    MONROE W
   5    45  BE   4352         1  TRANSPRT PHEN BIOL E   3.0  1040-1200    T TH  0215 TUREAUD HALL                     THEEGALA C
   2    33  BE   4380         1  AQUACULTURAL ENGR      3.0  1210-0130    T TH  0116 TUREAUD HALL                     HALL S
   5    15  BE   4989 RES     1  TISSUE ENGR            1-4   840-0930   M W F  0115 E B DORAN                        HAYES D

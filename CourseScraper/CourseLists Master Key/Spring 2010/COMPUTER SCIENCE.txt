@@ -1,10 +1,15 @@
   3    16  CSC  1100         1  COMPUTERS IN SOCIETY   3.0  1140-1230   M W    0145 COATES                           GUILLOTT B
+                     LAB                                    1040-1230       F  0168 COATES
   1    17  CSC  1100         2  COMPUTERS IN SOCIETY   3.0  1140-1230   M W    0145 COATES                           GUILLOTT B
+                     LAB                                     240-0430   M      0168 COATES
 (F)    18  CSC  1100         3  COMPUTERS IN SOCIETY   3.0  1140-1230   M W    0145 COATES                           GUILLOTT B
+                     LAB                                    1240-0230       F  0168 COATES
   4    14  CSC  1100         4  COMPUTERS IN SOCIETY   3.0  1140-1230   M W    0145 COATES                           GUILLOTT B
+                     LAB                                     240-0430     W    0168 COATES
   2    30  CSC  1200         1  ETHICS IN COMPUTING    1.0  1240-0130     W    0215 TUREAUD HALL                     BURRIS J
   5    26  CSC  1200         2  ETHICS IN COMPUTING    1.0   240-0330     W    0218 TUREAUD HALL                     BURRIS J
  40    10  CSC  1240         1  STATS & GRAPH MATLB    3.0  1240-0130   M W    0218 TUREAUD HALL                     BRENER N
+                     LAB                                    1240-0230       F  0232 MIDDLETON                        BRENER N
   4    36  CSC  1253         1  COMP SCI WITH C++      3.0  1040-1200    T TH  0225 COATES          CI-WRITTEN&TECH  DOUGLAS C
   1    52  CSC  1253         2  COMP SCI WITH C++      3.0  1210-0130    T TH  2171 PATRICK TAYLOR                   DUNCAN W
   3    48  CSC  1253         3  COMP SCI WITH C++      3.0   140-0300    T TH  0145 COATES                           BLANKS L
@@ -16,7 +21,9 @@
  23    17  CSC  2259         1  DISCRETE STRUCTURES    3.0   140-0300    T TH  0102 COATES                           KANNAN R
   2    48  CSC  2262         1  NUMERICAL METHODS      3.0   310-0430    T TH  0215 TUREAUD HALL                     SHAH R
   3    57  CSC  2533         1  INTRO ENGR COMPUT      3.0   940-1030   M W    0218 TUREAUD HALL                     BRENER N
+                     LAB                                     240-0530       F  0232 MIDDLETON                        BRENER N
   6    54  CSC  2533         2  INTRO ENGR COMPUT      3.0   910-1000    T TH  0218 TUREAUD HALL                     BRENER N
+                     LAB                                     510-0800N     TH  0232 MIDDLETON                        BRENER N
  14    26  CSC  3102         1  ADV DATA STRUCTURES    3.0   510-0630N  M W    0234 COATES                           KUNDU S
   5    55  CSC  3380         1  OBJ ORIENTED DESIGN    3.0  1210-0130    T TH  0220 COATES                           MUKHOPADHYAY
   6    44  CSC  3501         1  COMP ORGANIZATN/DSN    3.0   910-1030    T TH  0215 WILLIAMS                         ZHANG J

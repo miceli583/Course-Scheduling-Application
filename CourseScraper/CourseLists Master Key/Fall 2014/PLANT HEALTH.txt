@@ -1,6 +1,9 @@
 (F)    23  PLHL 4000         1  GEN PLANT PATHOLOGY    4.0  1030-1150    T TH  1116 PATRICK TAYLOR                   SCHNEIDER R
+                     LAB                                     130-0420      TH  0308 LIFE SCIENCES                    SCHNEIDER R
  19     6  PLHL 7000         2  PHYTONEMATOLOGY        4.0  1030-1150    T TH  0308 LIFE SCIENCES                    MCGAWLEY E
+                     LAB                                    TBA                                                      MCGAWLEY E
  22     8  PLHL 7040         1  PLANT VIROLOGY         4.0   800-0850   M W    A465 LIFE SCIENCES A                  VALVERDE R
+                     LAB                                     800-0950     W    0308 LIFE SCIENCES                    VALVERDE R
   9     6  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W    A465 LIFE SCIENCES A                  DAMANN K
  98     1  PLHL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HOY J
  97     2  PLHL 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      SCHNEIDER R

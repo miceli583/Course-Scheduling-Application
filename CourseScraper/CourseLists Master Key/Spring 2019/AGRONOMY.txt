@@ -1,11 +1,17 @@
 111   179  AGRO 1001         1  PLANTS AND PEOPLE      3.0   130-0250    T TH  0100 DODSON                           FONTENOT K
+                     LAB                                     130-0250    T TH  0100 DODSON                           FONTENOT K
   2     1  AGRO 2011         1  ANAL ENV ISSUES        3.0   900-1020    T TH  0132 M B STURGIS     CI-WRITTEN&SPOK  WALSH M
   6    13  AGRO 2051         1  SOIL SCIENCE           4.0   830-0920   M W F  0134 M B STURGIS                      GASTON L
+                     LAB                                    1230-0220   M      0241 M B STURGIS                      GASTON L
   3     9  AGRO 2051         2  SOIL SCIENCE           4.0   830-0920   M W F  0134 M B STURGIS                      GASTON L
+                     LAB                                     230-0420   M      0241 M B STURGIS                      GASTON L
  99        AGRO 3090 CLI     1  AGRO INTERNSHIP        3.0  TBA                                     PERMIS OF INST   WALSH M
  11    17  AGRO 4052         1  SOIL FERTILITY & MGT   4.0   930-1020   M W F  0135 M B STURGIS                      TUBANA B
+                     LAB                                     230-0420    T                                           TUBANA B
 (F)    10  AGRO 4056         1  MICROB ECOL & NUTR C   4.0  1030-1150    T TH  0132 M B STURGIS                      FULTZ L
+                     LAB                                     130-0420      TH  0241 M B STURGIS                      FULTZ L
   5    20  AGRO 4070         1  WEED SCIENCE & ENVIR   3.0   130-0220   M W    0135 M B STURGIS                      LAZARO L
+                     LAB                                     230-0420   M      0135 M B STURGIS                      LAZARO L
   3     2  AGRO 4087         1  BEST PRACT SUST AG     3.0   100-0220   M W    0108 TUREAUD HALL                     LEBLANC B
   5        AGRO 4091 RES     2  PLANT MOLEC BREEDING   1-3  TBA                                     PERMIS OF INST   JAMPALA B
   9    11  AGRO 7001 SEM     1  AGRONOMY SEMINAR       1.0  1130-1220       F  0134 M B STURGIS                      OARD J

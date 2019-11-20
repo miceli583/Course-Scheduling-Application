@@ -17,9 +17,13 @@
 (F)    25  CE   3410 LAB     2  MECHNCS OF MATLS LAB   1.0   230-0520     W    0101 TUREAUD HALL                     WU Z
   1    59  CE   3415         1  STRUCTRL ANALYSIS I    3.0   900-1020    T TH  2161 PATRICK TAYLOR                   BARBATO M
 (F)    25  CE   3500         1  PLANE SURV & MEASURE   3.0  1130-1220   M W    0105 TUREAUD HALL                     MUGNIER C
+                     LAB                                     230-0520   M                                            MUGNIER C
 (F)    26  CE   3500         2  PLANE SURV & MEASURE   3.0  1130-1220   M W    0105 TUREAUD HALL                     MUGNIER C
+                     LAB                                     230-0520     W                                          MUGNIER C
 (F)    25  CE   3500         3  PLANE SURV & MEASURE   3.0  1130-1220   M W    0105 TUREAUD HALL                     MUGNIER C
+                     LAB                                    1200-0250      TH                                        MUGNIER C
   1    24  CE   3500         4  PLANE SURV & MEASURE   3.0  1130-1220   M W    0105 TUREAUD HALL                     MUGNIER C
+                     LAB                                    1230-0320       F                                        MUGNIER C
  21    39  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1030-1150    T TH  2170 PATRICK TAYLOR                   ISHAK S
   1    20  CE   3700 LAB     1  ENGINEERING MAT LAB    1.0   230-0520     W    2103 PATRICK TAYLOR                   SALARI S
 (F)    21  CE   3700 LAB     2  ENGINEERING MAT LAB    1.0   130-0420      TH  0101 TUREAUD HALL                     SALARI S
@@ -32,11 +36,16 @@
  38    22  CE   4435         1  INDETERM STRUCT ANAL   3.0   130-0250    T TH  2161 PATRICK TAYLOR                   BARBATO M
  29    21  CE   4440         1  ADV MCHNCS OF MATRLS   3.0   130-0250   M W    1112 PATRICK TAYLOR                   MOORTHY S
  21    19  CE   4500         1  GEODETIC PHOTO SUR     3.0   500-0650N  M      1110 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     700-0950N  M                                            MUGNIER C
  24    26  CE   4520         1  ADVANCED SURVEYING     3.0   500-0650N   T     1111 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     700-0950N   T                                           MUGNIER C
  46    10  CE   4600         1  GEOM DESN HWY/AIRPRT   3.0   830-0920   M W F  2161 PATRICK TAYLOR                   WOLSHON P
+                     LAB                                     830-1120     W    2169 PATRICK TAYLOR                   WOLSHON P
 (F)    51  CE   4670         1  FUND OF PAVEMENT DES   3.0   130-0250    T TH  1111 PATRICK TAYLOR                   SHIN H
 (F)    60  CE   4750         1  PRF ISS CONC DESN CE   2.0   930-1120   M      2412 PATRICK TAYLOR  CI-SPOKEN&VISUA  WILLIAMS M
+                     LAB                                     300-0450     W    2412 PATRICK TAYLOR                   WILLIAMS M
  38    12  CE   4760         1  CIVIL ENGR DESIGN      3.0   300-0450    T     1111 PATRICK TAYLOR                   SHIN H
+                     LAB                                     300-0550      TH  1111 PATRICK TAYLOR                   SHIN H
 (F)     1  CE   4781         1  SPEC TOP CE DESIGN     3.0  TBA                                                      MALONE R
   6    14  CE   7135         1  ADV TOP BIODEGRAD      3.0  1200-0120    T TH  3140 PATRICK TAYLOR                   MOE W
  15     5  CE   7275         1  MOD GROUNDWATER MGMT   3.0   300-0420    T TH  1110 PATRICK TAYLOR                   TSAI F

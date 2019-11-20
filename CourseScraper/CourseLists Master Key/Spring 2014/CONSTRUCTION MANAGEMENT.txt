@@ -4,19 +4,28 @@
 (F)    55  CM   1020 LAB     2  ENGR GRAPS FOR MECH    2.0  1030-1220   M W    1105 PATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
 (F)    55  CM   1020 LAB     3  ENGR GRAPS FOR MECH    2.0   100-0320   M W    1105 PATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
 (F)    44  CM   1102         1  CONST PLAN READING     3.0   830-1020   M      3136 PATRICK TAYLOR                   PECQUET C
+                     LAB                                     830-1020     W    3136 PATRICK TAYLOR                   PECQUET C
 (F)    49  CM   1102         2  CONST PLAN READING     3.0  1230-0220   M      0101 CONSTRUCTION MG                  PECQUET C
+                     LAB                                    1230-0220     W    0101 CONSTRUCTION MG                  PECQUET C
  10    65  CM   2102         2  CONSTRUCTION EQUIP     3.0   830-0950    T TH  2142 PATRICK TAYLOR                   PECQUET C
  31    69  CM   2103         1  CONST MATL METHD II    3.0   600-0850N  M      0103 TUREAUD HALL                     DELATTE G
 (F)    25  CM   2105         1  CONST SURVEYING        3.0   730-0920   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     730-0920     W    2216 PATRICK TAYLOR                   TRAHAN G
 (F)    25  CM   2105         2  CONST SURVEYING        3.0   930-1120   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     930-1120     W    2216 PATRICK TAYLOR                   TRAHAN G
 (F)    25  CM   2105         3  CONST SURVEYING        3.0  1230-0220   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                    1230-0220     W    2216 PATRICK TAYLOR                   TRAHAN G
   4    61  CM   2501         2  STRUCTURAL PRINCIPL    3.0   300-0420    T TH                                        HEBERT K
  21    19  CM   3000         1  CONSTRUTION SAFETY     3.0  1030-1150    T TH  1116 PATRICK TAYLOR                   PECQUET C
  16    24  CM   3000         2  CONSTRUTION SAFETY     3.0   130-0250    T TH  1121 PATRICK TAYLOR                   PECQUET C
  32     8  CM   3121         1  COM CONS ESTIMATING    3.0   730-0920   M      0101 CONSTRUCTION MG                  SPRING C
+                     LAB                                     730-0920     W    0101 CONSTRUCTION MG                  SPRING C
  10    30  CM   3121         2  COM CONS ESTIMATING    3.0   930-1120   M      0101 CONSTRUCTION MG                  SPRING C
+                     LAB                                     930-1120     W    0101 CONSTRUCTION MG                  SPRING C
   2    38  CM   3131         1  INDUST CONS ESTIMTNG   3.0  1030-1220    T     0101 CONSTRUCTION MG                  NELSON J
+                     LAB                                    1030-1220      TH  0101 CONSTRUCTION MG                  NELSON J
  17    23  CM   3131         2  INDUST CONS ESTIMTNG   3.0   100-0250    T     0101 CONSTRUCTION MG                  NELSON J
+                     LAB                                     100-0250      TH  0101 CONSTRUCTION MG                  NELSON J
   1    59  CM   3141         1  HIGHWAY CONSTRUCTION   3.0   100-0220   M W    1106 PATRICK TAYLOR                   ROSSO L
  46    54  CM   3400         2  CONSTRUCT MATERIALS    3.0   900-1020    T TH  0206 TUREAUD HALL                     HEBERT K
  82    58  CM   3505         2  STRUCTURAL TECH I      3.0   300-0420    T TH  0102 ALLEN                            HEBERT K

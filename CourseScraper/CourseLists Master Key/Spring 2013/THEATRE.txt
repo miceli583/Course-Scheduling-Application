@@ -43,6 +43,7 @@
   1    29  THTR 2130         2  SCRIPT ANALYSIS        3.0  1130-1220   M W F  0109 COATES                           FLETCHER J
   1    34  THTR 2130         1  SCRIPT ANALYSIS        3.0  1230-0120   M W F  0301 M&DA BLDG                        FLETCHER J
  10     8  THTR 3026         1  INTRO ACT FOR CAMERA   3.0  1200-0250    T TH  0125 M&DA BLDG       MAJORS ONLY      STAFF
+                     LAB                                    1200-0250    T TH                                        STAFF
 (F)    20  THTR 3029         1  STAGE MOVEMENT II      3.0   900-1020    T TH  0166 M&DA BLDG       CI-VISUAL&TECH   ERICKSON N
   4    36  THTR 3121         1  THTR HIST/LIT II       3.0   130-0220   M W F  0301 M&DA BLDG                        SIKES A
  20    20  THTR 3122         1  THTR HIST/LIT III      3.0   230-0320   M W F  0301 M&DA BLDG                        FLETCHER J
@@ -55,6 +56,7 @@
   1     9  THTR 4008         1  WRITING DRAMA          3.0   130-0250    T TH  0116 STUBBS                           EUBA F
   8     2  THTR 4023 LAB     1  ADV CSTM CONS TECH     3.0   130-0420    T TH  0173 M&DA BLDG                        BROWN A
   1    11  THTR 4025         1  ACTING IV              3.0  1130-0120   M W F  0135 M&DA BLDG       PERMIS OF DEPT   HOLBEN R
+                     LAB                                    1130-0120   M W F                                        HOLBEN R
   8    10  THTR 4031 LAB     1  AERIAL PRACTICE II     1.0  TBA                                     PERMIS OF DEPT   ERICKSON N
 (H)        THTR 4124         1  SCENIC DESIGN          3.0  1200-0120    T TH  0181 M&DA BLDG                        GEORGE K
   2     8  THTR 4125         3  DIRECTING II           3.0   130-0320   M   F  0125 M&DA BLDG                        JUDY G
@@ -63,6 +65,7 @@
 (F)     3  THTR 4300         2  SPEC TOP ARTS ADMIN    3.0  TBA                                     PERMIS OF DEPT   SOSNOWSKY K
   2    13  THTR 4436         1  HIST PERIOD STYLES     3.0  1030-1150    T TH  0193 M&DA BLDG                        MCWILLIAMS B
 (F)    10  THTR 4530         1  SOUND DESIGN           3.0  1030-1150    T TH                       CI-SPOKEN&VISUA  CHO E
+                     LAB                                    1030-1150    T TH                                        CHO E
   3     7  THTR 4531         1  LIGHTING DESIGN I      3.0   900-1020    T TH  0193 M&DA BLDG       CI-SPOKEN&VISUA  WHITE K
 (F)    12  THTR 4801         1  DANCE HISTORY          3.0   330-0420   M W F  0193 M&DA BLDG                        PERLIS S
   2     8  THTR 4804 LAB     1  DANCE THEATRE          2.0   130-0320   M W F                       PERMIS OF DEPT   PERLIS S
@@ -74,11 +77,14 @@
   4    11  THTR 7225 LAB     1  ACTING STUDIO VI       1.0   130-0320   M W    0166 M&DA BLDG                        BATTLES J
   4    11  THTR 7238         1  MOVEMENT STUDIO VI     3.0   900-1020   M W    0166 M&DA BLDG                        ERICKSON N
   6    10  THTR 7239         2  CAMERA STUDIO II       3.0   330-0520   M W    0301 M&DA BLDG                        WATSON J
+                     LAB                                     330-0520   M W                                          WATSON J
 (F)     1  THTR 7239         3  CAMERA STUDIO II       3.0  TBA                                     PERMIS OF DEPT
+                     LAB                                    TBA
   3     2  THTR 7524 LAB     1  ADV CSTM TECH I        3.0   130-0420    T TH                                        BROWN A
   2     3  THTR 7602         1  SHOP TECH SAFETY II    3.0   130-0420   M      0155 M&DA BLDG                        MURPHY J
   3     2  THTR 7611         2  STRUCTURAL DESIGN II   3.0  TBA                                                      MURPHY J
   2     3  THTR 7802         2  PROPERTIES II          3.0   900-1020   M W F                                        BUSSOLATI E
+                     LAB                                     900-1020   M W F
   9    11  THTR 7929 RES     1  IND RES-THEATRE        1-3  TBA                                                      JUDY G
   2        THTR 7929 RES     2  IND RES-THEATRE        1-3  TBA                                                      STAFF
  19    11  THTR 7930 LAB     1  THEATRE PRODUCTION     1-12  100-0250       F                                        JUDY G

@@ -1,5 +1,7 @@
  29    31  PADM 5010         1  STAT METHODS PUB ADM   3.0   200-0450    T     1220 BUSINESS ED COM                  LLORENS J
+                     LAB                                     200-0450    T                                           LLORENS J
   8    22  PADM 5010         2  STAT METHODS PUB ADM   3.0   600-0850N    W    1225 BUSINESS ED COM                  LLORENS J
+                     LAB                                     600-0850N    W                                          LLORENS J
  25    35  PADM 5600         1  MICROEC TH POLICY AN   3.0   600-0850N  M      1615 BUSINESS ED COM                  RICHARDSON J
  10    10  PADM 7610         1  HEALTHCARE ORG/FIN     3.0   600-0850N  M      1225 BUSINESS ED COM                  SALLES P
   3    30  PADM 7710         1  PUBLIC FIN MGT         3.0   600-0850N   T     1425 BUSINESS ED COM                  MOROZOV B

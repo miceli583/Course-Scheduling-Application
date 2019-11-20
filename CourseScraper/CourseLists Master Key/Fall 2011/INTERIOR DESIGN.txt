@@ -1,19 +1,25 @@
   1   154  ID   1051         1  INTRO INTERIOR DESGN   3.0  1040-1200    T TH  0103 DESIGN BUILDING                  CAMPBELL J
 (F)    20  ID   1780         1  IND STUDY STUDIO       3.0   810-0830    T TH  0425 DESIGN BUILDING PERMIS OF DEPT   EDMONDS M
+                     LAB                                     840-1030    T TH  0425 DESIGN BUILDING                  EDMONDS M
 (F)    19  ID   1780         2  IND STUDY STUDIO       3.0   510-0530N   T TH  0425 DESIGN BUILDING PERMIS OF DEPT   BUDD B
+                     LAB                                     540-0730N   T TH  0425 DESIGN BUILDING                  BUDD B
 (F)    20  ID   2750 LAB     1  INTER DESN STUD I      4.0  1240-0500   M W    0422 DESIGN BUILDING CI-VISUAL&TECH   RITCHIE T
 (F)    20  ID   2750 LAB     2  INTER DESN STUD I      4.0  1240-0500   M W    0423 DESIGN BUILDING PERMIS OF DEPT   TEBBUTT P
   1    40  ID   2774         1  INTERIOR CONS & SYST   3.0   910-1030    T TH  0401 DESIGN BUILDING PERMIS OF DEPT   BURNS T
 (F)    20  ID   2781 LAB     1  INTER DESN GRAPHICS    3.0  1210-0300    T TH  0401 DESIGN BUILDING CI-VISUAL&TECH   DUNN M
 (F)    20  ID   2781 LAB     2  INTER DESN GRAPHICS    3.0  1210-0300    T TH  0411 DESIGN BUILDING PERMIS OF DEPT   CAFFERY M
   1    24  ID   2785         2  COMPUTER VISUALIZATI   3.0   310-0330    T TH  0427 DESIGN BUILDING                  ZOU J
+                     LAB                                     340-0530    T TH  0427 DESIGN BUILDING                  ZOU J
  15    50  ID   3741         2  HIST ID & DECOR I      3.0   310-0430    T TH  0401 DESIGN BUILDING                  GREGGIO S
 (F)    15  ID   3751         1  INTER COMPONENT DSN    3.0  1210-1230    T TH  0427 DESIGN BUILDING                  HUNT K
+                     LAB                                    1240-0230    T TH  0427 DESIGN BUILDING                  HUNT K
 (F)    18  ID   3752 LAB     1  INTER DSN STUD III     4.0  1240-0500   M W    0414 DESIGN BUILDING MAJORS ONLY      ZOU J
 (F)    17  ID   3752 LAB     2  INTER DSN STUD III     4.0  1240-0500   M W    0417 DESIGN BUILDING MAJORS ONLY      BROWN K
  84    15  ID   3761 CLI     1  INT DES INTERNSHIP     3.0  1210-0130    T TH                       PERMIS OF DEPT   RITCHIE T
 (F)    19  ID   3770         2  COLOR & ILLUMIN II     3.0   910-1000   M W    0427 DESIGN BUILDING CI-VISUAL&TECH   HUNT K
+                     LAB                                    1010-1200   M W    0427 DESIGN BUILDING                  HUNT K
 (F)    15  ID   3782         1  ID CONSTRUCT DOCS      3.0   510-0530N  M W    0425 DESIGN BUILDING MAJORS ONLY      EDMONDS M
+                     LAB                                     540-0730N  M W    0425 DESIGN BUILDING                  EDMONDS M
 (F)    20  ID   4720 SEM     1  SEMINAR INT DESIGN     3.0   940-1100   M W    0425 DESIGN BUILDING MAJORS ONLY      TEBBUTT P
 (F)    19  ID   4720 SEM     2  SEMINAR INT DESIGN     3.0   940-1100   M W    0411 DESIGN BUILDING MAJORS ONLY      ZOU J
 (F)    20  ID   4754 LAB     1  ID STUDIO V            4.0  1240-0500   M W    0407 DESIGN BUILDING MAJORS ONLY      DUNN M

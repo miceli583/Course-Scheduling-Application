@@ -10,9 +10,13 @@
   8    14  ELRC 4507         1  COMPUTER TECH EDUC     3.0   300-0420    T TH  0118 PEABODY                          HEROMAN D
   3    17  ELRC 4602         1  INTRO TO COUNSELING    3.0   430-0720N  M      0120 PEABODY                          CHOATE L
   6     9  ELRC 7006         1  EDUC STATISTICS        4.0   430-0720N   T     0121 ALLEN                            KENNEDY E
+                     LAB                                     130-0320    T     0205 COATES                           KENNEDY E
   6     9  ELRC 7006         2  EDUC STATISTICS        4.0   430-0720N   T     0121 ALLEN                            KENNEDY E
+                     LAB                                     730-0920N   T     0205 COATES                           KENNEDY E
  21     4  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   430-0720N    W    0209 COATES                           KENNEDY E
+                     LAB                                     730-0920N    W    0205 COATES                           KENNEDY E
 (F)    14  ELRC 7243         1  QUAL METH EDUC RESCH   4.0   430-0720N   T     0214 PEABODY                          MACGREGOR S
+                     LAB                                    TBA                                                      MACGREGOR S
   2     8  ELRC 7270         1  MIXED MTHDS RES EDUC   3.0   430-0720N     TH  0214 PEABODY                          MACGREGOR S
   3    27  ELRC 7299         1  INTRO ED SCHOLARSHIP   3.0   430-0720N  M      0129 ALLEN           PERMIS OF INST   MATHEWS F
  12     8  ELRC 7331         1  COUNSEL THEORY/TECHN   3.0   430-0720N    W    0120 PEABODY                          GINTNER G
@@ -22,6 +26,7 @@
  11     9  ELRC 7391         1  COUN ACROSS LIFESPAN   3.0   430-0720N   T     0120 PEABODY                          DICKENS K
 (F)    24  ELRC 7393         1  MULTICULT COUNSLNG     3.0   430-0720N     TH  0120 PEABODY                          CSASZAR I
  10    10  ELRC 7397         1  SP TOPICS COUNSELING   3.0   430-0720N  M                                            GINTNER G
+                     LAB                                    TBA                                                      GINTNER G
  99        ELRC 7399 CLI     1  SUPV COUNSEL INTSHP    3-9  TBA                                                      GINTNER G
  13    12  ELRC 7401         1  ADMIN OF SCH PERS      3.0  TBA                                                      HILL K
   8    12  ELRC 7422         1  INTR SCH IMPR/ACT RS   3.0  TBA                                                      BICKMORE D

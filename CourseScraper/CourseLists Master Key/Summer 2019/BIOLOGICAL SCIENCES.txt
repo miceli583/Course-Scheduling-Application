@@ -1,7 +1,9 @@
  41    59  BIOL 1001         1  GENERAL BIOLOGY        3.0  TBA                                     75-99% WEB BASE  HRINCEVICH A
  30    70  BIOL 1002         1  GENERAL BIOLOGY        3.0  TBA                                     75-99% WEB BASE  POMARICO S
   7    11  BIOL 1005         1  INTRO BIOLOGY LAB      2.0   120-0220   M W    0206 WILLIAMS                         BROOKS M
+                     LAB                                     230-0530   M W    0115 LIFE SCIENCES                    BROOKS M
   9     9  BIOL 1005         2  INTRO BIOLOGY LAB      2.0   120-0220    T TH  0206 WILLIAMS                         BROOKS M
+                     LAB                                     230-0530    T TH  0115 LIFE SCIENCES                    BROOKS M
  13    19  BIOL 1208 LAB     1  BIOL LAB SCI MAJ I     1.0  1100-0200    T TH  0119 LIFE SCIENCES   CI-WRITTEN       TRABONA B
  18    14  BIOL 1208 LAB     2  BIOL LAB SCI MAJ I     1.0   230-0530    T TH  0119 LIFE SCIENCES   CI-WRITTEN       TRABONA B
   9    23  BIOL 1209 LAB     1  BIOL LAB SCI MAJ II    1.0   230-0530   M W    0120 LIFE SCIENCES                    HRINCEVICH A
@@ -98,7 +100,9 @@
 106    44  BIOL 1201         1  BIOL FOR SCI MAJ I     3.0  0730-0900   MTWTF  0102 WILLIAMS                         CROUSILLAC S
  57    43  BIOL 1202         1  BIOL FOR SCI MAJ II    3.0  1100-1230   MTWTF  0102 WILLIAMS                         MCCOY M
 (F)    32  BIOL 2051         1  GEN MICROBIOLOGY       4.0  0730-0900   MTWTF  0202 WILLIAMS                         GAUNA T
+                     LAB                                    0910-1040   MTWTF  0136 LIFE SCIENCES                    NGUYEN K
   1    31  BIOL 2051         2  GEN MICROBIOLOGY       4.0  0730-0900   MTWTF  0202 WILLIAMS                         GAUNA T
+                     LAB                                    1100-1230   MTWTF  0136 LIFE SCIENCES                    NGUYEN K
 (F)    42  BIOL 2153         1  PRINC OF GENETICS      4.0  0730-0900   MTWTF  0210 WILLIAMS                         NGUYEN K
  58    17  BIOL 2160         1  HUMAN PHYSIOLOGY       3.0  0910-1040   MTWTF  0202 WILLIAMS                         CROUSILLAC S
  29    21  BIOL 3040         1  EVOLUTION              3.0  1100-1230   MTWTF  0210 WILLIAMS                         GREGG C

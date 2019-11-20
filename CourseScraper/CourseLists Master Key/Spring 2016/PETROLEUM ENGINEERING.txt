@@ -11,8 +11,11 @@
   2    22  PETE 2034 LAB     7  ROCK/FLUID PROP LAB    1.0   800-0850    T     0130 HOWE RUSSELL E                   KAM S
   2    22  PETE 2034 LAB     8  ROCK/FLUID PROP LAB    1.0   800-0850    T     0130 HOWE RUSSELL E                   KAM S
   3    44  PETE 2060         1  COMP MTHDS PETE        2.0   330-0420   M      0005 LOCKETT                          TYAGI M
+                     LAB                                    1030-1220      TH  1302APATRICK TAYLOR                   TYAGI M
 (F)    47  PETE 2060         2  COMP MTHDS PETE        2.0   330-0420   M      0005 LOCKETT                          TYAGI M
+                     LAB                                    1030-1220      TH  1302BPATRICK TAYLOR                   TYAGI M
 (F)    47  PETE 2060         3  COMP MTHDS PETE        2.0   330-0420   M      0005 LOCKETT                          TYAGI M
+                     LAB                                    1230-0220      TH  1302BPATRICK TAYLOR                   TYAGI M
  13    67  PETE 3025         3  ECON ASPECTS PET PRO   3.0   730-0850    T TH  0103 TUREAUD HALL                     VEAZEY M
  32   121  PETE 3036         1  WELL LOGGING           3.0  1200-0120    T TH  0010 LOCKETT                          SEARS S
  55   120  PETE 3050         1  RESERVOIR DYNAMICS     3.0   330-0420   M W F  0010 LOCKETT                          HUGHES R

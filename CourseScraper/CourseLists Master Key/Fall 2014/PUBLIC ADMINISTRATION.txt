@@ -1,4 +1,5 @@
  24    16  PADM 5010         1  STAT METHODS PUB ADM   3.0   600-0850N    W    1225 BUS ED S WING                    LLORENS J
+                     LAB                                     600-0850N    W                                          LLORENS J
  37    23  PADM 5600         1  MICROEC TH POLICY AN   3.0   600-0850N  M      1845 BUS ED N WING                    RICHARDSON J
   4    16  PADM 7610         1  HEALTHCARE ORG/FIN     3.0   600-0850N  M      1120 BUS ED S WING                    SALLES P
  19    21  PADM 7710         1  PUBLIC FIN MGT         3.0   600-0850N    W    1305 BUS ED S WING                    KEATON R

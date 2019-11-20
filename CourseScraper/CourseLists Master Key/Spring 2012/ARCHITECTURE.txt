@@ -20,6 +20,7 @@
   2    10  ARCH 4090         1  RESTORATION STUDIES    3.0   610-0900N    W                                          SCRIBER R
   5        ARCH 4102 LAB     3  HNRS ARCH DESN VIII    6.0  1240-0430   M W F                                        ZWIRN R
 (F)     5  ARCH 4155         1  RECORDING HIST STRUC   3.0   940-1030     W                                          EMERY MCCLURE
+                     LAB                                     310-0500    T TH                                        EMERY MCCLURE
 (F)    12  ARCH 4221 SEM     7  SEL TOP IN ARCHITECT   1-3  1040-1130   M W F                                        PITTS J
   2    10  ARCH 4440         1  VERN ARCH & MAT CULT   3.0   640-0930N  M      0245 HOWE RUSSELL E                   EDWARDS J
  12     8  ARCH 4700 RES     2  RESEARCH METHODS       3.0   910-1030    T TH  0313 DESIGN BUILDING                  KELSCH K
@@ -27,7 +28,9 @@
 (F)    15  ARCH 5001 LAB     1  COMP ARCH DESIGN       6.0  1240-0430   M W F                                        SULLIVAN J
   1    15  ARCH 5001 LAB     2  COMP ARCH DESIGN       6.0  1240-0430   M W F                                        BERTOLINI C
 (F)    11  ARCH 5005         2  ADV ARCH TECHNIQUES    3.0  1040-1130   M                                            EMERY MCCLURE
+                     LAB                                    1040-1130     W F                                        EMERY MCCLURE
  10    30  ARCH 5005         3  ADV ARCH TECHNIQUES    3.0  1040-1130   M      0313 DESIGN BUILDING                  JOHNSON M
+                     LAB                                    1040-1130     W F  0313 DESIGN BUILDING                  JOHNSON M
  15    35  ARCH 5006         1  PROFESSIONAL PRACTIC   3.0   610-0900N  M      0201 DESIGN BUILDING                  TIPTON K
   5    10  ARCH 7002 LAB     1  GRAD DESN STUDIO II    6.0  1240-0430   M W F                                        MELENDEZ F
   5    10  ARCH 7004 LAB     1  GRAD DESN STUDIO IV    6.0  1240-0430   M W F                                        SATTLER M

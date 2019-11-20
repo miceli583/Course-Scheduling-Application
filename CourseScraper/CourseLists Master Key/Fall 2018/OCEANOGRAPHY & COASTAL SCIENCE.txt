@@ -24,9 +24,11 @@
  10    15  OCS  4128         1  WTLD HYDROL/HYDRODYN   3.0   930-1020   M W F  0125 TUREAUD HALL    CI-WRITTEN&SPOK  HIATT M
   4    46  OCS  4170         1  PHY OCEANOGRAPHY       3.0   900-1020    T TH  0203 TUREAUD HALL                     LIANG J
   7     8  OCS  4372         1  ESTUARINE ECOLOGY      4.0   430-0550N   T TH                                        TWILLEY R
+                     LAB                                     430-0550N   T TH                                        TWILLEY R
  14    16  OCS  4410         1  ECOSYSTM MODELING      3.0   430-0720N     TH                       CI-WRITTEN&TECH  JUSTIC D
  14    11  OCS  4465         1  SEM COAST ZONE MGT     3.0   500-0750N  M      0100 TUREAUD HALL                     KEMP G
   2    10  OCS  4565         1  RESTORATION ECOLOGY    3.0   430-0550N  M W    1215 ENER,COAST,& EN PERMIS OF INST   TURNER R
+                     LAB                                    TBA                                                      TURNER R
   1     9  OCS  4999         1  CAPSTONE CES           1.0   430-0520N  M                           CI-VISUAL        DELORME D
  11     4  OCS  7001 RES     3  COASTALSYSTEMSECOL     1-6   430-0550N   T TH                                        TWILLEY R
  10     5  OCS  7001 RES     1  ZOOPLANKTONECOL/PHYS   1-6  TBA                                                      SUTOR M

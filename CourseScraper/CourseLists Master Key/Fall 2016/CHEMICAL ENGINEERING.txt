@@ -8,23 +8,39 @@
 (F)   102  CHE  3101         2  MOMENTUM TRANSFER      3.0   930-1020   M W F  0006 LOCKETT                          MCPEAK K
 (F)   100  CHE  3101         1  MOMENTUM TRANSFER      3.0  1030-1120   M W F  0026 HATCHER HALL                     MCPEAK K
   1     9  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1030-1120   M W    0120 TUREAUD HALL    CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420   M                                            MELVIN E
   1    10  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1030-1120   M W    0120 TUREAUD HALL    CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420   M                                            AVIJ P
   1     9  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1030-1120   M W    0120 TUREAUD HALL    CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420    T                                           FLAKE J
   1    10  CHE  3104         4  ENGR MEASUREMENT LAB   3.0  1030-1120   M W    0120 TUREAUD HALL    CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420    T                                           FLAKE J
 (F)    10  CHE  3104         5  ENGR MEASUREMENT LAB   3.0  1030-1120   M W    0120 TUREAUD HALL    CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420     W                                          DORMAN J
 (F)    11  CHE  3104         6  ENGR MEASUREMENT LAB   3.0  1030-1120   M W    0120 TUREAUD HALL    CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420     W                                          AVIJ P
 (F)   104  CHE  3172         1  CHE THERMODYNAMICS     3.0   930-1020   M W F  0026 HATCHER HALL                     BHARTI B
 (F)   104  CHE  3172         2  CHE THERMODYNAMICS     3.0  1030-1120   M W F  0006 LOCKETT                          BHARTI B
 (F)    65  CHE  4151         1  UNIT OPS DESIGN        4.0   930-1020   M W F  E137 HOWE RUSSELL E                   CORRIPIO A
+                     LAB                                     900-1020    T TH  1225 PATRICK TAYLOR                   CORRIPIO A
 (F)    66  CHE  4151         2  UNIT OPS DESIGN        4.0   930-1020   M W F  E137 HOWE RUSSELL E                   CORRIPIO A
+                     LAB                                    1030-1150    T TH  1225 PATRICK TAYLOR                   CORRIPIO A
 (F)     9  CHE  4162         1  UNIT OPERATIONS LAB    3.0   430-0520N  M      E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164 CHEM ENGR                        GRIFFIN G
 (F)     8  CHE  4162         2  UNIT OPERATIONS LAB    3.0   430-0520N  M      E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164 CHEM ENGR                        SPIVEY J
 (F)     7  CHE  4162         3  UNIT OPERATIONS LAB    3.0   430-0520N  M      E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164 CHEM ENGR                        BENTON M
 (F)    10  CHE  4162         4  UNIT OPERATIONS LAB    3.0   430-0520N  M      E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164 CHEM ENGR                        BENTON M
 (F)     7  CHE  4162         5  UNIT OPERATIONS LAB    3.0   430-0520N   T     E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164 CHEM ENGR                        SATHE M
 (F)     8  CHE  4162         6  UNIT OPERATIONS LAB    3.0   430-0520N   T     E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164 CHEM ENGR                        GRIFFIN G
 (F)     6  CHE  4162         7  UNIT OPERATIONS LAB    3.0   430-0520N   T     E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164 CHEM ENGR                        ROMAGNOLI J
 (F)     7  CHE  4162         8  UNIT OPERATIONS LAB    3.0   430-0520N   T     E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164 CHEM ENGR                        SATHE M
  18   135  CHE  4190         1  CHEM REACTION ENGR     3.0  1130-1220   M W F  0103 DESIGN BUILDING                  GRIFFIN G
  20   133  CHE  4198         1  PROCESS DYNAMICS       3.0  1230-0120   M W F  0103 DESIGN BUILDING                  ROMAGNOLI J
   1     9  CHE  4221 LAB     1  SENIOR RESEARCH        1.0  TBA                                     CI-WRITTEN       FLAKE J

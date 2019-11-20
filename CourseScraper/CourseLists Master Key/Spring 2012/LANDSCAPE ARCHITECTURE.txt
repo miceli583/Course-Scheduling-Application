@@ -6,14 +6,20 @@
 (F)    11  LA   2002 LAB     1  LANDSCAPE DESIGN II    6.0   140-0530   M W F  0322 DESIGN BUILDING CI-SPOKEN&VISUA  MARSHALL C
 (F)    12  LA   2002 LAB     2  LANDSCAPE DESIGN II    6.0   140-0530   M W F  0321 DESIGN BUILDING CI-SPOKEN&VISUA  RISK J
   1    24  LA   2301         1  LANDSCAPE TECH I       3.0   940-1030   M W F  0307 DESIGN BUILDING                  ABBEY D
+                     LAB                                    1040-1130   M W F  0307 DESIGN BUILDING                  ABBEY D
 (F)    16  LA   2301         2  LANDSCAPE TECH I       3.0   940-1030   M      0230 DESIGN BUILDING                  SHARKY B
+                     LAB                                    1040-1230   M W    0230 DESIGN BUILDING                  SHARKY B
  13    23  LA   2401         1  LANDSCAPE ECOLOGY      3.0  1210-0300      TH  0170 COATES                           FRYLING C
 (F)    21  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   140-0530   M W F  0324 DESIGN BUILDING                  MICHAELS K
   7    43  LA   3201         1  LANDSCAPE HISTORY II   3.0   840-0930   M W F  0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
   7     8  LA   3302         3  LANDSCAPE TECH III     3.0   540-0730N  M      0209 DESIGN BUILDING                  MICHAELS K
+                     LAB                                     740-0830N  M W    0209 DESIGN BUILDING                  MICHAELS K
   6    27  LA   3302         1  LANDSCAPE TECH III     3.0  1210-0100    T     0301 DESIGN BUILDING                  ABBEY D
+                     LAB                                     110-0300    T TH  0301 DESIGN BUILDING                  ABBEY D
 (F)    12  LA   3402         1  PLANT MATERIALS II     3.0   810-0900    T     0209 DESIGN BUILDING                  ABBEY D
+                     LAB                                     910-1100    T TH  0209 DESIGN BUILDING                  ABBEY D
   1    11  LA   3402         2  PLANT MATERIALS II     3.0   810-0900    T     0209 DESIGN BUILDING                  FRYLING C
+                     LAB                                     910-1100    T TH  0209 DESIGN BUILDING                  FRYLING C
  12     6  LA   4002 LAB     1  LANDSCAPE DESIGN VI    6.0   140-0530   M W F  0304 DESIGN BUILDING                  MOSSOP E
   8    24  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      DYKEMA K
  11    10  LA   4101 SEM     2  ADV DIG REPRESENTN     3.0   840-1130   M      0301 DESIGN BUILDING                  LUMPKIN S

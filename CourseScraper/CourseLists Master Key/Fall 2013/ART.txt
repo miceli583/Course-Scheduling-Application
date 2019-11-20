@@ -6,11 +6,17 @@
   5    13  ART  1010 LAB     2  INTRO TO DRAWING       3.0   300-0550    T TH  0107 FOSTER                           RAMIREZ C
   4    11  ART  1010 LAB     1  INTRO TO DRAWING       3.0   600-0850N   T TH  0107 FOSTER                           BROWN A
 (F)    20  ART  1011         4  2-DIMENSIONAL DESIGN   3.0   830-0920   M W    0334 ART BUILDING    MAJORS ONLY      ALDRIDGE A
+                     LAB                                     930-1120   M W    0334 ART BUILDING                     ALDRIDGE A
 (F)    23  ART  1011         5  2-DIMENSIONAL DESIGN   3.0  1230-0120   M W    0334 ART BUILDING    MAJORS ONLY      ANDRESEN S
+                     LAB                                     130-0320   M W    0334 ART BUILDING                     ANDRESEN S
   3    17  ART  1011         6  2-DIMENSIONAL DESIGN   3.0   330-0420   M W    0334 ART BUILDING    MAJORS ONLY      ANDRESEN S
+                     LAB                                     430-0620N  M W    0334 ART BUILDING                     ANDRESEN S
   1    19  ART  1011         1  2-DIMENSIONAL DESIGN   3.0   900-0950    T TH  0334 ART BUILDING    MAJORS ONLY      PIETRYKOWSKI
+                     LAB                                    1000-1150    T TH  0334 ART BUILDING                     PIETRYKOWSKI
   1    19  ART  1011         2  2-DIMENSIONAL DESIGN   3.0  1200-1250    T TH  0334 ART BUILDING    MAJORS ONLY      DURIO C
+                     LAB                                     100-0250    T TH  0334 ART BUILDING                     DURIO C
   6    14  ART  1011         3  2-DIMENSIONAL DESIGN   3.0   300-0350    T TH  0334 ART BUILDING    MAJORS ONLY      HAGER J
+                     LAB                                     400-0550    T TH  0334 ART BUILDING                     HAGER J
 (F)    16  ART  1012 LAB     1  3-DIMENSIONAL DESN     3.0   830-1120   M W    0128 STUDIO ARTS BLD MAJORS ONLY      NORD J
 (F)    17  ART  1012 LAB     2  3-DIMENSIONAL DESN     3.0   900-1150    T TH  0216 STUDIO ARTS BLD MAJORS ONLY      HENTZ C
 (F)    16  ART  1012 LAB     3  3-DIMENSIONAL DESN     3.0   900-1150    T TH  0128 STUDIO ARTS BLD MAJORS ONLY      CALLAHAN P
@@ -33,8 +39,11 @@
   1    16  ART  1849 LAB     1  INTRO TO PAINTING      3.0   830-1120   M W    0203 FOSTER          MAJORS ONLY      SMITH E
   4    14  ART  1849 LAB     2  INTRO TO PAINTING      3.0   900-1150    T TH  0203 FOSTER          MAJORS ONLY      CELENTANO D
   3    12  ART  2050         1  DIGITAL ART I          3.0   830-0920   M W    0111 ART BUILDING    MAJORS ONLY      MULLINS K
+                     LAB                                     930-1120   M W    0111 ART BUILDING                     MULLINS K
   2    16  ART  2050         3  DIGITAL ART I          3.0  1230-0120   M W    0111 ART BUILDING    MAJORS ONLY      HERNANDEZ L
+                     LAB                                     130-0320   M W    0111 ART BUILDING                     HERNANDEZ L
   1    19  ART  2050         4  DIGITAL ART I          3.0  1200-1250    T TH  0108 ART BUILDING    CI-VISUAL&TECH   LIVAUDAIS L
+                     LAB                                     100-0250    T TH  0108 ART BUILDING                     LIVAUDAIS L
   1    19  ART  2220 LAB     2  MOVING IMAGE           3.0  1230-0320   M W    0330 ART BUILDING    PERMIS OF INST   OSTRENKO F
   4    13  ART  2360 LAB     1  INTERMED PRINTMAKING   3.0  1200-0250    T TH  B021 FOSTER                           KOPTCHO L
   4     8  ART  2381 LAB     1  BOOK ARTS              3.0   900-1150    T TH  B028 FOSTER          CI-SPOKEN&VISUA  KOPTCHO L
@@ -42,7 +51,9 @@
 (F)    18  ART  2544 LAB     1  LETTERFORMS            3.0   900-1150    T TH  0319 ART BUILDING    PERMIS OF INST   DEAN P
   1    18  ART  2544 LAB     3  LETTERFORMS            3.0  1200-0250    T TH  0319 ART BUILDING    PERMIS OF INST   DEAN P
 (F)    20  ART  2551         2  TYPOGRAPHY-VIS.COMM.   3.0   330-0420   M W    0111 ART BUILDING    PERMIS OF INST   HERNANDEZ L
+                     LAB                                     430-0620N  M W    0111 ART BUILDING                     HERNANDEZ L
   4    17  ART  2551         1  TYPOGRAPHY-VIS.COMM.   3.0   900-0950    T TH  0111 ART BUILDING    PERMIS OF INST   HERNANDEZ L
+                     LAB                                    1000-1150    T TH  0111 ART BUILDING                     HERNANDEZ L
 (F)    18  ART  2564 LAB     1  GRAPHIC ABSTRACTN      3.0   900-1150    T TH  0211 ART BUILDING    PERMIS OF INST   BOWER G
 (F)    18  ART  2564 LAB     2  GRAPHIC ABSTRACTN      3.0  1200-0250    T TH  0211 ART BUILDING    PERMIS OF INST   BOWER G
 (F)    15  ART  2661 LAB     1  INTERMED CERAMICS      3.0  1200-0250    T TH  0154 STUDIO ARTS BLD PERMIS OF INST   WALSH M

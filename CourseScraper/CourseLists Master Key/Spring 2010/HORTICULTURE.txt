@@ -1,9 +1,14 @@
 (F)     5  HORT 2011         1  ANAL ENV ISSUES        3.0  1040-1200    T TH  0135 M B STURGIS     CI-WRITTEN&SPOK  WALSH M
  13    27  HORT 2050         1  GEN HORTICULTURE       4.0   910-1030    T TH                                        MIRABELLO R
+                     LAB                                     140-0330    T                                           MIRABELLO R
  20    25  HORT 2061         1  PLANT PROPAGATION      3.0   240-0330   M W                                          JOHNSON C
+                     LAB                                     340-0530    T                                           JOHNSON C
   5    15  HORT 2122         2  HERB PLANT MATERIALS   2.0  1040-1130       F                                        KUEHNY J
+                     LAB                                    1140-0130       F                                        KUEHNY J
   3    17  HORT 2125         2  WOOD PLANT MATRLS II   2.0  TBA                                                      MIRABELLO R
+                     LAB                                    TBA                                                      MIRABELLO R
  16    34  HORT 2860         1  GROW/DEV AGR CROPS     3.0  TBA                                                      KUEHNY J
+                     LAB                                    TBA                                                      LABONTE D
  18     2  HORT 3000 CLI     1  HORTICULTURAL INTERN   3.0  TBA                                                      STAFF
  20        HORT 3010 RES     1  RESEARCH PROBLEMS      3.0  TBA                                                      BEASLEY J
  19     1  HORT 3010 RES     2  RESEARCH PROBLEMS      3.0  TBA                                                      BUSH E
@@ -21,7 +26,9 @@
  19     1  HORT 4012         6  SPEC TOP IN HORT       1-3  TBA                                                      BEASLEY J
  10     5  HORT 4030         1  PLANTN/BEV/TROP NUT    3.0   440-0730N    W                                          PICHA D
  29    11  HORT 4090         2  GOLF COURSE OPERATIO   4.0  TBA                                                      BEASLEY J
+                     LAB                                    TBA                                                      BEASLEY J
   2    10  HORT 4096         1  POSTHARVEST PHYSIOLO   4.0  1140-0130     W F  0119 J C MILLER                       PICHA D
+                     LAB                                     140-0330       F  0119 J C MILLER                       PICHA D
  10        HORT 7071         1  ADVANCED PLANT GENET   4.0  1140-0130    T TH  0241 M B STURGIS                      LABONTE D
  20        HORT 7913 SEM     1  SEMINAR                1.0   340-0430      TH  0119 J C MILLER                       BUSH E
  23     2  HORT 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BUSH E

@@ -6,7 +6,9 @@
 (F)   100  OCS  1005         6  INTRO OCEANOGRAPHY     3.0  TBA                                     100% WEB BASED   SUTOR M
  25     5  OCS  1006         1  HNRS: INTR OCEANOGR    3.0  1200-0120    T TH  2228 PATRICK TAYLOR                   LIANG J
   1    24  OCS  2007         1  INTRO MAR SCI GEO&PH   4.0   900-1020    T TH  1070 ENER,COAST,& EN                  MARIOTTI G
+                     LAB                                    1200-0120    T TH  1070 ENER,COAST,& EN                  MARIOTTI G
 (F)    26  OCS  2008         1  INTRO MRSC-LIFE PROC   4.0  1030-1150    T TH  1070 ENER,COAST,& EN                  BENFIELD M
+                     LAB                                     300-0420    T TH  1070 ENER,COAST,& EN                  BENFIELD M
  47    13  OCS  2050         1  COASTAL SYSTEMS ECOL   3.0   300-0420    T TH  0211 TUREAUD HALL                     TWILLEY R
 (F)     1  OCS  3999 RES     1  UNDERGRAD RESEARCH     1-6  TBA
 (F)     1  OCS  3999 RES     2  UNDERGRAD RESEARCH     1-6  TBA                                                      QUIRK T

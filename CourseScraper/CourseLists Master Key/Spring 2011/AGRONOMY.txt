@@ -1,11 +1,17 @@
   1    62  AGRO 1001         1  MANAGED PLANT SYSTEM   3.0  1040-1200    T TH  0232 J C MILLER                       HIMELRICK D
+                     LAB                                    TBA                                                      HIMELRICK D
   1    17  AGRO 2051         1  SOIL SCIENCE           4.0   840-0930   M W F  0134 M B STURGIS                      GASTON L
+                     LAB                                    1240-0230   M      0134 M B STURGIS                      GASTON L
   5    13  AGRO 2051         2  SOIL SCIENCE           4.0   840-0930   M W F  0134 M B STURGIS                      GASTON L
+                     LAB                                     240-0430   M                                            GASTON L
  14     1  AGRO 3010 RES     1  RESEARCH PROBLEMS      3.0  TBA                                                      GRIFFIN J
   8    20  AGRO 4052         1  SOIL FERTILITY & MGT   4.0   940-1030   M W F                                        TUBANA B
+                     LAB                                     240-0430    T                                           TUBANA B
 (F)    14  AGRO 4056         1  MICROB ECOL & NUTR C   4.0  1040-1200    T TH  0132 M B STURGIS                      BREITENBECK G
+                     LAB                                     140-0430      TH  0132 M B STURGIS                      BREITENBECK G
   7    13  AGRO 4077         1  ENVIRNMTL SOIL PHYSV   3.0  1040-1200    T TH  0202 TUREAUD HALL                     SELIM H
   1    23  AGRO 4078         1  LAND USE PLAN/LD MGT   3.0   840-0930   M W F  0135 M B STURGIS                      HAGGARD B
+                     LAB                                    TBA                                                      HAGGARD B
  11     4  AGRO 4091 RES     1  SP TOP IN CROP SCI     1-3  TBA                                                      OARD J
  13     2  AGRO 4092 RES     1  SPEC TOPICS SOIL SCI   1-3  TBA                                     PERMIS OF INST   WALSH M
  14     6  AGRO 7001 SEM     1  AGRONOMY SEMINAR       1.0  1140-1230       F  0132 M B STURGIS                      OARD J

@@ -1,8 +1,12 @@
  15    10  MILS 1010 LAB     1  RIFLE & PISTL MARKSH   1.0  1030-1120      TH  0150 MIL-AERO STUDIE PERMIS OF INST   BOTTOM D
  11    14  MILS 1010 LAB     2  RIFLE & PISTL MARKSH   1.0  1130-1220      TH  0150 MIL-AERO STUDIE PERMIS OF INST   BOTTOM D
  27    28  MILS 1011         1  LDSHP & PERSONAL DEV   1.0   200-0250      TH  0152 MIL-AERO STUDIE                  WHITMORE S
+                     LAB                                     300-0420      TH  0152 MIL-AERO STUDIE                  WHITMORE S
  38    87  MILS 1015 LAB     1  ARMY PHYS FIT TRAIN    1.0  TBA                                                      BOTTOM D
  19    21  MILS 2161         1  INNOV TEAM LEADERSHP   2.0   730-0820   M W    0152 MIL-AERO STUDIE                  WHITMORE S
+                     LAB                                     300-0420      TH  0152 MIL-AERO STUDIE                  WHITMORE S
   8    22  MILS 3011         1  ADAPTIVE TACTI LDSHP   4.0   730-0850    T TH  0152 MIL-AERO STUDIE                  BOTTOM D
+                     LAB                                     300-0550      TH  0152 MIL-AERO STUDIE                  BOTTOM D
  20    10  MILS 4011         1  DEV ADAPTIVE LEADERS   4.0   830-0950    T TH  0150 MIL-AERO STUDIE                  CARTER R
+                     LAB                                     300-0550      TH  0150 MIL-AERO STUDIE                  CARTER R
  10        MILS 4995         1  SPEC TOP IN MILITARY   3.0  TBA                                                      CARTER R

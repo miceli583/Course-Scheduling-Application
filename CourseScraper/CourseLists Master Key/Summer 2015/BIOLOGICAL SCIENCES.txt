@@ -1,6 +1,9 @@
   6    12  BIOL 1005         1  INTRO BIOLOGY LAB      2.0   120-0220   M W    0201 WILLIAMS                         GREGG C
+                     LAB                                     230-0530   M W    0115 LIFE SCIENCES                    GREGG C
  13     7  BIOL 1005         3  INTRO BIOLOGY LAB      2.0   530-0630N  M W    0115 LIFE SCIENCES                    GREGG C
+                     LAB                                     630-0930N  M W    0115 LIFE SCIENCES                    GREGG C
   2    16  BIOL 1005         2  INTRO BIOLOGY LAB      2.0   120-0220    T TH  0115 LIFE SCIENCES                    GREGG C
+                     LAB                                     230-0530    T TH  0115 LIFE SCIENCES                    GREGG C
   2    30  BIOL 1208 LAB     1  BIOL LAB SCI MAJ I     1.0  1100-0200    T TH  0133 LIFE SCIENCES                    GREGG C
   1    31  BIOL 1208 LAB     2  BIOL LAB SCI MAJ I     1.0   230-0530    T TH  0133 LIFE SCIENCES                    GREGG C
   2    30  BIOL 1209 LAB     1  BIOL LAB SCI MAJ II    1.0   230-0530   M W    0120 LIFE SCIENCES                    HRINCEVICH A
@@ -133,7 +136,9 @@
 108    82  BIOL 1201         1  BIOL FOR SCI MAJ I     3.0  0910-1040   MTWTF  0102 WILLIAMS                         NGUYEN K
  28    72  BIOL 1202         1  BIOL FOR SCI MAJ II    3.0  1100-1230   MTWTF  0103 TUREAUD HALL                     POMARICO S
   4    28  BIOL 2051         1  GEN MICROBIOLOGY       4.0  0830-1000   MTWTF  0214 WILLIAMS                         SULLIVAN K
+                     LAB                                    1230-0200   MTWTF  0136 LIFE SCIENCES                    BRININSTOOL G
   1    31  BIOL 2051         2  GEN MICROBIOLOGY       4.0  0830-1000   MTWTF  0214 WILLIAMS                         SULLIVAN K
+                     LAB                                    1030-1200   MTWTF  0136 LIFE SCIENCES                    BRININSTOOL G
   5    30  BIOL 2153         1  PRINC OF GENETICS      4.0  1100-1240   MTWTF  0201 WILLIAMS                         NGUYEN K
  40    70  BIOL 2160         1  HUMAN PHYSIOLOGY       3.0  0910-1040   MTWTF  0009 LOCKETT                          CROUSILLAC S
  51    25  BIOL 3040         1  EVOLUTION              3.0  1100-1240   MTWTF  0120 TUREAUD HALL                     GREGG C

@@ -87,9 +87,13 @@
   3    32  PHYS 2221         1  INTRO TO MECHANICS     3.0  1200-0120    T TH  0118 NICHOLSON                        GAARDE M
  21    14  PHYS 2995 SEM     2  UNDERGRAD SEMINAR      1.0   430-0520N  M      0118 NICHOLSON       PERMIS OF DEPT   STACY J
 (F)    12  PHYS 3098         1  INSTRU ELECT FOR SCI   3.0  1130-1220   M W    0118 NICHOLSON                        STADLER S
+                     LAB                                     230-0520     W    0017 NICHOLSON                        STADLER S
 (F)    12  PHYS 3098         2  INSTRU ELECT FOR SCI   3.0  1130-1220   M W    0118 NICHOLSON                        STADLER S
+                     LAB                                     300-0550      TH  0017 NICHOLSON                        STADLER S
   1    11  PHYS 3098         4  INSTRU ELECT FOR SCI   3.0  1130-1220   M W    0118 NICHOLSON                        STADLER S
+                     LAB                                     230-0450       F  0017 NICHOLSON                        STADLER S
  25        PHYS 4005         1  RESEARCH METHODS       3.0  1030-1220   M      0205 PRESCOTT                         STUVER A
+                     LAB                                    1030-1220     W    0205 PRESCOTT                         STUVER A
 (F)    25  PHYS 4125         1  THERMODY STAT MECH     3.0  1030-1120   M W F  0118 NICHOLSON                        O'CONNELL R
  11    14  PHYS 4132         1  ELECTROMAGNETISM E W   3.0   900-1020    T TH  0118 NICHOLSON                        AGULLO RODENA
  13    12  PHYS 4135         1  MODERN OPTICS          3.0  1230-0120   M W F  0118 NICHOLSON                        JOHNSON W

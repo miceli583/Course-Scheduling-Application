@@ -1,6 +1,7 @@
  13    12  MEDP 2051         1  RAD SCI MED APPLS      3.0  1040-1130   M W F  0118 NUCLEAR SCIENCE                  WANG W
  13    12  MEDP 4111         1  INT MEDICAL IMAGING    3.0   940-1030   M W F  0262 NICHOLSON                        SHIKHALIEV P
   6     6  MEDP 7121         1  RADIOBIOLOGY           3.0   410-0500    T TH  0262 NICHOLSON                        MATTHEWS K
+                     LAB                                     240-0530       F  0118 NICHOLSON                        MATTHEWS K
   5     7  MEDP 7210         1  CLIN PRIN RAD THERPY   3.0  TBA                                                      JOHNSON S
   6     6  MEDP 7280 CLI     1  ADV RAD THR PHYS ROT   2.0  TBA                                                      GIBBONS J
   5     7  MEDP 7331         1  RAD THERAPY PHYSICS    3.0   410-0530   M W    0262 NICHOLSON                        GIBBONS J

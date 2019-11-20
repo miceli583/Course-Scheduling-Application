@@ -17,9 +17,13 @@
 (F)    24  GEOL 1602 LAB     2  HISTORICAL GEOL LAB    1.0   310-0600    T     E207 HOWE RUSSELL CO                  EVANS L
   1    23  GEOL 1602 LAB     3  HISTORICAL GEOL LAB    1.0  1240-0330     W    E207 HOWE RUSSELL CO                  EVANS L
 (F)    20  GEOL 2061         1  HISTORY OF BIOSPHERE   3.0   940-1030   M W    E131 HOWE RUSSELL CO                  ANDERSON L
+                     LAB                                    1240-0330   M      0360 HOWE RUSSELL CO                  ANDERSON L
   6    14  GEOL 2061         2  HISTORY OF BIOSPHERE   3.0   940-1030   M W    E131 HOWE RUSSELL CO                  ANDERSON L
+                     LAB                                    1240-0330     W    0360 HOWE RUSSELL CO                  ANDERSON L
  11    14  GEOL 3071         1  STRUCTURAL GEOL        3.0   910-1000    T TH  0214 WILLIAMS                         WEBB A
+                     LAB                                    1210-0300    T     E208 HOWE RUSSELL CO                  WEBB A
  20    20  GEOL 3071         2  STRUCTURAL GEOL        3.0   910-1000    T TH  0214 WILLIAMS                         WEBB A
+                     LAB                                    1210-0300      TH  E208 HOWE RUSSELL CO                  WEBB A
 (F)     1  GEOL 3909 RES     2  VERT PALEONTOLOGY RE   1-3  TBA                                                      SCHIEBOUT J
 (F)     1  GEOL 3909 RES     3  MORPHOMETRICS          1-3  TBA                                                      ANDERSON L
 (F)     1  GEOL 3909 RES     4  SULFATE FLUX MS RIVE   1-3  TBA                                                      BAO H
@@ -29,12 +33,16 @@
  16    19  GEOL 4043         1  EARTH MAT & ENVIRONM   3.0  1040-1200    T TH  E207 HOWE RUSSELL CO                  DUTROW B
  25    10  GEOL 4045         1  STRATIGRAPHY           3.0   840-0930   M W F  E207 HOWE RUSSELL CO CI-WRITTEN&SPOK  ELLWOOD B
   5    10  GEOL 4062         1  EXPLOR & ENVIR GEOPH   3.0  1040-1130   M W    E207 HOWE RUSSELL CO CI-WRITTEN&SPOK  NUNN J
+                     LAB                                     210-0500      TH                                        NUNN J
  10    10  GEOL 4066         2  PLATE TECTONICS        3.0   740-0900    T TH  E207 HOWE RUSSELL CO                  WEBB A
 (F)    22  GEOL 4085         1  GEOCHEM SED & WATER    3.0   910-1030    T TH  0360 HOWE RUSSELL CO                  HANOR J
   2    20  GEOL 4165         1  SUBSURFACE GEOL        3.0   840-1030   M      2427 PATRICK TAYLOR                   BROWN A
+                     LAB                                    1240-0330     W                                          BROWN A
 (F)    22  GEOL 4165         3  SUBSURFACE GEOL        3.0   840-1030   M      2427 PATRICK TAYLOR                   BROWN A
+                     LAB                                     440-0730N     TH  3423 PATRICK TAYLOR                   BROWN A
   1     9  GEOL 7061         1  SEQUENCE STRATIGRAPH   3.0   140-0300    T TH  0360 HOWE RUSSELL CO                  BART P
   5     4  GEOL 7115         1  PALEOECOLOGY           3.0  TBA                                                      ANDERSON L
+                     LAB                                    TBA                                                      ANDERSON L
 (F)    11  GEOL 7900         2  PETROLEUM SEISMOLOGY   3.0   740-0830   M W F  E213 HOWE RUSSELL CO                  LORENZO J
   4     6  GEOL 7900         1  ADV METH AQ GEOCHEM    3.0   310-0430    T TH  E208 HOWE RUSSELL CO                  ENGEL A
  15     5  GEOL 7931 SEM     1  MESOZOIC SEDS RECORD   2.0  TBA                                                      BYERLY G

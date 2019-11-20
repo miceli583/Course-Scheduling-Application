@@ -6,6 +6,7 @@
  14    16  OCS  1005         6  INTRO OCEANOGRAPHY     3.0   610-0730N   T TH  0218 COATES                           CONDREY R
   4    22  OCS  1006         1  HNRS: INTR OCEANOGR    3.0  1040-1200    T TH  0210 TUREAUD HALL                     BARGU ATES S
 (F)    17  OCS  2008         1  INTRO MRSC-LIFE PROC   4.0  1040-1200    T TH                                        BENFIELD M
+                     LAB                                    TBA                                                      BENFIELD M
  10    15  OCS  3103         1  GLOBAL ENVIR CYCLES    3.0  1040-1130   M W F  1070 ENER,COAST,& EN                  CABLE J
  23    27  OCS  3200         1  HURRICANES & TYPHOON   3.0   140-0300    T TH  0109 TUREAUD HALL                     LIU K
   9    11  OCS  4001         2  WETLANDS & WATER QUL   1-6   910-1030    T TH  1070 ENER,COAST,& EN                  WHITE J
@@ -13,6 +14,7 @@
 (F)     1  OCS  4001         5  SOUNDS OF MARINE ENV   1-6  TBA                                                      BALTZ D
   9    11  OCS  4012         1  BIOL OF MARINE VERT    3.0   240-0400   M W    1070 ENER,COAST,& EN                  BALTZ D
  10    15  OCS  4016         2  OCEAN TO ESTUARIE II   5.0  1040-0130    T TH  1280 ENER,COAST,& EN                  POWELL R
+                     LAB                                    TBA                                                      BARGU ATES S
  11     9  OCS  4030 SEM     1  TECH OF RES PRESENTN   1.0   240-0330     W                                          SHAW R
  13     2  OCS  4170         1  PHY OCEANOGRAPHY       3.0   310-0430    T TH  1070 ENER,COAST,& EN                  ROUSE L
   7     8  OCS  7001 RES     2  COAST ECOSYS MODEL     1-6   410-0700     W                                          LI C
@@ -27,6 +29,7 @@
  31     9  OCS  7165         2  BIOGEOCHEM WTL SLS/S   3.0  TBA
 (F)     5  OCS  7170         2  SATELLITE OCNOGRPHY    3.0   910-1030    T TH                                        WALKER N
  10        OCS  7317         2  MARINE ECOLOGY         3.0   140-0230    T TH
+                     LAB                                     140-0430       F
  96     3  OCS  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BALTZ D
  99        OCS  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BENFIELD M
  98     1  OCS  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      CABLE J

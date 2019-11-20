@@ -1,7 +1,11 @@
  13    13  BIOL 1005         1  INTRO BIOLOGY LAB      2.0  0840-0940   M W    0125 TUREAUD HALL                     CROUSILLAC S
+                     LAB                                    0950-1250   M W    0013 LIFE SCIENCES                    CROUSILLAC S
   4    22  BIOL 1005         2  INTRO BIOLOGY LAB      2.0   120-0220   M W    0220 TUREAUD HALL                     CROUSILLAC S
+                     LAB                                     230-0530   M W    0013 LIFE SCIENCES                    CROUSILLAC S
   7    19  BIOL 1005         5  INTRO BIOLOGY LAB      2.0   530-0630N  M W    0013 LIFE SCIENCES                    MCCOY M
+                     LAB                                     630-0930N  M W    0013 LIFE SCIENCES                    MCCOY M
   6    20  BIOL 1005         4  INTRO BIOLOGY LAB      2.0   120-0220    T TH  0226 TUREAUD HALL                     CROUSILLAC S
+                     LAB                                     230-0530    T TH  0013 LIFE SCIENCES                    CROUSILLAC S
  37    13  BIOL 1011         1  MICROORGANISMS & MAN   3.0  0900-1030   MTWTH  0215 TUREAUD HALL                     GAYDA R
   7    17  BIOL 1208 LAB     1  BIOL LAB SCI MAJ I     1.0  1100-0200    T TH  0133 LIFE SCIENCES                    JOLISSAINT M
  18    14  BIOL 1208 LAB     2  BIOL LAB SCI MAJ I     1.0   230-0530    T TH  0133 LIFE SCIENCES                    JOLISSAINT M
@@ -45,6 +49,7 @@
   4     6  BIOL 4254 LAB     1  PRINC OF ECOLOGY LAB   1.0  0730-1030   M W    0006 AG ADMIN BLDG                    DILLEMUTH F
   1     9  BIOL 4254 LAB     2  PRINC OF ECOLOGY LAB   1.0  0730-1030    T TH  0006 AG ADMIN BLDG                    DILLEMUTH F
  10    10  BIOL 4400         1  MOLECULAR GENETICS L   3.0  1230-0200       F  0210 TUREAUD HALL    CI-WRITTEN&SPOK  ACHBERGER E
+                     LAB                                     130-0430   MTWTH                                        ACHBERGER E
  96     3  BIOL 6147         1  SEL TOP IN LIFE SCI    1-3  TBA                                                      STEPHENS J
  96     3  BIOL 7800         1  ADV TOP BIOL SCI       2-4  TBA                                                      STEPHENS J
  98     1  BIOL 7990 RES     4  IND RES BIOL SCIENCE   2-8  TBA                                                      BATTISTA J
@@ -121,7 +126,9 @@
 141    59  BIOL 1201         1  BIOL FOR SCI MAJ I     3.0  0910-1040   MTWTF  0103 WILLIAMS                         POMARICO S
 120    80  BIOL 1202         1  BIOL FOR SCI MAJ II    3.0  1100-1230   MTWTF  0006 LOCKETT                          GREGG C
   3    29  BIOL 2051         1  GEN MICROBIOLOGY       4.0  0830-1000   MTWTF  0202 WILLIAMS                         BRININSTOOL G
+                     LAB                                    1230-0200   MTWTF  0136 LIFE SCIENCES                    SULLIVAN K
 (F)    32  BIOL 2051         2  GEN MICROBIOLOGY       4.0  0830-1000   MTWTF  0202 WILLIAMS                         BRININSTOOL G
+                     LAB                                    1030-1200   MTWTF  0136 LIFE SCIENCES                    BRININSTOOL G
  10    90  BIOL 2160         1  HUMAN PHYSIOLOGY       3.0  0910-1040   MTWTF  0103 TUREAUD HALL                     STICKLE W
  17    13  BIOL 4125         1  PROKARYOTIC DIVERSIT   3.0  1030-0120   M W    0206 WILLIAMS                         CHRISTNER B
  98     1  BIOL 9000 RES    58  DISSERTATION RES       1-12 TBA                                                      WILLIAMSON G

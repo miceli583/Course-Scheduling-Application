@@ -1,10 +1,13 @@
 (F)     7  PLHL 3060         1  INTR PL PHYSIOLOGY     4.0   900-1020    T TH  0201 WILLIAMS                         LONGSTRETH D
+                     LAB                                     130-0420     W    0308 LIFE SCIENCES                    LONGSTRETH D
  13     7  PLHL 4001         1  PLNT DIS MGT/CONTROL   3.0  1030-1150   M W                                          HOLLIER C
+                     LAB                                     130-0320   M                                            HOLLIER C
  14     6  PLHL 4444         1  SEED PHYSIOLOGY        3.0   130-0250    T TH  0208 WILLIAMS                         COHN M
   5    10  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W                                          VALVERDE R
   2     8  PLHL 7063         1  PLANT METABOLISM       3.0   300-0420    T TH  0206 WILLIAMS                         MORONEY J
   6    14  PLHL 7067         1  PROFESSIONAL DEVELOP   2.0   430-0620N    W                                          COHN M
  15    10  PLHL 7080         1  HST-PAR IN & DIS RES   3.0  TBA                                                      DAMANN K
+                     LAB                                    TBA                                                      DAMANN K
   9     6  PLHL 7083         1  EPIDEM & CRP LOSS AS   3.0   830-0920   M W F  A465 LIFE SCIENCES A                  HOY J
  98     1  PLHL 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      CHEN Z
  98     1  PLHL 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      MCGAWLEY E

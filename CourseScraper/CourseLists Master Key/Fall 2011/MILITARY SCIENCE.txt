@@ -1,11 +1,18 @@
 (F)    29  MILS 1010 LAB     2  RIFLE & PISTL MARKSH   1.0  1040-1130     W                                          HERBERT M
 (F)    28  MILS 1010 LAB     1  RIFLE & PISTL MARKSH   1.0   240-0330     W                                          HERBERT M
   4    21  MILS 1011         2  LDSHP & PERSONAL DEV   1.0   940-1030     W                                          SHAW M
+                     LAB                                     310-0430      TH                                        SHAW M
   4    21  MILS 1011         3  LDSHP & PERSONAL DEV   1.0   210-0300      TH                                        SHAW M
+                     LAB                                     310-0430      TH                                        SHAW M
  24    76  MILS 1015 LAB     1  ARMY PHYS FIT TRAIN    1.0  TBA                                                      LAWRENCE W
  24     1  MILS 2161         1  INNOV TEAM LEADERSHP   2.0   140-0230   M W                                          HERBERT M
+                     LAB                                     310-0430      TH                                        HERBERT M
   4    21  MILS 2161         2  INNOV TEAM LEADERSHP   2.0   220-0300    T TH                                        HERBERT M
+                     LAB                                     320-0430      TH                                        HERBERT M
  19     1  MILS 3011         1  ADAPTIVE TACTI LDSHP   4.0  1040-1200    T TH                                        LAWRENCE W
+                     LAB                                     310-0600      TH                                        LAWRENCE W
   8    12  MILS 3011         2  ADAPTIVE TACTI LDSHP   4.0   140-0300    T TH                                        LAWRENCE W
+                     LAB                                     310-0600      TH                                        LAWRENCE W
   4    16  MILS 4011         3  DEV ADAPTIVE LEADERS   4.0  TBA                                                      WRIGHT J
+                     LAB                                    TBA                                                      WRIGHT J
 (F)     1  MILS 4066         1  MILITARY HIST U S      3.0   140-0300    T TH  0241 HIMES                            HILTON S

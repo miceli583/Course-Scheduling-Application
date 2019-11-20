@@ -14,7 +14,9 @@
   1     1  PHYS 4991 RES     1  SPEC PROB IN PHYS      1-3  TBA                                     PERMIS OF DEPT   KURTZ R
  12    13  PHYS 6121         1  CLASSICAL PHYS FOR T   3.0  0830-0930   MTWTF  0118 NICHOLSON       PERMIS OF DEPT   BROWNE D
  12    13  PHYS 6198         1  LAB METH FOR TEACH     3.0  TBA                                     PERMIS OF DEPT   BROWNE D
+                     LAB                                    TBA                                                      BROWNE D
  19     6  PHYS 6198         2  LAB METH FOR TEACH     3.0  TBA                                                      BROWNE D
+                     LAB                                    TBA                                                      BROWNE D
  19     6  PHYS 6991 SEM     3  CUR DEV PHY CURR MAT   1-3  1030-1130   MTWTF  0365 NICHOLSON       PERMIS OF DEPT   BROWNE D
  12    13  PHYS 6991 SEM     1  CUR DEV PHY CURR MAT   1-3  TBA                                     PERMIS OF DEPT   BROWNE D
 (F)     3  PHYS 7996         1  IND RES IN PHYSICS     3.0  TBA                                     PERMIS OF DEPT   ZHANG J

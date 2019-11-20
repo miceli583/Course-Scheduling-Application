@@ -1,24 +1,42 @@
 (F)    34  EE   1810         1  INTRO TO ECE           2.0   300-0420    T     1263 PATRICK TAYLOR  CI-WRITTEN&SPOK  DE SOUZA G
+                     LAB                                     230-0420   M      1131 PATRICK TAYLOR
 (F)    34  EE   1810         2  INTRO TO ECE           2.0   300-0420    T     1263 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                    1230-0220     W    1131 PATRICK TAYLOR
 (F)    34  EE   1810         3  INTRO TO ECE           2.0   300-0420    T     1263 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     430-0620N   T     1131 PATRICK TAYLOR
  16    78  EE   2120         1  CIRCUITS I             3.0   930-1020   M W F  0002 LOCKETT                          SCALZO J
  26    49  EE   2130         1  CIRCUITS II            3.0  1130-1220   M W F  1253 PATRICK TAYLOR                   RABALAIS M
  29    41  EE   2230         1  ELECTRONICS I          3.0   230-0320   M W F  1221 PATRICK TAYLOR                   FELDMAN M
 (F)    16  EE   2231         1  ELECTRONICS LAB I      2.0   800-0850    T     1212 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     130-0320    T
 (H)        EE   2231         2  ELECTRONICS LAB I      2.0   800-0850    T     1212 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     330-0520    T
   2    14  EE   2231         3  ELECTRONICS LAB I      2.0   800-0850    T     1212 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     830-1020      TH
   2    14  EE   2231         5  ELECTRONICS LAB I      2.0   800-0850    T     1212 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     100-0250      TH
   4    14  EE   2731         1  DIGTL LOGIC LAB        2.0   800-0850      TH  1225 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                    1030-1220      TH
 (F)    18  EE   2731         2  DIGTL LOGIC LAB        2.0   800-0850      TH  1225 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     100-0250      TH
 (F)    18  EE   2731         3  DIGTL LOGIC LAB        2.0   800-0850      TH  1225 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     300-0450      TH
   3    15  EE   2731         4  DIGTL LOGIC LAB        2.0   800-0850      TH  1225 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     500-0650N     TH
   2    16  EE   2741         1  DIGITAL LOGIC I        3.0  1030-1120   M W    0006 LOCKETT                          VAIDYANATHAN
+                     LAB                                     830-1020    T                                           VAIDYANATHAN
   3    15  EE   2741         2  DIGITAL LOGIC I        3.0  1030-1120   M W    0006 LOCKETT                          VAIDYANATHAN
+                     LAB                                    1030-1220    T
 (F)    18  EE   2741         4  DIGITAL LOGIC I        3.0  1030-1120   M W    0006 LOCKETT                          VAIDYANATHAN
+                     LAB                                     300-0450    T
 (F)        EE   2741         5  DIGITAL LOGIC I        3.0  1030-1120   M W    0006 LOCKETT                          VAIDYANATHAN
+                     LAB                                     500-0650N   T
 (F)        EE   2741         6  DIGITAL LOGIC I        3.0  1030-1120   M W    0006 LOCKETT                          VAIDYANATHAN
+                     LAB                                     830-1020      TH
 (F)    28  EE   2810         1  TOOLS IN ECE           2.0   900-0950    T     1253 PATRICK TAYLOR                   SCALZO J
+                     LAB                                    1130-0120    T     1131 PATRICK TAYLOR                   SCALZO J
   9    19  EE   2810         2  TOOLS IN ECE           2.0   900-0950    T     1253 PATRICK TAYLOR                   SCALZO J
+                     LAB                                     330-0520      TH  1131 PATRICK TAYLOR                   SCALZO J
   4   112  EE   2950         1  COMPREHENSIVE E E      3.0  1030-1120   M W F  1620 BUS ED N WING                    RABALAIS M
 (F)   148  EE   2950         2  COMPREHENSIVE E E      3.0  1030-1150    T TH  1200 PATRICK TAYLOR                   ABDELWAHAB M
   9     1  EE   3060 RES     1  SPECIAL PROJECTS       2.0  TBA                                     PERMIS OF DEPT   DANIELS-RACE
@@ -33,32 +51,49 @@
  13    63  EE   3530         1  INTRO TO CONTROL ENG   3.0   500-0750N  M      1221 PATRICK TAYLOR                   GU G
  20    48  EE   3610         1  SIGNALS AND SYSTEMS    3.0   730-0850    T TH  1221 PATRICK TAYLOR                   WEI S
 (F)    16  EE   3752         1  MICROPROCESSOR SYST    3.0   830-0920   M W    1221 PATRICK TAYLOR                   TRAHAN J
+                     LAB                                     830-1020      TH
 (F)    18  EE   3752         2  MICROPROCESSOR SYST    3.0   830-0920   M W    1221 PATRICK TAYLOR                   TRAHAN J
+                     LAB                                    1030-1220      TH
 (F)    18  EE   3752         3  MICROPROCESSOR SYST    3.0   830-0920   M W    1221 PATRICK TAYLOR                   TRAHAN J
+                     LAB                                    1030-1220    T
 (F)    18  EE   3752         4  MICROPROCESSOR SYST    3.0   830-0920   M W    1221 PATRICK TAYLOR                   TRAHAN J
+                     LAB                                     100-0250    T
   1    17  EE   3752         5  MICROPROCESSOR SYST    3.0   830-0920   M W    1221 PATRICK TAYLOR                   TRAHAN J
+                     LAB                                     300-0450    T
   6    54  EE   3755         1  COMPUTER ORGANIZATIO   3.0  1230-0120   M W F  0204 TUREAUD HALL                     PENG L
  56    86  EE   3950         1  ELECTRONICS            2.0  1030-1120   M W F  0010 LOCKETT                          DE SOUZA G
 (F)    40  EE   4000         3  RENEWABLE ENERGY       3.0  1030-1120   M W F  0108 TUREAUD HALL                     KARGARIAN MAR
  37    13  EE   4000         1  INTRO TO BIOIMAGING    3.0   430-0550N  M W    0228 TUREAUD HALL                     XU J
 (F)     1  EE   4002         1  SPEC TOPICS IN E E     3.0  TBA                                                      MEHRAEEN S
   2    12  EE   4242         1  VLSI DESIGN            3.0   830-0920   M W    0102 TUREAUD HALL                     SRIVASTAVA A
+                     LAB                                     830-1020      TH
   1    13  EE   4242         2  VLSI DESIGN            3.0   830-0920   M W    0102 TUREAUD HALL                     SRIVASTAVA A
+                     LAB                                     100-0250      TH
   3    11  EE   4242         3  VLSI DESIGN            3.0   830-0920   M W    0102 TUREAUD HALL                     SRIVASTAVA A
+                     LAB                                     300-0450      TH
   2    12  EE   4242         4  VLSI DESIGN            3.0   830-0920   M W    0102 TUREAUD HALL                     SRIVASTAVA A
+                     LAB                                     130-0320    T
   3     9  EE   4350         1  APPLIED EMAG: RF SYS   3.0  1230-0120   M W    1212 PATRICK TAYLOR                   SCALZO J
+                     LAB                                     130-0320    T
   4     8  EE   4350         2  APPLIED EMAG: RF SYS   3.0  1230-0120   M W    1212 PATRICK TAYLOR                   SCALZO J
+                     LAB                                     130-0320      TH                                        SCALZO J
 (F)    10  EE   4412         1  PWR SYS ANALYS&MODEL   3.0   430-0620N     TH  0116 TUREAUD HALL                     MEHRAEEN S
+                     LAB                                     830-1020    T
   1     9  EE   4412         2  PWR SYS ANALYS&MODEL   3.0   430-0620N     TH  0116 TUREAUD HALL                     MEHRAEEN S
+                     LAB                                    1230-0220    T
   2     8  EE   4412         3  PWR SYS ANALYS&MODEL   3.0   430-0620N     TH  0116 TUREAUD HALL                     MEHRAEEN S
+                     LAB                                     300-0450    T
   1     9  EE   4412         4  PWR SYS ANALYS&MODEL   3.0   430-0620N     TH  0116 TUREAUD HALL                     MEHRAEEN S
+                     LAB                                    1200-0150      TH
  19    41  EE   4445         1  PWR SYS OPS & CONTRO   3.0   600-0850N   T     0102 TUREAUD HALL                     MCANELLY M
  29    11  EE   4660         1  RANDOM PROCESSES I     3.0  1130-1220   M W F  1216 PATRICK TAYLOR                   LIANG X
  21     9  EE   4702         1  GPU PROGRAMMING        3.0  1130-1220   M W F  0226 TUREAUD HALL                     KOPPELMAN D
  17    18  EE   4745         1  NEURAL COMPUTING       3.0  1030-1120   M W F  0116 TUREAUD HALL                     RAI S
  20    20  EE   4755         1  DIGIT DSN USING HDL    3.0   930-1020   M W F  0226 TUREAUD HALL                     KOPPELMAN D
   6    74  EE   4810         1  SENIOR DESIGN I        3.0  1030-1150    T TH  0130 HOWE RUSSELL E  CI-WRITTEN&SPOK  SCALZO J
+                     LAB                                    1230-0220       F                                        DE SOUZA G
 (F)     9  EE   4810         2  SENIOR DESIGN I        3.0  1030-1150    T TH  0130 HOWE RUSSELL E  CI-WRITTEN&SPOK  SCALZO J
+                     LAB                                    TBA                                                      DE SOUZA G
  12     3  EE   7000         1  COMPUTATIONAL EMAG     3.0  1130-1220   M W F  0225 TUREAUD HALL                     VERONIS G
  19     1  EE   7091 RES     1  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   LI X
  19     1  EE   7091 RES     2  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   KARGARIAN MAR

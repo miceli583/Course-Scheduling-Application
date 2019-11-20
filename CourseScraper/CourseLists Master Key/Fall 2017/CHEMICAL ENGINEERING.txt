@@ -1,28 +1,50 @@
 151   232  CHE  1100         2  INTRO CHEM ENGINEER    1.0   230-0320       F  0002 LOCKETT                          BENTON M
  17    33  CHE  2171         1  CHE FUND MAT EN BAL    4.0   930-1020   M W F  1620 BUS ED N WING                    MELVIN A
+                     LAB                                     130-0420   M                                            FLAKE J
  17    33  CHE  2171         2  CHE FUND MAT EN BAL    4.0   930-1020   M W F  1620 BUS ED N WING                    MELVIN A
+                     LAB                                     200-0450    T                                           FLAKE J
 (F)    50  CHE  2171         3  CHE FUND MAT EN BAL    4.0  1030-1120   M W F  1620 BUS ED N WING                    MELVIN A
+                     LAB                                     130-0420   M                                            FLAKE J
 (F)    50  CHE  2171         4  CHE FUND MAT EN BAL    4.0  1030-1120   M W F  1620 BUS ED N WING                    MELVIN A
+                     LAB                                     200-0450    T                                           FLAKE J
 (F)    55  CHE  2176         1  NUM METH & PROG CHE    4.0   730-0850    T TH  1225 PATRICK TAYLOR                   NANDAKUMAR K
+                     LAB                                     130-0420     W                                          NANDAKUMAR K
  61    24  CHE  2176         2  NUM METH & PROG CHE    4.0   730-0850    T TH  1225 PATRICK TAYLOR                   NANDAKUMAR K
+                     LAB                                     200-0450      TH                                        NANDAKUMAR K
  47   178  CHE  3101         1  MOMENTUM TRANSFER      3.0   830-0920   M W F  0143 COATES                           MCPEAK K
   1     6  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1230-0120   M W                         CI-WRITTEN&SPOK  FLAKE J
+                     LAB                                     130-0420   M                                            BALHOFF D
 (F)     8  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1230-0120   M W                                          FLAKE J
+                     LAB                                     130-0420   M                                            DORMAN J
 (F)     7  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1230-0120   M W                                          FLAKE J
+                     LAB                                     130-0420    T                                           ARGES C
 (F)     7  CHE  3104         4  ENGR MEASUREMENT LAB   3.0  1230-0120   M W                                          FLAKE J
+                     LAB                                     130-0420    T                                           DING K
 (F)     9  CHE  3104         5  ENGR MEASUREMENT LAB   3.0  1230-0120   M W                                          FLAKE J
+                     LAB                                     130-0420     W                                          BALHOFF D
 (F)     9  CHE  3104         6  ENGR MEASUREMENT LAB   3.0  1230-0120   M W                                          FLAKE J
+                     LAB                                     130-0420     W                                          PARKS J
  17   158  CHE  3172         1  CHE THERMODYNAMICS     3.0   930-1020   M W F  0143 COATES                           BHARTI B
  11    64  CHE  4151         1  UNIT OPS DESIGN        4.0   930-1020   M W F                                        HANLEY B
+                     LAB                                     900-1020    T TH                                        HANLEY B
  15    60  CHE  4151         2  UNIT OPS DESIGN        4.0   930-1020   M W F                                        HANLEY B
+                     LAB                                    1030-1150    T TH                                        HANLEY B
 (F)     9  CHE  4162         1  UNIT OPERATIONS LAB    3.0   430-0520N  M      E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W                                          SPIVEY J
 (F)     8  CHE  4162         2  UNIT OPERATIONS LAB    3.0   430-0520N  M                           CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W                                          BENTON M
 (F)     8  CHE  4162         3  UNIT OPERATIONS LAB    3.0   430-0520N  M                           CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W                                          AYENI O
 (F)     9  CHE  4162         4  UNIT OPERATIONS LAB    3.0   430-0520N  M                           CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W                                          GRIFFIN G
 (F)     7  CHE  4162         5  UNIT OPERATIONS LAB    3.0   430-0520N   T                          CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH                                        GUILLORY A
 (F)     8  CHE  4162         6  UNIT OPERATIONS LAB    3.0   430-0520N   T                          CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH                                        TOUPS H
 (F)     6  CHE  4162         7  UNIT OPERATIONS LAB    3.0   430-0520N   T                          CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH                                        TOUPS H
 (F)     8  CHE  4162         8  UNIT OPERATIONS LAB    3.0   430-0520N   T                          CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH                                        TOUPS H
  27   126  CHE  4190         1  CHEM REACTION ENGR     3.0  1030-1120   M W F                                        GRIFFIN G
  31   122  CHE  4198         1  PROCESS DYNAMICS       3.0  1130-1220   M W F                                        ROMAGNOLI J
  19    11  CHE  4210         1  INDUSTRL CATALYSIS     3.0  1230-0120   M W F  1236 PATRICK TAYLOR                   DING K

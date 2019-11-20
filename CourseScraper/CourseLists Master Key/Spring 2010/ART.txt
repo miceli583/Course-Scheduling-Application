@@ -35,10 +35,15 @@
 (F)    20  ART  1849 LAB     2  INTRO TO PAINTING      3.0  1240-0330   M W    0203 FOSTER          MAJORS ONLY      MALVETO J
 (F)    20  ART  1849 LAB     3  INTRO TO PAINTING      3.0  1210-0300    T TH  0203 FOSTER          MAJORS ONLY      CRESPO M
 (F)    23  ART  2050         2  DIGITAL ART I          3.0  1240-0230   M W    0108 ART BUILDING    MAJORS ONLY      HERSTER M
+                     LAB                                     240-0330   M W                                          HERSTER M
 (F)    23  ART  2050         1  DIGITAL ART I          3.0   910-1100    T TH  0108 ART BUILDING    MAJORS ONLY      LIVAUDAIS L
+                     LAB                                    1110-1200    T TH
 (F)    23  ART  2050         3  DIGITAL ART I          3.0  1210-0100    T TH  0111 ART BUILDING    PERMIS OF DEPT   COLLINS N
+                     LAB                                     110-0300    T TH  0111 ART BUILDING                     COLLINS N
 (F)    23  ART  2050         4  DIGITAL ART I          3.0   340-0430    T TH  0108 ART BUILDING    PERMIS OF DEPT   LIVAUDAIS L
+                     LAB                                     440-0630N   T TH  0108 ART BUILDING
 (F)    21  ART  2055         1  DIGITAL ART II         3.0   840-1130   M W    0108 ART BUILDING    PERMIS OF INST   HERSTER M
+                     LAB                                    TBA                                                      HERSTER M
   2    13  ART  2342 LAB     1  PAPERMAKING            3.0   910-1200    T TH                       MAJORS ONLY      KOPTCHO L
   2    10  ART  2362 LAB     1  INTERMED INTAGLIO      3-6  1240-0330   M W                         MAJORS ONLY      ARP K
 (F)    12  ART  2372 LAB     1  INTERMED LITHOGRAPHY   3-6  1240-0330   M W                         MAJORS ONLY      ARP K

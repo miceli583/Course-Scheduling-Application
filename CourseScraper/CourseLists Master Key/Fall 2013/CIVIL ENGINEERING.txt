@@ -19,7 +19,9 @@
   1    24  CE   3410 LAB     2  MECHNCS OF MATLS LAB   1.0   230-0520     W    2150 PATRICK TAYLOR                   YAGHOOBI M
  21    54  CE   3415         2  STRUCTRL ANALYSIS I    3.0   100-0220   M W    2142 PATRICK TAYLOR                   CAI C
   1    24  CE   3500         1  PLANE SURV & MEASURE   3.0  1130-1220   M W    1112 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     230-0520   M                                            MUGNIER C
   1    24  CE   3500         2  PLANE SURV & MEASURE   3.0  1130-1220   M W    1112 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     230-0520     W                                          MUGNIER C
 (F)    78  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1030-1150    T TH  2162 PATRICK TAYLOR                   ISHAK S
   1    19  CE   3700 LAB     1  ENGINEERING MAT LAB    1.0   330-0420   M      2142 PATRICK TAYLOR                   COOPER S
 (F)    20  CE   3700 LAB     2  ENGINEERING MAT LAB    1.0   330-0420   M      2142 PATRICK TAYLOR                   COOPER S
@@ -31,18 +33,25 @@
  17    33  CE   4430         1  STRUCTURAL ENGR        3.0   300-0550    T TH  2412 PATRICK TAYLOR                   BARBATO M
  39    21  CE   4435         1  INDETERM STRUCT ANAL   3.0  1030-1150    T TH  2171 PATRICK TAYLOR                   ALY SAYED AHM
  26    14  CE   4500         1  GEODETIC PHOTO SUR     3.0   500-0650N  M      0100 TUREAUD HALL                     MUGNIER C
+                     LAB                                     700-0950N  M      0100 TUREAUD HALL                     MUGNIER C
  30    20  CE   4520         1  ADVANCED SURVEYING     3.0   500-0650N   T     1110 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     700-0950N   T     1110 PATRICK TAYLOR                   MUGNIER C
   2    19  CE   4560         1  ENGR APPL REMOTE SEN   3.0   400-0450   M  TH  2150 PATRICK TAYLOR                   KENT J
+                     LAB                                     500-0750N     TH  3423 PATRICK TAYLOR                   KENT J
  39    17  CE   4600         1  GEOM DESN HWY/AIRPRT   3.0   830-0920   M W F  2412 PATRICK TAYLOR                   WOLSHON P
+                     LAB                                     830-1120     W    2412 PATRICK TAYLOR                   WOLSHON P
  15    35  CE   4670         1  FUND OF PAVEMENT DES   3.0   130-0250    T TH  1110 PATRICK TAYLOR                   ELSEIFI M
  16    49  CE   4750         1  PRF ISS CONC DESN CE   2.0   930-1120   M      2412 PATRICK TAYLOR  CI-SPOKEN&VISUA  WILLIAMS M
+                     LAB                                     300-0450     W    2412 PATRICK TAYLOR                   WILLIAMS M
  35    15  CE   4760         1  CIVIL ENGR DESIGN      3.0   300-0450    T     1110 PATRICK TAYLOR                   CRAIN J
+                     LAB                                     300-0550      TH  1110 PATRICK TAYLOR                   CRAIN J
  10    10  CE   7145         1  BIO TREAT REC SYS AQ   3.0   300-0420    T TH  3141 PATRICK TAYLOR                   MALONE R
  15     5  CE   7255         1  ADVANCED HYDRAULICS    3.0   900-1020    T TH  1110 PATRICK TAYLOR                   DENG Z
  12     8  CE   7420         2  LIMIT ANALYSIS & DES   3.0  1200-0120    T TH  3142 PATRICK TAYLOR                   BARBATO M
  11     4  CE   7490         1  DAMAGE MECH METALS     3.0   900-1020   M W    2142 PATRICK TAYLOR                   VOYIADJIS G
   9    11  CE   7640         1  URBAN TRANSPORT POL/   3.0   930-1050   M   F  1114 PATRICK TAYLOR                   WILMOT C
  14     6  CE   7655         1  PAVEMENT MAT CHARACT   4.0   900-1020    T TH  3142 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                    TBA                                                      MOHAMMAD L
   6    14  CE   7700 RES     2  SPCL TOPICS CIVIL EN   3.0  1030-1150    T TH  3142 PATRICK TAYLOR                   OKEIL A
 (F)     5  CE   7700 RES     3  SPCL TOPICS CIVIL EN   3.0   300-0420    T TH  0218 TUREAUD HALL                     TSAI F
  12     8  CE   7700 RES     1  SPCL TOPICS CIVIL EN   3.0   430-0550N   T TH  2103 PATRICK TAYLOR                   ABU-FARSAKH M

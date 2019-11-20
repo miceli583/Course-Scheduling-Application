@@ -74,9 +74,11 @@
   6     6  PHYS 2207 LAB     3  MODERN PHYSICS LAB     1.0   130-0420      TH  0007 NICHOLSON       MAJORS ONLY      RUPNIK D
   7    18  PHYS 2231         1  ELEC & MAGNETISM       3.0   900-1020    T TH  0118 NICHOLSON                        TZANOV M
  11    14  PHYS 2411         1  COMPUTATIONAL SCI I    3.0  1230-0120   M   F  0118 NICHOLSON       MAJORS ONLY      LAUNEY K
+                     LAB                                    1230-0220     W    0365 NICHOLSON                        LAUNEY K
  54     6  PHYS 2995 SEM     2  UNDERGRAD SEMINAR      1.0   430-0520N  M      0365 NICHOLSON                        STACY J
  23    37  PHYS 2995 SEM     1  UNDERGRAD SEMINAR      1.0  1030-1120       F  0119 NICHOLSON                        BROWNE D
  20     5  PHYS 4005         1  RESEARCH METHODS       3.0  1030-1220   M W    0205 PRESCOTT        CI-WRITTEN&SPOK  MESA D
+                     LAB                                    TBA                                                      MESA D
   4    21  PHYS 4123         2  INTERM MECHANICS       3.0  1030-1150    T TH  0118 NICHOLSON                        ADAMS P
  12    13  PHYS 4142         1  INTR QUANTUM MECH      3.0  1130-1220   M W F  0118 NICHOLSON                        ZHANG J
  15    10  PHYS 4261         1  INTR TO SOLID ST PHY   3.0  1030-1120   M W F  0118 NICHOLSON                        PLUMMER E

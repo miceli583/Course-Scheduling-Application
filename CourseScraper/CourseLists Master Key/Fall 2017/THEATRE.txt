@@ -10,6 +10,7 @@
 (F)    18  THTR 1025         3  ACTING I               3.0  1030-1150    T TH  0125 M&DA BLDG                        WIPPERLING L
   2    16  THTR 1025         5  ACTING I               3.0   130-0250    T TH  0125 M&DA BLDG                        DISALVO M
 (F)    20  THTR 1029         1  STG MVMNT I            3.0   900-1020    T     0166 M&DA BLDG                        ERICKSON N
+                     LAB                                     900-1020      TH                                        ERICKSON N
   9    21  THTR 1127 LAB     1  BEGIN MODERN DANCE     1.0   730-0850    T TH  0123AM&DA BLDG                        RIBEIRO DA SI
 (F)    30  THTR 1131 LAB     1  BEGIN BALLET           1.0   800-0920   M W    0123AM&DA BLDG                        PERLIS S
   5    25  THTR 1153 LAB     1  BEGIN JAZZ DANCE       1.0  1030-1150    T TH  0123AM&DA BLDG                        RIBEIRO DA SI
@@ -24,6 +25,7 @@
   1    29  THTR 2022         2  INT THEATRICAL DESN    3.0  1130-1220   M W F  0301 M&DA BLDG                        BERNARDONI J
 (F)    31  THTR 2022         1  INT THEATRICAL DESN    3.0   900-1020    T TH  0301 M&DA BLDG                        BERNARDONI J
 (F)    12  THTR 2023         1  STAGE MAKEUP           3.0  1030-1150    T TH                                        KAZUSCHYK K
+                     LAB                                    1030-1150    T TH                                        KAZUSCHYK K
 (F)    30  THTR 2024         1  ENTERTAINMENT TECHNO   3.0   930-1020   M W F  0181 M&DA BLDG                        COPE E
   1    17  THTR 2025         1  ACTING II              3.0   900-1020    T TH  0135 M&DA BLDG                        HOLBEN R
   1    17  THTR 2025         2  ACTING II              3.0  1200-0120    T TH  0135 M&DA BLDG                        PLOURDE J
@@ -48,8 +50,11 @@
   5    13  THTR 2031 LAB     2  AERIAL PRACTICE I      1.0  1230-0120   M W F  0166 M&DA BLDG       CI-VISUAL        ERICKSON N
 (F)    31  THTR 2130         1  SCRIPT ANALYSIS        3.0   130-0220   M W F  0301 M&DA BLDG                        FLETCHER J
   1     9  THTR 2830         1  TECH DRAFTING THEATR   3.0   130-0250    T TH  0181 M&DA BLDG                        HOUSTON T
+                     LAB                                     300-0420    T TH
   7     9  THTR 3025         1  ACTING III             3.0   900-1020    T TH  0125 M&DA BLDG                        JUDY G
+                     LAB                                     900-1020    T TH                                        JUDY G
 (F)    18  THTR 3026         1  INTRO ACT FOR CAMERA   3.0  1030-1150    T     0135 M&DA BLDG                        CHREST J
+                     LAB                                    1030-1150      TH  0135 M&DA BLDG                        CHREST J
 (F)    40  THTR 3120         1  THTR HIST/LIT I        3.0  1130-1220   M W F  0131 ALLEN                            SIKES A
   6     6  THTR 3123 LAB     1  COSTUME CONSTRUCTION   3.0   900-1020    T TH                                        KAZUSCHYK K
 (F)     8  THTR 3530         1  SOUND TECHNOLOGY       3.0  1030-1150    T TH  0314 M&DA BLDG                        O'NEILL S
@@ -73,11 +78,14 @@
 (F)    11  THTR 7001 CLI     2  IND PROJ PERF TRAIN    1-6  TBA                                                      CABAJ S
 (F)    10  THTR 7130         1  SCRIPT ANALYSIS/DRAM   3.0   230-0320   M W F  0193 M&DA BLDG                        FLETCHER J
   8    10  THTR 7220         1  ACTING STUDIO I        3.0  1230-0150   M                                            HOLBEN R
+                     LAB                                    1230-0150     W                                          HOLBEN R
   8    10  THTR 7227         1  VOICE STUDIO I         3.0   330-0450   M W                                          CABAJ S
+                     LAB                                    TBA                                                      CABAJ S
   8    10  THTR 7233         1  MOVEMENT STUDIO I      3.0   900-1020   M W    0166 M&DA BLDG                        ERICKSON N
   2     1  THTR 7422         1  ADV SCNE DSGN II-A     4.0  1030-1150    T TH  0181 M&DA BLDG                        HOUSTON T
   2     1  THTR 7527         1  ADV CSTM TECH IV       3.0   100-0350       F                                        KAZUSCHYK K
   2     1  THTR 7622         1  SCENERY AUTOMATION     3.0   900-1020    T                                           MURPHY J
+                     LAB                                     900-1020      TH                                        MURPHY J
   8     4  THTR 7903         1  17TH/18TH CENTURY      3.0   330-0450   M W    0193 M&DA BLDG                        SIKES A
   6     6  THTR 7904         1  19TH CENTURY           3.0   900-1020    T TH  0193 M&DA BLDG                        WALSH S
   3     7  THTR 7920 SEM     1  DRAMA OF AFR DIASPOR   3.0  1030-1150    T TH  0193 M&DA BLDG                        EUBA F

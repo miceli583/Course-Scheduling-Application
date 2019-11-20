@@ -5,14 +5,21 @@
  34    43  CHE  2176         1  MATH MOD CHM ENG SYS   3.0   910-1030    T TH  0221 TUREAUD HALL                     NANDAKUMAR K
 (F)    83  CHE  3102         1  HEAT/MASS TRANSFER     4.0  1040-1130   MTWTH  0105 TUREAUD HALL                     THIBODEAUX L
   1    17  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0120 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430   M      0164 CHEM ENGR                        WETZEL D
 (F)    15  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0120 TUREAUD HALL                     WETZEL D
+                     LAB                                     140-0430    T     0164 CHEM ENGR                        WETZEL D
   1    17  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0120 TUREAUD HALL                     WETZEL D
+                     LAB                                     140-0430     W    0164 CHEM ENGR                        WETZEL D
 (F)    77  CHE  3171         1  PROCESS ECON/OPTIMIZ   3.0   910-1030    T TH  0206 TUREAUD HALL                     HJORTSO M
 (F)    81  CHE  3173         1  HETEROGENUS EQULBRUM   3.0   940-1030   M W F  0145 COATES                           WORNAT M
   2    18  CHE  4162         1  UNIT OPERATIONS LAB    3.0   440-0530N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430   M W                                          TOUPS H
   4    16  CHE  4162         2  UNIT OPERATIONS LAB    3.0   440-0530N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430    T TH                                        HJORTSO M
   4    36  CHE  4172         1  PROCESS DESIGN         4.0   940-1030   M W F  0204 TUREAUD HALL                     KNOPF F
+                     LAB                                     910-1030    T TH  0282 CHEM ENGR                        KNOPF F
   2    38  CHE  4172         2  PROCESS DESIGN         4.0   940-1030   M W F  0204 TUREAUD HALL                     KNOPF F
+                     LAB                                    1040-1200    T TH  0282 CHEM ENGR                        KNOPF F
  13     7  CHE  4221 LAB     1  SENIOR RESEARCH        1.0   740-0830       F  0265 CHEM ENGR       PERMIS OF INST   HUNG F
  14     1  CHE  4222 LAB     1  SENIOR RESEARCH        2.0   540-0830N   T TH                                        FLAKE J
 (F)    35  CHE  4253         1  INTRO IND POLL CONTR   3.0  1140-1230   M W F  0282 CHEM ENGR                        VALSARAJ K

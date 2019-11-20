@@ -11,8 +11,11 @@
 (F)    20  ELRC 4507         2  COMPUTER TECH EDUC     3.0   440-0730N   T     0118 PEABODY                          GRANT A
 (F)    14  ELRC 4601         1  MGT OF COUNSLNG SERV   3.0   440-0730N  M      0120 PEABODY                          CHOATE L
 (F)    15  ELRC 7006         1  EDUC STATISTICS        4.0   440-0730N   T     0035 ALLEN                            KENNEDY E
+                     LAB                                     140-0330      TH  0230EMIDDLETON                        KENNEDY E
   4    11  ELRC 7006         2  EDUC STATISTICS        4.0   440-0730N   T     0035 ALLEN                            KENNEDY E
+                     LAB                                     410-0600      TH  0114 PEABODY                          KENNEDY E
   9     6  ELRC 7243         1  QUAL METH EDUC RESCH   4.0   440-0730N  M      0214 PEABODY                          MACGREGOR S
+                     LAB                                    TBA
   9     1  ELRC 7248 CLI     1  INT RES PRACTICUM      3.0  TBA                                     PERMIS OF DEPT   MACGREGOR S
   5    10  ELRC 7280         1  CONTENT ANALYSIS       3.0   440-0730N     TH  0214 PEABODY                          MACGREGOR S
  20    30  ELRC 7299         1  INTRO ED SCHOLARSHIP   3.0   440-0730N  M      0220 COATES                           MATHEWS F
@@ -22,6 +25,7 @@
  16     4  ELRC 7364 CLI     1  COM AGENCY COUN PRAC   3-6   210-0430     W    0120 PEABODY                          CHOATE L
 (F)    20  ELRC 7393         1  MULTICULT COUNSLNG     3.0   440-0730N   T     0129 ALLEN                            ALBERT K
  15     5  ELRC 7397         1  SUBSTANCE ABUSE COUN   3.0   440-0730N  M      0017 ALLEN                            FAZIO-GRIFFIT
+                     LAB                                    TBA                                                      FAZIO-GRIFFIT
   7    15  ELRC 7404 CLI     1  INTERNSHIP IN ED ADM   3-6  TBA                                                      BICKMORE D
  25     5  ELRC 7420         1  ADMIN OF TECH PROG     3.0   440-0730N   T     0225 COATES                           NICOLLE P
   8    12  ELRC 7422         1  INTR SCH IMPR/ACT RS   3.0   510-0800N    W    0170 COATES                           TAYLOR D

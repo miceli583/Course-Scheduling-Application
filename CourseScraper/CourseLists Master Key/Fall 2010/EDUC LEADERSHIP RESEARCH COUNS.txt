@@ -11,9 +11,13 @@
   1    19  ELRC 4507         2  COMPUTER TECH EDUC     3.0   440-0730N   T     0118 PEABODY                          SMITH K
   4    16  ELRC 4602         1  INTRO TO COUNSELING    3.0   440-0730N  M      0023 ALLEN                            CHOATE L
   2    13  ELRC 7006         1  EDUC STATISTICS        4.0   440-0730N   T     0027 ALLEN                            KENNEDY E
+                     LAB                                     140-0330    T     0230EMIDDLETON                        KENNEDY E
   1    14  ELRC 7006         2  EDUC STATISTICS        4.0   440-0730N   T     0027 ALLEN                            KENNEDY E
+                     LAB                                     740-0930N   T     0230EMIDDLETON
  20     5  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   440-0730N    W    0023 ALLEN                            KENNEDY E
+                     LAB                                     740-0930N    W    0230EMIDDLETON                        KENNEDY E
 (F)    15  ELRC 7243         1  QUAL METH EDUC RESCH   4.0   440-0730N  M      0214 PEABODY                          MACGREGOR S
+                     LAB                                    TBA                                                      MACGREGOR S
  98     1  ELRC 7249 CLI     1  ADV RES PRACTICUM      3.0  TBA                                                      MACGREGOR S
   7     8  ELRC 7280         1  CONTENT ANALYSIS       3.0   440-0730N     TH  0214 PEABODY                          MACGREGOR S
  14    36  ELRC 7299         1  INTRO ED SCHOLARSHIP   3.0   440-0730N  M      0139 ALLEN                            MATHEWS F
@@ -24,6 +28,7 @@
  12     8  ELRC 7364 CLI     1  COM AGENCY COUN PRAC   3-6   840-1030     W    0120 PEABODY                          CHOATE L
 (F)    22  ELRC 7393         1  MULTICULT COUNSLNG     3.0   440-0730N   T     0129 ALLEN                            ALBERT K
   6    14  ELRC 7397         1  SP TOPICS COUNSELING   3.0   440-0730N  M      0120 PEABODY                          GINTNER G
+                     LAB                                    TBA
  12    10  ELRC 7404 CLI     1  INTERNSHIP IN ED ADM   3-6  TBA                                     PERMIS OF INST   RAINES S
  11     9  ELRC 7422         1  INTR SCH IMPR/ACT RS   3.0   510-0800N    W    0253 HIMES                            TAYLOR D
   4     9  ELRC 7431 CLI     1  BST PRCT SCH LEAD II   6.0   440-1030N   T     0102 COATES                           TAYLOR D

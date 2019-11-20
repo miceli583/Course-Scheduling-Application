@@ -4,15 +4,21 @@
 (F)   383  LA   1203         1  VIEWS AMER LANDSCAPE   3.0   830-0920   M W F  0002 LOCKETT                          FRYLING C
   2    15  LA   2002 LAB     1  LANDSCAPE DESIGN II    6.0   130-0520   M W F  0321 DESIGN BUILDING                  SHARKY B
   8    15  LA   2301         1  LANDSCAPE TECH I       3.0   930-1020   M W F  0209 DESIGN BUILDING                  ABBEY D
+                     LAB                                    1030-1120   M W F                                        ABBEY D
   3    12  LA   2301         2  LANDSCAPE TECH I       3.0   930-1020   M      0230 DESIGN BUILDING                  SHARKY B
+                     LAB                                    1030-1220   M W                                          SHARKY B
  21    15  LA   2401         1  LANDSCAPE ECOLOGY      3.0  1200-0250      TH  0308 DESIGN BUILDING                  FRYLING C
 (F)    15  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0324 DESIGN BUILDING                  MICHAELS K
   5    10  LA   3002 LAB     2  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0326 DESIGN BUILDING                  MICHAELS K
  12    38  LA   3201         1  LANDSCAPE HISTORY II   3.0   830-0920   M W F  0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
 (F)    15  LA   3302         2  LANDSCAPE TECH III     3.0   930-1120   M      0301 DESIGN BUILDING                  MICHAELS K
+                     LAB                                    1130-1220   M W                                          MICHAELS K
 (F)    25  LA   3302         1  LANDSCAPE TECH III     3.0  1200-1250    T     0301 DESIGN BUILDING                  ABBEY D
+                     LAB                                     100-0250    T TH                                        ABBEY D
 (F)    20  LA   3402         1  PLANT MATERIALS II     3.0   800-0850    T     0209 DESIGN BUILDING                  ABBEY D
+                     LAB                                     900-1050    T TH                                        ABBEY D
   2    15  LA   3402         2  PLANT MATERIALS II     3.0   800-0850    T     0209 DESIGN BUILDING                  FRYLING C
+                     LAB                                     900-1050    T TH                                        FRYLING C
  11    21  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA
 (F)    11  LA   4101 SEM     2  ADV DIG REPRESENTN     3.0   600-0850N  M      0308 DESIGN BUILDING                  CANTRELL B
   9    21  LA   4501 RES     1  FIELD STUDIES IN L A   3.0  TBA                                                      CONRAD M

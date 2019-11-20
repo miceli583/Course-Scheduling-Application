@@ -1,5 +1,7 @@
 (F)    38  MATH 1431         3  CAL-BUS & ECO APLCAT   3.0  1210-0220   MTW    0015 LOCKETT                          VAUGHN D
+                     LAB                                    1210-0110      TH  0232 MIDDLETON                        VAUGHN D
 (F)    36  MATH 1431         4  CAL-BUS & ECO APLCAT   3.0  1210-0220   MTW    0015 LOCKETT                          VAUGHN D
+                     LAB                                     120-0220      TH  0232 MIDDLETON                        VAUGHN D
   1    27  MATH 1550         1  AN GEOM & CALCULUS-I   5.0  0730-0940   MTWTF  0237 LOCKETT                          MINN-THU-AYE
   2    26  MATH 1550         2  AN GEOM & CALCULUS-I   5.0  0840-1050   MTWTF  0232 LOCKETT                          HU Y
   1    27  MATH 1550         3  AN GEOM & CALCULUS-I   5.0  0950-1200   MTWTF  0235 LOCKETT                          EAKINS E
@@ -94,11 +96,17 @@
  99        MATH 9000 RES    36  DISSERTATION RES       1-12 TBA                                                      BALDRIDGE S
  98     1  MATH 9000 RES    37  DISSERTATION RES       1-12 TBA                                                      LISAN A
  11    34  MATH 1021         1  COLLEGE ALGEBRA        3.0  0910-1040   MTWTF  0009 LOCKETT                          KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
  14    31  MATH 1021         2  COLLEGE ALGEBRA        3.0  1100-1230   MTWTF  0009 LOCKETT                          KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
  13    32  MATH 1021         3  COLLEGE ALGEBRA        3.0  TBA                                                      KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
  24    16  MATH 1022         1  PLANE TRIGONOMETRY     3.0  0910-1040   MTWTF  0006 LOCKETT                          FITCH G
+                     LAB                                    TBA                                                      FITCH G
   7    33  MATH 1022         2  PLANE TRIGONOMETRY     3.0  1100-1230   MTWTF  0006 LOCKETT                          FITCH G
+                     LAB                                    TBA                                                      FITCH G
  10    30  MATH 1022         3  PLANE TRIGONOMETRY     3.0  TBA                                                      KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
   5    25  MATH 1029         4  INTRO COMTEMP MATH     3.0  0910-1040   MTWTF  0106 NICHOLSON                        DOUGHERTY E
   4    25  MATH 1029         2  INTRO COMTEMP MATH     3.0  1100-1230   MTWTF  0285 LOCKETT                          DAVIDSON M
   7    12  MATH 1100         3  NATURE OF MATHEMATCS   3.0  0910-1040   MTWTF  0241 LOCKETT                          PERLIS R

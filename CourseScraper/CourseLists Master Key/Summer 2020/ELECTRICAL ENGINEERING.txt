@@ -1,10 +1,12 @@
  29     1  EE   2120         1  CIRCUITS I             3.0   120-0220   MTWTF
  11     1  EE   2742         1  DIGITAL LOGIC II       2.0   330-0430   M W
- 45     5  EE   2950         1  COMPREHENSIVE E E      3.0  1210-0110   MTWTF
+                     LAB                                    0840-1040   M W    2246 PATRICK TAYLOR
+ 44     6  EE   2950         1  COMPREHENSIVE E E      3.0  1210-0110   MTWTF
  10        EE   3070 CLI     1  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT
- 16     4  EE   3320         1  ELEC MAGNETIC FLDS     3.0   120-0220   MTWTF
- 29     1  EE   3610         1  SIGNALS AND SYSTEMS    3.0  1210-0110   MTWTF
+ 14     6  EE   3320         1  ELEC MAGNETIC FLDS     3.0   120-0220   MTWTF
+ 27     3  EE   3610         1  SIGNALS AND SYSTEMS    3.0  1210-0110   MTWTF
  13     3  EE   3752         1  MICROPROCESSOR SYST    3.0  1210-0110   MTWTH
+                     LAB                                    0840-1040    T TH  2274 PATRICK TAYLOR
  29     1  EE   3950         1  ELECTRONICS            2.0   120-0220   MTWTF
   5        EE   7091 RES     1  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT
  20        EE   7091 RES     2  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT

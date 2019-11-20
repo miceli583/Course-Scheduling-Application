@@ -1,24 +1,32 @@
 (F)     8  NFS  1014         1  FOOD THEORY & SKILLS   4.0   830-0920   M W F  0129 TUREAUD HALL                     MYHAND J
+                     LAB                                     130-0420    T                                           MYHAND J
   6     4  NFS  1014         2  FOOD THEORY & SKILLS   4.0   830-0920   M W F                       RES COLG-AGRICU
- 74    26  NFS  1110         1  INTRO TO NUTRITION     3.0   430-0550N  M W    0103 TUREAUD HALL                     BALL M
- 16    64  NFS  1110         2  INTRO TO NUTRITION     3.0  1200-0120    T TH  0204 TUREAUD HALL                     DORE S
+                     LAB                                     130-0420    T
+ 72    28  NFS  1110         1  INTRO TO NUTRITION     3.0   430-0550N  M W    0103 TUREAUD HALL                     BALL M
+ 17    63  NFS  1110         2  INTRO TO NUTRITION     3.0  1200-0120    T TH  0204 TUREAUD HALL                     DORE S
   6     4  NFS  1110         3  INTRO TO NUTRITION     3.0  1200-0120    T TH                       RES COLG-AGRICU
- 25    52  NFS  2000         1  FUND OF FOOD SCIENCE   3.0   430-0550N   T TH  0206 TUREAUD HALL    MAJORS ONLY      CRESPO GUTIER
+ 24    53  NFS  2000         1  FUND OF FOOD SCIENCE   3.0   430-0550N   T TH  0206 TUREAUD HALL    MAJORS ONLY      CRESPO GUTIER
  11    39  NFS  2110         1  NUTRITION ASSESSMENT   3.0   900-1020    T TH  0203 TUREAUD HALL                     MILIOTO B
-  3    38  NFS  2112         1  LIFECYCLE NUTRITION    3.0  1130-1220   M W F  0112 TUREAUD HALL                     HOUGHTALING B
+(F)    41  NFS  2112         1  LIFECYCLE NUTRITION    3.0  1130-1220   M W F  0112 TUREAUD HALL                     HOUGHTALING B
  16    19  NFS  3110         1  NUTRITION COUNSELING   3.0  1200-0120    T TH  0127 TUREAUD HALL                     MILIOTO B
  10    40  NFS  3114         1  FOOD AND CULTURE       3.0   930-1020   M W F  0109 TUREAUD HALL                     MYHAND J
- 32    28  NFS  3115         1  HUMAN NUTRI & METABO   3.0   430-0550N  M W    0102 TUREAUD HALL                     KEENAN M
+ 31    29  NFS  3115         1  HUMAN NUTRI & METABO   3.0   430-0550N  M W    0102 TUREAUD HALL                     KEENAN M
  14    46  NFS  3116         1  COMMUNITY NUTRITION    3.0  1030-1120   M W F  0203 TUREAUD HALL                     MCKINLEY E
   3     2  NFS  3900 RES     1  NUTR & FDSC UG RES     1-3  TBA                                                      MYHAND J
 (F)    16  NFS  4021 SEM     1  TOPICS IN NUTRITION    1.0   130-0220    T     0119 J C MILLER                       HOUGHTALING B
  15    25  NFS  4023         1  DIETETICS MANAGEMENT   3.0  1030-1150    T TH  0116 TUREAUD HALL                     DORE S
  22     8  NFS  4040         1  QUAL ASSURNCE FD IND   4.0  1030-1150    T TH  0119 J C MILLER                       ARYANA K
+                     LAB                                     130-0410   M                                            ARYANA K
   7    13  NFS  4050         1  FOOD COMP & ANALYSIS   4.0   930-1020   M W F  0127 TUREAUD HALL                     LOSSO J
+                     LAB                                     130-0420     W                                          LOSSO J
  12     8  NFS  4076         1  FOOD PRODUCT DEV       3.0   830-0920   M W    0127 TUREAUD HALL    ZERO COST TEXTB  PRINYAWIWATKU
+                     LAB                                     130-0420       F                                        PRINYAWIWATKU
   3    25  NFS  4110         1  NUTRITION CAPSTONE     3.0  1200-1250   M W    0134 J C MILLER                       TUURI G
+                     LAB                                     100-0350     W    0134 J C MILLER                       TUURI G
   2    26  NFS  4114         1  NUTRI & DISEASES II    4.0  1200-0120    T TH  0125 TUREAUD HALL                     BALL M
+                     LAB                                     100-0350   M                                            BALL M
   5    17  NFS  4162         1  FOOD MICROBIOLOGY      4.0   130-0220    T TH  0101 TUREAUD HALL    MAJORS ONLY      JANES M
+                     LAB                                     300-0450    T TH  0101 TUREAUD HALL                     JANES M
   7     8  NFS  7002         1  TPCS IN MICRONUTRIEN   2.0  1230-0220   M      0101 TUREAUD HALL                     KEENAN M
   4     1  NFS  7030 RES     1  DAIRY FOOD SAFETY      1-6  TBA                                     PERMIS OF DEPT   XU W
   5        NFS  7030 RES     2  AD FOOD & NUTR RES     1-6  TBA                                     PERMIS OF DEPT

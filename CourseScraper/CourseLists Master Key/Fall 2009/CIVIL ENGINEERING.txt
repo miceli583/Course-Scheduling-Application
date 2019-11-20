@@ -7,7 +7,9 @@
   3   103  CE   2450         3  STATICS                3.0  1140-1230   M W F  1109 PATRICK TAYLOR                   WU Z
  14    86  CE   2460         1  DYNAMICS & VIBRATION   3.0   840-0930   M W F  0103 TUREAUD HALL                     MOORTHY S
 (F)    45  CE   2700         1  INT CIVIL ENGR PR      2.0   940-1030    T     1119 PATRICK TAYLOR                   ADRIAN D
+                     LAB                                     240-0530     W    3140 PATRICK TAYLOR                   ADRIAN D
   1    44  CE   2700         2  INT CIVIL ENGR PR      2.0   940-1030    T     1119 PATRICK TAYLOR                   ADRIAN D
+                     LAB                                     310-0600      TH  3140 PATRICK TAYLOR                   ADRIAN D
   2    75  CE   2720         1  COMPUTNL METH  CE I    3.0   940-1100   M W    2162 PATRICK TAYLOR                   ELSEIFI M
 (F)    84  CE   3200         1  HYDRAULICS             3.0   740-0830   M W F  1109 PATRICK TAYLOR                   SMITH H
 (F)    44  CE   3300         1  GEOTECHNICAL ENGR I    3.0   840-0930   M W F  2169 PATRICK TAYLOR                   ZHANG G
@@ -20,7 +22,9 @@
 (F)    12  CE   3410 LAB     2  MECHNCS OF MATLS LAB   1.0   240-0530     W    2103 PATRICK TAYLOR  CI-WRITTEN       JACOBS C
 (F)    50  CE   3415         1  STRUCTRL ANALYSIS I    3.0   910-1030    T TH  2170 PATRICK TAYLOR                   BARBATO M
 (F)    24  CE   3500         1  PLANE SURV & MEASURE   3.0  1140-1230   M W    0228 TUREAUD HALL                     MUGNIER C
+                     LAB                                     240-0530   M      0108 TUREAUD HALL                     MUGNIER C
 (F)    22  CE   3500         2  PLANE SURV & MEASURE   3.0  1140-1230   M W    0228 TUREAUD HALL                     MUGNIER C
+                     LAB                                     240-0530     W    0108 TUREAUD HALL                     MUGNIER C
  11    39  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1040-1200    T TH  2412 PATRICK TAYLOR                   ISHAK S
 (F)    20  CE   3700 LAB     1  ENGINEERING MAT LAB    1.0   240-0530     W    2146 PATRICK TAYLOR                   MOHAMMAD L
 (F)    20  CE   3700 LAB     2  ENGINEERING MAT LAB    1.0   140-0430      TH  0100 TUREAUD HALL                     MOHAMMAD L
@@ -35,12 +39,17 @@
 (F)    31  CE   4445         3  HURRICANE ENGINEER     3.0   740-0900    T TH  2412 PATRICK TAYLOR                   LEVITAN M
 (F)    14  CE   4450         1  FINITE ELEMENT METHD   3.0   140-0230   M W F  1112 PATRICK TAYLOR                   MOORTHY S
 (F)    31  CE   4500         1  GEODETIC PHOTO SUR     3.0   510-0700N  M      3129 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     710-1000N  M      3129 PATRICK TAYLOR                   MUGNIER C
 (F)    22  CE   4520         1  ADVANCED SURVEYING     3.0   510-0700N   T     3142 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     710-1000N   T     3142 PATRICK TAYLOR                   MUGNIER C
  12     8  CE   4560         1  ENGR APPL REMOTE SEN   3.0   310-0400   M W    1118 PATRICK TAYLOR                   DOKKA R
+                     LAB                                     410-0700   M      1118 PATRICK TAYLOR                   DOKKA R
 (F)    38  CE   4670         1  FUND OF PAVEMENT DES   3.0   740-0900    T TH  1110 PATRICK TAYLOR                   SHIN H
  16    14  CE   4745         1  NAT HAZ & BUILT ENV    3.0  1210-0130    T TH  0200 TUREAUD HALL                     LEVITAN M
 (F)    42  CE   4750         2  PRF ISS CONC DESN CE   2.0   940-1130   M      2412 PATRICK TAYLOR                   WILLIAMS M
+                     LAB                                     310-0500     W    2412 PATRICK TAYLOR                   WILLIAMS M
 (F)    21  CE   4760         1  CIVIL ENGR DESIGN      3.0   310-0500   M      0119 TUREAUD HALL    CI-WRITTEN&VISU  WOLSHON P
+                     LAB                                     310-0600     W    0101 TUREAUD HALL                     WOLSHON P
   1        CE   4780         1  SPEC TOP CE SCIENCE    3.0  TBA
  11     4  CE   7180         1  WATER QUAL SIMULATNS   3.0   940-1030   M W F  3142 PATRICK TAYLOR                   ADRIAN D
   5    10  CE   7265         1  ADV SUB HYDROL/HYDRA   3.0   140-0300    T TH  1116 PATRICK TAYLOR                   WILLSON C
@@ -51,6 +60,7 @@
  10     5  CE   7485         1  MECH COMPOS MATERIAL   3.0   910-1030   M W    1121 PATRICK TAYLOR                   VOYIADJIS G
   8    12  CE   7640         1  URBAN TRANSPORT POL/   3.0   840-0930   M W F  1114 PATRICK TAYLOR                   WILMOT C
   1    14  CE   7655         1  PAVEMENT MAT CHARACT   4.0  1040-1200    T TH  3131 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                    TBA                                                      MOHAMMAD L
   1    14  CE   7700 RES     1  SPCL TOPICS CIVIL EN   3.0   140-0300    T TH  2412 PATRICK TAYLOR                   OKEIL A
 (F)     1  CE   7701 RES     1  SPCL TOPICS CIVIL EN   3.0  TBA                                                      LEVITAN M
   8     2  CE   7740 RES     1  MASTERS REPORT         3.0  TBA

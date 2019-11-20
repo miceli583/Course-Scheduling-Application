@@ -3,15 +3,19 @@
 (F)   383  LA   1203         1  VIEWS AMER LANDSCAPE   3.0   830-0920   M W F  0002 LOCKETT                          FRYLING C
   4    13  LA   2002 LAB     1  LANDSCAPE DESIGN II    6.0   100-0450   M W F  0326 DESIGN BUILDING                  LIPSCHITZ F
  10    13  LA   2301         1  LANDSCAPE TECH I       3.0   100-0250    T TH  0308 DESIGN BUILDING                  SUMMERLIN P
+                     LAB                                     300-0350    T TH  0308 DESIGN BUILDING                  SUMMERLIN P
  19    17  LA   2401         1  LANDSCAPE ECOLOGY      3.0   900-1150      TH  0301 DESIGN BUILDING                  FRYLING C
   1    14  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   100-0450   M W F  0324 DESIGN BUILDING                  SHARKY B
  36    14  LA   3201         1  LANDSCAPE HISTORY II   3.0   830-1120    T     0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
  11    14  LA   3302         1  LANDSCAPE TECH III     3.0   900-1150   M W    0316 DESIGN BUILDING CI-WRITTEN&VISU  SUMMERLIN P
+                     LAB                                     900-1150   M W    0316 DESIGN BUILDING                  SUMMERLIN P
   4    13  LA   3402         1  PLANT MATERIALS II     3.0   100-0350    T TH  0316 DESIGN BUILDING                  FRYLING C
+                     LAB                                     100-0350    T TH  0316 DESIGN BUILDING                  FRYLING C
  10    22  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      MICHAELS K
 (F)    15  LA   4008 LAB     1  ADV TOPICS STUDIO      6.0   100-0450   M W F  0310 DESIGN BUILDING                  ALLEN A
   5     8  LA   4008 LAB     2  ADV TOPICS STUDIO      6.0   100-0450   M W F  0304 DESIGN BUILDING                  HINDLE R
   1    11  LA   4301         1  LANDSCAPE TECH IV      3.0   900-1150       F  0301 DESIGN BUILDING                  SHARKY B
+                     LAB                                     900-1150       F  0301 DESIGN BUILDING                  SHARKY B
 (F)    35  LA   4501 RES     2  FIELD STUDIES IN L A   3.0   600-0850N  M      0313 DESIGN BUILDING                  CONRAD M
  11     9  LA   4501 RES     3  FIELD STUDIES IN L A   3.0  TBA                                                      MICHAELS K
 (F)     1  LA   4502 RES     1  IND STUDY IN L A       3.0  TBA                                                      SHARKY B

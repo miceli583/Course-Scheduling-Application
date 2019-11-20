@@ -1,6 +1,8 @@
  39    36  ENGR 1050         1  INTRO TO ENGINEERING   2.0   300-0420    T TH  1221 PATRICK TAYLOR  CI-WRITTEN&SPOK  DAVIS P
   5    25  ENGR 3100         1  INTRO ROBOTICS         3.0   330-0520    T     1300 PATRICK TAYLOR                   BARBALATA C
+                     LAB                                     330-0620      TH  1300 PATRICK TAYLOR                   BARBALATA C
  19     1  ENGR 4200         1  AUTONOMOUS VEHICLES    3.0   100-0220    T     1300 PATRICK TAYLOR                   MUKHOPADHYAY
+                     LAB                                     100-0320      TH  1300 PATRICK TAYLOR                   MUKHOPADHYAY
  97     2  ENGR 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      JEON H
  96     3  ENGR 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      AGHAZADEH F
  97     2  ENGR 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      KNAPP G

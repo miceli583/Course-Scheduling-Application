@@ -4,8 +4,10 @@
  34    66  OCS  1005         3  INTRO OCEANOGRAPHY     3.0   440-0600N   T TH  0204 TUREAUD HALL                     LAROCK P
   5    20  OCS  1006         1  HNRS: INTR OCEANOGR    3.0  1210-0130    T TH  1070 ENER,COAST,& EN                  CARNEY R
   5    20  OCS  2009         1  INTR MARINE SCIENCE    4.0   940-1030   M W F  1070 ENER,COAST,& EN                  ROUSE L
+                     LAB                                    TBA                                                      ROUSE L
   1        OCS  4001         3  SPEC TOP IN OCS        1-6  TBA                                                      LAPEYRE M
  13    12  OCS  4015         1  OCEAN TO ESTUARIES I   5.0  1040-1230    T TH  1280 ENER,COAST,& EN                  ROUSE L
+                     LAB                                    TBA                                                      ROUSE L
  10    20  OCS  4021         1  WEATHER ANALYSIS/SAT   3.0   310-0430   M W    0260 HOWE RUSSELL CO                  LI C
   7    13  OCS  4090         1  MARINE/ENVIR MICRO     3.0   140-0300    T TH  0101 TUREAUD HALL                     LAROCK P
 (F)    22  OCS  4128         1  WTLD HYDROL/HYDRODYN   3.0   910-1030    T TH  1070 ENER,COAST,& EN                  CABLE J
@@ -22,6 +24,7 @@
  10     5  OCS  7121 CLI     1  ECO/MGT TROP ESTUAR    3.0   310-0430    T TH  3215 ENER,COAST,& EN                  TWILLEY R
   2    13  OCS  7123         1  OCEAN DATA ANALYSIS    3.0   740-0900    T TH  1070 ENER,COAST,& EN                  LI C
   6     9  OCS  7132         1  CSTL PHYS/CHEM SYSTM   3.0   140-0300   M      1070 ENER,COAST,& EN                  GAMBRELL R
+                     LAB                                    TBA                                                      GAMBRELL R
  97     2  OCS  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BALTZ D
  95     4  OCS  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      COWAN J
  99        OCS  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BENFIELD M

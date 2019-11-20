@@ -19,10 +19,14 @@
   8    17  CE   3410 LAB     2  MECHNCS OF MATLS LAB   1.0   230-0520     W    0201 TUREAUD HALL                     ZHANG C
  26    49  CE   3415         1  STRUCTRL ANALYSIS I    3.0   100-0220   M W    2161 PATRICK TAYLOR                   CAI C
   1    24  CE   3500         1  PLANE SURV & MEASURE   3.0  1130-1220   M W    1111 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     230-0520   M      1114 PATRICK TAYLOR                   MUGNIER C
   5    20  CE   3500         2  PLANE SURV & MEASURE   3.0  1130-1220   M W    1111 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     230-0520     W    1114 PATRICK TAYLOR                   MUGNIER C
   1    59  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1030-1150    T TH  2412 PATRICK TAYLOR                   CODJOE J
   4    16  CE   3700         1  ENGINEERING MAT LAB    1.0   330-0420    T     2162 PATRICK TAYLOR                   COOPER S
+                     LAB                                     430-0620N   T     2162 PATRICK TAYLOR                   COOPER S
   7    13  CE   3700         3  ENGINEERING MAT LAB    1.0   330-0420    T     2162 PATRICK TAYLOR                   COOPER S
+                     LAB                                     430-0620N     TH  2162 PATRICK TAYLOR                   COOPER S
 (F)     1  CE   3740 RES     1  INDEP STUDY IN CE      3.0  TBA                                                      MUGNIER C
  41   109  CE   4200         1  HYDROLOGY              3.0   900-1020    T TH  1119 PATRICK TAYLOR                   TSAI F
  29    31  CE   4300         2  GEOTECHNICAL ENGR II   3.0  1130-1220   M W F  2162 PATRICK TAYLOR                   ABU-FARSAKH M
@@ -32,11 +36,16 @@
  32    23  CE   4435         3  INDETERM STRUCT ANAL   3.0   430-0550N  M W    2412 PATRICK TAYLOR                   ALY SAYED AHM
  35    15  CE   4440         1  ADV MCHNCS OF MATRLS   3.0  1030-1150    T TH  1111 PATRICK TAYLOR                   MOORTHY S
  21    19  CE   4500         1  GEODETIC PHOTO SUR     3.0   500-0650N  M      2103 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     700-0950N  M      2103 PATRICK TAYLOR                   MUGNIER C
  22    28  CE   4520         1  ADVANCED SURVEYING     3.0   500-0650N   T     1110 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     700-0950N   T     1110 PATRICK TAYLOR                   MUGNIER C
  42    14  CE   4600         1  GEOM DESN HWY/AIRPRT   3.0   830-0920   M W F  2412 PATRICK TAYLOR                   WOLSHON P
+                     LAB                                     830-1120     W                                          WOLSHON P
  30    20  CE   4670         1  FUND OF PAVEMENT DES   3.0   130-0250    T TH  1110 PATRICK TAYLOR                   ELSEIFI M
   7    53  CE   4750         2  PRF ISS CONC DESN CE   2.0   930-1120   M      2412 PATRICK TAYLOR  CI-SPOKEN&VISUA  WILLIAMS M
+                     LAB                                     230-0420     W    2412 PATRICK TAYLOR                   WILLIAMS M
  35    15  CE   4760         1  CIVIL ENGR DESIGN      3.0   300-0450    T     1112 PATRICK TAYLOR                   CRAIN J
+                     LAB                                     300-0550      TH  1112 PATRICK TAYLOR                   CRAIN J
  15     5  CE   7100         1  THY/OPR WWTR TREAT     3.0   130-0250    T TH  3141 PATRICK TAYLOR                   MOE W
  11     9  CE   7265         1  ADV SUB HYDROL/HYDRA   3.0   300-0420    T TH  3129 PATRICK TAYLOR                   TSAI F
  12     8  CE   7280         1  MODEL PHYS HYDROLOGY   3.0   900-1020    T TH  3129 PATRICK TAYLOR                   DENG Z

@@ -1,8 +1,11 @@
  29    71  BIOL 1001         1  GENERAL BIOLOGY        3.0  TBA                                     75-99% WEB BASE  HRINCEVICH A
  27    83  BIOL 1002         1  GENERAL BIOLOGY        3.0  TBA                                     75-99% WEB BASE  POMARICO S
   4    14  BIOL 1005         1  INTRO BIOLOGY LAB      2.0   120-0220   M W    0201 WILLIAMS                         MCCOY M
+                     LAB                                     230-0530   M W    0115 LIFE SCIENCES                    MCCOY M
  12     8  BIOL 1005         3  INTRO BIOLOGY LAB      2.0   530-0630N  M W    0225 TUREAUD HALL                     MCCOY M
+                     LAB                                     630-0930N  M W    0115 LIFE SCIENCES                    MCCOY M
   6    12  BIOL 1005         2  INTRO BIOLOGY LAB      2.0   120-0220    T TH  0116 TUREAUD HALL                     MCCOY M
+                     LAB                                     230-0530    T TH  0115 LIFE SCIENCES                    MCCOY M
  27    73  BIOL 1202         1  BIOL FOR SCI MAJ II    3.0  1100-1230   MTWTH  0103 TUREAUD HALL                     PAUL L
   6    26  BIOL 1208 LAB     1  BIOL LAB SCI MAJ I     1.0  1100-0200    T TH  0133 LIFE SCIENCES                    PATRICK L
   9    23  BIOL 1208 LAB     2  BIOL LAB SCI MAJ I     1.0   230-0530    T TH  0133 LIFE SCIENCES                    PATRICK L
@@ -117,7 +120,9 @@
  99        BIOL 9000 RES    50  DISSERTATION RES       1-12 TBA                                                      BATTISTA J
  56    94  BIOL 1201         2  BIOL FOR SCI MAJ I     3.0  0730-0900   MTWTF  0102 WILLIAMS                         CROUSILLAC S
   1    31  BIOL 2051         1  GEN MICROBIOLOGY       4.0  0830-1000   MTWTF  0214 WILLIAMS                         KALUSKAR Z
+                     LAB                                    1230-0200   MTWTF  0136 LIFE SCIENCES                    NGUYEN K
   2    30  BIOL 2051         2  GEN MICROBIOLOGY       4.0  0830-1000   MTWTF  0214 WILLIAMS                         KALUSKAR Z
+                     LAB                                    1030-1200   MTWTF  0136 LIFE SCIENCES                    NGUYEN K
 (F)    35  BIOL 2153         1  PRINC OF GENETICS      4.0  0830-1000   MTWTF  0117 TUREAUD HALL                     NGUYEN K
  70    40  BIOL 2160         1  HUMAN PHYSIOLOGY       3.0  0910-1040   MTWTF  0102 WILLIAMS                         CROUSILLAC S
  22    28  BIOL 3040         1  EVOLUTION              3.0  1100-1240   MTWTF  0228 TUREAUD HALL                     GREGG C

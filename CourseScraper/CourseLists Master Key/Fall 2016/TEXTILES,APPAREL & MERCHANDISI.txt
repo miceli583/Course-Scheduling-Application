@@ -11,8 +11,10 @@
   1     4  TAM  3091 RES     1  READ/RES TAM           1-6  TBA                                     PERMIS OF DEPT   MCROBERTS L
  14     6  TAM  3091 RES     2  READ/RES TAM           1-6  TBA                                     PERMIS OF DEPT   BOURGEOIS E
   1    19  TAM  4034         1  TEXTILE & APPAREL PR   3.0   900-0950    T TH  0251 HUMAN ECOLOGY                    NEGULESCU I
+                     LAB                                    1000-1150    T     0251 HUMAN ECOLOGY                    NEGULESCU I
   3    12  TAM  4037 LAB     1  ADV APPAREL PRODUCT    3.0  1200-0250    T TH  0244 HUMAN ECOLOGY                    MCROBERTS L
 (F)    27  TAM  4043         1  ADVANCED TEXTILES      3.0   130-0220    T TH  0251 HUMAN ECOLOGY                    NEGULESCU I
+                     LAB                                     230-0420      TH  0251 HUMAN ECOLOGY                    NEGULESCU I
   4    56  TAM  4044         1  TEXTILE & APPAREL EC   3.0   830-0920   M W F  0109 TUREAUD HALL                     LANG C
  16    39  TAM  4046         1  ADV TOP APPAREL MERC   3.0  1030-1120   M W F  0132 PRESCOTT                         LIU C
  29    56  TAM  4072         1  DRESS/ADRNMENT AFTER   3.0   930-1020   M W F  0204 TUREAUD HALL                     KUTTRUFF J

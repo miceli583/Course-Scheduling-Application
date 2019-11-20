@@ -11,6 +11,7 @@
 (F)    18  THTR 1025         4  ACTING I               3.0   330-0420   M W F  0125 M&DA BLDG                        CLARK A
 (F)    18  THTR 1025         5  ACTING I               3.0  1030-1150    T TH  0125 M&DA BLDG                        ADAMS A
 (F)    17  THTR 1029         1  STG MVMNT I            3.0  1030-1150    T TH  0166 M&DA BLDG                        MORIARTY T
+                     LAB                                    1030-1150    T TH  0166 M&DA BLDG                        MORIARTY T
 (F)    32  THTR 1127 LAB     1  BEGIN MODERN DANCE     1.0   900-1020    T TH  0123AM&DA BLDG                        ESTRADA M
 (F)    37  THTR 1131 LAB     1  BEGIN BALLET           1.0   800-0920   M W    0123AM&DA BLDG                        PERLIS S
   5    25  THTR 1227 LAB     1  INTER MODERN DANCE     1.0  1030-1150    T TH  0123AM&DA BLDG                        ESTRADA M
@@ -40,6 +41,7 @@
 (F)    19  THTR 2031 LAB     2  AERIAL PRACTICE I      1.0  1230-0120   M W F  0166 M&DA BLDG       C-I TECH         ERICKSON N
 (F)    30  THTR 2130         1  SCRIPT ANALYSIS        3.0   230-0320   M W F  0301 M&DA BLDG       CI-WRITTEN&TECH  FLETCHER J
 (F)    16  THTR 3026         1  INTRO ACT FOR CAMERA   3.0  1200-0120    T TH  0125 M&DA BLDG                        CHREST J
+                     LAB                                    TBA                                                      CHREST J
   2    16  THTR 3027         1  STAGE VOICE: ADV TEC   3.0   300-0420    T TH  0166 M&DA BLDG                        CABAJ S
   5     9  THTR 3029         1  STAGE MOVEMENT II      3.0   900-1020    T TH  0166 M&DA BLDG       CI-VISUAL&TECH   ERICKSON N
 (F)    41  THTR 3121         1  THTR HIST/LIT II       3.0  1130-1220   M W F  0218 COATES                           SIKES A
@@ -47,8 +49,10 @@
   2     8  THTR 3123 LAB     1  COSTUME CONSTRUCTION   3.0   900-1150    T TH  0173 M&DA BLDG                        KAZUSCHYK K
   3     7  THTR 3125 LAB     1  TUTUS & DANCEWR CONS   3.0   830-1020   M W F  0173 M&DA BLDG                        KAZUSCHYK K
 (F)    12  THTR 3126         1  THEATRICAL RENDERING   3.0   900-1020    T TH  0193 M&DA BLDG                        MCWILLIAMS B
+                     LAB                                     900-1020    T TH  0193 M&DA BLDG                        MCWILLIAMS B
 (F)    15  THTR 3340         1  ARTS MARKETING         3.0   900-1020    T TH  0134 ALLEN           CI-WRITTEN&VISU  HENDERSON K
   1    10  THTR 3435         1  SCENE PAINTING I       3.0  1200-0120    T TH  0155 M&DA BLDG                        ELLIS K
+                     LAB                                    1200-0120    T TH  0155 M&DA BLDG                        ELLIS K
  14     1  THTR 3800 CLI     1  THTR/FILM INTERNSHIP   3.0  TBA                                                      SOSNOWSKY K
   1    11  THTR 3803         1  IMPROVISATION          3.0   330-0420   M W F  0166 M&DA BLDG       PERMIS OF INST   ERICKSON N
   6    14  THTR 3900         5  ART DIRECT FILM & TV   3.0   930-1020   M W F  0181 M&DA BLDG                        PARBOOSINGH A
@@ -60,6 +64,7 @@
 (F)    19  THTR 3900         1  DIX POST PROD/ADV FM   3.0   300-0420    T TH  0181 M&DA BLDG                        OVERBAY J
   1     9  THTR 4008         1  WRITING DRAMA          3.0   130-0250    T TH  0128 ALLEN                            EUBA F
   2    10  THTR 4025         1  ACTING IV              3.0   900-1020    T TH  0125 M&DA BLDG                        JUDY G
+                     LAB                                     900-1020    T TH  0125 M&DA BLDG                        JUDY G
 (F)    14  THTR 4031 LAB     1  AERIAL PRACTICE II     1.0  TBA                                                      ERICKSON N
   6     4  THTR 4124         1  SCENIC DESIGN          3.0  1130-1220   M W F  0181 M&DA BLDG                        ELLIS K
  10     8  THTR 4125         1  DIRECTING II           3.0  1030-1150    T TH  0135 M&DA BLDG                        JUDY G
@@ -68,8 +73,10 @@
   4     6  THTR 4220         1  DRAMA AFR & DIASPORA   3.0   900-1020    T TH  0131 ALLEN                            EUBA F
  12     3  THTR 4300         1  SPEC TOP ARTS ADMIN    3.0  TBA                                                      HENDERSON K
  10        THTR 4435         1  SCENE PAINTING II      3.0  1200-0220    T TH
+                     LAB                                    1200-0220    T TH
   4    16  THTR 4436         1  HIST PERIOD STYLES     3.0  1030-1150    T TH  0301 M&DA BLDG                        MCWILLIAMS B
 (F)    10  THTR 4530         1  SOUND DESIGN           3.0  1030-1150    T TH                       CI-SPOKEN&VISUA  CHO E
+                     LAB                                    1030-1150    T TH                                        CHO E
   7     5  THTR 4531         1  LIGHTING DESIGN I      3.0   900-1020    T TH  0181 M&DA BLDG                        PARBOOSINGH A
   7     3  THTR 4804 LAB     2  DANCE THEATRE          2.0   130-0320       F                                        PARKS S
   7    13  THTR 4900 SEM     1  SENIOR CAPSTONE        3.0  1230-0120   M W F  0301 M&DA BLDG                        FLETCHER J
@@ -80,10 +87,13 @@
   7     8  THTR 7001 CLI     2  IND PROJ PERF TRAIN    1-6  1200-0120    T TH                                        JUDY G
  12     8  THTR 7001 CLI     1  IND PROJ PERF TRAIN    1-6   130-0250    T TH  0123AM&DA BLDG                        PARKS S
   7     8  THTR 7231         1  VOICE STUDIO V         3.0   130-0250   M W F  0166 M&DA BLDG                        CABAJ S
+                     LAB                                     130-0250   M W F  0166 M&DA BLDG                        CABAJ S
 (F)     8  THTR 7237         1  MOVEMENT STUDIO V      3.0   900-1020   M W F  0166 M&DA BLDG                        ERICKSON N
   8     8  THTR 7239         1  CAMERA STUDIO II       3.0   930-1020    T TH  0135 M&DA BLDG                        HOLBEN R
+                     LAB                                     930-1020    T TH  0135 M&DA BLDG                        HOLBEN R
   3     2  THTR 7441         1  COMP TECHNIQUES THTR   3.0  TBA                                                      PARBOOSINGH A
   4     1  THTR 7523         1  ADV CSTM DSGN III      4.0   130-0250    T TH                                        MCWILLIAMS B
+                     LAB                                     130-0250    T TH                                        MCWILLIAMS B
   4     1  THTR 7527         1  ADV CSTM TECH IV       3.0   100-0650       F  0173 M&DA BLDG                        KAZUSCHYK K
   4     1  THTR 7626 SEM     1  THTR TECH SEM II-B     3.0   900-1020    T TH  0155 M&DA BLDG                        MURPHY J
   3     2  THTR 7832         1  ADV PROPERTIES II      3.0   900-1020   M W F                                        MURPHY J

@@ -4,11 +4,14 @@
 (F)   364  LA   1203         1  VIEWS AMER LANDSCAPE   3.0   830-0920   M W F  0002 LOCKETT                          FRYLING C
   2    14  LA   2002 LAB     1  LANDSCAPE DESIGN II    6.0   130-0520   M W F  0322 DESIGN BUILDING                  BETNAR B
   2    14  LA   2301         1  LANDSCAPE TECH I       3.0   830-1120    T TH                                        BOYER M
+                     LAB                                     830-1120    T TH  0313 DESIGN BUILDING                  BOYER M
   2    14  LA   2401         1  LANDSCAPE ECOLOGY      3.0   230-0520      TH  0322 DESIGN BUILDING                  FRYLING C
 (F)    11  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0304 DESIGN BUILDING CI-WRITTEN&VISU  SHARKY B
 (F)    26  LA   3201         1  LANDSCAPE HISTORY II   3.0   830-0920   M W F  0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
   2    24  LA   3302         1  LANDSCAPE TECH III     3.0  1130-1220    T TH  0201 DESIGN BUILDING                  WATTS D
+                     LAB                                    1230-0220    T TH  0201 DESIGN BUILDING                  WATTS D
 (F)    10  LA   3402         1  PLANT MATERIALS II     3.0   830-1120    T TH  0301 DESIGN BUILDING                  FRYLING C
+                     LAB                                     830-1120    T TH  0301 DESIGN BUILDING                  FRYLING C
   1    14  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      CONRAD M
  15    10  LA   4501 RES     1  FIELD STUDIES IN L A   3.0   600-0850N  M      0313 DESIGN BUILDING                  CONRAD M
   2        LA   4502 RES     1  IND STUDY IN L A       3.0  1100-1250       F  0310 DESIGN BUILDING                  MARSHALL C
@@ -29,3 +32,4 @@
 (F)    20  LA   7201 SEM     1  RESEARCH METHODS       3.0   300-0420    T TH  0308 DESIGN BUILDING                  ALLEN A
  12     3  LA   7401 SEM     1  GRAD LANDSC ECOL       3.0  1130-1220   M W F  0316 DESIGN BUILDING                  BOYER M
   4    21  LA   7501         1  GRAD LA FIELD STUDY    3.0   600-0650N  M      0313 DESIGN BUILDING                  CONRAD M
+                     LAB                                     700-0850N  M W                                          CONRAD M

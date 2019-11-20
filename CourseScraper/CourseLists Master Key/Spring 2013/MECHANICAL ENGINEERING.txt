@@ -1,29 +1,51 @@
  47    73  ME   2212         1  INTRO MECH ENGR DESN   2.0   300-0350    T     1109 PATRICK TAYLOR  CI-WRITTEN&VISU  WOLDESENBET E
+                     LAB                                     300-0450      TH                                        WOLDESENBET E
 (F)   140  ME   2334         1  THERMODYNAMICS         4.0   930-1020   MTWTF  0009 LOCKETT                          CHARALAMPOPOU
  10    65  ME   2723         1  MATERIALS OF ENGR FO   3.0  1200-0120    T TH  2142 PATRICK TAYLOR                   RAMAN A
   3    72  ME   2733         1  MATERIALS OF ENGR      3.0   130-0250    T TH  0221 TUREAUD HALL                     WANG Y
  10   130  ME   3133         2  DYNAMICS               3.0  1230-0120   M W    1119 PATRICK TAYLOR                   RAM Y
+                     LAB                                     130-0220   M W    1119 PATRICK TAYLOR                   RAM Y
  36    84  ME   3333         1  THERMODYNAMICS         3.0   900-1020    T TH  1109 PATRICK TAYLOR                   RAO S
 (F)    16  ME   3603         1  FUND OF INSTRUMENTN    3.0   930-1020   M W    0103 DESIGN BUILDING                  WANG W
+                     LAB                                     130-0420    T                                           WANG W
 (F)    15  ME   3603         2  FUND OF INSTRUMENTN    3.0   930-1020   M W    0103 DESIGN BUILDING                  WANG W
+                     LAB                                     130-0420      TH                                        WANG W
 (F)    12  ME   3603         3  FUND OF INSTRUMENTN    3.0   930-1020   M W    0103 DESIGN BUILDING                  WANG W
+                     LAB                                     430-0720N  M                                            WANG W
 (F)    15  ME   3603         4  FUND OF INSTRUMENTN    3.0   930-1020   M W    0103 DESIGN BUILDING                  WANG W
+                     LAB                                     430-0720N   T                                           WANG W
 (F)    14  ME   3603         5  FUND OF INSTRUMENTN    3.0   930-1020   M W    0103 DESIGN BUILDING                  WANG W
+                     LAB                                     430-0720N     TH                                        WANG W
 (F)    15  ME   3603         6  FUND OF INSTRUMENTN    3.0   930-1020   M W    0103 DESIGN BUILDING                  WANG W
+                     LAB                                    1030-0120    T                                           WANG W
 (F)    15  ME   3603         9  FUND OF INSTRUMENTN    3.0   930-1020   M W    0103 DESIGN BUILDING                  WANG W
+                     LAB                                    1030-0120      TH                                        WANG W
 (F)    12  ME   3603        12  FUND OF INSTRUMENTN    3.0   930-1020   M W    0103 DESIGN BUILDING                  WANG W
+                     LAB                                     730-1020N     TH                                        WANG W
 (F)    10  ME   3603        14  FUND OF INSTRUMENTN    3.0   930-1020   M W    0103 DESIGN BUILDING                  WANG W
+                     LAB                                     730-1020N    W                                          WANG W
   1     4  ME   3633         1  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     130-0420   M                                            MENG W
 (F)     6  ME   3633         2  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     430-0720N  M                                            MENG W
 (F)     5  ME   3633         3  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     130-0420    T                                           MENG W
 (F)     6  ME   3633         4  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     430-0720N   T                                           MENG W
 (F)     5  ME   3633         5  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     130-0420     W                                          MENG W
 (F)     6  ME   3633         6  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     430-0720N    W                                          MENG W
 (F)     6  ME   3633         7  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     130-0420      TH                                        MENG W
 (F)     5  ME   3633         8  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     430-0720N     TH                                        MENG W
 (F)     5  ME   3633         9  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     130-0420       F                                        MENG W
   1     4  ME   3633        10  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     730-1020    T                                           MENG W
   3     2  ME   3633        11  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2149 PATRICK TAYLOR                   MENG W
+                     LAB                                     730-1020     W                                          MENG W
 (F)    12  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0   130-0420   M                                            PARK S
 (F)    13  ME   3701 LAB     2  MATRLS OF ENGRNG LAB   1.0   430-0720N  M                                            PARK S
 (F)    12  ME   3701 LAB     3  MATRLS OF ENGRNG LAB   1.0   130-0420    T                                           PARK S

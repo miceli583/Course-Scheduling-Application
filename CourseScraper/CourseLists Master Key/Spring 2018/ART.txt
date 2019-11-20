@@ -5,7 +5,9 @@
   1    17  ART  1010 LAB     1  INTRO TO DRAWING       3.0   830-1120   M W    0107 FOSTER                           BRYANT J
 (F)    18  ART  1010 LAB     2  INTRO TO DRAWING       3.0   300-0550    T TH  0107 FOSTER                           AKTER T
   1    17  ART  1011         1  2-DIMENSIONAL DESIGN   3.0   900-0950    T TH  0209 DESIGN BUILDING MAJORS ONLY      ANDRESEN S
+                     LAB                                    1000-1150    T TH  0209 DESIGN BUILDING                  ANDRESEN S
 (F)    16  ART  1011         2  2-DIMENSIONAL DESIGN   3.0  1200-1250    T TH  0209 DESIGN BUILDING MAJORS ONLY      ANDRESEN S
+                     LAB                                     100-0250    T TH  0209 DESIGN BUILDING                  ANDRESEN S
 (F)    17  ART  1012 LAB     2  3-DIMENSIONAL DESN     3.0  1230-0320   M W    0226 STUDIO ARTS BLD MAJORS ONLY      MCCLAY M
 (F)    18  ART  1360 LAB     1  INTRO TO PRINTMAKING   3.0  1230-0320   M W    0020 HATCHER HALL    MAJORS ONLY      KOPTCHO L
 (F)    18  ART  1360 LAB     2  INTRO TO PRINTMAKING   3.0   330-0620   M W    0020 HATCHER HALL    MAJORS ONLY      PICKETT M
@@ -25,14 +27,19 @@
 (F)    17  ART  1849 LAB     2  INTRO TO PAINTING      3.0   830-1120   M W    0203 FOSTER          MAJORS ONLY      AKTER T
 (F)    16  ART  1849 LAB     1  INTRO TO PAINTING      3.0  1200-0250    T TH  0203 FOSTER          MAJORS ONLY      CELENTANO D
 (F)    22  ART  2050         1  DIGITAL ART I          3.0  1230-0120   M W    0113 ART BUILDING    MAJORS ONLY      RESTREPO PERE
+                     LAB                                     130-0320   M W    0113 ART BUILDING                     RESTREPO PERE
 (F)    24  ART  2050         2  DIGITAL ART I          3.0   330-0420   M W    0108 ART BUILDING    MAJORS ONLY      FABRIS VALENT
+                     LAB                                     430-0620N  M W    0108 ART BUILDING                     FABRIS VALENT
 (F)    20  ART  2050         4  DIGITAL ART I          3.0   900-1050    T TH  0108 ART BUILDING    MAJORS ONLY      HUANG X
+                     LAB                                    1100-1150    T TH  0108 ART BUILDING                     HUANG X
 (F)    22  ART  2050         3  DIGITAL ART I          3.0   300-0450    T TH  0108 ART BUILDING    MAJORS ONLY      HAMILL J
+                     LAB                                     500-0550N   T TH  0108 ART BUILDING                     HAMILL J
 (F)    23  ART  2230 LAB     1  VIRTUAL SPACE          3.0  1230-0320   M W    0330 ART BUILDING    PERMIS OF INST   NAM H
 (F)    13  ART  2332 LAB     1  SILKSCREEN PRINTING    3.0  1200-0250    T TH  0020 HATCHER HALL    PERMIS OF INST   FRIEDMAN L
 (F)    11  ART  2342 LAB     1  PAPERMAKING            3.0   830-1120   M W    0020 HATCHER HALL                     KOPTCHO L
 (F)    15  ART  2392 LAB     1  DIGITAL PRINTMAKING    3.0   900-1150    T TH  0020 HATCHER HALL                     FRIEDMAN L
 (F)    18  ART  2551         1  TYPOGRAPHY-VIS.COMM.   3.0   900-1150    T TH  0217 DESIGN BUILDING PERMIS OF INST   SAAS M
+                     LAB                                    TBA                                                      SAAS M
   1    17  ART  2552 LAB     2  COLOR DESIGN           3.0  1230-0320   M W    0319 ART BUILDING    PERMIS OF INST   DEAN P
   1    17  ART  2552 LAB     1  COLOR DESIGN           3.0  1200-0250    T TH  0319 ART BUILDING    PERMIS OF INST   DEAN P
   3     9  ART  2552 LAB     3  COLOR DESIGN           3.0  1200-0250    T TH  0302 ART BUILDING                     ZOU J
@@ -55,7 +62,9 @@
   2     8  ART  4020 LAB     1  INTERNSHIPSCHOFART     3.0  TBA                                                      PARKER R
 (F)     1  ART  4030 LAB     1  IND STUDY STUDIO ART   3.0  TBA                                                      OSTRENKO F
  20        ART  4059         1  DIGITAL MEDIA CAP      3.0   200-0350   M W    0334 ART BUILDING    CI-WRITTEN&TECH  AUBANEL M
+                     LAB                                    TBA                                                      AUBANEL M
   6     9  ART  4059         2  DIGITAL MEDIA CAP      3.0   230-0420   M                           CI-WRITTEN&TECH  AUBANEL M
+                     LAB                                     230-0420     W                                          AUBANEL M
   7    15  ART  4220 LAB     1  ADV MOVING IMAGE       3.0  1230-0320   M W    0217 DESIGN BUILDING PERMIS OF INST   OSTRENKO F
   5    10  ART  4240 LAB     1  UNITY FOR VID. GAMES   3.0   930-1120   M W F  0330 ART BUILDING    PERMIS OF INST   WESLEY K
 (F)    15  ART  4280 CLI     1  DIGITAL ART PRACTICU   3.0  TBA                                     PERMIS OF INST   NAM H

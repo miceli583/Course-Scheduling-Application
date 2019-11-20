@@ -5,12 +5,18 @@
   5    25  CHE  3100         1  CHEM EQUIL & KINETIC   3.0   940-1030   M W F  0265 CHEM ENGR                        VALSARAJ K
   8    92  CHE  3101         1  MOMENTUM TRANSFER      3.0  1040-1130   M W F  0204 TUREAUD HALL                     WETZEL D
 (F)    15  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0282 CHEM ENGR                        WETZEL D
+                     LAB                                     140-0430   M      0162 CHEM ENGR                        WETZEL D
 (F)    15  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0282 CHEM ENGR                        WETZEL D
+                     LAB                                     140-0430    T     0162 CHEM ENGR                        WETZEL D
  15    85  CHE  3172         1  CHE THERMODYNAMICS     3.0   940-1030   M W F  0204 TUREAUD HALL                     HUNG F
   5    35  CHE  4151         1  UNIT OPS DESIGN        4.0   940-1030   M W F  0221 TUREAUD HALL                     CORRIPIO A
+                     LAB                                     910-1030    T TH  0282 CHEM ENGR                        CORRIPIO A
 (F)    40  CHE  4151         2  UNIT OPS DESIGN        4.0   940-1030   M W F  0221 TUREAUD HALL                     CORRIPIO A
+                     LAB                                    1040-1200    T TH  0282 CHEM ENGR                        CORRIPIO A
   3    17  CHE  4162         1  UNIT OPERATIONS LAB    3.0   440-0530N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430   M W    0164 CHEM ENGR                        PIKE R
 (F)    20  CHE  4162         2  UNIT OPERATIONS LAB    3.0   440-0530N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430    T TH  0164 CHEM ENGR                        HJORTSO M
  13    67  CHE  4190         1  CHEM REACTION ENGR     3.0  1040-1130   M W F  0103 TUREAUD HALL                     GRIFFIN G
  20    70  CHE  4198         1  PROCESS DYNAMICS       3.0  1140-1230   M W F  0105 TUREAUD HALL                     ROMAGNOLI J
   6    31  CHE  4210         1  INDUSTRL CATALYSIS     3.0  1210-0130    T TH  0282 CHEM ENGR                        SPIVEY J

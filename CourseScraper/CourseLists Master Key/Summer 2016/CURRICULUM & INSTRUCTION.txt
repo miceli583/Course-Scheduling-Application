@@ -3,6 +3,7 @@
  13    37  EDCI 1001         2  INTRO TO COLL STUDY    3.0  0950-1050   MTWTF  0109 TUREAUD HALL                     LATHON E
  19    31  EDCI 1001         4  INTRO TO COLL STUDY    3.0  1100-1200   MTWTF  0109 TUREAUD HALL                     EISWORTH S
  19     1  EDCI 3712         1  SEC MTH TRNS PL        3.0  TBA                                                      MOONEY P
+                     LAB                                    TBA                                                      MOONEY P
  17    13  EDCI 4450         1  PRINC IN SEC EDUCATI   3.0   200-0420   M WTH  0104 PEABODY                          RICKS T
   3    17  EDCI 4800         1  TCH MULTCULT CLASSRM   3.0  TBA                                     100% WEB BASED   BARRERA E
  18     2  EDCI 7307         2  TOP IN CURRIC & INST   3.0  TBA                                     100% WEB BASED   FASCHING-VARN
@@ -11,6 +12,7 @@
  19     6  EDCI 7315         1  TCH MULTCUL CHIL LIT   3.0  TBA                                     100% WEB BASED   CASEY E
  16    14  EDCI 7465 SEM     1  SM: TEACH/RES SEC SC   3.0  1100-0130   M WTH  0104 PEABODY                          BLANCHARD P
  11     9  EDCI 7482         1  SEM TEACH RES I        3.0  TBA                                                      WEBB A
+                     LAB                                    TBA                                                      WEBB A
   6     4  EDCI 7684 CLI     1  ADV INTERNSHIP RDNG    6.0  TBA                                                      SULENTIC DOWE
  20        EDCI 7713 RES     1  IND STUDY SPCL EDUC    3.0   430-0730N   T
   3    17  EDCI 7821 RES     1  NEOLIBERALISM          2-4  TBA                                     1-49% WEB BASED  FASCHING-VARN
@@ -45,9 +47,12 @@
  33    17  EDCI 1001         7  INTRO TO COLL STUDY    3.0  1040-1210   MTWTF  0102 TUREAUD HALL                     KELLY H
  37    13  EDCI 1001         5  INTRO TO COLL STUDY    3.0  1100-1230   MTWTF  0202 COATES                           LAUNEY B
  22     8  EDCI 2400         1  EDUC & DIV POPLTN      3.0  1100-1230   MTWTF  0216 PEABODY                          WHEELER S
+                     LAB                                    TBA                                                      WHEELER S
  16    14  EDCI 4460         1  PLAN/EVAL SCH INSTRU   3.0  0900-1030   MTWTF  0204 COATES                           LAUNEY B
+                     LAB                                    TBA                                                      LAUNEY B
  19     6  EDCI 4900 SEM     1  ESL TEACHING METHODS   1-3  TBA                                     100% WEB BASED   BARRERA E
   4     6  EDCI 7017         1  INST MDLS STDTS/DIS    3.0  TBA                                                      MOONEY P
+                     LAB                                    TBA                                                      MOONEY P
   8    17  EDCI 7105         1  TCHG RDG EL SCH        3.0  0800-1130   MTWTF  0218 PEABODY                          SKINNER K
   8    12  EDCI 7131         1  DEV LRN SKILLS CT RD   3.0   100-0430   MTWTF  0216 PEABODY                          SKINNER K
  14     6  EDCI 7309         1  TOPICS IN MATH EDUC    3.0  0900-1030   MTWTF  0104 PEABODY                          KIRSHNER D

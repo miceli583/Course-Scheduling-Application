@@ -9,14 +9,19 @@
 (F)    20  ELRC 4507         2  COMPUTER TECH EDUC     3.0   440-0730N   T     0118 PEABODY                          SMITH K
   6    14  ELRC 4600         1  COUNSL DISABLNG COND   3.0   440-0730N    W    0120 PEABODY                          GINTNER G
   6     9  ELRC 7006         1  EDUC STATISTICS        4.0   440-0730N   T     0023 ALLEN                            KENNEDY E
+                     LAB                                     140-0330    T     0230EMIDDLETON                        KENNEDY E
 (F)    12  ELRC 7006         2  EDUC STATISTICS        4.0   440-0730N   T     0023 ALLEN                            KENNEDY E
+                     LAB                                     740-0930N   T     0230EMIDDLETON                        KENNEDY E
  19     6  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   440-0730N  M      0023 ALLEN                            KENNEDY E
+                     LAB                                     740-0930N  M      0230EMIDDLETON                        KENNEDY E
  14     6  ELRC 7220         1  EDUC PROGRM EVALUATN   3.0   440-0730N     TH  0214 PEABODY                          MACGREGOR S
   5    10  ELRC 7243         1  QUAL METH EDUC RESCH   4.0   440-0730N  M      0214 PEABODY                          MACGREGOR S
+                     LAB                                    TBA                                                      MACGREGOR S
  10     5  ELRC 7290 RES     1  SM: EDUC RES METHOD    1-3   440-0730N    W    0214 PEABODY                          ARBUTHNOT K
   1    19  ELRC 7334         1  VOCATIONAL COUNSELNG   3.0   440-0730N  M      2146 PATRICK TAYLOR                   FEDUCCIA M
 (F)    18  ELRC 7345         1  COUNS SKILLS INTERV    3.0   440-0730N   T     0120 PEABODY                          CHOATE L
   8    12  ELRC 7397         1  ADVANCED SCH COUNSEL   3.0   440-0730N  M      0120 PEABODY                          CURRY J
+                     LAB                                    TBA                                                      CURRY J
  13     7  ELRC 7399 CLI     1  SUPV COUNSEL INTSHP    3-9   440-0730N   T     0234 COATES                           CURRY J
  12     8  ELRC 7399 CLI     2  SUPV COUNSEL INTSHP    3-9   440-0730N   T                                           GINTNER G
  23     7  ELRC 7399 CLI     3  SUPV COUNSEL INTSHP    3-9   440-0730N   T     0236 COATES                           WALTERS V

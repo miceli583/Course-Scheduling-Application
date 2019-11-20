@@ -20,24 +20,30 @@
   7    38  KIN  2500         1  HUMAN ANATOMY          3.0  0950-1050   MTWTF  0108 LONG FIELDHOUSE                  HARGRODER W
 (F)    35  KIN  2502 CLI     1  PRACTICUM IN SPORTS    3.0  TBA                                                      PETERS J
  14     6  KIN  2504         1  PRIN OF CONDITIONING   3.0  0840-0940   MTWTF  0108 LONG FIELDHOUSE                  DAILEY D
+                     LAB                                    0730-0830   MTWTH                                        DAILEY D
  10    10  KIN  2504         2  PRIN OF CONDITIONING   3.0  0840-0940   MTWTF                                        DAILEY D
+                     LAB                                    0950-1050   MTWTH                                        DAILEY D
 (F)    40  KIN  2509         1  MED TERM FOR KINESIO   3.0  1100-1200   MTWTF  0100 TUREAUD HALL                     CASTLE R
   5    35  KIN  2510         1  INTRO SPRT LSR ADMIN   3.0  1210-0110   MTWTF  0108 LONG FIELDHOUSE                  JACOBSEN D
  11     7  KIN  2525 LAB     1  PR CH IND/TEAM SPRTS   1-3  TBA                                                      HILL R
  12    33  KIN  2577         1  H&PE FOR ELEM SCHOOL   4.0  0730-0940   MTWTF  0131 LONG FIELDHOUSE                  TSOULOUPAS C
+                     LAB                                    0730-0940   MTWTF                                        TSOULOUPAS C
  12    38  KIN  2600         1  HUMAN SEXUALITY        3.0   230-0330   MTWTF  0108 LONG FIELDHOUSE                  BAKER B
   5    20  KIN  2604         1  MENTAL HEALTH ISSUES   3.0  1210-0110   MTWTF  0139 LONG FIELDHOUSE                  FISHER A
   1    34  KIN  3507         1  OLYMPIC GAMES:ANCIEN   3.0  1100-1200   MTWTF  0131 LONG FIELDHOUSE                  HILL R
  17    13  KIN  3513         1  INTR MOTOR LEARNING    3.0   120-0220   MTWTF  0131 LONG FIELDHOUSE                  VAN GEMMERT A
   9    21  KIN  3517         1  NEUROMOTOR CON HUM M   3.0  0840-0940   MTWTF  0133 LONG FIELDHOUSE                  HONDZINSKI J
  24    16  KIN  3534         1  SCI BASIS EXERCISE     3.0  1210-0110   MTWTF  0131 LONG FIELDHOUSE                  WELSCH M
+                     LAB                                    TBA                                                      WELSCH M
  22    18  KIN  3804         1  FIN ISSUES IN SPORT    3.0  0840-0940   MTWTF  0112 TUREAUD HALL                     SEIFRIED C
   6    19  KIN  4505 CLI     1  PRACT HMN MVMNT SCI    3.0  TBA                                                      HARGRODER W
   6    19  KIN  4509         1  SPORTS SUPPLEMENTS     3.0  1210-0110   MTWTF  0130 LONG FIELDHOUSE                  NELSON A
   8    43  KIN  4513         2  FACILITIES MGT         3.0  0950-1050   MTWTF  0133 LONG FIELDHOUSE                  SEIFRIED C
  10    38  KIN  4515 SEM     2  SPORTS SEMINAR         3.0   120-0220   MTWTF  0108 LONG FIELDHOUSE                  CLOPTON A
 (F)    15  KIN  4519         2  CADAVER DISSECTION     3.0  1200-0200   M                                            LANDIN D
+                     LAB                                    TBA                                                      LANDIN D
   1    14  KIN  4519         3  CADAVER DISSECTION     3.0   200-0400   M                                            THOMPSON M
+                     LAB                                    TBA                                                      THOMPSON M
  13    17  KIN  4520         1  PSYCHOSOC & PHYS ACT   3.0  0950-1050   MTWTF  0131 LONG FIELDHOUSE                  GARN A
  15    10  KIN  4538 LAB     1  PRACT IN APPLD FIT     6.0  TBA                                                      JOHNSON L
 (F)    26  KIN  4835 CLI     1  PRACT SPT LEI ADMIN    6.0  TBA                                                      JACOBSEN D
@@ -51,6 +57,7 @@
 (F)    26  KIN  2501         1  HIST/PHIL OF KINESIO   3.0  0910-1040   MTWTF                                        HILL K
 (F)    30  KIN  2530         1  SPORT IN SOCIETY       3.0  0910-1040   MTWTF  0139 LONG FIELDHOUSE                  SAMSON-GIVENS
  10    15  KIN  3502         1  TESTS & MEAS IN KIN    3.0  0910-1040   MTWTF  0130 LONG FIELDHOUSE CI-WRITTEN&SPOK  BAKER B
+                     LAB                                    0910-1040   MTWTF                                        BAKER B
   8    32  KIN  3515         1  PHYS BAS PHYSCL ACTV   3.0  1240-0210   MTWTF  0133 LONG FIELDHOUSE                  FULLER S
   4    21  KIN  3801         2  SPRT STRATEGY & PLAN   3.0  1100-1230   MTWTF  0212 AUDUBON                          PETERS J
   5    35  KIN  4517         2  SPORTS ADMINISTRATIO   3.0  1100-1230   MTWTF  0133 LONG FIELDHOUSE                  CLOPTON A

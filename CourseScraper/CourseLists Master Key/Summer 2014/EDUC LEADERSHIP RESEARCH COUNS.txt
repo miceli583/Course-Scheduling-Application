@@ -1,6 +1,7 @@
   2    13  ELRC 4361         1  COUNSELING CHILDREN    3.0   430-0930N    W    0120 PEABODY                          GINTNER G
   9    16  ELRC 7001 SEM     2  ETHICS & EDUC LEAD     3.0  0800-0100       F  0218 PEABODY                          BARRERA E
  15    10  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0  TBA                                     50-99% WEB BASE  KENNEDY E
+                     LAB                                    TBA                                                      KENNEDY E
   6     4  ELRC 7248 CLI     1  INT RES PRACTICUM      3.0  TBA                                                      KENNEDY E
   9     1  ELRC 7248 CLI     2  INT RES PRACTICUM      3.0  TBA                                     PERMIS OF DEPT   MACGREGOR S
  97     2  ELRC 7249 CLI     1  ADV RES PRACTICUM      3.0  TBA                                                      MACGREGOR S
@@ -28,6 +29,7 @@
   4    26  ELRC 4249         1  UNDST/APPL RES IN ED   3.0  1100-0245    T TH  0214 PEABODY                          MACGREGOR S
   5    13  ELRC 4507         1  COMPUTER TECH EDUC     3.0  TBA                                                      HEROMAN D
  13     7  ELRC 4535         1  ED TELECOM/INTERNET    3.0  TBA                                     50-99% WEB BASE  HEROMAN D
+                     LAB                                    TBA                                                      HEROMAN D
 (F)    20  ELRC 7241         1  EDUC RES METHODOLOGY   3.0   400-0745    T TH  0214 PEABODY                          MACGREGOR S
   5    10  ELRC 7330         1  GRP TECH DYN COUNSEL   3.0   430-0930N  M  TH  0120 PEABODY                          CSASZAR I
   5    10  ELRC 7330         2  GRP TECH DYN COUNSEL   3.0   430-0930N  M  TH  0216 PEABODY                          CSASZAR I

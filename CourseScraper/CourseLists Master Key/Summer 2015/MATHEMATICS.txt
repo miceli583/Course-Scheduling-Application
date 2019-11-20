@@ -1,5 +1,7 @@
 (F)    37  MATH 1431         1  CAL-BUS & ECO APLCAT   3.0  1210-0220   MTW    0228 COATES                           VAUGHN D
+                     LAB                                    1210-0110      TH  0232 MIDDLETON                        VAUGHN D
 (F)    35  MATH 1431         2  CAL-BUS & ECO APLCAT   3.0  1210-0220   MTW    0228 COATES                           VAUGHN D
+                     LAB                                     120-0220      TH  0232 MIDDLETON                        VAUGHN D
 (F)    44  MATH 1550         1  AN GEOM & CALCULUS-I   5.0  0840-1050   MTWTF  0220 TUREAUD HALL                     BRITT P
 (F)    45  MATH 1550         2  AN GEOM & CALCULUS-I   5.0  0950-1200   MTWTF  0200 TUREAUD HALL                     ABEYNANDA G
 (F)    42  MATH 1550         3  AN GEOM & CALCULUS-I   5.0  1100-0110   MTWTF  0232 LOCKETT                          LEWCHALERMVON
@@ -94,10 +96,15 @@
  98     1  MATH 9000 RES    38  DISSERTATION RES       1-12 TBA                                                      SAGE D
  98     1  MATH 9000 RES    39  DISSERTATION RES       1-12 TBA                                                      MAHLBURG K
   3    27  MATH 1021         1  COLLEGE ALGEBRA        3.0  0910-1040   MTWTF  0204 TUREAUD HALL                     KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
   6    24  MATH 1021         2  COLLEGE ALGEBRA        3.0  1100-1230   MTWTF  0204 TUREAUD HALL                     KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
   3    27  MATH 1021         3  COLLEGE ALGEBRA        3.0  TBA                                     75-99% WEB BASE  WADDELL L
+                     LAB                                    TBA                                                      WADDELL L
 (F)    33  MATH 1022         1  PLANE TRIGONOMETRY     3.0  0910-1040   MTWTF  0214 COATES                           KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
   5    28  MATH 1022         2  PLANE TRIGONOMETRY     3.0  1100-1230   MTWTF  0212 COATES                           KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
   5    25  MATH 1029         1  INTRO COMTEMP MATH     3.0  0910-1040   MTWTF  0135 LOCKETT                          ADILI A
   2    28  MATH 1029         2  INTRO COMTEMP MATH     3.0  1100-1230   MTWTF  0112 LOCKETT                          TAYLOR S
   6    29  MATH 1100         1  NATURE OF MATHEMATCS   3.0  1100-1230   MTWTF  0136 LOCKETT                          PERLIS R

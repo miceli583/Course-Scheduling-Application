@@ -1,22 +1,36 @@
  10   110  ME   2212         1  INTRO MECH ENGR DESN   2.0   300-0350    T     1109 PATRICK TAYLOR  CI-WRITTEN&SPOK  LI G
+                     LAB                                     300-0450      TH  1119 PATRICK TAYLOR                   LI G
  23   157  ME   2334         1  THERMODYNAMICS         4.0   930-1020   MTWTF  0010 LOCKETT                          CHARALAMPOPOU
  13   137  ME   2723         1  MATERIALS OF ENGR FO   3.0  1200-0120    T TH  1109 PATRICK TAYLOR                   MOLDOVAN D
  25    55  ME   2733         1  MATERIALS OF ENGR      3.0  1200-0120    T TH  2142 PATRICK TAYLOR                   MENG W
   5   160  ME   3143         1  SYST DYNAMCS & MODL    3.0  1030-1150    T TH  0016 LOCKETT                          MURPHY M
  21   139  ME   3333         1  THERMODYNAMICS         3.0  1030-1150    T TH  1109 PATRICK TAYLOR                   RAO S
 (F)     6  ME   3633         1  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     130-0420   M                                            HELMS J
 (F)     6  ME   3633         2  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     430-0720N  M                                            HELMS J
 (F)     6  ME   3633         3  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     130-0420    T                                           HELMS J
 (F)     6  ME   3633         4  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     430-0720N   T                                           HELMS J
 (F)     6  ME   3633         5  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     130-0420     W                                          HELMS J
 (F)     6  ME   3633         6  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     430-0720N    W                                          HELMS J
 (F)     6  ME   3633         7  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     130-0420      TH                                        HELMS J
 (F)     6  ME   3633         8  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     430-0720N     TH                                        HELMS J
 (F)     6  ME   3633         9  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     130-0420       F                                        HELMS J
 (F)     6  ME   3633        10  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     730-1020    T                                           HELMS J
 (F)     6  ME   3633        11  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     730-1020     W                                          HELMS J
 (F)     6  ME   3633        12  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     730-1020      TH                                        HELMS J
   1     5  ME   3633        13  MANFUCT PROCESS & ME   3.0  1130-1220   M W    0103 TUREAUD HALL                     HELMS J
+                     LAB                                     730-1020       F                                        HELMS J
   1    11  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0   130-0420   M      1220 PATRICK TAYLOR                   MOLDOVAN D
 (F)    12  ME   3701 LAB     2  MATRLS OF ENGRNG LAB   1.0   430-0720N  M      1220 PATRICK TAYLOR                   MOLDOVAN D
   3     9  ME   3701 LAB     3  MATRLS OF ENGRNG LAB   1.0   130-0420    T     1220 PATRICK TAYLOR                   MOLDOVAN D
@@ -39,8 +53,11 @@
 (F)    16  ME   4201 LAB     8  MECH ENGR DESIGN LAB   1.0   500-0750N    W    2209 PATRICK TAYLOR                   WAHAB M
   2    23  ME   4213         1  WELDING ENGR I         3.0  1200-0120    T TH  1111 PATRICK TAYLOR  CI-WRITTEN&VISU  WAHAB M
   5    35  ME   4243         1  ME CAPSTONE DESN I     3.0  1030-1150    T TH  0102 ALLEN           CI-WRITTEN&SPOK  NIKITOPOULOS
+                     LAB                                    1230-0220       F                                        SINCLAIR G
   5    45  ME   4243         2  ME CAPSTONE DESN I     3.0  1030-1150    T TH  0102 ALLEN                            NIKITOPOULOS
+                     LAB                                    1030-1220       F                                        NIKITOPOULOS
  12    38  ME   4243         3  ME CAPSTONE DESN I     3.0  1030-1150    T TH  0102 ALLEN                            NIKITOPOULOS
+                     LAB                                     830-1020       F                                        GUO S
   5    15  ME   4273         1  STRESS ANALY IN ME     3.0   430-0550N  M W    1118 PATRICK TAYLOR                   GUILLOT M
  33    17  ME   4433         2  HEAT TRANSFER          3.0   900-1020    T TH  1111 PATRICK TAYLOR                   DEVIREDDY R
   6     9  ME   4573         1  INTERACT COMP GRPHCS   3.0   900-1020    T TH  2142 PATRICK TAYLOR                   KOOIMA R
@@ -55,6 +72,7 @@
 (F)    15  ME   4643         2  THERMAL ENVIRON ENGR   3.0   430-0550N   T TH  1111 PATRICK TAYLOR                   GILLIO C
   6    14  ME   4663         1  REN & NUC PWR PLT EN   3.0   230-0320   M W F  3142 PATRICK TAYLOR                   CHARALAMPOPOU
   8     7  ME   4723         1  ADV MAT ANALYSIS       3.0   430-0520N   T TH  2146 PATRICK TAYLOR                   MENG W
+                     LAB                                     530-0650N   T TH                                        MENG W
 (F)    25  ME   4763         1  FUND CORROSN SC/ENGR   3.0   430-0550N  M W    3131 PATRICK TAYLOR                   WANG Y
   6    14  ME   4783         1  COM MAT: MANF, PROP    3.0   130-0250    T TH  2148 PATRICK TAYLOR                   SHOJAEI A
  18     2  ME   4903 RES     1  SP PROJECTS UNDER GR   3.0   200-0420    TW F  2170 PATRICK TAYLOR                   HELMS J

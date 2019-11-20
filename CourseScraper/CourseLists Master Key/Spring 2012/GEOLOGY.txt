@@ -17,20 +17,29 @@
  10    14  GEOL 1602 LAB     2  HISTORICAL GEOL LAB    1.0   310-0600    T     E207 HOWE RUSSELL E                   KELLEY D
   2    22  GEOL 1602 LAB     3  HISTORICAL GEOL LAB    1.0  1240-0330     W    E207 HOWE RUSSELL E                   KELLEY D
   4    16  GEOL 2061         1  HISTORY OF BIOSPHERE   3.0  1040-1130   M W    E134 HOWE RUSSELL E                   SCHRAMM T
+                     LAB                                    1240-0330   M      0360 HOWE RUSSELL E                   SCHRAMM T
   7    13  GEOL 2061         2  HISTORY OF BIOSPHERE   3.0  1040-1130   M W    E134 HOWE RUSSELL E                   SCHRAMM T
+                     LAB                                    1240-0330     W    0360 HOWE RUSSELL E                   SCHRAMM T
 (F)    27  GEOL 2081         1  MINERALOGY             3.0   840-0930   M W    E207 HOWE RUSSELL E                   KELLEY D
+                     LAB                                     440-0600N   T TH  E208 HOWE RUSSELL E                   KELLEY D
   4    21  GEOL 3071         1  STRUCTURAL GEOL        4.0   910-1000    T TH  0210 WILLIAMS                         WEBB A
+                     LAB                                    1210-0300    T     E208 HOWE RUSSELL E                   WEBB A
   2    23  GEOL 3071         2  STRUCTURAL GEOL        4.0   910-1000    T TH  0210 WILLIAMS                         WEBB A
+                     LAB                                    1210-0300      TH  E208 HOWE RUSSELL E                   WEBB A
  98     1  GEOL 3909 RES     1  GEOLOGICAL RES         1-3  TBA                                                      BENTLEY S
 (F)     1  GEOL 3909 RES     2  GEOLOGICAL RES         1-3  TBA                                                      BAO H
   1     2  GEOL 3909 RES     3  GEOLOGICAL RES         1-3  TBA                                                      WEBB A
   5    15  GEOL 4002         1  GEOTHERMAL RESOURCES   3.0  1040-1200    T TH  E207 HOWE RUSSELL E                   DUTROW B
   2    13  GEOL 4002         2  SPEC TOP IN GEOLOGY    3.0  1040-1200    T TH  E202 HOWE RUSSELL E                   DUTROW B
   9     6  GEOL 4019         1  GEOARCHAEOLOGY         4.0  1210-0130    T TH  0347 HOWE RUSSELL E  CI-WRITTEN&SPOK  ELLWOOD B
+                     LAB                                    TBA                                                      ELLWOOD B
 (F)    27  GEOL 4131         1  BASIN ANALYSIS         3.0  1040-1130   M W F  E207 HOWE RUSSELL E                   CLIFT P
 (F)    22  GEOL 4165         1  SUBSURFACE GEOL        3.0   840-1030   M      0102 TUREAUD HALL                     BROWN A
+                     LAB                                    1240-0330     W                                          BROWN A
   8    14  GEOL 4165         2  SUBSURFACE GEOL        3.0   840-1030   M      0102 TUREAUD HALL                     BROWN A
+                     LAB                                     440-0730N     TH                                        BROWN A
   2    21  GEOL 7132         1  DYNAMICS SEDIMENTAT    3.0   940-1030   M W    0360 HOWE RUSSELL E                   BENTLEY S
+                     LAB                                    1240-0330     W                                          BENTLEY S
   3    13  GEOL 7900         1  PETROLEUM SEISMOLOGY   3.0   740-0830   M W F  E213 HOWE RUSSELL E                   LORENZO J
   5     5  GEOL 7900         2  STRATIGRAPHY GEOTIME   3.0   910-1030    T TH  0347 HOWE RUSSELL E                   ELLWOOD B
   1     4  GEOL 7900         3  CONVERGENCE DYNAMICS   3.0  TBA                                                      WEBB A

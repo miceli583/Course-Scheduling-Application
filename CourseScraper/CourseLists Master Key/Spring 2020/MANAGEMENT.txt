@@ -1,10 +1,10 @@
 (F)    40  MGT  3200         2  PRINC OF MANAGEMENT    3.0   930-1020   M W F  1845 BUS ED N WING                    CARVER K
-184   716  MGT  3200         1  PRINC OF MANAGEMENT    3.0  1030-1150    T TH  0101 GYM AUDITORIUM                   SAULEY K
+173   727  MGT  3200         1  PRINC OF MANAGEMENT    3.0  1030-1150    T TH  0101 GYM AUDITORIUM                   SAULEY K
  12     3  MGT  3280 CLI     1  MGT INTERNSHIP         3.0  TBA                                                      WHITMAN D
 (F)    50  MGT  3320         1  STRATEGIC HRM          3.0   130-0250    T TH  1835 BUS ED N WING                    LOIGNON A
 (F)    50  MGT  3320         2  STRATEGIC HRM          3.0   300-0420    T TH  1845 BUS ED N WING                    LOIGNON A
-  9    41  MGT  3513         1  NEGOT & DISPUTE RES    3.0   900-1020    T TH  1700 BUS ED N WING                    JOHNSON M
-  8    42  MGT  3513         2  NEGOT & DISPUTE RES    3.0  1030-1150    T TH  1700 BUS ED N WING                    JOHNSON M
+  8    42  MGT  3513         1  NEGOT & DISPUTE RES    3.0   900-1020    T TH  1700 BUS ED N WING                    JOHNSON M
+  7    43  MGT  3513         2  NEGOT & DISPUTE RES    3.0  1030-1150    T TH  1700 BUS ED N WING                    JOHNSON M
 (F)    50  MGT  3830         1  STRATEGIC MGMT         3.0   830-0920   M W F  1845 BUS ED N WING                    ALAMBO H
 (F)    50  MGT  3830         2  STRATEGIC MGMT         3.0   930-1020   M W F  1920 BUS ED N WING                    ALAMBO H
  24    26  MGT  3830         3  STRATEGIC MGMT         3.0   930-1020   M W F  1700 BUS ED N WING                    FALLAH S
@@ -16,12 +16,12 @@
 (F)    51  MGT  3830         9  STRATEGIC MGMT         3.0  1200-0120    T TH  0102 TUREAUD HALL                     BANKS M
 (F)    50  MGT  3830        10  STRATEGIC MGMT         3.0   300-0420    T TH  1220 BUS ED S WING                    BANKS M
 (F)    50  MGT  3830        11  STRATEGIC MGMT         3.0   300-0420    T TH  1615 BUS ED N WING                    MCGUIRE J
- 31    19  MGT  3830        12  STRATEGIC MGMT         3.0   430-0720N   T     1835 BUS ED N WING                    GRECKHAMER T
+ 30    20  MGT  3830        12  STRATEGIC MGMT         3.0   430-0720N   T     1835 BUS ED N WING                    GRECKHAMER T
 (F)    50  MGT  4440         1  INTRNATL STRAT MGT     3.0   300-0420   M W    1835 BUS ED N WING                    BANKS M
  14    36  MGT  4500         1  INTRO TO LABOR RELAT   3.0   600-0850N   T     1920 BUS ED N WING                    PEAK T
  21    29  MGT  4523         1  LEGAL ISS HUM RES MG   3.0   600-0850N    W    1920 BUS ED N WING                    ROUX R
  16    34  MGT  4620         1  ORG BEHAVIOR           3.0   900-1020    T TH  1615 BUS ED N WING                    BEUS J
-  5    45  MGT  4620         2  ORG BEHAVIOR           3.0  1030-1150    T TH  1615 BUS ED N WING                    BEUS J
+  6    44  MGT  4620         2  ORG BEHAVIOR           3.0  1030-1150    T TH  1615 BUS ED N WING                    BEUS J
 (F)    50  MGT  4820         1  MGT MISTAKES & FAILS   3.0   130-0250    T TH  1700 BUS ED N WING                    SMITH J
   2    48  MGT  4840         1  MANAGE CHNG IN ORGS    3.0  1030-1150    T TH  1212 PATRICK TAYLOR                   BOULLION M
   4     5  MGT  7301 SEM     2  SEM HUMAN RESOURCES    3.0  1200-0250   M                                            WHITMAN D

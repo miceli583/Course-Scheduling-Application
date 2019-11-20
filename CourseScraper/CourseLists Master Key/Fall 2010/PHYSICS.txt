@@ -66,6 +66,7 @@
   1    11  PHYS 2207 LAB     2  INTRO MODRN PHYS LAB   1.0   140-0430      TH  0007 NICHOLSON                        RUPNIK D
  12    13  PHYS 2231         1  ELEC & MAGNETISM       3.0  1210-0130    T TH  0106 NICHOLSON                        KUTTER T
  16     9  PHYS 2411         2  COMPUTATIONAL SCI I    3.0  1240-0130   M W    0118 NICHOLSON                        LAUNEY K
+                     LAB                                     240-0430       F  0365 NICHOLSON                        LAUNEY K
   6    14  PHYS 4123         1  INTERM MECHANICS       3.0  1140-1230   M W F  0106 NICHOLSON                        RAU A
  21     4  PHYS 4142         1  INTR QUANTUM MECH      3.0  1040-1130   M W F  0106 NICHOLSON                        SHEEHY D
   1     1  PHYS 4399 RES     1  RESEARCH EXPER PHYS    3.0  TBA                                     PERMIS OF DEPT   CHERRY M

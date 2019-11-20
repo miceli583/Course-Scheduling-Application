@@ -1,15 +1,23 @@
   9    26  BE   1252         1  BIOL IN ENGINEERING    2.0  1240-0130    T     0203 TUREAUD HALL    CI-WRITTEN&SPOK  LIMA M
+                     LAB                                     140-0430     W    0100 TUREAUD HALL                     LIMA M
 (F)    35  BE   1252         2  BIOL IN ENGINEERING    2.0  1240-0130    T     0203 TUREAUD HALL                     LIMA M
+                     LAB                                     140-0430      TH  0100 TUREAUD HALL                     LIMA M
   3    22  BE   2350         1  EXPER METH FOR ENGRS   3.0   810-0900    T TH  0228 TUREAUD HALL                     MAILANDER M
+                     LAB                                     140-0430   M      0140 AG METAL BLDG                    MAILANDER M
   4    21  BE   2350         2  EXPER METH FOR ENGRS   3.0   810-0900    T TH  0228 TUREAUD HALL                     MAILANDER M
+                     LAB                                     140-0430    T     0140 AG METAL BLDG                    MAILANDER M
   3    37  BE   3290         1  PROFESSIONALISM        2.0  1040-1230       F  0213 TUREAUD HALL    CI-WRITTEN&VISU  THOMAS D
  15    35  BE   3340         1  PROC DESN FOR BIOL E   3.0   940-1030    T TH  0228 TUREAUD HALL                     SABLIOV C
+                     LAB                                     140-0430   M      0228 TUREAUD HALL                     SABLIOV C
  15    10  BE   3381         1  NONPT SOURCE POLL EN   3.0  1240-0130    T TH  0115 E B DORAN                        BENGTSON R
+                     LAB                                     140-0430       F  0115 E B DORAN                        BENGTSON R
  23     2  BE   3989 RES     1  SPEC PROJ IN BIOL EN   1-4  TBA
  12    18  BE   4292 LAB     1  SENIOR ENGR DESN LAB   2.0   440-0730N  M      0112 TUREAUD HALL    CI-WRITTEN&SPOK  LIMA M
   1     9  BE   4292 LAB     2  SENIOR ENGR DESN LAB   2.0   440-0730N  M      0112 TUREAUD HALL    CI-WRITTEN&SPOK  LIMA M
   8    17  BE   4323         1  BIOMECHANICS FOR ENG   3.0  1040-1130   M W    0213 TUREAUD HALL                     MONROE W
+                     LAB                                     140-0430     W    0106 AG METAL BLDG                    MONROE W
  15     5  BE   4340         1  FOOD & BIOPROCESS EN   3.0   940-1030   M W F  0115 E B DORAN                        BOLDOR D
+                     LAB                                     140-0430      TH  0115 E B DORAN                        BOLDOR D
  16    34  BE   4352         1  TRANSPRT PHEN BIOL E   3.0  1040-1200    T TH  0228 TUREAUD HALL                     THEEGALA C
 (F)    21  BE   4989 RES     2  TISSUE ENGR            1-4   840-0930   M W F  0115 E B DORAN                        HAYES D
   4     6  BE   4989 RES     3  IND STUDY IN BIOL EN   1-4  TBA

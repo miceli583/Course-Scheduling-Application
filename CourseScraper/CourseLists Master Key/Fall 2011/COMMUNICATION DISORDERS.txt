@@ -1,16 +1,25 @@
   2   198  COMD 2050         2  INTR TO LANGUAGE       3.0  1210-0130    T TH  0005 LOCKETT                          COLLINS M
   4   101  COMD 2050         1  INTR TO LANGUAGE       3.0   340-0630     W    0009 LOCKETT                          ALKADI M
 (F)    31  COMD 2051         3  MANUAL COMMUNICATION   4.0   310-0600    T     0026 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     140-0230     W    0005 HATCHER HALL                     JUMONVILLE W
 (F)    30  COMD 2051         4  MANUAL COMMUNICATION   4.0   310-0600    T     0026 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     240-0330     W    0005 HATCHER HALL                     JUMONVILLE W
   4    76  COMD 2081         1  INTRO TO COMD          3.0  1210-0130    T TH  0026 HATCHER HALL                     BRADSHAW J
 (F)    38  COMD 4150         1  PHONETICS              4.0   740-0900    T TH  0139 ALLEN                            HOFFMAN P
+                     LAB                                    1240-0130   M      0139 ALLEN                            HOFFMAN P
 (F)    36  COMD 4150         2  PHONETICS              4.0   740-0900    T TH  0139 ALLEN                            HOFFMAN P
+                     LAB                                    1240-0130     W    0139 ALLEN                            HOFFMAN P
 (F)    35  COMD 4150         3  PHONETICS              4.0   740-0900    T TH  0139 ALLEN                            HOFFMAN P
+                     LAB                                    1240-0130       F  0139 ALLEN                            HOFFMAN P
   5   105  COMD 4250         1  ANAT PHYS SPCH & HEA   3.0   940-1030   M W F  0241 HIMES                            KIM Y
 (F)    29  COMD 4380         1  DVLPMNT SPKN LANG      4.0  1040-1200    T TH  0010 LOCKETT                          OETTING J
+                     LAB                                     140-0230   M      0230EMIDDLETON                        OETTING J
 (F)    27  COMD 4380         2  DVLPMNT SPKN LANG      4.0  1040-1200    T TH  0010 LOCKETT                          OETTING J
+                     LAB                                     240-0330   M      0230EMIDDLETON                        OETTING J
 (F)    26  COMD 4380         3  DVLPMNT SPKN LANG      4.0  1040-1200    T TH  0010 LOCKETT                          OETTING J
+                     LAB                                     340-0430   M      0230EMIDDLETON                        OETTING J
   6    29  COMD 4380         5  DVLPMNT SPKN LANG      4.0  1040-1200    T TH  0010 LOCKETT                          OETTING J
+                     LAB                                     440-0530N  M      0232 MIDDLETON                        OETTING J
  24    86  COMD 4590         1  ADTRY REHAB CHLD       3.0   910-1030    T TH  0241 HIMES           CI-WRITTEN&VISU  BARKER B
  73     7  COMD 4681 CLI     1  CLIN PREP/OBSERV       1.0   440-0630N    W    0026 HATCHER HALL                     HOFFMAN P
  89    10  COMD 4683 CLI     4  UG CLINICAL PRACT      1-6  TBA                                                      JUMONVILLE W

@@ -5,7 +5,9 @@
   3    18  TAM  2041 LAB     2  TEXTILE SCIENCE LAB    1.0   130-0420      TH  0251 HUMAN ECOLOGY                    KAFI M
  40    60  TAM  2045         1  FASHION INDUSTRY       3.0  1200-0120    T TH  0103 TUREAUD HALL                     WELKER D
   3    18  TAM  3043         1  APP MARCHAND STRAT &   3.0  1030-1220   M      0232 LOCKETT         MAJORS ONLY      LIU C
+                     LAB                                    1030-1220     W    0136 HUMAN ECOLOGY                    LIU C
  13     8  TAM  3043         2  APP MARCHAND STRAT &   3.0  1030-1220   M      0232 LOCKETT         MAJORS ONLY      LIU C
+                     LAB                                    1030-1220       F  0136 HUMAN ECOLOGY                    LIU C
   3     2  TAM  3091 RES     1  READ/RES TAM           1-6  TBA                                     PERMIS OF DEPT   VINCI P
   5        TAM  3091 RES     2  READ/RES TAM           1-6  TBA                                     PERMIS OF DEPT
   5        TAM  3091 RES     3  READ/RES TAM           1-6  TBA                                     PERMIS OF DEPT
@@ -13,9 +15,13 @@
   5        TAM  3091 RES     5  READ/RES TAM           1-6  TBA                                     PERMIS OF DEPT
   5    15  TAM  3230 LAB     1  PAT DESIGN COMPUTER    3.0   800-1050    T TH  0244 HUMAN ECOLOGY                    STANNARD C
   4    18  TAM  3232         1  APPAR DESN-STUDIO      3.0   230-0320   M      0247 HUMAN ECOLOGY                    WELKER D
+                     LAB                                    1230-0220   M W    0247 HUMAN ECOLOGY                    WELKER D
   1    20  TAM  4034         1  TEXTILE & APPAREL PR   3.0   900-0950    T TH  0247 HUMAN ECOLOGY                    NEGULESCU I
+                     LAB                                    1000-1150    T     0251 HUMAN ECOLOGY                    NEGULESCU I
 (F)    21  TAM  4034         2  TEXTILE & APPAREL PR   3.0   900-0950    T TH  0247 HUMAN ECOLOGY                    NEGULESCU I
+                     LAB                                    1000-1150      TH  0251 HUMAN ECOLOGY                    NEGULESCU I
 (F)    23  TAM  4045         1  SYNTH: TEXTIL & APP    3.0  1200-1250    T TH  0244 HUMAN ECOLOGY                    STANNARD C
+                     LAB                                     100-0250    T TH  0244 HUMAN ECOLOGY                    STANNARD C
  23    52  TAM  4070         1  ENTREPR IN TAM         3.0   730-0820   M W F  0221 TUREAUD HALL                     LANG C
  22    58  TAM  4071         1  DRESS/ADRNMENT TO 18   3.0   830-0920   M W F  0105 TUREAUD HALL                     KUTTRUFF J
   5        TAM  4091         1  SPEC TOPICS IN TAM     1-3  TBA                                     PERMIS OF DEPT

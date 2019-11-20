@@ -3,13 +3,21 @@
   2   188  PSYC 2000         3  INTR TO PSYC           3.0   300-0420    T TH  0143 COATES          50-74% WEB BASE  CALAMIA M
 (F)   170  PSYC 2005         1  INTRO TO PSYC MAJOR    1.0  TBA                                     100% WEB BASED   HICKS J
 (F)    28  PSYC 2016         2  STAT FOR BEH SCI       4.0   130-0250    T TH  0155 COATES                           MCDONALD J
+                     LAB                                    1230-0220     W    0171 COATES
 (F)    24  PSYC 2016         3  STAT FOR BEH SCI       4.0   130-0250    T TH  0155 COATES                           MCDONALD J
+                     LAB                                    1230-0220       F  0205 COATES
  16    12  PSYC 2016         4  STAT FOR BEH SCI       4.0   130-0250    T TH  0155 COATES                           MCDONALD J
+                     LAB                                     730-0920     W    0171 COATES
   4    21  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  E130 HOWE RUSSELL E                   HICKS J
+                     LAB                                     230-0420   M      0230EMIDDLETON
   7    18  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  E130 HOWE RUSSELL E                   HICKS J
+                     LAB                                     300-0450     W    0230EMIDDLETON
  12    13  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  E130 HOWE RUSSELL E                   HICKS J
+                     LAB                                     300-0450    T     0230EMIDDLETON
  17     8  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  E130 HOWE RUSSELL E                   HICKS J
+                     LAB                                     300-0450      TH  0230EMIDDLETON
   1    24  PSYC 2017         6  ELEM EXPERMTL PSYC     4.0  1030-1150    T TH  E130 HOWE RUSSELL E                   HICKS J
+                     LAB                                    1230-0220   M      0171 COATES
  15   150  PSYC 2040         1  SOCIAL PSYCHOLOGY      3.0   600-0850N    W    0100 DODSON                           DOMANGUE T
  70    90  PSYC 2060         1  EDUCATIONAL PSYC       3.0   600-0850N  M      0130 NICHOLSON                        GUSTIN Q
   1   159  PSYC 2070         1  DEVELOP PSYC LIFE SP   3.0   500-0750N    W    0143 COATES                           ERWIN M

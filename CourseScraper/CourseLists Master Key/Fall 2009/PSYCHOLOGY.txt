@@ -6,11 +6,17 @@
  29   171  PSYC 2000         3  INTR TO PSYC           3.0   610-0900N    W    0002 LOCKETT                          KNAPP J
 (F)    33  PSYC 2001         1  HON- INTR PSYC         3.0   910-1030    T TH  0244 LOCKETT         CI-WRITTEN&SPOK  ELLIOTT E
   3    19  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0009 LOCKETT                          BECK M
+                     LAB                                     240-0430   M      0232 MIDDLETON                        BECK M
 (F)    22  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0009 LOCKETT                          BECK M
+                     LAB                                     840-1030    T     0232 MIDDLETON                        BECK M
   1    21  PSYC 2017         3  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0009 LOCKETT                          BECK M
+                     LAB                                     840-1030     W    0232 MIDDLETON                        BECK M
   9    13  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0009 LOCKETT                          BECK M
+                     LAB                                     840-1030      TH  0232 MIDDLETON                        BECK M
   4    18  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0009 LOCKETT                          BECK M
+                     LAB                                     310-0500      TH  0232 MIDDLETON                        BECK M
  14     8  PSYC 2017         6  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0009 LOCKETT                          BECK M
+                     LAB                                     840-1030       F  0232 MIDDLETON                        BECK M
 (F)   181  PSYC 2040         2  SOCIAL PSYCHOLOGY      3.0   610-0900N     TH  0005 LOCKETT                          ADAIR F
   2   123  PSYC 2060         1  EDUCATIONAL PSYC       3.0  1210-0130    T TH  0102 ALLEN                            COOK C
   5    95  PSYC 2070         1  DEVELOP PSYC LIFE SP   3.0  1210-0130    T TH  0204 TUREAUD HALL                     ERWIN M

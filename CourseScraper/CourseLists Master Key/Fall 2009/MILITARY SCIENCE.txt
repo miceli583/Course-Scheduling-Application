@@ -1,14 +1,24 @@
   1    27  MILS 1010 LAB     2  RIFLE & PISTL MARKSH   1.0  1040-1130     W                         PERMIS OF INST   ALLEN B
   3    25  MILS 1010 LAB     1  RIFLE & PISTL MARKSH   1.0   240-0330     W                         PERMIS OF INST   ALLEN B
  19     6  MILS 1011         1  LDSHP & PERSONAL DEV   1.0   910-1000    T                                           DOUGLAS M
+                     LAB                                     310-0430      TH                                        DOUGLAS M
  17     8  MILS 1011         2  LDSHP & PERSONAL DEV   1.0   940-1030     W                                          DOUGLAS M
+                     LAB                                     310-0430      TH                                        DOUGLAS M
   9    16  MILS 1011         3  LDSHP & PERSONAL DEV   1.0   210-0300      TH                                        DOUGLAS M
+                     LAB                                     310-0430      TH                                        DOUGLAS M
  26    54  MILS 1015 LAB     1  ARMY PHYS FIT TRAIN    1.0  TBA                                                      LAWRENCE W
  25        MILS 2161         1  INNOV TEAM LEADERSHP   2.0   940-1030   M W
+                     LAB                                     310-0430      TH
  24     1  MILS 2161         2  INNOV TEAM LEADERSHP   2.0   140-0230   M W
+                     LAB                                     310-0430      TH
  10    15  MILS 2161         3  INNOV TEAM LEADERSHP   2.0   220-0300    T TH                                        FOX M
+                     LAB                                     320-0430      TH                                        FOX M
  12     8  MILS 3011         1  ADAPTIVE TACTI LDSHP   4.0  1040-1200    T TH                                        LAWRENCE W
+                     LAB                                     310-0600      TH                                        LAWRENCE W
   2    18  MILS 3011         2  ADAPTIVE TACTI LDSHP   4.0   140-0300    T TH                                        LAWRENCE W
+                     LAB                                     310-0600      TH                                        LAWRENCE W
  19     1  MILS 4011         1  DEV ADAPTIVE LEADERS   4.0   910-1030    T TH                                        PUGH P
+                     LAB                                     310-0600      TH                                        PUGH P
  10    10  MILS 4011         2  DEV ADAPTIVE LEADERS   4.0   140-0300    T TH                                        PUGH P
+                     LAB                                     310-0600      TH                                        PUGH P
   5     5  MILS 4130         1  WORLD WAR II           3.0  1210-0130    T TH  0010 LOCKETT                          HILTON S

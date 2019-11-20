@@ -5,7 +5,9 @@
 (F)    13  PETE 2034 LAB     1  ROCK/FLUID PROP LAB    1.0   810-0900      TH  2103 PATRICK TAYLOR                   KAM S
 (F)    14  PETE 2034 LAB     3  ROCK/FLUID PROP LAB    1.0   810-0900      TH  2103 PATRICK TAYLOR                   KAM S
 (F)    22  PETE 2060         1  COMP MTHDS PETE        2.0   340-0430    T     0105 TUREAUD HALL                     HULL W
+                     LAB                                    1240-0230      TH  3423 PATRICK TAYLOR                   HULL W
   1    19  PETE 2060         3  COMP MTHDS PETE        2.0   340-0430    T                                           HULL W
+                     LAB                                     240-0430       F                                        HULL W
 (F)    18  PETE 3037 LAB     1  PETE FIELD OPERATNS    1.0   740-0830    T     2427 PATRICK TAYLOR                   THURBER F
 (F)    18  PETE 3037 LAB     2  PETE FIELD OPERATNS    1.0   740-0830    T     2427 PATRICK TAYLOR                   THURBER F
   8    60  PETE 3053         1  PETE ASP SUBS GEOL     3.0   310-0430    T TH  2427 PATRICK TAYLOR                   KIMBRELL W
@@ -32,6 +34,7 @@
 (F)    21  PETE 4999 RES     3  SENIOR PROJECT II      1.0  1140-0100    T                                           HUGHES R
 (F)     1  PETE 4999 RES     4  SENIOR PROJECT II      1.0  TBA                                                      HUGHES R
 (F)    16  PETE 7195         1  RESERVOIR CHARACTER    3.0   140-0300   M W    2149 PATRICK TAYLOR                   SEARS S
+                     LAB                                     140-0300   M W    2149 PATRICK TAYLOR                   SEARS S
  11     9  PETE 7201         1  FLUID FLOW POROUS ME   3.0   940-1030   M W F  1121 PATRICK TAYLOR                   WHITE C
 (F)     1  PETE 7256 RES     1  SPEC PROB PETR ENGR    1-6  TBA                                                      KAM S
 (F)     1  PETE 7256 RES     2  SPEC PROB PETR ENGR    1-6  TBA                                                      TYAGI M

@@ -1,6 +1,10 @@
   8     2  DMAE 7120         1  DESN, RP & INNOV       3.0   900-1150    T                                           AUBANEL M
+                     LAB                                     900-1150      TH                                        AUBANEL M
   8     2  DMAE 7150 LAB     1  PRODUCTION TEAM I      3.0   100-0350   M W                                          WESLEY K
   5     2  DMAE 7155         1  ADV PROG & ART I       5.0   900-1150     W                                          WESLEY K
+                     LAB                                     100-0350       F                                        WESLEY K
   7     3  DMAE 7250 LAB     1  PRODUCTION TEAM II     3.0  1200-0250    T                                           AUBANEL M
   5     2  DMAE 7255         1  ADV PROG & ART II      5.0   900-1150   M                                            WESLEY K
+                     LAB                                     900-1150       F                                        WESLEY K
   6     1  DMAE 7255         2  ADV PROG & ART II      5.0   100-0350   M                                            AUBANEL M
+                     LAB                                     900-1150     W                                          AUBANEL M

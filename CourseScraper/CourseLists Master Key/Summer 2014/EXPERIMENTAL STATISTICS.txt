@@ -1,7 +1,11 @@
  11    32  EXST 2201         1  STATISTICAL ANALYSIS   4.0  1240-0200   MTWTH  0005 LOCKETT                          MCKENNA M
+                     LAB                                    0840-1030   M W    0048 WOODIN HALL                      MCKENNA M
   3    40  EXST 2201         2  STATISTICAL ANALYSIS   4.0  1240-0200   MTWTH  0005 LOCKETT                          MCKENNA M
+                     LAB                                    1040-1230   M W    0048 WOODIN HALL                      COXE W
   2    41  EXST 2201         3  STATISTICAL ANALYSIS   4.0  1240-0200   MTWTH  0005 LOCKETT                          MCKENNA M
+                     LAB                                     210-0400   M W    0048 WOODIN HALL                      MCKENNA M
   6    37  EXST 2201         4  STATISTICAL ANALYSIS   4.0  1240-0200   MTWTH  0005 LOCKETT                          MCKENNA M
+                     LAB                                     210-0400    T TH  0048 WOODIN HALL                      COXE W
  16    11  EXST 4025         1  SAS PROGRAMMING        3.0  0840-1130    T TH  0011 WOODIN HALL                      SWOOPE E
  97     2  EXST 7084 CLI     1  PRAC STAT CONSULT II   2.0  TBA                                     PERMIS OF INST   BLOUIN D
  98     1  EXST 7084 CLI     2  PRAC STAT CONSULT II   2.0  TBA                                                      MCCARTER K

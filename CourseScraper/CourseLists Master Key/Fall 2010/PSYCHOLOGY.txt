@@ -5,11 +5,17 @@
  10   340  PSYC 2000         8  INTR TO PSYC           3.0   610-0900N   T     0100 DODSON                           JACKSON E
  32   318  PSYC 2000         3  INTR TO PSYC           3.0   610-0900N    W    0100 DODSON                           JACKSON E
 (F)    22  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          BECK M
+                     LAB                                     240-0430   M      0205 COATES                           BECK M
   8    14  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          BECK M
+                     LAB                                     840-1030    T     0205 COATES                           BECK M
   2    22  PSYC 2017         3  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          BECK M
+                     LAB                                     840-1030     W    0205 COATES                           BECK M
  11    11  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          BECK M
+                     LAB                                     840-1030      TH  0205 COATES                           BECK M
 (F)    24  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          BECK M
+                     LAB                                     310-0500      TH  0205 COATES                           BECK M
  10    12  PSYC 2017         6  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  0005 LOCKETT                          BECK M
+                     LAB                                     840-1030       F  0205 COATES                           BECK M
   5   195  PSYC 2040         1  SOCIAL PSYCHOLOGY      3.0   610-0900N     TH  0016 LOCKETT                          ADAIR F
  73    77  PSYC 2060         2  EDUCATIONAL PSYC       3.0   610-0900N   T     0005 LOCKETT                          GUSTIN Q
   3   151  PSYC 2070         1  DEVELOP PSYC LIFE SP   3.0   440-0730N     TH  0103 DESIGN BUILDING                  ERWIN M

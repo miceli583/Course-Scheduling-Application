@@ -1,7 +1,11 @@
   5    15  BIOL 1005         1  INTRO BIOLOGY LAB      2.0  0840-0940   M W    0119 TUREAUD HALL                     GARRETSON P
+                     LAB                                    0950-1250   M W    0115 LIFE SCIENCES                    GARRETSON P
   4    16  BIOL 1005         2  INTRO BIOLOGY LAB      2.0   120-0220   M W    0125 TUREAUD HALL                     GARRETSON P
+                     LAB                                     230-0530   M W    0115 LIFE SCIENCES                    GARRETSON P
   5    15  BIOL 1005         5  INTRO BIOLOGY LAB      2.0   530-0630N  M W    0119 TUREAUD HALL                     POMARICO S
+                     LAB                                     630-0930N  M W    0115 LIFE SCIENCES                    POMARICO S
   2    18  BIOL 1005         4  INTRO BIOLOGY LAB      2.0   120-0220    T TH  0125 TUREAUD HALL                     GARRETSON P
+                     LAB                                     230-0530    T TH  0115 LIFE SCIENCES                    GARRETSON P
  19    31  BIOL 1011         1  MICROORGANISMS & MAN   3.0  0900-1030   MTWTH  0228 TUREAUD HALL                     GAYDA R
 (F)    32  BIOL 1208 LAB     1  BIOL LAB SCI MAJ I     1.0  1100-0200    T TH  0133 LIFE SCIENCES                    JOLISSAINT M
   2    30  BIOL 1208 LAB     2  BIOL LAB SCI MAJ I     1.0   230-0530    T TH  0133 LIFE SCIENCES                    JOLISSAINT M
@@ -99,6 +103,8 @@
  59   141  BIOL 1201         1  BIOL FOR SCI MAJ I     3.0  0910-1040   MTWTF  0103 WILLIAMS                         CROUSILLAC S
 147    53  BIOL 1202         1  BIOL FOR SCI MAJ II    3.0  1100-1230   MTWTF  0005 LOCKETT                          ROBINS J
   4    28  BIOL 2051         1  GEN MICROBIOLOGY       4.0  0830-1000   MTWTF  0206 TUREAUD HALL                     SULLIVAN K
+                     LAB                                    1230-0200   MTWTF                                        BROUSSARD T
 (F)    32  BIOL 2051         2  GEN MICROBIOLOGY       4.0  0830-1000   MTWTF  0206 TUREAUD HALL                     SULLIVAN K
+                     LAB                                    1030-1200   MTWTF                                        BROUSSARD T
  17    93  BIOL 2160         1  HUMAN PHYSIOLOGY       3.0  0910-1040   MTWTF  0015 LOCKETT                          STICKLE W
  23    12  BIOL 4246         1  MICROBIAL GENETICS     3.0  1030-1200   MTWTF  0116 TUREAUD HALL                     ACHBERGER E

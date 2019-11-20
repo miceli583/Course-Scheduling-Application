@@ -1,36 +1,69 @@
 (F)    34  MATH 1021         2  COLLEGE ALGEBRA        3.0   930-1020      TH  0277 LOCKETT                          KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
 (F)    40  MATH 1021         3  COLLEGE ALGEBRA        3.0  1030-1120      TH  0277 LOCKETT                          KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
 (F)    40  MATH 1021         4  COLLEGE ALGEBRA        3.0  1130-1220      TH  0277 LOCKETT                          TULLOS L
+                     LAB                                    TBA                                                      TULLOS L
 (F)    39  MATH 1021         5  COLLEGE ALGEBRA        3.0  1230-0120      TH  0277 LOCKETT                          TULLOS L
+                     LAB                                    TBA                                                      TULLOS L
 (F)    37  MATH 1021         6  COLLEGE ALGEBRA        3.0   130-0220      TH  0277 LOCKETT                          MOSS J
+                     LAB                                    TBA                                                      MOSS J
 (F)    29  MATH 1021         7  COLLEGE ALGEBRA        3.0   730-0820       F  0277 LOCKETT                          YANG Y
+                     LAB                                    TBA                                                      YANG Y
 (F)    38  MATH 1021         8  COLLEGE ALGEBRA        3.0   830-0920       F  0277 LOCKETT                          YANG Y
+                     LAB                                    TBA                                                      YANG Y
 (F)    40  MATH 1021         9  COLLEGE ALGEBRA        3.0   930-1020       F  0277 LOCKETT                          MOSS J
+                     LAB                                    TBA                                                      MOSS J
 (F)    36  MATH 1021        10  COLLEGE ALGEBRA        3.0  1030-1120       F  0277 LOCKETT                          YANG Y
+                     LAB                                    TBA                                                      YANG Y
 (F)    39  MATH 1021        12  COLLEGE ALGEBRA        3.0  1230-0120       F  0277 LOCKETT                          MOSS J
+                     LAB                                    TBA                                                      MOSS J
 (F)    78  MATH 1021        13  COLLEGE ALGEBRA        3.0  TBA                                     100% WEB BASED   KOPCSO D
+                     LAB                                    TBA                                                      KOPCSO D
 (F)    36  MATH 1022         1  PLANE TRIGONOMETRY     3.0   730-0820     W    0235 LOCKETT                          GORDON F
+                     LAB                                    TBA                                                      GORDON F
 (F)    39  MATH 1022         2  PLANE TRIGONOMETRY     3.0   830-0920     W    0237 LOCKETT                          BUSH E
+                     LAB                                    TBA                                                      BUSH E
 (F)    33  MATH 1022         3  PLANE TRIGONOMETRY     3.0   930-1020     W    0237 LOCKETT                          GORDON F
+                     LAB                                    TBA                                                      GORDON F
 (F)    38  MATH 1022         4  PLANE TRIGONOMETRY     3.0  1030-1120     W    0237 LOCKETT                          GORDON F
+                     LAB                                    TBA                                                      GORDON F
 (F)    37  MATH 1022         6  PLANE TRIGONOMETRY     3.0  1230-0120     W    0237 LOCKETT                          WADDELL L
+                     LAB                                    TBA                                                      WADDELL L
 (F)    38  MATH 1022         7  PLANE TRIGONOMETRY     3.0   130-0220     W    0237 LOCKETT                          WADDELL L
+                     LAB                                    TBA                                                      WADDELL L
 (F)    40  MATH 1022         8  PLANE TRIGONOMETRY     3.0   730-0820      TH  0237 LOCKETT                          HU Y
+                     LAB                                    TBA                                                      HU Y
 (F)    35  MATH 1022         9  PLANE TRIGONOMETRY     3.0   830-0920      TH  0237 LOCKETT                          DOUGHERTY E
+                     LAB                                    TBA                                                      DOUGHERTY E
 (F)    40  MATH 1022        10  PLANE TRIGONOMETRY     3.0   930-1020      TH  0237 LOCKETT                          MCHENRY E
+                     LAB                                    TBA                                                      MCHENRY E
 (F)    37  MATH 1022        11  PLANE TRIGONOMETRY     3.0  1030-1120      TH  0237 LOCKETT                          MCHENRY E
+                     LAB                                    TBA                                                      MCHENRY E
 (F)    38  MATH 1022        12  PLANE TRIGONOMETRY     3.0  1130-1220      TH  0237 LOCKETT                          HU Y
+                     LAB                                    TBA                                                      HU Y
 (F)    37  MATH 1022        13  PLANE TRIGONOMETRY     3.0  1230-0120      TH  0237 LOCKETT                          WADDELL L
+                     LAB                                    TBA                                                      WADDELL L
 (F)    38  MATH 1022        14  PLANE TRIGONOMETRY     3.0   130-0220      TH  0237 LOCKETT                          WADDELL L
+                     LAB                                    TBA                                                      WADDELL L
 (F)    36  MATH 1022        15  PLANE TRIGONOMETRY     3.0   230-0320      TH  0237 LOCKETT                          HU Y
+                     LAB                                    TBA                                                      HU Y
 (F)    35  MATH 1022        16  PLANE TRIGONOMETRY     3.0   730-0820       F  0237 LOCKETT                          HUANG X
+                     LAB                                    TBA                                                      HUANG X
 (F)    37  MATH 1022        18  PLANE TRIGONOMETRY     3.0   930-1020       F  0237 LOCKETT                          KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
 (F)    40  MATH 1022        19  PLANE TRIGONOMETRY     3.0  1030-1120       F  0237 LOCKETT                          KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
 (F)    39  MATH 1022        20  PLANE TRIGONOMETRY     3.0  1130-1220       F  0237 LOCKETT                          HUANG X
+                     LAB                                    TBA                                                      HUANG X
 (F)    37  MATH 1022        21  PLANE TRIGONOMETRY     3.0  1230-0120       F  0237 LOCKETT                          KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
 (F)    38  MATH 1022        22  PLANE TRIGONOMETRY     3.0   130-0220       F  0237 LOCKETT                          HUANG X
+                     LAB                                    TBA                                                      HUANG X
 (F)    92  MATH 1022        23  PLANE TRIGONOMETRY     3.0  TBA                                     100% WEB BASED   KURTZ S
+                     LAB                                    TBA                                                      KURTZ S
 (F)    43  MATH 1023         1  COL ALGEBRA & TRIG     5.0   130-0220    T TH  0241 LOCKETT                          FITCH G
+                     LAB                                    TBA                                                      FITCH G
 176   424  MATH 1029         1  INTRO COMTEMP MATH     3.0  1030-1120   M W F  0101 GYM AUDITORIUM                   LEDET J
   4    42  MATH 1201         1  NUMBR SENS/PROB SOLV   3.0   930-1020   M W F  0241 LOCKETT                          DOUGHERTY E
   5    41  MATH 1201         2  NUMBR SENS/PROB SOLV   3.0  1030-1120   M W F  0241 LOCKETT                          DOUGHERTY E
@@ -38,25 +71,45 @@
   9    31  MATH 1202         2  GEOM/REASONG/MEASURE   3.0  1030-1120   M W F  0243 LOCKETT                          KOPCSO D
   9    31  MATH 1202         3  GEOM/REASONG/MEASURE   3.0  1230-0120   M W F  0243 LOCKETT         SVC LEARNING     EAKINS E
 (F)    36  MATH 1431         1  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                     930-1020   M      0232 MIDDLETON                        STONE M
 (F)    35  MATH 1431         2  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                    1030-1120   M      0232 MIDDLETON                        STONE M
   1    34  MATH 1431         3  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                    1130-1220   M      0232 MIDDLETON                        TRAMPEL K
 (F)    35  MATH 1431         4  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                    1230-0120   M      0232 MIDDLETON                        TRAMPEL K
 (F)    35  MATH 1431         5  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                     130-0220   M      0232 MIDDLETON                        BUCHER E
 (F)    35  MATH 1431         7  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                     330-0420   M      0232 MIDDLETON                        SIZEMORE R
 (F)    35  MATH 1431         8  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                     900-0950    T     0232 MIDDLETON                        BUCHER E
 (F)    35  MATH 1431         9  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                    1030-1120    T     0232 MIDDLETON                        SIZEMORE R
   1    34  MATH 1431        10  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                     300-0350    T     0232 MIDDLETON                        BUCHER E
 (F)    35  MATH 1431        12  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                    1030-1120     W    0232 MIDDLETON                        TRAMPEL K
 (F)    36  MATH 1431        13  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                    1130-1220     W    0232 MIDDLETON                        TRAMPEL K
 (F)    35  MATH 1431        14  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                    1230-0120     W    0232 MIDDLETON                        SIZEMORE R
 (F)    35  MATH 1431        15  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                     130-0220     W    0232 MIDDLETON                        SIZEMORE R
 (F)    35  MATH 1431        16  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                     230-0320     W    0232 MIDDLETON                        BUCHER E
   2    33  MATH 1431        18  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                     900-0950      TH  0232 MIDDLETON                        BUCHER E
 (F)    35  MATH 1431        19  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                    1030-1120      TH  0232 MIDDLETON                        SIZEMORE R
 (F)    35  MATH 1431        20  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                     300-0350      TH  0232 MIDDLETON                        BUCHER E
 (F)    35  MATH 1431        21  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                     930-1020       F  0232 MIDDLETON                        SIZEMORE R
   1    34  MATH 1431        22  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                    1030-1120       F  0232 MIDDLETON                        TRAMPEL K
   1    34  MATH 1431        23  CAL-BUS & ECO APLCAT   3.0  1200-0120    T TH  0101 GYM AUDITORIUM                   VAUGHN D
+                     LAB                                    1130-1220       F  0232 MIDDLETON                        TRAMPEL K
 (F)    41  MATH 1550        11  AN GEOM & CALCULUS-I   5.0   730-0820   MTWTF  0285 LOCKETT                          DOUGHERTY E
 (F)    50  MATH 1550        12  AN GEOM & CALCULUS-I   5.0   830-0920   MTWTF  0115 RES COLL ONE N                   ABEYNANDA G
 (F)    50  MATH 1550        14  AN GEOM & CALCULUS-I   5.0   930-1020   MTWTF  0115 RES COLL ONE N                   WHITE T
@@ -124,8 +177,11 @@
   1    39  MATH 2090         6  ELEM DIFF EQ & LIN A   4.0  1230-0120   MTWTH  0285 LOCKETT                          VIATOR R
 (F)    41  MATH 2090         7  ELEM DIFF EQ & LIN A   4.0   130-0220   MTWTH  0285 LOCKETT                          KAFLE B
   5    15  MATH 2203         2  MEAS: PRPTNL & ALG     3.0  1230-0220   M W    0205 PRESCOTT        SVC LEARNING     TULLOS L
+                     LAB                                    TBA                                                      TULLOS L
   3    17  MATH 2203         1  MEAS: PRPTNL & ALG     3.0  1230-0220    T TH  0244 LOCKETT         SVC LEARNING     PFEIL S
+                     LAB                                    TBA                                                      PFEIL S
  12    18  MATH 3003         1  FUNCTIONS & MODELING   2.0  1030-1150    T TH  0136 PRESCOTT                         COCHRAN W
+                     LAB                                    TBA                                                      COCHRAN W
  15    25  MATH 3355         2  PROBABILITY            3.0  1030-1150    T TH  0136 LOCKETT                          SMOLINSKY L
  16    24  MATH 3355         3  PROBABILITY            3.0   130-0250    T TH  0239 LOCKETT                          SMOLINSKY L
   9    23  MATH 4005         1  GEOMETRY               3.0   730-0850    T TH  0137 LOCKETT                          MADDEN J

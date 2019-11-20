@@ -1,19 +1,30 @@
 (F)    60  CSC  1200         1  ETHICS IN COMPUTING    1.0  1030-1120     W    0109 TUREAUD HALL                     ZHANG J
   2    63  CSC  1200         2  ETHICS IN COMPUTING    1.0   130-0220     W    0221 TUREAUD HALL                     ZHANG J
   3    57  CSC  1240         1  STATS & GRAPH MATLB    3.0  1130-1220   M W    0152 COATES                           BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
   5    38  CSC  1240         2  STATS & GRAPH MATLB    3.0  1130-1220   M W    0152 COATES                           BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
   5    16  CSC  1240         3  STATS & GRAPH MATLB    3.0  1130-1220   M W    0152 COATES                           BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
  12    78  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  0155 COATES                           PETERSON B
   7    69  CSC  1253         2  COMP SCI WITH C++      3.0  1200-0120    T TH  0120 TUREAUD HALL                     WAGLE B
  34    26  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1030-1150    T TH  0102 TUREAUD HALL                     CASTLEBERRY D
 (F)    38  CSC  1350         1  COMP SCI I-MJRS        4.0   930-1020   M W F  E130 HOWE RUSSELL E                   DUNCAN W
+                     LAB                                     330-0620   M                                            BRENER N
   4    30  CSC  1350         2  COMP SCI I-MJRS        4.0   930-1020   M W F  E130 HOWE RUSSELL E                   DUNCAN W
+                     LAB                                     330-0620   M                                            DUNCAN W
   2    34  CSC  1350         3  COMP SCI I-MJRS        4.0   930-1020   M W F  E130 HOWE RUSSELL E                   DUNCAN W
+                     LAB                                     330-0620     W                                          DUNCAN W
   4    30  CSC  1350         4  COMP SCI I-MJRS        4.0   930-1020   M W F  E130 HOWE RUSSELL E                   DUNCAN W
+                     LAB                                     330-0620     W                                          BRENER N
   3    33  CSC  1350         5  COMP SCI I-MJRS        4.0   900-1020    T TH  0100 TUREAUD HALL                     KUNDU S
+                     LAB                                     230-0520       F                                        KUNDU S
   3    27  CSC  1351         1  COMP SCI II-MJRS       4.0   900-1020    T TH  E134 HOWE RUSSELL E                   DUNCAN W
+                     LAB                                     130-0420      TH                                        BRENER N
  15    15  CSC  1351         2  COMP SCI II-MJRS       4.0   900-1020    T TH  E134 HOWE RUSSELL E                   DUNCAN W
+                     LAB                                     130-0420      TH                                        DUNCAN W
 (F)    32  CSC  1351         3  COMP SCI II-MJRS       4.0   900-1020    T TH  E134 HOWE RUSSELL E                   DUNCAN W
+                     LAB                                     430-0720N     TH                                        DUNCAN W
   4   126  CSC  2259         1  DISCRETE STRUCTURES    3.0  1200-0120    T TH  0102 ALLEN                            TRIANTAPHYLLO
  10    34  CSC  2262         1  NUMERICAL METHODS      3.0   300-0420    T TH  0124 TUREAUD HALL                     BRENER N
  25    15  CSC  2700         2  INTRO CYBERSECURITY    1-3   500-0620N  M W    0101 TUREAUD HALL                     CAPELLO H

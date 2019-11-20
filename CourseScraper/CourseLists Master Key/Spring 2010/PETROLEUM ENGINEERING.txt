@@ -7,7 +7,9 @@
   8     6  PETE 2034 LAB     4  ROCK/FLUID PROP LAB    1.0   810-0900      TH                                        KAM S
   1    14  PETE 2034 LAB     5  ROCK/FLUID PROP LAB    1.0   810-0900      TH                                        KAM S
 (F)    21  PETE 2060         2  COMP MTHDS PETE        2.0   340-0430    T     1120 PATRICK TAYLOR                   HULL W
+                     LAB                                    1240-0230      TH                                        HULL W
 (F)    21  PETE 2060         3  COMP MTHDS PETE        2.0   340-0430    T     1120 PATRICK TAYLOR                   HULL W
+                     LAB                                     240-0430      TH                                        HULL W
   2    66  PETE 3053         1  PETE ASP SUBS GEOL     3.0   310-0430    T TH  2427 PATRICK TAYLOR
   4    56  PETE 4046         1  WELL DESIGN-PRODUCTN   3.0   240-0330   M W F  2427 PATRICK TAYLOR                   TYAGI M
   1    79  PETE 4050         2  RESERVIOR DYNAMICS     3.0   440-0600N  M W    0103 TUREAUD HALL                     WHITE C

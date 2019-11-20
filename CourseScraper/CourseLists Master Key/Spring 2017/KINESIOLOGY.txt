@@ -25,7 +25,9 @@
 (F)   150  KIN  1600         2  INDIV WELL & PUB HEA   3.0   930-1020   M W F  0103 DESIGN BUILDING                  FISHER A
 (F)    51  KIN  1600         1  INDIV WELL & PUB HEA   3.0  TBA                                     75-99% WEB BASE  DAILEY D
 (F)    22  KIN  1801         1  MVT FUNDAMENTALS       2.0   900-1020    T TH  0120 LONG FIELDHOUSE MAJORS ONLY      SIMONTON K
+                     LAB                                     900-1020    T TH                                        SIMONTON K
 (F)    24  KIN  1804         1  AEROBIC/STREN ACTIV    2.0  1200-0120    T TH  0120 LONG FIELDHOUSE                  MCKEY K
+                     LAB                                    1200-0120    T TH                                        MCKEY K
 (F)    24  KIN  1999 LAB     1  YOGA                   1.0   830-0920   M W F  0120 LONG FIELDHOUSE                  SUTHERLAND N
 (F)    20  KIN  1999 LAB     2  BOOTCAMP               1.0  1130-1220   M W F  1015 CYPRESS HALL                     VICTORIANO J
 (F)    25  KIN  1999 LAB     3  YOGA                   1.0  1200-0120    T TH  1015 CYPRESS HALL                     SUTHERLAND N
@@ -34,15 +36,25 @@
 (F)   100  KIN  2501         1  HIST/PHIL OF KINESIO   3.0  1130-1220   M W F  0139 ALLEN                            JACOBSEN D
 (F)   383  KIN  2501         2  HIST/PHIL OF KINESIO   3.0   900-1020    T TH  0002 LOCKETT                          MCKEY K
  10    17  KIN  2504         1  PRIN OF CONDITIONING   3.0  1030-1150    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     730-0820   M W                                          SONG A
 (F)    27  KIN  2504         2  PRIN OF CONDITIONING   3.0  1030-1150    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     830-0920   M W                                          SONG A
   1    26  KIN  2504         3  PRIN OF CONDITIONING   3.0  1030-1150    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     930-1020   M W                                          AISNER T
 (F)    27  KIN  2504         4  PRIN OF CONDITIONING   3.0  1030-1150    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                    1030-1120   M W                                          SONG A
 (F)    27  KIN  2504         5  PRIN OF CONDITIONING   3.0  1030-1150    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                    1130-1220   M W                                          SONG A
   1    26  KIN  2504         6  PRIN OF CONDITIONING   3.0  1030-1150    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                    1230-0120   M W                                          XU J
   1    26  KIN  2504         7  PRIN OF CONDITIONING   3.0  1030-1150    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     130-0220   M W                                          XU J
   1    26  KIN  2504         8  PRIN OF CONDITIONING   3.0  1030-1150    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     230-0320   M W                                          RICHARDSON I
   3    24  KIN  2504        11  PRIN OF CONDITIONING   3.0  1030-1150    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     900-0950    T TH                                        ACHARYA P
 (F)    27  KIN  2504        12  PRIN OF CONDITIONING   3.0  1030-1150    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                    1200-1250    T TH                                        ACHARYA P
 (F)    42  KIN  2509         1  MED TERM FOR KINESIO   3.0  TBA                                     MAJORS ONLY      REID M
 (F)    40  KIN  2509         2  MED TERM FOR KINESIO   3.0  TBA                                     MAJORS ONLY      REID M
 (F)    40  KIN  2509         3  MED TERM FOR KINESIO   3.0  TBA                                     MAJORS ONLY      CASTLE R
@@ -50,32 +62,50 @@
 (F)    41  KIN  2510         2  INTRO SPRT LSR ADMIN   3.0  1030-1120   M W F  1035 CYPRESS HALL                     JACOBSEN D
 (F)    50  KIN  2510         3  INTRO SPRT LSR ADMIN   3.0  1130-1220   M W F  0151 LONG FIELDHOUSE                  WALKER K
   3    22  KIN  2512         1  CLASSRM CULTURE ORG    3.0  1030-1150    T TH  0140 LONG FIELDHOUSE                  SIMONTON K
+                     LAB                                    1030-1150    T TH  0120 LONG FIELDHOUSE                  SIMONTON K
 (F)   101  KIN  2513         1  PROF DEVEL SPORT ADM   3.0   830-0920   M W F  0026 HATCHER HALL                     ENGEMANN E
   3    22  KIN  2516         1  COACHING BASKETBALL    2.0   900-1020    T TH  0130 COATES                           FISHER A
+                     LAB                                     900-1020    T TH                                        FISHER A
 (F)    35  KIN  2526         1  PSYCHOLGY OF COACHNG   3.0  1030-1150    T TH  0130 COATES                           FISHER A
 (F)    40  KIN  2530         1  SPORT IN SOCIETY       3.0  1230-0120   M W F  0108 LONG FIELDHOUSE                  MAMO Y
 (F)    40  KIN  2530         2  SPORT IN SOCIETY       3.0   130-0220   M W F  0108 LONG FIELDHOUSE                  MAMO Y
 (F)    40  KIN  2530         3  SPORT IN SOCIETY       3.0  1030-1150    T TH  0035 ALLEN                            OTTO M
 (F)    30  KIN  2577         1  H&PE FOR ELEM SCHOOL   3.0  1030-1220   M W F  0108 LONG FIELDHOUSE                  MCKEY K
+                     LAB                                    1030-1120   M W F  0120 LONG FIELDHOUSE                  MCKEY K
 (F)    30  KIN  2601         1  FIRST AID              1.0   230-0320   M      0151 LONG FIELDHOUSE                  JEZEK S
+                     LAB                                     330-0420   M      0151 LONG FIELDHOUSE                  JEZEK S
 (F)    30  KIN  2601         2  FIRST AID              1.0   230-0320    T     0151 LONG FIELDHOUSE                  JEZEK S
+                     LAB                                     330-0420    T     0151 LONG FIELDHOUSE                  JEZEK S
 (F)    30  KIN  2601         3  FIRST AID              1.0   230-0320     W    0151 LONG FIELDHOUSE                  JEZEK S
+                     LAB                                     330-0420     W    0151 LONG FIELDHOUSE                  JEZEK S
   4    26  KIN  2601         4  FIRST AID              1.0   230-0320      TH  0151 LONG FIELDHOUSE                  JEZEK S
+                     LAB                                     330-0420      TH  0151 LONG FIELDHOUSE                  JEZEK S
 (F)    47  KIN  2603         1  CONSUMER HEALTH        3.0   830-0920   M W F  0155 LONG FIELDHOUSE                  FISHER A
   1    19  KIN  2999 CLI     1  INTERN REC & SPORT     3.0  TBA                                                      JACOBSEN D
 (F)    45  KIN  3500 LAB     1  HUMAN ANATOMY LAB      1.0  TBA                                     MAJORS ONLY      ALLERTON T
 (F)    45  KIN  3500 LAB     2  HUMAN ANATOMY LAB      1.0  TBA                                     MAJORS ONLY      ALLERTON T
 (F)    20  KIN  3502         1  TESTS & MEAS IN KIN    3.0   900-1020    T TH  0143 COATES                           WEBSTER E
+                     LAB                                     730-0920     W                                          FRANKLIN Z
 (F)    20  KIN  3502         2  TESTS & MEAS IN KIN    3.0   900-1020    T TH  0143 COATES                           WEBSTER E
+                     LAB                                     730-0920     W                                          THEALL B
 (F)    20  KIN  3502         4  TESTS & MEAS IN KIN    3.0   900-1020    T TH  0143 COATES                           WEBSTER E
+                     LAB                                     930-1120     W                                          FRANKLIN Z
 (F)    20  KIN  3502         5  TESTS & MEAS IN KIN    3.0   900-1020    T TH  0143 COATES                           WEBSTER E
+                     LAB                                     930-1120     W                                          THEALL B
 (F)    20  KIN  3502         6  TESTS & MEAS IN KIN    3.0   900-1020    T TH  0143 COATES                           WEBSTER E
+                     LAB                                     930-1120     W                                          PADILLA S
 (F)    20  KIN  3502         7  TESTS & MEAS IN KIN    3.0   900-1020    T TH  0143 COATES                           WEBSTER E
+                     LAB                                    1130-0120     W                                          FRANKLIN Z
 (F)    20  KIN  3502         8  TESTS & MEAS IN KIN    3.0   900-1020    T TH  0143 COATES                           WEBSTER E
+                     LAB                                    1130-0120     W                                          THEALL B
 (F)    20  KIN  3502         9  TESTS & MEAS IN KIN    3.0   900-1020    T TH                                        WEBSTER E
+                     LAB                                    1130-0120     W                                          PADILLA S
 (F)    20  KIN  3502        10  TESTS & MEAS IN KIN    3.0   900-1020    T TH                                        WEBSTER E
+                     LAB                                     130-0320     W                                          FRANKLIN Z
 (F)    20  KIN  3502        11  TESTS & MEAS IN KIN    3.0   900-1020    T TH  0143 COATES                           WEBSTER E
+                     LAB                                     130-0320     W                                          THEALL B
 (F)    20  KIN  3502        12  TESTS & MEAS IN KIN    3.0   900-1020    T TH  0143 COATES                           WEBSTER E
+                     LAB                                     130-0320     W                                          PADILLA S
   4    11  KIN  3505 CLI     1  ATHLET TRAINING PRAC   1.0   730-0820   M W F  0140 LONG FIELDHOUSE                  COLLINS M
 (F)    41  KIN  3513         1  INTR MOTOR LEARNING    3.0  1230-0120   M W F  0155 LONG FIELDHOUSE                  AISNER T
  14   126  KIN  3513         2  INTR MOTOR LEARNING    3.0   130-0250    T TH  E130 HOWE RUSSELL E                   VAN GEMMERT A
@@ -92,13 +122,21 @@
 (F)    15  KIN  3525 LAB     1  LAB TECH EXER PHYS     1.0   130-0320    T                                           SUTHERLAND N
  12     8  KIN  3525 LAB     2  LAB TECH EXER PHYS     1.0   130-0320      TH                                        SUTHERLAND N
 (F)    32  KIN  3534         1  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          JOHANNSEN N
+                     LAB                                     130-0320    T                                           WANG H
 (F)    31  KIN  3534         2  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          JOHANNSEN N
+                     LAB                                     130-0320      TH                                        WANG H
 (F)    29  KIN  3534         3  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          JOHANNSEN N
+                     LAB                                     730-0920       F                                        WANG H
 (F)    26  KIN  3534         4  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          JOHANNSEN N
+                     LAB                                     930-1120       F                                        SCOTT M
 (F)    31  KIN  3534         5  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          JOHANNSEN N
+                     LAB                                    1130-0120       F                                        SCOTT M
 (F)    29  KIN  3534         6  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          JOHANNSEN N
+                     LAB                                     130-0320       F                                        WANG H
 (F)     8  KIN  3535         1  EXER TEST & PRESCRIP   3.0  1230-0220     W                         SVC LEARNING     JOHNSON L
+                     LAB                                     930-1120   M                                            SCOTT M
   1     7  KIN  3535         2  EXER TEST & PRESCRIP   3.0  1230-0220     W                                          JOHNSON L
+                     LAB                                     930-1120     W                                          SCOTT M
 (F)    44  KIN  3605         1  HEALTH/AGING PROCESS   3.0  1030-1120   M W F  0035 ALLEN                            DAILEY D
 (F)    40  KIN  3800         1  ETHIC/LGL ISS SPORT    3.0  1200-0120    T TH  0151 LONG FIELDHOUSE                  DOWNS B
 (F)    40  KIN  3800         2  ETHIC/LGL ISS SPORT    3.0  TBA                                     75-99% WEB BASE  DOWNS B

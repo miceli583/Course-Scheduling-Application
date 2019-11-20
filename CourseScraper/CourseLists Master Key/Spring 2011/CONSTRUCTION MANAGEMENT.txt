@@ -1,5 +1,7 @@
   6    42  CM   1010         1  CONS GRAPHCS/NOMENCL   3.0  1140-0130   M      0101 CONSTRUCTION MG                  PECQUET C
+                     LAB                                    1140-0130     W    0101 CONSTRUCTION MG                  PECQUET C
   2    46  CM   1010         2  CONS GRAPHCS/NOMENCL   3.0  1040-1230    T     3136 PATRICK TAYLOR                   PECQUET C
+                     LAB                                    1040-1230      TH  3136 PATRICK TAYLOR                   PECQUET C
   2    46  CM   1020 LAB     1  ENGR GRAPS FOR MECH    2.0   840-1030   M W    3136 PATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
   1    47  CM   1020 LAB     2  ENGR GRAPS FOR MECH    2.0  1040-1230   M W    3136 PATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
   1    47  CM   1020 LAB     4  ENGR GRAPS FOR MECH    2.0   240-0430   M W    3136 PATRICK TAYLOR                   SHANMUGAM V
@@ -8,22 +10,33 @@
   1    35  CM   1030 LAB     3  ENGIN GRAPHICS         2.0  1210-0200    T TH  3213 PATRICK TAYLOR                   SHANMUGAM V
 (F)    36  CM   1030 LAB     4  ENGIN GRAPHICS         2.0   240-0430    T TH  3213 PATRICK TAYLOR                   SHANMUGAM V
   5    27  CM   2012         2  PLN CST ANAL RES CON   3.0   940-1130   M      2218 PATRICK TAYLOR                   HEUMANN S
+                     LAB                                     940-1130     W    2218 PATRICK TAYLOR                   HEUMANN S
 (F)    32  CM   2012         3  PLN CST ANAL RES CON   3.0  1240-0230   M      2218 PATRICK TAYLOR                   HEUMANN S
+                     LAB                                    1240-0230     W    2218 PATRICK TAYLOR                   HEUMANN S
  13    22  CM   2121         3  MTRLS MTHDS EQMNT I    3.0   740-0900   M W    2218 PATRICK TAYLOR                   HEUMANN S
   2    33  CM   2121         1  MTRLS MTHDS EQMNT I    3.0   240-0400   M W    2218 PATRICK TAYLOR                   HEUMANN S
 (F)    40  CM   2131         1  MTRLS MTHDS EQMNT II   3.0   910-1030    T TH  2218 PATRICK TAYLOR                   KINCHEN D
  18    22  CM   2131         2  MTRLS MTHDS EQMNT II   3.0  1210-0130    T TH  2218 PATRICK TAYLOR                   KINCHEN D
 (F)    42  CM   2141         1  CONST PLANNING & SCH   3.0  1040-1230    T     0101 CONSTRUCTION MG                  NELSON J
+                     LAB                                    1040-1230      TH  0101 CONSTRUCTION MG                  NELSON J
  12    28  CM   2141         2  CONST PLANNING & SCH   3.0   110-0300    T     0101 CONSTRUCTION MG                  NAHMENS I
+                     LAB                                     110-0300      TH  0101 CONSTRUCTION MG                  NAHMENS I
  11    39  CM   3000         1  CONSTRUTION SAFETY     3.0   910-1030    T TH  1110 PATRICK TAYLOR                   AGHAZADEH F
   1    47  CM   3000         2  CONSTRUTION SAFETY     3.0   140-0300    T TH  1111 PATRICK TAYLOR                   PECQUET C
   6    19  CM   3100         1  CONSTRTN SURVEYING     3.0   740-0930   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     740-0930     W    2216 PATRICK TAYLOR                   TRAHAN G
 (F)    25  CM   3100         2  CONSTRTN SURVEYING     3.0   940-1130   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     940-1130     W    2216 PATRICK TAYLOR                   TRAHAN G
 (F)    25  CM   3100         3  CONSTRTN SURVEYING     3.0  1240-0230   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                    1240-0230     W    2216 PATRICK TAYLOR                   TRAHAN G
 (F)    40  CM   3121         1  COM CONS ESTIMATING    3.0   740-0930   M      0101 CONSTRUCTION MG                  SPRING C
+                     LAB                                     740-0930     W    0101 CONSTRUCTION MG                  SPRING C
 (F)    42  CM   3121         2  COM CONS ESTIMATING    3.0   940-1130   M      0101 CONSTRUCTION MG                  SPRING C
+                     LAB                                     940-1130     W    0101 CONSTRUCTION MG                  SPRING C
 (F)    40  CM   3131         1  INDUST CONS ESTIMTNG   3.0   740-0930   M                                            KINCHEN D
+                     LAB                                     740-0930     W                                          KINCHEN D
   2    38  CM   3131         2  INDUST CONS ESTIMTNG   3.0   940-1130   M                                            KINCHEN D
+                     LAB                                     940-1130     W                                          KINCHEN D
 (F)    40  CM   3141         1  HIGHWAY CONSTRUCTION   3.0  1040-1200    T TH  2218 PATRICK TAYLOR                   ROSSO L
   3    37  CM   3141         2  HIGHWAY CONSTRUCTION   3.0   140-0300    T TH  2218 PATRICK TAYLOR                   ROSSO L
   1    39  CM   3303         1  MECH & ELEC SYSTEMS    3.0   740-0900    T TH  0101 CONSTRUCTION MG                  SPRING C

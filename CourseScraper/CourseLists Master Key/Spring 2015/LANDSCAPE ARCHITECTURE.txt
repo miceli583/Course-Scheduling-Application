@@ -4,11 +4,14 @@
 (F)   385  LA   1203         1  VIEWS AMER LANDSCAPE   3.0   830-0920   M W F  0002 LOCKETT                          FRYLING C
   2    18  LA   2002 LAB     1  LANDSCAPE DESIGN II    6.0   130-0520   M W F  0304 DESIGN BUILDING CI-VISUAL&TECH   HOLZMAN J
   2    18  LA   2301         2  LANDSCAPE TECH I       3.0   100-0450    T     0316 DESIGN BUILDING                  BROWN D
+                     LAB                                     600-0750N     TH  0316 DESIGN BUILDING                  BROWN D
   5    15  LA   2401         1  LANDSCAPE ECOLOGY      3.0   100-0350      TH  0301 DESIGN BUILDING                  FRYLING C
 (F)    14  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0324 DESIGN BUILDING CI-WRITTEN&VISU  SHARKY B
 (F)    14  LA   3201         2  LANDSCAPE HISTORY II   3.0   800-0850   M W F  0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
 (F)    15  LA   3302         1  LANDSCAPE TECH III     3.0   900-1150   M W    0316 DESIGN BUILDING                  LOUGH C
+                     LAB                                     900-1150   M W    0316 DESIGN BUILDING                  LOUGH C
 (F)    15  LA   3402         1  PLANT MATERIALS II     3.0   900-1150    T TH  0301 DESIGN BUILDING                  FRYLING C
+                     LAB                                     900-1150    T TH  0301 DESIGN BUILDING                  FRYLING C
 (F)    13  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      CONRAD M
 (F)    45  LA   4501 RES     1  FIELD STUDIES IN L A   3.0   600-0850N  M      0313 DESIGN BUILDING                  CONRAD M
 (F)     1  LA   4502 RES     1  IND STUDY IN L A       3.0  TBA                                                      DOUGLAS W

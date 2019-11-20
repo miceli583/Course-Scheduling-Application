@@ -92,7 +92,9 @@
   7     9  CHEM 3493 LAB     1  PHYSICAL CHEM LAB      3.0   130-0420   M W    0263ACOATES          CI-WRITTEN&VISU  RUPNIK K
  88    11  CHEM 3900 RES     1  CHEMICAL PROBLEMS      1-3  TBA                                     PERMIS OF DEPT   RUPNIK K
  26     4  CHEM 4005         1  RESEARCH METHODS       3.0  1030-1220   M W    0205 PRESCOTT                         JOHNSON W
+                     LAB                                    TBA                                                      JOHNSON W
   3    13  CHEM 4010         1  MACROMOLEC SYS I       3.0   130-0320    T     0206 WILLIAMS                         ZHANG D
+                     LAB                                     130-0320      TH  0206 WILLIAMS                         ZHANG D
  36    14  CHEM 4150         1  ENVIRONMENTAL CHEM     3.0   130-0250    T TH  0210 WILLIAMS                         COOK R
  26    24  CHEM 4552         1  INSTR CHAR ORG COMPS   2.0   930-1020   M W    0208 WILLIAMS                         MACNAUGHTAN M
  13     3  CHEM 4553 LAB     1  EXP INST CHAR ORG CP   2.0   130-0420    T TH  0302 WILLIAMS                         RUPNIK K
@@ -106,6 +108,7 @@
  32     8  CHEM 4597         1  INTR STAT THERMODYNA   3.0  1030-1120   M W F  0201 WILLIAMS                         KUMAR R
  19     1  CHEM 6002         2  CHEM PRINC FOR TEACH   3.0  TBA                                                      HOPKINS J
  19     1  CHEM 6003         1  LAB METHODS FOR TEAC   3.0  TBA                                                      HOPKINS J
+                     LAB                                    TBA                                                      HOPKINS J
  19     1  CHEM 6691 SEM     3  SEM: CUR DEV IN CHEM   1-3  TBA                                                      HOPKINS J
  22     8  CHEM 7292         1  SP TOP CHEM PHYS       2-3   130-0220   M W F  0210 WILLIAMS                         LOPATA K
  10    10  CHEM 7780         1  SP TOP MACROMOL CHEM   2-3   130-0320   M      0208 WILLIAMS                         RUSSO P

@@ -13,9 +13,11 @@
  26     9  GEOG 3013         1  METEOROLOGY            3.0   930-1020   M W F  0245 HOWE RUSSELL E  CI-WRITTEN&VISU  TREPANIER J
  12    23  GEOG 3070         1  ENVIRON CONSERVATION   3.0   300-0420    T TH  0245 HOWE RUSSELL E                   NAMIKAS S
  16    12  GEOG 4020         1  AERIAL PHOTO INTER     3.0   400-0550   M      0260 HOWE RUSSELL E  PERMIS OF INST   MENG X
+                     LAB                                     400-0550     W    0260 HOWE RUSSELL E
  19    16  GEOG 4022         1  GEOMORPHOLOGY          3.0   900-1020    T TH  0245 HOWE RUSSELL E                   KONSOER K
   2    10  GEOG 4024         1  COASTAL MORPHODYNAM    3.0   130-0250    T TH  3178 ENER,COAST,& EN                  XU K
   2    16  GEOG 4045         1  ENVRNMNTL REMOTE SEN   3.0   430-0620N   T     E220 HOWE RUSSELL E                   WANG L
+                     LAB                                     430-0620N     TH  E220 HOWE RUSSELL E                   WANG L
   6    15  GEOG 4046         2  WEB GIS                3.0   400-0650   M      E220 HOWE RUSSELL E                   DRISKELL L
 (F)    28  GEOG 4046         1  WEB GIS                3.0  1030-1150    T TH  0260 HOWE RUSSELL E                   DRISKELL L
 (F)    28  GEOG 4047         1  GEOG INFORMAT SYSTMS   3.0  1030-1120   M W F  0260 HOWE RUSSELL E                   MENG X

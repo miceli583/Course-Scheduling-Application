@@ -9,8 +9,11 @@
  14     1  RNR  2061 SEM     4  PRB NAT RESOURCE MGT   1-4  TBA                                                      CHAMBERS J
  11     4  RNR  2061 SEM     5  PRB NAT RESOURCE MGT   1-4  TBA                                                      NYMAN J
 (F)    16  RNR  3004         2  FOR PHOTOGRAM, GPS,    3.0   140-0330    T     0214 RENEWABLE NAT R                  WOLCOTT M
+                     LAB                                     340-0630    T     0214 RENEWABLE NAT R                  WOLCOTT M
   1    19  RNR  3004         1  FOR PHOTOGRAM, GPS,    3.0   140-0330      TH  0214 RENEWABLE NAT R                  WOLCOTT M
+                     LAB                                     340-0630      TH  0214 RENEWABLE NAT R                  WOLCOTT M
 (F)    27  RNR  3018         1  ECOL & MGT LA WILDL    4.0  1240-0130     W F  0206 RENEWABLE NAT R                  CHAMBERLAIN M
+                     LAB                                     140-0430     W F  0206 RENEWABLE NAT R                  CHAMBERLAIN M
  30    10  RNR  3034 CLI     1  FLD STUD IN DENDROLO   1.0  TBA                                                      CHAMBERS J
  30    10  RNR  3036 CLI     1  FLD STUD IN MENSURAT   2.0  TBA                                                      CAO Q
  30    10  RNR  3037 CLI     1  FLD STUD IN SILVICUL   1.0  TBA                                                      DEAN T
@@ -31,8 +34,10 @@
   9     1  RNR  4061 RES    25  PROB NAT RES MGT       1-4  TBA                                                      TAYLOR S
   9     1  RNR  4061 RES    28  PROB NAT RES MGT       1-4  TBA                                                      WU Q
  10    30  RNR  4101         1  INT NAT RES MGT/POL    4.0  1140-1230     W F  0230 RENEWABLE NAT R CI-WRITTEN&SPOK  KEIM R
+                     LAB                                    1140-0330   M      0230 RENEWABLE NAT R                  KEIM R
 (F)    41  RNR  4103         1  CONSERVATION GENETIC   3.0  1140-0100    T TH  0230 RENEWABLE NAT R                  TAYLOR S
   6    14  RNR  4900         1  WATERSHED HYDROLOGY    3.0   140-0300     W    0230 RENEWABLE NAT R                  XU Y
+                     LAB                                     310-0430     W    0214 RENEWABLE NAT R                  XU Y
   8     7  RNR  7020         1  ECOLOGY OF FISHES      3.0  TBA                                                      KELSO W
  11     9  RNR  7029 SEM     1  ENERGY FROM GREEN SO   1-4   240-0530   M      0142 RENEWABLE NAT R                  DE HOOP C
   1     9  RNR  7029 SEM     2  FLOOD PLAIN ECOLOGY    1-4  TBA                                                      KEIM R
@@ -88,5 +93,8 @@
   3    12  RNR  3103         1  FOREST BIOMETRICS      2.0   840-1030     W F  0141 RENEWABLE NAT R                  CAO Q
  19    11  RNR  3105         1  FOREST BIOLOGY         2.0  1040-1230   M   F  0141 RENEWABLE NAT R                  CHAMBERS J
 (F)    13  RNR  3106         1  TIMBER HARVESTING      2.0   910-1100    T     0141 RENEWABLE NAT R                  DE HOOP C
+                     LAB                                    1210-0430    T     0141 RENEWABLE NAT R                  DE HOOP C
 (F)    10  RNR  3107         1  WOOD PROCUREMENT       2.0   910-1100      TH  0141 RENEWABLE NAT R                  DE HOOP C
+                     LAB                                    1210-0430      TH  0141 RENEWABLE NAT R                  DE HOOP C
 (F)    13  RNR  4032         1  FOR FIRE PROTECT USE   2.0  1040-1230     W    0141 RENEWABLE NAT R                  SHILLING C
+                     LAB                                    1240-0430     W    0141 RENEWABLE NAT R                  SHILLING C

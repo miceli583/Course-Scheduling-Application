@@ -6,13 +6,17 @@
 (F)    26  TAM  2041 LAB     2  TEXTILE SCIENCE LAB    1.0   130-0420       F  0251 HUMAN ECOLOGY                    HASAN M
 (F)    57  TAM  2042         1  FASHION TRENDS         3.0   900-1020    T TH  0120 TUREAUD HALL                     SAPP D
 (F)    19  TAM  3022         1  APPAREL QUALITY ANAL   3.0   130-0220   M      0247 HUMAN ECOLOGY                    CAMERON B
+                     LAB                                     230-0620   M      0247 HUMAN ECOLOGY                    CAMERON B
 (F)    22  TAM  3022         2  APPAREL QUALITY ANAL   3.0   130-0220     W    0247 HUMAN ECOLOGY                    CAMERON B
+                     LAB                                     230-0620     W    0247 HUMAN ECOLOGY                    CAMERON B
   5    13  TAM  3037 LAB     1  INTERMED APPAREL PRO   3.0   900-1150    T TH  0244 HUMAN ECOLOGY                    XIA S
  27    28  TAM  3042         1  APP MDS BUY & MGT      3.0   830-0920   M W F  0211 TUREAUD HALL                     LANG C
  34    41  TAM  3045         1  VIS MERCHAND & PROMO   3.0   300-0420    T TH  0206 TUREAUD HALL                     WELKER D
  12     8  TAM  4034         1  TEXTILE & APPAREL PR   3.0   900-0950    T TH  0251 HUMAN ECOLOGY                    NEGULESCU I
+                     LAB                                    1000-1150    T     0251 HUMAN ECOLOGY                    NEGULESCU I
 (F)    13  TAM  4037 LAB     1  ADV APPAREL PRODUCT    3.0   100-0350    T TH  0244 HUMAN ECOLOGY                    STANNARD C
   7    13  TAM  4043         1  ADVANCED TEXTILES      3.0  1200-1250    T TH  0251 HUMAN ECOLOGY                    NEGULESCU I
+                     LAB                                     100-0250    T     0251 HUMAN ECOLOGY                    NEGULESCU I
  18    42  TAM  4044         1  TEXTILE & APPAREL EC   3.0   930-1020   M W F  0211 TUREAUD HALL                     LANG C
  30    25  TAM  4046         2  ADV TOP APPAREL MERC   3.0   230-0350     W F  0109 TUREAUD HALL                     LIU C
 (F)    45  TAM  4072         1  DRESS/ADRNMENT AFTER   3.0  1230-0120   M W F  0102 TUREAUD HALL                     WELKER D

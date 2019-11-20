@@ -19,13 +19,20 @@
 (F)    25  CE   3410 LAB     2  MECHNCS OF MATLS LAB   1.0   330-0620      TH  0108 TUREAUD HALL                     SAFFARINI M
  10    80  CE   3415         1  STRUCTRL ANALYSIS I    3.0   130-0250    T TH  0206 TUREAUD HALL                     SUN C
  12    18  CE   3500         1  PLANE SURV & MEASURE   3.0  1100-1150    T TH  1221 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     130-0420   M                                            MUGNIER C
   3    27  CE   3500         2  PLANE SURV & MEASURE   3.0  1100-1150    T TH  1221 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     130-0420    T                                           MUGNIER C
   2    28  CE   3500         3  PLANE SURV & MEASURE   3.0  1100-1150    T TH  1221 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     300-0550      TH                                        MUGNIER C
  35    65  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1030-1150    T TH  0241 HIMES                            WOLSHON P
   1    24  CE   3700         1  ENGINEERING MAT LAB    1.0   430-0520N  M      1200 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                     530-0720N  M                                            COOPER S
   8    13  CE   3700         2  ENGINEERING MAT LAB    1.0   430-0520N  M      1200 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                     530-0720N   T                                           COOPER S
  14     7  CE   3700         3  ENGINEERING MAT LAB    1.0   430-0520N  M      1200 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                     530-0720N    W                                          COOPER S
   3    18  CE   3700         4  ENGINEERING MAT LAB    1.0   430-0520N  M      1200 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                     530-0720N     TH                                        COOPER S
   7   186  CE   4200         1  HYDROLOGY              3.0   900-1020    T TH  0005 LOCKETT                          TSAI F
   3    57  CE   4300         1  GEOTECHNICAL ENGR II   3.0   300-0420   M W    0102 TUREAUD HALL                     LIN H
  34    16  CE   4320         1  COASTAL ENGINEERING    3.0   130-0250    T TH  1236 PATRICK TAYLOR                   OZDEMIR C
@@ -35,16 +42,21 @@
  19    31  CE   4435         1  INDETERM STRUCT ANAL   3.0   500-0620N  M W    2113 PATRICK TAYLOR  CI-SPOKEN&TECH   ALY A
   3    22  CE   4440         1  ADV MCHNCS OF MATRLS   3.0   130-0250    T TH  2113 PATRICK TAYLOR                   MOORTHY S
  17    33  CE   4500         1  GEODETIC PHOTO SUR     3.0   500-0650N  M      1240 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     700-0950N  M                                            MUGNIER C
  30    20  CE   4520         1  ADVANCED SURVEYING     3.0   500-0650N   T     1236 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     700-0950N   T                                           MUGNIER C
   3    57  CE   4670         1  FUND OF PAVEMENT DES   3.0  1030-1150    T TH  1240 PATRICK TAYLOR                   ELSEIFI M
   5   115  CE   4750         1  PRF ISS CONC DESN CE   2.0   830-1020   M      1200 PATRICK TAYLOR                   WILLIAMS M
+                     LAB                                     830-1020     W    1200 PATRICK TAYLOR                   WILLIAMS M
  29    31  CE   4760         1  CIVIL ENGR DESIGN      3.0   300-0450    T                                           CRAIN J
+                     LAB                                     300-0550      TH                                        CRAIN J
  21     9  CE   4780         1  COASTAL GEOTECHNICS    3.0   300-0420   M W    1236 PATRICK TAYLOR                   JAFARI N
   6     9  CE   7135         1  ADV TOP BIODEGRAD      3.0   900-1020    T TH  1216 PATRICK TAYLOR                   MOE W
  13     7  CE   7200         1  TIDES AND SURGES       3.0  1030-1150    T TH  1108 PATRICK TAYLOR                   HAGEN S
  15     5  CE   7275         1  MOD GROUNDWATER MGMT   3.0  1030-1150    T TH  0127 TUREAUD HALL                     TSAI F
  13     7  CE   7310         1  ADV GEOTECHN ENGR II   3.0   900-1020   M W    1216 PATRICK TAYLOR                   JAFARI N
  15     5  CE   7340         1  TH/PR GEOTEC LAB EXP   3.0   100-0250    T     0204 WOODIN HALL                      ABU-FARSAKH M
+                     LAB                                     100-0250      TH  0204 WOODIN HALL                      ABU-FARSAKH M
 (F)    21  CE   7405         1  STATIC INDET STRCTS    3.0   900-1020    T TH                                        OKEIL A
  14     6  CE   7430         1  STRUC DES DYN LOADS    3.0  1030-1150    T TH  0225 TUREAUD HALL                     SUN C
  15     5  CE   7475         1  SOLID MECHANICS        3.0   900-1020   M W    0225 TUREAUD HALL                     VOYIADJIS G

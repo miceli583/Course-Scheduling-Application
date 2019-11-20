@@ -3,7 +3,9 @@
   7    11  ART  1009 LAB     1  INTR THREE-DIM COMP    3.0   830-1120   M W    0226 STUDIO ARTS BLD                  SIEVERS B
 (F)    18  ART  1010 LAB     1  INTRO TO DRAWING       3.0   830-1120   M W    0107 FOSTER                           NICOLL T
 (F)    23  ART  1011         2  2-DIMENSIONAL DESIGN   3.0   330-0420   M W    0334 ART BUILDING    MAJORS ONLY      ANDRESEN S
+                     LAB                                     430-0620N  M W                                          ANDRESEN S
 (F)    20  ART  1011         1  2-DIMENSIONAL DESIGN   3.0   300-0350    T TH  0334 ART BUILDING    MAJORS ONLY      TIPTON R
+                     LAB                                     400-0550    T TH  0334 ART BUILDING                     TIPTON R
   1    14  ART  1012 LAB     3  3-DIMENSIONAL DESN     3.0   630-0920N  M W    0226 STUDIO ARTS BLD                  COOPER A
   1    14  ART  1012 LAB     1  3-DIMENSIONAL DESN     3.0   900-1150    T TH  0128 STUDIO ARTS BLD                  CREEK C
 (F)    17  ART  1012 LAB     2  3-DIMENSIONAL DESN     3.0  1200-0250    T TH  0128 STUDIO ARTS BLD                  SCHWERD L
@@ -25,13 +27,18 @@
 (F)    15  ART  1849 LAB     1  INTRO TO PAINTING      3.0   300-0550    T TH  0203 FOSTER                           AKTER T
 (F)    15  ART  1849 LAB     3  INTRO TO PAINTING      3.0   300-0550    T TH  0227 FOSTER                           BERG A
 (F)    20  ART  2050         2  DIGITAL ART I          3.0   330-0420   M W    0111 ART BUILDING    MAJORS ONLY      MARSE C
+                     LAB                                     430-0620N  M W    0111 ART BUILDING                     MARSE C
 (F)    22  ART  2050         3  DIGITAL ART I          3.0  1200-1250    T TH  0108 ART BUILDING    CI-VISUAL&TECH   NAM H
+                     LAB                                     100-0250    T TH  0108 ART BUILDING                     NAM H
 (F)    21  ART  2050         1  DIGITAL ART I          3.0   300-0350    T TH  0111 ART BUILDING    MAJORS ONLY      RESTREPO PERE
+                     LAB                                     400-0550    T TH  0111 ART BUILDING                     RESTREPO PERE
   2    18  ART  2050         4  DIGITAL ART I          3.0   600-0650N   T TH  0108 ART BUILDING    MAJORS ONLY      KORANI T
+                     LAB                                     700-0850    T TH  0108 ART BUILDING                     KORANI T
 (F)    24  ART  2230 LAB     1  VIRTUAL SPACE          3.0   830-1120   M W    0330 ART BUILDING    PERMIS OF INST   FERGUSON S
   7     8  ART  2360 LAB     1  INTERMED PRINTMAKING   3.0   900-1150    T TH  B028 FOSTER          MAJORS ONLY      WALL M
   1     4  ART  2392 LAB     1  DIGITAL PRINTMAKING    3.0   900-1150    T TH  B028 FOSTER          MAJORS ONLY      WALL M
   5    13  ART  2551         1  TYPOGRAPHY-VIS.COMM.   3.0   830-0920   M W    0111 ART BUILDING    PERMIS OF INST   DEAN P
+                     LAB                                     930-1120   M W                                          DEAN P
 (F)    21  ART  2552 LAB     1  COLOR DESIGN           3.0  1230-0320   M W    0319 ART BUILDING    PERMIS OF INST   DEAN P
 (F)    19  ART  2552 LAB     2  COLOR DESIGN           3.0  1200-0250    T TH  0319 ART BUILDING    PERMIS OF INST   DEAN P
 (F)    20  ART  2554 LAB     2  INTRO GRAPHIC DESIGN   3.0  1230-0320   M W    0208 ART BUILDING    PERMIS OF INST   BAGGETT L
@@ -60,6 +67,7 @@
 (H)        ART  4030 LAB     1  IND STUDY STUDIO ART   3.0  TBA                                     PERMIS OF INST
 (H)        ART  4030 LAB     2  IND STUDY STUDIO ART   3.0  TBA                                     PERMIS OF INST
   8    12  ART  4059         2  DIGITAL MEDIA CAP      3.0   200-0350   M      0330 ART BUILDING    PERMIS OF INST   NAM H
+                     LAB                                    TBA                                                      NAM H
   8     7  ART  4080 LAB     1  PERFORMANCE ART        3.0   330-0620   M W    0107 FOSTER          MAJORS ONLY      KELLEY K
 (F)    22  ART  4220 LAB     1  ADV MOVING IMAGE       3.0   900-1150    T TH  0330 ART BUILDING    PERMIS OF INST   OSTRENKO F
 (F)    11  ART  4240 LAB     1  VIDEO GAME DESIGN      3.0   300-0550       F  0132 PRESCOTT        PERMIS OF INST   CHERRY K

@@ -6,6 +6,7 @@
  16   114  CE   2450         3  STATICS                3.0  1140-1230   M W F  0010 LOCKETT                          JACOBS C
  13    87  CE   2460         1  DYNAMICS & VIBRATION   3.0   840-0930   M W F  0204 TUREAUD HALL                     MOORTHY S
  25    75  CE   2700         3  INT CIVIL ENGR PR      2.0   140-0330       F  1119 PATRICK TAYLOR                   AMOROSO S
+                     LAB                                    TBA                                                      AMOROSO S
   8    72  CE   2720         2  COMPUTNL METH  CE I    3.0   540-0700N  M W    0105 TUREAUD HALL                     ELSEIFI M
 (F)    28  CE   3300         1  GEOTECHNICAL ENGR I    3.0   840-0930   M W F  1111 PATRICK TAYLOR                   ABU-FARSAKH M
 (F)    14  CE   3350 LAB     4  GEOTECH ENGR LAB I     1.0   140-0430   M                                            AUTIN Z
@@ -16,7 +17,9 @@
   8    12  CE   3410 LAB     2  MECHNCS OF MATLS LAB   1.0   240-0530     W    2149 PATRICK TAYLOR                   HOSSAIN T
  11    39  CE   3415         1  STRUCTRL ANALYSIS I    3.0   910-1030    T TH  2171 PATRICK TAYLOR                   BARBATO M
 (F)    25  CE   3500         1  PLANE SURV & MEASURE   3.0  1140-1230   M W    2170 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     240-0530   M      2170 PATRICK TAYLOR                   MUGNIER C
 (F)    25  CE   3500         2  PLANE SURV & MEASURE   3.0  1140-1230   M W    2170 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     240-0530     W    2170 PATRICK TAYLOR                   MUGNIER C
  12    38  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1040-1200    T TH  2412 PATRICK TAYLOR                   ISHAK S
 (F)    20  CE   3700 LAB     1  ENGINEERING MAT LAB    1.0   240-0530     W    2148 PATRICK TAYLOR                   MOHAMMAD L
 (F)    20  CE   3700 LAB     2  ENGINEERING MAT LAB    1.0   140-0430      TH  2148 PATRICK TAYLOR                   MOHAMMAD L
@@ -29,11 +32,16 @@
   7    23  CE   4430         1  STRUCTURAL ENGR        3.0   310-0600    T TH  2412 PATRICK TAYLOR                   REBELLO K
  44    16  CE   4445         2  HURRICANE ENGINEER     3.0   140-0300    T TH  2412 PATRICK TAYLOR                   LEVITAN M
   6    34  CE   4500         1  GEODETIC PHOTO SUR     3.0   510-0700N  M      1116 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     710-1000N  M      1116 PATRICK TAYLOR                   MUGNIER C
   6    34  CE   4520         1  ADVANCED SURVEYING     3.0   510-0700N   T     2148 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     710-1000N   T     2148 PATRICK TAYLOR                   MUGNIER C
  32    18  CE   4600         1  GEOM DESN HWY/AIRPRT   3.0   840-0930   M W F  1114 PATRICK TAYLOR                   WOLSHON P
+                     LAB                                     840-1130     W    1112 PATRICK TAYLOR                   WOLSHON P
  12    28  CE   4670         1  FUND OF PAVEMENT DES   3.0   740-0900    T TH  2228 PATRICK TAYLOR                   SHIN H
   5    50  CE   4750         1  PRF ISS CONC DESN CE   2.0   940-1130   M      2412 PATRICK TAYLOR  CI-WRITTEN&SPOK  WILLIAMS M
+                     LAB                                     310-0500     W    2412 PATRICK TAYLOR                   WILLIAMS M
  25    11  CE   4760         1  CIVIL ENGR DESIGN      3.0   310-0500   M      3141 PATRICK TAYLOR                   CRAIN J
+                     LAB                                     310-0600     W    3141 PATRICK TAYLOR                   CRAIN J
 (F)     1  CE   4780         1  SPEC TOP CE SCIENCE    3.0  TBA                                                      CAI C
 (F)    15  CE   7110         1  OPR/PRO SANI ENGR II   3.0   940-1030   M W F  0226 TUREAUD HALL                     ADRIAN D
   2    13  CE   7145         1  BIO TREAT REC SYS AQ   3.0   310-0430    T TH  0220 TUREAUD HALL                     MALONE R

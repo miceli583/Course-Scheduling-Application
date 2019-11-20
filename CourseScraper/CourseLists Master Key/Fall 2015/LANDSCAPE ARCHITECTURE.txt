@@ -7,11 +7,15 @@
   7    16  LA   2201         1  LANDSCAPE HISTORY I    3.0   830-0920   M W F  0201 DESIGN BUILDING                  RISK J
 (F)    15  LA   3001 LAB     1  LANDSCAPE DESN III     6.0   130-0520   M W F  0304 DESIGN BUILDING                  LIPSCHITZ F
 (F)    15  LA   3301         1  LAND ARCH TECH II      3.0   130-0220    T TH  0304 DESIGN BUILDING                  SHARKY B
+                     LAB                                     230-0420    T TH  0304 DESIGN BUILDING                  SHARKY B
   7    15  LA   3401         1  PLANT MATERIALS I      3.0   900-0950    T TH  0308 DESIGN BUILDING                  FRYLING C
+                     LAB                                    1000-1150    T TH  0308 DESIGN BUILDING                  FRYLING C
 (F)    17  LA   4001 LAB     1  LANDSCAPE DESIGN V     6.0   130-0520   M W F  0316 DESIGN BUILDING                  BOYER M
   3    11  LA   4008 LAB     1  ADV TOPICS STUDIO      6.0   130-0520   M W F  0324 DESIGN BUILDING                  SHARKY B
 (F)    19  LA   4201         2  PLAN THEORY & MTHDS    3.0   900-1020   M W    0301 DESIGN BUILDING CI-WRITTEN&TECH  LIPSCHITZ F
+                     LAB                                     900-1020   M W    0301 DESIGN BUILDING                  LIPSCHITZ F
  19    17  LA   4301         2  LANDSCAPE TECH IV      3.0   130-0250    T TH  0316 DESIGN BUILDING                  BOYER M
+                     LAB                                     300-0350    T TH  0316 DESIGN BUILDING                  BOYER M
 (F)     5  LA   4502 RES     1  IND STUDY IN L A       3.0  TBA                                                      BOYER M
 (F)     3  LA   4502 RES     2  IND STUDY IN L A       3.0  TBA                                                      ALLEN A
 (F)     1  LA   4502 RES     3  IND STUDY IN L A       3.0  TBA                                                      MOSSOP E

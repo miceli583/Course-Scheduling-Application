@@ -1,8 +1,12 @@
  18    12  HORT 2020         1  INST/MAIN ORN LANDSC   2.0   130-0220      TH  0119 J C MILLER                       MIRABELLO R
+                     LAB                                     230-0420      TH  0119 J C MILLER                       MIRABELLO R
 (F)    60  HORT 2050         1  GEN HORTICULTURE       3.0   900-1020    T TH  0132 J C MILLER                       MIRABELLO R
   7    13  HORT 2086         1  INTR TURFGRASS MGMT    3.0   800-0920   M W    0132 J C MILLER                       BEASLEY J
+                     LAB                                     200-0450   M      0232 J C MILLER                       BEASLEY J
  19    11  HORT 2120         1  WOODY PLANTS I         3.0   800-0850    T TH  0132 J C MILLER                       MIRABELLO R
+                     LAB                                     930-1220       F  0132 J C MILLER                       MIRABELLO R
  19    16  HORT 2525         1  ORGANIC GARDENING      4.0   300-0420   M W    0107 HORTICUL. TCHG  SVC LEARNING     MOTSENBOCKER
+                     LAB                                    1230-0250   M      0107 HORTICUL. TCHG                   MOTSENBOCKER
   6    14  HORT 3000 CLI     1  HORTICULTURAL INTERN   3.0  TBA                                                      LABONTE D
  22     8  HORT 3005         1  HORT APPLICATIONS      3.0   900-1020    T TH  0107 HORTICUL. TCHG                   BEASLEY J
  16     4  HORT 3010 RES     1  RESEARCH PROBLEMS      3.0  TBA                                                      MIRABELLO R
@@ -11,8 +15,10 @@
   8     2  HORT 3503 SEM     1  SUSTAINABLE HORT       3.0  TBA                                                      KUEHNY J
   9     1  HORT 4012         1  SPEC TOP IN HORT       1-3  TBA                                                      BEASLEY J
 (F)    11  HORT 4020         1  GREENHOUSE MNG         4.0  TBA                                                      KUEHNY J
+                     LAB                                    TBA                                                      KUEHNY J
   2     4  HORT 4060         1  PLANT DEVELOPMENT      3.0  TBA                                                      KUEHNY J
  15     5  HORT 4083         1  PRIN & PRAC OLERICUL   4.0   900-1020    T TH  0119 J C MILLER                       MOTSENBOCKER
+                     LAB                                    1230-0320    T     0107 HORTICUL. TCHG                   MOTSENBOCKER
  16     9  HORT 4099         1  HORT CAPSTONE          2.0  1230-0120   M W    0119 J C MILLER                       BUSH E
  24     1  HORT 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BUSH E
  24     1  HORT 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      LABONTE D

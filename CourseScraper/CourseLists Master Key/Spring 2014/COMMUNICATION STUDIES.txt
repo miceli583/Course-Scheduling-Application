@@ -16,6 +16,7 @@
 195    55  CMST 2010         3  INTERPERSNL COMMNCTN   3.0   900-1020    T TH  0143 COATES                           PRIDE-SHAW S
   2    43  CMST 2010         4  INTERPERSNL COMMNCTN   3.0  TBA                                     100% WEB BASED   PRIDE-SHAW S
 (F)    24  CMST 2012         1  INTRO TO FILM          4.0   130-0220   M W F  0237 COATES                           MICHALIK L
+                     LAB                                     600-0850N    W    0151 COATES                           MICHALIK L
   1    23  CMST 2040         1  INTR TO PERFORM LITR   3.0   830-0920   M W F  0137 COATES                           POLANCO R
   1    23  CMST 2040         2  INTR TO PERFORM LITR   3.0   930-1020   M W F  0137 COATES                           POLANCO R
 (F)    24  CMST 2040         3  INTR TO PERFORM LITR   3.0   900-1020    T TH  0137 COATES                           MCDONALD B
@@ -78,7 +79,9 @@
 (F)    26  CMST 2064         5  SM GROUP COMMUNICATI   3.0   130-0250    T TH  0203 WOODIN HALL                      HATCHER L
   4     6  CMST 2200 CLI     2  PRACT COMM STUDIES     1.0  TBA                                     PERMIS OF DEPT   MCDONALD C
 (F)    60  CMST 3012         1  HISTORY OF FILM        4.0  1200-0120    T TH  0132 PRESCOTT                         SUCHY P
+                     LAB                                     600-0850N   T     0132 PRESCOTT                         COSTANTINI N
 (F)    24  CMST 3013         1  TOPICS FILM GENRES     4.0   300-0420    T TH  0111 COATES                           LEBRET J
+                     LAB                                     600-0850N     TH  0151 COATES                           LEBRET J
 (F)    20  CMST 3040         1  PERFORMANCE COMPOSIT   3.0  1030-1150    T TH  0137 COATES                           LEBRET J
 (F)    31  CMST 3041         1  PERF IN EVERYDAY LIF   3.0  1230-0120   M W F  0248 WOODIN HALL                      GRATCH A
 (F)    22  CMST 3060         1  ADV PUBLIC SPEAKING    3.0  1030-1150    T TH  0237 COATES                           JONES-BODIE A

@@ -1,5 +1,6 @@
  11     7  ART  1551 LAB     1  BASIC DESIGN           3.0  0900-1200   MTWTH  0211 ART BUILDING                     BOWER G
  20        ART  2050         1  DIGITAL ART I          3.0  1200-0100   MTWTH                       CI-VISUAL&TECH   RESTREPO PERE
+                     LAB                                     100-0300   MTWTH                                        RESTREPO PERE
  15        ART  4020 LAB     2  SPEC TOP STUDIO        3.0   100-0400   MTWTH
 (F)     5  ART  4020 LAB     1  SPEC TOP STUDIO        3.0  TBA                                                      PARKER R
  17     1  ART  4574 CLI     1  GRAPH DSN SYNTHESIS    3.0  0900-1200   MTWTH                                        BOWER G
@@ -8,6 +9,7 @@
   1        ART  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      NAM H
  99        ART  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      OSTRENKO F
   6    14  ART  2050         2  DIGITAL ART I          3.0  1200-0100   MTWTF                       CI-VISUAL&TECH   RESTREPO PERE
+                     LAB                                     100-0300   MTWTF                                        RESTREPO PERE
   7     8  ART  2220 LAB     1  MOVING IMAGE           3.0  0900-1200   MTWTF  0330 ART BUILDING                     OSTRENKO F
   8     4  ART  2995 LAB     1  BASIC PHOTOGRAPHY      3.0  0900-1200   MTWTF  0229 ART BUILDING                     THOMPSON K
   9     1  ART  4280 CLI     1  DIGITAL ART PRACTICU   3.0  TBA                                                      OSTRENKO F

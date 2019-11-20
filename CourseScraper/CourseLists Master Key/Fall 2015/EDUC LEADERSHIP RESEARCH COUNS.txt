@@ -11,9 +11,13 @@
  11    11  ELRC 4507         1  COMPUTER TECH EDUC     3.0   430-0720N   T     0118 PEABODY                          HEROMAN D
   1    19  ELRC 4602         1  INTRO TO COUNSELING    3.0   430-0720N  M      0120 PEABODY                          CHOATE L
   2    13  ELRC 7006         1  EDUC STATISTICS        4.0   430-0720N   T     0121 ALLEN           75-99% WEB BASE  KENNEDY E
+                     LAB                                    TBA                                                      KENNEDY E
   6     9  ELRC 7006         2  EDUC STATISTICS        4.0   430-0720N   T     0121 ALLEN           75-99% WEB BASE  KENNEDY E
+                     LAB                                    TBA                                                      KENNEDY E
  18     7  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   430-0720N    W    0129 ALLEN           75-99% WEB BASE  KENNEDY E
+                     LAB                                    TBA                                                      KENNEDY E
   1    11  ELRC 7243         1  QUAL METH EDUC RESCH   4.0   430-0720N   T     0214 PEABODY                          MACGREGOR S
+                     LAB                                    TBA                                                      MACGREGOR S
  49     1  ELRC 7249 CLI     1  ADV RES PRACTICUM      3.0  TBA                                     PERMIS OF INST   KENNEDY E
   8     2  ELRC 7249 CLI     2  ADV RES PRACTICUM      3.0  TBA                                                      MACGREGOR S
   5     5  ELRC 7270         1  MIXED MTHDS RES EDUC   3.0   430-0720N     TH  0214 PEABODY                          MACGREGOR S
@@ -22,6 +26,7 @@
   2    18  ELRC 7391         1  COUN ACROSS LIFESPAN   3.0   430-0720N   T     0120 PEABODY                          EBERTS S
 (F)    23  ELRC 7393         1  MULTICULT COUNSLNG     3.0   430-0720N     TH  0120 PEABODY                          CSASZAR I
   8    12  ELRC 7397         1  SUBSTANCE ABUSE        3.0   430-0720N   T     0218 PEABODY                          GINTNER G
+                     LAB                                    TBA                                                      GINTNER G
 (F)    33  ELRC 7601         1  FOUND HIGHER EDUC      3.0   430-0720N    W    0109 COATES                           MITCHELL R
 (F)    15  ELRC 7602         3  ORG/ADMIN HIGHER ED    3.0   430-0720N   T     0132 ALLEN                            ALSANDOR D
   1     9  ELRC 7603 SEM     1  LEADERSHIP IN HE       3.0   430-0720N     TH  0218 PEABODY                          OWENS A

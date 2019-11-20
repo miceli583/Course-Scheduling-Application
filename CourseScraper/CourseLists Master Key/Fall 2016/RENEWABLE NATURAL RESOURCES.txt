@@ -5,7 +5,9 @@
 (F)    48  RNR  1010         1  INTRO NAT RES ECOL     4.0  1030-1120   M W F  0142 RENEWABLE NAT R                  KELSO W
   9     6  RNR  1071         1  HON INT NAT RES ECO    4.0  1030-1120   M W F  0142 RENEWABLE NAT R                  KELSO W
 (F)    12  RNR  2001         1  TREES & WDY PLANTS S   2.0  1230-0120    T     0206 RENEWABLE NAT R                  HUGHES M
+                     LAB                                     130-0520    T     0206 RENEWABLE NAT R                  HUGHES M
 (F)    12  RNR  2001         2  TREES & WDY PLANTS S   2.0  1230-0120      TH  0206 RENEWABLE NAT R                  HUGHES M
+                     LAB                                     130-0420      TH  0206 RENEWABLE NAT R                  HUGHES M
   3    32  RNR  2031         1  PRINC WILDLIFE MGT     3.0   800-0850   M W F  0141 RENEWABLE NAT R                  RINGELMAN K
 (F)    47  RNR  2039         1  INT RNR RESRC PLCY     3.0   930-1020   M W F  0142 RENEWABLE NAT R                  LABORDE L
   3    12  RNR  2061 SEM     2  SAND COUNTY ALMANAC    1-4  1230-0120     W                                          LABORDE L
@@ -16,13 +18,19 @@
   9     1  RNR  2072         1  HNRS PRINC WILDLIFE    4.0   800-0850   M W F  0141 RENEWABLE NAT R                  RINGELMAN K
 (F)    35  RNR  2101         1  ECOL RENEW NAT RES     3.0   800-0850   M W F  0142 RENEWABLE NAT R                  STOUFFER P
 (F)    27  RNR  2102         1  NAT RES MEASUR & GIS   3.0   830-0920    T TH  0141 RENEWABLE NAT R                  CAO Q
+                     LAB                                     130-0420   M      0141 RENEWABLE NAT R                  CAO Q
 (F)    25  RNR  2102         2  NAT RES MEASUR & GIS   3.0   830-0920    T TH  0141 RENEWABLE NAT R                  CAO Q
+                     LAB                                     130-0420       F  0141 RENEWABLE NAT R                  CAO Q
   1    34  RNR  3002         1  SILVICULTURE           2.0  1030-1220    T     0230 RENEWABLE NAT R C-I TECH         DEAN T
 (F)    20  RNR  3004         1  FOR PHOTOGRAM, GPS,    3.0   900-0950    T TH  0214 RENEWABLE NAT R                  WOLCOTT M
+                     LAB                                     130-0420       F  0214 RENEWABLE NAT R                  WOLCOTT M
  10     5  RNR  3106         1  TIMBER HARVESTING      2.0  1230-0120      TH  0225 RENEWABLE NAT R                  DE HOOP C
+                     LAB                                     130-0420      TH  0225 RENEWABLE NAT R                  DE HOOP C
  10    10  RNR  4001 LAB     1  SILVICULTURE LAB       1.0   130-0420     W    0206 RENEWABLE NAT R CI-VISUAL        DEAN T
 (F)    30  RNR  4011         1  WILD MGT TECHNIQUES    4.0   700-0820   M W    0206 RENEWABLE NAT R CI-WRITTEN&VISU  COLLIER B
+                     LAB                                     130-0520   M      0206 RENEWABLE NAT R                  COLLIER B
   4    26  RNR  4013         1  ECOL/MGT WETLND WILD   4.0  1230-0120   M W F  0230 RENEWABLE NAT R                  KING S
+                     LAB                                     130-0520       F  0230 RENEWABLE NAT R                  KING S
 (F)    44  RNR  4040         1  FISHERIES MANAGEMENT   3.0   830-0920   M W F  0230 RENEWABLE NAT R                  KELSO W
 (F)     1  RNR  4061 SEM     1  SPEC PROB NAT RES      1-4  TBA                                                      KALLER M
   9     1  RNR  4061 SEM     2  SPEC PROB NAT RES      1-4  TBA                                                      LABORDE L
@@ -31,13 +39,18 @@
  13     2  RNR  4062 SEM     1  SAND COUNTY ALMANAC    1-4  1230-0120     W                                          LABORDE L
 (F)     5  RNR  4063 CLI     1  INTERNSHIP NAT RES     1-4  TBA                                                      KALLER M
  10    15  RNR  4101         1  NAT RES MGT/POL/HDIM   4.0  1030-1120   M W F  0141 RENEWABLE NAT R CI-WRITTEN&SPOK  ERRERA R
+                     LAB                                     130-0550     W    0141 RENEWABLE NAT R                  ERRERA R
 (F)    20  RNR  4107         1  HUM DIM NAT RES        3.0   930-1020   M W F  0230 RENEWABLE NAT R CI-VISUAL&TECH   KALLER M
 (F)    31  RNR  4107         2  HUM DIM NAT RES        3.0   930-1020   M W F  0230 RENEWABLE NAT R CI-VISUAL&TECH   KALLER M
 (F)    16  RNR  4145         1  ICHTHYOLOGY            4.0  1230-0120   M W    0142 RENEWABLE NAT R                  GREEN C
+                     LAB                                     130-0720   M      0207 RENEWABLE NAT R                  GREEN C
 (F)    15  RNR  4145         2  ICHTHYOLOGY            4.0  1230-0120   M W    0142 RENEWABLE NAT R                  GREEN C
+                     LAB                                     130-0720     W    0207 RENEWABLE NAT R                  GREEN C
   9    11  RNR  4150         1  FOREST HYDROL SOILS    3.0  1030-1120    T TH  0142 RENEWABLE NAT R                  KEIM R
+                     LAB                                     130-0420    T     0142 RENEWABLE NAT R                  KEIM R
   1    15  RNR  7001         1  RESEARCH METHODOLOGY   3.0  1030-1120   M W F  0230 RENEWABLE NAT R                  KEIM R
   4     8  RNR  7013         1  WILDLIFE POPUL DYN     3.0  1030-1120   M W    0214 RENEWABLE NAT R                  COLLIER B
+                     LAB                                     800-1020     W    0214 RENEWABLE NAT R                  COLLIER B
  12     3  RNR  7029 SEM     1  ADV TOP RENEW NT RES   1-4  TBA                                                      WU Q
   4     2  RNR  7029 SEM     3  ADV TOP RENEW NT RES   1-4  TBA                                                      TIERSCH T
 (F)    12  RNR  7029 SEM     5  SCIENCE COMMUNICAT     1-4  TBA                                                      KING S

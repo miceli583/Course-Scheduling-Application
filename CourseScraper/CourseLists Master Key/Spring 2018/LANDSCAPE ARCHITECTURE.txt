@@ -8,8 +8,11 @@
 (F)    14  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0304 DESIGN BUILDING CI-WRITTEN&VISU  SHARKY B
 (F)    16  LA   3201         1  LANDSCAPE HISTORY II   3.0   830-0920   M W F  0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
  22    14  LA   3301         1  LAND ARCH TECH II      3.0   130-0220    T TH  0301 DESIGN BUILDING                  BOYER M
+                     LAB                                     230-0420    T TH  0301 DESIGN BUILDING                  BOYER M
   2    13  LA   3302         1  LANDSCAPE TECH III     3.0   900-0950    T TH  0301 DESIGN BUILDING                  SHARKY B
+                     LAB                                    1000-1150    T TH  0301 DESIGN BUILDING                  SHARKY B
 (F)    14  LA   3402         1  PLANT MATERIALS II     3.0   830-1120    T TH  0304 DESIGN BUILDING                  FRYLING C
+                     LAB                                     830-1120    T TH  0304 DESIGN BUILDING                  FRYLING C
 (F)     9  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      CONRAD M
  22     3  LA   4501 RES     1  FIELD STUDIES IN L A   3.0   600-0850N  M      0313 DESIGN BUILDING                  CONRAD M
 (F)    15  LA   5002 LAB     1  LANDSCAPE DESN VIII    6.0   130-0520   M W F  0310 DESIGN BUILDING                  RISK J
@@ -25,6 +28,7 @@
 (F)     7  LA   7102 LAB     1  GRAD LANDSC REPR II    3.0   930-1120   M W F                                        HARMON B
 (F)    14  LA   7201 SEM     1  RESEARCH METHODS       3.0   300-0420    T TH  0308 DESIGN BUILDING                  DOUGLAS W
  14    11  LA   7501         1  GRAD LA FIELD STUDY    3.0   600-0650N  M                                            CONRAD M
+                     LAB                                     700-0850N  M W                                          CONRAD M
 (F)     1  LA   8000 RES     1  THESIS RESEARCH        1-12 TBA
 (F)     1  LA   8000 RES     2  THESIS RESEARCH        1-12 TBA
 (F)     1  LA   8000 RES     3  THESIS RESEARCH        1-12 TBA

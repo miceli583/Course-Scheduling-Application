@@ -1,18 +1,25 @@
   4    63  COMD 2050         1  INTR TO LANGUAGE       3.0   930-1020   M W F  0155 COATES                           MAZUMDAR B
   5    45  COMD 2050         2  INTR TO LANGUAGE       3.0   930-1020   M W F  0218 COATES                           PARKER L
 (F)    25  COMD 2051         1  MANUAL COMMUNICATION   4.0   300-0550    T     0026 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     130-0220     W    0026 HATCHER HALL                     JUMONVILLE W
   2    23  COMD 2051         2  MANUAL COMMUNICATION   4.0   300-0550    T     0026 HATCHER HALL                     JUMONVILLE W
+                     LAB                                     230-0320     W    0026 HATCHER HALL                     JUMONVILLE W
  12    44  COMD 2081         1  INTRO TO COMD          3.0  1200-0120    T TH  0209 COATES                           TYSON C
  39    45  COMD 2081         2  INTRO TO COMD          3.0  1200-0120    T TH  0155 COATES                           VANSANT M
  21    19  COMD 3057 SEM     1  RESEARCH METH COMD     3.0   900-1020    T TH  0001 HATCHER HALL                     DONOVAN N
 (F)    52  COMD 4150         1  PHONETICS              3.0  1200-0120    T TH  0026 HATCHER HALL                     GIBSON T
  21     9  COMD 4150         2  PHONETICS              3.0  1200-0120    T TH  0001 HATCHER HALL                     CHUNG H
  16    24  COMD 4153         1  ACOUSTICS SP HEARING   4.0  1030-1150    T TH  0132 PRESCOTT                         KIM Y
+                     LAB                                     330-0550   M      0026 HATCHER HALL                     THOMPSON A
   1    62  COMD 4250         1  ANAT PHYS SPCH & HEA   3.0   730-0850    T TH  0026 HATCHER HALL                     KIM Y
   1    28  COMD 4380         1  DVLPMNT SPKN LANG      4.0   130-0250    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     130-0220   M      0230EMIDDLETON                        VAUGHN L
 (F)    22  COMD 4380         2  DVLPMNT SPKN LANG      4.0   130-0250    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     130-0220   M      0171 COATES                           NAKKAWITA S
   1    28  COMD 4380         3  DVLPMNT SPKN LANG      4.0   300-0420    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     230-0320   M      0230EMIDDLETON                        VAUGHN L
  14    15  COMD 4380         4  DVLPMNT SPKN LANG      4.0   300-0420    T TH  0001 HATCHER HALL                     OETTING J
+                     LAB                                     230-0320   M      0171 COATES                           NAKKAWITA S
   2    38  COMD 4381         1  DISORDERS OF ARTIC     3.0   830-0920   M W F  0026 HATCHER HALL                     CHUNG H
   1    99  COMD 4590         1  ADTRY REHAB CHLD       3.0   730-0850    T TH  0139 ALLEN                            JUMONVILLE W
  48    32  COMD 4681 CLI     1  CLIN PREP/OBSERV       1.0   430-0620N    W    0026 HATCHER HALL                     PARR C

@@ -1,7 +1,10 @@
  99        PLHL 3900 RES     1  UG RES PLANT PATH      1-3  TBA
 (F)    21  PLHL 4000         1  GEN PLANT PATHOLOGY    3.0  1040-1200    T TH  0308 LIFE SCIENCES                    CLARK C
+                     LAB                                     140-0430      TH  0308 LIFE SCIENCES                    CLARK C
  16        PLHL 4018         2  FOREST INSECTS & DIS   4.0   740-0900    T TH                                        AIME M
+                     LAB                                    1040-1230       F                                        AIME M
 (F)     7  PLHL 4054         1  INTRO MYCOLOGY         4.0   940-1030   M W F  0308 LIFE SCIENCES                    BLACKWELL M
+                     LAB                                    1140-0330     W    0308 LIFE SCIENCES                    BLACKWELL M
  11     4  PLHL 7052 SEM     1  SEMINAR                1.0   340-0430     W                                          SCHNEIDER R
   6     4  PLHL 7082         1  SOILBRN PLNT PATHOGE   3.0  TBA                                                      SCHNEIDER R
  99        PLHL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      CLARK C

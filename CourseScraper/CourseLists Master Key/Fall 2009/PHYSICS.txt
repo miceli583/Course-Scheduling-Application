@@ -60,6 +60,7 @@
   5     7  PHYS 2207 LAB     2  INTRO MODRN PHYS LAB   1.0   310-0600      TH  0007 NICHOLSON       MAJORS ONLY      RUPNIK D
   8    17  PHYS 2231         1  ELEC & MAGNETISM       3.0  1210-0130    T TH  0118 NICHOLSON                        KUTTER T
   5    20  PHYS 2411         1  COMPUTATIONAL SCI I    3.0   140-0230   M W    0118 NICHOLSON                        LAUNEY K
+                     LAB                                     140-0330       F  0118 NICHOLSON                        LAUNEY K
 (H)     1  PHYS 4003 LAB     1  SCI TCH SEC SCH III    1.0   440-0530N  M      0205 PRESCOTT                         WISCHUSEN E
  14     6  PHYS 4112         1  INTERM MATH PHYSICS    3.0  1040-1200    T TH  0118 NICHOLSON                        DOWLING J
  10    10  PHYS 4123         1  INTERM MECHANICS       3.0  1140-1230   M W F  0118 NICHOLSON                        RAU A

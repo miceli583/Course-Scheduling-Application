@@ -1,44 +1,78 @@
   1    59  ME   2212         1  INTRO MECH ENGR DESN   2.0   300-0350    T     0140 ELAB            CI-WRITTEN&SPOK  PALARDY G
+                     LAB                                     300-0450      TH  0140 ELAB                             PALARDY G
  35    25  ME   2212         2  INTRO MECH ENGR DESN   2.0   300-0350    T     0140 ELAB            CI-WRITTEN&SPOK  PALARDY G
+                     LAB                                     500-0650N     TH  0140 ELAB                             PALARDY G
  43   137  ME   2334         1  THERMODYNAMICS         4.0   730-0820   MTWTF  0002 LOCKETT                          DEVIREDDY R
   1    49  ME   2543         2  SIM METHD FOR ME       3.0   230-0350   M W                                          GONTHIER K
   5    45  ME   2543         1  SIM METHD FOR ME       3.0   130-0250    T TH                                        GONTHIER K
 145    35  ME   2733         2  MATERIALS OF ENGR      3.0   430-0550N  M W    0005 LOCKETT                          WANG Y
   1   177  ME   2733         1  MATERIALS OF ENGR      3.0  1200-0120    T TH                                        LU F
  46   132  ME   3133         1  DYNAMICS               3.0   830-0920   M W F  0009 LOCKETT                          WAGGENSPACK W
+                     LAB                                     930-1020   M W F  0009 LOCKETT                          WAGGENSPACK W
  21    29  ME   3133         2  DYNAMICS               3.0   430-0520N  M W    1225 PATRICK TAYLOR                   WAGGENSPACK W
+                     LAB                                     530-0620N  M W    1225 PATRICK TAYLOR                   WAGGENSPACK W
   1    87  ME   3333         1  THERMODYNAMICS         3.0   230-0350   M W    1253 PATRICK TAYLOR                   WALKER E
  48    40  ME   3333         2  THERMODYNAMICS         3.0   430-0550N  M W    1253 PATRICK TAYLOR                   WALKER E
 (F)    18  ME   3603         1  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+                     LAB                                    1030-0120   M                                            WALKER E
 (F)    16  ME   3603         2  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+                     LAB                                    1030-0120    T
 (F)    18  ME   3603         3  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+                     LAB                                    1030-0120     W
 (F)    18  ME   3603         4  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+                     LAB                                    1030-0120      TH
 (F)    18  ME   3603         5  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+                     LAB                                    1030-0120       F
 (F)    18  ME   3603         6  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+                     LAB                                     130-0420   M
 (F)    18  ME   3603         7  FUND OF INSTRUMENTN    3.0   900-1020    T TH  1200 PATRICK TAYLOR                   WALKER E
+                     LAB                                     130-0420    T
 (F)    17  ME   3603         8  FUND OF INSTRUMENTN    3.0  1030-1150    T TH  1221 PATRICK TAYLOR                   WALKER E
+                     LAB                                     130-0420     W
 (F)    18  ME   3603         9  FUND OF INSTRUMENTN    3.0  1030-1150    T TH  1221 PATRICK TAYLOR                   WALKER E
+                     LAB                                     130-0420      TH
 (F)    18  ME   3603        10  FUND OF INSTRUMENTN    3.0  1030-1150    T TH  1221 PATRICK TAYLOR                   WALKER E
+                     LAB                                     130-0420       F
   9     3  ME   3613         1  HNRS:FUND OF INSTRM    3.0  TBA                                                      WALKER E
+                     LAB                                    TBA
 (F)     6  ME   3633         1  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     830-1020   M                                            SHELTON T
 (F)     6  ME   3633         2  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     830-1020    T                                           SHELTON T
 (F)     6  ME   3633         3  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     830-1020     W                                          SHELTON T
 (F)     6  ME   3633         4  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     830-1020      TH                                        SHELTON T
 (F)     5  ME   3633         5  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     830-1020       F                                        SHELTON T
 (F)     6  ME   3633         6  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                    1130-0120   M                                            SHELTON T
 (F)     6  ME   3633         7  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                    1130-0120    T                                           SHELTON T
 (F)     6  ME   3633         8  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                    1130-0120     W                                          SHELTON T
 (F)     6  ME   3633         9  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                    1130-0120      TH                                        SHELTON T
 (F)     6  ME   3633        10  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                    1130-0120       F                                        SHELTON T
 (F)     6  ME   3633        11  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     230-0420   M                                            SHELTON T
 (F)     5  ME   3633        12  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     230-0420    T                                           SHELTON T
 (F)     5  ME   3633        13  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     230-0420     W                                          SHELTON T
 (F)     6  ME   3633        14  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     230-0420      TH                                        SHELTON T
 (F)     6  ME   3633        15  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     230-0420       F                                        SHELTON T
 (F)     6  ME   3633        16  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     530-0720N  M                                            SHELTON T
 (F)     5  ME   3633        17  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     530-0720N   T                                           SHELTON T
 (F)     6  ME   3633        18  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     530-0720N    W                                          SHELTON T
 (F)     6  ME   3633        19  MANFUCT PROCESS & ME   3.0   430-0520N  M W    1200 PATRICK TAYLOR                   SHELTON T
+                     LAB                                     530-0720N     TH                                        SHELTON T
 (F)    12  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0  1030-0120   M                                            MOLDOVAN D
 (F)    12  ME   3701 LAB     5  MATRLS OF ENGRNG LAB   1.0   130-0420   M                                            MOLDOVAN D
 (F)    12  ME   3701 LAB     9  MATRLS OF ENGRNG LAB   1.0   430-0720N  M                                            MOLDOVAN D
@@ -73,6 +107,7 @@
  17     8  ME   4673         1  INTR MOD CONT THEORY   3.0   130-0250    T TH  1216 PATRICK TAYLOR                   DE QUEIROZ M
   1    24  ME   4683         1  SENSORS & ACTUATORS    3.0  1200-0120    T TH  0225 TUREAUD HALL                     WANG W
 (F)    16  ME   4723         2  ADV MAT ANALYSIS       3.0   300-0420    T TH  0119 TUREAUD HALL                     MENG W
+                     LAB                                    1030-0120       F  0119 TUREAUD HALL                     MENG W
 (F)    28  ME   4733         1  DEFOR/FRAC ENGR MATS   3.0   130-0250    T TH  0226 TUREAUD HALL                     PARK S
   4     1  ME   4903 RES     1  SP PROJECTS UNDER GR   3.0  TBA                                                      LI G
   2     1  ME   4903 RES     4  SP PROJECTS UNDER GR   3.0  TBA                                                      WAHAB M

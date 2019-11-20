@@ -32,7 +32,9 @@
  28    22  KIN  4517         1  SPORTS ADMINISTRATIO   3.0  TBA                                     75-99% WEB BASE  SVENSSON P
  22    18  KIN  4518         1  GOV & POLICY IN SPRT   3.0  TBA                                     75-99% WEB BASE  AGYEMANG K
 (F)    25  KIN  4519         1  CADAVER DISSECTION     3.0  1010-1210   M W                                          LANDIN D
+                     LAB                                    TBA                                                      LANDIN D
 (F)    25  KIN  4519         2  CADAVER DISSECTION     3.0  1220-0220   M W                                          LANDIN D
+                     LAB                                    TBA                                                      LANDIN D
   9    26  KIN  4520         1  PSYCHOSOC & PHYS ACT   3.0  TBA                                     75-99% WEB BASE  GARN A
   3    32  KIN  4520         2  PSYCHOSOC & PHYS ACT   3.0  TBA                                     75-99% WEB BASE  CALHOUN J
  10    15  KIN  4530         1  ESS SPRT PERF TRAIN    3.0   310-0520    TW                         50-74% WEB BASE  JOHNSON L
@@ -46,9 +48,11 @@
  12    38  KIN  2500         1  HUMAN ANATOMY          3.0  0910-1040   MTWTF  0218 COATES                           HARGRODER W
  18    22  KIN  2509         2  MED TERM FOR KINESIO   3.0  TBA                                     75-99% WEB BASE  CASTLE R
   9    16  KIN  2577         1  H&PE FOR ELEM SCHOOL   3.0  0910-1040   MTWTF  0140 LONG FIELDHOUSE                  MCKEY K
+                     LAB                                    0910-1040   MTWTF  0120 LONG FIELDHOUSE                  MCKEY K
   1    49  KIN  2600         2  HUMAN SEXUALITY        3.0  TBA                                     100% WEB BASED   BENSON A
  22    23  KIN  3514         1  BIOMECHAN BASIS KIN    3.0  0910-1040   MTWTF  0129 ALLEN                            MACLELLAN M
  24    26  KIN  3515         1  PHYS BAS PHYSCL ACTV   3.0  1240-0210   MTWTF  0155 LONG FIELDHOUSE                  NELSON A
  13    17  KIN  3534         1  SCI BASIS EXERCISE     3.0  1240-0140   MTWTF  0151 LONG FIELDHOUSE                  JOHANNSEN N
+                     LAB                                     145-0300   MTWTF                                        SCOTT M
  35    15  KIN  4513         1  FACILITIES MGT         3.0  0910-1040   MTWTF  0155 LONG FIELDHOUSE                  SEIFRIED C
  28    12  KIN  4571         1  NEUROMTR CON HUM MVT   3.0  1100-1230   MTWTF  0155 LONG FIELDHOUSE                  HONDZINSKI J

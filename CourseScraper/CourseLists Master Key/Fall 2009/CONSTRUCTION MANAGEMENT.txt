@@ -1,7 +1,11 @@
 (F)    24  CM   1010         1  CONS GRAPHCS/NOMENCL   3.0   840-1030   M      2228 PATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+                     LAB                                     840-1030     W    2228 PATRICK TAYLOR                   PECQUET C
 (F)    24  CM   1010         2  CONS GRAPHCS/NOMENCL   3.0  1040-1230   M      2228 PATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+                     LAB                                    1040-1230     W    2228 PATRICK TAYLOR                   PECQUET C
 (F)    24  CM   1010         3  CONS GRAPHCS/NOMENCL   3.0   840-1030    T     2228 PATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+                     LAB                                     840-1030      TH  2228 PATRICK TAYLOR                   PECQUET C
 (F)    24  CM   1010         4  CONS GRAPHCS/NOMENCL   3.0  1040-1230    T     2228 PATRICK TAYLOR  CI-VISUAL&TECH   PECQUET C
+                     LAB                                    1040-1230      TH  2228 PATRICK TAYLOR                   PECQUET C
 (F)    34  CM   1020 LAB     1  ENGR GRAPS FOR MECH    2.0   840-1030   M W    3213 PATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
   1    31  CM   1020 LAB     2  ENGR GRAPS FOR MECH    2.0  1040-1230   M W    3213 PATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
   1    31  CM   1020 LAB     3  ENGR GRAPS FOR MECH    2.0  1240-0230   M W    3213 PATRICK TAYLOR                   SHANMUGAM V
@@ -12,9 +16,13 @@
 (F)    32  CM   1030 LAB     3  ENGIN GRAPHICS         2.0  1210-0200    T TH  3213 PATRICK TAYLOR                   SHANMUGAM V
 (F)    32  CM   1030 LAB     4  ENGIN GRAPHICS         2.0   240-0430    T TH  3213 PATRICK TAYLOR                   SHANMUGAM V
 (F)    24  CM   2012         1  PLN CST ANAL RES CON   3.0   740-0930   M      2218 PATRICK TAYLOR
+                     LAB                                     740-0930     W    2218 PATRICK TAYLOR
 (F)    24  CM   2012         2  PLN CST ANAL RES CON   3.0   940-1130   M      2218 PATRICK TAYLOR
+                     LAB                                     940-1130     W    2218 PATRICK TAYLOR
 (F)    25  CM   2012         3  PLN CST ANAL RES CON   3.0  1240-0230   M      2218 PATRICK TAYLOR
+                     LAB                                    1240-0230     W    2218 PATRICK TAYLOR
 (F)    25  CM   2012         4  PLN CST ANAL RES CON   3.0   240-0430   M      2218 PATRICK TAYLOR
+                     LAB                                     240-0430     W    2218 PATRICK TAYLOR
   1    31  CM   2121         1  MTRLS MTHDS EQMNT I    3.0   740-0900    T TH  3133 PATRICK TAYLOR                   SPRING C
 (F)    32  CM   2121         2  MTRLS MTHDS EQMNT I    3.0   910-1030    T TH  1110 PATRICK TAYLOR                   SPRING C
 (F)    33  CM   2121         3  MTRLS MTHDS EQMNT I    3.0   140-0300    T TH  0101 CONSTRUCTION MG                  NAHMENS I
@@ -27,15 +35,25 @@
 (F)    40  CM   3000         2  CONSTRUTION SAFETY     3.0  1040-1200    T TH  0120 TUREAUD HALL    CI-WRITTEN&SPOK  HARVEY C
 (F)    44  CM   3000         3  CONSTRUTION SAFETY     3.0   140-0300    T TH  2172 PATRICK TAYLOR  CI-WRITTEN&SPOK  HARVEY C
 (F)    20  CM   3100         1  CONSTRTN SURVEYING     3.0   740-0930   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     740-0930     W    2216 PATRICK TAYLOR                   TRAHAN G
 (F)    21  CM   3100         2  CONSTRTN SURVEYING     3.0   940-1130   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     940-1130     W    2216 PATRICK TAYLOR                   TRAHAN G
 (F)    24  CM   3100         3  CONSTRTN SURVEYING     3.0  1240-0230   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                    1240-0230     W    2216 PATRICK TAYLOR                   TRAHAN G
 (F)    20  CM   3100         4  CONSTRTN SURVEYING     3.0   240-0430   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     240-0430     W    2216 PATRICK TAYLOR                   TRAHAN G
  12    20  CM   3121         1  COM CONS ESTIMATING    3.0   740-0930   M      3133 PATRICK TAYLOR                   SPRING C
+                     LAB                                     740-0930     W    3133 PATRICK TAYLOR                   SPRING C
 (F)    32  CM   3121         2  COM CONS ESTIMATING    3.0   940-1130   M      3133 PATRICK TAYLOR                   SPRING C
+                     LAB                                     940-1130     W    3133 PATRICK TAYLOR                   SPRING C
 (F)    33  CM   3121         3  COM CONS ESTIMATING    3.0   310-0500    T     3133 PATRICK TAYLOR                   HASSAN M
+                     LAB                                     310-0500      TH  3133 PATRICK TAYLOR                   HASSAN M
   2    30  CM   3131         1  INDUST CONS ESTIMTNG   3.0  1240-0230   M      0101 CONSTRUCTION MG                  NELSON J
+                     LAB                                    1240-0230     W    0101 CONSTRUCTION MG                  NELSON J
  13    19  CM   3131         4  INDUST CONS ESTIMTNG   3.0   310-0500   M      0101 CONSTRUCTION MG                  NELSON J
+                     LAB                                     310-0500     W    0101 CONSTRUCTION MG                  NELSON J
 (F)    34  CM   3131         2  INDUST CONS ESTIMTNG   3.0   540-0730N  M      0101 CONSTRUCTION MG                  REBOWE R
+                     LAB                                     740-0930N  M      0101 CONSTRUCTION MG                  REBOWE R
   1    39  CM   3141         1  HIGHWAY CONSTRUCTION   3.0  1040-1200    T TH  2218 PATRICK TAYLOR                   ROSSO L
   1    39  CM   3141         2  HIGHWAY CONSTRUCTION   3.0   140-0300    T TH  2218 PATRICK TAYLOR                   ROSSO L
   7    13  CM   3210         1  ADV COMP APPL FOR CM   3.0  1210-0130   M W    3136 PATRICK TAYLOR                   ZOHDI M

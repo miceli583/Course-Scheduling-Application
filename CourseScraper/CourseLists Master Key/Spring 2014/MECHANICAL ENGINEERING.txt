@@ -1,31 +1,54 @@
  32    88  ME   2212         1  INTRO MECH ENGR DESN   2.0   300-0350    T     1119 PATRICK TAYLOR  CI-WRITTEN&SPOK  MURPHY M
+                     LAB                                     300-0450      TH  0006 LOCKETT                          MURPHY M
  49    91  ME   2334         1  THERMODYNAMICS         4.0   930-1020   MTWTF  0009 LOCKETT                          SCHOEGL I
  19    31  ME   2543         2  SIM METHD FOR ME       3.0   230-0320   M W F  1120 PATRICK TAYLOR                   GONTHIER K
   7    78  ME   2723         1  MATERIALS OF ENGR FO   3.0  1200-0120    T TH  1119 PATRICK TAYLOR                   WANG Y
   8   102  ME   2733         1  MATERIALS OF ENGR      3.0   130-0250    T TH  1119 PATRICK TAYLOR                   CHEN K
  33   167  ME   3133         2  DYNAMICS               3.0  1230-0120   M W    0100 DODSON                           WAGGENSPACK W
+                     LAB                                     130-0220   M W    0100 DODSON                           WAGGENSPACK W
  15   115  ME   3333         1  THERMODYNAMICS         3.0   900-1020    T TH  1109 PATRICK TAYLOR                   RAO S
 (F)    16  ME   3603         1  FUND OF INSTRUMENTN    3.0   930-1020   M W    1119 PATRICK TAYLOR                   WANG W
+                     LAB                                     130-0420    T                                           WANG W
 (F)    16  ME   3603         2  FUND OF INSTRUMENTN    3.0   930-1020   M W    1119 PATRICK TAYLOR                   WANG W
+                     LAB                                     130-0420      TH                                        WANG W
 (F)    16  ME   3603         3  FUND OF INSTRUMENTN    3.0   930-1020   M W    1119 PATRICK TAYLOR                   WANG W
+                     LAB                                     430-0720N  M                                            WANG W
 (F)    16  ME   3603         4  FUND OF INSTRUMENTN    3.0   930-1020   M W    1119 PATRICK TAYLOR                   WANG W
+                     LAB                                     430-0720N   T                                           WANG W
 (F)    15  ME   3603         5  FUND OF INSTRUMENTN    3.0   930-1020   M W    1119 PATRICK TAYLOR                   WANG W
+                     LAB                                     430-0720N     TH                                        WANG W
 (F)    16  ME   3603         6  FUND OF INSTRUMENTN    3.0   930-1020   M W    1119 PATRICK TAYLOR                   WANG W
+                     LAB                                    1030-0120    T                                           WANG W
 (F)    16  ME   3603         7  FUND OF INSTRUMENTN    3.0   930-1020   M W    1119 PATRICK TAYLOR                   WANG W
+                     LAB                                    1030-0120      TH                                        WANG W
 (F)    15  ME   3603         8  FUND OF INSTRUMENTN    3.0   930-1020   M W    1119 PATRICK TAYLOR                   WANG W
+                     LAB                                     730-1020N     TH                                        WANG W
 (F)    14  ME   3603        10  FUND OF INSTRUMENTN    3.0   930-1020   M W    1119 PATRICK TAYLOR                   WANG W
+                     LAB                                     730-1020N    W                                          WANG W
 (F)     6  ME   3633         1  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     130-0420   M                                            HELMS J
 (F)     6  ME   3633         2  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     430-0720N  M                                            HELMS J
 (F)     6  ME   3633         3  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     130-0420    T                                           HELMS J
 (F)     6  ME   3633         4  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     430-0720N   T                                           HELMS J
 (F)     6  ME   3633         5  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     130-0420     W                                          HELMS J
 (F)     6  ME   3633         6  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     430-0720N    W                                          HELMS J
 (F)     6  ME   3633         7  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     130-0420      TH                                        HELMS J
 (F)     6  ME   3633         8  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     430-0720N     TH                                        HELMS J
 (F)     6  ME   3633         9  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     130-0420       F                                        HELMS J
 (F)     6  ME   3633        10  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     730-1020    T                                           HELMS J
   1     5  ME   3633        11  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     730-1020     W                                          HELMS J
   1     5  ME   3633        12  MANFUCT PROCESS & ME   3.0  1230-0120   M W    2162 PATRICK TAYLOR                   HELMS J
+                     LAB                                     730-1020      TH                                        HELMS J
 (F)    14  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0   130-0420   M                                            PARK S
 (F)    14  ME   3701 LAB     2  MATRLS OF ENGRNG LAB   1.0   430-0720N  M                                            PARK S
 (F)    14  ME   3701 LAB     3  MATRLS OF ENGRNG LAB   1.0   130-0420    T                                           PARK S
@@ -66,6 +89,7 @@
  22     8  ME   7443         1  ADV HEAT TRANSFER II   3.0  1030-1150    T TH  2148 PATRICK TAYLOR                   DEVIREDDY R
   7     8  ME   7533         1  NUM METH APPL MECH     3.0   900-1020    T TH  1118 PATRICK TAYLOR                   RAM Y
 (F)    20  ME   7723         5  MAT CHAR-ELECT BEAM    3.0   430-0520N   T TH  3140 PATRICK TAYLOR
+                     LAB                                     700-0950N      F                                        WANG Y
  15    15  ME   7743         1  DEF DIF TRNSF SOLIDS   3.0   130-0250    T TH  1110 PATRICK TAYLOR                   MOLDOVAN D
  50    70  ME   7901 SEM     1  SEMINAR                1.0   330-0420       F  1119 PATRICK TAYLOR                   SCHOEGL I
   4     1  ME   7903 RES     1  INDEP STDY IN ME       3.0  TBA                                                      CHARALAMPOPOU

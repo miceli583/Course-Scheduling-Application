@@ -5,15 +5,25 @@
   2    30  PSYC 2001         1  HON- INTR PSYC         3.0   930-1020   M W F  0103 COATES          CI-WRITTEN&SPOK  ELLIOTT E
   1   164  PSYC 2005         1  INTRO TO PSYC MAJOR    1.0  TBA                                                      CALAMIA M
   1    24  PSYC 2016         1  STAT FOR BEH SCI       4.0   130-0250    T TH  0152 COATES          MAJORS ONLY      MCDONALD J
+                     LAB                                    1230-0220     W    0230EMIDDLETON                        MCDONALD J
   2    23  PSYC 2016         2  STAT FOR BEH SCI       4.0   130-0250    T TH  0152 COATES          MAJORS ONLY      MCDONALD J
+                     LAB                                    1230-0220       F  0230EMIDDLETON                        MCDONALD J
   1    24  PSYC 2016         3  STAT FOR BEH SCI       4.0   130-0250    T TH  0152 COATES          MAJORS ONLY      MCDONALD J
+                     LAB                                     330-0520     W    0230EMIDDLETON                        MCDONALD J
 (F)    25  PSYC 2016         4  STAT FOR BEH SCI       4.0   130-0250    T TH  0152 COATES          MAJORS ONLY      MCDONALD J
+                     LAB                                     930-1120       F  0230EMIDDLETON                        MCDONALD J
 (F)    26  PSYC 2016         5  STAT FOR BEH SCI       4.0   130-0250    T TH  0152 COATES          MAJORS ONLY      MCDONALD J
+                     LAB                                     300-0450      TH  0230EMIDDLETON                        MCDONALD J
   4    16  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0   900-1020    T TH  0241 HIMES           MAJORS ONLY      ZHANG D
+                     LAB                                     230-0420   M      0230EMIDDLETON                        ZHANG D
   8    12  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0   900-1020    T TH  0241 HIMES           MAJORS ONLY      ZHANG D
+                     LAB                                     300-0450     W    0171 COATES                           ZHANG D
   2    18  PSYC 2017         3  ELEM EXPERMTL PSYC     4.0   900-1020    T TH  0241 HIMES           MAJORS ONLY      ZHANG D
+                     LAB                                     930-1120     W    0230EMIDDLETON                        ZHANG D
   1    19  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0   900-1020    T TH  0241 HIMES           MAJORS ONLY      ZHANG D
+                     LAB                                     300-0450    T     0230EMIDDLETON                        ZHANG D
   1    19  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0   900-1020    T TH  0241 HIMES           MAJORS ONLY      ZHANG D
+                     LAB                                    1230-0220   M      0230EMIDDLETON                        ZHANG D
   7    63  PSYC 2040         1  SOCIAL PSYCHOLOGY      3.0   600-0850N   T     0212 COATES                           ADAIR F
  75    75  PSYC 2060         1  EDUCATIONAL PSYC       3.0   600-0850N    W    0015 LOCKETT                          DOMANGUE T
  16   234  PSYC 2070         1  DEVELOP PSYC LIFE SP   3.0   430-0720N    W    0143 COATES                           ERWIN M
@@ -83,6 +93,7 @@
  86    13  PSYC 4999 RES    30  INDEP READ & RESEARC   1-6  TBA                                                      BECK M
   3    17  PSYC 7040 SEM     1  SOC CULTURE PSYCH      3.0   330-0620      TH  0112 LOCKETT         MAJORS ONLY      LONG A
   8    17  PSYC 7125         1  PSYCH ASSESSMENT       4.0  1200-0250   M      0220 TUREAUD HALL    MAJORS ONLY      CALAMIA M
+                     LAB                                    TBA                                                      CALAMIA M
   2    16  PSYC 7171 SEM     1  DEV DSORD/PSYPATH CH   3.0   900-1150   M      0205 AUDUBON         MAJORS ONLY      FRICK P
   8    10  PSYC 7185         1  BEHAVIOR THERAPY       3.0  1200-0250     W    0205 AUDUBON         MAJORS ONLY      BUCKNER J
  20     5  PSYC 7625 CLI     1  ASSESS I PRACTICUM     3.0  1230-0320   M                           MAJORS ONLY      TUCKER R

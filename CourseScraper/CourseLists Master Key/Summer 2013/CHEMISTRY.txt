@@ -13,8 +13,10 @@
  98     1  CHEM 2900 CLI     1  RESEARCH INTERNSHIP    1-2  TBA                                     PERMIS OF INST   RUPNIK K
  96     3  CHEM 3900 RES     1  CHEMICAL PROBLEMS      1-3  TBA                                     PERMIS OF DEPT   RUPNIK K
  26     2  CHEM 6001         1  CHEM INSTRCT DEM/EXP   3.0  TBA                                                      HOPKINS J
+                     LAB                                    TBA                                                      HOPKINS J
  26     2  CHEM 6002         1  CHEM PRINC FOR TEACH   3.0  TBA                                                      HOPKINS J
  19     1  CHEM 6003         2  LAB METHODS FOR TEAC   3.0  TBA                                                      HOPKINS J
+                     LAB                                    TBA                                                      HOPKINS J
  19     1  CHEM 7770         1  SPCL TOPICS INORG CH   2-3  TBA                                                      MARZILLI L
  99        CHEM 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BUTLER L
  99        CHEM 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      CHAN J
