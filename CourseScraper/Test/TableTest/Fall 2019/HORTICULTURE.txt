@@ -1,0 +1,25 @@
+  1    21  HORT 2050         3  GEN HORTICULTURE       3.0  1200-0120   M W    0136 BLAKE HALL                       MIRABELLO R
+  1    59  HORT 2050         1  GEN HORTICULTURE       3.0   900-1020    T TH  0132 J C MILLER                       MIRABELLO R
+  1    59  HORT 2050         2  GEN HORTICULTURE       3.0   130-0250    T TH  0132 J C MILLER                       MIRABELLO R
+ 12    18  HORT 2120         1  WOODY PLANTS I         3.0   800-0850    T TH  0132 J C MILLER                       MIRABELLO R
+                     LAB                                     930-1220       F                                        MIRABELLO R
+  4    16  HORT 2130         1  SURV OF ARBOICULTURE   2.0   130-0220       F  0119 J C MILLER                       MIRABELLO R
+                     LAB                                     230-0420       F  0119 J C MILLER                       MIRABELLO R
+ 16    19  HORT 2525         1  ORGANIC GARDENING      4.0  1030-1150   M W    0119 J C MILLER      SVC LEARNING     MOTSENBOCKER
+                     LAB                                    1230-0220   M      0107 HORTICUL. TCHG                   MOTSENBOCKER
+ 11     9  HORT 3000 CLI     1  HORTICULTURAL INTERN   3.0  TBA                                     PERMIS OF INST   LABONTE D
+ 33     7  HORT 3005         1  HORT APPLICATIONS      3.0   300-0420    T TH  0107 HORTICUL. TCHG                   BEASLEY J
+ 18     2  HORT 3010 RES     1  RESEARCH PROBLEMS      3.0  TBA                                     PERMIS OF DEPT   MIRABELLO R
+ 19     1  HORT 3010 RES     2  RESEARCH PROBLEMS      3.0  TBA                                     PERMIS OF DEPT   MOTSENBOCKER
+ 19     1  HORT 3010 RES     3  RESEARCH PROBLEMS      3.0  TBA                                                      BUSH E
+(F)     8  HORT 4012         1  VEGETABLE CROPS        1-3  TBA                                     100% WEB BASED   MOTSENBOCKER
+ 18     2  HORT 4012         2  SPEC TOP IN HORT       1-3  TBA                                     PERMIS OF INST   MOTSENBOCKER
+(F)    17  HORT 4020         1  GREENHOUSE MNG         4.0  TBA                                     100% WEB BASED   KUEHNY J
+                     LAB                                    TBA                                                      KUEHNY J
+(F)     7  HORT 4060         1  PLANT DEVELOPMENT      3.0  TBA                                     100% WEB BASED   KUEHNY J
+(F)    20  HORT 4071         1  NURSERY MANAGEMENT     3.0  1230-0120   M W    0134 J C MILLER                       BUSH E
+                     LAB                                     130-0320     W    0134 J C MILLER                       BUSH E
+  9     1  HORT 7010 CLI     1  TEACHING PRACTICUM     1.0  TBA                                     PERMIS OF INST   WALSH M
+ 24     1  HORT 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BUSH E
+ 97     2  HORT 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      MOTSENBOCKER
+ 24     1  HORT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      LABONTE D

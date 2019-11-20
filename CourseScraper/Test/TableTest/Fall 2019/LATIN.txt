@@ -1,0 +1,13 @@
+  3    21  LATN 1001         1  ELEMENTARY LATIN       4.0   730-0820   MTWTH  0324 HODGES HALL                      ANDERSON P
+  6    18  LATN 1001         2  ELEMENTARY LATIN       4.0   830-0920   MTWTH  0108 NICHOLSON                        WATANABE A
+  3    22  LATN 1001         3  ELEMENTARY LATIN       4.0   930-1020   MTWTH  0132 LOCKETT                          BATINSKI E
+  1    24  LATN 1001         4  ELEMENTARY LATIN       4.0  1030-1120   MTWTH  0236 COATES                           WATANABE A
+  6    19  LATN 1001         5  ELEMENTARY LATIN       4.0  1130-1220   MTWTH  0134 LOCKETT                          BATINSKI E
+  5    20  LATN 1001         6  ELEMENTARY LATIN       4.0  1230-0120   MTWTH  0235 LOCKETT                          WATANABE A
+ 13    15  LATN 2051         1  INTERMEDIATE LATIN     4.0   830-0920   MTWTH  0204 COATES                           KATCHMER M
+  3    25  LATN 2051         2  INTERMEDIATE LATIN     4.0   930-1020   MTWTH  0204 COATES                           KATCHMER M
+  2    14  LATN 2053         1  INTERMEDIATE LATIN     3.0   930-1020   M W F  0119 LOCKETT                          WARGA R
+  6    10  LATN 2053         2  INTERMEDIATE LATIN     3.0  1030-1120   M W F  0240 LOCKETT                          FLETCHER K
+  8    17  LATN 2073         1  ROMAN HISTORIANS       3.0  1230-0120   M W F  0134 LOCKETT                          BATINSKI E
+(F)     1  LATN 4023         1  SPEC TOP LATN POETRY   3.0  TBA                                     PERMIS OF DEPT   BATINSKI E
+ 12     3  LATN 4120         1  ROMAN ELEGY            3.0  1130-1220   M W F  0334 HODGES HALL                      FLETCHER K

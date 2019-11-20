@@ -1,0 +1,22 @@
+(F)    34  PLHL 4000         1  GEN PLANT PATHOLOGY    4.0  1030-1150    T TH                                        THOMAS-SHARMA
+                     LAB                                     130-0420      TH                                        THOMAS-SHARMA
+ 19    11  PLHL 7040         1  PLANT VIROLOGY         4.0   800-0850   M W    A465 LIFE SCIENCES A                  VALVERDE R
+                     LAB                                     100-0450   M      0308 LIFE SCIENCES                    VALVERDE R
+ 12     3  PLHL 7051 RES     1  ADVANCED MYCOLOGY      1-4   130-0250   M W    A465 LIFE SCIENCES A                  DOYLE V
+ 13     2  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W    A465 LIFE SCIENCES A                  SINGH R
+ 98     1  PLHL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HOY J
+ 97     2  PLHL 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      HAM J
+ 98     1  PLHL 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      SINGH R
+ 97     2  PLHL 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      VALVERDE R
+ 98     1  PLHL 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      PADGETT G
+ 98     1  PLHL 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      RICHARDS J
+  8     2  PLHL 8900 RES     1  TA EXP PLANT PATHOLO   1-5  TBA                                                      THOMAS-SHARMA
+  9     1  PLHL 8900 RES     2  TA EXP PLANT PATHOLO   1-5  TBA                                                      VALVERDE R
+ 98     1  PLHL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CLARK C
+ 98     1  PLHL 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      PRICE P
+ 96     3  PLHL 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CHEN Z
+ 98     1  PLHL 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      HOY J
+ 98     1  PLHL 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      VALVERDE R
+ 98     1  PLHL 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      HAM J
+ 97     2  PLHL 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      DOYLE V
+ 98     1  PLHL 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      THOMAS-SHARMA

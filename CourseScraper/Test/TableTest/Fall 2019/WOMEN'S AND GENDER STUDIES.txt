@@ -1,0 +1,21 @@
+  4    26  WGS  2200         1  GENDER & POP CULTURE   3.0   300-0420   M W    0051 ALLEN                            CAVA P
+  1    39  WGS  2500         3  WOMEN'S & GENDER STU   3.0  1030-1120   M W F  0054 ALLEN                            CAVA P
+  2    38  WGS  2500         4  WOMEN'S & GENDER STU   3.0  1130-1220   M W F  0019 ALLEN                            CAVA P
+  5    35  WGS  2500         5  WOMEN'S & GENDER STU   3.0   900-1020    T TH  0239 LOCKETT                          SELF C
+  6    34  WGS  2500         6  WOMEN'S & GENDER STU   3.0   900-1020    T TH                                        STEIB S
+  4    36  WGS  2500         7  WOMEN'S & GENDER STU   3.0  1030-1150    T TH  0137 ALLEN                            SELF C
+  3    37  WGS  2500         8  WOMEN'S & GENDER STU   3.0  1200-0120    T TH  0121 ALLEN                            JACQUET C
+(F)    40  WGS  2500         9  WOMEN'S & GENDER STU   3.0   130-0250    T TH  0116 LOCKETT                          RATHOUR A
+ 10    30  WGS  2500        12  WOMEN'S & GENDER STU   3.0   130-0250    T TH  0103 COATES                           SELF C
+ 10    30  WGS  2500        10  WOMEN'S & GENDER STU   3.0   300-0420    T TH  0114 LOCKETT                          SELF C
+  7    73  WGS  2500         1  WOMEN'S & GENDER STU   3.0  TBA                                     100% WEB BASED   BERKOWITZ D
+  1    79  WGS  2500         2  WOMEN'S & GENDER STU   3.0  TBA                                     100% WEB BASED   CAVA P
+  3    77  WGS  2500        13  WOMEN'S & GENDER STU   3.0  TBA                                     100% WEB BASED   CAVA P
+  1    39  WGS  2900         1  GENDER, RACE, NATION   3.0  1230-0120   M W F  0103 COATES                           NICKLEN C
+  2    38  WGS  2900         2  GENDER, RACE, NATION   3.0   130-0220   M W F  0234 COATES                           NICKLEN C
+  4    16  WGS  3150         1  SURV FEMINIST THEORY   3.0   130-0250    T TH  0130 COATES                           KAHAN B
+(F)    15  WGS  4500         2  GLOBAL TRANS           3.0   130-0250   M W    0121 ALLEN                            CASTRO E
+(F)     2  WGS  4900 RES     1  READ WOM & GEND STUD   3.0  TBA                                                      BERKOWITZ D
+(F)     1  WGS  4900 RES     2  READ WOM & GEND STUD   3.0  TBA                                                      GOLDGABER D
+(F)    12  WGS  7150 RES     1  SEM FEM GENDER THRY    3.0   430-0720N    W    0128 ALLEN                            GOLDGABER D
+(F)     1  WGS  7900 RES     2  IND RDG & RES WGS      3.0  TBA                                                      CASTRO E
