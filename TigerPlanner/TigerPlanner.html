@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+  <title>TIGER PLANNER</title>
+</head>
+
+<body>
+    <h1>TIGER PLANNER</h1>
+    <p>Under Construction</p>
+<select id="semester"></select>
+<select id="department" ></select>
+<select id="number"></select>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+
+function Populate(id,txt){
+ this.obj=document.getElementById(id);
+ this.ajax(txt);
+}
+
+Populate.prototype={
+
+ populate:function(txt){
+  txt=txt.split('\n');
+  for (var z0=0;z0<txt.length;z0++){
+   if (txt[z0]){
+    this.obj[this.obj.options.length]=new Option(txt[z0],txt[z0]);
+   }
+  }
+
+ },
+
+ ajax:function(url){
+  var txt=false,oop=this;
+  if (window.ActiveXObject){
+   try {
+    txt=new ActiveXObject("Msxml2.XMLHTTP");
+   }
+   catch (e){
+    try {
+     txt=new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    catch (e){
+    }
+   }
+  }
+  else if (window.XMLHttpRequest){
+   txt=new XMLHttpRequest();
+  }
+  else {
+   return false;
+  }
+  txt.onreadystatechange=function(){
+   if (txt.readyState==4&&(txt.status==200||window.location.href.indexOf("http")==-1)){
+    oop.populate(txt.responseText);
+   }
+  }
+  txt.open('GET',url+'?'+new Date().getTime(),true);
+  try {
+   txt.send(null);
+  }
+  catch (e){
+  }
+ }
+
+}
+
+new Populate('semester', 'Semesters.txt');
+new Populate('department','Departments.txt');
+/*]]>*/
+</script>
+
+</body>
+
+</html>
