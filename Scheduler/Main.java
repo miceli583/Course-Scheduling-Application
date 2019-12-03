@@ -12,10 +12,63 @@ import java.util.ArrayList;
 
 public class Main
 {
-public static Boolean isOverlap(int st1, int et1, int st2, int et2){
+public static Boolean compare(double st1, double et1, double st2, double et2){
         if (st1 > st2 && st1 < et2) {return true;}
         if (et1 > st2 && et1 < et2) {return true;}
         return false;
+}
+
+public static Boolean isOverlap(Section S1, Section S2){
+    double[] st1 = S1.startTime;
+    double[] et1 = S1.endTime;
+    double[] st2 = S2.startTime;
+    double[] et2 = S2.endTime;
+    for(int i = 0; i<5; i++){
+        if(compare(st1[i], et1[i], st2[i], et2[i])){return true;}
+    }
+    return false;
+}
+
+public static void courseAdder(Course c, ArrayList<ArrayList<Section>> sectionMaster){
+    Section temp;
+    ArrayList<Section> list = new ArrayList<Section>(1);
+    list.add(null);
+    Boolean t = false;
+    if(sectionMaster.isEmpty()){
+            for(int i = 0; i< c.numSections; i++){
+                temp = c.sections.get(i);
+                list.set(0,temp);
+                sectionMaster.add(list);
+            }
+        }
+    else{
+        ArrayList<ArrayList<Section>> tempMaster = sectionMaster;
+        int z = tempMaster.size();
+        for(int k = 0; k<c.numSections; k++){
+            //ArrayList<ArrayList<Section>> adder = tempMaster;
+            temp = c.sections.get(k);
+            for(int j = 0; j<z; j++){
+                if(k==0){
+                    list = tempMaster.get(j);
+                    for(int a = 0; a<list.size(); a++){
+                        if(isOverlap(temp, list.get(a))){t = true;}
+                    }
+                    if(t){list = null;} 
+                    else{list.add(temp);}
+                    sectionMaster.set(j,list);
+                }
+                else{
+                    list = tempMaster.get(j);
+                    for(int a = 0; a<list.size(); a++){
+                        if(isOverlap(temp, list.get(a))){t = true;}
+                    }
+                    if(t){list = null;} 
+                    else{list.add(temp);}
+                    sectionMaster.add(list);
+                }
+            }
+        }
+    }
 }
 public static void main (String[]args)
 {
@@ -98,7 +151,7 @@ public static void main (String[]args)
 	                if(reader.get(74) == 'W'){startTime[3] = st; endTime[3] = et;}
 	                if(reader.get(75) == 'T'){startTime[4] = st; endTime[4] = et;}
 	                if(reader.get(77) == 'F'){startTime[5] = st; endTime[5] = et;}
-	                for(int j = 79; j<=98; j++){roomBuild += String.valueOf(reader.get(j));}
+	                for(int j = 80; j<=99; j++){roomBuild += String.valueOf(reader.get(j));}
 	                for(int j = 117; j<q; j++){teacher += String.valueOf(reader.get(j));}
 	                
 	                
@@ -141,29 +194,14 @@ public static void main (String[]args)
 	    status = input.nextInt();
     }
     
-    ArrayList<Section> sectionList = new ArrayList<Section>(courses.size());
+    
+    
     ArrayList<ArrayList<Section>> sectionMaster = new ArrayList<ArrayList<Section>>();
-    Section tempSec;
-    boolean test = false;
-    //
-    //for(int a = 0; a<courses.size(); a++){
-    //    for(int b = 0; b<courses.get(a).numSections; b++){
-    //        if(sectionList.size() = 0){
-    //            sectionList.add(courses.get(a).sections(b))
-    //        }
-    //        else{
-    //            for(c = 0; c< sectionList.size(); c++){
-    //               for(int d = 0; d<5; d++){
-    //                    if(isOverlap(sectionList.get(c).startTime[d], sectionList.get(c).endTime[d], courses.get(a).sections(b).startTime[d], courses.get(a).sections(b).endTime[d]){
-    //                       test = true;
-    //                    }
-    //                if(test == false){sectionList.add(courses.get(a).sections(b));}
-    //                }
-    //            }
-    //        }
-    //    }
-    //}
-    //
+    for(int b = 0; b<courses.size(); b++){
+        courseAdder(courses.get(b), sectionMaster);
+    }
+    
+
 
 }
 
