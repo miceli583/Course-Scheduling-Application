@@ -21,4 +21,10 @@ public class Course
                 deptAbbrev = a;
                 courseNum = n;
         }
+        
+        public Course(String s, String d, String n){
+                semester = s;
+                dept = d;
+                courseNum = n;
+        }
 }

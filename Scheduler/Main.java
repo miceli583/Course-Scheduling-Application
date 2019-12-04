@@ -13,8 +13,10 @@ import java.util.ArrayList;
 public class Main
 {
 public static Boolean compare(double st1, double et1, double st2, double et2){
+        if (st1 == 0 || st2 == 0){return false;}
         if (st1 > st2 && st1 < et2) {return true;}
         if (et1 > st2 && et1 < et2) {return true;}
+        if (st1 == st2){return true;}
         return false;
 }
 
@@ -31,45 +33,57 @@ public static Boolean isOverlap(Section S1, Section S2){
 
 public static void courseAdder(Course c, ArrayList<ArrayList<Section>> sectionMaster){
     Section temp;
-    ArrayList<Section> list = new ArrayList<Section>(1);
+    ArrayList<Section> list = new ArrayList<Section>(0);
     list.add(null);
     Boolean t = false;
     if(sectionMaster.isEmpty()){
             for(int i = 0; i< c.numSections; i++){
                 temp = c.sections.get(i);
                 list.set(0,temp);
-                sectionMaster.add(list);
+                sectionMaster.add(new ArrayList(list));
             }
         }
     else{
-        ArrayList<ArrayList<Section>> tempMaster = sectionMaster;
-        int z = tempMaster.size();
+        ArrayList<ArrayList<Section>> tempMaster = new ArrayList(sectionMaster);
         for(int k = 0; k<c.numSections; k++){
             //ArrayList<ArrayList<Section>> adder = tempMaster;
             temp = c.sections.get(k);
-            for(int j = 0; j<z; j++){
+            for(int j = 0; j<tempMaster.size(); j++){
                 if(k==0){
-                    list = tempMaster.get(j);
-                    for(int a = 0; a<list.size(); a++){
-                        if(isOverlap(temp, list.get(a))){t = true;}
-                    }
-                    if(t){list = null;} 
-                    else{list.add(temp);}
-                    sectionMaster.set(j,list);
+                    list = new ArrayList(tempMaster.get(j));
+                    list.add(temp);
+                    sectionMaster.set(j,new ArrayList(list));
                 }
                 else{
-                    list = tempMaster.get(j);
-                    for(int a = 0; a<list.size(); a++){
-                        if(isOverlap(temp, list.get(a))){t = true;}
-                    }
-                    if(t){list = null;} 
-                    else{list.add(temp);}
-                    sectionMaster.add(list);
+                    list = new ArrayList(tempMaster.get(j));
+                    list.add(temp);
+                    sectionMaster.add(new ArrayList(list));
                 }
             }
         }
     }
 }
+
+public static void prune(ArrayList<ArrayList<Section>> sectionMaster){
+    Boolean t;
+    ArrayList<Section> list = new ArrayList<Section>(0);
+    outer: for(int i = 0; i<sectionMaster.size(); i++){
+        t = false;
+        list = new ArrayList(sectionMaster.get(i));
+        inner: for(int j = 0; j < list.size(); j++){
+            for(int k = 0; k < list.size(); k++){
+                if(j!=k){t = isOverlap(list.get(j),list.get(k));}
+                if(t){
+                    sectionMaster.remove(i);
+                    i--;
+                    break inner;
+                }
+            }
+        }
+    }
+}
+
+
 public static void main (String[]args)
 {
     
@@ -95,32 +109,31 @@ public static void main (String[]args)
     
     int q;
     char ch;
-    
-    Scanner input = new Scanner (System.in);
-    System.out.println ("Enter Semester (Month Year)");
-	String mon = input.next();
-	String year = input.next();
+
+	String mon = args[0];
+	String year = args[1];
 	String SEMESTER = mon + " " + year;
-	
     ArrayList<Course> courses = new ArrayList<Course>();
     ArrayList<Character> reader =  new ArrayList<Character>();
-    int status = 1;
+    int A = 2;
     int k = 0;
-    while (status == 1)
+    
+    while(A<args.length)
     {
 	    
-	    System.out.println ("Enter Dept Name");
-	    String DEPARTMENT = input.next();
-	    System.out.println ("Enter Dept Abbreviation");
-	    String deptABBREVIATION = input.next();
-	    System.out.println ("Enter Course Number(####)");
-	    String COURSENUM = input.next();
+	    String DEPARTMENT = args[A];
+	    A++;
+	    String deptABBREVIATION;
+	    
+	    String COURSENUM = args[A];
+	    A++;
         
-        Course tempCourse = new Course(SEMESTER, DEPARTMENT, deptABBREVIATION, COURSENUM);
+        Course tempCourse = new Course(SEMESTER, DEPARTMENT, COURSENUM);
         courses.add(tempCourse);
 
 	    try{
-	        FileInputStream fin = new FileInputStream ("Accounting.txt");
+	        //FileInputStream fin = new FileInputStream ("CourseLists Master Key/"+SEMESTER+"/"+DEPARTMENT+".txt");
+	        FileInputStream fin = new FileInputStream (DEPARTMENT+".txt");
 	        int i = 0;
 	        q = 0;
 	        
@@ -145,18 +158,20 @@ public static void main (String[]args)
 	                if(reader.get(67) == '5'){et += 0.83;}
 	                if (reader.get(69) == 'N' || st <7){st += 12;}
 	                if(et<8){et += 12;}
-	                if(reader.get(60) == 'T'){st = 0;et = 0;}
-	                if(reader.get(72) == 'M'){startTime[1] = st; endTime[1] = et;}
-	                if(reader.get(73) == 'T'){startTime[2] = st; endTime[2] = et;}
-	                if(reader.get(74) == 'W'){startTime[3] = st; endTime[3] = et;}
-	                if(reader.get(75) == 'T'){startTime[4] = st; endTime[4] = et;}
-	                if(reader.get(77) == 'F'){startTime[5] = st; endTime[5] = et;}
+	                if(reader.get(59) == 'T'){st = 0;et = 0;}
+	                if(reader.get(72) == 'M'){startTime[0] = st; endTime[0] = et;}
+	                if(reader.get(73) == 'T'){startTime[1] = st; endTime[1] = et;}
+	                if(reader.get(74) == 'W'){startTime[2] = st; endTime[2] = et;}
+	                if(reader.get(75) == 'T'){startTime[3] = st; endTime[3] = et;}
+	                if(reader.get(77) == 'F'){startTime[4] = st; endTime[4] = et;}
 	                for(int j = 80; j<=99; j++){roomBuild += String.valueOf(reader.get(j));}
 	                for(int j = 117; j<q; j++){teacher += String.valueOf(reader.get(j));}
 	                
+	                deptABBREVIATION=deptAbbrev;
+	                courses.get(k).deptAbbrev = deptABBREVIATION;
 	                
 	                //Construct Course and Sections
-	                if (deptABBREVIATION.equals(deptAbbrev) && COURSENUM.equals(courseNum)){
+	                if (COURSENUM.equals(courseNum)){
 	                    Section tempSection = new Section(enrollmentCount, avail, sectionNum, startTime, endTime, labStartTime, labEndTime, roomBuild, teacher);
 	                    courses.get(k).sections.add(tempSection);
 	                    courses.get(k).update();
@@ -190,16 +205,47 @@ public static void main (String[]args)
 	    } catch (Exception e){System.out.println (e);}
 	    
 	    k +=1;
-	    System.out.println ("If done, enter 0. Otherwise, enter 1");
-	    status = input.nextInt();
     }
     
     
     
-    ArrayList<ArrayList<Section>> sectionMaster = new ArrayList<ArrayList<Section>>();
+    ArrayList<ArrayList<Section>> sectionMaster = new ArrayList<ArrayList<Section>>(0);
+    
     for(int b = 0; b<courses.size(); b++){
-        courseAdder(courses.get(b), sectionMaster);
+        Course c = courses.get(b);
+        courseAdder(c, sectionMaster);
     }
+    
+    prune(sectionMaster);
+    
+
+    
+    System.out.println("Inputs:");
+    for (int g = 0; g<courses.size(); g++){
+        Course c = courses.get(g);
+        for(int h = 0; h<c.numSections; h++){
+            Section s = c.sections.get(h);
+            System.out.print(c.deptAbbrev + " " + c.courseNum + " Section" + s.sectionNum);
+            for (int f = 0; f<5; f++){System.out.print(" [" + s.startTime[f] + " " + s.endTime[f] + "] ");}
+            System.out.println();
+        }
+        System.out.println();
+    }
+    
+    
+
+
+    System.out.println("Possible Schedules:");
+    for(int g = 0; g<sectionMaster.size(); g++){
+        ArrayList<Section> l = sectionMaster.get(g);
+        for(int h = 0; h<courses.size(); h++){
+            Course c = courses.get(h);
+            Section s = l.get(h);
+            System.out.println(c.deptAbbrev + " " + c.courseNum + " " + s.sectionNum);
+        }
+        System.out.println();
+    }
+
     
 
 
