@@ -131,9 +131,11 @@ public static void main (String[]args)
         Course tempCourse = new Course(SEMESTER, DEPARTMENT, COURSENUM);
         courses.add(tempCourse);
 
+        String path = "C:\\Users\\CChee1\\Desktop\\CSC 3380\\CSC3380Project\\csc3380_proj\\CourseScraper\\CourseLists\\" + SEMESTER + "\\" + DEPARTMENT + ".txt";
+
 	    try{
-	        //FileInputStream fin = new FileInputStream ("CourseLists Master Key/"+SEMESTER+"/"+DEPARTMENT+".txt");
-	        FileInputStream fin = new FileInputStream (DEPARTMENT+".txt");
+	        FileInputStream fin = new FileInputStream (path);
+	        //FileInputStream fin = new FileInputStream (DEPARTMENT+".txt");
 	        int i = 0;
 	        q = 0;
 	        
@@ -235,16 +237,22 @@ public static void main (String[]args)
     
 
 
-    System.out.println("Possible Schedules:");
+    System.out.printf("%d Possible Schedules:\n", sectionMaster.size());
     for(int g = 0; g<sectionMaster.size(); g++){
         ArrayList<Section> l = sectionMaster.get(g);
+        System.out.printf("Schedule %d:\n", g + 1);
         for(int h = 0; h<courses.size(); h++){
             Course c = courses.get(h);
             Section s = l.get(h);
-            System.out.println(c.deptAbbrev + " " + c.courseNum + " " + s.sectionNum);
+            System.out.print(c.deptAbbrev + " " + c.courseNum + " " + s.sectionNum);
+            for (int f = 0; f<5; f++){System.out.print(" [" + s.startTime[f] + " " + s.endTime[f] + "] ");}
+            System.out.println();;
         }
         System.out.println();
     }
+
+    //display(sectionMaster);
+
 
     
 
