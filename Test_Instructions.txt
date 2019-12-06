@@ -17,3 +17,14 @@ Inputs: String[] array contains "Spring 2020"
 Expected output: A folder called CourseLists in the same directory containing textfiles for each department with all course information contained within.
 Actual output: A folder called CourseLists in the same directory containing textfiles for each department with all course information contained within.
 Pass Fail criterion: Expected output == Actual output
+
+Test 3: Scheduler Test
+Compile: javac -d . Main.java Course.java Section.java SchedulerTestCases.java
+Run: java SchedulerTestCases
+Inputs: none
+Expected Output: SchedulerTestCasesFile runs the scheduler file, Main.java, with three separate input strings. The first input specifies a semeseter, year, and list of courses. The ouput should list the input courses and provide a list of possible schedules. The second input includes a mistyped semester. The output should report an error. The third input inludes non existant courses. The output should report an error.
+Actual Output:
+	List of Courses
+	Invalid Input for Semester/Year
+	Invalid Input for Course/NUM or Course/NUM doesn't exist for the given semester.
+Pass Fail Criterion: Expected output == Actual output
