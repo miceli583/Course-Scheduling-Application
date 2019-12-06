@@ -1,0 +1,113 @@
+ 39   141  CE   2200         1  FLUID MECHANICS        3.0   130-0220   M W F  0005 LOCKETT                          OZDEMIR C
+(F)    25  CE   2250 LAB     1  FLUID MECH LAB         1.0   330-0620   M                                            HOSSEINZADEH
+  3    22  CE   2250 LAB     2  FLUID MECH LAB         1.0   230-0520     W                                          HOSSEINZADEH
+  7    18  CE   2250 LAB     3  FLUID MECH LAB         1.0   930-1220       F                                        HOSSEINZADEH
+ 18     7  CE   2250 LAB     4  FLUID MECH LAB         1.0  1230-0320       F                                        HOSSEINZADEH
+ 71    49  CE   2450         1  STATICS                3.0   930-1020   M W F  1263 PATRICK TAYLOR                   EL KHOLY K
+ 51    69  CE   2450         3  STATICS                3.0  1130-1220   M W F  1263 PATRICK TAYLOR                   EL KHOLY K
+ 76    44  CE   2450         2  STATICS                3.0   130-0250    T TH  1200 PATRICK TAYLOR                   EL KHOLY K
+(F)   110  CE   2460         1  DYNAMICS & VIBRATION   3.0  1230-0120   M W F  1263 PATRICK TAYLOR                   EL KHOLY K
+ 30    90  CE   2700 LAB     1  INTRO CIVIL ENGR       1.0   130-0420       F                                        AMOROSO S
+ 30    80  CE   3300         1  GEOTECHNICAL ENGR I    3.0  1030-1150    T TH  1263 PATRICK TAYLOR                   JAFARI N
+(F)    25  CE   3350 LAB     1  GEOTECH ENGR LAB I     1.0   430-0720N  M
+  8    17  CE   3350 LAB     4  GEOTECH ENGR LAB I     1.0   430-0720N   T
+  2    23  CE   3350 LAB     2  GEOTECH ENGR LAB I     1.0   430-0720N    W
+ 14    11  CE   3350 LAB     3  GEOTECH ENGR LAB I     1.0   430-0720N     TH
+ 65    35  CE   3400         1  MECHNCS OF MATERIALS   3.0   830-0920   M W F  1200 PATRICK TAYLOR                   MOORTHY S
+(F)   100  CE   3400         3  MECHNCS OF MATERIALS   3.0  1030-1120   M W F  0204 TUREAUD HALL                     MOORTHY S
+(F)   100  CE   3400         2  MECHNCS OF MATERIALS   3.0   900-1020    T TH  1200 PATRICK TAYLOR                   MOORTHY S
+(F)     2  CE   3401         1  HONORS: MECH OF MATE   4.0  TBA                                                      MOORTHY S
+ 10    15  CE   3410 LAB     1  MECHNCS OF MATLS LAB   1.0   430-0720N  M                                            SAFFARINI M
+(F)    25  CE   3410 LAB     2  MECHNCS OF MATLS LAB   1.0   300-0550    T                                           SAFFARINI M
+  4    21  CE   3410 LAB     3  MECHNCS OF MATLS LAB   1.0   430-0720N    W                                          SAFFARINI M
+ 19    51  CE   3415         1  STRUCTRL ANALYSIS I    3.0   130-0250    T TH  0214 COATES                           CAI C
+ 25     5  CE   3500         1  PLANE SURV & MEASURE   3.0  1130-1220   M W    1200 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     230-0520   M                                            MUGNIER C
+ 22     8  CE   3500         2  PLANE SURV & MEASURE   3.0  1130-1220   M W    1200 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     230-0520     W                                          MUGNIER C
+ 14    16  CE   3500         3  PLANE SURV & MEASURE   3.0  1130-1220   M W    1200 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     300-0550    T                                           MUGNIER C
+  6    24  CE   3500         4  PLANE SURV & MEASURE   3.0  1130-1220   M W    1200 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     300-0550      TH                                        MUGNIER C
+ 36    49  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0   900-1020    T TH  0241 HIMES                            HASSAN H
+(F)    25  CE   3700         1  ENGINEERING MAT LAB    1.0   430-0520N  M      1225 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                     530-0720N  M                                            COOPER S
+  2    23  CE   3700         2  ENGINEERING MAT LAB    1.0   430-0520N  M      1225 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                     530-0720N    W                                          COOPER S
+  4    21  CE   3700         3  ENGINEERING MAT LAB    1.0   430-0520N  M      1225 PATRICK TAYLOR                   MOHAMMAD L
+                     LAB                                     530-0720N     TH                                        COOPER S
+ 48    42  CE   4250         1  GROUND WATER           3.0   900-1020    T TH  1125 BUS ED S WING                    TSAI F
+(F)    45  CE   4260         1  DESN HYDROLOG SYST     3.0   300-0420    T TH  1212 PATRICK TAYLOR                   WILLSON C
+ 20    55  CE   4310         1  GEOTECHNICL ENGR III   3.0  1030-1150    T TH  0204 TUREAUD HALL                     CHEN S
+ 34     6  CE   4330         1  GEOTECH PROJECT        3.0   300-0350    T TH  0116 TUREAUD HALL                     LIN H
+                     LAB                                     400-0520    T TH                                        LIN H
+ 68    42  CE   4400         1  PRIN OF STEEL DESIGN   3.0   300-0420   M W    1263 PATRICK TAYLOR                   ALY A
+ 29    61  CE   4410         1  PRIN REINFORCED CONC   3.0   130-0250    T TH  1225 PATRICK TAYLOR                   SUN C
+ 15    15  CE   4450         1  FINITE ELEMENT METHD   3.0   130-0250    T TH  1216 PATRICK TAYLOR  CI-WRITTEN&TECH  MOORTHY S
+ 25    15  CE   4460         1  DESIGN OF BRIDGES      3.0   300-0350    T TH  0112 TUREAUD HALL                     OKEIL A
+                     LAB                                     400-0550    T TH                                        OKEIL A
+ 28    12  CE   4530         1  CONTRL SURVEYING W/    3.0   530-0720N  M      0112 TUREAUD HALL                     MUGNIER C
+                     LAB                                     730-1020N  M                                            MUGNIER C
+ 26    14  CE   4550         1  BOUNDARY SURVEYING     3.0   530-0720N    W    0117 TUREAUD HALL                     MUGNIER C
+                     LAB                                     730-1020N    W                                          MUGNIER C
+ 29    21  CE   4600         1  GEOM DESN HWY/AIRPRT   3.0   830-1020      TH  0228 TUREAUD HALL                     WOLSHON P
+                     LAB                                     900-1150    T                                           WOLSHON P
+ 21    19  CE   4650         1  INT ASPHLT MIX DESN    3.0  1030-1150   M W    0117 TUREAUD HALL                     MOHAMMAD L
+ 32     8  CE   4660         1  INFRA CONDIT ASSE      3.0   900-1020    T TH  0125 TUREAUD HALL                     ELSEIFI M
+ 43    47  CE   4750         1  PRF ISS CONC DESN CE   2.0   830-1020   M      0026 HATCHER HALL                     WILLIAMS M
+                     LAB                                     830-1020     W    0026 HATCHER HALL                     WILLIAMS M
+ 10     2  CE   7105         1  ADV TOP WATER QUAL     3.0  1030-1150    T TH  0225 TUREAUD HALL                     ZHU X
+ 17     3  CE   7255         1  ADVANCED HYDRAULICS    3.0   900-1020   M W    0116 TUREAUD HALL                     DENG Z
+ 19     1  CE   7300         1  ADV GEOTECHN ENGR I    3.0   300-0420    T TH  1218 PATRICK TAYLOR                   JAFARI N
+  7     3  CE   7420         1  LIMIT ANALYSIS & DES   3.0   130-0250    T TH  0225 TUREAUD HALL                     KAMESHWAR S
+  2     3  CE   7480         1  PLASTICTY/VISCOELAST   3.0   900-1020   M W    0112 TUREAUD HALL                     VOYIADJIS G
+ 18     2  CE   7640         1  URBAN TRANSPORT POL/   3.0   830-0950   M W    0117 TUREAUD HALL                     WILMOT C
+ 17     3  CE   7700 RES     1  FINITE ANALYSIS GEOT   3.0   300-0420   M W                                          CHEN S
+  6     4  CE   7700 RES     2  WIND ENGINEERING       3.0   500-0620N  M W                                          ALY A
+ 20        CE   7700 RES     4  INTELL TRANS SYSTEMS   3.0  TBA                                                      WOLSHON P
+  8     2  CE   7701 RES     3  OFFSHORE STRUCTURES    3.0   130-0250   M W                                          SUN C
+ 18     2  CE   7701 RES     1  PHYS OF COA SED TRAN   3.0   330-0450   M W    1212 PATRICK TAYLOR                   OZDEMIR C
+ 14     6  CE   7701 RES     4  ADV PAVEMENT DESIGN    3.0   900-1150       F                                        ELSEIFI M
+ 15     5  CE   7701 RES     2  RIVER MODELING         3.0  TBA                                                      WILLSON C
+(F)     2  CE   7740 RES     1  MASTERS REPORT         3.0  TBA
+ 95    25  CE   7750 SEM     1  SEMINAR                1.0   330-0420     W    1200 PATRICK TAYLOR                   OZDEMIR C
+  5        CE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CAI C
+  4     1  CE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   DENG Z
+  4     1  CE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ABU-FARSAKH M
+ 99        CE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MOE W
+ 99        CE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MOHAMMAD L
+ 99        CE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   PARDUE J
+ 98     1  CE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WILLSON C
+ 99        CE   8000 RES     8  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WILMOT C
+ 19     1  CE   8000 RES     9  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ALY A
+ 20        CE   8000 RES    10  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SUN C
+ 20        CE   8000 RES    11  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ZHANG H
+ 19     1  CE   8000 RES    12  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   OKEIL A
+ 20        CE   8000 RES    13  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WU Z
+ 19     1  CE   8000 RES    14  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ELSEIFI M
+ 20        CE   8000 RES    15  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CHEN S
+ 99        CE   8000 RES    16  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ZHU X
+  4     1  CE   8000 RES    17  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   JAFARI N
+  5        CE   8000 RES    18  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LIN H
+  5        CE   8000 RES    19  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   HAGEN S
+ 98     1  CE   9000 RES     1  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   ABU-FARSAKH M
+ 97     2  CE   9000 RES     2  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   CAI C
+ 98     1  CE   9000 RES     3  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   DENG Z
+ 98     1  CE   9000 RES     4  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   ELSEIFI M
+ 99        CE   9000 RES     5  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   MOE W
+ 99        CE   9000 RES     6  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   MOHAMMAD L
+ 99        CE   9000 RES     7  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   OKEIL A
+ 98     1  CE   9000 RES     8  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   TSAI F
+ 98     1  CE   9000 RES     9  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   VOYIADJIS G
+ 96     3  CE   9000 RES    10  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   WILLSON C
+ 98     1  CE   9000 RES    11  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   WU Z
+ 20        CE   9000 RES    12  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   ALY A
+ 97     2  CE   9000 RES    13  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   HAGEN S
+  8     2  CE   9000 RES    14  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   CHEN S
+ 10        CE   9000 RES    15  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   OZDEMIR C
+ 20        CE   9000 RES    16  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   ZHANG H
+ 18     2  CE   9000 RES    17  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   JAFARI N
+ 20        CE   9000 RES    18  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   SUN C
+ 98     1  CE   9000 RES    19  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   SNOW S
+ 98     1  CE   9000 RES    20  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   ZHU X
+ 19     1  CE   9000 RES    21  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   LIN H

@@ -1,0 +1,30 @@
+(F)    60  MKT  3401         3  PRIN OF MARKETING      3.0   930-1020   M W F  1735 BUS ED COMPLEX                   MANGUS S
+(F)    61  MKT  3401         2  PRIN OF MARKETING      3.0  1030-1120   M W F  1735 BUS ED COMPLEX                   LIU X
+434   566  MKT  3401         1  PRIN OF MARKETING      3.0   130-0250    T TH  0101 GYM AUDITORIUM                   KARAM T
+(F)    60  MKT  3401         4  PRIN OF MARKETING      3.0   300-0420    T TH  1735 BUS ED COMPLEX                   ROUILLIER R
+ 23    17  MKT  3402         1  HNRS PRINC OF MRKTNG   3.0   130-0250    T TH  1720 BUS ED COMPLEX                   ROUILLIER R
+(F)    40  MKT  3411         1  CONSUM ANALYS & BEHA   3.0   900-1020    T TH  2103 PATRICK TAYLOR                   KUO A
+(F)    40  MKT  3411         3  CONSUM ANALYS & BEHA   3.0   900-1020    T TH  1920 BUS ED COMPLEX                   NIEDRICH R
+(F)    40  MKT  3411         2  CONSUM ANALYS & BEHA   3.0  1030-1150    T TH  2103 PATRICK TAYLOR                   KUO A
+  4    36  MKT  3413         2  MARKETING RESEARCH     3.0  1200-0120    T TH  1720 BUS ED COMPLEX                   SUN J
+ 11    29  MKT  3421         1  MKT COMM: PROMOTION    3.0  1030-1150    T TH  1425 BUS ED COMPLEX  CI-WRITTEN&VISU  FOLSE J
+  1    22  MKT  3421         2  MKT COMM: PROMOTION    3.0  1200-0120    T TH  1425 BUS ED COMPLEX  CI-WRITTEN&VISU  FOLSE J
+ 15    25  MKT  3431         1  RETAILING MGT          3.0   130-0220   M W F  1720 BUS ED COMPLEX                   HILER J
+ 20    20  MKT  3500         1  MKT TOOLS FUNDAMENTA   3.0  1200-0120    T TH  1845 BUS ED COMPLEX                   BLACK W
+  8    32  MKT  4440         1  MKT ON THE INTERNET    3.0   130-0250    T TH  1220 BUS ED COMPLEX                   MINTZ O
+ 13    27  MKT  4440         2  MKT ON THE INTERNET    3.0   300-0420    T TH  1220 BUS ED COMPLEX                   MINTZ O
+(F)    22  MKT  4443         1  INTERNATIONAL MKT      3.0  1200-0120    T TH  1225 BUS ED COMPLEX                   WU J
+ 15    25  MKT  4443         2  INTERNATIONAL MKT      3.0   130-0250    T TH  1321 BUS ED COMPLEX                   WU J
+ 88    11  MKT  4445 CLI     1  INTERNSHIP IN MKT      1-6  TBA                                     PERMIS OF DEPT   BURNS A
+ 93     6  MKT  4445 CLI     2  INTERNSHIP IN MKT      1-6  TBA                                     PERMIS OF DEPT   KARAM T
+ 47    13  MKT  4451         1  MARKETING MANAGEMNT    3.0   900-1020    T TH  1845 BUS ED COMPLEX                   RICE D
+(F)    39  MKT  4451         2  MARKETING MANAGEMNT    3.0  1030-1150    T TH  1845 BUS ED COMPLEX                   RICE D
+ 11     9  MKT  4477 RES     2  IND STDY ADV MKT PRB   1-6   500-0750N     TH  1120 BUS ED COMPLEX  PERMIS OF DEPT   HERRICK C
+ 98     1  MKT  4477 RES     1  IND STDY ADV MKT PRB   1-6  TBA                                     PERMIS OF DEPT   KARAM T
+ 97     2  MKT  4477 RES     3  IND STDY ADV MKT PRB   1-6  TBA                                                      FOLSE J
+ 20        MKT  7477 RES     1  SEM ADV MKTG PROBLMS   3.0  TBA                                     PERMIS OF DEPT   BURNS A
+ 19     1  MKT  7477 RES     2  SEM ADV MKTG PROBLMS   3.0  TBA                                     PERMIS OF DEPT   KARAM T
+  7    13  MKT  7716         1  ADV MKT RESRCH TECH    3.0   130-0420    T     1120 BUS ED COMPLEX                   BLACK W
+ 16     4  MKT  7717 SEM     1  ADV SEM CONSUM BEHAV   3.0   130-0420      TH  1120 BUS ED COMPLEX                   NIEDRICH R
+ 99        MKT  8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      BURNS A
+ 94     5  MKT  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BURNS A

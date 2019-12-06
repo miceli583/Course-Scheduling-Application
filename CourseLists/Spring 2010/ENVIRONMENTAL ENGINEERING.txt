@@ -1,0 +1,9 @@
+  7    70  EVEG 3100         1  WATR DIST/WSTWTR COL   3.0   740-0830   M W F  2162 PATRICK TAYLOR                   YAN S
+(F)    71  EVEG 3110         1  WATR/WSTWTR TREATMNT   3.0  1040-1130   M W F  0214 WILLIAMS                         MALONE R
+  7     3  EVEG 3273 RES     1  IND UGRAD RES PROJ     1-4  TBA                                                      PARDUE J
+ 10    20  EVEG 3400         1  ENVIRON ENGINEER II    3.0   910-1030    T TH  0124 TUREAUD HALL                     MOE W
+  8     8  EVEG 4110         1  UNIT OPERATIOS LAB     2.0   140-0230     W    0225 TUREAUD HALL                     GUTIERREZ-WIN
+                     LAB                                     240-0530     W    0125 TUREAUD HALL                     GUTIERREZ-WIN
+ 12     8  EVEG 4151         1  INT ENVR SYST DES II   3.0   140-0430   M      3141 PATRICK TAYLOR                   PARDUE J
+ 17    23  EVEG 4780         2  SP TOP IN EVEG DESN    3.0   840-0930   M W F  1110 PATRICK TAYLOR                   PARDUE J
+  3    12  EVEG 4781         1  SP TOP IN EVEG SCI     3.0   940-1030   M W F  0200 TUREAUD HALL                     WILLSON C

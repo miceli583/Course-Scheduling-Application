@@ -1,0 +1,24 @@
+ 14     6  HORT 7913 SEM     1  SEMINAR                1.0   330-0530    T TH  0132 J C MILLER
+ 99        HORT 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BUSH E
+ 99        HORT 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      JOHNSON C
+ 96     3  HORT 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      KUEHNY J
+ 99        HORT 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      LABONTE D
+ 98     1  HORT 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      MOTSENBOCKER
+ 98     1  HORT 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      PICHA D
+ 98     1  HORT 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      BEASLEY J
+ 99        HORT 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      MOTSENBOCKER
+ 20        HORT 8900 RES     1  RESCH PROB IN HORT     3.0  TBA                                                      BUSH E
+ 18     2  HORT 8900 RES     2  RESCH PROB IN HORT     3.0  TBA                                                      JOHNSON C
+ 20        HORT 8900 RES     3  RESCH PROB IN HORT     3.0  TBA                                                      KUEHNY J
+ 20        HORT 8900 RES     4  RESCH PROB IN HORT     3.0  TBA                                                      LABONTE D
+ 20        HORT 8900 RES     5  RESCH PROB IN HORT     3.0  TBA                                                      MOTSENBOCKER
+ 20        HORT 8900 RES     6  RESCH PROB IN HORT     3.0  TBA                                                      PICHA D
+ 20        HORT 8900 RES     7  RESCH PROB IN HORT     3.0  TBA                                                      BEASLEY J
+ 20        HORT 8900 RES     8  RESCH PROB IN HORT     3.0  TBA                                                      WILSON P
+ 98     1  HORT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BUSH E
+ 99        HORT 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      JOHNSON C
+ 98     1  HORT 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      KUEHNY J
+ 98     1  HORT 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      LABONTE D
+ 99        HORT 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      BEASLEY J
+ 98     1  HORT 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      MOTSENBOCKER
+ 98     1  HORT 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      PICHA D

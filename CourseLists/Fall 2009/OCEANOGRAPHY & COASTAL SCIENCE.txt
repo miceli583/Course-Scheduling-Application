@@ -1,0 +1,79 @@
+  9   141  OCS  1005         1  INTRO OCEANOGRAPHY     3.0   940-1030   M W F  0010 LOCKETT                          LINDAU C
+  1   149  OCS  1005         2  INTRO OCEANOGRAPHY     3.0  1040-1130   M W F  0010 LOCKETT                          LINDAU C
+(F)   100  OCS  1005         4  INTRO OCEANOGRAPHY     3.0  1210-0130    T TH  0103 TUREAUD HALL                     WALKER N
+ 34    66  OCS  1005         3  INTRO OCEANOGRAPHY     3.0   440-0600N   T TH  0204 TUREAUD HALL                     LAROCK P
+  5    20  OCS  1006         1  HNRS: INTR OCEANOGR    3.0  1210-0130    T TH  1070 ENER,COAST,& EN                  CARNEY R
+  5    20  OCS  2009         1  INTR MARINE SCIENCE    4.0   940-1030   M W F  1070 ENER,COAST,& EN                  ROUSE L
+                     LAB                                    TBA                                                      ROUSE L
+  1        OCS  4001         3  SPEC TOP IN OCS        1-6  TBA                                                      LAPEYRE M
+ 13    12  OCS  4015         1  OCEAN TO ESTUARIES I   5.0  1040-1230    T TH  1280 ENER,COAST,& EN                  ROUSE L
+                     LAB                                    TBA                                                      ROUSE L
+ 10    20  OCS  4021         1  WEATHER ANALYSIS/SAT   3.0   310-0430   M W    0260 HOWE RUSSELL CO                  LI C
+  7    13  OCS  4090         1  MARINE/ENVIR MICRO     3.0   140-0300    T TH  0101 TUREAUD HALL                     LAROCK P
+(F)    22  OCS  4128         1  WTLD HYDROL/HYDRODYN   3.0   910-1030    T TH  1070 ENER,COAST,& EN                  CABLE J
+(F)    15  OCS  4165         1  ENVIR CHEM WETLANDS    3.0   110-0230    T TH  0135 LOCKETT                          GAMBRELL R
+  3     7  OCS  4410         1  ECOSYSTM MODEL/ANLYS   3.0   410-0700      TH                                        JUSTIC D
+ 11    14  OCS  4465         1  SEM COAST ZONE MGT     3.0   510-0800N  M      3141 PATRICK TAYLOR                   WILKINS J
+ 28     2  OCS  4600         1  GLOBAL ENVIR CHANGE    3.0   310-0430    T TH  0109 TUREAUD HALL                     LAWS E
+(F)    11  OCS  7001 RES     3  ECOLOGICAL RESTORATI   1-6   140-0300   M W                         PERMIS OF INST   TURNER R
+  9     6  OCS  7001 RES     4  HARMFUL ALGALE BLOOM   1-6   340-0630    T                                           BARGU ATES S
+  6     4  OCS  7001 RES     2  ENVIRONMENTAL OPTICS   1-6  TBA                                                      D'SA E
+  8     7  OCS  7001 RES     6  ADV TOP IN MARINE SC   1-6  TBA                                                      COWAN J
+ 14     1  OCS  7001 RES     7  SUPERVISED TEACHING    1-6  TBA                                     PERMIS OF INST   LAROCK P
+  9     6  OCS  7001 RES     9  CLIMATE CHG ECOSYS     1-6  TBA                                                      FRY B
+ 10     5  OCS  7121 CLI     1  ECO/MGT TROP ESTUAR    3.0   310-0430    T TH  3215 ENER,COAST,& EN                  TWILLEY R
+  2    13  OCS  7123         1  OCEAN DATA ANALYSIS    3.0   740-0900    T TH  1070 ENER,COAST,& EN                  LI C
+  6     9  OCS  7132         1  CSTL PHYS/CHEM SYSTM   3.0   140-0300   M      1070 ENER,COAST,& EN                  GAMBRELL R
+                     LAB                                    TBA                                                      GAMBRELL R
+ 97     2  OCS  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BALTZ D
+ 95     4  OCS  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      COWAN J
+ 99        OCS  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BENFIELD M
+ 99        OCS  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      LIU K
+ 99        OCS  8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      CABLE J
+ 98     1  OCS  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      D'SA E
+ 99        OCS  8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      CONDREY R
+ 99        OCS  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      DAY J
+ 99        OCS  8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      FRY B
+ 98     1  OCS  8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      GAMBRELL R
+ 97     2  OCS  8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      LI C
+ 99        OCS  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      JUSTIC D
+ 98     1  OCS  8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      WHITE J
+ 99        OCS  8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      MENDELSSOHN I
+ 98     1  OCS  8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      WALKER N
+ 98     1  OCS  8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      ROSE K
+ 97     2  OCS  8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      SHAW R
+ 98     1  OCS  8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      STONE G
+ 99        OCS  8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      TURNER R
+ 97     2  OCS  8000 RES    24  THESIS RESEARCH        1-12 TBA                                                      BARGU ATES S
+ 99        OCS  8000 RES    25  THESIS RESEARCH        1-12 TBA                                                      ROBERTS H
+ 98     1  OCS  8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      TWILLEY R
+ 99        OCS  8000 RES    28  THESIS RESEARCH        1-12 TBA                                                      HUANG H
+ 98     1  OCS  8000 RES    29  THESIS RESEARCH        1-12 TBA                                                      POWERS J
+ 97     2  OCS  8901 RES     1  ADV FIELD RESEARCH     1-6  TBA                                                      TURNER R
+ 98     1  OCS  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BALTZ D
+ 99        OCS  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BENFIELD M
+ 99        OCS  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CABLE J
+ 98     1  OCS  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      D'SA E
+ 98     1  OCS  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      CONDREY R
+ 99        OCS  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      DAY J
+ 99        OCS  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      BARGU ATES S
+ 99        OCS  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      FRY B
+ 97     2  OCS  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      GAMBRELL R
+ 98     1  OCS  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      HUANG H
+ 99        OCS  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      LI C
+ 98     1  OCS  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      CARNEY R
+ 97     2  OCS  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      MENDELSSOHN I
+ 98     1  OCS  9000 RES    16  DISSERTATION RES       1-12 TBA                                                      WHITE J
+ 97     2  OCS  9000 RES    17  DISSERTATION RES       1-12 TBA                                                      ROBERTS H
+ 99        OCS  9000 RES    18  DISSERTATION RES       1-12 TBA                                                      ROSE K
+ 99        OCS  9000 RES    20  DISSERTATION RES       1-12 TBA                                                      SHAW R
+ 96     3  OCS  9000 RES    21  DISSERTATION RES       1-12 TBA                                                      LIU K
+ 97     2  OCS  9000 RES    22  DISSERTATION RES       1-12 TBA                                                      TURNER R
+ 98     1  OCS  9000 RES    25  DISSERTATION RES       1-12 TBA                                                      POWERS J
+ 97     2  OCS  9000 RES    26  DISSERTATION RES       1-12 TBA                                                      WALKER N
+ 97     2  OCS  9000 RES    27  DISSERTATION RES       1-12 TBA                                                      RABALAIS N
+ 97     2  OCS  9000 RES    30  DISSERTATION RES       1-12 TBA                                                      JUSTIC D
+ 94     5  OCS  9000 RES    32  DISSERTATION RES       1-12 TBA                                                      COWAN J
+ 96     3  OCS  9000 RES    33  DISSERTATION RES       1-12 TBA                                                      STONE G
+ 97     2  OCS  9000 RES    34  DISSERTATION RES       1-12 TBA                                                      TWILLEY R
+ 98     1  OCS  9000 RES    36  DISSERTATION RES       1-12 TBA                                                      LINDAU C

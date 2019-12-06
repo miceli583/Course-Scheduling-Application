@@ -1,0 +1,39 @@
+(F)    44  MGT  2000         1  INNOV & CREATIVITY     3.0  1130-1220   M W F  1835 BUS ED N WING                    BOULLION M
+(F)    50  MGT  3111         1  ENTREPRENEURSHIP       3.0   900-1020    T TH  0218 COATES                           MATHIAS B
+  2    48  MGT  3111         2  ENTREPRENEURSHIP       3.0  1030-1150    T TH  0212 COATES                           MATHIAS B
+(F)    43  MGT  3200         2  PRINC OF MANAGEMENT    3.0   830-0920   M W F  1835 BUS ED N WING                    ESKEN C
+(F)    40  MGT  3200         3  PRINC OF MANAGEMENT    3.0   930-1020   M W F  1835 BUS ED N WING                    TAYLOR E
+(F)    40  MGT  3200         4  PRINC OF MANAGEMENT    3.0  1030-1120   M W F  1835 BUS ED N WING                    SOLOMON S
+(F)   900  MGT  3200         1  PRINC OF MANAGEMENT    3.0  1030-1150    T TH  0101 GYM AUDITORIUM                   SAULEY K
+  5    16  MGT  3211         1  BUSINESS & SOCIETY     3.0   900-1020    T TH  1409 BUS ED S WING                    MARIN D
+  2    18  MGT  3211         2  BUSINESS & SOCIETY     3.0  1030-1150    T TH  1120 BUS ED S WING                    MARIN D
+(F)     8  MGT  3280 CLI     1  MGT INTERNSHIP         3.0  TBA                                     PERMIS OF INST   MARIN D
+  1    59  MGT  3320         1  HUMAN RESOURCE MGT     3.0   830-0920   M W F  1800 BUS ED N WING                    HIGHTOWER G
+(F)    60  MGT  3320         2  HUMAN RESOURCE MGT     3.0   930-1020   M W F  1800 BUS ED N WING                    HIGHTOWER G
+(F)    62  MGT  3320         3  HUMAN RESOURCE MGT     3.0   900-1020    T TH  1615 BUS ED N WING                    MORGAN Y
+(F)    60  MGT  3320         5  HUMAN RESOURCE MGT     3.0  1030-1150    T TH  1700 BUS ED N WING                    MORGAN Y
+(F)    50  MGT  3513         1  LABOR-MGT CONF/COOP    3.0  1130-1220   M W F  1845 BUS ED N WING                    CHANDLER T
+(F)    50  MGT  3513         2  LABOR-MGT CONF/COOP    3.0  1230-0120   M W F  1845 BUS ED N WING                    CHANDLER T
+  7    33  MGT  3830         6  STRAT MANAGING ORGS    3.0   830-0920   M W F  1845 BUS ED N WING                    PETERSON L
+  4    36  MGT  3830         7  STRAT MANAGING ORGS    3.0   930-1020   M W F  1845 BUS ED N WING                    PETERSON L
+  1    39  MGT  3830         8  STRAT MANAGING ORGS    3.0  1030-1120   M W F  1845 BUS ED N WING                    PETERSON L
+(F)    53  MGT  3830         4  STRAT MANAGING ORGS    3.0   900-1020    T TH  0214 COATES                           BANKS M
+(F)    53  MGT  3830         5  STRAT MANAGING ORGS    3.0  1030-1150    T TH  0214 COATES                           BANKS M
+(F)    50  MGT  3830         2  STRAT MANAGING ORGS    3.0   130-0250    T TH  1845 BUS ED N WING                    BRAGAW N
+(F)    50  MGT  3830         1  STRAT MANAGING ORGS    3.0   300-0420    T TH  1800 BUS ED N WING                    GRECKHAMER T
+(F)    53  MGT  3830         3  STRAT MANAGING ORGS    3.0   300-0420    T TH  1845 BUS ED N WING                    BRAGAW N
+  2     3  MGT  4020 CLI     1  INTERN ENTREPRENEUR    3.0  TBA                                                      GRECKHAMER T
+(F)     1  MGT  4030 RES     1  INDEP STUDY ENTREPRE   3.0  TBA                                                      GRECKHAMER T
+  1    48  MGT  4113         1  SMALL BUSINESS MANAG   3.0   900-1020    T TH  1735 BUS ED N WING                    IRWIN J
+  1    49  MGT  4113         2  SMALL BUSINESS MANAG   3.0  1030-1150    T TH  1735 BUS ED N WING                    IRWIN J
+(F)    40  MGT  4120         1  SOCIAL ENTREPRENEUR    3.0   300-0420   M W    1305 BUS ED S WING                    BANKS M
+  3    37  MGT  4323         1  COMPENSATION ADMINIS   3.0  1200-0120    T TH  1720 BUS ED N WING                    HENAGAN S
+ 15    25  MGT  4420         3  MULTINATIONAL MGT      3.0  1130-1220   M W F  1620 BUS ED N WING                    PETERSON L
+(F)    40  MGT  4420         1  MULTINATIONAL MGT      3.0   300-0420    T TH  1305 BUS ED S WING                    WHITMAN D
+  1    39  MGT  4420         2  MULTINATIONAL MGT      3.0   430-0550N   T TH  1800 BUS ED N WING                    WHITMAN D
+(F)    50  MGT  4620         1  HUMAN BEHAV ORGANIZA   3.0  1200-0120    T TH  1615 BUS ED N WING                    BERNERTH J
+ 10    40  MGT  4620         2  HUMAN BEHAV ORGANIZA   3.0   300-0420    T TH  1615 BUS ED N WING                    BERNERTH J
+  5     5  MGT  7600         1  ORG BEHAVIOR           3.0  TBA                                                      BEUS J
+  5     5  MGT  7800 SEM     1  CUR ISS STRATEGIC MG   3.0  TBA                                                      MCGUIRE J
+(F)     1  MGT  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      GRECKHAMER T
+  2     3  MGT  9202 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      MCGUIRE J

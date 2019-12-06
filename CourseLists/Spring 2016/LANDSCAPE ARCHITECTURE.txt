@@ -1,0 +1,38 @@
+  3    16  LA   1102 LAB     1  LANDSCAPE REPRES II    3.0   900-1050   M W F  0321 DESIGN BUILDING                  MARSHALL C
+ 98   182  LA   1201         1  INTR LANDSCAPE ARCH    3.0   830-0920   M W F  0143 COATES                           CONRAD M
+(F)   204  LA   1201         2  INTR LANDSCAPE ARCH    3.0  1030-1150    T TH  0016 LOCKETT                          CONRAD M
+  8   356  LA   1203         1  VIEWS AMER LANDSCAPE   3.0   830-0920   M W F  0002 LOCKETT                          FRYLING C
+  1    11  LA   2002 LAB     1  LANDSCAPE DESIGN II    6.0   130-0520   M W F  0322 DESIGN BUILDING                  STEINER H
+  2    10  LA   2301         1  LANDSCAPE TECH I       3.0   830-1120    T TH  0313 DESIGN BUILDING                  BOYER M
+                     LAB                                     830-1120    T TH  0313 DESIGN BUILDING                  BOYER M
+  2    10  LA   2401         1  LANDSCAPE ECOLOGY      3.0   100-0350      TH  0304 DESIGN BUILDING                  FRYLING C
+  1    15  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0304 DESIGN BUILDING CI-WRITTEN&VISU  JARVIS K
+(F)    14  LA   3201         1  LANDSCAPE HISTORY II   3.0   830-0920   M W F  0201 DESIGN BUILDING                  RISK J
+  1    15  LA   3302         1  LANDSCAPE TECH III     3.0   130-0250    T TH  0301 DESIGN BUILDING                  PETTY M
+                     LAB                                     130-0250    T TH  0301 DESIGN BUILDING                  PETTY M
+(F)    14  LA   3402         1  PLANT MATERIALS II     3.0   900-1150    T TH  0301 DESIGN BUILDING                  FRYLING C
+                     LAB                                     900-1150    T TH  0301 DESIGN BUILDING                  FRYLING C
+  1    13  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      JARVIS K
+  5    40  LA   4501 RES     1  FIELD STUDIES IN L A   3.0   600-0850N  M      0301 DESIGN BUILDING                  CONRAD M
+(F)     1  LA   4502 RES     1  IND STUDY IN L A       3.0  TBA                                                      ALLEN A
+ 11     1  LA   4502 RES     2  IND STUDY IN L A       3.0  TBA                                                      SHARKY B
+  6     9  LA   4504 SEM     1  ADV ELECTIVE IN L A    3.0  1200-0120    T TH  0308 DESIGN BUILDING                  BOYER M
+ 12    13  LA   4504 SEM     3  ADV ELECTIVE IN L A    3.0   600-0850N   T     0308 DESIGN BUILDING                  ALLEN A
+(F)    13  LA   5002 LAB     1  LANDSCAPE DESN VIII    6.0   130-0520   M W F  0310 DESIGN BUILDING                  JARVIS K
+(F)    13  LA   5301         1  L A PROFESNL PRACTCE   3.0   130-0250    T TH  0313 DESIGN BUILDING                  BOYER M
+  1    12  LA   7021 LAB     1  SITE SYSTEMS II        6.0   130-0520   M W F  0226 DESIGN BUILDING                  MARSHALL C
+ 10    13  LA   7023         1  HISTORY & THEORY II    3.0   830-0920   M W F                                        RISK J
+ 10    13  LA   7024         2  ECOLOGY & TECH II      3.0   900-1020    T TH  0308 DESIGN BUILDING                  MICHAELS K
+(F)    15  LA   7041 LAB     1  URBAN SYSTEMS          6.0   130-0520   M W F  0225 DESIGN BUILDING                  JARVIS K
+ 24     1  LA   7042         1  HISTORY & THEORY IV    3.0   930-1020   M W F  0308 DESIGN BUILDING
+  2    16  LA   7043         1  PROFESSIONAL PRACTIC   3.0   130-0250    T TH                                        BOYER M
+(F)    20  LA   7044         1  ECOLOGY & TECH IV      3.0   930-1050    T TH  0316 DESIGN BUILDING                  SHARKY B
+  5    12  LA   7061 LAB     1  ADVANCED TOPICS II     6.0   130-0520   M W F  0326 DESIGN BUILDING                  JARVIS K
+  7    16  LA   7102 LAB     1  GRAD LANDSC REPR II    3.0   930-1120   M W F  0301 DESIGN BUILDING                  LIPSCHITZ F
+  5    10  LA   7201 SEM     1  RESEARCH METHODS       3.0   300-0420    T TH  0308 DESIGN BUILDING                  ALLEN A
+  6     9  LA   7401 SEM     1  GRAD LANDSC ECOL       3.0  1130-1220   M W F  0301 DESIGN BUILDING                  BOYER M
+(F)     7  LA   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ALLEN A
+  2     1  LA   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      MICHAELS K
+  2        LA   8000 RES     3  THESIS RESEARCH        1-12 TBA
+  1        LA   8000 RES     4  THESIS RESEARCH        1-12 TBA
+  1        LA   8000 RES     5  THESIS RESEARCH        1-12 TBA

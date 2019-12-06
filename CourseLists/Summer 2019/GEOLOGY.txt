@@ -1,0 +1,12 @@
+ 39    41  GEOL 1001         1  GEN GEOL PHYSICAL      3.0  1100-1200   MTWTF  E134 HOWE RUSSELL E                   GARELLO D
+ 48    22  GEOL 1003         1  GEN GEOL HISTORICAL    3.0  0950-1050   MTWTF  E134 HOWE RUSSELL E                   ZHOU P
+  3    12  GEOL 1601 LAB     1  PHYSICAL GEOL LAB      1.0   120-0420   M W    E213 HOWE RUSSELL E                   ELLWOOD B
+ 21     3  GEOL 1602 LAB     1  HISTORICAL GEOL LAB    1.0   120-0420    T TH  E207 HOWE RUSSELL E                   ELLWOOD B
+ 20    10  GEOL 3666 LAB     1  FIELD GEOLOGY          6.0  TBA                                     CI-WRITTEN&VISU  LUTHER A
+ 44     1  GEOL 7909 RES     1  DIR RES IN GEOL/GEOP   1-6  TBA                                                      LORENZO J
+ 99        GEOL 7909 RES     2  DIR RES IN GEOL/GEOP   1-6  TBA
+ 99        GEOL 7909 RES     3  DIR RES IN GEOL/GEOP   1-6  TBA
+ 97     2  GEOL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      DORAN P
+  4     1  GEOL 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      WILSON C
+  4     1  GEOL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      LUTTRELL K
+  3     2  GEOL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      WILSON C

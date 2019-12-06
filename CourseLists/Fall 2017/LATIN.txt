@@ -1,0 +1,12 @@
+(F)    21  LATN 1001         1  ELEMENTARY LATIN       4.0   730-0820   MTWTH  0424 HODGES HALL                      ANDERSON P
+(F)    22  LATN 1001         2  ELEMENTARY LATIN       4.0   830-0920   MTWTH  0284 LOCKETT                          WATANABE A
+(F)    21  LATN 1001         3  ELEMENTARY LATIN       4.0   930-1020   MTWTH  0239 LOCKETT                          BATINSKI E
+(F)    21  LATN 1001         4  ELEMENTARY LATIN       4.0  1030-1120   MTWTH  0137 ALLEN                            WATANABE A
+  2    19  LATN 1001         5  ELEMENTARY LATIN       4.0  1130-1220   MTWTH  0135 LOCKETT                          BATINSKI E
+(F)    21  LATN 1001         6  ELEMENTARY LATIN       4.0  1230-0120   MTWTH  0111 LOCKETT                          WATANABE A
+  5    23  LATN 2051         1  INTERMEDIATE LATIN     4.0   830-0920   MTWTH  0232 LOCKETT                          KATCHMER M
+  3    25  LATN 2051         2  INTERMEDIATE LATIN     4.0   930-1020   MTWTH  0284 LOCKETT                          KATCHMER M
+  6    16  LATN 2053         1  INTERMEDIATE LATIN     3.0  1030-1120   M W F  0237 LOCKETT                          WARGA R
+ 13     9  LATN 2053         2  INTERMEDIATE LATIN     3.0  1230-0120   M W F  0123 ALLEN                            KATCHMER M
+(F)    28  LATN 2073         1  ROMAN HISTORIANS       3.0  1230-0120   M W F  0284 LOCKETT                          BATINSKI E
+ 10     5  LATN 4023         1  OVID METAMORPHOSE      3.0  1030-1120   M W F  0334 HODGES HALL                      FLETCHER K

@@ -1,0 +1,45 @@
+ 23     2  ME   2723         1  MATERIALS OF ENGR FO   3.0  1100-1200   MTWTF  1112 PATRICK TAYLOR                   MOLDOVAN D
+  7    13  ME   2733         1  MATERIALS OF ENGR      3.0  1100-1200   MTWTF  1112 PATRICK TAYLOR                   MOLDOVAN D
+ 24    41  ME   3133         1  DYNAMICS               3.0   120-0220   MTWTF  2142 PATRICK TAYLOR                   PANG S
+                     LAB                                     230-0330   MTWTF  2142 PATRICK TAYLOR                   PANG S
+ 80    19  ME   3249 RES     1  ENGINEERING PRACTICE   1-3  TBA                                                      HELMS J
+ 20    30  ME   3333         1  THERMODYNAMICS         3.0   120-0220   MTWTF  1118 PATRICK TAYLOR                   CHARALAMPOPOU
+  1     5  ME   3633         1  MANFUCT PROCESS & ME   3.0  1000-1100   MTWTF  3141 PATRICK TAYLOR                   HELMS J
+                     LAB                                     130-0430   M                                            HELMS J
+  1     4  ME   3633         2  MANFUCT PROCESS & ME   3.0  1000-1100   MTWTF  3141 PATRICK TAYLOR                   HELMS J
+                     LAB                                     430-0730N  M                                            HELMS J
+(F)     6  ME   3633         3  MANFUCT PROCESS & ME   3.0  1000-1100   MTWTF  3141 PATRICK TAYLOR                   HELMS J
+                     LAB                                     130-0430    T                                           HELMS J
+(F)     5  ME   3633         4  MANFUCT PROCESS & ME   3.0  1000-1100   MTWTF  3141 PATRICK TAYLOR                   HELMS J
+                     LAB                                     430-0730N   T                                           HELMS J
+(F)    12  ME   3701 LAB     1  MATRLS OF ENGRNG LAB   1.0   130-0430    T TH                                        MOLDOVAN D
+ 18     2  ME   3903 RES     1  SP PROJECTS UNDER GR   3.0  TBA                                                      HELMS J
+ 19     1  ME   3903 RES     2  SP PROJECTS UNDER GR   3.0  TBA                                                      WANG Y
+ 18    12  ME   4433         1  HEAT TRANSFER          3.0  0900-1000   MTWTF  1118 PATRICK TAYLOR                   CHARALAMPOPOU
+  1     9  ME   4621 LAB     2  THERMAL SCIENCE LAB    1.0   330-0630    T TH                       CI-WRITTEN       WONG H
+  3     2  ME   7903 RES     1  INDEP STDY IN ME       3.0  TBA                                                      NIKITOPOULOS
+  4     1  ME   7903 RES     2  INDEP STDY IN ME       3.0  TBA                                                      NIKITOPOULOS
+  4     1  ME   7903 RES     3  INDEP STDY IN ME       3.0  TBA                                                      DE QUEIROZ M
+  4     1  ME   7903 RES     4  INDEP STDY IN ME       3.0  TBA                                                      DE QUEIROZ M
+  4     1  ME   7903 RES     5  INDEP STDY IN ME       3.0  TBA                                                      GONTHIER K
+  3     2  ME   7903 RES     8  INDEP STDY IN ME       3.0  TBA                                                      ACHARYA S
+  4     1  ME   7903 RES     9  INDEP STDY IN ME       3.0  TBA                                                      WANG Y
+ 98     1  ME   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      GONTHIER K
+ 97     2  ME   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      GUO S
+ 98     1  ME   8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      MOLDOVAN D
+ 98     1  ME   8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      NIKITOPOULOS
+ 98     1  ME   8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      RAM Y
+ 98     1  ME   8000 RES    29  THESIS RESEARCH        1-12 TBA                                                      SCHOEGL I
+ 96     3  ME   9000 RES     1  DISSERTATION RES       1-12 TBA                                                      ACHARYA S
+ 97     2  ME   9000 RES     4  DISSERTATION RES       1-12 TBA                                                      DEVIREDDY R
+ 98     1  ME   9000 RES     6  DISSERTATION RES       1-12 TBA                                                      GONTHIER K
+ 97     2  ME   9000 RES     9  DISSERTATION RES       1-12 TBA                                                      KHONSARI M
+ 97     2  ME   9000 RES    11  DISSERTATION RES       1-12 TBA                                                      MENG W
+ 97     2  ME   9000 RES    12  DISSERTATION RES       1-12 TBA                                                      MOLDOVAN D
+ 96     3  ME   9000 RES    14  DISSERTATION RES       1-12 TBA                                                      NIKITOPOULOS
+ 97     2  ME   9000 RES    15  DISSERTATION RES       1-12 TBA                                                      PANG S
+ 97     2  ME   9000 RES    18  DISSERTATION RES       1-12 TBA                                                      WAHAB M
+ 98     1  ME   9000 RES    23  DISSERTATION RES       1-12 TBA                                                      WANG W
+ 97     2  ME   9000 RES    24  DISSERTATION RES       1-12 TBA                                                      WOLDESENBET E
+ 98     1  ME   9000 RES    25  DISSERTATION RES       1-12 TBA                                                      WONG H
+ 98     1  ME   9000 RES    27  DISSERTATION RES       1-12 TBA                                                      WANG Y

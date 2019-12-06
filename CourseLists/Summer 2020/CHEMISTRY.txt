@@ -1,0 +1,50 @@
+ 74     6  CHEM 1201         1  GEN CHEMISTRY I        3.0  0840-0940   MTWTF
+104    21  CHEM 1202         1  GENERAL CHEMISTRY      3.0  1100-1200   MTWTF
+ 13     3  CHEM 1212 LAB     1  GENERAL CHEM LAB       2.0  0840-1050   MTWTH
+ 15     1  CHEM 1212 LAB     2  GENERAL CHEM LAB       2.0  0840-1050   MTWTH
+  7     9  CHEM 1212 LAB     3  GENERAL CHEM LAB       2.0   120-0330   MTWTH
+ 14     2  CHEM 1212 LAB     4  GENERAL CHEM LAB       2.0   120-0330   MTWTH
+ 35     5  CHEM 2001         1  ANALYTICAL CHEMISTRY   3.0  0950-1050   MTWTF
+ 45     5  CHEM 2060         1  SURVEY ORGANIC CHEM    3.0  0950-1050   MTWTF
+136    14  CHEM 2261         1  ORGANIC CHEMISTRY      3.0   120-0220   MTWTF
+138    22  CHEM 2262         1  ORGANIC CHEMISTRY      3.0  1210-0110   MTWTF
+ 20    13  CHEM 2364 LAB     1  ORGANIC CHEM LAB       2.0  0840-1150   MTWTH
+ 31     2  CHEM 2364 LAB     2  ORGANIC CHEM LAB       2.0  0840-1150   MTWTH
+ 14    19  CHEM 2364 LAB     3  ORGANIC CHEM LAB       2.0   120-0430   MTWTH
+ 32     1  CHEM 2364 LAB     4  ORGANIC CHEM LAB       2.0   120-0430   MTWTH
+ 99        CHEM 2900 CLI     1  INTRO TO RESEARCH      1-2  TBA
+ 99        CHEM 3900 RES     1  RESEARCH IN CHEM       1-3  TBA
+ 99        CHEM 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BUTLER L
+ 99        CHEM 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      CHAMBERS M
+ 99        CHEM 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CHEN B
+ 99        CHEM 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      COOK R
+ 99        CHEM 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      CROWE W
+ 99        CHEM 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      DURAN R
+ 99        CHEM 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      ELGRISHI N
+ 99        CHEM 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      GARNO J
+ 99        CHEM 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      GILMAN S
+ 99        CHEM 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      HABER L
+ 99        CHEM 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      KARTIKA R
+ 99        CHEM 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      KUMAR R
+ 99        CHEM 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      KURODA D
+ 99        CHEM 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      LEE S
+ 99        CHEM 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      LOPATA K
+ 99        CHEM 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      MACNAUGHTAN M
+ 99        CHEM 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      MARZILLI L
+ 99        CHEM 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      MAVERICK A
+ 99        CHEM 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      MCCARLEY R
+ 99        CHEM 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      MURRAY K
+ 99        CHEM 9000 RES    21  DISSERTATION RES       1-12 TBA                                                      NESTEROV E
+ 99        CHEM 9000 RES    22  DISSERTATION RES       1-12 TBA                                                      POJMAN J
+ 99        CHEM 9000 RES    23  DISSERTATION RES       1-12 TBA                                                      RAGAINS J
+ 99        CHEM 9000 RES    24  DISSERTATION RES       1-12 TBA                                                      RIVERA-LAOS M
+ 99        CHEM 9000 RES    25  DISSERTATION RES       1-12 TBA                                                      SCHNEIDER G
+ 99        CHEM 9000 RES    26  DISSERTATION RES       1-12 TBA                                                      SMITH K
+ 99        CHEM 9000 RES    27  DISSERTATION RES       1-12 TBA                                                      SPIVAK D
+ 99        CHEM 9000 RES    28  DISSERTATION RES       1-12 TBA                                                      STANLEY G
+ 99        CHEM 9000 RES    29  DISSERTATION RES       1-12 TBA                                                      TAYLOR C
+ 99        CHEM 9000 RES    30  DISSERTATION RES       1-12 TBA                                                      VICENTE M
+ 99        CHEM 9000 RES    31  DISSERTATION RES       1-12 TBA                                                      WANG T
+ 99        CHEM 9000 RES    32  DISSERTATION RES       1-12 TBA                                                      WARNER I
+ 99        CHEM 9000 RES    33  DISSERTATION RES       1-12 TBA                                                      XIE W
+ 99        CHEM 9000 RES    34  DISSERTATION RES       1-12 TBA                                                      ZHANG D

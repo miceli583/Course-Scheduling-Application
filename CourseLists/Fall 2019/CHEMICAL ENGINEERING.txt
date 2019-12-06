@@ -1,0 +1,100 @@
+ 33   187  CHE  1100         1  INTRO CHEM ENGINEER    1.0   430-0520N  M      1100 PATRICK TAYLOR                   GUILLORY A
+ 33    17  CHE  2171         1  CHE FUND MAT EN BAL    4.0   930-1020   M W F  1620 BUS ED N WING                    PENDERGAST J
+                     LAB                                     130-0420   M                                            PENDERGAST J
+ 31    19  CHE  2171         2  CHE FUND MAT EN BAL    4.0   930-1020   M W F  1620 BUS ED N WING                    PENDERGAST J
+                     LAB                                     130-0420    T                                           CORRIPIO A
+ 21    29  CHE  2171         3  CHE FUND MAT EN BAL    4.0  1030-1120   M W F  1620 BUS ED N WING                    PENDERGAST J
+                     LAB                                     130-0420   M                                            PENDERGAST J
+ 18    32  CHE  2171         4  CHE FUND MAT EN BAL    4.0  1030-1120   M W F  1620 BUS ED N WING                    PENDERGAST J
+                     LAB                                     130-0420    T                                           CORRIPIO A
+ 40    80  CHE  2172         1  CHE THERMODYNAMICS     3.0   930-1020   M W F  1200 PATRICK TAYLOR                   BHARTI B
+  1    45  CHE  2176         1  NUM METH & PROG CHE    4.0  1030-1150   M W    1124APATRICK TAYLOR                   HANLEY B
+                     LAB                                     130-0420     W                                          HANLEY B
+ 18    26  CHE  2176         2  NUM METH & PROG CHE    4.0  1030-1150   M W    1124APATRICK TAYLOR                   HANLEY B
+                     LAB                                     130-0420      TH                                        HANLEY B
+ 89    61  CHE  3101         1  MOMENTUM TRANSFER      3.0   830-0920   M W F  1200 PATRICK TAYLOR                   DOOLEY K
+  2    81  CHE  3102         1  HEAT/MASS TRANSFER     4.0   830-1020   M W    1253 PATRICK TAYLOR                   VALSARAJ K
+(F)     7  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR  CI-WRITTEN&SPOK  GRIFFIN G
+                     LAB                                     130-0420   M                                            GRIFFIN G
+(F)     7  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR  CI-WRITTEN&SPOK  GRIFFIN G
+                     LAB                                     130-0420   M                                            BALHOFF D
+(F)     7  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR  CI-WRITTEN&SPOK  GRIFFIN G
+                     LAB                                     130-0420   M                                            LAWRENCE J
+(F)     7  CHE  3104         4  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR                   GRIFFIN G
+                     LAB                                     130-0420    T                                           DING K
+(F)     7  CHE  3104         5  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR                   GRIFFIN G
+                     LAB                                     130-0420    T                                           MCPEAK K
+(F)     7  CHE  3104         6  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR                   GRIFFIN G
+                     LAB                                     130-0420    T                                           DORMAN J
+(F)     7  CHE  3104         7  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR                   GRIFFIN G
+                     LAB                                     130-0420     W                                          GUTIERREZ-WIN
+(F)     7  CHE  3104         8  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR  CI-WRITTEN&SPOK  GRIFFIN G
+                     LAB                                     130-0420     W                                          GRIFFIN G
+(F)     7  CHE  3104         9  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR                   GRIFFIN G
+                     LAB                                     130-0420     W                                          BALHOFF D
+(F)     4  CHE  3104        10  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR                   GRIFFIN G
+                     LAB                                     130-0420      TH                                        GUTIERREZ-WIN
+(F)     4  CHE  3104        11  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR  CI-WRITTEN&SPOK  GRIFFIN G
+                     LAB                                     130-0420      TH                                        GRIFFIN G
+(F)     4  CHE  3104        12  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1253 PATRICK TAYLOR                   GRIFFIN G
+                     LAB                                     130-0420      TH                                        BALHOFF D
+  7    63  CHE  3171         1  INTRO DES PROC SFTY    3.0  1200-0120    T TH  1124 PATRICK TAYLOR  CI-VISUAL        GUILLORY A
+ 26    54  CHE  3173         1  HETEROGENUS EQULBRUM   3.0  1030-1120   M W F  1253 PATRICK TAYLOR                   NANDAKUMAR K
+  5   135  CHE  3190         1  CHEM REACTION ENGR     3.0  1030-1120   M W F  1100 PATRICK TAYLOR                   GRIFFIN G
+(F)    17  CHE  3249 CLI     1  CO-OP CHE INDUSTRY     3.0  TBA                                                      GUILLORY A
+  8     2  CHE  3900 IND     1  IND RESEARCH I         3.0  TBA                                                      BENTON M
+ 97     2  CHE  3900 IND     2  IND RESEARCH I         3.0  TBA                                                      DOOLEY K
+ 98     1  CHE  3900 IND     3  IND RESEARCH I         3.0  TBA                                                      MELVIN A
+ 98     1  CHE  3901 IND     1  IND RESEARCH II        3.0  TBA                                                      BENTON M
+  2     1  CHE  3910 IND     1  HON IND RESEARCH I     3.0  TBA                                                      MELVIN A
+(F)     2  CHE  3910 IND     2  HON IND RESEARCH I     3.0  TBA                                                      ARGES C
+(F)     1  CHE  3911 IND     1  HON IND RESEARCH II    3.0  TBA                                                      DORMAN J
+  2    68  CHE  4151         1  UNIT OPS DESIGN        4.0   830-0920   M W F  1263 PATRICK TAYLOR                   HANLEY B
+                     LAB                                     900-1020    T TH                                        HANLEY B
+ 17    53  CHE  4151         2  UNIT OPS DESIGN        4.0   830-0920   M W F  1263 PATRICK TAYLOR                   HANLEY B
+                     LAB                                    1030-1150    T TH                                        HANLEY B
+(F)     9  CHE  4162         1  UNIT OPERATIONS LAB    3.0   430-0520N  M      1218 PATRICK TAYLOR  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W                                          TOUPS H
+  5     4  CHE  4162         2  UNIT OPERATIONS LAB    3.0   430-0520N  M      1218 PATRICK TAYLOR  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W                                          PLAISANCE C
+(F)     9  CHE  4162         3  UNIT OPERATIONS LAB    3.0   430-0520N  M      1218 PATRICK TAYLOR  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W                                          TOUPS H
+  5     4  CHE  4162         4  UNIT OPERATIONS LAB    3.0   430-0520N  M      1218 PATRICK TAYLOR  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W                                          MELVIN A
+(F)     9  CHE  4162         5  UNIT OPERATIONS LAB    3.0   430-0520N   T     1216 PATRICK TAYLOR  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH                                        TOUPS H
+  3     6  CHE  4162         6  UNIT OPERATIONS LAB    3.0   430-0520N   T     1216 PATRICK TAYLOR  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH                                        SPIVEY J
+  3     6  CHE  4162         7  UNIT OPERATIONS LAB    3.0   430-0520N   T     1216 PATRICK TAYLOR  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH                                        TOUPS H
+  8     1  CHE  4162         8  UNIT OPERATIONS LAB    3.0   430-0520N   T     1216 PATRICK TAYLOR  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH                                        ARGES C
+ 16   133  CHE  4198         1  PROCESS DYNAMICS       3.0  1130-1220   M W F  1200 PATRICK TAYLOR                   ROMAGNOLI J
+  7    33  CHE  4210         1  INDUSTRL CATALYSIS     3.0  1230-0120   M W F  1236 PATRICK TAYLOR                   DING K
+ 10    80  CHE  4220         1  GENETIC ENGINEERING    3.0   130-0250    T TH  1221 PATRICK TAYLOR  CI-VISUAL&TECH   BENTON M
+ 15    15  CHE  4285         1  PRIN HIGH POLYMERS     3.0  1030-1150    T TH  1216 PATRICK TAYLOR  CI-WRITTEN&TECH  LAWRENCE J
+ 13     2  CHE  4410         1  SP TOP IN CHE DESIGN   3.0   130-0320       F  1216 PATRICK TAYLOR                   FLAKE J
+  9    16  CHE  7110         1  MATHEMAT MODELS CHE    3.0   330-0450   M W    1244 PATRICK TAYLOR                   HJORTSO M
+ 10    15  CHE  7120         1  CHE THERMODYNAMICS     3.0   200-0320   M W    1240 PATRICK TAYLOR                   SHELTON W
+  9    16  CHE  7130         1  HEAT MASS TRANSPORT    3.0   330-0450    T TH  1258 PATRICK TAYLOR                   XU Y
+ 24     1  CHE  7700         2  ADV TOPICS IN CHE      3.0   730-0850   M W    1218 PATRICK TAYLOR                   BENTON M
+ 15    10  CHE  7700         1  ADV TOPICS IN CHE      3.0  1200-0120    T TH  1218 PATRICK TAYLOR                   MCPEAK K
+ 19     6  CHE  7700         3  ADV TOPICS IN CHE      3.0  TBA                                                      LAWRENCE J
+ 25    63  CHE  7800 SEM     1  SEMINAR                1.0   200-0250       F  1225 PATRICK TAYLOR                   XU Y
+ 92     7  CHE  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      ARGES C
+ 95     4  CHE  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BENTON M
+ 97     2  CHE  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      DOOLEY K
+ 92     7  CHE  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      DORMAN J
+ 98     1  CHE  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      FLAKE J
+ 95     4  CHE  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      MCPEAK K
+ 95     4  CHE  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      MELVIN A
+ 95     4  CHE  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      NANDAKUMAR K
+ 96     3  CHE  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      ROMAGNOLI J
+ 97     2  CHE  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      SPIVEY J
+ 98     1  CHE  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      SHELTON W
+ 96     3  CHE  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      WORNAT M
+ 95     4  CHE  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      XU Y
+ 95     4  CHE  9000 RES    16  DISSERTATION RES       1-12 TBA                                                      BHARTI B
+ 97     2  CHE  9000 RES    17  DISSERTATION RES       1-12 TBA                                                      DING K
+ 98     1  CHE  9000 RES    18  DISSERTATION RES       1-12 TBA                                                      PLAISANCE C
+ 98     1  CHE  9000 RES    19  DISSERTATION RES       1-12 TBA                                                      LAWRENCE J

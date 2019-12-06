@@ -1,0 +1,24 @@
+(F)    75  DARY 1048         1  ELEMENTS OF DAIRYING   3.0   910-1030    T TH  2162 PATRICK TAYLOR                   JENNY B
+  6    12  DARY 2049         1  DARY CATL PROD/PRACT   3.0  1240-0130   M W    0201 DAIRY SCIENCE   PERMIS OF DEPT   JENNY B
+                     LAB                                     140-0330     W    0201 DAIRY SCIENCE                    JENNY B
+  2    88  DARY 2072         1  INTRO AGRIC GENETICS   3.0  1040-1200    T TH  0009 LOCKETT                          HAY G
+  3     9  DARY 2085 LAB     1  MILK QUAL CONTRL LAB   2.0   840-1030    T TH  0201 DAIRY SCIENCE   PERMIS OF DEPT   BOENEKE C
+(F)    17  DARY 2093 CLI     1  DARY PRODUC JUDG       2.0   140-0230    T TH  0101 TUREAUD HALL                     BOENEKE C
+(F)    62  DARY 3010         1  APPL ANML FEED FORM    3.0  1040-1130   M W F  0143 COATES                           WILLIAMS C
+ 23     2  DARY 3049 RES     1  TOPICS IN DAIRY SCI    1-3  TBA                                     PERMIS OF DEPT   ARYANA K
+ 30        DARY 3049 RES     2  TOPICS IN DAIRY SCI    1-3  TBA                                     PERMIS OF DEPT   BOENEKE C
+ 29     1  DARY 3049 RES     3  TOPICS IN DAIRY SCI    1-3  TBA                                     PERMIS OF DEPT   JENNY B
+ 27     3  DARY 3049 RES     4  TOPICS IN DAIRY SCI    1-3  TBA                                     PERMIS OF DEPT   WILLIAMS C
+ 10     5  DARY 4040         1  QUAL ASSURNCE FD IND   4.0  1040-1200    T TH  0116 TUREAUD HALL                     ARYANA K
+                     LAB                                     140-0430     W    0119 DAIRY SCIENCE                    ARYANA K
+  1    19  DARY 4046         1  PHYSIOL OF LACTATION   2.0   940-1030   M W    0201 DAIRY SCIENCE                    JENNY B
+  3     9  DARY 4054         2  DAIRY FARM MGT         4.0  1210-0130    T TH  0201 DAIRY SCIENCE                    WILLIAMS C
+                     LAB                                     140-0430      TH  0201 DAIRY SCIENCE                    WILLIAMS C
+  4     1  DARY 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ARYANA K
+  5        DARY 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BOENEKE C
+  5        DARY 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      JENNY B
+  4     1  DARY 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      WILLIAMS C
+  4     1  DARY 8900 RES     1  RESEARCH PROCEDURE     1-6  TBA                                                      ARYANA K
+  4     1  DARY 8900 RES     2  RESEARCH PROCEDURE     1-6  TBA                                                      BOENEKE C
+  5        DARY 8900 RES     3  RESEARCH PROCEDURE     1-6  TBA                                                      JENNY B
+  5        DARY 8900 RES     4  RESEARCH PROCEDURE     1-6  TBA                                                      WILLIAMS C

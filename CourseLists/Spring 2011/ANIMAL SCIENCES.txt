@@ -1,0 +1,46 @@
+  4    96  ANSC 1011         1  INTRO TO ANML SCIENC   3.0   840-0930   M W F  E130 HOWE RUSSELL E                   BIDNER T
+ 15     5  ANSC 2001 RES     1  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   BIDNER T
+ 19     1  ANSC 2001 RES     5  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   GARCIA M
+ 19     1  ANSC 2001 RES     6  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   GENTRY G
+ 14     6  ANSC 2001 RES     7  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   GENTRY L
+ 15     5  ANSC 2001 RES    13  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   THOMPSON D
+ 19     1  ANSC 2001 RES    14  FARM UNIT INTERNSHIP   1.0  TBA                                     PERMIS OF DEPT   WILLIAMS C
+  1    82  ANSC 2060         1  COMP ANIMAL MGT        3.0   440-0600N   T TH  0214 WILLIAMS                         GENTRY L
+  3    49  ANSC 2133         1  GROWTH/DEV LIVESTOCK   3.0   810-0900    T TH  0204 TUREAUD HALL                     GENTRY L
+                     LAB                                     310-0500     W                                          GENTRY L
+  2     3  ANSC 3051 RES     1  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   BIDNER T
+ 96     3  ANSC 3051 RES     3  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   GARCIA M
+ 93     6  ANSC 3051 RES     7  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   INGRAM D
+ 89    10  ANSC 3051 RES    12  ANIMAL SC PROBLEMS     1-6  TBA                                     PERMIS OF DEPT   THOMPSON D
+ 15    20  ANSC 3060         1  COMP ANIM HLTH & DIS   3.0   940-1030   M W F  0229 TUREAUD HALL                     RITCHIE J
+  6    37  ANSC 3070         1  SM ANI ANAT & PHYSIO   3.0  1140-1230   M W F  0229 TUREAUD HALL                     RITCHIE J
+ 31    19  ANSC 4060         1  CONTEMP ISS IN ANSC    3.0  1040-1200    T TH  1110 PATRICK TAYLOR                   MCMILLIN K
+ 14    26  ANSC 4084         1  BEEF CATTLE PROD       3.0  1210-0100    T TH  0119 TUREAUD HALL                     GARCIA M
+                     LAB                                     140-0330     W                                          GARCIA M
+ 27    13  ANSC 4086         1  SMALL RUMINANT PROD    3.0   210-0400   M      0225 TUREAUD HALL                     MILLER J
+                     LAB                                     210-0400    T                                           MILLER J
+ 22    38  ANSC 4088         1  HORSE PRODUCTION       3.0   140-0230    T TH  0211 TUREAUD HALL                     THOMPSON D
+                     LAB                                     240-0430      TH  0211 TUREAUD HALL                     THOMPSON D
+(F)    20  ANSC 4092 SEM     1  AN SC PROSEMINAR       1.0   240-0330   M      0012 FRANCIONI                        SOUTHERN L
+  8     7  ANSC 7051         1  ADV PHYSIOL REPROD     3.0   910-1030    T TH  0012 FRANCIONI                        GODKE R
+ 16     4  ANSC 7061 RES     3  RES ANIMAL SCIENCE     1-6  TBA                                                      GARCIA M
+ 19     1  ANSC 7061 RES     4  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   GENTRY G
+ 19     1  ANSC 7061 RES     5  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   GODKE R
+ 19     1  ANSC 7061 RES     6  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   MCMILLIN K
+ 19     1  ANSC 7061 RES     9  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   THOMPSON D
+ 19     1  ANSC 7061 RES    11  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   WILLIAMS C
+  6     9  ANSC 7091 SEM     1  SEMINAR                1.0   340-0430   M                                            BONDIOLI K
+  5     5  ANSC 7900         2  ADV CONCEPTS GENOMIC   1-6  TBA                                                      GARCIA M
+ 18     2  ANSC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BONDIOLI K
+ 17     3  ANSC 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      GENTRY G
+ 19     1  ANSC 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      GODKE R
+ 18     2  ANSC 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      MILLER J
+ 19     1  ANSC 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      SOUTHERN L
+ 16     4  ANSC 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      THOMPSON D
+ 17     3  ANSC 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BONDIOLI K
+ 18     2  ANSC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      GENTRY G
+ 15     5  ANSC 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      GODKE R
+ 19     1  ANSC 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      MCMILLIN K
+ 19     1  ANSC 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      MILLER J
+ 18     2  ANSC 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SOUTHERN L
+ 19     1  ANSC 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      THOMPSON D

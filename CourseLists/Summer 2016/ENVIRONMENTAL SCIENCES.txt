@@ -1,0 +1,31 @@
+ 27    43  ENVS 1126         1  INT TO ENV SCIENCES    3.0  TBA                                                      JOHNSON C
+  2        ENVS 3999 RES     1  UNDERGRAD RESEARCH     1-4  TBA                                                      DISMUKES D
+  2        ENVS 3999 RES     2  UNDERGRAD RESEARCH     1-4  TBA
+  2        ENVS 3999 RES     3  UNDERGRAD RESEARCH     1-4  TBA
+  1    24  ENVS 4268         1  ENV & NAT RES POLICY   3.0  TBA                                     100% WEB BASED   HUDSON R
+ 13     7  ENVS 7042         1  ENVR CONFLICT RESOLU   3.0  TBA                                                      REAMS M
+(F)     1  ENVS 7900 RES     1  SPEC PROB ENV SCI      1-4  TBA                                                      HUDSON R
+  3        ENVS 7900 RES     2  SPEC PROB ENV SCI      1-4  TBA
+  5        ENVS 7950 SEM     1  SPEC TOP ENVRN SCIEN   1-6  TBA
+  1     1  ENVS 7997 RES     1  ENVIRONMENTAL PRACTI   1-6  TBA                                                      HOU A
+  2        ENVS 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HOU A
+  2        ENVS 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      HUDSON R
+  1        ENVS 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      LAWS E
+  4        ENVS 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      JOHNSON C
+(F)     1  ENVS 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      PORTIER R
+  2     1  ENVS 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      REAMS M
+  1     1  ENVS 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      ARMBRUST K
+  6        ENVS 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      WILSON V
+  3        ENVS 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      DISMUKES D
+  3     2  ENVS 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      HOOPER-BUI L
+(F)     3  ENVS 9000 RES     1  DISSERTATION RESEAR    1-12 TBA                                                      HOU A
+(F)     3  ENVS 9000 RES     2  DISSERTATION RESEAR    1-12 TBA                                                      LOMNICKI S
+(F)     3  ENVS 9000 RES     3  DISSERTATION RESEAR    1-12 TBA                                                      LAM N
+(F)     2  ENVS 9000 RES     4  DISSERTATION RESEAR    1-12 TBA                                                      LAWS E
+  2        ENVS 9000 RES     5  DISSERTATION RESEAR    1-12 TBA                                                      JOHNSON C
+  1     1  ENVS 9000 RES     6  DISSERTATION RESEAR    1-12 TBA                                                      PORTIER R
+(F)     1  ENVS 9000 RES     7  DISSERTATION RESEAR    1-12 TBA                                                      REAMS M
+  2        ENVS 9000 RES     8  DISSERTATION RESEAR    1-12 TBA                                                      WILSON V
+(F)     3  ENVS 9000 RES     9  DISSERTATION RESEAR    1-12 TBA                                                      ARMBRUST K
+ 99        ENVS 9000 RES    10  DISSERTATION RESEAR    1-12 TBA                                                      LAM N
+  5        ENVS 9000 RES    11  DISSERTATION RESEAR    1-12 TBA                                                      HOOPER-BUI L

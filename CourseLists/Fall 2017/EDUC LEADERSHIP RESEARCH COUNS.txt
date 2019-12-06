@@ -1,0 +1,69 @@
+  8    14  ELRC 2507         3  INTRO CLSSROOM TECH    3.0   430-0720N  M      0118 PEABODY                          MONROE W
+  3    19  ELRC 2507         1  INTRO CLSSROOM TECH    3.0   130-0250    T TH  0118 PEABODY                          HEROMAN D
+(F)    22  ELRC 2507         2  INTRO CLSSROOM TECH    3.0   300-0420    T TH  0118 PEABODY                          HEROMAN D
+  2    20  ELRC 3500         1  UTILIZ INSTRUCT MAT    3.0   900-1020    T TH  0118 PEABODY                          HEROMAN D
+(F)    22  ELRC 3500         2  UTILIZ INSTRUCT MAT    3.0  1030-1150    T TH  0118 PEABODY                          HEROMAN D
+(F)    27  ELRC 4006         1  INT APPL STAT ED RES   3.0   430-0720N   T     0218 COATES                           ARBUTHNOT K
+(F)    25  ELRC 4249         1  UNDST/APPL RES IN ED   3.0   430-0720N    W    0214 COATES                           ARBUTHNOT K
+ 21     9  ELRC 4360         1  INTRO TO SCHOOL COUN   3.0   430-0720N  M      0121 ALLEN                            EBERTS S
+ 14    16  ELRC 4364         1  STUD AFFRS HIGHER ED   3.0   430-0720N  M      0123 ALLEN                            HYDE J
+  5    17  ELRC 4507         1  COMPUTER TECH EDUC     3.0   430-0720N   T     0118 PEABODY                          HEROMAN D
+  3    17  ELRC 4602         1  INTRO TO COUNSELING    3.0   430-0720N  M      0120 PEABODY                          CHOATE L
+ 18    12  ELRC 7006         1  EDUC STATISTICS        4.0   430-0720N   T     0131 ALLEN           75-99% WEB BASE  KENNEDY E
+                     LAB                                    TBA                                                      KENNEDY E
+ 22     8  ELRC 7006         2  EDUC STATISTICS        4.0  TBA                                                      KENNEDY E
+                     LAB                                    TBA                                                      KENNEDY E
+ 15    10  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   430-0720N    W    0132 PRESCOTT                         KENNEDY E
+                     LAB                                    TBA                                                      KENNEDY E
+(F)    17  ELRC 7243         1  QUAL METH EDUC RESCH   4.0   430-0720N   T     0214 PEABODY                          MACGREGOR S
+                     LAB                                    TBA                                                      MACGREGOR S
+ 98     1  ELRC 7249 CLI     1  ADV RES PRACTICUM      3.0  TBA                                     PERMIS OF DEPT   KENNEDY E
+(F)    10  ELRC 7270         1  MIXED MTHDS RES EDUC   3.0   430-0720N     TH  0214 PEABODY         1-49% WEB BASED  MACGREGOR S
+ 33    42  ELRC 7299         1  INTRO ED SCHOLARSHIP   3.0   430-0720N  M      0212 COATES                           CASBERGUE R
+  4    16  ELRC 7331         1  COUNSEL THEORY/TECHN   3.0   430-0720N    W    0120 PEABODY                          GINTNER G
+  5    15  ELRC 7348         1  SUBSTANCE USE COUNS    3.0   430-0720N   T     0123 ALLEN                            GINTNER G
+  5     5  ELRC 7362 CLI     1  PRACT IN SCH COUNSEL   3-6   930-1120    T     0120 PEABODY                          EBERTS S
+  5     5  ELRC 7364 CLI     1  COM AGENCY COUN PRAC   3-6   930-1120    T     0102 PEABODY                          CHOATE L
+ 93     6  ELRC 7364 CLI     2  COM AGENCY COUN PRAC   3-6   930-1120    T                                           CSASZAR I
+  3    17  ELRC 7391         1  COUN ACROSS LIFESPAN   3.0   430-0720N   T     0120 PEABODY                          EBERTS S
+(F)    20  ELRC 7393         1  MULTICULT COUNSLNG     3.0   430-0720N     TH  0120 PEABODY                          CSASZAR I
+(F)    21  ELRC 7393         2  MULTICULT COUNSLNG     3.0   430-0720N     TH                                        POOLE L
+  5    10  ELRC 7398         1  COUPLES & MARR CNSL    3.0   230-0520   M      0131 ALLEN                            CSASZAR I
+ 21     4  ELRC 7401         1  ADMIN OF SCH PERS      3.0  TBA                                                      LEE C
+(F)     1  ELRC 7404 CLI     1  INTERNSHIP IN ED ADM   3-6  TBA                                     PERMIS OF DEPT
+ 14    11  ELRC 7422         1  INTR SCH IMPR/ACT RS   3.0  TBA                                     100% WEB BASED   HAYES S
+ 23     2  ELRC 7450         1  SUPRV INST E & S SCH   3.0  TBA                                                      LEE C
+(F)    33  ELRC 7601         1  FOUND HIGHER EDUC      3.0   430-0720N   T     0127 COATES                           MITCHELL R
+ 21     4  ELRC 7602         1  ORG/ADMIN HIGHER ED    3.0   430-0720N    W    0219 PEABODY                          BLANCHARD J
+  1     9  ELRC 7603 SEM     1  LEADERSHIP IN HE       3.0   430-0720N     TH  0123 ALLEN                            KING M
+(F)    21  ELRC 7605         1  HIGHER EDUC/LAW        3.0   430-0720N  M      0218 PEABODY                          BLANCHARD J
+  3    12  ELRC 7606 SEM     1  CURRICULUM/COLL TCH    3.0   130-0420    T     0218 PEABODY         50-74% WEB BASE  FASCHING-VARN
+ 18     7  ELRC 7607         1  FINANCE HIGHER EDUC    3.0   430-0720N  M      0137 ALLEN                            CLAYTON A
+(F)    21  ELRC 7611 SEM     1  COLLEGE STUDENTS U.S   3.0   130-0420     W    0214 PEABODY                          CHEN Y
+ 12     8  ELRC 7806         1  LEADERSHIP LEARNING    3.0   430-0720N   T     0112 AUDUBON         1-49% WEB BASED  HAYES S
+ 23     2  ELRC 7900 RES     1  INDEPENDENT STUDY      1-6  TBA                                     PERMIS OF DEPT   BLANCHARD J
+ 23     2  ELRC 7900 RES     2  INDEPENDENT STUDY      1-6  TBA                                     PERMIS OF DEPT   MITCHELL R
+  5        ELRC 7900 RES     3  INDEPENDENT STUDY      1-6  TBA                                     PERMIS OF DEPT   HAYES S
+  4     6  ELRC 7900 RES     4  INDEPENDENT STUDY      1-6  TBA                                     PERMIS OF DEPT   LEE C
+  9     1  ELRC 7900 RES     5  INDEPENDENT STUDY      1-6  TBA                                     PERMIS OF DEPT   FASCHING-VARN
+  4     1  ELRC 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CURRY J
+  5        ELRC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MITCHELL R
+  4     1  ELRC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   BLANCHARD J
+  4     1  ELRC 8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 10        ELRC 8900 RES     1  PREDISSERTATION RES    1-9  TBA                                     PERMIS OF DEPT   ARBUTHNOT K
+ 10        ELRC 8900 RES     2  PREDISSERTATION RES    1-9  TBA                                     PERMIS OF DEPT   CURRY J
+  6     4  ELRC 8900 RES     3  PREDISSERTATION RES    1-9  TBA                                     PERMIS OF DEPT   FASCHING-VARN
+ 10        ELRC 8900 RES     4  PREDISSERTATION RES    1-9  TBA                                     PERMIS OF DEPT   HAYES S
+ 10        ELRC 8900 RES     5  PREDISSERTATION RES    1-9  TBA                                     PERMIS OF DEPT   KENNEDY E
+ 20        ELRC 8900 RES     6  PREDISSERTATION RES    1-9  TBA                                     PERMIS OF DEPT   MACGREGOR S
+(F)     5  ELRC 8900 RES     7  PREDISSERTATION RES    1-9  TBA                                     PERMIS OF DEPT   MITCHELL R
+  5        ELRC 8900 RES     8  PREDISSERTATION RES    1-9  TBA                                     PERMIS OF DEPT
+ 10        ELRC 9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ARBUTHNOT K
+ 15        ELRC 9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CURRY J
+  2     8  ELRC 9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   FASCHING-VARN
+ 10        ELRC 9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   HAYES S
+  9     1  ELRC 9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KENNEDY E
+  7     3  ELRC 9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MACGREGOR S
+  2     8  ELRC 9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MITCHELL R
+ 20        ELRC 9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        ELRC 9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BACH J

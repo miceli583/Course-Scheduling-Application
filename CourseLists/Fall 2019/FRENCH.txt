@@ -1,0 +1,65 @@
+  4    15  FREN 1001         1  ELEMENTARY FRENCH      4.0   730-0820   MTWTH  0101 AUDUBON                          MEKEM DOUANLA
+  2    17  FREN 1001         2  ELEMENTARY FRENCH      4.0   830-0920   MTWTH  0212 AUDUBON                          GUECHOUD F
+  6    13  FREN 1001         3  ELEMENTARY FRENCH      4.0   830-0920   MTWTH  0285 LOCKETT                          NGUYEN L
+  1    18  FREN 1001         4  ELEMENTARY FRENCH      4.0   930-1020   MTWTH  0116 LOCKETT                          GROS C
+(F)    19  FREN 1001         5  ELEMENTARY FRENCH      4.0   930-1020   MTWTH  0237 LOCKETT                          MOSING V
+  2    17  FREN 1001         6  ELEMENTARY FRENCH      4.0   930-1020   MTWTH  0200 TUREAUD HALL                     VANCE C
+  2    17  FREN 1001         7  ELEMENTARY FRENCH      4.0  1030-1120   MTWTH  0116 LOCKETT                          DOUMOUYA K
+  1    18  FREN 1001         8  ELEMENTARY FRENCH      4.0  1030-1120   MTWTH  0234 COATES                           WALKER G
+  2    17  FREN 1001         9  ELEMENTARY FRENCH      4.0  1030-1120   MTWTH  0200 TUREAUD HALL                     VANCE C
+  1    18  FREN 1001        10  ELEMENTARY FRENCH      4.0  1130-1220   MTWTH  0108 NICHOLSON                        MOSING V
+  2    17  FREN 1001        11  ELEMENTARY FRENCH      4.0  1130-1220   MTWTH  0114 LOCKETT                          WALKER G
+  6    13  FREN 1001        21  ELEMENTARY FRENCH      4.0  1130-1220   MTWTH  0138 LOCKETT                          NOETZEL S
+  3    16  FREN 1001        12  ELEMENTARY FRENCH      4.0  1230-0120   MTWTH  0243 LOCKETT                          NOETZEL S
+(F)    19  FREN 1001        13  ELEMENTARY FRENCH      4.0  1230-0120   MTWTH  0225 COATES                           VANCE C
+(F)    19  FREN 1001        14  ELEMENTARY FRENCH      4.0   130-0220   MTWTH  0244 LOCKETT                          NOETZEL S
+(F)    19  FREN 1001        15  ELEMENTARY FRENCH      4.0   130-0220   MTWTH  0424 HODGES HALL                      BRAULT M
+(F)    19  FREN 1001        16  ELEMENTARY FRENCH      4.0   130-0220   MTWTH  0135 LOCKETT                          WALKER G
+  4    15  FREN 1001        17  ELEMENTARY FRENCH      4.0   230-0320   MTWTH  0244 LOCKETT                          NOETZEL S
+  6    13  FREN 1001        22  ELEMENTARY FRENCH      4.0   230-0320   MTWTH  0218 TUREAUD HALL                     DELZELL B
+  4    15  FREN 1001        18  ELEMENTARY FRENCH      4.0   330-0420   MTWTH  0324 HODGES HALL                      WALKER G
+  3    16  FREN 1001        19  ELEMENTARY FRENCH      4.0  TBA                                     100% WEB BASED   LUQUETTE C
+  2    17  FREN 1002         1  ELEMENTARY FRENCH      4.0   730-0820   MTWTH  0135 LOCKETT                          HOLT A
+  2    17  FREN 1002         3  ELEMENTARY FRENCH      4.0   930-1020   MTWTH  0131 ALLEN                            HILL A
+  8    11  FREN 1002         4  ELEMENTARY FRENCH      4.0   930-1020   MTWTH  0135 LOCKETT                          GHADERI A
+  1    18  FREN 1002         5  ELEMENTARY FRENCH      4.0  1030-1120   MTWTH  0131 ALLEN                            HILL A
+  2    17  FREN 1002         6  ELEMENTARY FRENCH      4.0  1130-1220   MTWTH  0131 ALLEN                            HILL A
+ 13     6  FREN 1002         7  ELEMENTARY FRENCH      4.0  1230-0120   MTWTH  0218 TUREAUD HALL                     DELZELL B
+ 13     6  FREN 1002         8  ELEMENTARY FRENCH      4.0   130-0220   MTWTH  0218 TUREAUD HALL                     DELZELL B
+  1    18  FREN 1201         1  ELEM CAJUN FRENCH      4.0   930-1020   MTWTH  0236 COATES                           SEGURA E
+  3    16  FREN 1201         2  ELEM CAJUN FRENCH      4.0  1230-0120   MTWTH  0202 COATES                           SEGURA E
+(F)    19  FREN 2101         1  INTERMED FREN          3.0   930-1020   M W F  0424 HODGES HALL                      BRAULT M
+(F)    20  FREN 2101         2  INTERMED FREN          3.0  1030-1120   M W F  0424 HODGES HALL                      BRAULT M
+(F)    20  FREN 2101         3  INTERMED FREN          3.0  1230-0120   M W F  0424 HODGES HALL                      BRAULT M
+  1    18  FREN 2101         5  INTERMED FREN          3.0   900-1020    T TH  0284 LOCKETT                          CRACKOWER M
+  2    17  FREN 2101         6  INTERMED FREN          3.0  1030-1150    T TH  0424 HODGES HALL                      LEICHMAN J
+(F)    19  FREN 2101         7  INTERMED FREN          3.0  1200-0120    T TH  0284 LOCKETT                          CRACKOWER M
+(F)    20  FREN 2101         8  INTERMED FREN          3.0   130-0250    T TH  0055 ALLEN                            BASFORD J
+  2    17  FREN 2102         1  INTERMED FREN          3.0   930-1020   M W F  0112 PRESCOTT                         TCHEUTOU A
+(F)    19  FREN 2102         2  INTERMED FREN          3.0  1230-0120   M W F  0114 PRESCOTT                         CURRY C
+  1    18  FREN 2102         3  INTERMED FREN          3.0   130-0220   M W F  0114 PRESCOTT                         CURRY C
+  7    12  FREN 2102         4  INTERMED FREN          3.0   900-1020    T TH  0424 HODGES HALL                      RUSSO A
+(F)    19  FREN 2102         5  INTERMED FREN          3.0  1030-1150    T TH  0284 LOCKETT                          CRACKOWER M
+  2    15  FREN 2154         2  INTERMED ORAL COMMUN   3.0   900-1020    T TH  0436 HODGES HALL                      DUBOIS S
+(F)    18  FREN 2155         1  READINGS FREN LIT      3.0  1030-1120   M W F  0114 PRESCOTT                         CURRY C
+(F)    17  FREN 2155         2  READINGS FREN LIT      3.0   130-0250    T TH  0436 HODGES HALL                      NGANDU N
+ 11     6  FREN 2201         1  INTERMED CAJUN FREN    3.0  1030-1150   M W    0103 COATES                           SEGURA E
+  4    13  FREN 3058         1  ADV ORAL COMMUNICATN   3.0  1200-0120    T TH  0436 HODGES HALL     CI-SPOKEN&TECH   LEICHMAN J
+(F)    17  FREN 3060         1  ADV FREN GRAM & COMP   3.0  1030-1150    T TH  0132 LOCKETT                          ANSELMO F
+  6    11  FREN 3060         2  ADV FREN GRAM & COMP   3.0  1200-0120    T TH  0137 LOCKETT                          ANSELMO F
+(F)    18  FREN 3072         1  SURVEY FRENCH LIT      3.0  1200-0120   M W    0244 LOCKETT                          PETERS-HILL R
+  5    12  FREN 3080         1  FR CULTURE & CIVILIZ   3.0   130-0250   M W    0239 LOCKETT                          PETERS-HILL R
+  4     1  FREN 3401         1  TUT LEARN OF FRENCH    1.0  TBA                                                      LUQUETTE C
+  1    16  FREN 4014         1  INTR TO FREN LINGUIS   3.0  1030-1150    T TH  0436 HODGES HALL                      DUBOIS S
+  2     8  FREN 4070         1  LIT AFRICA/CARIBBEAN   3.0   300-0420    T TH  0436 HODGES HALL                      NGANDU N
+(F)     7  FREN 7051         1  20TH CENTURY NOVEL     3.0   300-0550    T     0434 HODGES HALL                      LEUPIN A
+(F)     1  FREN 7915 RES     1  INDEPENDENT STUDY      1-3  TBA                                                      DUBOIS S
+  1     1  FREN 7915 RES     2  INDEPENDENT STUDY      1-3  TBA                                                      RUSSO A
+(F)     1  FREN 7915 RES     3  INDEPENDENT STUDY      1-3  TBA                                                      NGANDU N
+  2     5  FREN 7962         1  SP TOP FR LINGUISTIC   3.0   130-0250   M W    0434 HODGES HALL                      LUQUETTE C
+  1     6  FREN 7970 SEM     1  SEMINAR FRENCH LIT     3.0   430-0720N  M      0434 HODGES HALL                      STONE G
+  4     1  FREN 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      RUSSO A
+  3     2  FREN 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      NGANDU N
+  4     1  FREN 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      LEUPIN A
+  4     1  FREN 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      PETERS-HILL R
+  4     1  FREN 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      RUSSO A

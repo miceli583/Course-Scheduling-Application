@@ -1,0 +1,24 @@
+ 14     6  PLHL 4001         1  PLNT DIS MGT/CONTROL   3.0  1030-1150   M W                                          HOLLIER C
+                     LAB                                     130-0320   M                                            HOLLIER C
+  9     7  PLHL 7011         1  PHYTOBACTERIOLOGY      4.0   900-1020    T TH  A465 LIFE SCIENCES A
+                     LAB                                     130-0520    T
+  9     6  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W                                          HOY J
+  3    12  PLHL 7067         1  PRO DEV FOR PLANT SC   2.0   430-0620N    W                                          COHN M
+ 98     1  PLHL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      CLARK C
+ 98     1  PLHL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      DAMANN K
+ 97     2  PLHL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HOY J
+ 98     1  PLHL 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      MCGAWLEY E
+ 97     2  PLHL 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      VALVERDE R
+ 98     1  PLHL 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      OVERSTREET C
+ 12        PLHL 8800 CLI     1  PRACT PLANT PATHOLOG   2.0  TBA                                                      CLARK C
+  9     1  PLHL 8900 RES     4  TA EXP IN PLANT PATH   1-5  TBA                                                      HAM J
+ 98     1  PLHL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CLARK C
+ 98     1  PLHL 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      DAMANN K
+ 98     1  PLHL 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      HOY J
+ 94     5  PLHL 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      CHEN Z
+ 98     1  PLHL 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      MCGAWLEY E
+ 97     2  PLHL 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SCHNEIDER R
+ 98     1  PLHL 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      OVERSTREET C
+ 97     2  PLHL 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      HAM J
+ 98     1  PLHL 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      DOYLE V
+ 98     1  PLHL 8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      DOYLE V

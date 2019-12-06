@@ -1,0 +1,12 @@
+ 85        SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 84     1  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 10        SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 99        SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 25        SW   7905 RES     1  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF DEPT
+  1        SW   7906 RES     1  IND READ/RES: SW PLC   3.0  TBA                                     MAJORS ONLY
+ 99        SW   9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHURCH W
+ 99        SW   9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        SW   9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 36    14  SW   2000         1  INTRO TO SOCIAL WORK   3.0  TBA
+ 41     4  SW   3003         1  SKILL WK WITH PEOPLE   3.0  1100-1230   MTWTF  0184 LONG FIELDHOUSE
+ 31     4  SW   7010         1  DIFFERENT DIAGNOSIS    3.0  TBA                                     100% WEB BASED

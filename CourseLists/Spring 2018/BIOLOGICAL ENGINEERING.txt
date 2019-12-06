@@ -1,0 +1,45 @@
+ 23    12  BE   1252         1  BIOL IN ENGINEERING    2.0   130-0220    T     1125 BUS ED S WING   CI-WRITTEN&VISU  LIMA M
+                     LAB                                     930-1220     W    0106 AG METAL BLDG                    TOTARO N
+  4    31  BE   1252         2  BIOL IN ENGINEERING    2.0   130-0220    T     1125 BUS ED S WING   SVC LEARNING     LIMA M
+                     LAB                                     130-0420     W    0106 AG METAL BLDG                    TOTARO N
+(F)    35  BE   1252         3  BIOL IN ENGINEERING    2.0   130-0220    T     1125 BUS ED S WING   SVC LEARNING     LIMA M
+                     LAB                                     130-0420      TH  0106 AG METAL BLDG                    TOTARO N
+(F)    30  BE   2350         1  EXPER METH FOR ENGRS   3.0  1230-0120   M W    0103 TUREAUD HALL    CI-WRITTEN&TECH  TOTARO N
+                     LAB                                     130-0420   M      0140 AG METAL BLDG                    FLYNN A
+  2    28  BE   2350         2  EXPER METH FOR ENGRS   3.0  1230-0120   M W    0103 TUREAUD HALL    CI-WRITTEN&TECH  TOTARO N
+                     LAB                                     130-0420    T     0140 AG METAL BLDG                    FLYNN A
+ 16    14  BE   2350         3  EXPER METH FOR ENGRS   3.0  1230-0120   M W    0103 TUREAUD HALL    CI-WRITTEN&TECH  TOTARO N
+                     LAB                                     130-0420      TH
+  8    67  BE   3290         1  PROFESSIONALISM        2.0  1030-1220       F  1225 PATRICK TAYLOR                   CONSTANT W
+  1    49  BE   3340         1  PROC DESN FOR BIOL E   3.0   800-0850    T TH  0105 TUREAUD HALL    CI-WRITTEN&SPOK  SABLIOV C
+                     LAB                                     130-0420    T     0106 AG METAL BLDG                    LIBI S
+ 30    14  BE   3340         2  PROC DESN FOR BIOL E   3.0   800-0850    T TH  0105 TUREAUD HALL    CI-WRITTEN&SPOK  SABLIOV C
+                     LAB                                     130-0420   M
+ 23     2  BE   3989 RES     1  SPEC PROJ IN BIOL EN   1-4  TBA                                                      TOTARO N
+ 24     1  BE   3989 RES     2  SPEC PROJ IN BIOL EN   1-4  TBA
+ 25        BE   3989 RES     3  SPEC PROJ IN BIOL EN   1-4  TBA
+  8    47  BE   4292 LAB     1  SENIOR ENGR DESN LAB   2.0   430-0720N   T TH  1735 BUS ED N WING   CI-WRITTEN&SPOK  JUNG J
+  4    26  BE   4323         1  BIOMECHANICS FOR ENG   3.0  1030-1120   M W    0108 TUREAUD HALL                     MONROE W
+                     LAB                                     130-0420     W    0108 TUREAUD HALL                     MONROE W
+  1    51  BE   4352         1  TRANSPRT PHEN BIOL E   3.0  1030-1150    T TH  0106 AG METAL BLDG                    THEEGALA C
+(F)    21  BE   4910         1  CANCER BIO MATERIALS   3.0  1230-0120   M W F  0106 AG METAL BLDG                    MARTIN E
+(F)    20  BE   4910         2  INDS MOLECULAR BIOTE   3.0   900-1020    T TH  0115 E B DORAN                        KWON Y
+ 10        BE   4989 RES     1  IND STUDY IN BIOL EN   1-4  TBA
+ 20        BE   4989 RES     2  IND STUDY IN BIOL EN   1-4  TBA
+ 20        BE   4989 RES     3  IND STUDY IN BIOL EN   1-4  TBA
+(F)    10  BE   7500 SEM     1  SEMINAR                1.0   300-0350      TH  0115 E B DORAN                        SABLIOV C
+ 97     2  BE   7909 RES     1  ADV TOP BIOL ENGR      1-4  TBA
+  9     1  BE   7909 RES     2  ADV TOP BIOL ENGR      1-4  TBA
+ 99        BE   7909 RES     3  ADV TOP BIOL ENGR      1-4  TBA
+ 10        BE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ARAGON MENA D
+ 10        BE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      JUNG J
+  8     2  BE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      MARTIN E
+  9     1  BE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      BOLDOR D
+ 10        BE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      MONROE W
+ 10        BE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      SABLIOV C
+  9     1  BE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      SATHIVEL S
+ 10        BE   8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      THEEGALA C
+ 10        BE   8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      KWON Y
+ 10        BE   8000 RES    10  THESIS RESEARCH        1-12 TBA
+ 10        BE   8000 RES    11  THESIS RESEARCH        1-12 TBA
+ 10        BE   8000 RES    12  THESIS RESEARCH        1-12 TBA

@@ -1,0 +1,35 @@
+108    42  ENVS 1126         1  INT TO ENV SCIENCES    3.0   440-0600N   T TH  1119 PATRICK TAYLOR                   JOHNSON C
+ 10     6  ENVS 1126         2  INT TO ENV SCIENCES    3.0  TBA                                                      BABCOCK S
+ 17     3  ENVS 3102         1  MATHEMATICAL METHODS   3.0   840-0930   M W F  1280 ENER,COAST,& EN                  LAWS E
+  1        ENVS 3999 RES     1  UNDERGRAD RESEARCH     1-4  TBA                                                      CABLE J
+(F)     1  ENVS 3999 RES     2  UNDERGRAD RESEARCH     1-4  TBA                                                      WILSON V
+  8    12  ENVS 4035         1  AQUATIC POLLUTION      3.0   910-1030    T TH                                        HOU A
+(F)    72  ENVS 4101         1  ENVIRON CHEMISTRY      3.0  1040-1130   M W F  1109 PATRICK TAYLOR                   PORTIER R
+  7    18  ENVS 4261         1  ENERGY & ENVIRONMENT   3.0   310-0430   M W    0117 TUREAUD HALL    CI-WRITTEN&SPOK  WASCOM M
+  4    26  ENVS 4262         1  ENV HAZARDS ANALYSIS   3.0   310-0430    T TH  0102 TUREAUD HALL    50-99% WEB BASE  GALL M
+  4     6  ENVS 4900         1  WATERSHED HYDROLOGY    3.0   140-0300     W    0230 RENEWABLE NAT R                  XU Y
+                     LAB                                     310-0430     W    0214 RENEWABLE NAT R                  XU Y
+ 28     7  ENVS 4950         1  CANCERFAMILYENVDISEA   1-3  1210-0130    T TH  0100 TUREAUD HALL                     WILSON V
+ 11     9  ENVS 7040         1  ENVIRON PLAN & MGT     3.0   140-0300    T TH  1070 ENER,COAST,& EN                  REAMS M
+ 10     5  ENVS 7046         1  INTL ENVIRONMNTL LAW   3.0   140-0300   M W                                          WASCOM M
+ 20     5  ENVS 7047         1  ENVIRON ECON & POLCY   3.0   610-0730N  M W    0100 TUREAUD HALL                     KEITHLY W
+ 13     7  ENVS 7050         1  SPATIAL MOD ENVR DAT   3.0   140-0430   M      1280 ENER,COAST,& EN                  LAM N
+ 10     5  ENVS 7110         1  TOXICLGY AQUATC ENVR   3.0   340-0500   M W                                          PORTIER R
+  7     3  ENVS 7623         1  TOXICOLOGY I           3.0   440-0600N   T TH                                        WILSON V
+  8    12  ENVS 7700         1  INTEGRATED ENV ISSUE   3.0   610-0730N   T TH  1280 ENER,COAST,& EN                  LAWS E
+(F)     1  ENVS 7900 RES     2  SPEC PROB ENV SCI      1-4  TBA                                                      JOHNSON C
+(F)     2  ENVS 7900 RES     3  SPEC PROB ENV SCI      1-4  TBA                                                      HOU A
+  8     7  ENVS 7950 SEM     1  ENV PHYSICS            1-6   140-0430     W    1280 ENER,COAST,& EN                  HISCOX A
+(F)     1  ENVS 7950 SEM     2  CANCER FAMENVDISEASE   1-6  TBA                                                      WILSON V
+(F)     2  ENVS 7950 SEM     3  SOCIALECOSYS&RESCOMM   1-6  TBA                                                      REAMS M
+(F)     1  ENVS 7998 RES     1  ENVIR COLLOQUIUM       2.0  TBA                                                      REAMS M
+(F)     1  ENVS 7998 RES     2  ENVIR COLLOQUIUM       2.0  TBA                                                      HOU A
+  3        ENVS 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      LAM N
+  1        ENVS 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      OVERTON E
+  2        ENVS 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      PORTIER R
+  4     1  ENVS 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      REAMS M
+(F)     3  ENVS 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      WASCOM M
+  1     2  ENVS 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      WILSON V
+  2     1  ENVS 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      HOU A
+  1        ENVS 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      LAWS E
+  2        ENVS 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      HISCOX A

@@ -1,0 +1,29 @@
+  3    12  ART  1011 LAB     1  ART STRUCTURE          3.0  0900-1200   MTWTH  0334 ART BUILDING                     FOREMAN S
+ 10     5  ART  1360 LAB     1  INTRO TO PRINTMAKING   3.0  1200-0300   MTWTH  B028 FOSTER                           ARP K
+ 13     2  ART  1371 LAB     1  INTRO TO LITHOGRAPHY   3.0  1200-0300   MTWTH  B021 FOSTER          MAJORS ONLY      ARP K
+ 13     5  ART  1551 LAB     1  BASIC DESIGN           3.0  0950-1250   MTWTH  0211 ART BUILDING                     BOWER G
+ 11     7  ART  1847 LAB     1  DRAWING-COMPOSITION    3.0  1200-0300   MTWTH  0103 FOSTER                           DELONY M
+  8     7  ART  1849 LAB     2  INTRO TO PAINTING      3.0  0900-1200   MTWTH  0203 FOSTER                           WREYFORD B
+ 15     8  ART  2050         2  DIGITAL ART I          3.0  0900-1000   MTWTH  0108 ART BUILDING                     LIVAUDAIS L
+                     LAB                                    1000-1200   MTWTH  0108 ART BUILDING                     LIVAUDAIS L
+ 10    13  ART  2050         1  DIGITAL ART I          3.0  1200-0100   MTWTH  0111 ART BUILDING                     BARR C
+                     LAB                                     100-0300   MTWTH  0111 ART BUILDING                     BARR C
+ 10     8  ART  2995 LAB     1  BASIC PHOTOGRAPHY      3.0  0840-1140   MTWTH  0218 ART BUILDING                     NEFF T
+ 11     9  ART  3992 LAB     1  INT DIGITAL PHOTO      3.0   340-0630   MTWTH  0111 ART BUILDING                     HESS A
+  9    11  ART  4050 LAB     1  DIGITAL ART III        3.0   100-0400   MTWTH  0208 ART BUILDING    PERMIS OF DEPT   SIMMONS S
+  1     4  ART  4366 LAB     1  SPEC STD PRINTMAKING   3-6  1200-0300   MTWTH                       MAJORS ONLY      ARP K
+ 10     2  ART  4541 LAB     1  SP STUD GRAPHIC DSGN   3.0  1200-0300   MTWTH                                        BOWER G
+  9     6  ART  4574 CLI     1  GRAPH DSN SYNTHESIS    3.0  TBA                                     PERMIS OF INST   BOWER G
+(F)     5  ART  4841 LAB     1  SPEC STUDIES PAINTNG   3-3  TBA                                                      CELENTANO D
+(F)     1  ART  4841 LAB     2  SPEC STUDIES PAINTNG   3-3  TBA                                                      SMITH E
+(F)    15  ART  4941 RES     1  SPEC STUDIES PHOTO     3.0  1200-0300   MTWTH  0313 ART BUILDING                     NEFF T
+(F)     3  ART  4996 LAB     1  COLOR PHOTOGR II       3.0  TBA                                     PERMIS OF INST   NEFF T
+(F)     7  ART  7042 SEM     1  VISITING ARTIST SEM    3.0  TBA                                                      CELENTANO D
+  1     6  ART  7042 SEM     2  VISITING ARTIST SEM    3.0  TBA                                                      MCCLAY M
+(F)     1  ART  7700 LAB     2  GRAD SCULPTURE         3-6  TBA                                                      SCHWERD L
+(F)     1  ART  7800 LAB     1  GRAD PAINTING          3-6  TBA                                                      SMITH E
+ 97     2  ART  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      MALVETO J
+ 98     1  ART  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      BOWER G
+(F)     1  ART  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      WALSH M
+  9     6  ART  1010 LAB     2  INTRO TO DRAWING       3.0  0900-1200   MTWTF  0103 FOSTER                           BEAMAN J
+ 37    23  ART  4422         1  HIST MODERN DESIGN     3.0  1000-1130   MTWTF  0201 DESIGN BUILDING                  RYAN S

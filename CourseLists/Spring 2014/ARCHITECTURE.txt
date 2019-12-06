@@ -1,0 +1,39 @@
+(F)    26  ARCH 1002 LAB     1  ARCH DESIGN II         6.0   830-1220   M W F  0201 ATKINSON                         WATSON G
+  2    18  ARCH 1002 LAB     2  ARCH DESIGN II         6.0   830-1220   M W F                                        HOLZMAN J
+  2     8  ARCH 1102 LAB     1  HNRS ARCH DESN II      6.0   830-1220   M W F                                        WATSON G
+  1    13  ARCH 2002 LAB     1  ARCH DESIGN IV         6.0   100-0450   M W F                       CI-SPOKEN&VISUA  KELSCH K
+(F)    12  ARCH 2002 LAB     2  ARCH DESIGN IV         6.0   100-0450   M W F                       CI-SPOKEN&VISUA  BONIER C
+(F)    13  ARCH 2002 LAB     3  ARCH DESIGN IV         6.0   100-0450   M W F                       CI-SPOKEN&VISUA  DAMICO R
+ 13    40  ARCH 2006         1  ARCH TOPICS IV         3.0   130-0250    T TH  0313 DESIGN BUILDING                  DOYLE S
+ 20     2  ARCH 2102 LAB     1  HNRS ARCH DESN IV      6.0   100-0450   M W F                                        SATTLER M
+(F)   155  ARCH 2401         1  APPRECIATION OF ARCH   3.0   300-0420    T TH  0103 DESIGN BUILDING                  DAMICO R
+(F)    16  ARCH 3002 LAB     1  ARCH DESN VI           6.0   100-0450   M W F                                        ZWIRN R
+(F)    16  ARCH 3002 LAB     2  ARCH DESN VI           6.0   100-0450   M W F                       CI-WRITTEN&SPOK  SOFRANKO T
+ 76    64  ARCH 3006         1  HIST OF ARCH II        3.0   830-0920   M W F  0103 DESIGN BUILDING                  DESMOND J
+  2    23  ARCH 3008         3  ENVIRON CONTROL SYST   3.0   600-0720N  M W    0201 DESIGN BUILDING CI-WRITTEN&TECH  SATTLER M
+(F)    26  ARCH 3008         5  ENVIRON CONTROL SYST   3.0   730-0850    T TH  0015 ATKINSON        CI-WRITTEN&TECH  SATTLER M
+(F)    43  ARCH 3008         1  ENVIRON CONTROL SYST   3.0  1200-0120    T TH  0313 DESIGN BUILDING CI-WRITTEN&TECH  SATTLER M
+(F)    10  ARCH 4002 LAB     1  ARCH DESIGN VIII       6.0   100-0450   M W F                                        DESMOND J
+(F)    11  ARCH 4002 LAB     2  ARCH DESIGN VIII       6.0   100-0450   M W F                                        JONES P
+  7    23  ARCH 4007         1  HIST OF ARCH III       3.0   600-0850N     TH  0313 DESIGN BUILDING CI-WRITTEN&SPOK  CROW J
+  8     2  ARCH 4102 LAB     1  HNRS ARCH DESN VIII    6.0   100-0450   M W F                                        JONES P
+(F)    10  ARCH 4155         1  RECORDING HIST STRUC   3.0  1030-1150    T TH                                        EMERY MCCLURE
+                     LAB                                    TBA                                                      EMERY MCCLURE
+  6     9  ARCH 4202 LAB     1  ARCH DESIGN VIII OC    6.0  TBA                                                      ERDMAN J
+  3     7  ARCH 4221 SEM     5  SEL TOP IN ARCHITECT   1-3   830-1120   M W                                          TSOLAKIS A
+  7     5  ARCH 4221 SEM     4  SEL TOP IN ARCHITECT   1-3   600-0850N   T     0102 ATKINSON                         LIPSCOMB R
+(F)     9  ARCH 4221 SEM     1  SEL TOP IN ARCHITECT   1-3  TBA                                                      ERDMAN J
+(F)     9  ARCH 4221 SEM     2  SEL TOP IN ARCHITECT   1-3  TBA                                                      ERDMAN J
+(F)     7  ARCH 4221 SEM     3  SEL TOP IN ARCHITECT   1-3  TBA                                                      ERDMAN J
+  4    11  ARCH 4700 RES     2  RESEARCH METHODS       3.0   600-0850N  M      0102 ATKINSON        CI-WRITTEN&SPOK  KELSCH K
+  5    10  ARCH 4700 RES     1  RESEARCH METHODS       3.0   300-0420    T TH  0102 ATKINSON                         ERDMAN J
+(F)     9  ARCH 5001 LAB     1  COMP ARCH DESIGN       6.0   100-0450   M W F                       CI-WRITTEN&VISU  HOLTON R
+(F)    10  ARCH 5001 LAB     2  COMP ARCH DESIGN       6.0   100-0450   M W F                       CI-WRITTEN&VISU  LOCKHART J
+(F)     9  ARCH 5001 LAB     3  COMP ARCH DESIGN       6.0   100-0450   M W F                                        DORAN W
+  6    29  ARCH 5005         1  ADV ARCH TECHNIQUES    3.0  1030-1120   M W F  0015 ATKINSON                         HOLTON R
+(F)    11  ARCH 5005         3  ADV ARCH TECHNIQUES    3.0   600-0720N   T TH                                        DORAN W
+  7    23  ARCH 5006         3  PROFESSIONAL PRACTIC   3.0   600-0850N  M      0015 ATKINSON                         ZWIRN R
+ 19    21  ARCH 5006         2  PROFESSIONAL PRACTIC   3.0  1200-0120    T TH  0015 ATKINSON        CI-WRITTEN&SPOK  LOCKHART J
+  8     7  ARCH 7002 LAB     1  GRAD DESN STUDIO II    6.0   100-0450   M W F  0228 DESIGN BUILDING                  CROW J
+  7     8  ARCH 7004 LAB     1  GRAD DESN STUDIO IV    6.0   100-0450   M W F                                        DOYLE S
+  4    11  ARCH 7006 LAB     1  GRAD DESN STUDIO VI    6.0   100-0450   M W F                                        EMERY MCCLURE

@@ -1,0 +1,49 @@
+(F)     7  PLHL 3060         1  INTR PL PHYSIOLOGY     4.0   900-1020    T TH  0210 WILLIAMS                         LONGSTRETH D
+                     LAB                                     130-0420     W    0308 LIFE SCIENCES                    LONGSTRETH D
+  7    13  PLHL 4001         1  PLNT DIS MGT/CONTROL   3.0  1030-1150   M W                                          HOLLIER C
+                     LAB                                     130-0320   M                                            HOLLIER C
+ 17     3  PLHL 4444         1  SEED PHYSIOLOGY        3.0   130-0250    T TH  0225 TUREAUD HALL                     COHN M
+  3    13  PLHL 7011         1  PHYTOBACTERIOLOGY      4.0   900-1020    T TH  A465 LIFE SCIENCES A                  HAM J
+                     LAB                                     130-0420    T     0308 LIFE SCIENCES                    HAM J
+ 11     4  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W                                          OVERSTREET C
+  9     7  PLHL 7061         1  PLANT GROWTH DEVELOP   3.0   130-0250    T TH  0240 LOCKETT                          SMITH A
+(F)    15  PLHL 7067         1  PROFESSIONAL DEVELOP   2.0   430-0620N    W    A465 LIFE SCIENCES A                  COHN M
+ 99        PLHL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      CLARK C
+ 99        PLHL 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      COHN M
+ 98     1  PLHL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      DAMANN K
+ 97     2  PLHL 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      IVEY M
+ 98     1  PLHL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HOY J
+ 99        PLHL 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      CHEN Z
+ 98     1  PLHL 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      MCGAWLEY E
+ 99        PLHL 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      PRICE P
+ 99        PLHL 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      SINGH R
+ 98     1  PLHL 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      SCHNEIDER R
+ 98     1  PLHL 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      VALVERDE R
+ 97     2  PLHL 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      HOLLIER C
+ 99        PLHL 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      OVERSTREET C
+ 98     1  PLHL 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      HAM J
+ 10        PLHL 8900 RES     1  SPECIAL RESEARCH PRO   1-5  TBA                                                      MCGAWLEY E
+ 10        PLHL 8900 RES     2  SPECIAL RESEARCH PRO   1-5  TBA                                                      SCHNEIDER R
+ 10        PLHL 8900 RES     3  SPECIAL RESEARCH PRO   1-5  TBA                                                      VALVERDE R
+ 10        PLHL 8900 RES     4  SPECIAL RESEARCH PRO   1-5  TBA                                                      HAM J
+ 10        PLHL 8900 RES     5  SPECIAL RESEARCH PRO   1-5  TBA
+  9     1  PLHL 8900 RES     6  SPECIAL RESEARCH PRO   1-5  TBA                                                      SCHNEIDER R
+ 10        PLHL 8900 RES     7  SPECIAL RESEARCH PRO   1-5  TBA                                                      HOLLIER C
+ 10        PLHL 8900 RES     8  SPECIAL RESEARCH PRO   1-5  TBA                                                      CHEN Z
+ 97     2  PLHL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CLARK C
+ 97     2  PLHL 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      COHN M
+ 98     1  PLHL 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      DAMANN K
+ 98     1  PLHL 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      IVEY M
+ 98     1  PLHL 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      HOY J
+ 96     3  PLHL 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      CHEN Z
+ 98     1  PLHL 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      MCGAWLEY E
+ 99        PLHL 9000 RES     8  DISSERTATION RES       1-12 TBA
+ 99        PLHL 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      SINGH R
+ 96     3  PLHL 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SCHNEIDER R
+ 98     1  PLHL 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      VALVERDE R
+ 98     1  PLHL 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      HOLLIER C
+ 98     1  PLHL 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      OVERSTREET C
+ 97     2  PLHL 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      HAM J
+ 99        PLHL 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      DOYLE V
+ 99        PLHL 9000 RES    16  DISSERTATION RES       1-12 TBA
+ 99        PLHL 8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      DOYLE V

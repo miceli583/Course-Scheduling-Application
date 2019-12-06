@@ -1,0 +1,199 @@
+(F)   200  PSYC 2000         1  INTR TO PSYC           3.0   840-0930   M W F  0005 LOCKETT                          TOUSSAINT K
+(F)   190  PSYC 2000         2  INTR TO PSYC           3.0   140-0230   M W F  0010 LOCKETT                          BROWN N
+(F)   200  PSYC 2000         3  INTR TO PSYC           3.0  1040-1200    T TH  0016 LOCKETT                          VIGNA J
+  1   199  PSYC 2000         4  INTR TO PSYC           3.0   140-0300    T TH  0005 LOCKETT                          MUNSON M
+  4   336  PSYC 2000         5  INTR TO PSYC           3.0   610-0900N    W    0100 DODSON                           KNAPP J
+(F)    25  PSYC 2017         1  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     240-0430   M      0232 MIDDLETON                        EAVES S
+ 11    14  PSYC 2017         2  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     840-1030    T     0232 MIDDLETON                        EAVES S
+  9    16  PSYC 2017         3  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     310-0500    T     0232 MIDDLETON                        EAVES S
+  5    20  PSYC 2017         4  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     840-1030     W    0232 MIDDLETON                        EAVES S
+  1    24  PSYC 2017         5  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     240-0430     W    0232 MIDDLETON                        EAVES S
+ 13    12  PSYC 2017         6  ELEM EXPERMTL PSYC     4.0  1040-1200    T TH  E137 HOWE RUSSELL CO                  EAVES S
+                     LAB                                     310-0500      TH  0232 MIDDLETON                        EAVES S
+  1   127  PSYC 2040         2  SOCIAL PSYCHOLOGY      3.0   610-0900N  M      0009 LOCKETT                          KNAPP J
+(F)   123  PSYC 2040         1  SOCIAL PSYCHOLOGY      3.0   610-0900N     TH  0152 COATES                           ADAIR F
+(F)   111  PSYC 2060         3  EDUCATIONAL PSYC       3.0   310-0430   M W    0009 LOCKETT                          COOK C
+  1   108  PSYC 2070         1  DEVELOP PSYC LIFE SP   3.0   740-0900    T TH  0010 LOCKETT                          ERWIN M
+(F)    90  PSYC 2076         1  CHILD PSYCHOLOGY       3.0   910-1030    T TH  0155 COATES                           GORDON A
+ 99        PSYC 2999 CLI     1  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   ADVOKAT C
+ 98     1  PSYC 2999 CLI     2  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   BAUMEISTER A
+ 97     2  PSYC 2999 CLI     3  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   BECK M
+ 99        PSYC 2999 CLI     4  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   BRANTLEY P
+ 98     1  PSYC 2999 CLI     5  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   BUCKNER J
+ 98     1  PSYC 2999 CLI     6  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   CHERRY K
+ 93     6  PSYC 2999 CLI     7  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   COHEN A
+ 97     2  PSYC 2999 CLI     8  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   COOK C
+ 97     2  PSYC 2999 CLI     9  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   COPELAND A
+ 98     1  PSYC 2999 CLI    10  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   DAVIS T
+ 96     3  PSYC 2999 CLI    11  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   ELLIOTT E
+ 99        PSYC 2999 CLI    12  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   GEISELMAN P
+ 99        PSYC 2999 CLI    13  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   GOUVIER W
+ 98     1  PSYC 2999 CLI    14  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   GRESHAM F
+ 99        PSYC 2999 CLI    15  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   GROBMAN K
+ 99        PSYC 2999 CLI    16  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   HAWKINS M
+ 99        PSYC 2999 CLI    17  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   HICKS J
+ 98     1  PSYC 2999 CLI    18  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   KELLEY M
+ 95     4  PSYC 2999 CLI    19  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   LANE S
+ 98     1  PSYC 2999 CLI    20  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   MATHEWS R
+ 99        PSYC 2999 CLI    21  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   MATSON J
+ 98     1  PSYC 2999 CLI    22  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   MATTHEWS R
+ 97     2  PSYC 2999 CLI    23  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   MCDONALD J
+ 99        PSYC 2999 CLI    24  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   NOELL G
+ 98     1  PSYC 2999 CLI    25  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   RIZZUTO T
+ 96     3  PSYC 2999 CLI    26  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   TIGER J
+ 99        PSYC 2999 CLI    27  UNDERGRAD PRACT PSYC   1-3  TBA                                     PERMIS OF INST   WILLIAMSON D
+(F)    98  PSYC 3050         1  INTR PERS INDUS PSYC   3.0   610-0900N   T     0009 LOCKETT                          ADAIR F
+  3   114  PSYC 3082         4  INTR ABNORMAL PSYC     3.0   610-0900N   T     0015 LOCKETT                          GUSTIN Q
+(F)   237  PSYC 3082         1  INTR ABNORMAL PSYC     3.0   610-0900N    W    0143 COATES                           GROS B
+  9    78  PSYC 3083         1  PSYCHOLOGICAL COUNS    3.0   610-0900N  M      0155 COATES                           KUNEN S
+  4    86  PSYC 3083         2  PSYCHOLOGICAL COUNS    3.0   610-0900N    W    0145 COATES                           MECHE S
+  2   118  PSYC 4008         1  HIST MODERN PSYC       3.0   910-1030    T TH  0103 DESIGN BUILDING                  HAWKINS M
+  2   113  PSYC 4030         1  PSYC THINK/DEC MAKNG   3.0   140-0300    T TH  0152 COATES                           LANE S
+ 10    55  PSYC 4031         1  SENS & PERCEP PROCSS   3.0   910-1030    T TH  0212 COATES                           GEISELMAN P
+(F)    94  PSYC 4032         1  PSYC OF LEARNING       3.0  1040-1130   M W F  0228 COATES                           TIGER J
+  4    73  PSYC 4034         1  PHYSIOLOGICAL PSYC     3.0  1210-0130    T TH  0152 COATES                           HAWKINS M
+(F)    74  PSYC 4037         1  NEUROPHARMACOLOGY      3.0  1210-0130    T TH  0104 AUDUBON                          BAUMEISTER A
+  1    73  PSYC 4039         1  MADNESS & MEDICINE     3.0   910-1030    T TH  0104 AUDUBON                          BAUMEISTER A
+  5   102  PSYC 4070         1  DEVELOPMENTAL PSYC     3.0   610-0900N  M      0102 ALLEN                            ROSENTHAL G
+  2   132  PSYC 4072         1  DEV PSYC ADULT/AGING   3.0  1210-0130    T TH  0002 LOCKETT                          CHERRY K
+ 39    26  PSYC 4080         1  APPL BEHAVIOR ANALYS   3.0  1040-1200    T TH  0104 AUDUBON                          TIGER J
+  2    63  PSYC 4176         1  ADV CHILD PSYC         3.0   910-1030    T TH  0214 COATES                           DAVIS T
+ 99        PSYC 4999 RES     1  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   ADVOKAT C
+ 99        PSYC 4999 RES     2  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   BAUMEISTER A
+ 97     2  PSYC 4999 RES     3  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   BECK M
+ 99        PSYC 4999 RES     4  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   BRANTLEY P
+ 93     6  PSYC 4999 RES     5  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   BUCKNER J
+ 96     3  PSYC 4999 RES     6  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   CHERRY K
+ 94     5  PSYC 4999 RES     7  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   COHEN A
+ 98     1  PSYC 4999 RES     8  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   COOK C
+ 95     4  PSYC 4999 RES     9  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   COPELAND A
+ 95     4  PSYC 4999 RES    10  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   DAVIS T
+ 94     5  PSYC 4999 RES    11  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   ELLIOTT E
+ 99        PSYC 4999 RES    12  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   GEISELMAN P
+ 98     1  PSYC 4999 RES    13  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   GOUVIER W
+ 99        PSYC 4999 RES    14  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   GRESHAM F
+ 93     6  PSYC 4999 RES    15  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   GROBMAN K
+ 99        PSYC 4999 RES    16  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   HAWKINS M
+ 95     4  PSYC 4999 RES    17  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   HICKS J
+ 94     5  PSYC 4999 RES    18  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   KELLEY M
+ 95     4  PSYC 4999 RES    19  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   LANE S
+ 98     1  PSYC 4999 RES    20  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   MATHEWS R
+ 99        PSYC 4999 RES    21  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   MATSON J
+ 94     5  PSYC 4999 RES    22  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   MATTHEWS R
+ 98     1  PSYC 4999 RES    23  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   MCDONALD J
+ 98     1  PSYC 4999 RES    24  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   NOELL G
+ 95     4  PSYC 4999 RES    25  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   RIZZUTO T
+ 93     6  PSYC 4999 RES    26  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   TIGER J
+ 99        PSYC 4999 RES    27  INDEP READ & RESEARC   1-6  TBA                                     PERMIS OF INST   WILLIAMSON D
+  2    18  PSYC 7020         1  MEAS OF BEHAVIOR       3.0  1240-0330   M      0277 LOCKETT         PERMIS OF INST   RIZZUTO T
+(F)    32  PSYC 7034         1  BIOL BASIS BEHAVIOR    3.0   140-0430     W    0236 COATES          PERMIS OF INST   BAUMEISTER A
+  4    11  PSYC 7060 SEM     1  PROF SCH PSYCHOLOGY    3.0   440-0730N  M      0218 STUBBS          MAJORS ONLY      COOK C
+(F)    18  PSYC 7111         2  ADVANCED STATISTICS    3.0   740-0900    T TH  0212 AUDUBON         MAJORS ONLY      MATTHEWS R
+  3    12  PSYC 7117         1  METHODOLOGY RES DES    3.0  1040-1200    T TH                       MAJORS ONLY      LANE S
+ 93     6  PSYC 7669 CLI     1  PRACTICUM SCHL PSYC    1-6  TBA                                     MAJORS ONLY      COOK C
+ 91     8  PSYC 7669 CLI     2  PRACTICUM SCHL PSYC    1-6  TBA                                     MAJORS ONLY      GRESHAM F
+ 95     4  PSYC 7669 CLI     3  PRACTICUM SCHL PSYC    1-6  TBA                                     MAJORS ONLY      NOELL G
+ 90     9  PSYC 7669 CLI     4  PRACTICUM SCHL PSYC    1-6  TBA                                     MAJORS ONLY      TIGER J
+ 94     5  PSYC 7689 CLI     1  PRACT CLINICAL PSYC    1-3  TBA                                     MAJORS ONLY      BUCKNER J
+ 93     6  PSYC 7689 CLI     2  PRACT CLINICAL PSYC    1-3  TBA                                     MAJORS ONLY      COHEN A
+ 91     8  PSYC 7689 CLI     3  PRACT CLINICAL PSYC    1-3  TBA                                     MAJORS ONLY      COPELAND A
+ 89    10  PSYC 7689 CLI     4  PRACT CLINICAL PSYC    1-3  TBA                                     MAJORS ONLY      DAVIS T
+ 94     5  PSYC 7689 CLI     5  PRACT CLINICAL PSYC    1-3  TBA                                     MAJORS ONLY      GOUVIER W
+ 88    11  PSYC 7689 CLI     6  PRACT CLINICAL PSYC    1-3  TBA                                     MAJORS ONLY      KELLEY M
+ 90     9  PSYC 7689 CLI     7  PRACT CLINICAL PSYC    1-3  TBA                                     MAJORS ONLY      MATSON J
+ 99        PSYC 7689 CLI     8  PRACT CLINICAL PSYC    1-3  TBA                                     MAJORS ONLY      WILLIAMSON D
+ 91     8  PSYC 7689 CLI     9  PRACT CLINICAL PSYC    1-3  TBA                                     MAJORS ONLY      JONES G
+ 16     4  PSYC 7690 SEM     1  TCH PSYC PRACTICUM     1-3  TBA                                     MAJORS ONLY      ELLIOTT E
+ 13     7  PSYC 7925         1  PSYC ASSESSMENT II     3.0  1010-0100    T                          MAJORS ONLY      GOUVIER W
+(F)    26  PSYC 7927         1  PSYCHTHER & BEH CHNG   3.0   910-1200     W    0226 TUREAUD HALL    PERMIS OF INST   COPELAND A
+(F)    13  PSYC 7939 SEM     1  SEM: EXPERIM PSYCH     3.0   840-1130       F                       MAJORS ONLY      HICKS J
+  6     9  PSYC 7958 SEM     1  CURR PROB IND PSYC     3.0  1210-0300    T     0046 ALLEN           PERMIS OF INST   MATTHEWS R
+ 25     5  PSYC 7968 SEM     1  CUR PROB IN SCH PSYC   3.0   310-0430    T TH  0112 AUDUBON         MAJORS ONLY      TIGER J
+  7     8  PSYC 7972         1  CHILD BEHAVR THERAPY   3.0   910-1200    T     0102 AUDUBON         MAJORS ONLY      KELLEY M
+  6     9  PSYC 7990         1  TEACHING OF PSYC       3.0  1240-0330      TH                       MAJORS ONLY      ELLIOTT E
+  7     8  PSYC 7997 CLI     1  CLIN PSYC INTERNSHIP   3-6  TBA                                     MAJORS ONLY      MATSON J
+  2    18  PSYC 7999         1  PROFESSIONAL CONSID    3.0   110-0400      TH  0102 AUDUBON         PERMIS OF INST   BUCKNER J
+ 98     1  PSYC 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   ADVOKAT C
+ 99        PSYC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   BAUMEISTER A
+ 98     1  PSYC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   BECK M
+ 99        PSYC 8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   BRANTLEY P
+ 98     1  PSYC 8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   BUCKNER J
+ 99        PSYC 8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   CHERRY K
+ 97     2  PSYC 8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   COHEN A
+ 97     2  PSYC 8000 RES     8  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   COOK C
+ 99        PSYC 8000 RES     9  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   COPELAND A
+ 97     2  PSYC 8000 RES    10  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   DAVIS T
+ 99        PSYC 8000 RES    11  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   ELLIOTT E
+ 99        PSYC 8000 RES    12  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   GEISELMAN P
+ 97     2  PSYC 8000 RES    13  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   GOUVIER W
+ 97     2  PSYC 8000 RES    14  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   GRESHAM F
+ 98     1  PSYC 8000 RES    15  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   GROBMAN K
+ 99        PSYC 8000 RES    16  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   HAWKINS M
+ 99        PSYC 8000 RES    17  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   HICKS J
+ 96     3  PSYC 8000 RES    18  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   KELLEY M
+ 99        PSYC 8000 RES    19  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   LANE S
+ 99        PSYC 8000 RES    20  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   MATHEWS R
+ 95     4  PSYC 8000 RES    21  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   MATSON J
+ 99        PSYC 8000 RES    22  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   MATTHEWS R
+ 98     1  PSYC 8000 RES    23  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   MCDONALD J
+ 97     2  PSYC 8000 RES    24  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   NOELL G
+ 99        PSYC 8000 RES    25  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   RIZZUTO T
+ 97     2  PSYC 8000 RES    26  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   TIGER J
+ 99        PSYC 8000 RES    27  THESIS RESEARCH        1-12 TBA                                     PERMIS OF INST   WILLIAMSON D
+ 10        PSYC 8939 RES     1  IND RES - EXP          1-6  TBA                                     MAJORS ONLY      ADVOKAT C
+ 10        PSYC 8939 RES     2  IND RES - EXP          1-6  TBA                                     MAJORS ONLY      BAUMEISTER A
+  9     1  PSYC 8939 RES     3  IND RES - EXP          1-6  TBA                                     MAJORS ONLY      BECK M
+  8     2  PSYC 8939 RES     4  IND RES - EXP          1-6  TBA                                     MAJORS ONLY      ELLIOTT E
+ 10        PSYC 8939 RES     5  IND RES - EXP          1-6  TBA                                     MAJORS ONLY      GEISELMAN P
+ 10        PSYC 8939 RES     6  IND RES - EXP          1-6  TBA                                     MAJORS ONLY      HAWKINS M
+ 10        PSYC 8939 RES     7  IND RES - EXP          1-6  TBA                                     MAJORS ONLY      HICKS J
+  7     3  PSYC 8939 RES     8  IND RES - EXP          1-6  TBA                                     MAJORS ONLY      LANE S
+  9     1  PSYC 8939 RES     9  IND RES - EXP          1-6  TBA                                     MAJORS ONLY      MATHEWS R
+ 10        PSYC 8939 RES    10  IND RES - EXP          1-6  TBA                                     MAJORS ONLY      MCDONALD J
+  9     1  PSYC 8959 RES     1  IND RES - INDUS        1-6  TBA                                     PERMIS OF INST   RIZZUTO T
+ 10        PSYC 8959 RES     2  IND RES - INDUS        1-6  TBA                                     PERMIS OF INST   MATTHEWS R
+ 10        PSYC 8979 RES     1  IND RES - DEVEL        1-6  TBA                                     PERMIS OF INST   CHERRY K
+ 10        PSYC 8979 RES     2  IND RES - DEVEL        1-6  TBA                                     PERMIS OF INST   GROBMAN K
+ 10        PSYC 8989 RES     1  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   BRANTLEY P
+ 10        PSYC 8989 RES     2  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   COHEN A
+ 10        PSYC 8989 RES     3  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   COPELAND A
+  9     1  PSYC 8989 RES     4  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   DAVIS T
+ 10        PSYC 8989 RES     5  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   GOUVIER W
+  9     1  PSYC 8989 RES     6  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   GRESHAM F
+ 10        PSYC 8989 RES     7  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   KELLEY M
+ 10        PSYC 8989 RES     8  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   MATSON J
+ 10        PSYC 8989 RES     9  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   NOELL G
+ 10        PSYC 8989 RES    10  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   TIGER J
+ 10        PSYC 8989 RES    11  IND RES - CLIN         1-6  TBA                                     PERMIS OF INST   WILLIAMSON D
+ 99        PSYC 9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   ADVOKAT C
+ 99        PSYC 9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BAUMEISTER A
+ 99        PSYC 9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BECK M
+ 98     1  PSYC 9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BRANTLEY P
+ 99        PSYC 9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   BUCKNER J
+ 97     2  PSYC 9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   CHERRY K
+ 98     1  PSYC 9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   COHEN A
+ 99        PSYC 9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   COOK C
+ 93     6  PSYC 9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   COPELAND A
+ 96     3  PSYC 9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   DAVIS T
+ 98     1  PSYC 9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   ELLIOTT E
+ 98     1  PSYC 9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   GEISELMAN P
+ 99        PSYC 9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   GOUVIER W
+ 96     3  PSYC 9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   GRESHAM F
+ 99        PSYC 9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   GROBMAN K
+ 99        PSYC 9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   HAWKINS M
+ 97     2  PSYC 9000 RES    17  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   HICKS J
+ 94     5  PSYC 9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   KELLEY M
+ 99        PSYC 9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   LANE S
+ 98     1  PSYC 9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MATHEWS R
+ 91     8  PSYC 9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MATSON J
+ 99        PSYC 9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MATTHEWS R
+ 99        PSYC 9000 RES    23  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   MCDONALD J
+ 97     2  PSYC 9000 RES    24  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   NOELL G
+ 98     1  PSYC 9000 RES    25  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   RIZZUTO T
+ 97     2  PSYC 9000 RES    26  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   TIGER J
+ 99        PSYC 9000 RES    27  DISSERTATION RES       1-12 TBA                                     PERMIS OF INST   WILLIAMSON D

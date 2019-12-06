@@ -1,0 +1,80 @@
+  2    46  MATH 1029         1  INTRO COMTEMP MATH     3.0  0840-0940   MTWTF  0213 TUREAUD HALL                     LATIN L
+  2    45  MATH 1100         1  NATURE OF MATHEMATCS   3.0  0730-0830   MTWTF  0213 TUREAUD HALL                     KAFLE B
+  1    41  MATH 1100         2  NATURE OF MATHEMATCS   3.0  1100-1200   MTWTF  0121 ALLEN                            DRIBUS B
+  4    30  MATH 1431         3  CAL-BUS & ECO APLCAT   3.0  1100-1250   MTWTF  0005 LOCKETT                          VAUGHN D
+                     LAB                                    1100-1150   MTWTF  0232 MIDDLETON                        VAUGHN D
+ 18    16  MATH 1431         5  CAL-BUS & ECO APLCAT   3.0  1100-1250   MTWTF  0005 LOCKETT                          VAUGHN D
+                     LAB                                    1200-1250   MTWTF  0232 MIDDLETON                        VAUGHN D
+ 10    30  MATH 1550         1  AN GEOM & CALCULUS-I   5.0  0730-0940   MTWTF  0116 LOCKETT                          BAKHOVA M
+  7    33  MATH 1550         2  AN GEOM & CALCULUS-I   5.0  0840-1050   MTWTF  0035 ALLEN                            LI Q
+  5    37  MATH 1550         5  AN GEOM & CALCULUS-I   5.0  0840-1050   MTWTF  0123 ALLEN                            TRIPATHI G
+  9    31  MATH 1550         3  AN GEOM & CALCULUS-I   5.0  0950-1200   MTWTF  0116 LOCKETT                          SZOZDA B
+  1    39  MATH 1550         4  AN GEOM & CALCULUS-I   5.0  0950-1200   MTWTF  0136 LOCKETT                          HUANG L
+(F)    38  MATH 1552         1  AN GEOM & CALCULUS     4.0  0840-1050   MTWTH  0112 AUDUBON                          FORREST G
+ 24    14  MATH 1552         4  AN GEOM & CALCULUS     4.0  0840-1050   MTWTH  0134 LOCKETT                          TAO M
+  1    35  MATH 1552         2  AN GEOM & CALCULUS     4.0  0950-1200   MTWTH  0138 LOCKETT                          MCCARTY B
+ 22    18  MATH 1552         3  AN GEOM & CALCULUS     4.0  0950-1200   MTWTH  1112 PATRICK TAYLOR                   TU H
+ 18    57  MATH 2057         1  MULTIDIMENSIONAL CAL   3.0   120-0220   MTWTF  0221 TUREAUD HALL                     EGEDY C
+ 14    16  MATH 2085         1  LINEAR ALGEBRA         3.0  0950-1050   MTWTF  0137 LOCKETT                          DAVIDSON M
+  3    53  MATH 2090         1  ELEM DIFF EQ & LIN A   4.0  0950-1050   MTWTH  2172 PATRICK TAYLOR                   HARHAD A
+  7    33  MATH 3355         1  PROBABILITY            3.0  0840-0940   MTWTF  0225 TUREAUD HALL                     TOM M
+ 10    21  MATH 4023         1  APPLIED ALGEBRA        3.0  1100-1200   MTWTF  0132 LOCKETT                          MENGESHA T
+ 18    13  MATH 4038         1  MATH METH IN ENGR      3.0  0950-1050   MTWTF  0132 LOCKETT                          RICHARDSON L
+ 22     3  MATH 4997 SEM     2  VERT INT RESEARCH      3.0  1000-1130     WTH  0135 LOCKETT                          OLAFSSON G
+ 22     8  MATH 4999 RES     1  SEL RDGS IN MATH       1-3  TBA                                                      CYGAN J
+ 20     5  MATH 4999 RES     2  SEL RDGS IN MATH       1-3  TBA                                                      CYGAN J
+ 15    10  MATH 4999 RES     3  SEL RDGS IN MATH       1-3  TBA                                                      PERLIS R
+  6    34  MATH 4999 RES     4  SEL RDGS IN MATH       1-3  TBA                                                      MADDEN J
+ 24     1  MATH 4999 RES     5  SEL RDGS IN MATH       1-3  TBA                                                      DAVIDSON M
+ 17     8  MATH 6300         1  TP MATH SCNDRY TEACH   1-3  TBA                                                      MADDEN J
+  7    23  MATH 6302         1  IMPLEM NCTM STAND II   3.0  TBA                                                      MADDEN J
+ 99        MATH 7999 RES    16  SEL READINGS IN MATH   1-3  TBA
+ 99        MATH 7999 RES    17  SEL READINGS IN MATH   1-3  TBA
+ 98     1  MATH 7999 RES     1  SEL READINGS IN MATH   1-3  TBA                                                      DAVIDSON M
+ 97     2  MATH 7999 RES     3  SEL READINGS IN MATH   1-3  TBA                                                      NEUBRANDER F
+ 98     1  MATH 7999 RES     4  SEL READINGS IN MATH   1-3  TBA                                                      MALISOFF M
+ 98     1  MATH 7999 RES     5  SEL READINGS IN MATH   1-3  TBA                                                      HOFFMAN J
+ 98     1  MATH 7999 RES     6  SEL READINGS IN MATH   1-3  TBA                                                      MORALES J
+ 97     2  MATH 7999 RES     7  SEL READINGS IN MATH   1-3  TBA                                                      SENGUPTA A
+ 98     1  MATH 7999 RES     8  SEL READINGS IN MATH   1-3  TBA                                                      ESTRADA R
+ 98     1  MATH 7999 RES     9  SEL READINGS IN MATH   1-3  TBA                                                      BRENNER S
+ 97     2  MATH 7999 RES    10  SEL READINGS IN MATH   1-3  TBA                                                      ZHANG H
+ 97     2  MATH 7999 RES    11  SEL READINGS IN MATH   1-3  TBA                                                      DASBACH O
+ 97     2  MATH 7999 RES    12  SEL READINGS IN MATH   1-3  TBA                                                      OLAFSSON G
+ 98     1  MATH 7999 RES    13  SEL READINGS IN MATH   1-3  TBA                                                      WOLENSKI P
+ 98     1  MATH 7999 RES    14  SEL READINGS IN MATH   1-3  TBA                                                      RUBIN B
+ 98     1  MATH 7999 RES    16  SEL READINGS IN MATH   1-3  TBA                                                      GILMER P
+ 98     1  MATH 7999 RES    17  SEL READINGS IN MATH   1-3  TBA                                                      BALDRIDGE S
+ 98     1  MATH 7999 RES    19  SEL READINGS IN MATH   1-3  TBA                                                      STOLTZFUS N
+ 98     1  MATH 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      SENGUPTA A
+ 91     8  MATH 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      MADDEN J
+ 95     4  MATH 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BRENNER S
+ 97     2  MATH 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      HOFFMAN J
+ 95     4  MATH 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      WOLENSKI P
+ 97     2  MATH 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      SCHLICHTING M
+ 97     2  MATH 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      NEUBRANDER F
+ 98     1  MATH 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      GILMER P
+ 97     2  MATH 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      DING G
+ 98     1  MATH 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      ANTIPOV Y
+ 96     3  MATH 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      LIPTON R
+ 97     2  MATH 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      OLAFSSON G
+ 98     1  MATH 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      OPOROWSKI B
+ 97     2  MATH 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      KUO H
+ 98     1  MATH 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      SUNDAR P
+ 98     1  MATH 9000 RES    21  DISSERTATION RES       1-12 TBA                                                      SAGE D
+ 98     1  MATH 9000 RES    26  DISSERTATION RES       1-12 TBA                                                      SHIPMAN S
+ 98     1  MATH 9000 RES    29  DISSERTATION RES       1-12 TBA                                                      BALDRIDGE S
+ 98     1  MATH 9000 RES    30  DISSERTATION RES       1-12 TBA                                                      ACHAR P
+ 98     1  MATH 9000 RES    31  DISSERTATION RES       1-12 TBA                                                      MALISOFF M
+ 96     3  MATH 9000 RES    32  DISSERTATION RES       1-12 TBA                                                      DASBACH O
+ 98     1  MATH 9000 RES    38  DISSERTATION RES       1-12 TBA                                                      DELZELL C
+ 49    41  MATH 1021         1  COLLEGE ALGEBRA        3.0  0910-1040   MTWTF  0016 LOCKETT                          FITCH G
+ 46    44  MATH 1021         2  COLLEGE ALGEBRA        3.0  1100-1230   MTWTF  0016 LOCKETT                          FITCH G
+ 52    38  MATH 1022         1  PLANE TRIGONOMETRY     3.0  0910-1040   MTWTF  0015 LOCKETT                          NEAL K
+                     LAB                                    TBA                                                      NEAL K
+ 35    55  MATH 1022         2  PLANE TRIGONOMETRY     3.0  1100-1230   MTWTF  0002 LOCKETT                          NEAL K
+                     LAB                                    TBA                                                      NEAL K
+  2    38  MATH 1029         2  INTRO COMTEMP MATH     3.0  1100-1230   MTWTF  0027 ALLEN                            HAGENS K
+  3    41  MATH 1100         3  NATURE OF MATHEMATCS   3.0  0910-1040   MTWTF  0006 LOCKETT                          HAGENS K
+ 18     7  MATH 4997 SEM     1  VERT INT RESEARCH      3.0  TBA                                                      DAVIDSON M
+ 98     1  MATH 7999 RES    15  SEL READINGS IN MATH   1-3  TBA                                                      RUBIN B

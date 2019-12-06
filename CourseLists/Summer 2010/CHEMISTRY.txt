@@ -1,0 +1,49 @@
+ 70    85  CHEM 1201         1  GENERAL CHEMISTRY      3.0  0840-0940   MTWTF  0102 WILLIAMS                         HOPKINS J
+124    71  CHEM 1202         1  GENERAL CHEMISTRY      3.0  1100-1200   MTWTF  0102 WILLIAMS                         SITUMA C
+ 35    29  CHEM 1212 LAB     2  GENERAL CHEM LAB       2.0  0840-1200   MTWTH                                        KOLNIAK P
+ 17    63  CHEM 1212 LAB     1  GENERAL CHEM LAB       2.0   120-0440   MTWTH                                        KOLNIAK P
+ 28    12  CHEM 2001         1  ANALYTICAL CHEMISTRY   2.0   120-0220   MTWTH  0201 WILLIAMS                         RUPNIK K
+ 17    33  CHEM 2060         1  SURVEY ORGANIC CHEM    3.0  0950-1050   MTWTF  0210 WILLIAMS                         HOGAN J
+ 43    99  CHEM 2261         1  ORGANIC CHEMISTRY      3.0   120-0220   MTWTF  0009 LOCKETT                          HOGAN J
+ 93   102  CHEM 2262         1  ORGANIC CHEMISTRY      3.0  1210-0110   MTWTF  0130 HOWE RUSSELL CO                  SPIVAK D
+  3    30  CHEM 2364 LAB     1  ORGANIC CHEM LAB       2.0  0840-1200   MTWTH  0308 WILLIAMS                         DAVILA A
+  3    29  CHEM 2364 LAB     2  ORGANIC CHEM LAB       2.0  0840-1200   MTWTH                                        DAVILA A
+  3    31  CHEM 2364 LAB     3  ORGANIC CHEM LAB       2.0   120-0440   MTWTH  0308 WILLIAMS                         DAVILA A
+(F)    34  CHEM 2364 LAB     4  ORGANIC CHEM LAB       2.0   120-0440   MTWTH                                        DAVILA A
+ 96     3  CHEM 2900 CLI     1  RESEARCH INTERNSHIP    1-2  TBA                                     PERMIS OF DEPT   MAVERICK A
+ 92     7  CHEM 3900 RES     1  CHEMICAL PROBLEMS      1-3  TBA                                     PERMIS OF DEPT   MAVERICK A
+ 18     2  CHEM 6001         1  CHEM INSTRCT DEM/EXP   3.0  TBA                                     PERMIS OF DEPT   WATKINS S
+                     LAB                                    TBA                                                      WATKINS S
+ 18     2  CHEM 6002         1  CHEM PRINC FOR TEACH   3.0  TBA                                     PERMIS OF DEPT   WATKINS S
+ 17     3  CHEM 6691 SEM     1  SEM: CUR DEV IN CHEM   1-3  TBA                                     PERMIS OF DEPT   WATKINS S
+ 98     1  CHEM 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      MACNAUGHTAN M
+ 98     1  CHEM 8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      RUSSO P
+ 95     4  CHEM 8000 RES    30  THESIS RESEARCH        1-12 TBA                                                      WATKINS S
+ 98     1  CHEM 8000 RES    31  THESIS RESEARCH        1-12 TBA                                                      ZHANG D
+ 91     8  CHEM 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      CHAN J
+ 98     1  CHEM 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CHEN B
+ 97     2  CHEM 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      COOK R
+ 96     3  CHEM 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      CROWE W
+ 97     2  CHEM 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      DALY W
+ 91     8  CHEM 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      DELLINGER H
+ 91     8  CHEM 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      GARNO J
+ 95     4  CHEM 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      GILMAN S
+ 98     1  CHEM 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      HALL R
+ 97     2  CHEM 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      MACNAUGHTAN M
+ 97     2  CHEM 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      MARZILLI L
+ 98     1  CHEM 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      MAVERICK A
+ 89    10  CHEM 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      MCCARLEY R
+ 93     6  CHEM 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      MURRAY K
+ 97     2  CHEM 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      NEGULESCU I
+ 93     6  CHEM 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      NESTEROV E
+ 98     1  CHEM 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      POJMAN J
+ 94     5  CHEM 9000 RES    21  DISSERTATION RES       1-12 TBA                                                      POLIAKOFF E
+ 97     2  CHEM 9000 RES    22  DISSERTATION RES       1-12 TBA                                                      RUSSO P
+ 96     3  CHEM 9000 RES    23  DISSERTATION RES       1-12 TBA                                                      SMITH K
+ 84    15  CHEM 9000 RES    24  DISSERTATION RES       1-12 TBA                                                      SOPER S
+ 94     5  CHEM 9000 RES    25  DISSERTATION RES       1-12 TBA                                                      SPIVAK D
+ 94     5  CHEM 9000 RES    26  DISSERTATION RES       1-12 TBA                                                      STANLEY G
+ 93     6  CHEM 9000 RES    27  DISSERTATION RES       1-12 TBA                                                      TAYLOR C
+ 91     8  CHEM 9000 RES    28  DISSERTATION RES       1-12 TBA                                                      VICENTE M
+ 88    11  CHEM 9000 RES    29  DISSERTATION RES       1-12 TBA                                                      WARNER I
+ 95     4  CHEM 9000 RES    31  DISSERTATION RES       1-12 TBA                                                      ZHANG D

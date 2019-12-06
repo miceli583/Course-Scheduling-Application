@@ -1,0 +1,11 @@
+ 12    38  EVEG 1050 LAB     2  INTRO ENV ENGR         1.0   130-0320      TH  1116 PATRICK TAYLOR                   PARDUE J
+  5    35  EVEG 2000         1  ENV ENGR I             3.0   900-1020    T TH  3140 PATRICK TAYLOR                   MOE W
+ 23    17  EVEG 2050 LAB     2  ENV ENGR DESN METHD    1.0   130-0320    T     1116 PATRICK TAYLOR                   PARDUE J
+(F)    16  EVEG 3110         2  WATR/WSTWTR TREATMNT   3.0   730-0820   M W F  2412 PATRICK TAYLOR                   CRISTINA C
+(F)    44  EVEG 3110         3  WATR/WSTWTR TREATMNT   3.0   800-0920   M W    2146 PATRICK TAYLOR                   MALONE R
+ 22    78  EVEG 3200         2  WATR RESOURCES ENGR    3.0   730-0850    T TH  1119 PATRICK TAYLOR                   KARIMPOUR A
+  6    34  EVEG 4120         1  DSN SLD&HAZ WST MGT    3.0  1030-1150    T TH  2146 PATRICK TAYLOR                   CONSTANT W
+  1    29  EVEG 4136 LAB     1  WATER QUAL LAB         1.0   130-0420   M      3140 PATRICK TAYLOR  CI-WRITTEN       ELANGO V
+  7    33  EVEG 4150         1  INT ENVR SYST DESN I   3.0   130-0420     W    2103 PATRICK TAYLOR                   MALONE R
+  3    40  EVEG 4154         1  SUSTAINABILITY ENGR    3.0   300-0420    T TH  2148 PATRICK TAYLOR                   PARDUE J
+(F)     1  EVEG 4781         1  SP TOP IN EVEG SCI     3.0  TBA                                                      CONSTANT W

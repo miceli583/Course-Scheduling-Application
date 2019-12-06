@@ -1,0 +1,41 @@
+(F)    50  MGT  2000         1  INNOV & CREATIVITY     3.0   830-0920   M W F  1845 BUS ED N WING                    BOULLION M
+(F)    51  MGT  3111         1  ENTREPRENEURSHIP       3.0   600-0850N    W    1700 BUS ED N WING                    PERRET S
+(F)    47  MGT  3200         4  PRINC OF MANAGEMENT    3.0   830-0920   M W F  1835 BUS ED N WING                    ESKEN C
+(F)    46  MGT  3200         2  PRINC OF MANAGEMENT    3.0   930-1020   M W F  1845 BUS ED N WING                    TAYLOR E
+(F)    47  MGT  3200         3  PRINC OF MANAGEMENT    3.0  1030-1120   M W F  1615 BUS ED N WING                    SOLOMON S
+ 32   868  MGT  3200         1  PRINC OF MANAGEMENT    3.0  1030-1150    T TH  0101 GYM AUDITORIUM                   SAULEY K
+ 24    21  MGT  3203 RES     1  ENTR IN TECH STARTUP   1-6   300-0420   M W    1845 BUS ED N WING                    MAAS A
+(F)    30  MGT  3211         1  BUSINESS & SOCIETY     3.0   900-1020    T TH  1720 BUS ED N WING                    MARIN D
+(F)    34  MGT  3211         2  BUSINESS & SOCIETY     3.0  1030-1150    T TH  1720 BUS ED N WING                    MARIN D
+(F)     5  MGT  3280 CLI     1  MGT INTERNSHIP         3.0  TBA                                                      MARIN D
+  1   119  MGT  3320         1  HUMAN RESOURCE MGT     3.0   830-0920   M W F  1125 BUS ED S WING                    HIGHTOWER G
+(F)    65  MGT  3320         2  HUMAN RESOURCE MGT     3.0   930-1020   M W F  1615 BUS ED N WING                    HIGHTOWER G
+(F)    50  MGT  3320         3  HUMAN RESOURCE MGT     3.0  1030-1150    T TH  1615 BUS ED N WING                    BEUS J
+(F)    40  MGT  3500         1  INTRO TO LABOR RELAT   3.0   600-0850N  M      1720 BUS ED N WING                    KIGGANS T
+(F)    43  MGT  3500         2  INTRO TO LABOR RELAT   3.0   600-0850N   T     1720 BUS ED N WING                    KIGGANS T
+(F)    43  MGT  3830         9  STRAT MANAGING ORGS    3.0   830-0920   M W F  1700 BUS ED N WING                    PETERSON L
+(F)    47  MGT  3830        10  STRAT MANAGING ORGS    3.0   930-1020   M W F  1700 BUS ED N WING                    PETERSON L
+(F)    50  MGT  3830        11  STRAT MANAGING ORGS    3.0  1030-1120   M W F  1700 BUS ED N WING                    PETERSON L
+(F)    48  MGT  3830        12  STRAT MANAGING ORGS    3.0  1130-1220   M W F  1700 BUS ED N WING                    PETERSON L
+(F)    43  MGT  3830         1  STRAT MANAGING ORGS    3.0   730-0850    T TH  0218 TUREAUD HALL                     MATHIAS B
+(F)    47  MGT  3830         2  STRAT MANAGING ORGS    3.0   900-1020    T TH  0218 TUREAUD HALL                     MATHIAS B
+(F)    44  MGT  3830         3  STRAT MANAGING ORGS    3.0   900-1020    T TH  0114 AUDUBON                          BANKS M
+(F)    41  MGT  3830         7  STRAT MANAGING ORGS    3.0   900-1020    T TH  0208 WILLIAMS                         IRWIN J
+(F)    48  MGT  3830         4  STRAT MANAGING ORGS    3.0  1030-1150    T TH  0229 TUREAUD HALL                     BANKS M
+(F)    44  MGT  3830         8  STRAT MANAGING ORGS    3.0  1030-1150    T TH  0208 WILLIAMS                         IRWIN J
+(F)    41  MGT  3830         5  STRAT MANAGING ORGS    3.0   130-0250    T TH  0102 TUREAUD HALL                     BRAGAW N
+(F)    41  MGT  3830         6  STRAT MANAGING ORGS    3.0   300-0420    T TH  0102 TUREAUD HALL                     BRAGAW N
+  1    49  MGT  4322         1  EMPLYEE SELECT/PLACE   3.0  1130-1220   M W F  1615 BUS ED N WING                    HIGHTOWER G
+(F)    40  MGT  4420         1  MULTINATIONAL MGT      3.0   300-0420   M W    1425 BUS ED S WING                    WHITMAN D
+(F)    41  MGT  4420         2  MULTINATIONAL MGT      3.0   430-0550N  M W    1845 BUS ED N WING                    WHITMAN D
+  7    33  MGT  4523         1  LEGAL ISS HUM RES MG   3.0   600-0850N    W    1425 BUS ED S WING                    ROUX R
+(F)    30  MGT  4620         1  HUMAN BEHAV ORGANIZA   3.0  1200-0120   M W    1225 BUS ED S WING                    BERNERTH J
+(F)    30  MGT  4620         2  HUMAN BEHAV ORGANIZA   3.0   300-0420   M W    0100 TUREAUD HALL                     BERNERTH J
+  6     4  MGT  7212 SEM     1  SEM CONTEMP MGT TOP    3.0   100-0350      TH  2500 BUS ED AUDITORI                  BEUS J
+(F)     1  MGT  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BEUS J
+(F)     1  MGT  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      MATHIAS B
+(F)     1  MGT  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      GRECKHAMER T
+  2     1  MGT  9202 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      MCGUIRE J
+  6     4  MGT  9204 SEM     1  PROSEMINAR IN MGT      1.0   200-0450       F  1120 BUS ED S WING                    MCGUIRE J
+(F)     8  MGT  9800 RES     2  SEM IN QUAL RES METH   3.0   100-0350   M      2500 BUS ED AUDITORI                  GRECKHAMER T
+  1     2  MGT  9800 RES     3  SEM IN ADV BUSINESS    3.0  1200-0250    T                                           IRWIN J

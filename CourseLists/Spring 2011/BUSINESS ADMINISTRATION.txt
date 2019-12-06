@@ -1,0 +1,31 @@
+ 37   123  BADM 1000         1  INTR TO STUDY OF BUS   1.0   940-1030     W    0206 TUREAUD HALL                     HOUSTON A
+  5    35  BADM 1000         3  INTR TO STUDY OF BUS   1.0  TBA                                     100% WEB BASED   HOUSTON A
+ 13    17  BADM 4040         1  ENTREPNEUR IN CHINA    3.0   310-0430    T TH  3129 PATRICK TAYLOR                   CHEN Y
+ 14   146  BADM 7010         1  EMERGING BUS ISSUES    1.0   940-1130       F  1119 PATRICK TAYLOR                   WATSON E
+  5    10  BADM 7030         1  UNDERSTAND FIN INFO    3.0  TBA                                     PERMIS OF INST   TIRAS S
+  6    24  BADM 7050         2  INFOR SYST MBA STDNT   3.0   610-0900N  M      3141 PATRICK TAYLOR  PERMIS OF INST   SCHWARZ A
+  4    27  BADM 7050         3  INFOR SYST MBA STDNT   3.0   610-0900N   T     3141 PATRICK TAYLOR  PERMIS OF INST   SCHWARZ A
+ 10    40  BADM 7060         2  ELEMENTS OF COST MGT   3.0   910-1030    T TH  1118 PATRICK TAYLOR                   CHENIER J
+ 13    37  BADM 7060         1  ELEMENTS OF COST MGT   3.0  1040-1200    T TH  1118 PATRICK TAYLOR                   CHENIER J
+  2    29  BADM 7060         4  ELEMENTS OF COST MGT   3.0   610-0900N   T                          PERMIS OF INST   DENSTEL C
+(F)    16  BADM 7060         3  ELEMENTS OF COST MGT   3.0  1210-0500       FS 3129 PATRICK TAYLOR  PERMIS OF INST   FARGASON J
+  3    20  BADM 7070         1  UNDERSTAND BEHAV ORG   3.0   610-0900N     TH  3140 PATRICK TAYLOR  PERMIS OF INST   SAULEY K
+ 14    36  BADM 7090         1  FIN MANAGEMENT         3.0   840-1000   M W    1118 PATRICK TAYLOR                   CHANCE D
+ 11    39  BADM 7090         2  FIN MANAGEMENT         3.0  1010-1130   M W    1118 PATRICK TAYLOR                   CHANCE D
+(F)    43  BADM 7090         3  FIN MANAGEMENT         3.0   610-0900N  M      3140 PATRICK TAYLOR  PERMIS OF INST   KIRBY M
+(F)    16  BADM 7090         4  FIN MANAGEMENT         3.0   810-1200       FS 3129 PATRICK TAYLOR  PERMIS OF INST   NARAYANAN R
+(F)    16  BADM 7100         1  MKTING ADMNSTRATION    3.0  TBA                                                      WU J
+  4    36  BADM 7120         1  OPERATIONS MANAGEMNT   3.0   910-1030    T TH  1120 PATRICK TAYLOR                   WATSON E
+  1    39  BADM 7120         2  OPERATIONS MANAGEMNT   3.0  1040-1200    T TH  1120 PATRICK TAYLOR  PERMIS OF INST   WATSON E
+(F)    16  BADM 7120         4  OPERATIONS MANAGEMNT   3.0  TBA                                     PERMIS OF INST   WATSON E
+ 11    39  BADM 7140         1  LEGAL ENVIR BUS I      3.0   910-1030    T TH  1116 PATRICK TAYLOR                   FARGASON J
+ 20    30  BADM 7140         2  LEGAL ENVIR BUS I      3.0  1040-1200    T TH  1116 PATRICK TAYLOR                   FARGASON J
+  1    19  BADM 7160         4  NEGOT/PERS/INFLUENCE   3.0   140-0300   M W    1110 PATRICK TAYLOR                   DANOS B
+ 10    20  BADM 7170         1  INTERNAT MGMT CHALL    3.0  TBA                                                      CHEN Y
+ 11    35  BADM 7190         4  MNG SOURCES COMP ADV   3.0   910-1200     W    1120 PATRICK TAYLOR  PERMIS OF INST   WATSON E
+  2    35  BADM 7190         5  MNG SOURCES COMP ADV   3.0   610-0900N    W    1120 PATRICK TAYLOR  PERMIS OF INST   CASHEN L
+ 11    14  BADM 7190         3  MNG SOURCES COMP ADV   3.0  TBA                                                      CASHEN L
+  5    25  BADM 7200         2  ECON ENVIRN OF THE F   3.0   610-0900N  M      1120 PATRICK TAYLOR                   KORAY F
+(F)    30  BADM 7200         1  ECON ENVIRN OF THE F   3.0   610-0900N   T     1120 PATRICK TAYLOR                   KORAY F
+(F)    12  BADM 7270 SEM     3  SEM NEW DEV BADM       3.0  TBA                                     PERMIS OF INST   RAVANI A
+ 24     1  BADM 7270 SEM     4  SEM NEW DEV BADM       3.0  TBA                                     PERMIS OF INST   WATSON E

@@ -1,0 +1,39 @@
+ 24    16  HORT 2050         1  GEN HORTICULTURE       4.0   910-1030    T TH  0134 J C MILLER                       MIRABELLO R
+                     LAB                                     140-0330    T     0107 HORTICUL. TCHG                   MIRABELLO R
+  8    17  HORT 2061         1  PLANT PROPAGATION      3.0   240-0330   M W    0232 J C MILLER                       JOHNSON C
+                     LAB                                     340-0530    T     0232 J C MILLER                       JOHNSON C
+  3    27  HORT 2122         1  HERB PLANT MATERIALS   2.0  1040-1130       F  0132 J C MILLER                       MIRABELLO R
+                     LAB                                    1140-0130       F  0132 J C MILLER                       MIRABELLO R
+111     9  HORT 2860         1  GROW DVMT AGR CROPS    3.0  TBA                                                      KUEHNY J
+ 18     2  HORT 3000 CLI     1  HORTICULTURAL INTERN   3.0  TBA                                                      LABONTE D
+ 18     2  HORT 3010 RES     1  RESEARCH PROBLEMS      3.0  TBA                                                      BUSH E
+ 18     2  HORT 3010 RES     2  RESEARCH PROBLEMS      3.0  TBA                                                      BEASLEY J
+ 18     2  HORT 3010 RES     3  RESEARCH PROBLEMS      3.0  TBA                                                      JOHNSON C
+ 18     2  HORT 3010 RES     6  RESEARCH PROBLEMS      3.0  TBA                                                      MOTSENBOCKER
+ 19     1  HORT 3010 RES     8  RESEARCH PROBLEMS      3.0  TBA                                                      MIRABELLO R
+  3     7  HORT 3015         1  SUS LANDSCAPE PRAC     3.0  TBA                                                      KUEHNY J
+  6    14  HORT 3040         1  LANDSCAPE CONSTRUCTN   2.0   140-0230      TH  0132 J C MILLER                       MIRABELLO R
+                     LAB                                     240-0430      TH  0132 J C MILLER                       BUSH E
+ 12     8  HORT 4012         2  CAMPUS SUSTAINABILIT   1-3   240-0430       F  0132 J C MILLER                       MOTSENBOCKER
+ 14     6  HORT 4012         1  TEMP STRESS PHYSIOL    1-3  TBA                                                      KUEHNY J
+  4     3  HORT 4012         4  SUST NURS CROP PROD    1-3  TBA                                                      KUEHNY J
+ 19     1  HORT 4012         5  SPEC TOP IN HORT       1-3  TBA                                     PERMIS OF INST   BUSH E
+ 19     1  HORT 4012         7  SPEC TOP IN HORT       1-3  TBA                                                      BEASLEY J
+  9     6  HORT 4030         1  PLANTN/BEV/TROP NUT    3.0   240-0530     W    0119 J C MILLER                       PICHA D
+  4     6  HORT 4072 SEM     1  SUST ORNAMENTAL PROD   3.0  TBA                                                      KUEHNY J
+ 36     4  HORT 4090         1  GOLF COURSE OPERATIO   4.0  TBA                                                      BEASLEY J
+                     LAB                                    TBA                                                      BEASLEY J
+  6     6  HORT 4096         1  POSTHARVEST PHYSIOLO   4.0  1140-0130     W F  0119 J C MILLER                       PICHA D
+                     LAB                                     140-0330       F  0119 J C MILLER                       PICHA D
+ 17     3  HORT 7913 SEM     1  SEMINAR                1.0  1140-1230       F                                        BUSH E
+ 23     2  HORT 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BUSH E
+ 23     2  HORT 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      KUEHNY J
+ 24     1  HORT 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      LABONTE D
+ 23     2  HORT 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      BEASLEY J
+ 24     1  HORT 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      MOTSENBOCKER
+ 18     2  HORT 8900 RES     3  RESCH PROB IN HORT     3.0  TBA                                                      JOHNSON C
+ 19     1  HORT 8900 RES     5  RESCH PROB IN HORT     3.0  TBA                                                      BEASLEY J
+ 24     1  HORT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BUSH E
+ 14     1  HORT 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      KUEHNY J
+ 24     1  HORT 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      LABONTE D
+ 24     1  HORT 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      PICHA D

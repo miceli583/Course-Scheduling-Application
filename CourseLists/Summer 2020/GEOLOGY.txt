@@ -1,0 +1,10 @@
+ 72     8  GEOL 1001         1  GEN GEOL PHYSICAL      3.0  1100-1200   MTWTF
+ 61     9  GEOL 1003         1  GEN GEOL HISTORICAL    3.0  0950-1050   MTWTF
+ 11     4  GEOL 1601 LAB     1  PHYSICAL GEOL LAB      1.0   120-0420   M W
+ 24        GEOL 1602 LAB     1  HISTORICAL GEOL LAB    1.0   120-0420    T TH
+(H)        GEOL 3666 LAB     1  FIELD GEOLOGY          6.0  TBA
+ 45        GEOL 7909 RES     1  DIR RES IN GEOL/GEOP   1-6  TBA
+ 99        GEOL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      DORAN P
+  5        GEOL 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      WILSON C
+  5        GEOL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      LUTTRELL K
+  5        GEOL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      WILSON C

@@ -1,0 +1,35 @@
+  7    13  AEEE 2001         1  FNDTNS OF AGEXED       3.0  1100-1250    T     0267 WOODIN HALL                      ARCEMONT L
+                     LAB                                    1100-1250      TH  0267 WOODIN HALL                      ARCEMONT L
+ 20        AEEE 2819         1  SPEC TOPICS AGEXED     1-3  TBA
+ 21     4  AEEE 3010 RES     1  INTRNSHP COOP EDUC     6.0  TBA                                                      FOX J
+ 25        AEEE 3010 RES     2  INTRNSHP COOP EDUC     6.0  TBA
+ 19     6  AEEE 4010         1  FDTNS COOP EXTEN       3.0  TBA                                                      WHITE R
+ 16     9  AEEE 4011         1  COMMUN AGEXED          3.0   300-0550     W                                          BLANCHARD T
+  9    16  AEEE 4101         1  INST DESIGN AGEXED     3.0   130-0250   M W    0132 J C MILLER                       BLACKBURN J
+ 17     8  AEEE 4102         1  TEACH MTHD AGEXED      3.0  1100-1220    T TH  0241 J C MILLER                       STAIR K
+ 13    12  AEEE 4505         1  YOUTH LEADERSHIP       3.0  TBA                                     100% WEB BASED   CATER M
+ 23     2  AEEE 4806 CLI     1  INTERN AGEXED          9.0  TBA                                                      FOX J
+ 13     2  AEEE 4819 RES     1  INFORMAL PRG YOUTH     1-3  TBA                                                      FOX J
+ 14     1  AEEE 4819 RES     2  ANDRAGOGY AG & EXT     1-3  TBA                                                      STAIR K
+  4     1  AEEE 4820 RES     1  INTRO TO PROG EVAL     1-3  TBA                                                      CATER M
+  1     4  AEEE 4820 RES     2  INTRO TO AG MECHAN     1-3  TBA                                                      BLACKBURN J
+  5        AEEE 4820 RES     3  IND STUDY IN AGEXED    1-3  TBA
+  4     1  AEEE 4820 RES     4  UNDGRD RES AG & EXT    1-3  TBA                                                      CATER M
+  9    16  AEEE 7122         1  PROG DEVEL AGEXED      3.0   130-0420    T     0102 KNAPP                            CATER M
+ 18     7  AEEE 7205         1  TCH IN HIGH EDUC       3.0   430-0720N   T                                           BLACKBURN J
+  7     8  AEEE 7816 SEM     1  ORIENTAT GRAD AEEE     1-3   130-0420      TH                                        FOX J
+ 22     3  AEEE 7824 RES     1  PROGRAM EVAL AG EXT    3.0  TBA                                                      CATER M
+ 22     3  AEEE 7824 RES     2  INDEPEND STUDY AGEXE   3.0  TBA                                                      BURNETT M
+ 24     1  AEEE 7824 RES     3  INDEPEND STUDY AGEXE   3.0  TBA                                                      CATER M
+ 25        AEEE 7824 RES     4  INDEPEND STUDY AGEXE   3.0  TBA
+ 19     6  AEEE 7909         1  INTRP REPT RES RESLT   3.0   430-0720N  M      0102 KNAPP                            CATER M
+ 99        AEEE 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BLACKBURN J
+ 99        AEEE 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BURNETT M
+ 99        AEEE 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      CATER M
+ 99        AEEE 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      FOX J
+ 99        AEEE 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      STAIR K
+ 98     1  AEEE 9000 RES     1  DISSERTATION RESEARC   1-12 TBA                                                      BLACKBURN J
+ 96     3  AEEE 9000 RES     2  DISSERTATION RESEARC   1-12 TBA                                                      BURNETT M
+ 94     5  AEEE 9000 RES     3  DISSERTATION RESEARC   1-12 TBA                                                      CATER M
+ 99        AEEE 9000 RES     4  DISSERTATION RESEARC   1-12 TBA                                                      FOX J
+ 99        AEEE 9000 RES     5  DISSERTATION RESEARC   1-12 TBA                                                      STAIR K

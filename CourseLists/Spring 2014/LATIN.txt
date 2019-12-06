@@ -1,0 +1,12 @@
+  1    21  LATN 1001         1  ELEMENTARY LATIN       4.0   730-0820   MTWTH  0135 LOCKETT                          ANDERSON P
+  1    19  LATN 1001         2  ELEMENTARY LATIN       4.0   830-0920   MTWTH  0424 HODGES HALL                      CRAIG B
+  2    22  LATN 1001         3  ELEMENTARY LATIN       4.0   930-1020   MTWTH  0210 TUREAUD HALL                     BATINSKI E
+  5    19  LATN 1001         4  ELEMENTARY LATIN       4.0  1030-1120   MTWTH  0137 LOCKETT                          WARGA R
+  1    21  LATN 1001         5  ELEMENTARY LATIN       4.0  1030-1120   MTWTH  0235 LOCKETT                          ANDERSON P
+ 20     8  LATN 2051         1  INTERMEDIATE LATIN     4.0   830-0920   MTWTH  0244 LOCKETT                          KATCHMER M
+  6    22  LATN 2051         2  INTERMEDIATE LATIN     4.0   930-1020   MTWTH  0424 HODGES HALL                      KATCHMER M
+(F)    28  LATN 2051         3  INTERMEDIATE LATIN     4.0  1030-1120   MTWTH  0135 LOCKETT                          WATANABE A
+  5    23  LATN 2051         4  INTERMEDIATE LATIN     4.0  1130-1220   MTWTH  0226 TUREAUD HALL                     WATANABE A
+  5    30  LATN 2053         1  INTERMEDIATE LATIN     3.0  1200-0120    T TH  2142 PATRICK TAYLOR                   WARGA R
+  4    30  LATN 2065         1  GOLD AGE NARR POETRY   3.0  1230-0120   M W F  0225 COATES                           BATINSKI E
+ 20     8  LATN 4002         1  ROMAN SATIRE           3.0  1130-1220   M W F  0334 HODGES HALL                      BATINSKI E

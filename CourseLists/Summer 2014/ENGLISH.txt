@@ -1,0 +1,36 @@
+ 12    10  ENGL 1001         2  ENGL COMPOSITION       3.0  0840-0940   MTWTF  0036 ALLEN                            DRUMMOND L
+  7    15  ENGL 1001         3  ENGL COMPOSITION       3.0  0840-0940   MTWTF  0034 ALLEN                            TORREY W
+  3    18  ENGL 1001         4  ENGL COMPOSITION       3.0  0950-1050   MTWTF  0034 ALLEN                            BAUKNIGHT L
+  2    20  ENGL 1001         5  ENGL COMPOSITION       3.0  0950-1050   MTWTF  0036 ALLEN                            MCKINNON R
+  5    17  ENGL 1001         1  ENGL COMPOSITION       3.0  1100-1200   MTWTF  0034 ALLEN                            BERGHOLTZ B
+  4     6  ENGL 1051         1  SPK ENGL INT GRD AST   3.0  0950-1200   M W F  0050 ALLEN           PERMIS OF DEPT   EPPERSON E
+  5     5  ENGL 1051         2  SPK ENGL INT GRD AST   3.0  0950-1200    T TH  0050 ALLEN           PERMIS OF DEPT   EPPERSON E
+  2    20  ENGL 2000         1  ENGLISH COMP           3.0  0840-0940   MTWTF  0017 ALLEN                            SMITH J
+  3    19  ENGL 2000         2  ENGLISH COMP           3.0  0840-0940   MTWTF  0032 ALLEN                            MURAD R
+(F)    22  ENGL 2000         3  ENGLISH COMP           3.0  0950-1050   MTWTF  0017 ALLEN                            AMO S
+  1    21  ENGL 2000         4  ENGLISH COMP           3.0  0950-1050   MTWTF  0032 ALLEN                            WITHEROW J
+  1    21  ENGL 2000         8  ENGLISH COMP           3.0  0950-1050   MTWTF  0101 TUREAUD HALL                     WINGENBACH J
+  2    20  ENGL 2000         5  ENGLISH COMP           3.0  1100-1200   MTWTF  0017 ALLEN                            CHANEY C
+  2    20  ENGL 2000         6  ENGLISH COMP           3.0  1100-1200   MTWTF  0230EMIDDLETON                        TUSA C
+ 12    10  ENGL 2002         2  BUSINESS WRITING       3.0  1100-1200   MTWTF  0205 COATES                           PULLIAM J
+  1    24  ENGL 2025         1  FICTION                3.0  0950-1050   MTWTF  0134 ALLEN                            HALE C
+(F)     2  ENGL 3930 RES     1  ENGLISH INTERNSHIP     1-3  TBA                                                      BUCH J
+ 98     1  ENGL 8000 RES    65  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   GLENUM L
+ 98     1  ENGL 8900 RES    10  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   HEIFFERON B
+ 98     1  ENGL 8900 RES    19  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   MULLEN L
+ 97     2  ENGL 8900 RES    31  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF DEPT   GLENUM L
+ 97     2  ENGL 9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BERMAN J
+ 98     1  ENGL 9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BARRETT C
+ 97     2  ENGL 9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   HENNINGER K
+ 98     1  ENGL 9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   COSTELLO B
+ 98     1  ENGL 9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CATANO J
+ 98     1  ENGL 9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DEMASTES W
+ 97     2  ENGL 9000 RES    32  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MASSE M
+ 98     1  ENGL 9000 RES    40  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   OLIVER E
+ 94     5  ENGL 9000 RES    44  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   RASTOGI P
+ 98     1  ENGL 9000 RES    46  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   NOVAK D
+ 98     1  ENGL 9000 RES    53  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WELTMAN S
+ 98     1  ENGL 9000 RES    66  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MICHIE E
+  8    27  ENGL 2025         2  FICTION                3.0  1100-1230   MTWTF  0019 ALLEN                            KRONICK J
+  8    27  ENGL 3070         1  AMER LITERATURE I      3.0  1240-0210   MTWTF  0121 ALLEN                            BERMAN J
+ 12     8  ENGL 4710         1  INTR TO LINGUISTICS    3.0  0900-1040   MTWTF  0038 ALLEN                            CAMP A

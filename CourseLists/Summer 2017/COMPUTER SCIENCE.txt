@@ -1,0 +1,54 @@
+ 98     1  CSC  3999 RES    29  IND UNDERGRAD RES      1-3  TBA                                     PERMIS OF DEPT   WANG Q
+  5        CSC  4999 RES    28  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   MAHMOUD A
+ 98     1  CSC  4999 RES    31  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   RICHARD G
+ 20        CSC  7090 IND     2  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 20        CSC  7090 IND     3  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   BUSCH K
+ 20        CSC  7090 IND     4  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   CARVER D
+ 17     3  CSC  7090 IND     5  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   CHEN J
+ 20        CSC  7090 IND     6  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   CHEN F
+ 20        CSC  7090 IND     9  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   KARKI B
+ 20        CSC  7090 IND    10  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   KOOIMA R
+ 20        CSC  7090 IND    11  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   KUNDU S
+ 20        CSC  7090 IND    12  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 20        CSC  7090 IND    13  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   PARK S
+ 20        CSC  7090 IND    14  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   SHAH R
+ 20        CSC  7090 IND    15  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   SUN M
+ 20        CSC  7090 IND    16  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 20        CSC  7090 IND    18  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   ULLMER B
+ 20        CSC  7090 IND    19  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   ZHANG J
+ 20        CSC  7090 IND    20  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   KAISER H
+ 20        CSC  7090 IND    21  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   WHALEY R
+ 20        CSC  7090 IND    22  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   LI X
+ 20        CSC  7090 IND    25  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   BRANDT S
+ 20        CSC  7090 IND    27  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   SOYSAL O
+ 20        CSC  7090 IND    28  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   MAHMOUD A
+ 20        CSC  7090 IND    29  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   WANG Q
+ 20        CSC  7090 IND    30  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT   LEE K
+ 99        CSC  7999 RES    12  SEL READINGS IN CSC    1-3  TBA                                                      MUKHOPADHYAY
+ 18     2  CSC  8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      MUKHOPADHYAY
+ 18     2  CSC  8000 RES    15  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SUN M
+ 19     1  CSC  8000 RES    16  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 19     1  CSC  8000 RES    29  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WANG Q
+ 98     1  CSC  9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 98     1  CSC  9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BUSCH K
+ 98     1  CSC  9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CARVER D
+ 99        CSC  9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN J
+ 99        CSC  9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN F
+ 99        CSC  9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KARKI B
+ 98     1  CSC  9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KOOIMA R
+ 98     1  CSC  9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KUNDU S
+ 98     1  CSC  9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 99        CSC  9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PARK S
+ 99        CSC  9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SHAH R
+ 99        CSC  9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SUN M
+ 99        CSC  9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 99        CSC  9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ULLMER B
+ 99        CSC  9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ZHANG J
+ 99        CSC  9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KAISER H
+ 97     2  CSC  9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WHALEY R
+ 99        CSC  9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LI X
+ 99        CSC  9000 RES    25  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BRANDT S
+ 99        CSC  9000 RES    27  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SOYSAL O
+ 99        CSC  9000 RES    28  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MAHMOUD A
+ 98     1  CSC  9000 RES    29  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WANG Q
+ 99        CSC  9000 RES    30  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LEE K

@@ -1,0 +1,79 @@
+  2   183  HIST 1001         1  WEST CIVIL TO 1500     3.0   930-1020   M W F  0006 LOCKETT                          DIETZ M
+  6   169  HIST 1001         2  WEST CIVIL TO 1500     3.0   130-0220   M W F  0010 LOCKETT                          KOOI C
+(F)    40  HIST 1001         3  WEST CIVIL TO 1500     3.0   900-1020    T TH  0124CHERGET HALL                      HARDY J
+  3   172  HIST 1001         4  WEST CIVIL TO 1500     3.0  1030-1150    T TH  0016 LOCKETT                          ROSS S
+  2    28  HIST 1002         1  HON: WES CIV TO 1500   3.0  1200-0120    T TH  0248 WOODIN HALL                      HARDY J
+  5   137  HIST 1003         1  HIS WES CIVILIZATION   3.0  1130-1220   M W F  0009 LOCKETT                          KARCH B
+ 29   113  HIST 1003         2  HIS WES CIVILIZATION   3.0  1030-1150    T TH  0009 LOCKETT                          HOFFMAN P
+  5   137  HIST 1003         3  HIS WES CIVILIZATION   3.0  1200-0120    T TH  0009 LOCKETT                          MARTIN B
+ 16   108  HIST 1005         3  WORLD HIST TO 1500     3.0  1130-1220   M W F  0152 COATES                           ALAM A
+ 17   158  HIST 1007         1  WLD HIST SINCE 1500    3.0  1030-1120   M W F  0010 LOCKETT                          ANDES S
+  5    35  HIST 2020         3  MEDIEVAL EUROPE        3.0   830-0920   M W F  0239 LOCKETT                          JOHNSON S
+ 10   138  HIST 2055         5  US TO 1865             3.0  1230-0120   M W F  E130 HOWE RUSSELL E                   FOSTER G
+ 10   165  HIST 2055         4  US TO 1865             3.0   900-1020    T TH  0010 LOCKETT                          SHEEHAN-DEAN
+  7   168  HIST 2055         6  US TO 1865             3.0   130-0250    T TH  0005 LOCKETT                          FROST D
+(F)   175  HIST 2057         1  THE US: 1865 TO PRES   3.0  1130-1220   M W F  0015 LOCKETT                          SHINDO C
+  2   173  HIST 2057         4  THE US: 1865 TO PRES   3.0   130-0220   M W F  0005 LOCKETT                          JACQUET C
+  4   144  HIST 2057         2  THE US: 1865 TO PRES   3.0  1030-1150    T TH  E130 HOWE RUSSELL E                   FROST D
+ 78    97  HIST 2061         1  AFRICAN-AMERICAN HIS   3.0   300-0420    T TH  0010 LOCKETT                          ROBERTS K
+  3    12  HIST 2075         1  GERMAN CIVILIZATION    3.0   430-0550N   T TH  0059 ALLEN                            LEDER H
+ 15    17  HIST 2195         1  OLD REG REVOL FRANCE   3.0  1130-1220   M W F  0237 LOCKETT                          TUTTLE L
+ 28    12  HIST 3001         3  HIST & SOC SCI I       1.0   400-0450      TH  0253 HIMES                            GUTFREUND Z
+ 59   116  HIST 3071         1  LOUISIANA              3.0   130-0250    T TH  0015 LOCKETT                          LONG A
+  1    19  HIST 3118 SEM     5  MAGIC WITCH SUPERSTI   3.0   130-0250   M W    0243 LOCKETT                          TUTTLE L
+  1    19  HIST 3118 SEM     3  UG PROSEM EUROP HIST   3.0  1030-1150    T TH  0120 PRESCOTT                         HALLORAN E
+  4    16  HIST 3118 SEM     4  UG PROSEM EUROP HIST   3.0  1200-0120    T TH  0218 STUBBS                           OVERTOOM N
+ 10    10  HIST 3118 SEM     2  UG PROSEM EUROP HIST   3.0   300-0550     W    0112 PRESCOTT                         POCHE E
+  5    35  HIST 4008         1  LATER MIDDLE AGES      3.0   230-0350   M W    0104 AUDUBON                          DIETZ M
+ 11    29  HIST 4009         1  THE RENAISSANCE        3.0  1030-1120   M W F  0210 TUREAUD HALL                     KOOI C
+ 32     8  HIST 4013         1  WOMEN EARLY MOD EURO   3.0  1030-1120   M      0253 HIMES                            JOHNSON S
+ 16    24  HIST 4016         1  EUROPE IN 19TH CEN     3.0   900-1020    T TH  0253 HIMES                            MARTIN B
+ 11    29  HIST 4034         1  RUSSIA SINCE 1861      3.0  1030-1150    T TH  0210 TUREAUD HALL                     CLARK W
+(F)    43  HIST 4044         1  STUART ENGLAND         3.0  1230-0120   M W F  0232 LOCKETT                          STATER V
+ 15    25  HIST 4047         1  20TH CENT BRITAIN      3.0  1230-0120   M W F  0253 HIMES                            VELDMAN M
+ 39    61  HIST 4066         1  MILITARY HIST U S      3.0  1200-0120    T TH  0241 HIMES                            HILTON S
+ 39    71  HIST 4077         1  AMERICAN POPULAR CUL   3.0   330-0450   M W    0241 HIMES                            SHINDO C
+ 22    18  HIST 4092         1  CHINA SINCE 1600       3.0  1200-0120    T TH  0119 TUREAUD HALL                     ZANASI M
+ 25    15  HIST 4094         1  MODERN JAPAN           3.0   930-1020   M W F  0253 HIMES                            HENDERSON J
+  3    27  HIST 4140         1  VIETNAM WAR            3.0   130-0250    T TH  0241 HIMES                            HILTON S
+(F)    15  HIST 4191         1  RELIGNS CHINA/JAPAN    3.0  1130-1220   M W F  0253 HIMES                            HENDERSON J
+ 28    12  HIST 4195         1  WAR RELIG LATIN AMER   3.0   130-0220   M W F  0253 HIMES                            ANDES S
+ 28    12  HIST 4196         3  FASCISM IN EUROPE      3.0   230-0320   M W F  0241 LOCKETT                          KARCH B
+ 29    11  HIST 4197         1  US IMMIGRATION HIST    3.0  1200-0120    T TH  0253 HIMES                            GUTFREUND Z
+ 20     5  HIST 4403         2  HIST & SOC SCI III     1.0   500-0550N     TH  0253 HIMES                            GUTFREUND Z
+ 28     3  HIST 4404 SEM     2  SEM HIST & SOC SCI     3.0   430-0720N   T     0111 LOCKETT                          GUTFREUND Z
+ 12     3  HIST 4901 RES     1  INDEPENDENT STUDY      3.0  TBA                                                      STATER V
+(F)     1  HIST 4901 RES     2  INDEPENDENT STUDY      3.0  TBA                                                      DIETZ M
+(F)     1  HIST 4901 RES     3  INDEPENDENT STUDY      3.0  TBA                                                      FOSTER G
+(F)     2  HIST 4902 RES     2  INDEPENDENT STUDY      3.0  TBA                                                      STATER V
+ 14     1  HIST 7902 RES     1  INDEP STUDY IN HIST    3.0  TBA                                                      ANDES S
+ 10     5  HIST 7904 SEM     1  AMER HISTOR/CRITICIS   3.0   300-0550   M      0134 ALLEN                            FOSTER G
+  8    12  HIST 7908 SEM     2  INTRO HISTORICAL RES   3.0   300-0550     W    0243 LOCKETT                          HOFFMAN P
+  9    11  HIST 7923 SEM     1  SEM EUR HIST FR 1500   3.0   300-0550    T     0113 LOCKETT                          MARCHAND S
+  8     7  HIST 7930 SEM     1  READ SM BRITISH HIST   3.0  TBA                                                      STATER V
+ 10     5  HIST 7951 SEM     1  READ SM AM HST 1607-   3.0   300-0550      TH  0116 PRESCOTT                         SHEEHAN-DEAN
+  9     6  HIST 7956 SEM     1  READ SM AM HST 1865-   3.0   300-0550    T     0118 PRESCOTT                         LONG A
+ 11     4  HIST 7970 SEM     1  GLOBAL/LOCAL           3.0   300-0550      TH  0118 PRESCOTT                         ZANASI M
+ 98     1  HIST 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      SHEEHAN-DEAN
+ 95     4  HIST 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      FOSTER G
+ 97     2  HIST 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      VELDMAN M
+ 98     1  HIST 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      HOFFMAN P
+ 98     1  HIST 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      MARCHAND S
+ 98     1  HIST 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      MARTIN B
+ 98     1  HIST 8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      BURSTEIN A
+ 97     2  HIST 8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      STATER V
+ 98     1  HIST 8000 RES    19  THESIS RESEARCH        1-12 TBA                                                      SHINDO C
+ 97     2  HIST 8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      STATER V
+ 98     1  HIST 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      CULBERT D
+ 97     2  HIST 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      DIETZ M
+ 96     3  HIST 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      FOSTER G
+ 95     4  HIST 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      LONG A
+ 95     4  HIST 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      ISENBERG N
+ 98     1  HIST 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      KOOI C
+ 98     1  HIST 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SHEEHAN-DEAN
+ 96     3  HIST 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      MARCHAND S
+ 98     1  HIST 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      ROSS S
+ 97     2  HIST 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      SHINDO C
+ 94     5  HIST 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      STATER V
+ 98     1  HIST 9000 RES    21  DISSERTATION RES       1-12 TBA                                                      BURSTEIN A
+ 98     1  HIST 9000 RES    22  DISSERTATION RES       1-12 TBA                                                      MARTIN B

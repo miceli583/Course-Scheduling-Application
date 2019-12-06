@@ -1,0 +1,15 @@
+  4    16  HSS  1001        11  INTRO CAREER           1.0  1030-1120   M      0038 ALLEN                            TUSA C
+(F)    20  HSS  1001         1  INTRO CAREER           1.0  1130-1220   M      0115 RES COLL ONE N  RES COLG-GLOBAL  PAINIA B
+(F)    20  HSS  1001         2  INTRO CAREER           1.0   130-0220   M      0115 RES COLL ONE N  RES COLG-GLOBAL  PAINIA B
+ 14     6  HSS  1001        14  INTRO CAREER           1.0   900-0950    T     0129 ALLEN                            PRIDDY A
+(F)    20  HSS  1001         3  INTRO CAREER           1.0   930-1020    T     0115 RES COLL ONE N  RES COLG-GLOBAL  HALLORAN E
+  2    18  HSS  1001         4  INTRO CAREER           1.0  1230-0120    T     0115 RES COLL ONE N  RES COLG-GLOBAL  HALLORAN E
+ 10    10  HSS  1001         5  INTRO CAREER           1.0   330-0420    T     0115 RES COLL ONE N  RES COLG-GLOBAL  HALLORAN E
+ 11     9  HSS  1001         6  INTRO CAREER           1.0   930-1020     W    0115 RES COLL ONE N  RES COLG-GLOBAL  PAINIA B
+ 17     3  HSS  1001        12  INTRO CAREER           1.0  1030-1120     W    0038 ALLEN                            TUSA C
+  5    15  HSS  1001         7  INTRO CAREER           1.0  1230-0120     W    0115 RES COLL ONE N  RES COLG-GLOBAL  PAINIA B
+ 16     4  HSS  1001        13  INTRO CAREER           1.0  1230-0120     W    0046 ALLEN                            REED J
+(F)    20  HSS  1001         8  INTRO CAREER           1.0   230-0320     W    0115 RES COLL ONE N  RES COLG-GLOBAL  PAINIA B
+ 16     4  HSS  1001        15  INTRO CAREER           1.0  1200-1250      TH  0129 ALLEN                            PRIDDY A
+  4    16  HSS  1001         9  INTRO CAREER           1.0   330-0420      TH  0115 RES COLL ONE N  RES COLG-GLOBAL  HALLORAN E
+ 13     7  HSS  1001        10  INTRO CAREER           1.0   430-0520N     TH  0115 RES COLL ONE N  RES COLG-GLOBAL  HALLORAN E

@@ -1,0 +1,35 @@
+  7    41  IE   2060         1  INT USE OF COMPUTERS   3.0  1130-1220   M W    3136 PATRICK TAYLOR  CI-VISUAL&TECH   ARAB KHAZAELI
+                     LAB                                     300-0550    T     3136 PATRICK TAYLOR                   ARAB KHAZAELI
+ 19    29  IE   2400         1  METHODS & SYST ENGR    3.0  1030-1120    T TH  3141 PATRICK TAYLOR  CI-WRITTEN&SPOK  AGHAZADEH F
+                     LAB                                     300-0550      TH  3136 PATRICK TAYLOR                   AGHAZADEH F
+  9    91  IE   3201         1  PRIN ENGR ECONOMY      3.0  1200-0120    T TH  0204 TUREAUD HALL                     HARVEY C
+  2    58  IE   3302         1  ENGR STATISTICS        3.0   930-1020   M W F  0105 TUREAUD HALL                     IKUMA L
+ 13    47  IE   3302         2  ENGR STATISTICS        3.0   930-1020   M W F  0120 TUREAUD HALL                     KNAPP G
+ 47     1  IE   3699 CLI     1  ENGINEERING PRACTICE   3.0  TBA                                                      IKUMA L
+ 47     1  IE   3699 CLI     2  ENGINEERING PRACTICE   3.0  TBA                                                      HARVEY C
+  7     8  IE   4425         3  INFO SYST ENGR         3.0   130-0220   M W    2218 PATRICK TAYLOR  CI-WRITTEN&SPOK  KNAPP G
+                     LAB                                     300-0550      TH  3403 PATRICK TAYLOR                   KNAPP G
+ 19    26  IE   4453         1  QUALITY CONT & SIX S   3.0   900-1020    T TH  0228 TUREAUD HALL                     LIAO T
+  9    16  IE   4461         3  HUMAN FACTORS ENGR     3.0  1130-1220   M W    2218 PATRICK TAYLOR  CI-WRITTEN&SPOK  IKUMA L
+                     LAB                                     230-0520   M      3412 PATRICK TAYLOR                   IKUMA L
+ 24     1  IE   4465         1  BIOMECHANICS FOR ENG   3.0  1030-1120   M W    0228 TUREAUD HALL                     MONROE W
+                     LAB                                     230-0520     W    0228 TUREAUD HALL                     MONROE W
+ 32    13  IE   4520         1  SUPPLY CHAIN LOGISTI   3.0   130-0250    T TH  1111 PATRICK TAYLOR                   SARKER B
+ 48        IE   4597         1  IE SENIOR DESIGN I     2.0   300-0550    T                          CI-WRITTEN&SPOK  AGHAZADEH F
+                     LAB                                    TBA
+ 42     6  IE   4598 LAB     1  IE SENIOR DESIGN II    2.0   300-0550    T TH  2218 PATRICK TAYLOR                   AGHAZADEH F
+ 27     5  IE   4599         1  IE SR DESN PROJECT     3.0   300-0550    T     3141 PATRICK TAYLOR  CI-WRITTEN&SPOK  AGHAZADEH F
+  1     4  IE   4785 RES     1  SPEC TOP IND ENGR      1-3  TBA                                                      KNAPP G
+  4     1  IE   4785 RES     2  SPEC TOP IND ENGR      1-3  TBA                                                      HARVEY C
+(F)     1  IE   4785 RES     3  SPEC TOP IND ENGR      1-3  TBA                                                      IKUMA L
+ 24     6  IE   7565         1  METAHEURISTICS         3.0   130-0250    T TH  0225 TUREAUD HALL                     LIAO T
+ 10    10  IE   7722         2  HUMAN ERROR & ENG DE   3.0   230-0520   M      2218 PATRICK TAYLOR                   HARVEY C
+(F)     1  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                                      AGHAZADEH F
+  2    13  IE   7762         1  SUPPLY CHAIN SYSTEMS   3.0  1030-1150    T TH  3129 PATRICK TAYLOR                   SARKER B
+  5        IE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HARVEY C
+  4     1  IE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      LIAO T
+ 20        IE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      NAHMENS I
+ 18     2  IE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      IKUMA L
+ 20        IE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      SARKER B
+ 18     2  IE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      KNAPP G
+ 19     1  IE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      AGHAZADEH F

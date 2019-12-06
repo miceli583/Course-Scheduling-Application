@@ -1,0 +1,10 @@
+226    74  ASTR 1101         1  THE SOLAR SYSTEM       3.0   830-0920   M W F  0130 NICHOLSON                        PARKS J
+ 87   213  ASTR 1101         2  THE SOLAR SYSTEM       3.0  1030-1120   M W F  0130 NICHOLSON                        PARKS J
+134   166  ASTR 1101         3  THE SOLAR SYSTEM       3.0   130-0250    T TH  0130 NICHOLSON                        BOYAJIAN T
+184   116  ASTR 1102         2  STELLAR ASTRONOMY      3.0   230-0320   M W F  0130 NICHOLSON                        CHATZOPOULOS
+112   188  ASTR 1102         1  STELLAR ASTRONOMY      3.0   900-1020    T TH  0130 NICHOLSON                        PARKS J
+  5    19  ASTR 1108 LAB     1  ASTRONOMY LAB          1.0   700-0850N  M      0365 NICHOLSON                        PARKS J
+(F)    24  ASTR 1108 LAB     2  ASTRONOMY LAB          1.0   700-0850N   T     0365 NICHOLSON                        PARKS J
+  3    21  ASTR 1109 LAB     1  ASTRONOMY LAB          1.0   700-0850N    W    0365 NICHOLSON                        KRAFTON K
+  4    20  ASTR 1109 LAB     2  ASTRONOMY LAB          1.0   700-0850N     TH  0365 NICHOLSON                        KRAFTON K
+  8     7  ASTR 4222         1  INTR ASTROPHYSICS      3.0   130-0250    T TH  0262 NICHOLSON                        HYNES R

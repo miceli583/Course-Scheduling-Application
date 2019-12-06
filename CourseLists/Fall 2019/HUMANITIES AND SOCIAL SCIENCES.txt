@@ -1,0 +1,42 @@
+  5    15  HSS  1000         1  INTRO TO RESEARCH      1.0   830-0920   M      0046 ALLEN                            PULLIAM J
+  3    17  HSS  1000        17  INTRO TO RESEARCH      1.0   830-0920   M      0035 ALLEN                            SULLIVAN S
+  1    19  HSS  1000        36  INTRO TO RESEARCH      1.0   830-0920   M      0204 WOODIN HALL                      MCCRAY A
+  1    19  HSS  1000         2  INTRO TO RESEARCH      1.0   930-1020   M      0123 ALLEN                            TUSA C
+(F)    20  HSS  1000        18  INTRO TO RESEARCH      1.0   930-1020   M      0115 RES COLL ONE N  CI-WRITTEN       PAINIA B
+(F)    20  HSS  1000         3  INTRO TO RESEARCH      1.0  1030-1120   M      0235 LOCKETT                          BARTON M
+  1    19  HSS  1000        19  INTRO TO RESEARCH      1.0  1030-1120   M      0023 ALLEN                            WIGGINS L
+  2    18  HSS  1000        41  INTRO TO RESEARCH      1.0  1030-1120   M      0206 WILLIAMS                         TURNER M
+  1    19  HSS  1000         4  INTRO TO RESEARCH      1.0  1130-1220   M      0253 HIMES                            BARTON M
+  3    17  HSS  1000        42  INTRO TO RESEARCH      1.0  1130-1220   M      0102 AUDUBON                          TURNER M
+ 11     9  HSS  1000        50  INTRO TO RESEARCH      1.0  1130-1220   M      0111 COATES          CI-WRITTEN       HALLORAN E
+  1    19  HSS  1000        43  INTRO TO RESEARCH      1.0  1230-0120   M      0036 ALLEN                            TURNER M
+(F)    20  HSS  1000         9  INTRO TO RESEARCH      1.0   930-1020    T     0108 AUDUBON         CI-WRITTEN       PAINIA B
+  5    15  HSS  1000        26  INTRO TO RESEARCH      1.0   930-1020    T     0115 RES COLL ONE N  CI-WRITTEN       HALLORAN E
+  1    19  HSS  1000        10  INTRO TO RESEARCH      1.0  1030-1120    T     0134 LOCKETT         CI-WRITTEN       ROTHENBECK C
+  4    16  HSS  1000        38  INTRO TO RESEARCH      1.0  1030-1120    T     0112 TUREAUD HALL                     TREPANIER J
+  1    19  HSS  1000        11  INTRO TO RESEARCH      1.0  1130-1220    T     0155 COATES                           TREPANIER J
+  1    19  HSS  1000        28  INTRO TO RESEARCH      1.0  1130-1220    T     0285 LOCKETT                          BARTON M
+  1    19  HSS  1000        12  INTRO TO RESEARCH      1.0  1230-0120    T     0111 COATES                           MECHOLSKY K
+(F)    20  HSS  1000        29  INTRO TO RESEARCH      1.0  1230-0120    T     0134 LOCKETT                          CALAMIA M
+  1    19  HSS  1000        13  INTRO TO RESEARCH      1.0   930-1020     W    0119 TUREAUD HALL                     STEVENS R
+  1    19  HSS  1000        30  INTRO TO RESEARCH      1.0   930-1020     W    0115 RES COLL ONE N  CI-WRITTEN       HALLORAN E
+(F)    20  HSS  1000        14  INTRO TO RESEARCH      1.0  1030-1120     W    0136 LOCKETT                          WEILL C
+  1    19  HSS  1000        31  INTRO TO RESEARCH      1.0  1030-1120     W    0124 TUREAUD HALL                     SHEEHAN-DEAN
+  3    17  HSS  1000        15  INTRO TO RESEARCH      1.0  1130-1220     W    0111 COATES                           REED J
+  5    15  HSS  1000        32  INTRO TO RESEARCH      1.0  1130-1220     W    0111 LOCKETT                          WEILL C
+  4    16  HSS  1000        39  INTRO TO RESEARCH      1.0  1130-1220     W    0051 ALLEN                            PRIDDY A
+  3    17  HSS  1000        16  INTRO TO RESEARCH      1.0  1230-0120     W    0228 COATES                           REED J
+(F)    20  HSS  1000        33  INTRO TO RESEARCH      1.0  1230-0120     W    0115 RES COLL ONE N  CI-WRITTEN       PAINIA B
+  2    18  HSS  1000        34  INTRO TO RESEARCH      1.0   130-0220     W    0115 RES COLL ONE N  CI-WRITTEN       PAINIA B
+(F)    20  HSS  1000         5  INTRO TO RESEARCH      1.0   830-0920      TH  0121 ALLEN                            PRIDDY A
+  4    16  HSS  1000        21  INTRO TO RESEARCH      1.0   830-0920      TH  0115 RES COLL ONE N  CI-WRITTEN       HALLORAN E
+ 14     6  HSS  1000        47  INTRO TO RESEARCH      1.0   830-0920      TH  0112 TUREAUD HALL                     GREMILLION S
+  1    19  HSS  1000         6  INTRO TO RESEARCH      1.0   930-1020      TH  0108 AUDUBON                          CHAUVIN C
+  5    15  HSS  1000        22  INTRO TO RESEARCH      1.0   930-1020      TH  0112 TUREAUD HALL                     GREMILLION S
+(F)    20  HSS  1000         7  INTRO TO RESEARCH      1.0  1030-1120      TH  0134 LOCKETT                          CHAUVIN C
+(F)    20  HSS  1000        23  INTRO TO RESEARCH      1.0  1030-1120      TH  0115 RES COLL ONE N  CI-WRITTEN       PAINIA B
+ 15     5  HSS  1000        48  INTRO TO RESEARCH      1.0  1030-1120      TH  0112 TUREAUD HALL                     GREMILLION S
+(H)    35  HSS  1000        49  INTRO TO RESEARCH      1.0  1100-1150      TH  0285 LOCKETT                          WHITEHEAD M
+  1    19  HSS  1000         8  INTRO TO RESEARCH      1.0  1130-1220      TH  0155 COATES                           CHAUVIN C
+  1    19  HSS  1000        24  INTRO TO RESEARCH      1.0  1130-1220      TH  0115 RES COLL ONE N  CI-WRITTEN       HALLORAN E
+  2    18  HSS  1000        40  INTRO TO RESEARCH      1.0  1230-0120      TH  0111 COATES                           MARTINEZ HERN

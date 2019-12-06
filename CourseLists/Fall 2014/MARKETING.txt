@@ -1,0 +1,35 @@
+  1    59  MKT  3401         2  PRIN OF MARKETING      3.0   930-1020   M W F  1845 BUS ED N WING                    SANTAELLA M
+(F)    60  MKT  3401         3  PRIN OF MARKETING      3.0  1030-1120   M W F  1845 BUS ED N WING                    SANTAELLA M
+  1    49  MKT  3401         7  PRIN OF MARKETING      3.0  1230-0120   M W F  1845 BUS ED N WING                    FENNELL P
+  3    57  MKT  3401         4  PRIN OF MARKETING      3.0   130-0220   M W F  1845 BUS ED N WING                    SANTAELLA M
+ 10    50  MKT  3401         5  PRIN OF MARKETING      3.0   230-0320   M W F  1845 BUS ED N WING                    SANTAELLA M
+166   834  MKT  3401         1  PRIN OF MARKETING      3.0   130-0250    T TH  0101 GYM AUDITORIUM                   KARAM T
+(F)    39  MKT  3411         1  CONSUM ANALYS & BEHA   3.0   900-1020    T TH  1325 BUS ED S WING                    KUO A
+(F)    39  MKT  3411         2  CONSUM ANALYS & BEHA   3.0  1030-1150    T TH  1325 BUS ED S WING                    KUO A
+  2    36  MKT  3411         3  CONSUM ANALYS & BEHA   3.0  1030-1150    T TH  1305 BUS ED S WING                    NIEDRICH R
+(F)    44  MKT  3413         1  MARKETING RESEARCH     3.0   130-0250   M W    1325 BUS ED S WING                    BURNS A
+(F)    47  MKT  3413         2  MARKETING RESEARCH     3.0   300-0420   M W    1120 PATRICK TAYLOR                   BURNS A
+  5    35  MKT  3421         1  MKT COMM: PROMOTION    3.0   300-0420    T TH  1845 BUS ED N WING                    FOLSE J
+(F)    35  MKT  3427         2  PROFESSIONAL SELLING   3.0  1030-1120   M W F  1745 BUS ED N WING                    PORTER M
+(F)    40  MKT  3427         3  PROFESSIONAL SELLING   3.0   730-0850    T TH  1845 BUS ED N WING                    PARR J
+ 31    29  MKT  3431         1  RETAILING MGT          3.0   130-0220   M W F  1835 BUS ED N WING                    HILER J
+  3    37  MKT  4423         1  SALES MANAGEMENT       3.0   130-0250    T TH  1800 BUS ED N WING                    ANDZULIS J
+ 33    27  MKT  4423         2  SALES MANAGEMENT       3.0   300-0420    T TH  1835 BUS ED N WING                    ANDZULIS J
+  7    33  MKT  4443         1  INTERNATIONAL MKT      3.0  1200-0120    T TH  1225 BUS ED S WING                    WU J
+ 19    21  MKT  4443         2  INTERNATIONAL MKT      3.0   130-0250    T TH  1225 BUS ED S WING                    WU J
+ 80    19  MKT  4445 CLI     1  INTERNSHIP IN MKT      1-6  TBA                                     PERMIS OF DEPT   BURNS A
+ 92     7  MKT  4445 CLI     2  INTERNSHIP IN MKT      1-6  TBA                                     PERMIS OF DEPT   KARAM T
+ 19    21  MKT  4451         1  MARKETING MANAGEMNT    3.0   900-1020    T TH  1920 BUS ED N WING                    RICE D
+(F)    19  MKT  4451         2  MARKETING MANAGEMNT    3.0  1030-1150    T TH  1920 BUS ED N WING                    RICE D
+ 99        MKT  4477 RES     1  IND STDY ADV MKT PRB   1-6  TBA                                     PERMIS OF DEPT   KARAM T
+ 99        MKT  4477 RES     2  IND STDY ADV MKT PRB   1-6  TBA                                     PERMIS OF DEPT   BURNS A
+ 98     1  MKT  4477 RES     3  IND STDY ADV MKT PRB   1-6  TBA                                                      FOLSE J
+ 10    10  MKT  4478 CLI     2  SALES PRACTICUM        3.0   830-0920   M W F  1700 BUS ED N WING   PERMIS OF DEPT   LASTNER M
+ 99        MKT  4479 CLI     1  SALES INTERNSHIP       3.0  TBA                                     PERMIS OF DEPT   BURNS A
+ 14     6  MKT  7450         1  TOP IN ADV MKT MGT     3.0   130-0420    T     1321 BUS ED S WING                    BLACK W
+ 99        MKT  7477 RES     1  SEM ADV MKTG PROBLMS   3.0  TBA                                     PERMIS OF DEPT   SANTAELLA M
+ 15     5  MKT  7477 RES     2  SEM ADV MKTG PROBLMS   3.0  TBA                                     PERMIS OF DEPT   KARAM T
+ 36    24  MKT  7716         1  ADV MKT RESRCH TECH    3.0   130-0420     W    1920 BUS ED N WING                    BLACK W
+  6     4  MKT  7720 SEM     1  SM: MKT THRY & EXP M   3.0  1030-0120      TH  3003 BUS ED ROTUNDA                   FOLSE J
+ 96     3  MKT  8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      NIEDRICH R
+ 98     1  MKT  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      NIEDRICH R

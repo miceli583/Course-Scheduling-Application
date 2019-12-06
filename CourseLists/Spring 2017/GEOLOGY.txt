@@ -1,0 +1,105 @@
+ 65   290  GEOL 1001         3  GEN GEOL PHYSICAL      3.0   900-1020    T TH  0130 HOWE RUSSELL E                   DORAN P
+162   193  GEOL 1001         1  GEN GEOL PHYSICAL      3.0   300-0420    T TH  0130 HOWE RUSSELL E                   ZHUANG G
+119   236  GEOL 1003         1  GEN GEOL HISTORICAL    3.0   130-0250    T TH  0130 HOWE RUSSELL E                   MA Y
+ 15     7  GEOL 1202         1  PRIN GEOLOGY II        4.0   900-1020    T TH  E207 HOWE RUSSELL E                   BAO H
+                     LAB                                     130-0420      TH  E213 HOWE RUSSELL E                   BAO H
+(F)    22  GEOL 1601 LAB    10  PHYSICAL GEOL LAB      1.0  1030-0120   M      E213 HOWE RUSSELL E                   LUTHER A
+  2    20  GEOL 1601 LAB    11  PHYSICAL GEOL LAB      1.0   130-0420   M      E213 HOWE RUSSELL E                   LUTHER A
+ 11    11  GEOL 1601 LAB    12  PHYSICAL GEOL LAB      1.0   430-0720N  M      E213 HOWE RUSSELL E                   LUTHER A
+ 11    11  GEOL 1601 LAB     1  PHYSICAL GEOL LAB      1.0   730-1020    T     E213 HOWE RUSSELL E                   LUTHER A
+(F)    22  GEOL 1601 LAB     2  PHYSICAL GEOL LAB      1.0  1030-0120    T     E213 HOWE RUSSELL E                   LUTHER A
+  4    18  GEOL 1601 LAB     4  PHYSICAL GEOL LAB      1.0   130-0420    T     E213 HOWE RUSSELL E                   LUTHER A
+(F)    22  GEOL 1601 LAB     7  PHYSICAL GEOL LAB      1.0   430-0720N   T     E213 HOWE RUSSELL E                   LUTHER A
+ 11    11  GEOL 1601 LAB     3  PHYSICAL GEOL LAB      1.0   730-1020     W    E213 HOWE RUSSELL E                   LUTHER A
+(F)    22  GEOL 1601 LAB     5  PHYSICAL GEOL LAB      1.0  1030-0120     W    E213 HOWE RUSSELL E                   LUTHER A
+  2    20  GEOL 1601 LAB     6  PHYSICAL GEOL LAB      1.0   130-0420     W    E213 HOWE RUSSELL E                   LUTHER A
+ 10    12  GEOL 1601 LAB     8  PHYSICAL GEOL LAB      1.0   430-0720N    W    E213 HOWE RUSSELL E                   LUTHER A
+ 10    18  GEOL 1602 LAB     2  HISTORICAL GEOL LAB    1.0   730-1020      TH  E213 HOWE RUSSELL E                   MA Y
+  8    17  GEOL 1602 LAB     1  HISTORICAL GEOL LAB    1.0  1030-0120      TH  E213 HOWE RUSSELL E                   MA Y
+ 38    54  GEOL 2020         1  GEOLOGY & ENVIRONMEN   3.0  1030-1150    T TH  E134 HOWE RUSSELL E                   WILSON C
+  7    13  GEOL 2061         1  HISTORY OF BIOSPHERE   4.0  1200-0120    T TH  0206 TUREAUD HALL                     HERRMANN A
+                     LAB                                     730-1020     W    0360 HOWE RUSSELL E                   HERRMANN A
+  2    18  GEOL 2061         2  HISTORY OF BIOSPHERE   4.0  1200-0120    T TH  0206 TUREAUD HALL                     HERRMANN A
+                     LAB                                     300-0550    T     0360 HOWE RUSSELL E                   HERRMANN A
+(F)    21  GEOL 2081         1  MINERALOGY             4.0   900-1020    T TH  E137 HOWE RUSSELL E  PERMIS OF INST   HENRY D
+                     LAB                                     130-0250    T TH  E206 HOWE RUSSELL E                   HENRY D
+  5    13  GEOL 2081         2  MINERALOGY             4.0   900-1020    T TH  E137 HOWE RUSSELL E  PERMIS OF INST   HENRY D
+                     LAB                                     130-0250    T TH  E202 HOWE RUSSELL E                   HENRY D
+(F)    25  GEOL 3071         1  STRUCTURAL GEOL        4.0  1130-1220   M W    0241 HIMES                            LUTHER A
+                     LAB                                    1230-0220   M      E208 HOWE RUSSELL E                   LUTHER A
+ 11    14  GEOL 3071         2  STRUCTURAL GEOL        4.0  1130-1220   M W    0241 HIMES                            LUTHER A
+                     LAB                                    1230-0220     W    E208 HOWE RUSSELL E                   LUTHER A
+ 18     7  GEOL 3071         3  STRUCTURAL GEOL        4.0  1130-1220   M W    0241 HIMES                            LUTHER A
+                     LAB                                    1130-1220       F  0241 HIMES                            LUTHER A
+262    93  GEOL 3200         1  EARTH MATERIALS PETE   3.0  1230-0120   M W F  0130 HOWE RUSSELL E                   MA Y
+  4     6  GEOL 3909 RES     1  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   HERRMANN A
+  1     4  GEOL 3909 RES     2  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   HENRY D
+  3     2  GEOL 3909 RES     3  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   CLIFT P
+  4     1  GEOL 3909 RES     4  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   BENTLEY S
+  4     1  GEOL 3909 RES     5  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   BART P
+  2     3  GEOL 3909 RES     7  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   WILSON C
+ 97     2  GEOL 3909 RES     8  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   LORENZO J
+ 97     2  GEOL 3909 RES     9  GEOLOGICAL RES         1-3  TBA                                     PERMIS OF DEPT   DUTROW B
+  4     1  GEOL 3999 RES     2  UNDERGRADUATE THESIS   3.0  TBA                                     PERMIS OF DEPT   ELLWOOD B
+  5        GEOL 3999 RES     3  UNDERGRADUATE THESIS   3.0  TBA                                     PERMIS OF DEPT   HENRY D
+  3     2  GEOL 3999 RES     4  UNDERGRADUATE THESIS   3.0  TBA                                     PERMIS OF DEPT   DUTROW B
+ 15     7  GEOL 4002         1  INTRO TO SEISMOLOGY    3.0   730-1020    T TH  0347 HOWE RUSSELL E  PERMIS OF INST   PERSAUD P
+  5    18  GEOL 4002         4  INTRO PRIN ENVIR GEO   3.0   130-0250    T TH  0347 HOWE RUSSELL E                   WANG J
+  3    19  GEOL 4002         3  HYDRO HYDROGEO         3.0   300-0420    T TH  0347 HOWE RUSSELL E                   DORAN P
+ 17     7  GEOL 4045         1  STRATIGRAPHY           3.0  1200-0120    T TH  0347 HOWE RUSSELL E  CI-WRITTEN&SPOK  ELLWOOD B
+  5    20  GEOL 7062         1  SEISMIC STRATIGRAPHY   3.0   430-0720N   T     E207 HOWE RUSSELL E                   BART P
+  8    10  GEOL 7132         1  DYNAMICS SEDIMENTAT    3.0  1230-0120   M W    E207 HOWE RUSSELL E                   BENTLEY S
+                     LAB                                     130-0420   M      E207 HOWE RUSSELL E                   BENTLEY S
+(F)    10  GEOL 7900         2  PETRO SEISMOLOGY       3.0   730-0850    T TH  E207 HOWE RUSSELL E                   LORENZO J
+  7    13  GEOL 7900         3  SYN X-RAY BASED METH   3.0   130-0420     W                                          ROY A
+  5     5  GEOL 7900         1  SPEC TOPICS IN GEOL    3.0  1030-0120      TH                       PERMIS OF INST   WICKS C
+  4     6  GEOL 7909 RES     1  DIR RES IN GEOL/GEOP   1-6  1200-0250      TH                                        WICKS C
+(H)        GEOL 7909 RES     2  DIR RES IN GEOL/GEOP   1-6  TBA
+(H)        GEOL 7909 RES     3  DIR RES IN GEOL/GEOP   1-6  TBA
+  5    12  GEOL 7981 SEM     1  SEM IN GEOCHEMISTRY    2.0   230-0420       F                                        LORENZO J
+ 99        GEOL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BAO H
+ 97     2  GEOL 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BART P
+ 93     6  GEOL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BENTLEY S
+ 99        GEOL 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      BYERLY G
+ 97     2  GEOL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      CLIFT P
+ 98     1  GEOL 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      DUTROW B
+ 99        GEOL 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      ELLWOOD B
+ 99        GEOL 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      HANOR J
+ 99        GEOL 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      HENRY D
+ 95     4  GEOL 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      LORENZO J
+ 99        GEOL 8000 RES    11  THESIS RESEARCH        1-12 TBA
+ 98     1  GEOL 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      DORAN P
+ 98     1  GEOL 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      PERSAUD P
+ 95     4  GEOL 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      BART S
+ 98     1  GEOL 8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      WILSON C
+ 98     1  GEOL 8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      WICKS C
+ 96     3  GEOL 8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      HERRMANN A
+ 99        GEOL 8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      LUTHER A
+ 98     1  GEOL 8000 RES    19  THESIS RESEARCH        1-12 TBA                                                      LUTTRELL K
+ 99        GEOL 8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      WANG J
+ 98     1  GEOL 8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      WALIMUNI DEVA
+ 99        GEOL 8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      ZHUANG G
+ 99        GEOL 8000 RES    23  THESIS RESEARCH        1-12 TBA
+ 99        GEOL 9000 RES    21  DISSERTATION RES       1-12  700-1150   M                                            KARKI B
+ 98     1  GEOL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BAO H
+ 99        GEOL 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BART P
+ 96     3  GEOL 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      BENTLEY S
+ 99        GEOL 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      BYERLY G
+ 94     5  GEOL 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      CLIFT P
+ 99        GEOL 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      DUTROW B
+ 99        GEOL 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      ELLWOOD B
+ 99        GEOL 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      HANOR J
+ 99        GEOL 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      HENRY D
+ 98     1  GEOL 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      LORENZO J
+ 98     1  GEOL 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      DORAN P
+ 98     1  GEOL 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      WILSON C
+ 99        GEOL 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      PERSAUD P
+ 98     1  GEOL 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      BART S
+ 99        GEOL 9000 RES    15  DISSERTATION RES       1-12 TBA
+ 98     1  GEOL 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      WICKS C
+ 96     3  GEOL 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      HERRMANN A
+ 98     1  GEOL 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      LUTTRELL K
+ 97     2  GEOL 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      WANG J
+ 97     2  GEOL 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      WALIMUNI DEVA
+ 97     2  GEOL 9000 RES    22  DISSERTATION RES       1-12 TBA                                                      ZHUANG G
+(F)    30  GEOL 4131         1  BASIN ANALYSIS         3.0  1030-1150    T TH  E207 HOWE RUSSELL E  CI-SPOKEN&VISUA  CLIFT P

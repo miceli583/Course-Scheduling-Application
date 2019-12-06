@@ -1,0 +1,30 @@
+ 84     1  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY
+ 85        SW   7007 CLI     2  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY
+ 77     8  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY
+ 84     1  SW   7008 CLI     2  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY
+ 99        SW   7206 RES     1  RESEARCH PRACTICUM     3-9  TBA                                     PERMIS OF DEPT
+ 99        SW   7206 RES     2  RESEARCH PRACTICUM     3-9  TBA                                     PERMIS OF DEPT
+ 99        SW   7206 RES     3  RESEARCH PRACTICUM     3-9  TBA                                     PERMIS OF DEPT
+ 95     4  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     MAJORS ONLY
+ 99        SW   7502 CLI     2  ADV FIELD INTERN I     3.0  TBA                                     MAJORS ONLY
+ 98     1  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY
+ 99        SW   7503 CLI     2  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY
+ 25        SW   7905 RES     1  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF DEPT
+ 25        SW   7905 RES     2  IND RDNG RES SW PRAC   3.0  TBA                                     PERMIS OF DEPT
+ 25        SW   7905 RES     3  IND RDNG RES SW PRAC   3.0  TBA                                     MAJORS ONLY
+ 25        SW   7905 RES     4  IND RDNG RES SW PRAC   3.0  TBA                                     MAJORS ONLY
+ 25        SW   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   PAGE T
+ 25        SW   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WILKS S
+ 25        SW   8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT
+ 97     2  SW   9000 RES     1  DISSERTATION RES       1-12 TBA                                                      PAGE T
+ 98     1  SW   9000 RES     2  DISSERTATION RES       1-12 TBA                                                      ALLEN P
+ 98     1  SW   9000 RES     3  DISSERTATION RES       1-12 TBA                                                      MACCIO E
+ 98     1  SW   9000 RES     4  DISSERTATION RES       1-12 TBA                                                      MONROE P
+ 98     1  SW   9000 RES     5  DISSERTATION RES       1-12 TBA                                                      WILKS S
+ 98     1  SW   9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHANEY C
+  6     1  SW   9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MITCHELL K
+(F)    50  SW   2000         1  INTRO TO SOCIAL WORK   3.0  TBA                                     100% WEB BASED   CHIASSON A
+  3    32  SW   3002         1  CHILD AND COMMUNITY    3.0  1100-1230   MTWTF  0184 LONG FIELDHOUSE                  LEFEAUX P
+ 11    24  SW   3007         1  JUVENILE DELINQUENCY   3.0  0900-1030   MTWTF  0184 LONG FIELDHOUSE                  BARTHELEMY J
+ 25    10  SW   7010         1  DIFFERENT DIAGNOSIS    3.0  TBA                                     100% WEB BASED   MACCIO E
+  7    33  SW   7807 SEM     1  SP TOP: SOCIAL WORK    3.0  TBA                                     100% WEB BASED   LILLEY T

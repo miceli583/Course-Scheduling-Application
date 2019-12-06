@@ -1,0 +1,41 @@
+(F)    31  FIN  3060         1  FINANCIAL PLANNING     3.0   930-1020   M W F  1325 BUS ED S WING                    SLAWSON V
+(F)    21  FIN  3351         1  PRINC REAL ESTATE      3.0   830-0920   M W F  1920 BUS ED N WING                    SLAWSON V
+(F)    22  FIN  3353         1  REAL ESTATE FINANCE    3.0   900-1020    T TH  0215 TUREAUD HALL                     ANDREWS B
+ 48    72  FIN  3440         1  RISK AND INSURANCE     3.0   630-0920N    W    1620 BUS ED N WING                    BOYD J
+(F)    20  FIN  3460         1  RISK MANAGEMENT        3.0   900-1020    T TH  1409 BUS ED S WING                    MASON J
+(F)   300  FIN  3715         1  BUSINESS FINANCE       3.0  TBA                                     75-99% WEB BASE  OGUNC K
+153   147  FIN  3716         1  PRIN OF FINANCE        3.0   930-1020   M W F  1510 BUS ED AUDITORI                  DOMBROWSKI T
+231    69  FIN  3716         2  PRIN OF FINANCE        3.0   300-0420    T TH  0100 DODSON                           SULEIMAN D
+(F)   200  FIN  3716         3  PRIN OF FINANCE        3.0  TBA                                     75-99% WEB BASE  OGUNC K
+ 11    19  FIN  3717         4  FUND OF COR FIN        3.0   900-1020   M W    1305 BUS ED S WING   MAJORS ONLY      YU M
+ 18    12  FIN  3717         2  FUND OF COR FIN        3.0   900-1020    T TH  1720 BUS ED N WING   MAJORS ONLY      YU M
+  3    27  FIN  3717         3  FUND OF COR FIN        3.0  1030-1150    T TH  1720 BUS ED N WING   MAJORS ONLY      YU M
+(F)    25  FIN  3718         1  MULTINAT MANAGER FIN   3.0   430-0550N  M W    1745 BUS ED N WING                    KILBOURNE L
+ 22     8  FIN  3826         1  FUND OF ASSET MGMT     3.0   130-0250   M W    1220 BUS ED S WING   MAJORS ONLY      MO H
+(F)    30  FIN  3826         2  FUND OF ASSET MGMT     3.0  1030-1150    T TH  1325 BUS ED S WING   MAJORS ONLY      MASON J
+  1    29  FIN  3826         3  FUND OF ASSET MGMT     3.0  1200-0120    T TH  1325 BUS ED S WING   MAJORS ONLY      MASON J
+  3    12  FIN  3845         1  STU MGD INVEST FUND    3.0   130-0250   M W    1900 BUS ED N WING   PERMIS OF INST   O'CONNOR L
+(F)    20  FIN  3910         1  CREDIT ESSENTIALS      1-3   130-0250    T TH  0213 TUREAUD HALL                     ANDREWS B
+(F)    21  FIN  3910         2  M&A AND BUYOUTS        1-3   300-0420    T TH  1800 BUS ED N WING                    KIRBY M
+ 10        FIN  3930 CLI     1  FINANCE INTERNSHIP     3.0  TBA                                     PERMIS OF DEPT   OGUNC K
+  8    22  FIN  4820         1  FIN MOD & ANLYTCS      3.0   300-0420   M W    1305 BUS ED S WING                    RATNADIWAKARA
+  7    23  FIN  4830         1  FIN STMT ANLYS         3.0   130-0250   M W    1225 BUS ED S WING                    KILBOURNE L
+(F)    31  FIN  4830         2  FIN STMT ANLYS         3.0  1200-0120    T TH  1700 BUS ED N WING                    KILBOURNE L
+  7    23  FIN  4830         3  FIN STMT ANLYS         3.0   130-0250    T TH  1800 BUS ED N WING                    KIRBY M
+  1    19  FIN  4850         1  FINANCIAL DERIVATIVE   3.0   900-1020    T TH  0213 TUREAUD HALL                     SLAWSON V
+ 19     1  FIN  7400         1  FIN RISK MANAGEMENT    3.0  1030-1150   M W    1700 BUS ED N WING                    CHANCE D
+  9     1  FIN  7550         1  THEORY OF FINANCE      3.0   900-1020    T TH  0119 TUREAUD HALL                     SANGER G
+ 12     8  FIN  7633         1  FINANCIAL MARKETS      3.0   130-0250   M W    1409 BUS ED S WING                    SONG W
+ 12     8  FIN  7740         1  VENT CPTL & INV BNK    3.0   600-0850N    W    1120 BUS ED S WING                    KIRBY M
+  6     4  FIN  7750 SEM     1  SEM IN CORPORATE FIN   3.0   900-1150   M      1120 BUS ED S WING                    RATNADIWAKARA
+ 20        FIN  7826         1  INV ANAL PORTFOL THY   3.0   130-0250    T TH  1325 BUS ED S WING                    MO H
+ 13     7  FIN  7855         1  SEM OPT/FUTURES/DERV   3.0   130-0420   M      1120 BUS ED S WING                    CHANCE D
+  1        FIN  7900 RES     1  IND STUDY IN FIN       3.0  TBA                                     PERMIS OF DEPT
+  5        FIN  7930 CLI     1  FINANCE INTERNSHIP     3.0  TBA                                     PERMIS OF DEPT   STEPHENS C
+ 58     2  FIN  7950 SEM     1  SEMINAR IN RESEARCH    1.0  1030-1150       F  2520 BUS ED AUDITORI                  WANG J
+  1        FIN  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CHANCE D
+(F)     1  FIN  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      SONG W
+  1        FIN  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      PACE R
+  1        FIN  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      WANG J
+  1        FIN  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      NARAYANAN R
+  1        FIN  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      MO H

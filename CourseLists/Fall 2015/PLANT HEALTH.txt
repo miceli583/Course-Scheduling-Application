@@ -1,0 +1,29 @@
+  4    19  PLHL 4000         1  GEN PLANT PATHOLOGY    4.0  1030-1150    T TH                                        CLARK C
+                     LAB                                     130-0420      TH                                        CLARK C
+ 21     4  PLHL 7000         1  PHYTONEMATOLOGY        4.0  1030-1150    T TH                                        MCGAWLEY E
+                     LAB                                     130-0420      TH                                        MCGAWLEY E
+  2    10  PLHL 7051 RES     2  PLANT PATHOGENIC FUN   1-4   130-0220    T     A465 LIFE SCIENCES A                  DOYLE V
+  8     7  PLHL 7051 RES     1  FIELD RESEARCH EXPIE   1-4  TBA                                                      SCHNEIDER R
+  8     7  PLHL 7052 SEM     1  SEMINAR                1.0   330-0420     W                                          SCHNEIDER R
+  9     1  PLHL 7063         1  PLANT METABOLISM       3.0   300-0420    T TH  0100 TUREAUD HALL                     MORONEY J
+ 98     1  PLHL 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      DAMANN K
+ 97     2  PLHL 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      IVEY M
+ 98     1  PLHL 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HOY J
+ 98     1  PLHL 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      MCGAWLEY E
+ 98     1  PLHL 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      SCHNEIDER R
+ 98     1  PLHL 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      VALVERDE R
+ 97     2  PLHL 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      HOLLIER C
+ 98     1  PLHL 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      OVERSTREET C
+ 98     1  PLHL 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      HAM J
+ 99        PLHL 8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      DOYLE V
+  9     1  PLHL 8900 RES     1  TA EXPERIENCE FOR PP   1-5  TBA                                                      DOYLE V
+  9     1  PLHL 8900 RES     2  SPECIAL RESEARCH PRO   1-5  TBA                                                      SCHNEIDER R
+  8     2  PLHL 8900 RES     3  TA EXP IN PLANT PATH   1-5  TBA                                                      CLARK C
+ 98     1  PLHL 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CLARK C
+ 97     2  PLHL 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      COHN M
+ 98     1  PLHL 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      DAMANN K
+ 94     5  PLHL 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      CHEN Z
+ 97     2  PLHL 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SCHNEIDER R
+ 96     3  PLHL 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      VALVERDE R
+ 97     2  PLHL 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      OVERSTREET C
+ 98     1  PLHL 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      HAM J

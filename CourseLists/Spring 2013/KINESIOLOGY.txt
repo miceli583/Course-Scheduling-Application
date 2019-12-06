@@ -1,0 +1,269 @@
+(F)    24  KIN  1124 LAB     1  BEGIN TENNIS           1.0   730-0820   M W F                                        KUHN B
+(F)    24  KIN  1124 LAB     2  BEGIN TENNIS           1.0   830-0920   M W F                                        KUHN B
+(F)    24  KIN  1124 LAB     3  BEGIN TENNIS           1.0   930-1020   M W F                                        KUHN B
+(F)    26  KIN  1124 LAB     4  BEGIN TENNIS           1.0  1030-1120   M W F                                        RANDAZZO K
+  5    19  KIN  1125 LAB     1  BEGIN GOLF             1.0   730-0820   M W F                                        AIKEN C
+  1    23  KIN  1125 LAB     2  BEGIN GOLF             1.0   830-0920   M W F                                        AIKEN C
+  1    23  KIN  1125 LAB     3  BEGIN GOLF             1.0   930-1020   M W F                                        AIKEN C
+(F)    24  KIN  1125 LAB     4  BEGIN GOLF             1.0  1030-1120   M W F                                        DAVIS G
+(F)    25  KIN  1135 LAB     1  GOLF FOR BUS & LIFE    1.0  1200-0120    T TH                                        HILL R
+  5    40  KIN  1144 LAB     1  BEGIN AEROBIC DANCE    1.0   730-0820   M W F  0120 LONG FIELDHOUSE                  FISCHER M
+(F)    45  KIN  1144 LAB     2  BEGIN AEROBIC DANCE    1.0   830-0920   M W F  0120 LONG FIELDHOUSE                  FISCHER M
+(F)    23  KIN  1146 LAB     1  BEGIN WEIGHT TRAIN     1.0   730-0820   M W F                                        FARNEY T
+(F)    23  KIN  1146 LAB     2  BEGIN WEIGHT TRAIN     1.0   830-0920   M W F                                        FARNEY T
+(F)    27  KIN  1146 LAB     3  BEGIN WEIGHT TRAIN     1.0   930-1020   M W F                                        FARNEY T
+(F)    23  KIN  1146 LAB     4  BEGIN WEIGHT TRAIN     1.0  1030-1120   M W F                                        FARNEY T
+  4    31  KIN  1155 LAB     1  BEGIN JOGGING          1.0   730-0820   M W F                                        DENG Y
+  5    30  KIN  1155 LAB     2  BEGIN JOGGING          1.0   830-0920   M W F                                        DENG Y
+(F)    36  KIN  1155 LAB     3  BEGIN JOGGING          1.0   930-1020   M W F                                        ZHANG S
+  2    33  KIN  1155 LAB     4  BEGIN JOGGING          1.0  1030-1120   M W F                                        ZHANG S
+(F)    35  KIN  1155 LAB     5  BEGIN JOGGING          1.0  1130-1220   M W F                                        DENG Y
+(F)    50  KIN  1600         1  INDIV WELL & PUB HEA   3.0   930-1020   M W F  0133 LONG FIELDHOUSE                  DAILEY D
+(F)   150  KIN  1600         2  INDIV WELL & PUB HEA   3.0   900-1020    T TH  E130 HOWE RUSSELL E                   FISHER A
+(F)    22  KIN  1801         1  MVT FUNDAMENTALS       2.0  1030-1150    T TH  0120 LONG FIELDHOUSE                  BEASLEY E
+                     LAB                                    1030-1150    T TH                                        BEASLEY E
+(F)    26  KIN  1804         1  AEROBIC/STREN ACTIV    2.0   130-0250    T TH  0120 LONG FIELDHOUSE                  BEASLEY E
+                     LAB                                     130-0250    T TH                                        BEASLEY E
+(F)    35  KIN  1999 LAB     1  ZUMBA                  1.0  1130-1220   M W F  0120 LONG FIELDHOUSE                  SOEBBING C
+(F)    35  KIN  1999 LAB     2  ZUMBA                  1.0  1230-0120   M W F  0120 LONG FIELDHOUSE                  SOEBBING C
+(F)    25  KIN  1999 LAB     4  YOGA                   1.0   130-0250   M W    0120 LONG FIELDHOUSE                  YATES K
+(F)    25  KIN  1999 LAB     5  YOGA                   1.0   300-0420   M W    0120 LONG FIELDHOUSE                  YATES K
+(F)    25  KIN  1999 LAB     6  SPECIAL TOPICS         1.0   730-0850    T TH  0120 LONG FIELDHOUSE                  BEASLEY E
+(F)    35  KIN  1999 LAB     3  ZUMBA                  1.0  1200-0120    T TH  0120 LONG FIELDHOUSE                  SOEBBING C
+(F)    27  KIN  1999 LAB     7  SPECIAL TOPICS         1.0   300-0420    T TH  0120 LONG FIELDHOUSE                  BEASLEY E
+  3   380  KIN  2500         1  HUMAN ANATOMY          3.0   900-1020    T TH  0002 LOCKETT                          HARGRODER W
+(F)   384  KIN  2501         1  HIST/PHIL OF KINESIO   3.0  1030-1150    T TH  0002 LOCKETT                          JACOBSEN D
+(F)    80  KIN  2502 CLI     1  PRACTICUM IN SPORTS    3.0   830-0920   M W F  0204 TUREAUD HALL                     ENGEMANN E
+  1    19  KIN  2503         1  BASIC ATHLETIC TRAIN   2.0  1030-1120   M      0133 LONG FIELDHOUSE                  THOMPSON K
+                     LAB                                    1030-1220     W                                          WORKMAN P
+(F)    21  KIN  2503         2  BASIC ATHLETIC TRAIN   2.0  1030-1120   M      0133 LONG FIELDHOUSE                  THOMPSON K
+                     LAB                                    1030-1220       F                                        THOMPSON K
+(F)    18  KIN  2504         1  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     730-0820   M W                                          MISKOWIEC R
+(F)    19  KIN  2504         2  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     830-0920   M W                                          SCOTT M
+(F)    18  KIN  2504         3  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     930-1020   M W                                          AUSTIN K
+(F)    18  KIN  2504         4  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                    1030-1120   M W                                          AUSTIN K
+(F)    18  KIN  2504         5  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                    1130-1220   M W                                          AUSTIN K
+(F)    19  KIN  2504         6  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                    1230-0120   M W                                          AUSTIN K
+(F)    18  KIN  2504         7  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     730-0820    T TH                                        MISKOWIEC R
+(F)    18  KIN  2504         8  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     730-0820    T TH                                        DAVIS G
+(F)    18  KIN  2504         9  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     900-0950    T TH                                        MISKOWIEC R
+(F)    18  KIN  2504        10  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     900-0950    T TH                                        SCOTT M
+(F)    19  KIN  2504        11  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                    1030-1120    T TH                                        MISKOWIEC R
+(F)    18  KIN  2504        12  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                    1030-1120    T TH                                        SCOTT M
+(F)    20  KIN  2504        13  PRIN OF CONDITIONING   3.0  1200-1250    T TH  0002 LOCKETT                          DAILEY D
+                     LAB                                     130-0220    T TH                                        SCOTT M
+  2    14  KIN  2506         1  ORTH INJ EVAL TCH II   3.0  1030-1220    T TH                       CI-VISUAL&TECH   CASTLE R
+                     LAB                                    1030-1220    T TH                                        CASTLE R
+(F)    35  KIN  2509         1  MED TERM FOR KINESIO   3.0  1130-1220   M W F  0112 TUREAUD HALL                     FORNEY L
+(F)    35  KIN  2509         2  MED TERM FOR KINESIO   3.0  1230-0120   M W F  0121 ALLEN                            FORNEY L
+(F)    75  KIN  2510         1  INTRO SPRT LSR ADMIN   3.0  1200-0120    T TH  0120 TUREAUD HALL                     JACOBSEN D
+(F)    25  KIN  2511         1  SPORTS OFFICIATING     2.0   900-1020    T TH  0130 LONG FIELDHOUSE                  HILL R
+                     LAB                                     900-1020    T TH                                        HILL R
+ 25    15  KIN  2512         1  CLASSRM CULTURE ORG    3.0   900-1020    T TH  0133 LONG FIELDHOUSE                  GARN A
+                     LAB                                     900-1020    T TH  0133 LONG FIELDHOUSE                  GARN A
+(F)    25  KIN  2516         1  COACHING BASKETBALL    2.0   930-1020   M W F  0108 LONG FIELDHOUSE                  FISHER A
+                     LAB                                    TBA                                                      FISHER A
+  7    13  KIN  2525 LAB     1  PR CH IND/TEAM SPRTS   1-3  TBA                                                      HILL R
+  2    23  KIN  2526         1  PSYCHOLGY OF COACHNG   3.0   430-0720N  M      0108 LONG FIELDHOUSE                  FISHER A
+(F)    25  KIN  2526         2  PSYCHOLGY OF COACHNG   3.0   730-0850    T TH  0108 LONG FIELDHOUSE                  HILL R
+(F)    47  KIN  2530         1  SPORT IN SOCIETY       3.0  1230-0120   M W F  E134 HOWE RUSSELL E                   TUTKA P
+(F)    50  KIN  2530         2  SPORT IN SOCIETY       3.0   730-0850    T TH  0133 LONG FIELDHOUSE                  PFLEEGOR A
+(F)    40  KIN  2577         1  H&PE FOR ELEM SCHOOL   3.0  1030-1220   M      0108 LONG FIELDHOUSE                  GOUDEAU S
+                     LAB                                    1030-1220     W F                                        GOUDEAU S
+(F)    31  KIN  2601         1  FIRST AID              1.0   230-0320   M      0131 LONG FIELDHOUSE                  RANDAZZO K
+                     LAB                                     330-0420   M                                            RANDAZZO K
+(F)    30  KIN  2601         2  FIRST AID              1.0   230-0320    T     0131 LONG FIELDHOUSE                  RANDAZZO K
+                     LAB                                     330-0420    T                                           RANDAZZO K
+(F)    30  KIN  2601         3  FIRST AID              1.0   230-0320     W    0131 LONG FIELDHOUSE                  RANDAZZO K
+                     LAB                                     330-0420     W                                          RANDAZZO K
+(F)    30  KIN  2601         4  FIRST AID              1.0   230-0320      TH  0131 LONG FIELDHOUSE                  RANDAZZO K
+                     LAB                                     330-0420      TH                                        RANDAZZO K
+(F)    37  KIN  2603         1  CONSUMER HEALTH        3.0   830-0920   M W F  0108 LONG FIELDHOUSE                  FISHER A
+  1     9  KIN  2900 RES     1  INDEPENDENT STUDY      1-3  TBA                                                      JACOBSEN D
+(F)     1  KIN  2900 RES     2  INDEPENDENT STUDY      1-3  TBA
+(F)    26  KIN  3500 LAB     1  HUMAN ANATOMY LAB      1.0  TBA                                     100% WEB BASED   DAVIS G
+(F)    25  KIN  3500 LAB     2  HUMAN ANATOMY LAB      1.0  TBA                                     100% WEB BASED   DAVIS G
+(F)    25  KIN  3500 LAB     3  HUMAN ANATOMY LAB      1.0  TBA                                     100% WEB BASED   DAVIS G
+(F)    16  KIN  3500 LAB     4  HUMAN ANATOMY LAB      1.0  TBA                                     100% WEB BASED   HARGRODER W
+(F)    20  KIN  3502         1  TESTS & MEAS IN KIN    3.0   930-1120   M      0143 COATES          CI-WRITTEN&SPOK  BAKER B
+                     LAB                                     730-0920     W                                          GOUDEAU S
+(F)    19  KIN  3502         2  TESTS & MEAS IN KIN    3.0   930-1120   M      0143 COATES          CI-WRITTEN&SPOK  BAKER B
+                     LAB                                     730-0920     W                                          MCKEY K
+(F)    21  KIN  3502         3  TESTS & MEAS IN KIN    3.0   930-1120   M      0143 COATES          CI-WRITTEN&SPOK  BAKER B
+                     LAB                                     930-1120     W                                          MCKEY K
+(F)    21  KIN  3502         4  TESTS & MEAS IN KIN    3.0   930-1120   M      0143 COATES          CI-WRITTEN&SPOK  BAKER B
+                     LAB                                     930-1120     W                                          TAYLOR M
+(F)    19  KIN  3502         5  TESTS & MEAS IN KIN    3.0   930-1120   M      0143 COATES          CI-WRITTEN&SPOK  BAKER B
+                     LAB                                    1130-0120     W                                          MCKEY K
+(F)    21  KIN  3502         6  TESTS & MEAS IN KIN    3.0   930-1120   M      0143 COATES          CI-WRITTEN&SPOK  BAKER B
+                     LAB                                    1130-0120     W                                          TAYLOR M
+(F)    21  KIN  3502         7  TESTS & MEAS IN KIN    3.0   930-1120   M      0143 COATES          CI-WRITTEN&SPOK  BAKER B
+                     LAB                                     930-1120       F                                        GOUDEAU S
+(F)    20  KIN  3502         8  TESTS & MEAS IN KIN    3.0   930-1120   M      0143 COATES          CI-WRITTEN&SPOK  BAKER B
+                     LAB                                     930-1120       F                                        MCKEY K
+  2    14  KIN  3505 CLI     1  ATHLET TRAINING PRAC   1.0   730-0820   M W F  0131 LONG FIELDHOUSE                  WORKMAN P
+  2    14  KIN  3505 CLI     2  ATHLET TRAINING PRAC   1.0   730-0820   M W F                                        MICHELINI J
+  7     9  KIN  3505 CLI     3  ATHLET TRAINING PRAC   1.0   730-0820   M W F  0130 LONG FIELDHOUSE                  COLLINS M
+(F)    48  KIN  3507         1  OLYMPIC GMS ANC/MOD    3.0   830-0920   M W F  0131 LONG FIELDHOUSE                  HILL R
+  2    14  KIN  3509         1  THER EX/REHB ATH TRN   3.0   830-1020    T TH                                        THOMPSON M
+                     LAB                                     830-1020    T TH                                        THOMPSON M
+(F)    31  KIN  3513         1  INTR MOTOR LEARNING    3.0  1230-0120   M W F  0133 LONG FIELDHOUSE                  PAN Z
+(F)    31  KIN  3513         2  INTR MOTOR LEARNING    3.0   130-0220   M W F  0108 LONG FIELDHOUSE                  AIKEN C
+  1   119  KIN  3513         3  INTR MOTOR LEARNING    3.0  1200-0120    T TH  0152 COATES                           VAN GEMMERT A
+ 27    93  KIN  3514         1  BIOMECHAN BASIS KIN    3.0  1130-1220   M W F  0102 ALLEN                            REID M
+  1    29  KIN  3514         2  BIOMECHAN BASIS KIN    3.0  1230-0120   M W F  0123 ALLEN                            ZHANG S
+(F)    41  KIN  3514         3  BIOMECHAN BASIS KIN    3.0  1030-1150    T TH  0108 LONG FIELDHOUSE                  THOMPSON M
+(F)    46  KIN  3515         1  PHYS BAS PHYSCL ACTV   3.0  1230-0120   M W F  0108 LONG FIELDHOUSE                  JOHANNSEN N
+(F)    49  KIN  3515         2  PHYS BAS PHYSCL ACTV   3.0   900-1020    T TH  0108 LONG FIELDHOUSE                  NELSON A
+(F)    47  KIN  3515         3  PHYS BAS PHYSCL ACTV   3.0   130-0250    T TH  0108 LONG FIELDHOUSE                  STEWART L
+(F)    21  KIN  3519 LAB     1  CADAVER PROSECTION     1.0   830-0920   M W                         MAJORS ONLY      THOMPSON M
+(F)    20  KIN  3519 LAB     2  CADAVER PROSECTION     1.0   930-1020   M W                         MAJORS ONLY      THOMPSON M
+  4    21  KIN  3525 LAB     2  LAB TECH EXER PHYS     1.0   730-0920       F                                        DAVIS G
+(F)    10  KIN  3534         1  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                     730-0820   M W                                          MISKOWIEC R
+(F)    10  KIN  3534         2  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                     830-0920   M W                                          SCOTT M
+(F)    11  KIN  3534         3  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                     930-1020   M W                                          AUSTIN K
+(F)    12  KIN  3534         4  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                    1030-1120   M W                                          AUSTIN K
+(F)    10  KIN  3534         5  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                    1130-1220   M W                                          AUSTIN K
+(F)    10  KIN  3534         6  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                    1230-0120   M W                                          AUSTIN K
+  1     9  KIN  3534         7  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                     730-0820    T TH                                        MISKOWIEC R
+  1     9  KIN  3534         8  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                     730-0820    T TH                                        DAVIS G
+(F)    10  KIN  3534         9  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                     900-0950    T TH                                        MISKOWIEC R
+(F)    10  KIN  3534        10  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                     900-0950    T TH                                        SCOTT M
+(F)    11  KIN  3534        11  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                    1030-1120    T TH                                        MISKOWIEC R
+(F)    10  KIN  3534        12  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                    1030-1120    T TH                                        SCOTT M
+(F)    12  KIN  3534        13  SCI BASIS EXERCISE     3.0  1200-0120    T TH  0010 LOCKETT                          WELSCH M
+                     LAB                                     130-0220    T TH                                        SCOTT M
+  2     6  KIN  3535         1  EXER TEST & PRESCRIP   3.0  1230-0220     W    0130 LONG FIELDHOUSE SVC LEARNING     JOHNSON L
+                     LAB                                     930-1120   M                                            SCOTT M
+  1     7  KIN  3535         2  EXER TEST & PRESCRIP   3.0  1230-0220     W    0130 LONG FIELDHOUSE SVC LEARNING     JOHNSON L
+                     LAB                                     930-1120     W                                          SCOTT M
+(F)    41  KIN  3605         1  HEALTH/AGING PROCESS   3.0   830-0920   M W F  0133 LONG FIELDHOUSE                  DAILEY D
+(F)    50  KIN  3800         1  ETHIC/LGL ISS SPORT    3.0   900-1020    T TH  0145 COATES                           PFLEEGOR A
+(F)    50  KIN  3800         2  ETHIC/LGL ISS SPORT    3.0   130-0250    T TH  0133 LONG FIELDHOUSE                  WILLIAMS D
+(F)    40  KIN  3801         1  SPRT STRATEGY & PLAN   3.0   930-1020   M W F  0131 LONG FIELDHOUSE                  ENGEMANN E
+(F)    40  KIN  3801         2  SPRT STRATEGY & PLAN   3.0   430-0720N   T     0131 LONG FIELDHOUSE                  ENGEMANN E
+(F)    46  KIN  3802         1  PROGRAM & EVENT MGT    3.0  1030-1120   M W F  0131 LONG FIELDHOUSE                  ENGEMANN E
+(F)    40  KIN  3802         2  PROGRAM & EVENT MGT    3.0  1130-1220   M W F  0131 LONG FIELDHOUSE                  PAJOUTAN M
+(F)    40  KIN  3804         1  FIN ISSUES IN SPORT    3.0  1230-0120   M W F  0131 LONG FIELDHOUSE                  PAJOUTAN M
+  7    33  KIN  3804         2  FIN ISSUES IN SPORT    3.0  1030-1150    T TH  0133 LONG FIELDHOUSE                  WILLIAMS D
+ 21     9  KIN  4501         1  PHYS ACT IN COM SET    3.0   430-0720N  M      0133 LONG FIELDHOUSE SVC LEARNING     BAKER B
+(F)    11  KIN  4505 CLI     1  PRACT HMN MVMNT SCI    3.0  TBA                                                      HARGRODER W
+(F)     7  KIN  4505 CLI     2  PRACT HMN MVMNT SCI    3.0  TBA                                                      HARGRODER W
+  1     5  KIN  4505 CLI     3  PRACT HMN MVMNT SCI    3.0  TBA                                                      HARGRODER W
+(F)     4  KIN  4505 CLI     4  PRACT HMN MVMNT SCI    3.0  TBA                                                      HARGRODER W
+(F)   121  KIN  4512         1  LIFSPAN MOTR DEVELOP   3.0   830-0920   M W F  0009 LOCKETT                          WINGES S
+(F)    43  KIN  4513         1  FACILITIES MGT         3.0  1200-0120    T TH  0133 LONG FIELDHOUSE                  SEIFRIED C
+(F)    76  KIN  4517         1  SPORTS ADMINISTRATIO   3.0  1130-1220   M W F  E137 HOWE RUSSELL E                   TUTKA P
+  6    34  KIN  4518         1  GOV & POLICY IN SPRT   3.0   230-0350   M W    0133 LONG FIELDHOUSE                  AGYEMANG K
+(F)    41  KIN  4520         1  PSYCHOSOC & PHYS ACT   3.0  1130-1220   M W F  0117 TUREAUD HALL                     FISCHER M
+(F)    40  KIN  4520         2  PSYCHOSOC & PHYS ACT   3.0  1200-0120    T TH  0131 LONG FIELDHOUSE                  CARSON R
+(F)    46  KIN  4520         3  PSYCHOSOC & PHYS ACT   3.0   430-0720N   T     0108 LONG FIELDHOUSE                  KOSMA M
+  7    13  KIN  4525         1  HUM ANAT & FUNCT IMP   3.0  1030-1150    T TH  0130 LONG FIELDHOUSE                  LANDIN D
+  6    19  KIN  4526         1  PHYSIO ENDUR TRAIN     3.0   310-0420    T TH  0108 LONG FIELDHOUSE                  STEWART L
+                     LAB                                    TBA                                                      STEWART L
+ 10    10  KIN  4538 LAB     1  PRACT IN APPLD FIT     6.0  TBA                                     MAJORS ONLY      JOHNSON L
+(F)    53  KIN  4571         1  NEUROMTR CON HUM MVT   3.0   300-0420   M W    0108 LONG FIELDHOUSE                  LANDIN D
+(F)    41  KIN  4571         2  NEUROMTR CON HUM MVT   3.0   900-1020    T TH  0131 LONG FIELDHOUSE                  HONDZINSKI J
+(F)    40  KIN  4571         3  NEUROMTR CON HUM MVT   3.0  1030-1150    T TH  0131 LONG FIELDHOUSE                  HONDZINSKI J
+ 14     6  KIN  4575         1  DIVRS&CULT ISS IN PA   3.0  TBA                                                      BEASLEY E
+  8    22  KIN  4605         1  HABIT & ADDICT DRUGS   3.0   730-0850    T TH  0131 LONG FIELDHOUSE CI-WRITTEN&VISU  CASTLE R
+(F)    30  KIN  4606         1  INTRO HLTH PROMOTION   3.0  1030-1150    T TH  0201 TUREAUD HALL                     JOHNSON L
+  2    48  KIN  4835 CLI     1  PRACT SPT LEI ADMIN    6.0  TBA                                                      JACOBSEN D
+  8     2  KIN  4900 RES     1  INDEPENDENT STUDY      1-3  TBA                                                      AGYEMANG K
+  4     1  KIN  4900 RES     2  INDEPENDENT STUDY      1-3  TBA                                                      BAKER B
+  5        KIN  4900 RES     3  INDEPENDENT STUDY      1-3  TBA                                                      CARSON R
+  5        KIN  4900 RES     4  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF INST   CASTLE R
+  5        KIN  4900 RES     5  INDEPENDENT STUDY      1-3  TBA                                                      GARN A
+  5        KIN  4900 RES     6  INDEPENDENT STUDY      1-3  TBA                                                      HARGRODER W
+  4     1  KIN  4900 RES     7  INDEPENDENT STUDY      1-3  TBA                                                      HONDZINSKI J
+(F)    22  KIN  4900 RES     8  INDEPENDENT STUDY      1-3  TBA                                                      JACOBSEN D
+  4     1  KIN  4900 RES     9  INDEPENDENT STUDY      1-3  TBA                                                      JOHANNSEN N
+  5        KIN  4900 RES    10  INDEPENDENT STUDY      1-3  TBA                                                      JOHNSON L
+  5        KIN  4900 RES    11  INDEPENDENT STUDY      1-3  TBA                                                      KOSMA M
+(F)     5  KIN  4900 RES    12  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF INST   LANDIN D
+  3     2  KIN  4900 RES    13  INDEPENDENT STUDY      1-3  TBA                                                      NELSON A
+  3     2  KIN  4900 RES    14  INDEPENDENT STUDY      1-3  TBA                                                      SEIFRIED C
+  5        KIN  4900 RES    15  INDEPENDENT STUDY      1-3  TBA                                                      SOEBBING B
+  5        KIN  4900 RES    16  INDEPENDENT STUDY      1-3  TBA                                                      SOLMON M
+  3     2  KIN  4900 RES    17  INDEPENDENT STUDY      1-3  TBA                                                      STEWART L
+(F)     3  KIN  4900 RES    18  INDEPENDENT STUDY      1-3  TBA                                                      THOMPSON M
+  2     3  KIN  4900 RES    19  INDEPENDENT STUDY      1-3  TBA                                     PERMIS OF INST   VAN GEMMERT A
+  1     4  KIN  4900 RES    20  INDEPENDENT STUDY      1-3  TBA                                                      WELSCH M
+  5        KIN  4900 RES    21  INDEPENDENT STUDY      1-3  TBA                                                      WINGES S
+ 12     3  KIN  7500 CLI     1  PRACT SPORT MGMT       3-9  TBA                                                      JACOBSEN D
+ 14    11  KIN  7513 SEM     1  SEM IN PE PROF PREP    3.0   430-0720N  M      0130 LONG FIELDHOUSE                  SOLMON M
+  5    20  KIN  7516         1  ORG BEHAV & DEVT SPO   3.0   430-0720N    W    0131 LONG FIELDHOUSE                  SEIFRIED C
+  2    23  KIN  7518         1  SOC ISSUES IN SPORT    3.0   430-0720N  M      0131 LONG FIELDHOUSE                  AGYEMANG K
+  6    19  KIN  7519         1  FIN ISSUES IN SPORT    3.0   300-0420    T TH  0133 LONG FIELDHOUSE                  SOEBBING B
+(F)    16  KIN  7528         1  SPORT PSYCHOLOGY       3.0   430-0720N   T     0112 LOCKETT                          WINGES J
+ 15    10  KIN  7532         1  ADV TOP MOTOR LRNG     3.0   430-0720N   T     0130 LONG FIELDHOUSE                  VAN GEMMERT A
+  6    14  KIN  7550         1  EXERCISE PHYSIOLOGY    3.0   730-0850    T TH  0130 LONG FIELDHOUSE                  NELSON A
+                     LAB                                    TBA                                                      NELSON A
+  2    13  KIN  7574         1  QUAL RESEARCH KIN      3.0   430-0720N    W    0130 LONG FIELDHOUSE                  GARN A
+ 13    12  KIN  7601         1  CHANGING HEALTH BEH    3.0   430-0720N     TH  0108 LONG FIELDHOUSE                  KOSMA M
+ 18     7  KIN  7999 SEM     1  CUR TOP IN SP MAN      1-3   430-0720N   T     0133 LONG FIELDHOUSE                  SOEBBING B
+ 14    11  KIN  7999 SEM     2  ACSM CERT              1-3   430-0720N    W    0108 LONG FIELDHOUSE                  WELSCH M
+ 10        KIN  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BAKER B
+ 10        KIN  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      CARSON R
+  9     1  KIN  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      GARN A
+  9     1  KIN  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      HONDZINSKI J
+ 10        KIN  8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      KOSMA M
+ 10        KIN  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      LANDIN D
+ 10        KIN  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      NELSON A
+ 10        KIN  8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      SEIFRIED C
+ 10        KIN  8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      SOEBBING B
+ 10        KIN  8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      SOLMON M
+ 10        KIN  8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      STEWART L
+ 10        KIN  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      VAN GEMMERT A
+  8     2  KIN  8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      WELSCH M
+ 10        KIN  8900 RES     1  INDEPENDENT RESEARCH   1-9  TBA                                                      BAKER B
+ 10        KIN  8900 RES     2  INDEPENDENT RESEARCH   1-9  TBA                                                      CARSON R
+ 10        KIN  8900 RES     3  INDEPENDENT RESEARCH   1-9  TBA                                                      GARN A
+ 10        KIN  8900 RES     4  INDEPENDENT RESEARCH   1-9  TBA                                                      HONDZINSKI J
+ 10        KIN  8900 RES     5  INDEPENDENT RESEARCH   1-9  TBA                                                      KOSMA M
+  8     2  KIN  8900 RES     6  INDEPENDENT RESEARCH   1-9  TBA                                                      LANDIN D
+  9     1  KIN  8900 RES     8  INDEPENDENT RESEARCH   1-9  TBA                                                      NELSON A
+  9     1  KIN  8900 RES     9  INDEPENDENT RESEARCH   1-9  TBA                                                      SEIFRIED C
+  9     1  KIN  8900 RES    10  INDEPENDENT RESEARCH   1-9  TBA                                                      SOEBBING B
+  5     5  KIN  8900 RES    11  INDEPENDENT RESEARCH   1-9  TBA                                                      SOLMON M
+  7     3  KIN  8900 RES    12  INDEPENDENT RESEARCH   1-9  TBA                                                      STEWART L
+ 10        KIN  8900 RES    13  INDEPENDENT RESEARCH   1-9  TBA                                                      VAN GEMMERT A
+  8     2  KIN  8900 RES    14  INDEPENDENT RESEARCH   1-9  TBA                                                      WELSCH M
+ 98     1  KIN  8900 RES    15  INDEPENDENT RESEARCH   1-9  TBA                                                      JOHANNSEN N
+ 10        KIN  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BAKER B
+ 10        KIN  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      CARSON R
+  8     2  KIN  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      GARN A
+ 10        KIN  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      HONDZINSKI J
+ 10        KIN  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      KOSMA M
+ 10        KIN  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      LANDIN D
+  6     4  KIN  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      NELSON A
+  8     2  KIN  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      SEIFRIED C
+ 10        KIN  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SOEBBING B
+  9     1  KIN  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SOLMON M
+  9     1  KIN  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      STEWART L
+  9     1  KIN  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      VAN GEMMERT A
+ 10        KIN  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      WELSCH M

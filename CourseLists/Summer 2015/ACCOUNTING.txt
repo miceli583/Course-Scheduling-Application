@@ -1,0 +1,16 @@
+(F)    60  ACCT 2001         1  INTR FINANCIAL ACCT    3.0  0950-1050   MTWTF  1125 BUS ED S WING                    PARK J
+  8    42  ACCT 3001         2  INTERMEDIATE ACCT I    3.0  0840-0940   MTWTF  1615 BUS ED N WING                    MERRELL S
+ 86    14  ACCT 4231 CLI     1  INTERNSHIP IN ACCT     3.0  TBA                                     PERMIS OF INST   CHENIER J
+  3    47  ACCT 4233         1  CASE STUD AUDITING     3.0  TBA                                                      SUMNERS G
+ 22    28  ACCT 4233         2  CASE STUD AUDITING     3.0  TBA                                                      SUMNERS G
+ 31     9  ACCT 4233         3  CASE STUD AUDITING     3.0  TBA                                                      SUMNERS G
+119    21  ACCT 4333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   LAFLEUR L
+ 91     9  ACCT 7231 CLI     1  INTRNSHIP IN ACCT      3.0  TBA                                     PERMIS OF INST   MOFFITT J
+ 14    36  ACCT 7232         1  CASE STUD INT AUDIT    3.0  TBA                                                      SUMNERS G
+ 95     5  ACCT 7333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   SUMNERS G
+  1        ACCT 7900 RES     1  INDIV STUDY ACCT       3.0  TBA
+  1        ACCT 7900 RES     2  INDIV STUDY ACCT       3.0  TBA
+ 96     3  ACCT 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      REICHELT K
+ 98     1  ACCT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      REICHELT K
+ 12    48  ACCT 2101         1  INTRO MANAGERIAL ACC   3.0  1240-0310   MT TH  1615 BUS ED N WING                    SUN P
+ 19    39  ACCT 3021         1  INTERMEDIATE ACCT II   3.0  1240-0310   MT TH  1700 BUS ED N WING                    CHENIER J

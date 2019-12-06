@@ -1,0 +1,36 @@
+ 17    18  IE   2060         1  INT USE OF COMPUTERS   3.0  1140-1230   M W    0201 TUREAUD HALL    CI-VISUAL&TECH   JAVADPOUR S
+                     LAB                                     310-0600    T     3136 PATRICK TAYLOR                   JAVADPOUR S
+ 34    14  IE   2400         1  METHODS & SYST ENGR    3.0  1040-1130   M W    0215 TUREAUD HALL                     IKUMA L
+                     LAB                                     240-0530   M      3136 PATRICK TAYLOR                   IKUMA L
+  3    47  IE   3201         1  PRIN ENGR ECONOMY      3.0  1210-0130    T TH  1116 PATRICK TAYLOR                   AGHAZADEH F
+ 12    38  IE   3201         2  PRIN ENGR ECONOMY      3.0  1210-0130    T TH  1114 PATRICK TAYLOR                   LIAO T
+ 23    77  IE   3302         1  ENGR STATISTICS        3.0   940-1030   M W F  0103 TUREAUD HALL                     IKUMA L
+ 12    20  IE   4425         2  INFO SYST ENGR         3.0   140-0230   M W    3133 PATRICK TAYLOR  CI-WRITTEN&SPOK  KNAPP G
+                     LAB                                     240-0530     W    3136 PATRICK TAYLOR                   KNAPP G
+ 27    18  IE   4453         1  QUALITY CONT & SIX S   3.0   910-1030    T TH  3140 PATRICK TAYLOR                   LIAO T
+ 16    12  IE   4461         1  HUMAN FACTORS ENGR     3.0  1040-1130    T TH  3133 PATRICK TAYLOR  CI-WRITTEN&TECH  AGHAZADEH F
+                     LAB                                     310-0600      TH  3412 PATRICK TAYLOR                   AGHAZADEH F
+ 11    14  IE   4461         2  HUMAN FACTORS ENGR     3.0  1040-1130    T TH  3133 PATRICK TAYLOR                   AGHAZADEH F
+                     LAB                                     310-0600    T     3412 PATRICK TAYLOR                   AGHAZADEH F
+ 23     2  IE   4465         1  BIOMECHANICS FOR ENG   3.0  1040-1130   M W    0101 TUREAUD HALL                     MONROE W
+                     LAB                                     140-0430     W    0218 TUREAUD HALL                     MONROE W
+ 28     4  IE   4466         1  HUMN/COMP INTERACTN    3.0  1040-1200   M W    3133 PATRICK TAYLOR                   HARVEY C
+ 27    18  IE   4520         1  SUPPLY CHAIN LOGISTI   3.0   140-0300    T TH  1110 PATRICK TAYLOR                   SARKER B
+ 21    11  IE   4599         1  IE SR DESN PROJECT     3.0   240-0530   M      3133 PATRICK TAYLOR  PERMIS OF DEPT   SARKER B
+ 29     1  IE   4785 RES     1  SPEC TOP IND ENGR      1-3  TBA                                     PERMIS OF DEPT   KNAPP G
+ 19     1  IE   4785 RES     2  SPEC TOP IND ENGR      1-3  TBA                                     PERMIS OF DEPT   MANN L
+ 15    10  IE   7466         1  HUMN INTERACT COMPTR   3.0  TBA                                                      HARVEY C
+ 12     8  IE   7722         2  SUSTAINABLE CONSTRUC   3.0  TBA                                                      HASSAN M
+(F)    10  IE   7722         3  SPECIAL TOPICS IE      3.0  TBA                                                      ROIDER E
+ 13     7  IE   7722         4  NAT HAZ RESIST CONST   3.0  TBA                                                      FRIEDLAND C
+ 27     3  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                     PERMIS OF DEPT   NAHMENS I
+ 19     1  IE   7724 IND     2  INDEP STUDY IE         1-3  TBA                                     PERMIS OF DEPT   AGHAZADEH F
+  7     3  IE   7724 IND     3  INDEP STUDY IE         1-3  TBA                                     PERMIS OF DEPT   SARKER B
+ 19     1  IE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   FRIEDLAND C
+ 96     3  IE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   HASSAN M
+ 19     1  IE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   NAHMENS I
+ 12     8  IE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   IKUMA L
+ 19     1  IE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SARKER B
+ 18     2  IE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   KNAPP G
+ 19     1  IE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   AGHAZADEH F
+ 98     1  IE   8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      ROIDER E

@@ -1,0 +1,64 @@
+(F)   200  SOCL 2001         1  INTRODUCTORY SOCL      3.0   830-0920   M W F  0005 LOCKETT                          PATTERSON N
+  2    88  SOCL 2001        10  INTRODUCTORY SOCL      3.0   830-0920   M W F  0145 COATES                           PULLEY T
+  3   197  SOCL 2001         2  INTRODUCTORY SOCL      3.0   930-1020   M W F  0005 LOCKETT                          CASTLE L
+  1   199  SOCL 2001         3  INTRODUCTORY SOCL      3.0  1130-1220   M W F  0006 LOCKETT                          CASTLE L
+  8   192  SOCL 2001         8  INTRODUCTORY SOCL      3.0   300-0420   M W    0005 LOCKETT                          ASAY D
+  4   196  SOCL 2001         4  INTRODUCTORY SOCL      3.0   730-0850    T TH  0005 LOCKETT                          KELLEY R
+  4   196  SOCL 2001         6  INTRODUCTORY SOCL      3.0   900-1020    T TH  0005 LOCKETT                          CLEARY J
+  4   376  SOCL 2001         9  INTRODUCTORY SOCL      3.0   130-0250    T TH  0002 LOCKETT                          KAMO Y
+ 86   114  SOCL 2001         7  INTRODUCTORY SOCL      3.0   600-0850N    W    0005 LOCKETT                          ASAY D
+  2    28  SOCL 2002         1  HNRS: INTRO SOCL       3.0   830-0920   M W F  0212 AUDUBON                          MARTIN L
+ 10    20  SOCL 2002         2  HNRS: INTRO SOCL       3.0   130-0220   M W F  0218 TUREAUD HALL                     GREMILLION S
+  1    26  SOCL 2201         1  INTR STAT ANALYSIS     4.0   900-1020    T TH  0214 COATES          MAJORS ONLY      LIN Y
+                     LAB                                     130-0320     W    0102 STUBBS                           LIN Y
+(F)    31  SOCL 2201         2  INTR STAT ANALYSIS     4.0   900-1020    T TH  0214 COATES          MAJORS ONLY      LIN Y
+                     LAB                                     330-0520     W    0102 STUBBS                           LIN Y
+ 22    20  SOCL 2211         3  METHODS OF SOCL RES    3.0   930-1020   M W F  0131 ALLEN           MAJORS ONLY      GREMILLION S
+  3    47  SOCL 2211         1  METHODS OF SOCL RES    3.0   130-0250    T TH  0116 STUBBS          MAJORS ONLY      MEYER M
+ 25    68  SOCL 2501         1  CURR SOCIAL PROBLEMS   3.0  1200-0120    T TH  E134 HOWE RUSSELL E                   THOMAS D
+ 26   124  SOCL 2505         1  MARRIAGE & FAMILY      3.0  1030-1120   M W F  0005 LOCKETT                          PAUL C
+  1    19  SOCL 2511         1  RACE RELATIONS         3.0   900-1020    T TH  0225 COATES                           ALLEN T
+(F)    52  SOCL 3101         1  SOCIOLOGICAL THEORY    3.0   130-0220   M W F  0220 STUBBS          MAJORS ONLY      O'NEIL R
+  4    51  SOCL 3371         1  SOCL CRIM JUST SYSTM   3.0   900-1020    T TH  0132 PRESCOTT                         VALASIK M
+(F)    55  SOCL 3371         2  SOCL CRIM JUST SYSTM   3.0  1200-0120    T TH  0212 COATES                           VALASIK M
+  1    54  SOCL 3371         3  SOCL CRIM JUST SYSTM   3.0   600-0850N    W    0220 STUBBS                           LEBLANC M
+(F)    55  SOCL 3501         1  SOCL OF DEVIANCE       3.0   900-1020    T TH  0116 STUBBS                           STEVENSON G
+(F)    55  SOCL 3501         2  SOCL OF DEVIANCE       3.0  1030-1150    T TH  0132 PRESCOTT                         STEVENSON G
+  3    52  SOCL 3601         1  SOCIAL INTERACTION     3.0   830-0920   M W F  0220 STUBBS                           O'NEIL R
+  4    51  SOCL 3601         2  SOCIAL INTERACTION     3.0   930-1020   M W F  0220 STUBBS                           O'NEIL R
+(F)    55  SOCL 3601         3  SOCIAL INTERACTION     3.0  1230-0120   M W F  0116 STUBBS                           O'NEIL R
+ 96     3  SOCL 3900 CLI     1  SOCL INTERNSHIP        1-3  TBA                                     PERMIS OF DEPT   MARTIN L
+  9     1  SOCL 3901 RES     1  DIR RDING & RES SOCL   1-3  TBA                                     PERMIS OF INST   BECKER S
+  9    21  SOCL 4402         1  MOD COM MARIT & FMLY   3.0  1200-0120    T TH  0220 COATES          SVC LEARNING     HONEYCUTT J
+ 32    23  SOCL 4421         1  POLITICAL SOCIOLOGY    3.0  1030-1120   M W F  0116 STUBBS                           WEIL F
+ 20    35  SOCL 4451         1  SOCL OF MEDICINE       3.0   300-0420    T TH  0220 STUBBS                           STROOPE S
+  1    54  SOCL 4461         1  CRIMINOLOGY            3.0   900-1020    T TH  0220 STUBBS                           SHIHADEH E
+  3    52  SOCL 4461         2  CRIMINOLOGY            3.0  1200-0120    T TH  0116 STUBBS                           SHIHADEH E
+ 16    39  SOCL 4461         3  CRIMINOLOGY            3.0   130-0250    T TH  0220 STUBBS                           BARTON M
+  2    53  SOCL 4462         1  SOCL YOUTH/CRIME       3.0  1030-1150    T TH  0228 COATES                           BARTON M
+ 14    36  SOCL 4463         1  GENDER AND CRIME       3.0  1030-1150    T TH  0215 TUREAUD HALL                     BECKER S
+  7    48  SOCL 4471         2  SOCIOLOGY OF LAW       3.0  1130-1220   M W F  0220 STUBBS                           GREMILLION S
+ 20    35  SOCL 4471         1  SOCIOLOGY OF LAW       3.0  1230-0120   M W F  0220 STUBBS                           GREMILLION S
+  1    14  SOCL 7121 SEM     1  SEM:CLAS SOCL THEORY   3.0   130-0420   M      0026 STUBBS          MAJORS ONLY      WEIL F
+  1    14  SOCL 7201 SEM     1  FUND STAT IN SOC       3.0  1200-0120    T TH  0026 STUBBS          MAJORS ONLY      RACKIN H
+  1    14  SOCL 7211 SEM     1  SEM: METH SOCIAL INV   3.0   130-0420     W    0026 STUBBS          MAJORS ONLY      STROOPE S
+(F)     5  SOCL 7213 SEM     4  SP TOP SOC SCIENCE M   2-3   100-0350   M      0114 AUDUBON         MAJORS ONLY      GARAND J
+  6     9  SOCL 7391 SEM     1  STRATIFICATION         3.0   130-0420    T     0026 STUBBS          MAJORS ONLY      SLACK T
+  4    11  SOCL 7491 SEM     1  EDUCATIONINEQUALITY    3.0   900-1150   M      0026 STUBBS          MAJORS ONLY      SCHAFER M
+  3    12  SOCL 7591 SEM     1  GENDER & SEXUALITY     3.0   130-0420      TH  0026 STUBBS          MAJORS ONLY      BERKOWITZ D
+  9     1  SOCL 7901 RES    12  IND RDG & RES          3.0  TBA                                     PERMIS OF DEPT   RACKIN H
+  9     1  SOCL 7901 RES    14  IND RDG & RES          3.0  TBA                                     PERMIS OF DEPT   WEIL F
+  8     2  SOCL 7902 RES     5  IND RDG & RES          3.0  TBA                                     PERMIS OF DEPT   BECKER S
+(F)    15  SOCL 7903 SEM     1  PROSEMINAR IN SOCIOL   1.0  1030-1120     W    0026 STUBBS          MAJORS ONLY      RACKIN H
+  3     2  SOCL 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   BARTON M
+  3     2  SOCL 8900 RES    10  RESEARCH IN SOCL       1-6  TBA                                     PERMIS OF DEPT   SHIHADEH E
+(F)     5  SOCL 9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BECKER S
+  4     1  SOCL 9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BERKOWITZ D
+  3     2  SOCL 9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BLANCHARD T
+  2     3  SOCL 9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KAMO Y
+  2     3  SOCL 9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SCHAFER M
+  2     3  SOCL 9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SHIHADEH E
+  2     3  SOCL 9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SHRUM W
+  4     1  SOCL 9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SLACK T
+  3     2  SOCL 9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WEIL F
+  4     1  SOCL 9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DURANT T

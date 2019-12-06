@@ -1,0 +1,65 @@
+ 24   226  CHE  1100         1  INTRO CHEM ENGINEER    1.0   430-0520N  M      0130 HOWE RUSSELL E                   SPIVEY J
+ 23   207  CHE  2162         1  COMPUTER MODELING      2.0  1230-0120    T TH  0130 HOWE RUSSELL E                   MELVIN E
+ 11    83  CHE  2171         1  CHE FUND MAT EN BAL    3.0   930-1020   M W F  0105 TUREAUD HALL                     MELVIN A
+ 30    64  CHE  2171         2  CHE FUND MAT EN BAL    3.0  1030-1120   M W F  0105 TUREAUD HALL                     MELVIN A
+ 26    94  CHE  2176         1  MATH MOD CHM ENG SYS   3.0   900-1020    T TH  1125 BUS ED S WING                    KNOPF F
+  1    32  CHE  3100         1  CHEM EQUIL & KINETIC   3.0   130-0250    T TH  E131 HOWE RUSSELL E                   MELVIN E
+  9   146  CHE  3101         1  MOMENTUM TRANSFER      3.0  1030-1120   M W F  0143 COATES                           MCPEAK K
+(F)     9  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0221 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420   M      0164BCHEM ENGR                        WETZEL D
+(F)     9  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0221 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420   M      0164BCHEM ENGR                        FLAKE J
+(F)     6  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0221 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420    T     0164BCHEM ENGR                        WETZEL D
+(F)     8  CHE  3104         4  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0221 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420    T     0164BCHEM ENGR                        KNOPF F
+(F)     8  CHE  3104         5  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0221 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420     W    0164BCHEM ENGR                        MELVIN E
+  1     7  CHE  3104         6  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    0221 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     130-0420     W    0164BCHEM ENGR                        MELVIN E
+ 14   156  CHE  3172         1  CHE THERMODYNAMICS     3.0   930-1020   M W F  0143 COATES                           WETZEL D
+  2    56  CHE  4151         1  UNIT OPS DESIGN        4.0   930-1020   M W F  0152 COATES                           CORRIPIO A
+                     LAB                                     900-1020    T TH  0217 OLD FORESTRY                     CORRIPIO A
+(F)    58  CHE  4151         2  UNIT OPS DESIGN        4.0   930-1020   M W F  0152 COATES                           CORRIPIO A
+                     LAB                                    1030-1150    T TH  0217 OLD FORESTRY                     CORRIPIO A
+(F)     7  CHE  4162         1  UNIT OPERATIONS LAB    3.0   430-0520N  M      E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164 CHEM ENGR                        TOUPS H
+  1     6  CHE  4162         2  UNIT OPERATIONS LAB    3.0   430-0520N  M      E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164 CHEM ENGR                        ROMAGNOLI J
+  1     7  CHE  4162         3  UNIT OPERATIONS LAB    3.0   430-0520N  M      E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164 CHEM ENGR                        NANDAKUMAR K
+  2     6  CHE  4162         4  UNIT OPERATIONS LAB    3.0   430-0520N  M      E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W    0164 CHEM ENGR                        BENTON M
+  2     6  CHE  4162         5  UNIT OPERATIONS LAB    3.0   430-0520N   T     E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164 CHEM ENGR                        TOUPS H
+  1     7  CHE  4162         6  UNIT OPERATIONS LAB    3.0   430-0520N   T     E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164 CHEM ENGR                        DOOLEY K
+(F)     7  CHE  4162         7  UNIT OPERATIONS LAB    3.0   430-0520N   T     E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164 CHEM ENGR                        GRIFFIN G
+  4     3  CHE  4162         8  UNIT OPERATIONS LAB    3.0   430-0520N   T     E131 HOWE RUSSELL E  CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH  0164 CHEM ENGR                        GRIFFIN G
+  1   119  CHE  4190         1  CHEM REACTION ENGR     3.0  1130-1220   M W F  1125 BUS ED S WING                    GRIFFIN G
+  6   110  CHE  4198         1  PROCESS DYNAMICS       3.0  1030-1120   M W F  1125 BUS ED S WING                    ROMAGNOLI J
+  3     7  CHE  4222 LAB     1  SENIOR RESEARCH        2.0   600-0650N   T TH  0164 CHEM ENGR       CI-WRITTEN&SPOK  HUNG F
+ 40    20  CHE  4263         1  ENVIRN CHEMODYNAMICS   3.0   830-0920   M W F  0109 TUREAUD HALL                     NANDAKUMAR K
+  4    35  CHE  4270         1  PROCESS ADV MATERIAL   3.0  1200-0120    T TH  0282 CHEM ENGR                        FLAKE J
+ 19    61  CHE  4420         1  SP TOP IN CHE SCIENC   3.0   130-0250    T TH  0105 TUREAUD HALL    CI-VISUAL&TECH   BENTON M
+  7    18  CHE  7110         1  MATHEMAT MODELS CHE    3.0   500-0620N  M W    0282 CHEM ENGR                        SHELTON W
+  8    17  CHE  7120         1  CHE THERMODYNAMICS     3.0   230-0350   M W    0282 CHEM ENGR                        HUNG F
+ 10    15  CHE  7130         1  HEAT MASS TRANSPORT    3.0   500-0620N   T TH  0282 CHEM ENGR                        XU Y
+ 47    52  CHE  7800 SEM     1  SEMINAR                1.0   200-0250       F  0120 TUREAUD HALL                     HUNG F
+ 98     1  CHE  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BENTON M
+ 98     1  CHE  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DOOLEY K
+ 98     1  CHE  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      NANDAKUMAR K
+ 98     1  CHE  8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      ROMAGNOLI J
+ 97     2  CHE  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BENTON M
+ 96     3  CHE  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      FLAKE J
+ 93     6  CHE  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      HUNG F
+ 97     2  CHE  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      MELVIN A
+ 92     7  CHE  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      NANDAKUMAR K
+ 96     3  CHE  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      ROMAGNOLI J
+ 97     2  CHE  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SPIVEY J
+ 98     1  CHE  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      THOMPSON K
+ 98     1  CHE  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      VALSARAJ K
+ 95     4  CHE  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      WORNAT M
+ 96     3  CHE  9000 RES    17  DISSERTATION RES       1-12 TBA                                                      XU Y

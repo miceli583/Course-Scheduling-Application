@@ -1,0 +1,81 @@
+109   251  RNR  1001         1  NAT RESOURCE CONSERV   3.0  1030-1120   M W F  0002 LOCKETT                          KELSO W
+(F)    64  RNR  1001         2  NAT RESOURCE CONSERV   3.0   130-0220   M W F  0142 RENEWABLE NAT R                  KELSO W
+(F)    11  RNR  1002 SEM     5  ISS NAT RESOURCE MGT   1.0  1030-1120    T     0225 RENEWABLE NAT R                  KALLER M
+  1    10  RNR  1002 SEM     6  ISS NAT RESOURCE MGT   1.0  1030-1120    T     0230 RENEWABLE NAT R                  DOZIER H
+(F)    10  RNR  1002 SEM     7  ISS NAT RESOURCE MGT   1.0  1030-1120    T     0142 RENEWABLE NAT R                  TAYLOR S
+  2     9  RNR  1002 SEM     8  ISS NAT RESOURCE MGT   1.0  1030-1120    T     0208 RENEWABLE NAT R                  NYMAN J
+  3    13  RNR  1070         1  HNRS NATUR RES CONS    4.0   130-0250   M W F  0142 RENEWABLE NAT R                  KELSO W
+(F)    22  RNR  2001         1  TREES & WDY PLANTS S   2.0  1230-0120    T     0206 RENEWABLE NAT R                  CHAMBERS J
+                     LAB                                     130-0420    T     0206 RENEWABLE NAT R                  CHAMBERS J
+  1    19  RNR  2001         2  TREES & WDY PLANTS S   2.0  1230-0120      TH  0206 RENEWABLE NAT R                  CHAMBERS J
+                     LAB                                     130-0420      TH  0206 RENEWABLE NAT R                  CHAMBERS J
+(F)    29  RNR  2039         1  INT RNR RESRC PLCY     3.0  1030-1120   M W F  0141 RENEWABLE NAT R                  CHANG S
+ 12     4  RNR  2070         2  HNRS ECOLOGY OF RNR    4.0   830-0950   M W F  0142 RENEWABLE NAT R                  STOUFFER P
+ 13     3  RNR  2071         1  HNRS INTRO RNR POLIC   4.0  1030-1120   MTW F                                        CHANG S
+(F)    52  RNR  2101         2  ECOL RENEW NAT RES     3.0   830-0920   M W F  0142 RENEWABLE NAT R                  STOUFFER P
+(F)    27  RNR  2102         1  NAT RES MEASUR & GIS   3.0   830-0920    T TH  0141 RENEWABLE NAT R                  CAO Q
+                     LAB                                     130-0420   M      0141 RENEWABLE NAT R                  CAO Q
+  1    24  RNR  2102         2  NAT RES MEASUR & GIS   3.0   830-0920    T TH  0141 RENEWABLE NAT R                  CAO Q
+                     LAB                                     130-0420       F  0141 RENEWABLE NAT R                  CAO Q
+(F)    39  RNR  3002         1  SILVICULTURE           2.0  1030-1120    T TH  0141 RENEWABLE NAT R                  DEAN T
+(F)    16  RNR  3004         1  FOR PHOTOGRAM, GPS,    3.0  1230-0220       F  0214 RENEWABLE NAT R                  WOLCOTT M
+                     LAB                                     230-0520       F  0214 RENEWABLE NAT R                  WOLCOTT M
+ 14     6  RNR  3106         3  TIMBER HARVESTING      2.0  1130-1220      TH  0230 RENEWABLE NAT R                  DE HOOP C
+                     LAB                                    1230-0320      TH  0230 RENEWABLE NAT R                  DE HOOP C
+ 23     7  RNR  4001 LAB     1  SILVICULTURE LAB       1.0   130-0420     W    0141 RENEWABLE NAT R                  DEAN T
+  3    32  RNR  4011         1  WILD MGT TECHNIQUES    4.0   730-0820   M W F  0206 RENEWABLE NAT R                  ROHWER F
+                     LAB                                     130-0420   M      0206 RENEWABLE NAT R                  ROHWER F
+  2    15  RNR  4013         1  ECOL/MGT WETLND WILD   4.0  1230-0120   M W F  0142 RENEWABLE NAT R                  KING S
+                     LAB                                     130-0420    T     0142 RENEWABLE NAT R                  KING S
+(F)    13  RNR  4020         2  TAX/ECOL WETLAND PL    4.0  1200-0120    T TH                                        REID C
+                     LAB                                     130-0420      TH                                        REID C
+  2    18  RNR  4025         1  LIMNOLOGY              3.0   900-1020    T TH  0230 RENEWABLE NAT R                  ROMAIRE R
+ 18     6  RNR  4033         1  SILVIC & MGT HARDWOO   4.0  TBA                                                      KEIM R
+                     LAB                                    TBA                                                      KEIM R
+ 25     5  RNR  4036         1  FOREST MANAGEMENT      4.0  1230-0120   M W F  0141 RENEWABLE NAT R                  CHANG S
+                     LAB                                     200-0450    T     0141 RENEWABLE NAT R                  CHANG S
+ 24     6  RNR  4038         1  FOREST ECONOMICS       3.0   830-0920   M W F  0141 RENEWABLE NAT R                  CHANG S
+(F)    31  RNR  4040         1  FISHERIES MANAGEMENT   3.0   830-0920   M W F  0230 RENEWABLE NAT R                  KELSO W
+  2     8  RNR  4061 RES     1  PROB NAT RES MGT       1-4  TBA                                                      KALLER M
+  9     1  RNR  4061 RES     2  PROB NAT RES MGT       1-4  TBA                                                      SHUPE T
+ 10        RNR  4061 RES     4  PROB NAT RES MGT       1-4  TBA                                                      WOLCOTT M
+  9     1  RNR  4061 RES     5  PROB NAT RES MGT       1-4  TBA                                                      NYMAN J
+(F)    26  RNR  4107         1  HUM DIM NAT RES        3.0  1030-1120   M W F  0142 RENEWABLE NAT R CI-VISUAL&TECH   KALLER M
+(F)    16  RNR  4145         1  ICHTHYOLOGY            4.0  1230-0120   M W    0230 RENEWABLE NAT R                  GREEN C
+                     LAB                                     130-0720   M      0208 RENEWABLE NAT R                  GREEN C
+(F)    21  RNR  7001         1  RESEARCH METHODOLOGY   3.0  1030-1120   M W F  0230 RENEWABLE NAT R                  KEIM R
+  1     7  RNR  7006         1  BEHAVIORAL ECOLOGY     3.0  TBA                                                      AFTON A
+  7     3  RNR  7029 SEM     1  ADV TOP RENEW NT RES   1-4  TBA                                                      KALLER M
+  8     2  RNR  7029 SEM     2  ADV TOP RENEW NT RES   1-4  TBA                                                      DE HOOP C
+ 15     5  RNR  7070 SEM     1  GRAD SEM FISHERIES     1.0  TBA                                                      KELSO W
+  9    11  RNR  7073 SEM     1  GRAD SEM WATERSHED     1.0  TBA                                                      KEIM R
+ 98     1  RNR  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      AFTON A
+ 97     2  RNR  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      ANDERSON J
+ 98     1  RNR  8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      GREEN C
+ 97     2  RNR  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      KEIM R
+ 96     3  RNR  8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      KELSO W
+ 96     3  RNR  8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      KING S
+ 98     1  RNR  8000 RES    19  THESIS RESEARCH        1-12 TBA                                                      NYMAN J
+ 98     1  RNR  8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      ROHWER F
+ 98     1  RNR  8000 RES    25  THESIS RESEARCH        1-12 TBA                                                      STOUFFER P
+ 97     2  RNR  8000 RES    26  THESIS RESEARCH        1-12 TBA                                                      SUPAN J
+ 98     1  RNR  8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      TAYLOR S
+ 98     1  RNR  8000 RES    30  THESIS RESEARCH        1-12 TBA                                                      WU Q
+ 96     3  RNR  8000 RES    31  THESIS RESEARCH        1-12 TBA                                                      XU Y
+ 98     1  RNR  8900 RES    29  RES PROB IN RNR        1-3  TBA                                                      VLOSKY R
+ 97     2  RNR  8900 RES    30  RES PROB IN RNR        1-3  TBA                                                      WU Q
+ 98     1  RNR  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      CHANG S
+ 98     1  RNR  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      GREEN C
+ 98     1  RNR  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      KALLER M
+ 97     2  RNR  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      KEIM R
+ 98     1  RNR  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      KELSO W
+ 98     1  RNR  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      KING S
+ 98     1  RNR  9000 RES    19  DISSERTATION RES       1-12 TBA                                                      NYMAN J
+ 98     1  RNR  9000 RES    21  DISSERTATION RES       1-12 TBA                                                      ROHWER F
+ 97     2  RNR  9000 RES    27  DISSERTATION RES       1-12 TBA                                                      TAYLOR S
+ 97     2  RNR  9000 RES    28  DISSERTATION RES       1-12 TBA                                                      TIERSCH T
+ 98     1  RNR  9000 RES    29  DISSERTATION RES       1-12 TBA                                                      VLOSKY R
+ 98     1  RNR  9000 RES    30  DISSERTATION RES       1-12 TBA                                                      WU Q
+ 98     1  RNR  9000 RES    31  DISSERTATION RES       1-12 TBA                                                      XU Y
+ 95     4  RNR  9000 RES    32  DISSERTATION RES       1-12 TBA                                                      STOUFFER P
+ 98     1  RNR  9000 RES    33  DISSERTATION RES       1-12 TBA                                                      CHAMBERS J

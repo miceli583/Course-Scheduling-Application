@@ -1,0 +1,73 @@
+ 13    12  PETE 1010         2  INTR TO PETR ENGR      2.0   330-0420   M W    0112 TUREAUD HALL                     THURBER F
+ 14    11  PETE 1010         1  INTR TO PETR ENGR      2.0   300-0350    T TH  0116 TUREAUD HALL                     THURBER F
+ 15    57  PETE 2031         1  RESERVOIR ROCK PROP    3.0   130-0250    T TH  0214 COATES                           RADONJIC M
+ 25    75  PETE 2032         1  RESERVOIR FLUID PROP   3.0  1230-0120   M W F  1263 PATRICK TAYLOR                   RAO D
+(F)    24  PETE 2034 LAB     1  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0009 LOCKETT                          IZADI M
+(F)    23  PETE 2034 LAB     2  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0009 LOCKETT                          IZADI M
+(F)    24  PETE 2034 LAB     3  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0009 LOCKETT                          IZADI M
+(H)        PETE 2034 LAB     4  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0009 LOCKETT                          IZADI M
+(F)    24  PETE 2034 LAB     5  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0009 LOCKETT                          IZADI M
+(F)    24  PETE 2034 LAB     6  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0009 LOCKETT                          IZADI M
+  1    23  PETE 2034 LAB     7  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0009 LOCKETT                          IZADI M
+(H)        PETE 2034 LAB     8  ROCK/FLUID PROP LAB    1.0   430-0520N  M      0009 LOCKETT                          IZADI M
+  5    19  PETE 2060         1  COMP MTHDS PETE        2.0   830-0920    T     0016 LOCKETT                          THOMPSON K
+                     LAB                                    1030-1220      TH                                        THOMPSON K
+  6    18  PETE 2060         2  COMP MTHDS PETE        2.0   830-0920    T     0016 LOCKETT                          THOMPSON K
+                     LAB                                    1030-1220       F                                        THOMPSON K
+ 50    60  PETE 3025         1  ECON ASPECTS PET PRO   3.0   730-0850    T TH  1263 PATRICK TAYLOR                   HUGHES R
+ 47    53  PETE 3036         1  WELL LOGGING           3.0  1130-1220   M W F  0103 TUREAUD HALL                     GUPTA I
+ 30    80  PETE 3050         1  RESERVOIR DYNAMICS     3.0   130-0220   M W F  1263 PATRICK TAYLOR                   ZEIDOUNI M
+ 20    90  PETE 3053         1  PETE ASP SUBS GEOL     3.0   300-0420    T TH  0009 LOCKETT                          KIMBRELL W
+ 61   169  PETE 3085         1  WELL PRODUCTION        3.0   130-0220   M W F  0143 COATES                           WALTRICH P
+  5        PETE 3990 RES     1  INDEPENDENT RESEARCH   1-2   330-0450       F
+ 40   220  PETE 4046         1  WELL DESIGN-PRODUCTN   3.0  1130-1220   M W F  0143 COATES                           CHEN Y
+(F)    51  PETE 4056         1  NUM SIM IMP REC PROC   3.0   430-0620N   T     0143 COATES                           HUGHES R
+(F)    45  PETE 4056         2  NUM SIM IMP REC PROC   3.0   430-0620N   T     0143 COATES                           HUGHES R
+(F)    58  PETE 4056         3  NUM SIM IMP REC PROC   3.0   430-0620N   T     0143 COATES                           HUGHES R
+(F)    59  PETE 4056         4  NUM SIM IMP REC PROC   3.0   430-0620N   T     0143 COATES                           HUGHES R
+(F)     4  PETE 4056         5  NUM SIM IMP REC PROC   3.0   430-0620N   T     0143 COATES                           HUGHES R
+(F)     1  PETE 4058 LAB     1  RESERVOIR MECH LAB     1.0  TBA
+(F)     6  PETE 4060 LAB    13  PREV OL/GS WELLBLOW    1.0   830-1120      TH                       PERMIS OF INST   AKBARI B
+(F)    54  PETE 4086         1  WELL DESN-DRILLING     3.0   130-0250    T TH  1253 PATRICK TAYLOR                   WOJTANOWICZ A
+(F)    47  PETE 4090         1  UNCONV RESERVOIRS      3.0   230-0320   M W F  1225 PATRICK TAYLOR  PERMIS OF INST   CHEN Y
+(F)    45  PETE 4241         1  SP TOP PETR ENGR DES   3.0   230-0320   M W F  0102 TUREAUD HALL                     ALMEIDA M
+ 33    87  PETE 4999 RES     1  SENIOR PROJECT II      1.0   300-0450      TH  0102 ALLEN           CI-WRITTEN       RADONJIC M
+(F)   127  PETE 4999 RES     2  SENIOR PROJECT II      1.0   300-0450      TH  E137 HOWE RUSSELL E                   WILLIAMS W
+(F)     1  PETE 7241         4  SEL TOP IN ADV PETE    3.0  TBA                                                      GUPTA I
+(F)     1  PETE 7241         5  SEL TOP IN ADV PETE    3.0  TBA
+ 26    14  PETE 7242         3  SEL TOP IN ADV PETE    3.0   330-0520   M W    0102 TUREAUD HALL                     WALTRICH P
+  2     3  PETE 7256 RES     1  SPEC PROB PETR ENGR    1-6  TBA                                                      WOJTANOWICZ A
+  4     1  PETE 7256 RES     2  SPEC PROB PETR ENGR    1-6  TBA                                                      AKBARI B
+  4     1  PETE 7256 RES     3  SPEC PROB PETR ENGR    1-6  TBA                                                      WILLIAMS W
+(F)     1  PETE 7256 RES     4  SPEC PROB PETR ENGR    1-6  TBA                                                      TYAGI M
+  1        PETE 7256 RES     5  SPEC PROB PETR ENGR    1-6  TBA                                                      RADONJIC M
+ 31     9  PETE 7280         1  MATH SIM PET RES PER   3.0   900-1020    T TH  0225 TUREAUD HALL
+ 33    57  PETE 7999 SEM     1  SEMINAR                1.0   900-1020       F  0206 TUREAUD HALL                     AKBARI B
+ 98     1  PETE 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      THOMPSON K
+ 98     1  PETE 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      ZEIDOUNI M
+ 99        PETE 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      TYAGI M
+ 98     1  PETE 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      RAO D
+ 96     3  PETE 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      GUPTA I
+ 99        PETE 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      WOJTANOWICZ A
+ 99        PETE 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      KAM S
+ 99        PETE 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      HUGHES R
+ 99        PETE 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      RADONJIC M
+ 98     1  PETE 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      WILLIAMS W
+ 99        PETE 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      SEARS S
+ 97     2  PETE 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      WALTRICH P
+ 96     3  PETE 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      AKBARI B
+ 97     2  PETE 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      CHEN Y
+ 97     2  PETE 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      THOMPSON K
+ 96     3  PETE 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      ZEIDOUNI M
+ 97     2  PETE 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      TYAGI M
+ 96     3  PETE 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      RAO D
+ 98     1  PETE 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      GUPTA I
+ 97     2  PETE 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      WOJTANOWICZ A
+ 96     3  PETE 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      KAM S
+ 99        PETE 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      HUGHES R
+ 95     4  PETE 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      RADONJIC M
+ 99        PETE 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      DAHI TALEGHAN
+ 96     3  PETE 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      WALTRICH P
+ 97     2  PETE 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      AKBARI B
+ 97     2  PETE 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      CHEN Y
+ 97     2  PETE 9000 RES    15  DISSERTATION RES       1-12 TBA

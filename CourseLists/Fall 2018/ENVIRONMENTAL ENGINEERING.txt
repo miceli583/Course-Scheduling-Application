@@ -1,0 +1,11 @@
+ 11    51  EVEG 1050 LAB     1  INTRO ENV ENGR         1.0  1230-0220     W    0221 TUREAUD HALL                     ELANGO V
+ 24    36  EVEG 2000         1  ENV ENGR I             3.0   300-0420    T TH  0211 TUREAUD HALL                     ZHANG H
+ 11    94  EVEG 3110         1  WATR/WSTWTR TREATMNT   3.0  1200-0120    T TH  0139 ALLEN                            SNOW S
+ 21    89  EVEG 3200         1  WATR RESOURCES ENGR    3.0   130-0250   M W    0015 LOCKETT                          DENG Z
+ 13    37  EVEG 4120         1  DSN SLD&HAZ WST MGT    3.0  1030-1150    T TH  2113 PATRICK TAYLOR                   MOE W
+ 13    37  EVEG 4125         1  ENV TRANSPORT PROC     3.0  1230-0120   M W F  0210 WILLIAMS                         ZHANG H
+  8    37  EVEG 4150         1  INT ENVR SYST DESN I   3.0   830-1120     W    2113 PATRICK TAYLOR                   PARDUE J
+ 29    16  EVEG 4154         1  SUSTAINABILITY ENGR    3.0   300-0420    T TH  0234 COATES                           PARDUE J
+(F)    25  EVEG 4780         2  SP TOP IN EVEG DESN    3.0   830-1120   M                           CI-WRITTEN&TECH  ELANGO V
+  4    19  EVEG 4780         1  SP TOP IN EVEG DESN    3.0   830-1120     W                         CI-WRITTEN&TECH  ELANGO V
+ 13    22  EVEG 4781         1  SP TOP IN EVEG SCI     3.0   130-0250    T TH  0235 LOCKETT                          ZHU X

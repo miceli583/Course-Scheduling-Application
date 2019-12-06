@@ -1,0 +1,37 @@
+  5   329  LA   1201         1  INTR LANDSCAPE ARCH    3.0   830-0920   M W F  0002 LOCKETT                          CONRAD M
+(F)   284  LA   1201         2  INTR LANDSCAPE ARCH    3.0  1030-1150    T TH  0143 COATES                           CONRAD M
+  1   382  LA   1203         1  VIEWS AMER LANDSCAPE   3.0  1230-0120   M W F  0002 LOCKETT                          FRYLING C
+  1   382  LA   1203         2  VIEWS AMER LANDSCAPE   3.0   130-0220   M W F  0002 LOCKETT                          FRYLING C
+  6    12  LA   2001 LAB     1  LANDSCAPE DESIGN I     6.0   130-0520   M W F  0322 DESIGN BUILDING                  RISK J
+  8    12  LA   2101 LAB     1  LA REPRESENTAION III   3.0   900-1150    T TH  0301 DESIGN BUILDING CI-VISUAL&TECH   MAY K
+  7    16  LA   2201         1  LANDSCAPE HISTORY I    3.0   830-0920   M W F  0201 DESIGN BUILDING                  RISK J
+(F)    15  LA   3001 LAB     1  LANDSCAPE DESN III     6.0   130-0520   M W F  0304 DESIGN BUILDING                  LIPSCHITZ F
+(F)    15  LA   3301         1  LAND ARCH TECH II      3.0   130-0220    T TH  0304 DESIGN BUILDING                  SHARKY B
+                     LAB                                     230-0420    T TH  0304 DESIGN BUILDING                  SHARKY B
+  7    15  LA   3401         1  PLANT MATERIALS I      3.0   900-0950    T TH  0308 DESIGN BUILDING                  FRYLING C
+                     LAB                                    1000-1150    T TH  0308 DESIGN BUILDING                  FRYLING C
+(F)    17  LA   4001 LAB     1  LANDSCAPE DESIGN V     6.0   130-0520   M W F  0316 DESIGN BUILDING                  BOYER M
+  3    11  LA   4008 LAB     1  ADV TOPICS STUDIO      6.0   130-0520   M W F  0324 DESIGN BUILDING                  SHARKY B
+(F)    19  LA   4201         2  PLAN THEORY & MTHDS    3.0   900-1020   M W    0301 DESIGN BUILDING CI-WRITTEN&TECH  LIPSCHITZ F
+                     LAB                                     900-1020   M W    0301 DESIGN BUILDING                  LIPSCHITZ F
+ 19    17  LA   4301         2  LANDSCAPE TECH IV      3.0   130-0250    T TH  0316 DESIGN BUILDING                  BOYER M
+                     LAB                                     300-0350    T TH  0316 DESIGN BUILDING                  BOYER M
+(F)     5  LA   4502 RES     1  IND STUDY IN L A       3.0  TBA                                                      BOYER M
+(F)     3  LA   4502 RES     2  IND STUDY IN L A       3.0  TBA                                                      ALLEN A
+(F)     1  LA   4502 RES     3  IND STUDY IN L A       3.0  TBA                                                      MOSSOP E
+(F)     1  LA   4502 RES     4  IND STUDY IN L A       3.0  TBA                                                      SHARKY B
+(F)    16  LA   4504 SEM     2  ADV ELECTIVE IN L A    3.0   600-0850N     TH  0308 DESIGN BUILDING CI-VISUAL&TECH   ALLEN A
+  5    10  LA   5001 LAB     1  LANDSCAPE DESIGN VII   6.0   130-0520   M W F  0310 DESIGN BUILDING CI-WRITTEN&VISU  DOUGLAS W
+ 10    13  LA   5201 SEM     1  RESEARCH SEMINAR       3.0   900-1020    T TH  0313 DESIGN BUILDING CI-WRITTEN&SPOK  DOUGLAS W
+  2    13  LA   7011 LAB     1  SITE SYSTEMS I         6.0   130-0520   M W F  0226 DESIGN BUILDING                  ALLEN D
+(F)    21  LA   7013         1  HISTORY & THEORY I     3.0   900-1020    T TH  0201 DESIGN BUILDING                  RISK J
+  3    23  LA   7014         1  ECOLOGY & TECH I       3.0  1200-0120    T TH  0301 DESIGN BUILDING                  PETTY M
+  6     9  LA   7031 LAB     1  WATER SYSTEMS          6.0   130-0520   M W F  0225 DESIGN BUILDING                  MICHAELS K
+  2     8  LA   7031 LAB     2  WATER SYSTEMS          6.0   130-0520   M W F  0225 DESIGN BUILDING                  MICHAELS K
+  9    11  LA   7032 LAB     1  SPECIAL TOPICS MEDIA   3.0   130-0420    T TH  0301 DESIGN BUILDING CI-VISUAL&TECH   WILLIAMS M
+ 12    18  LA   7033         1  HISTORY & THEORY III   3.0   900-1150   M      0308 DESIGN BUILDING                  MOSSOP E
+(F)    20  LA   7034         2  ECOLOGY & TECH III     3.0   630-0920N    W    0301 DESIGN BUILDING                  PETTY M
+(F)    15  LA   7051 LAB     1  ADVANCED TOPICS I      6.0   130-0520   M W F  0326 DESIGN BUILDING                  SHARKY B
+  9    11  LA   7052         1  THESIS PREPARATION     3.0   600-0850N   T     0308 DESIGN BUILDING                  ALLEN A
+(F)    14  LA   7101 LAB     1  GRAD LANDSC REPR I     3.0   900-1150   M W    0307 DESIGN BUILDING                  ALLEN A
+(F)     1  LA   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ALLEN A

@@ -1,0 +1,23 @@
+  2    37  SW   7001         1  HUM BEH/SOC ENV I      3.0  TBA                                     MAJORS ONLY      KIM Y
+  5    34  SW   7001         2  HUM BEH/SOC ENV I      3.0  TBA                                     100% WEB BASED   WILLIAMS A
+  3    36  SW   7001         3  HUM BEH/SOC ENV I      3.0  TBA                                     MAJORS ONLY      WILLIAMS A
+  1    38  SW   7001         4  HUM BEH/SOC ENV I      3.0  TBA                                     LSU ONLINE       NORWOOD R
+ 15    30  SW   7002         1  HUM BEH/SOC ENV II     3.0  TBA                                     100% WEB BASED   JACKSON R
+  4    34  SW   7004         1  HUM DIVERS & OPPRESS   3.0  TBA                                     MAJORS ONLY      CHURCH W
+(F)    38  SW   7004         2  HUM DIVERS & OPPRESS   3.0  TBA                                     100% WEB BASED   BAILEY J
+  5    33  SW   7004         3  HUM DIVERS & OPPRESS   3.0  TBA                                     LSU ONLINE       HUNTER D
+  3    35  SW   7004         4  HUM DIVERS & OPPRESS   3.0  TBA                                     LSU ONLINE       MALONE M
+  4    34  SW   7004         5  HUM DIVERS & OPPRESS   3.0  TBA                                     MAJORS ONLY      MALONE M
+  6    94  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     LSU ONLINE       LILLEY T
+ 54    31  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     MAJORS ONLY      LILLEY T
+(F)    48  SW   7404         1  SW PRACT IN SCHOOLS    3.0  TBA                                     MAJORS ONLY      CONRAD B
+ 11    34  SW   7412         1  SW IN MEDICAL CARE     3.0  TBA                                     MAJORS ONLY      REYNOLDS J
+(F)    48  SW   7415         1  CHILD/FAMILY I         3.0  TBA                                     LSU ONLINE       NORWOOD R
+  8   117  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     100% WEB BASED   LILLEY T
+ 84    15  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      LILLEY T
+(F)    36  SW   7505         1  ADV DIRECT PRACTICE    3.0  TBA                                     LSU ONLINE       MCILWAIN L
+  1    35  SW   7505         2  ADV DIRECT PRACTICE    3.0  TBA                                     LSU ONLINE       MCILWAIN L
+(F)    38  SW   7505         3  ADV DIRECT PRACTICE    3.0  TBA                                     MAJORS ONLY      MCILWAIN L
+(F)    36  SW   7505         4  ADV DIRECT PRACTICE    3.0  TBA                                     LSU ONLINE       CONRAD B
+  1    35  SW   7505         5  ADV DIRECT PRACTICE    3.0  TBA                                     LSU ONLINE       NORWOOD R
+(F)    45  SW   7801         1  FAMILY VIOLENCE        3.0  TBA                                     LSU ONLINE       BARTHELEMY J

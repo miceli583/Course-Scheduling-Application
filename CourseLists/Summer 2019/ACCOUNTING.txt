@@ -1,0 +1,14 @@
+ 28    32  ACCT 3001         1  INTERMEDIATE ACCT I    3.0  1210-0240   MT     1735 BUS ED N WING                    HOLMES J
+ 95     5  ACCT 4231 CLI     1  INTERNSHIP IN ACCT     3.0  TBA                                     PERMIS OF INST   CHENIER J
+  3    47  ACCT 4233         1  CASE STUD AUDITING     3.0  TBA                                                      SUMNERS G
+ 48     2  ACCT 4233         2  CASE STUD AUDITING     3.0  TBA                                                      SUMNERS G
+108    32  ACCT 4333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   LAFLEUR L
+ 90    10  ACCT 7231 CLI     1  INTRNSHIP IN ACCT      3.0  TBA                                     PERMIS OF INST   MOFFITT J
+ 27    23  ACCT 7232         1  CASE STUD INT AUDIT    3.0  TBA                                                      SUMNERS G
+ 83    17  ACCT 7333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   SUMNERS G
+ 96     3  ACCT 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      REICHELT K
+ 99        ACCT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      REICHELT K
+ 99        ACCT 9000 RES     2  DISSERTATION RES       1-12 TBA
+(F)    60  ACCT 2001         1  INTR FINANCIAL ACCT    3.0  1240-0310   MT TH  1835 BUS ED N WING                    LAZERSON D
+ 22    98  ACCT 2101         1  INTRO MANAGERIAL ACC   3.0  1240-0310   MT TH  1125 BUS ED S WING                    BOUCREE C
+  4     1  ACCT 7900 RES     1  INDIV STUDY ACCT       3.0  TBA

@@ -1,0 +1,14 @@
+ 10        DMAE 7110 LAB     1  PRIN PROD WORKSHOP     3.0   400-0650   M W
+  7     3  DMAE 7120         1  DESN, RP & INNOV       4.0   830-1120    T  F                                        AUBANEL M
+                     LAB                                    TBA                                                      AUBANEL M
+  7     3  DMAE 7150 LAB     1  PRODUCTION TEAM I      3.0   300-0550    T TH                                        BURKLEY A
+  8     2  DMAE 7155         1  ADV PROG & ART I       5.0   900-1150   M                                            DOLEJSI M
+                     LAB                                     100-0350     W                                          DOLEJSI M
+  6     1  DMAE 7155         3  ADV PROG & ART I       5.0   900-1150   M                                            AUBANEL M
+                     LAB                                     900-1150     W                                          AUBANEL M
+  6     4  DMAE 7250 LAB     1  PRODUCTION TEAM II     3.0   100-0350       F                                        WESLEY K
+  7     3  DMAE 7255         1  ADV PROG & ART II      5.0  1200-0250    T                                           BURKLEY A
+                     LAB                                     900-1150      TH                                        BURKLEY A
+  9     1  DMAE 7255         2  ADV PROG & ART II      5.0   100-0350    T                                           AUBANEL M
+                     LAB                                     300-0550      TH                                        AUBANEL M
+  8     2  DMAE 7270 LAB     1  CAPSTONE PROJ TEAM     6.0   100-0350   M   F                                        WESLEY K

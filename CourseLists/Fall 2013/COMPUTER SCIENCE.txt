@@ -1,0 +1,58 @@
+  1    39  CSC  1100         1  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    0102 TUREAUD HALL                     PETERSON B
+                     LAB                                    1030-1220       F  3136 PATRICK TAYLOR                   GANGULY A
+  6    10  CSC  1100         5  COMPUTERS IN SOCIETY   3.0  1130-1220   M W    0102 TUREAUD HALL                     PETERSON B
+                     LAB                                     230-0420     W    0168 COATES                           PETERSON B
+(F)    45  CSC  1200         1  ETHICS IN COMPUTING    1.0  1230-0120     W    3140 PATRICK TAYLOR  CI-WRITTEN       BUSCH K
+  1    44  CSC  1200         2  ETHICS IN COMPUTING    1.0   230-0320     W    3140 PATRICK TAYLOR  CI-WRITTEN       BUSCH K
+ 24    66  CSC  1240         1  STATS & GRAPH MATLB    3.0  1230-0120   M W    0103 TUREAUD HALL                     BRENER N
+                     LAB                                    1230-0220       F  0232 MIDDLETON                        BRENER N
+  8    81  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  0214 WILLIAMS                         SHARMA G
+ 16    73  CSC  1253         2  COMP SCI WITH C++      3.0  1200-0120    T TH  0214 WILLIAMS                         DUNCAN W
+  4    31  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1030-1150    T TH  2148 PATRICK TAYLOR                   KAISER H
+ 46    10  CSC  1254         2  COMP SCI 11 WITH C++   3.0  1200-0120    T TH  2146 PATRICK TAYLOR  CI-WRITTEN&TECH  DOUGLAS C
+  1    47  CSC  1350         1  COMP SCI I-MJRS        4.0   930-1020   M W F  1110 PATRICK TAYLOR                   DUNCAN W
+                     LAB                                    1230-0320   M      3136 PATRICK TAYLOR                   BRENER N
+(F)    55  CSC  1350         2  COMP SCI I-MJRS        4.0  1030-1120   M W F  2142 PATRICK TAYLOR                   DUNCAN W
+                     LAB                                     330-0620   M      1105 PATRICK TAYLOR                   BRENER N
+ 21    35  CSC  1351         1  COMP SCI II-MJRS       4.0   130-0250    T TH  2146 PATRICK TAYLOR                   BRENER N
+                     LAB                                     300-0550      TH  1105 PATRICK TAYLOR                   BRENER N
+ 12    38  CSC  2259         1  DISCRETE STRUCTURES    3.0  1030-1150    T TH  1110 PATRICK TAYLOR                   ZHANG J
+ 11     9  CSC  2700         2  CMPUTATNL SCI 3HR CR   1-3   130-0250    T TH  3141 PATRICK TAYLOR                   TRAXLER K
+  7    13  CSC  2700         1  CMPTVE PRGMG 1HR CR    1-3   600-0750N   T     2146 PATRICK TAYLOR                   TRAXLER I
+  1    76  CSC  3102         1  ADV DATA STRUCTURES    3.0  1200-0120    T TH  2162 PATRICK TAYLOR                   SHAH R
+  4    50  CSC  4101         1  PROG LANGUAGES         3.0  1030-1150    T TH  2170 PATRICK TAYLOR                   BAUMGARTNER G
+ 18    32  CSC  4103         1  OPERATING SYSTEMS      3.0   130-0250    T TH  1111 PATRICK TAYLOR                   ULLMER B
+  7    38  CSC  4330         1  SOFTWARE SYST DEVEL    3.0   500-0750N  M      0155 COATES                           MUKHOPADHYAY
+ 15    15  CSC  4356         1  INTER COMP GRPHCS      3.0   900-1020    T TH  2142 PATRICK TAYLOR                   KOOIMA R
+  1    59  CSC  4402         1  INTR DATABSE MGT SYS   3.0  1200-0120    T TH  0109 TUREAUD HALL                     CHEN J
+  5    20  CSC  4444         1  ARTIFICIAL INTELLIG    3.0   330-0450   M W    3129 PATRICK TAYLOR                   CHEN J
+ 25    15  CSC  4501         2  COMPUTER NETWORKS      3.0  1030-1150   M W    1118 PATRICK TAYLOR                   PARK S
+ 14    11  CSC  4700         1  MULTI-CORE PROGRAMNG   3.0   500-0750N   T     3131 PATRICK TAYLOR                   BRANDT S
+  2    28  CSC  4890         1  INTR THEORY COMPUTAT   3.0   300-0420    T TH  0101 TUREAUD HALL                     TRIANTAPHYLLO
+  6    19  CSC  7103         1  ADV OPERATING SYSTMS   3.0  1030-1150    T TH  3141 PATRICK TAYLOR                   KANNAN R
+ 20     5  CSC  7150         1  PRGM-ANLYS & MODL-CH   3.0   500-0750N    W    0100 TUREAUD HALL                     MUKHOPADHYAY
+  7    24  CSC  7300         1  ALGORTHM DSGN & ANLY   3.0   500-0750N  M      3129 PATRICK TAYLOR                   SHAH R
+  8     6  CSC  7481 SEM     1  INFO RETRVL SYSTEMS    3.0   230-0520   M      0205 COATES                           WU Y
+ 13     7  CSC  7700         1  SCIENTIFIC COMPUTING   3.0   830-1120       F  0101 TUREAUD HALL                     BRANDT S
+  7     8  CSC  7700         2  COMPUTATIONL BIOLOGY   3.0   900-1150       F                                        PARK S
+  6    14  CSC  7800 SEM     1  CSC RESEARCH SEMINAR   1.0   330-0420     W    3131 PATRICK TAYLOR                   KUNDU S
+ 98     1  CSC  7999 RES     2  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 98     1  CSC  7999 RES    12  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 98     1  CSC  7999 RES    13  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   PARK S
+ 98     1  CSC  7999 RES    22  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   LI X
+ 98     1  CSC  7999 RES    28  SEL READINGS IN CSC    1-3  TBA                                                      CHEN J
+ 97     2  CSC  9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 97     2  CSC  9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BUSCH K
+ 96     3  CSC  9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN J
+ 97     2  CSC  9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KARKI B
+ 98     1  CSC  9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KOOIMA R
+ 97     2  CSC  9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KUNDU S
+ 94     5  CSC  9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 96     3  CSC  9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PARK S
+ 96     3  CSC  9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SHAH R
+ 98     1  CSC  9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 98     1  CSC  9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ZHANG J
+ 97     2  CSC  9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KAISER H
+ 97     2  CSC  9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WHALEY R
+ 98     1  CSC  9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LI X
+ 97     2  CSC  9000 RES    25  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BRANDT S

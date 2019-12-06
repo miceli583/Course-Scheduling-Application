@@ -1,0 +1,11 @@
+  2    30  LATN 1001         1  ELEMENTARY LATIN       4.0   740-0830   MTWTH  0135 LOCKETT                          CRAIG B
+  6    26  LATN 1001         2  ELEMENTARY LATIN       4.0   840-0930   MTWTH  0324 HODGES HALL                      KATCHMER M
+  6    26  LATN 1001         3  ELEMENTARY LATIN       4.0  1140-1230   MTWTH  0135 LOCKETT                          FLETCHER K
+  6    26  LATN 1001         4  ELEMENTARY LATIN       4.0  1240-0130   MTWTH  0136 LOCKETT                          KATCHMER M
+  5    20  LATN 2051         1  INTERMEDIATE LATIN     4.0  1040-1130   MTWTH  0218 STUBBS                           KATCHMER M
+  5    19  LATN 2051         2  INTERMEDIATE LATIN     4.0  1140-1230   MTWTH  0015 ATKINSON                         WATANABE A
+  4    22  LATN 2051         3  INTERMEDIATE LATIN     4.0  1240-0130   MTWTH  0015 ATKINSON                         WATANABE A
+  3    25  LATN 2053         1  INTERMEDIATE LATIN     3.0  1240-0130   M W F  0424 HODGES HALL                      WARGA R
+  6    22  LATN 2053         2  INTERMEDIATE LATIN     3.0   240-0330   M W F  0220 STUBBS                           BATINSKI E
+  4    27  LATN 2073         1  ROMAN HISTORIANS       3.0  1240-0130   M W F  0113 LOCKETT                          BATINSKI E
+  9    11  LATN 4004         1  ROMAN COMEDY           3.0   240-0330   M W F  0035 ALLEN                            FLETCHER K

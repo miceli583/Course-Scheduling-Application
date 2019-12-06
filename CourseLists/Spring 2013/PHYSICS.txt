@@ -1,0 +1,173 @@
+(F)   257  PHYS 1100         1  INTRO TO PHYSICS       3.0   130-0250    T TH  0002 LOCKETT                          CHASTAIN R
+ 73   182  PHYS 1100         2  INTRO TO PHYSICS       3.0   300-0420    T TH  0002 LOCKETT                          CHASTAIN R
+ 23    27  PHYS 1202         1  GEN PHYS PHYS MAJORS   4.0  1030-1120   MTW F  0119 NICHOLSON       MAJORS ONLY      BLACKMON J
+  7     5  PHYS 1209 LAB     4  GEN PHYS LAB PHYS M    1.0  1200-0250    T     0006 NICHOLSON       MAJORS ONLY      BROWNE D
+  1    11  PHYS 1209 LAB     5  GEN PHYS LAB PHYS M    1.0   630-0920N    W    0006 NICHOLSON       MAJORS ONLY      BROWNE D
+(F)    12  PHYS 1209 LAB     6  GEN PHYS LAB PHYS M    1.0   630-0920N     TH  0006 NICHOLSON                        BROWNE D
+  1     9  PHYS 2001         3  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+(F)    10  PHYS 2001         4  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+(F)    10  PHYS 2001         5  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+(F)    10  PHYS 2001         6  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+(F)    10  PHYS 2001         7  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  5     5  PHYS 2001         9  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  1     9  PHYS 2001        10  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  9    15  PHYS 2001        11  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  2    22  PHYS 2001        12  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  1     9  PHYS 2001        13  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+(F)    10  PHYS 2001        14  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+(F)    10  PHYS 2001        15  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  7     3  PHYS 2001        16  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  8     2  PHYS 2001        17  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  6     4  PHYS 2001        18  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+(F)    10  PHYS 2001        19  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  4     6  PHYS 2001        20  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+(F)    10  PHYS 2001        21  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  5     5  PHYS 2001        22  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  3     7  PHYS 2001        23  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  8     2  PHYS 2001        24  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+  5     5  PHYS 2001        25  GENERAL PHYSICS        3.0   130-0220   M W F  0130 NICHOLSON                        STACY J
+(F)    14  PHYS 2001        26  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+(F)    14  PHYS 2001        27  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+(F)    14  PHYS 2001        28  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+(F)    14  PHYS 2001        29  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+(F)    14  PHYS 2001        30  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  1    13  PHYS 2001        31  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  4    10  PHYS 2001        32  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+(F)    14  PHYS 2001        33  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  1    13  PHYS 2001        34  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  1    13  PHYS 2001        35  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+(F)    14  PHYS 2001        36  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+(F)    14  PHYS 2001        37  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  1    13  PHYS 2001        38  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  2    12  PHYS 2001        39  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  1    12  PHYS 2001        40  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+(F)    10  PHYS 2001        41  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  2     8  PHYS 2001        42  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  3    11  PHYS 2001        43  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  2    12  PHYS 2001        44  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  3    11  PHYS 2001        45  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+  6     8  PHYS 2001        46  GENERAL PHYSICS        3.0  1030-1150    T TH  0130 NICHOLSON                        SPRUNGER P
+ 80   240  PHYS 2002         1  GENERAL PHYSICS        3.0  1130-1220   M W F  0130 NICHOLSON                        MCELGIN W
+(F)   321  PHYS 2002         2  GENERAL PHYSICS        3.0  1200-0120    T TH  0130 NICHOLSON                        YOUNG D
+  3    78  PHYS 2101         1  GEN PHYS FOR TECH ST   3.0   830-0920   M W F  0109 NICHOLSON                        MCELGIN W
+  1    80  PHYS 2101         2  GEN PHYS FOR TECH ST   3.0  1030-1120   M W F  0109 NICHOLSON                        MCELGIN W
+(F)    81  PHYS 2101         8  GEN PHYS FOR TECH ST   3.0  1130-1220   M W F  0119 NICHOLSON                        BEAIRD R
+(F)    81  PHYS 2101         3  GEN PHYS FOR TECH ST   3.0  1230-0120   M W F  0109 NICHOLSON                        MCELGIN W
+(F)    81  PHYS 2101        10  GEN PHYS FOR TECH ST   3.0   130-0220   M W F  0119 NICHOLSON                        BEAIRD R
+  5    76  PHYS 2101         4  GEN PHYS FOR TECH ST   3.0   900-1020    T TH  0109 NICHOLSON                        RUPNIK D
+  8    73  PHYS 2101         9  GEN PHYS FOR TECH ST   3.0   900-1020    T TH  0119 NICHOLSON                        JIN R
+  1    80  PHYS 2101         5  GEN PHYS FOR TECH ST   3.0  1200-0120    T TH  0109 NICHOLSON                        RUPNIK D
+ 14    67  PHYS 2101         7  GEN PHYS FOR TECH ST   3.0   130-0250    T TH  0109 NICHOLSON                        ZHANG J
+ 16    59  PHYS 2102         1  GEN PHYS FOR TECH ST   3.0   930-1020   M W F  0109 NICHOLSON                        RUPNIK D
+  2    73  PHYS 2102         2  GEN PHYS FOR TECH ST   3.0  1130-1220   M W F  0109 NICHOLSON                        DITUSA J
+(F)    75  PHYS 2102         3  GEN PHYS FOR TECH ST   3.0   130-0220   M W F  0109 NICHOLSON                        RUPNIK D
+ 12    63  PHYS 2102         4  GEN PHYS FOR TECH ST   3.0  1030-1150    T TH  0109 NICHOLSON                        SINGH P
+ 35    40  PHYS 2102         6  GEN PHYS FOR TECH ST   3.0  1200-0120    T TH  0119 NICHOLSON                        TZANOV M
+  3    72  PHYS 2102         5  GEN PHYS FOR TECH ST   3.0   130-0250    T TH  0119 NICHOLSON                        BEAIRD R
+(F)    24  PHYS 2108 LAB     1  LAB WRK TECHN PHYS     1.0   700-0950N  M      0011 NICHOLSON                        PETERSEN N
+(F)    25  PHYS 2108 LAB     2  LAB WRK TECHN PHYS     1.0   900-1150    T     0011 NICHOLSON                        SCHURR R
+  1    23  PHYS 2108 LAB     3  LAB WRK TECHN PHYS     1.0  1200-0250    T     0011 NICHOLSON                        PETERSEN N
+  6    18  PHYS 2108 LAB    18  LAB WRK TECHN PHYS     1.0  1200-0250    T     0010 NICHOLSON                        KHAN M
+(F)    24  PHYS 2108 LAB     4  LAB WRK TECHN PHYS     1.0   300-0550    T     0011 NICHOLSON                        KELLAR S
+(F)    24  PHYS 2108 LAB    19  LAB WRK TECHN PHYS     1.0   300-0550    T     0010 NICHOLSON                        PAN J
+(F)    24  PHYS 2108 LAB     5  LAB WRK TECHN PHYS     1.0   700-0950N   T     0011 NICHOLSON                        KHAN M
+  3    21  PHYS 2108 LAB     6  LAB WRK TECHN PHYS     1.0   830-1120     W    0011 NICHOLSON                        SAGHAYEZHIAN
+  2    22  PHYS 2108 LAB    20  LAB WRK TECHN PHYS     1.0   830-1120     W    0010 NICHOLSON                        PAN J
+(F)    24  PHYS 2108 LAB     7  LAB WRK TECHN PHYS     1.0  1130-0220     W    0011 NICHOLSON                        SAKR N
+(F)    24  PHYS 2108 LAB     8  LAB WRK TECHN PHYS     1.0   230-0520     W    0011 NICHOLSON                        SAGHAYEZHIAN
+(F)    24  PHYS 2108 LAB    21  LAB WRK TECHN PHYS     1.0   230-0520     W    0010 NICHOLSON                        LAUER A
+  1    23  PHYS 2108 LAB     9  LAB WRK TECHN PHYS     1.0   700-0950N    W    0011 NICHOLSON                        KELLAR S
+  1    23  PHYS 2108 LAB    10  LAB WRK TECHN PHYS     1.0   900-1150      TH  0011 NICHOLSON                        SCHURR R
+(F)    24  PHYS 2108 LAB    11  LAB WRK TECHN PHYS     1.0  1200-0250      TH  0011 NICHOLSON                        PETERSEN N
+(F)    24  PHYS 2108 LAB    12  LAB WRK TECHN PHYS     1.0   300-0550      TH  0011 NICHOLSON                        PAN J
+(F)    24  PHYS 2108 LAB    22  LAB WRK TECHN PHYS     1.0   300-0550      TH  0010 NICHOLSON                        SAKR N
+(F)    24  PHYS 2108 LAB    13  LAB WRK TECHN PHYS     1.0   700-0950N     TH  0011 NICHOLSON                        SCHURR R
+(F)    24  PHYS 2108 LAB    14  LAB WRK TECHN PHYS     1.0   830-1120       F  0011 NICHOLSON                        SAGHAYEZHIAN
+(F)    24  PHYS 2108 LAB    15  LAB WRK TECHN PHYS     1.0  1130-0220       F  0011 NICHOLSON                        SAKR N
+  1    23  PHYS 2108 LAB    16  LAB WRK TECHN PHYS     1.0   230-0520       F  0011 NICHOLSON                        KELLAR S
+ 16     8  PHYS 2108 LAB    17  LAB WRK TECHN PHYS     1.0   700-0950N      F  0011 NICHOLSON                        KHAN M
+(F)    24  PHYS 2109 LAB     1  GEN PHYSICS LAB        1.0   230-0520   M      0014 NICHOLSON                        XIAO Z
+(F)    24  PHYS 2109 LAB     2  GEN PHYSICS LAB        1.0   700-0950N  M      0014 NICHOLSON                        CHAFI H
+(F)    24  PHYS 2109 LAB     3  GEN PHYSICS LAB        1.0   900-1150    T     0014 NICHOLSON                        DONAHUE W
+(F)    24  PHYS 2109 LAB     4  GEN PHYSICS LAB        1.0  1200-0250    T     0014 NICHOLSON                        WOODS R
+(F)    24  PHYS 2109 LAB     5  GEN PHYSICS LAB        1.0   300-0550    T     0014 NICHOLSON                        ZHANG W
+(F)    24  PHYS 2109 LAB     6  GEN PHYSICS LAB        1.0   700-0950N   T     0014 NICHOLSON                        DONAHUE W
+(F)    24  PHYS 2109 LAB     7  GEN PHYSICS LAB        1.0   830-1120     W    0014 NICHOLSON                        XIAO Z
+(F)    24  PHYS 2109 LAB     8  GEN PHYSICS LAB        1.0  1130-0220     W    0014 NICHOLSON                        CHAFI H
+(F)    24  PHYS 2109 LAB     9  GEN PHYSICS LAB        1.0   230-0520     W    0014 NICHOLSON                        ABBOTT T
+  1    23  PHYS 2109 LAB    10  GEN PHYSICS LAB        1.0   700-0950N    W    0014 NICHOLSON                        WOODS R
+(F)    24  PHYS 2109 LAB    11  GEN PHYSICS LAB        1.0   900-1150      TH  0014 NICHOLSON                        DONAHUE W
+  1    23  PHYS 2109 LAB    12  GEN PHYSICS LAB        1.0  1200-0250      TH  0014 NICHOLSON                        CHAFI H
+(F)    24  PHYS 2109 LAB    13  GEN PHYSICS LAB        1.0   300-0550      TH  0014 NICHOLSON                        ZHANG W
+(F)    24  PHYS 2109 LAB    14  GEN PHYSICS LAB        1.0   700-0950N     TH  0014 NICHOLSON                        WOODS R
+(F)    24  PHYS 2109 LAB    15  GEN PHYSICS LAB        1.0   830-1120       F  0014 NICHOLSON                        ABDELWAHAB M
+(F)    24  PHYS 2109 LAB    16  GEN PHYSICS LAB        1.0  1130-0220       F  0014 NICHOLSON                        ABBOTT T
+(F)    24  PHYS 2109 LAB    17  GEN PHYSICS LAB        1.0   230-0520       F  0014 NICHOLSON                        ZHANG W
+  9    15  PHYS 2109 LAB    18  GEN PHYSICS LAB        1.0   700-0950N      F  0014 NICHOLSON                        ABBOTT T
+ 13    17  PHYS 2221         2  INTRO TO MECHANICS     3.0  1030-1150    T TH  0106 NICHOLSON                        LEE H
+(F)    16  PHYS 3098         2  INSTRU ELECT FOR SCI   3.0   930-1020    T TH  0118 NICHOLSON                        ADAMS P
+                     LAB                                     130-0420       F  0017 NICHOLSON                        ADAMS P
+ 28     2  PHYS 4005         1  RESEARCH METHODS       3.0  1030-1220   M      0205 PRESCOTT        PERMIS OF DEPT   WISCHUSEN E
+                     LAB                                    1030-1220     W    0205 PRESCOTT                         WISCHUSEN E
+  2    28  PHYS 4125         2  THERMODY STAT MECH     3.0   430-0550N  M W    0119 NICHOLSON                        SHEEHY D
+  6    14  PHYS 4132         1  ELECTROMAGNETISM E W   3.0   930-1020   M W F  0118 NICHOLSON                        GAARDE M
+  4    16  PHYS 4141         1  INTR QUANTUM MECH      3.0  1230-0120   M W F  0118 NICHOLSON                        DOWLING J
+  9    16  PHYS 4271         1  SUBATOMIC PHYSICS      3.0  1200-0120    T TH  0118 NICHOLSON                        MATTHEWS J
+  7     3  PHYS 4399 RES     1  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT   DITUSA J
+  9     1  PHYS 4399 RES     2  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT   YOUNG D
+  8     2  PHYS 4399 RES     3  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT   STADLER S
+  9     1  PHYS 4399 RES     4  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT   ADAMS P
+  9     1  PHYS 4399 RES     5  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT   ZHANG J
+ 10        PHYS 4399 RES     6  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT
+ 10        PHYS 4399 RES     7  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT
+  9     1  PHYS 4399 RES     8  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT   JIN R
+  9     1  PHYS 4399 RES     9  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT   BLACKMON J
+  9     1  PHYS 4399 RES    10  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT   DOWLING J
+  9     1  PHYS 4399 RES    11  SENIOR THESIS          3.0  TBA                                     PERMIS OF DEPT   CORBITT T
+  6     9  PHYS 4991 RES     1  SPEC PROB IN PHYS      1-3  TBA                                                      BROWNE D
+  6    14  PHYS 7231         1  CLASSICAL ELECTRODYN   3.0  1030-1120   M W F  0106 NICHOLSON                        CORBITT T
+  2    18  PHYS 7242         1  QUANTUM MECHANICS      3.0   900-1020    T TH  0106 NICHOLSON                        O'CONNELL R
+  7    13  PHYS 7354         2  ATOM/OPTICAL PHYS II   3.0  1130-1220   M W F  0118 NICHOLSON                        SCHAFER K
+  6     9  PHYS 7364         1  CONDENS MATTR PHYSIC   3.0  1030-1150    T TH                                        VEKHTER I
+  1     9  PHYS 7398 LAB     1  GRADUATE LABORATORY    3.0   130-0420     W F  0365 NICHOLSON                        STADLER S
+ 13     7  PHYS 7411         1  COMPUTATIONAL PHYSIC   3.0   830-0920   M W F                                        MORENO J
+ 17     3  PHYS 7752         1  GALACTIC ASTROPHYSIC   3.0   930-1020   M W F  0106 NICHOLSON                        FRANK J
+ 17     3  PHYS 7777 SEM     1  SEM: ASTR & ASTROPHY   1-6  1200-1250    T     0262 NICHOLSON                        FRANK J
+ 13     7  PHYS 7777 SEM     5  SEM: ASTR & ASTROPHY   1-6   400-0450    T     0106 NICHOLSON                        PULLIN J
+ 16     4  PHYS 7777 SEM     3  SEM: ASTR & ASTROPHY   1-6   200-0250      TH  0262 NICHOLSON                        MORENO J
+ 14     6  PHYS 7777 SEM     2  SEM: ASTR & ASTROPHY   1-6  TBA                                                      GONZALEZ G
+  5    20  PHYS 7857 SEM     1  GRAD STUDENT SEMINAR   1.0  1230-0120       F  0106 NICHOLSON                        BROWNE D
+  7     3  PHYS 7895         3  SELECT TOPIC IN PHYS   3.0   900-1020    T TH                                        JARRELL M
+  9     1  PHYS 7895         2  SELECT TOPIC IN PHYS   3.0  TBA                                     PERMIS OF DEPT   VEKHTER I
+  4     1  PHYS 7996         1  IND RES IN PHYSICS     3.0  TBA                                     PERMIS OF DEPT   DOWLING J
+  9     1  PHYS 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CHERRY M
+  9     1  PHYS 9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ADAMS P
+  7     3  PHYS 9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BLACKMON J
+  9     1  PHYS 9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BROWNE D
+  6     4  PHYS 9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHERRY M
+  8     2  PHYS 9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CLAYTON J
+  7     3  PHYS 9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CORBITT T
+  8     2  PHYS 9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DEIBEL C
+ 10        PHYS 9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DIENER P
+  8     2  PHYS 9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DITUSA J
+  5     5  PHYS 9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DOWLING J
+  9     1  PHYS 9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+  9     1  PHYS 9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GIAIME J
+  8     2  PHYS 9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GONZALEZ G
+ 10        PHYS 9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   HOGSTROM K
+  9     1  PHYS 9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   HYNES R
+  3     7  PHYS 9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   JARRELL M
+  8     2  PHYS 9000 RES    17  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   JIN R
+  8     2  PHYS 9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MATTHEWS J
+  9     1  PHYS 9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MATTHEWS K
+  8     2  PHYS 9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MORENO J
+  6     4  PHYS 9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PLUMMER E
+  9     1  PHYS 9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SHEEHY D
+  9     1  PHYS 9000 RES    23  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SINGH P
+  7     3  PHYS 9000 RES    24  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SPRUNGER P
+  9     1  PHYS 9000 RES    25  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   STADLER S
+  9     1  PHYS 9000 RES    26  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   TOHLINE J
+ 10        PHYS 9000 RES    27  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   YOUNG D
+  6     4  PHYS 9000 RES    28  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ZHANG J
+  9     1  PHYS 9000 RES    29  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SCHAFER K
+  9     1  PHYS 9000 RES    30  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GAARDE M

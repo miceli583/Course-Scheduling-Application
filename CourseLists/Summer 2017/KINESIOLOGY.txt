@@ -1,0 +1,57 @@
+ 10    10  KIN  1125 LAB     1  BEGIN GOLF             1.0  0730-0830   MTWTF                                        AISNER T
+  7    13  KIN  1125 LAB     2  BEGIN GOLF             1.0  0840-0940   MTWTF                                        AISNER T
+ 22     8  KIN  1144 LAB     1  BEGIN AEROBIC DANCE    1.0  0840-0940   MTWTF  0120 LONG FIELDHOUSE                  SUTHERLAND N
+  1    22  KIN  1146 LAB     1  BEGIN WEIGHT TRAIN     1.0  0950-1050   MTWTF                                        ACHARYA P
+  5    18  KIN  1146 LAB     2  BEGIN WEIGHT TRAIN     1.0  1100-1200   MTWTF                                        ACHARYA P
+ 15    10  KIN  1155 LAB     2  BEGIN JOGGING          1.0  0840-0940   MTWTF                                        KANG S
+ 22    28  KIN  1600         2  INDIV WELL & PUB HEA   3.0  0950-1050   MTWTF  0108 LONG FIELDHOUSE                  FISHER A
+  3    92  KIN  1600         1  INDIV WELL & PUB HEA   3.0  TBA                                     100% WEB BASED   DAILEY D
+  4    26  KIN  1999 LAB     1  YOGA                   1.0  1100-1200   MTWTF  0120 LONG FIELDHOUSE                  SUTHERLAND N
+  3    27  KIN  1999 LAB     2  YOGA                   1.0  1210-0110   MTWTF  0120 LONG FIELDHOUSE                  SUTHERLAND N
+  9    76  KIN  2500         2  HUMAN ANATOMY          3.0  0950-1050   MTWTF  0228 COATES                           JACKSON M
+ 18    22  KIN  2513         1  PROF DEVEL SPORT ADM   3.0  0840-0940   MTWTF  0001 HATCHER HALL                     ENGEMANN E
+  7    48  KIN  2530         1  SPORT IN SOCIETY       3.0  TBA                                     75-99% WEB BASE  SVENSSON P
+ 18    32  KIN  2604         1  MENTAL HEALTH ISSUES   3.0  1100-1200   MTWTF  0108 LONG FIELDHOUSE                  FISHER A
+  6     4  KIN  2999 CLI     1  INTERN REC & SPORT     3.0  TBA                                                      JACOBSEN D
+ 28    22  KIN  3500 LAB     1  HUMAN ANATOMY LAB      1.0  TBA                                     100% WEB BASED   SCOTT M
+ 24     6  KIN  3513         1  INTR MOTOR LEARNING    3.0   120-0220   MTWTF  0108 LONG FIELDHOUSE                  VAN GEMMERT A
+ 25    30  KIN  3800         1  ETHIC/LGL ISS SPORT    3.0  TBA                                     75-99% WEB BASE  AGYEMANG K
+  9    26  KIN  3801         1  SPRT STRATEGY & PLAN   3.0  TBA                                     75-99% WEB BASE  BARNHILL C
+  7    18  KIN  3802         1  PROGRAM & EVENT MGT    3.0  TBA                                     75-99% WEB BASE  DOWNS B
+ 13    32  KIN  3804         1  FIN ISSUES IN SPORT    3.0  TBA                                     75-99% WEB BASE  BARNHILL C
+ 10        KIN  4505 CLI     1  PRACT HMN MVMNT SCI    3.0  TBA                                                      BENSON A
+  4     3  KIN  4505 CLI     2  PRACT HMN MVMNT SCI    3.0  TBA                                                      BENSON A
+  1     5  KIN  4505 CLI     3  PRACT HMN MVMNT SCI    3.0  TBA                                                      BENSON A
+(F)     2  KIN  4505 CLI     4  PRACT HMN MVMNT SCI    3.0  TBA                                                      BENSON A
+ 12     8  KIN  4509         1  SPORTS SUPPLEMENTS     3.0  TBA                                     100% WEB BASED   NELSON A
+ 24    26  KIN  4517         1  SPORTS ADMINISTRATIO   3.0  TBA                                     75-99% WEB BASE  SVENSSON P
+ 24    16  KIN  4518         1  GOV & POLICY IN SPRT   3.0  TBA                                     75-99% WEB BASE  AGYEMANG K
+(F)    27  KIN  4519         1  CADAVER DISSECTION     3.0  1010-1210   M W                                          LANDIN D
+                     LAB                                    TBA                                                      LANDIN D
+(F)    23  KIN  4519         2  CADAVER DISSECTION     3.0  1220-0220   M W                                          LANDIN D
+                     LAB                                    TBA                                                      LANDIN D
+ 14    56  KIN  4520         1  PSYCHOSOC & PHYS ACT   3.0  TBA                                     75-99% WEB BASE  GARN A
+  2    23  KIN  4530         1  ESS SPRT PERF TRAIN    3.0   310-0520    TW                         50-74% WEB BASE  JOHNSON L
+ 12    13  KIN  4538 LAB     1  PRACT IN APPLD FIT     6.0  TBA                                                      JOHNSON L
+ 27    53  KIN  4835 CLI     1  PRACT SPT LEI ADMIN    6.0  TBA                                                      JACOBSEN D
+(F)     1  KIN  4835 CLI   199  PRACT SPT LEI ADMIN    6.0  TBA                                                      JACOBSEN D
+ 10    10  KIN  4900 RES     1  INDEPENDENT STUDY      1-3  TBA                                                      SOLMON M
+  4     1  KIN  4900 RES     2  INDEPENDENT STUDY      1-3  TBA                                                      JACOBSEN D
+ 19     1  KIN  7500 CLI     1  PRACT SPORT MGMT       3-9  TBA                                                      JACOBSEN D
+  8    12  KIN  7505         1  PROB IN KIN            3.0  TBA                                                      SOLMON M
+  3     2  KIN  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      SOLMON M
+  1     4  KIN  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      SOLMON M
+ 18    52  KIN  2500         1  HUMAN ANATOMY          3.0  1100-1230   MTWTF  E134 HOWE RUSSELL E                   HARGRODER W
+ 15    25  KIN  2509         1  MED TERM FOR KINESIO   3.0  TBA                                     75-99% WEB BASE  CASTLE R
+  2    30  KIN  2509         2  MED TERM FOR KINESIO   3.0  TBA                                     75-99% WEB BASE  JACKSON M
+  2    28  KIN  2577         1  H&PE FOR ELEM SCHOOL   3.0  0910-1040   MTWTF  0155 LONG FIELDHOUSE                  MCKEY K
+                     LAB                                    0910-1040   MTWTF                                        MCKEY K
+ 10    30  KIN  2600         1  HUMAN SEXUALITY        3.0  TBA                                     75-99% WEB BASE  BENSON A
+ 32     8  KIN  3507         1  OLYMPIC GMS ANC/MOD    3.0  0910-1040   MTWTF  0151 LONG FIELDHOUSE                  SEIFRIED C
+ 29    16  KIN  3514         1  BIOMECHAN BASIS KIN    3.0  0910-1040   MTWTF  0244 LOCKETT                          MACLELLAN M
+ 23    27  KIN  3515         1  PHYS BAS PHYSCL ACTV   3.0  1240-0210   MTWTF  0155 LONG FIELDHOUSE                  IRVING B
+  2    28  KIN  3534         1  SCI BASIS EXERCISE     3.0  1240-0140   MTWTF  0244 LOCKETT                          JOHANNSEN N
+                     LAB                                     145-0300   MTWTF  0244 LOCKETT                          SCOTT M
+ 24    16  KIN  4512         1  LIFSPAN MOTR DEVELOP   3.0  0730-0900   MTWTF  0108 LONG FIELDHOUSE                  WINGES S
+ 26    24  KIN  4513         1  FACILITIES MGT         3.0  1100-1230   MTWTF  0151 LONG FIELDHOUSE                  SEIFRIED C
+ 14    26  KIN  4571         1  NEUROMTR CON HUM MVT   3.0  1100-1230   MTWTF  0155 LONG FIELDHOUSE                  HONDZINSKI J

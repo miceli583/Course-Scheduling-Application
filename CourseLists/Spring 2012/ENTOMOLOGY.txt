@@ -1,0 +1,27 @@
+ 15     9  ENTM 4006         1  FUND APLD ENTOMOLOGY   3.0   840-0930   M   F  0110 LIFE SCIENCES                    REAGAN T
+                     LAB                                     240-0430       F  0110 LIFE SCIENCES                    REAGAN T
+  3     2  ENTM 4015         1  CONSERVATION BIOLOGY   4.0   140-0300    T TH  0200 TUREAUD HALL                     PLATT W
+  3     2  ENTM 4015         2  CONSERVATION BIOLOGY   4.0   140-0300    T TH  0200 TUREAUD HALL                     PLATT W
+  5    10  ENTM 4040         1  INSECT ECOLOGY         3.0  1210-0130    T TH                                        HOOPER-BUI L
+  3     2  ENTM 4099 RES     1  UNDERGR ENTM RESEARC   1-3  TBA                                                      LEONARD B
+ 22     3  ENTM 4099 RES     2  UNDERGR ENTM RESEARC   1-3  TBA                                                      HOOPER-BUI L
+ 11     4  ENTM 7007 SEM     2  SEMINAR ENTOMOLOGY     1.0   210-0300       F                                        CARLTON C
+(F)    10  ENTM 7008 RES     1  PLANT DEFENSE          1-3  TBA                                                      STOUT M
+  4     1  ENTM 7008 RES     3  EPA INSECT WORK        1-3  TBA                                                      REAGAN T
+  4     1  ENTM 7010 CLI     1  TEACHING PRACTICUM     1-3  TBA                                                      OTTEA J
+ 98     1  ENTM 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      DAVIS J
+ 98     1  ENTM 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      FOIL L
+ 97     2  ENTM 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HUSSENEDER C
+ 98     1  ENTM 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      HENDERSON G
+ 98     1  ENTM 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      HOOPER-BUI L
+ 97     2  ENTM 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      HUANG F
+ 98     1  ENTM 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      OTTEA J
+ 98     1  ENTM 8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      STOUT M
+ 98     1  ENTM 8900 RES     1  RESEARCH PROBLEMS      1-4  TBA                                                      CARLTON C
+ 98     1  ENTM 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      CARLTON C
+ 98     1  ENTM 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      DAVIS J
+ 98     1  ENTM 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      HOOPER-BUI L
+ 98     1  ENTM 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      HUANG F
+ 98     1  ENTM 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      HUMMEL N
+ 98     1  ENTM 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      REAGAN T
+ 97     2  ENTM 9000 RES    20  DISSERTATION RES       1-12 TBA                                                      STOUT M

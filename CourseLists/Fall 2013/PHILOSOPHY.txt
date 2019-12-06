@@ -1,0 +1,32 @@
+  2    53  PHIL 1000         1  INTRO TO PHILOSOPHY    3.0  1030-1120   M W F  0209 COATES                           BLAKLEY C
+ 11    44  PHIL 1000         2  INTRO TO PHILOSOPHY    3.0  1130-1220   M W F  0220 STUBBS                           HEBERT N
+  6    49  PHIL 1000         3  INTRO TO PHILOSOPHY    3.0  1230-0120   M W F  0220 STUBBS                           BLAKLEY C
+  3    52  PHIL 1000         4  INTRO TO PHILOSOPHY    3.0  1230-0120   M W F  0109 TUREAUD HALL                     PARSONS R
+  9    46  PHIL 1000         5  INTRO TO PHILOSOPHY    3.0   230-0320   M W F  0116 STUBBS                           HEBERT N
+  3    55  PHIL 1000         6  INTRO TO PHILOSOPHY    3.0   900-1020    T TH  0132 PRESCOTT                         ALTAMIRANO M
+  4    51  PHIL 1000         7  INTRO TO PHILOSOPHY    3.0   300-0550    T     0145 COATES                           ROCHA O
+  5    16  PHIL 1001         1  HNRS: INTRO TO PHIL    3.0   300-0420   M W    0218 STUBBS                           SIRRIDGE M
+  4    51  PHIL 1021         1  INTRO TO LOGIC         3.0   930-1020   M W F  0209 COATES                           BLAKLEY C
+  7    51  PHIL 1021         2  INTRO TO LOGIC         3.0  1030-1150    T TH  0228 COATES                           BLAKLEY C
+  4    46  PHIL 2010         1  SYMBOLIC LOGIC I       3.0  1230-0120   M W F  0214 COATES                           COGBURN J
+  2    58  PHIL 2020         1  ETHICS                 3.0  1200-0120    T TH  0132 PRESCOTT                         ALTAMIRANO M
+  2    53  PHIL 2020         2  ETHICS                 3.0   300-0420    T TH  0132 PRESCOTT                         ALTAMIRANO M
+  9    46  PHIL 2020         3  ETHICS                 3.0   430-0550N   T TH  0132 PRESCOTT                         ALTAMIRANO M
+ 20    35  PHIL 2023         1  PHILOSOPHY OF ART      3.0   130-0220   M W F  0220 STUBBS                           HEBERT N
+  1    54  PHIL 2025         1  BIO-ETHICS             3.0   600-0850N  M      0220 STUBBS                           ROLFSEN M
+  6    49  PHIL 2033         1  HIST ANCIENT-MED PH    3.0  1030-1120   M W F  0109 TUREAUD HALL                     SIRRIDGE M
+  9     6  PHIL 2034         1  HON-TU IN AN & MD PH   1.0  1130-1220   M      0120 PRESCOTT                         SIRRIDGE M
+  3    25  PHIL 4914         1  PHIL OF LANGUAGE       3.0   930-1020   M W F  0214 COATES                           COGBURN J
+ 14    16  PHIL 4922         1  PLATO                  3.0   330-0420   M W F  0103 COATES                           PARSONS R
+ 14    11  PHIL 4943         1  PROB ETHICAL THEORY    3.0   300-0420    T TH  0144 COATES                           SARKAR H
+  3    27  PHIL 4945         1  PROB POLI PHILOSOPHY   3.0   130-0250    T TH  0234 COATES                           ROCHA O
+  9     1  PHIL 4991 RES     1  INDEP READ & RESEARC   1-3  TBA                                     PERMIS OF DEPT   COGBURN J
+  8     2  PHIL 4991 RES     3  INDEP READ & RESEARC   1-3  TBA                                     PERMIS OF DEPT   ROCHA O
+  9     1  PHIL 4991 RES     5  INDEP READ & RESEARC   1-3  TBA                                     PERMIS OF DEPT   SCHUFREIDER G
+  8     2  PHIL 4991 RES     6  INDEP READ & RESEARC   1-3  TBA                                     PERMIS OF DEPT   SIRRIDGE M
+  7    13  PHIL 7903 SEM     1  SEM CONTINENTAL PHIL   3.0  1200-0120    T TH  0116 COATES                           SCHUFREIDER G
+  9     1  PHIL 7991 RES     3  INDEP READNG & RESCH   1-6  TBA                                     PERMIS OF DEPT   ROCHA O
+  9     1  PHIL 7991 RES     4  INDEP READNG & RESCH   1-6  TBA                                     PERMIS OF DEPT   SARKAR H
+  9     1  PHIL 7991 RES     6  INDEP READNG & RESCH   1-6  TBA                                     PERMIS OF DEPT   SIRRIDGE M
+  8     2  PHIL 8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SCHUFREIDER G
+  9     1  PHIL 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      PROTEVI J

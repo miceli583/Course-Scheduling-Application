@@ -1,0 +1,23 @@
+  2     8  VCS  7001 SEM     1  SM: VET CLIN SCIENCE   1.0  TBA                                                      MITCHELL C
+  9     1  VCS  7001 SEM     2  SM: VET CLIN SCIENCE   1.0  TBA                                                      MITCHELL C
+  9     1  VCS  7001 SEM     3  SM: VET CLIN SCIENCE   1.0  TBA                                                      MITCHELL C
+  4     1  VCS  7002 RES     1  RES TECH VET CLIN SC   1-4  TBA                                                      RIGGS L
+ 10        VCS  7003         1  SPEC TOP VET CLIN SC   1-4  TBA                                                      LAUER S
+ 10        VCS  7003         2  SPEC TOP VET CLIN SC   1-4  TBA                                                      BURBA D
+ 10        VCS  7003         3  SPEC TOP VET CLIN SC   1-4  TBA                                                      MCCONNICO R
+ 10        VCS  7003         4  SPEC TOP VET CLIN SC   1-4  TBA                                                      EILTS B
+  9     1  VCS  7003         5  SPEC TOP VET CLIN SC   1-4  TBA                                                      TULLY T
+  9     1  VCS  7003         6  SPEC TOP VET CLIN SC   1-4  TBA                                                      RIGGS L
+ 10        VCS  7003         7  SPEC TOP VET CLIN SC   1-4  TBA                                                      LOPEZ M
+  8     2  VCS  7201         1  VET GASTROENTEROLOGY   2.0  TBA                                                      HEDLUND C
+  7     3  VCS  7201         2  VET GASTROENTEROLOGY   2.0  TBA                                                      MCCAULEY C
+  8     2  VCS  7202 LAB     1  VET SURGICAL TECHN     1.0  TBA                                                      HEDLUND C
+  9     1  VCS  7202 LAB     2  VET SURGICAL TECHN     1.0  TBA                                                      MCCAULEY C
+  8        VCS  7210         1  VET SCI JOURNAL REV    1.0  TBA                                                      LAUER S
+  8        VCS  7210         2  VET SCI JOURNAL REV    1.0  TBA                                                      MITCHELL C
+  8        VCS  7210         3  VET SCI JOURNAL REV    1.0  TBA                                                      EDDLESTONE S
+  6     2  VCS  7210         4  VET SCI JOURNAL REV    1.0  TBA                                                      EILTS B
+  7     1  VCS  7210         5  VET SCI JOURNAL REV    1.0  TBA                                                      SOD G
+  7     1  VCS  7210         6  VET SCI JOURNAL REV    1.0  TBA                                                      NEVAREZ J
+  6     2  VCS  7210         7  VET SCI JOURNAL REV    1.0  TBA                                                      LOPEZ M
+  5     1  VCS  7212         1  FRACTURE BIOMECHANIC   3.0  TBA                                                      SOD G

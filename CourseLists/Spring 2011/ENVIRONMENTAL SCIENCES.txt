@@ -1,0 +1,28 @@
+ 13    87  ENVS 1126         1  INT TO ENV SCIENCES    3.0   440-0600N   T TH  E130 HOWE RUSSELL E                   JOHNSON C
+(H)    30  ENVS 1126         4  INT TO ENV SCIENCES    3.0  TBA                                                      BABCOCK S
+  3    17  ENVS 4035         1  AQUATIC POLLUTION      3.0   910-1030    T TH                                        HOU A
+  3    86  ENVS 4101         1  ENVIRON CHEMISTRY      3.0  1040-1130   M W F  0214 WILLIAMS                         PORTIER R
+  7    18  ENVS 4261         1  ENERGY & ENVIRONMENT   3.0   310-0430   M W    0116 TUREAUD HALL    CI-WRITTEN&SPOK  WASCOM M
+  4    36  ENVS 4262         1  ENV HAZARDS ANALYSIS   3.0   310-0430    T TH  0101 TUREAUD HALL                     KENT J
+  5     5  ENVS 4900         1  WATERSHED HYDROLOGY    3.0   140-0300     W                                          XU Y
+                     LAB                                     310-0600     W                                          XU Y
+ 29     6  ENVS 4950         1  SPECIAL TOPICS         1-3  1210-0130    T TH  3129 PATRICK TAYLOR                   WILSON V
+  3    17  ENVS 7040         1  ENVIRON PLAN & MGT     3.0   140-0300    T TH  1280 ENER,COAST,& EN                  REAMS M
+ 21     4  ENVS 7047         1  ENVIRON ECON & POLCY   3.0   610-0730N  M W    0101 TUREAUD HALL                     KEITHLY W
+ 10    10  ENVS 7050         1  SPATIAL MOD ENVR DAT   3.0   140-0430   M      1280 ENER,COAST,& EN                  LAM N
+  8     7  ENVS 7110         2  TOXICLGY AQUATC ENVR   3.0   340-0500   M W                                          PORTIER R
+  5     5  ENVS 7623         1  TOXICOLOGY I           3.0   440-0600N   T TH                                        WILSON V
+ 10    10  ENVS 7700         1  INTEGRATED ENV ISSUE   3.0   610-0730N   T TH  1280 ENER,COAST,& EN                  LAWS E
+  1     1  ENVS 7900 RES     1  SPEC PROB ENV SCI      1-4  TBA                                                      WASCOM M
+  1     1  ENVS 7900 RES     2  SPEC PROB ENV SCI      1-4  TBA                                                      HOU A
+(F)     2  ENVS 7950 SEM     1  METHODS MICROBIOLOGY   1-6  TBA                                                      JOHNSON C
+(F)     1  ENVS 7950 SEM     2  SULFATE RED BACT PCR   1-6  TBA                                                      HOU A
+(F)     1  ENVS 7997 RES     1  ENVIRONMENTAL PRACTI   1-6  TBA                                                      WILSON V
+(F)     1  ENVS 7997 RES     3  ENVIRONMENTAL PRACTI   1-6  TBA                                                      PORTIER R
+  1     3  ENVS 7997 RES     4  ENVIRONMENTAL PRACTI   1-6  TBA                                                      WASCOM M
+(F)     3  ENVS 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      LAM N
+  1     4  ENVS 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      REAMS M
+  1     2  ENVS 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      WASCOM M
+  2     1  ENVS 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      WILSON V
+(F)     3  ENVS 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      HOU A
+  1     1  ENVS 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      HISCOX A

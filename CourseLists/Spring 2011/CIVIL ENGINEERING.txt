@@ -1,0 +1,101 @@
+ 30    95  CE   2200         1  FLUID MECHANICS        3.0   310-0430    T TH  1109 PATRICK TAYLOR                   DENG Z
+(F)    15  CE   2250 LAB     1  FLUID MECH LAB         1.0   240-0530   M      0218 TUREAUD HALL                     DENG Z
+(F)    11  CE   2250 LAB     2  FLUID MECH LAB         1.0   240-0530     W    0218 TUREAUD HALL                     DENG Z
+ 20    80  CE   2450         1  STATICS                3.0   940-1030   M W F  0103 TUREAUD HALL                     JACOBS C
+ 17    83  CE   2450         2  STATICS                3.0  1040-1130   M W F  0103 TUREAUD HALL                     JACOBS C
+ 24    76  CE   2450         3  STATICS                3.0  1140-1230   M W F  0103 TUREAUD HALL                     JACOBS C
+  1    79  CE   2450         4  STATICS                3.0   440-0530N  M W F  1109 PATRICK TAYLOR                   MOORTHY S
+ 20    80  CE   2460         1  DYNAMICS & VIBRATION   3.0   740-0830   M W F  0103 TUREAUD HALL                     MOORTHY S
+ 14    86  CE   2700         1  INT CIVIL ENGR PR      2.0   140-0330       F  1109 PATRICK TAYLOR                   AMOROSO S
+                     LAB                                    TBA                                                      AMOROSO S
+ 22    72  CE   2720         2  COMPUTNL METH  CE I    3.0   140-0300    T TH  0105 TUREAUD HALL                     ELSEIFI M
+(F)    40  CE   3300         1  GEOTECHNICAL ENGR I    3.0   840-0930   M W F  2103 PATRICK TAYLOR                   ABU-FARSAKH M
+(F)    20  CE   3350 LAB     1  GEOTECH ENGR LAB I     1.0   310-0600   M                                            AUTIN Z
+(F)    20  CE   3350 LAB     2  GEOTECH ENGR LAB I     1.0   310-0600     W                                          AUTIN Z
+ 17   103  CE   3400         1  MECHNCS OF MATERIALS   3.0   840-0930   M W F  1109 PATRICK TAYLOR                   MOORTHY S
+(F)   100  CE   3400         2  MECHNCS OF MATERIALS   3.0   910-1030    T TH  0103 TUREAUD HALL                     MOORTHY S
+(F)    13  CE   3410 LAB     3  MECHNCS OF MATLS LAB   1.0   140-0430   M      2171 PATRICK TAYLOR  CI-WRITTEN       JACOBS C
+(F)    15  CE   3410 LAB     2  MECHNCS OF MATLS LAB   1.0   310-0600    T     1120 PATRICK TAYLOR  CI-WRITTEN       HOSSAIN T
+(F)    13  CE   3410 LAB     1  MECHNCS OF MATLS LAB   1.0   240-0530     W    1118 PATRICK TAYLOR  CI-WRITTEN       HOSSAIN T
+ 13    37  CE   3415         1  STRUCTRL ANALYSIS I    3.0   910-1030    T TH  2412 PATRICK TAYLOR                   ALAYWAN W
+(F)    25  CE   3500         1  PLANE SURV & MEASURE   3.0  1140-1230   M W    0213 TUREAUD HALL                     MUGNIER C
+                     LAB                                     140-0430     W                                          MUGNIER C
+(F)    25  CE   3500         2  PLANE SURV & MEASURE   3.0  1140-1230   M W    0213 TUREAUD HALL                     MUGNIER C
+                     LAB                                     140-0430   M                                            MUGNIER C
+  2    48  CE   3600         1  PRINC HWY/TRAFC ENGR   3.0  1040-1200    T TH  2412 PATRICK TAYLOR                   ISHAK S
+  1    19  CE   3700 LAB     1  ENGINEERING MAT LAB    1.0   240-0530     W                                          MOHAMMAD L
+  3    17  CE   3700 LAB     2  ENGINEERING MAT LAB    1.0   140-0430      TH                                        MOHAMMAD L
+  3    17  CE   3700 LAB     3  ENGINEERING MAT LAB    1.0   440-0730N     TH                                        MOHAMMAD L
+ 33    47  CE   4200         1  HYDROLOGY              3.0  1210-0130    T TH  1109 PATRICK TAYLOR                   HUDSON G
+  3    37  CE   4250         1  GROUND WATER           3.0   140-0300    T TH  2172 PATRICK TAYLOR                   WILLSON C
+  8    32  CE   4260         1  DESN HYDROLOG SYST     3.0  1210-0130    T TH  2228 PATRICK TAYLOR                   TSAI F
+ 14    36  CE   4310         1  GEOTECHNICL ENGR III   3.0   310-0430    T TH  1111 PATRICK TAYLOR                   ALSHIBLI K
+ 18    62  CE   4400         2  PRIN OF STEEL DESIGN   3.0   610-0900N    W    0105 TUREAUD HALL                     CAI C
+ 13    43  CE   4410         1  PRIN REINFORCED CONC   3.0   140-0300    T TH  2148 PATRICK TAYLOR                   OKEIL A
+  8    42  CE   4435         1  INDETERM STRUCT ANAL   3.0  1040-1200    T TH  2146 PATRICK TAYLOR                   BARBATO M
+ 44    16  CE   4460         1  DESIGN OF BRIDGES      3.0   440-0530N   T TH  2412 PATRICK TAYLOR                   FOSSIER P
+                     LAB                                     540-0730N   T TH  2412 PATRICK TAYLOR                   FOSSIER P
+  6    34  CE   4530         1  CONTRL SURVEYING W/    3.0   510-0700N  M      1114 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     710-1000N  M      1114 PATRICK TAYLOR                   MUGNIER C
+ 12    38  CE   4550         1  BOUNDARY SURVEYING     3.0   510-0700N   T     1121 PATRICK TAYLOR                   MUGNIER C
+                     LAB                                     710-1000N   T                                           MUGNIER C
+ 27    13  CE   4650         1  INT ASPHLT MIX DESN    3.0  1040-1200    T TH  2172 PATRICK TAYLOR                   MOHAMMAD L
+ 35    25  CE   4750         2  PRF ISS CONC DESN CE   2.0   840-1030   M      2412 PATRICK TAYLOR  CI-WRITTEN&SPOK  WILLIAMS M
+                     LAB                                     840-1030     W    2412 PATRICK TAYLOR                   WILLIAMS M
+ 14     6  CE   7135         1  ADV TOP BIODEGRAD      3.0   140-0300    T TH  0117 TUREAUD HALL                     MOE W
+  9    11  CE   7180         1  WATER QUAL SIMULATNS   3.0  1140-1230   M W F  3141 PATRICK TAYLOR                   ADRIAN D
+  8    12  CE   7310         1  ADV GEOTECHN ENGR II   3.0   910-1030    T TH  0117 TUREAUD HALL                     ALSHIBLI K
+ 21     9  CE   7420         1  LIMIT ANALYSIS & DES   3.0   310-0430    T TH  2149 PATRICK TAYLOR                   BARBATO M
+ 13     7  CE   7475         1  SOLID MECHANICS        3.0   910-1030   M W    3131 PATRICK TAYLOR                   VOYIADJIS G
+ 15    10  CE   7600         2  TRANSPORT ENGR DATA    3.0   840-1000   M W    1111 PATRICK TAYLOR                   WILMOT C
+ 13    12  CE   7672         4  PAVEMENT MGMT SYS      3.0   310-0430    T TH  2412 PATRICK TAYLOR                   ELSEIFI M
+  8    12  CE   7701 RES     3  SPCL TOPICS CIVIL EN   3.0   140-0300   M W    0117 TUREAUD HALL                     CAI C
+  2     8  CE   7701 RES     2  SPCL TOPICS CIVIL EN   3.0   140-0300    T TH  2412 PATRICK TAYLOR                   SMITH H
+  6     9  CE   7701 RES     1  SPCL TOPICS CIVIL EN   3.0   310-0430    T TH  0116 TUREAUD HALL                     CHEN Q
+(F)     1  CE   7701 RES     4  SPCL TOPICS CIVIL EN   3.0  TBA                                                      ELSEIFI M
+ 19     1  CE   7740 RES     2  MASTERS REPORT         3.0  TBA                                                      CAI C
+  9     1  CE   7740 RES     3  MASTERS REPORT         3.0  TBA                                                      LEVITAN M
+(F)     1  CE   7740 RES     4  MASTERS REPORT         3.0  TBA                                                      ZHANG G
+  2     3  CE   7740 RES     5  MASTERS REPORT         3.0  TBA                                                      OKEIL A
+  5    89  CE   7750 SEM     1  SEMINAR                1.0   440-0530N  M      1119 PATRICK TAYLOR                   ZHANG G
+ 95     4  CE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      ALSHIBLI K
+ 98     1  CE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      CAI C
+ 98     1  CE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      CHEN Q
+ 98     1  CE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      DENG Z
+ 98     1  CE   8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      LEVITAN M
+ 96     3  CE   8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      MOE W
+ 97     2  CE   8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      MOHAMMAD L
+ 97     2  CE   8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      OKEIL A
+ 95     4  CE   8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      PARDUE J
+ 96     3  CE   8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      RUSCH K
+ 94     5  CE   8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      WILLSON C
+ 98     1  CE   8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      WILMOT C
+ 97     2  CE   8000 RES    23  THESIS RESEARCH        1-12 TBA                                                      WOLSHON P
+ 97     2  CE   8000 RES    24  THESIS RESEARCH        1-12 TBA                                                      ZHANG G
+ 97     2  CE   8000 RES    25  THESIS RESEARCH        1-12 TBA                                                      ABU-FARSAKH M
+ 96     3  CE   8000 RES    26  THESIS RESEARCH        1-12 TBA                                                      ELSEIFI M
+ 97     2  CE   8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      BARBATO M
+ 98     1  CE   8000 RES    28  THESIS RESEARCH        1-12 TBA                                                      SMITH H
+  9     1  CE   8000 RES    29  THESIS RESEARCH        1-12 TBA                                                      WU Z
+ 98     1  CE   9000 RES     1  DISSERTATION RESEARC   1-12 TBA                                                      ADRIAN D
+ 89    10  CE   9000 RES     3  DISSERTATION RESEARC   1-12 TBA                                                      CAI C
+ 97     2  CE   9000 RES     4  DISSERTATION RESEARC   1-12 TBA                                                      CHEN Q
+ 97     2  CE   9000 RES     6  DISSERTATION RESEARC   1-12 TBA                                                      DENG Z
+ 95     4  CE   9000 RES     9  DISSERTATION RESEARC   1-12 TBA                                                      LEVITAN M
+ 96     3  CE   9000 RES    10  DISSERTATION RESEARC   1-12 TBA                                                      MALONE R
+ 98     1  CE   9000 RES    11  DISSERTATION RESEARC   1-12 TBA                                                      MOE W
+ 98     1  CE   9000 RES    12  DISSERTATION RESEARC   1-12 TBA                                                      MOHAMMAD L
+ 98     1  CE   9000 RES    14  DISSERTATION RESEARC   1-12 TBA                                                      OKEIL A
+ 98     1  CE   9000 RES    15  DISSERTATION RESEARC   1-12 TBA                                                      PARDUE J
+ 98     1  CE   9000 RES    18  DISSERTATION RESEARC   1-12 TBA                                                      SHIN H
+ 98     1  CE   9000 RES    19  DISSERTATION RESEARC   1-12 TBA                                                      TSAI F
+ 96     3  CE   9000 RES    20  DISSERTATION RESEARC   1-12 TBA                                                      VOYIADJIS G
+ 98     1  CE   9000 RES    21  DISSERTATION RESEARC   1-12 TBA                                                      WILLSON C
+ 97     2  CE   9000 RES    22  DISSERTATION RESEARC   1-12 TBA                                                      WILMOT C
+ 98     1  CE   9000 RES    23  DISSERTATION RESEARC   1-12 TBA                                                      WOLSHON P
+ 96     3  CE   9000 RES    24  DISSERTATION RESEARC   1-12 TBA                                                      ZHANG G
+ 98     1  CE   9000 RES    25  DISSERTATION RESEARC   1-12 TBA                                                      SINGH V
+ 97     2  CE   9000 RES    26  DISSERTATION RESEARC   1-12 TBA                                                      ABU-FARSAKH M
+ 97     2  CE   9000 RES    27  DISSERTATION RESEARC   1-12 TBA                                                      BARBATO M
+  9     1  CE   9000 RES    28  DISSERTATION RESEARC   1-12 TBA                                                      ELSEIFI M
+ 97     2  CE   9000 RES    29  DISSERTATION RESEARC   1-12 TBA                                                      SMITH H

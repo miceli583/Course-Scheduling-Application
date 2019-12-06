@@ -1,0 +1,69 @@
+(F)   220  ANSC 1011         1  INTRO TO ANML SCIENC   3.0   830-0920   M W F  0102 WILLIAMS                         WILLIAMS C
+(F)    18  ANSC 2031         1  EQUINE MANAGEMENT      2.0   130-0220   M      0100 TUREAUD HALL    PERMIS OF DEPT   WALKER N
+                     LAB                                     230-0420   M      0100 TUREAUD HALL                     WALKER N
+  1    29  ANSC 2033         1  LIVE ANI CARC EVAL     2.0   130-0220    T     0012 FRANCIONI                        PAGE T
+                     LAB                                     230-0420      TH  0012 FRANCIONI                        PAGE T
+ 11     9  ANSC 2040 CLI     1  JUDGING DAIRY CATTLE   2.0   130-0420    T     0101 TUREAUD HALL                     HUTCHISON C
+ 12    17  ANSC 2042 LAB     1  TECH JDG/EVAL PL/PRD   2.0   230-0420    T TH  0119 TUREAUD HALL                     INGRAM D
+  1    59  ANSC 2050         1  ANIMAL PRACTICES       2.0   900-0950    T TH  0102 TUREAUD HALL    PERMIS OF DEPT   WILLIAMS M
+  2    18  ANSC 2051 LAB     2  LARGE FARM ANIM LAB    1.0   130-0420   M      0012 FRANCIONI       PERMIS OF DEPT   BRAUD T
+  2    18  ANSC 2051 LAB     1  LARGE FARM ANIM LAB    1.0  1230-0320     W    0012 FRANCIONI       PERMIS OF DEPT   BRAUD T
+  1    74  ANSC 2060         1  COMP ANIMAL MGT        3.0  1030-1120   M W F  0120 TUREAUD HALL                     RITCHIE J
+  5    65  ANSC 2075         1  MILK AND DAIRY FOODS   3.0  1030-1150    T TH  0120 TUREAUD HALL                     ARYANA K
+(F)    20  ANSC 3053         1  MEATS                  3.0   800-0950    T     0129 ALLEN                            MCMILLIN K
+                     LAB                                     800-0950      TH
+ 20     5  ANSC 3053         2  MEATS                  3.0   800-0950    T     0129 ALLEN                            MCMILLIN K
+                     LAB                                    1000-1150      TH                                        MCMILLIN K
+ 12    28  ANSC 3060         1  COMP ANIM HLTH & DIS   3.0  1130-1220   M W F  0119 TUREAUD HALL                     RITCHIE J
+  8    37  ANSC 3070         1  SM ANI ANAT & PHYSIO   3.0   930-1020   M W F  0109 TUREAUD HALL                     RITCHIE J
+  1        ANSC 3900 RES     1  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   ARYANA K
+  1        ANSC 3900 RES     2  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   BONDIOLI K
+  5        ANSC 3900 RES     3  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   THOMPSON D
+ 96     3  ANSC 3900 RES     4  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   WILLIAMS C
+  9     1  ANSC 3900 RES     5  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   COOPER R
+  5     5  ANSC 3900 RES     6  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   OBERHAUS E
+ 10        ANSC 3900 RES     7  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   PAGE T
+ 10        ANSC 3900 RES     8  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   FU X
+ 10        ANSC 3900 RES     9  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   JIANG Z
+  5    25  ANSC 4005         1  ONE HEALTH             3.0   900-1020    T TH                                        COULON D
+ 11    51  ANSC 4009         1  ANIMAL NUTRITION       3.0   830-0920   M W F  0221 TUREAUD HALL                     MOREIRA V
+(F)    19  ANSC 4018         1  PPLES ANIML GENETICS   3.0  1200-0120    T TH  0204 ANIMAL&FOOD SCI                  JIANG Z
+(F)    17  ANSC 4020         1  FRZN/CULT DARY PROD    3.0   830-0920   M W    0100 TUREAUD HALL                     BOENEKE C
+                     LAB                                     230-0520   M                                            BOENEKE C
+(F)    58  ANSC 4043         1  DOM ANIMAL ENDO        3.0  1030-1150    T TH  0132 J C MILLER                       WILLIAMS C
+ 21    44  ANSC 4045         1  REPRO PHYS             3.0   930-1020   M W F  0120 TUREAUD HALL                     BONDIOLI K
+ 15    15  ANSC 4050         1  ANIMAL BIOTECHNOLOGY   3.0   230-0350   M W    0132 LOCKETT                          BONDIOLI K
+(F)    16  ANSC 4051         1  POULTRY BIOLOGY        3.0   430-0720N   T     0119 TUREAUD HALL                     INGRAM D
+                     LAB                                     430-0720N     TH                                        INGRAM D
+(F)    19  ANSC 4092 SEM     1  AN SC PROSEMINAR       1.0   130-0220   M      0204 ANIMAL&FOOD SCI                  WILLIAMS C
+(F)     8  ANSC 4900         1  SPECIAL TOPICS         1-3  TBA                                     PERMIS OF DEPT   COOPER R
+  9     6  ANSC 7001         1  EXPERIMENTAL METHODS   2.0  1030-1120   M W                                          THOMPSON D
+(F)     6  ANSC 7018         1  RUMEN PHYS & METABOL   3.0  TBA                                                      MOREIRA V
+  1        ANSC 7061 RES     1  RES ANIMAL SCIENCE     1-6  TBA                                                      BONDIOLI K
+(F)     2  ANSC 7061 RES     2  RES ANIMAL SCIENCE     1-6  TBA                                                      COOPER R
+ 18     2  ANSC 7061 RES     3  RES ANIMAL SCIENCE     1-6  TBA                                                      THOMPSON D
+  1        ANSC 7061 RES     4  RES ANIMAL SCIENCE     1-6  TBA                                                      WILLIAMS C
+(F)     2  ANSC 7061 RES     5  RES ANIMAL SCIENCE     1-6  TBA                                                      OBERHAUS E
+  1        ANSC 7061 RES     6  RES ANIMAL SCIENCE     1-6  TBA                                                      PAGE T
+  1        ANSC 7061 RES     7  RES ANIMAL SCIENCE     1-6  TBA                                                      MOREIRA V
+  1        ANSC 7061 RES     8  RES ANIMAL SCIENCE     1-6  TBA                                                      JIANG Z
+  1        ANSC 7061 RES     9  RES ANIMAL SCIENCE     1-6  TBA                                                      FU X
+  7     2  ANSC 7091 SEM     1  SEMINAR                1.0  TBA                                                      MOREIRA V
+ 20        ANSC 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ARYANA K
+ 20        ANSC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BOENEKE C
+ 19     1  ANSC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BONDIOLI K
+ 18     2  ANSC 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      MCMILLIN K
+ 20        ANSC 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      MILLER J
+ 14     1  ANSC 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      THOMPSON D
+ 19     1  ANSC 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      WILLIAMS C
+ 19     1  ANSC 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      PAGE T
+  5        ANSC 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      OBERHAUS E
+  4     1  ANSC 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      COOPER R
+  5        ANSC 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      JIANG Z
+  5        ANSC 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      FU X
+  4     1  ANSC 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      MOREIRA V
+ 18     2  ANSC 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BONDIOLI K
+ 20        ANSC 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      MOREIRA V
+  3     2  ANSC 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      COOPER R
+  4     1  ANSC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      JIANG Z
+  4     1  ANSC 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      FU X

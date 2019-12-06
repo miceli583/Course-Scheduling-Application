@@ -1,0 +1,36 @@
+  5    15  AEEE 2003         1  INTRO AG MECH          3.0   900-1050   M      0119 J C MILLER                       BLACKBURN J
+                     LAB                                     900-1050     W    0119 J C MILLER                       BLACKBURN J
+ 23     7  AEEE 2011         1  INTRO TO AG COMM       3.0   300-0420    T TH  0324 HODGES HALL                      GAUTREAUX K
+ 18     2  AEEE 2819         1  DEV COM PRGM IN AGED   1-3   130-0250    T TH  0226 TUREAUD HALL                     STAIR K
+(F)     2  AEEE 2819         2  SPEC TOPICS AGEXED     1-3  TBA
+ 18     2  AEEE 3010 RES     1  INTRNSHP COOP EDUC     6.0  TBA                                                      FOX J
+ 21     9  AEEE 4200 CLI     1  TCH AGEXED CONT AREA   3.0  TBA                                                      ROBERTS F
+ 15     9  AEEE 4201         1  LAB MGMT IN AGEXED     3.0  TBA                                                      BLACKBURN J
+ 16     8  AEEE 4504         1  DEV COMM PROG AGED     3.0   130-0250    T TH  0119 J C MILLER                       STAIR K
+ 10    10  AEEE 4506         1  SERVICE LEARNING       3.0   130-0420      TH  0108 TUREAUD HALL                     FOX J
+  7     9  AEEE 4806 CLI     1  INTERN AGEXED          9.0  TBA                                                      ROBERTS F
+  1     2  AEEE 4819 RES     1  FACILITATION SKILLS    1-3  1100-1250    T TH                                        ARCEMONT L
+  1     4  AEEE 4819 RES     2  SPEC TOP AGEXED        1-3  TBA                                                      FOX J
+  1     4  AEEE 4819 RES     3  SPEC TOP AGEXED        1-3  TBA                                                      BURNETT M
+  5        AEEE 4819 RES     4  SPEC TOP AGEXED        1-3  TBA
+  1     4  AEEE 4820 RES     1  IND STUDY IN AGEXED    1-3  TBA                                                      ROBERTS F
+  4     1  AEEE 4820 RES     2  IND STUDY IN AGEXED    1-3  TBA                                                      CATER M
+  4     1  AEEE 4820 RES     3  IND STUDY IN AGEXED    1-3  TBA
+  5        AEEE 4820 RES     4  IND STUDY IN AGEXED    1-3  TBA
+  5    15  AEEE 7622         1  EVALUATION METHODS     3.0  TBA                                     75-99% WEB BASE  CATER M
+ 98     1  AEEE 7824 RES     1  INDEPEND STUDY AGEXE   3.0  TBA                                                      BLACKBURN J
+  2     3  AEEE 7824 RES     2  ADV RESEARCH DESIGN    3.0  TBA                                     PERMIS OF INST   BURNETT M
+  4     1  AEEE 7824 RES     3  INTERNATIONAL EXPRNC   3.0  TBA
+  6     4  AEEE 7825         1  ADV SPEC TOP AGEXED    1-3  TBA                                     PERMIS OF INST   CATER M
+  3     2  AEEE 7825         2  ADV SPEC TOP AGEXED    1-3  TBA                                                      BLACKBURN J
+ 16     4  AEEE 7828         1  CHANGE THEORY          3.0   430-0720N   T     0147 J C MILLER                       BLACKBURN J
+ 22     3  AEEE 7905         1  ADV RESEARCH DESIGN    3.0   430-0720N     TH  0218 STUBBS                           BURNETT M
+  7    13  AEEE 7927         1  YOUTH RESEARCH         3.0  TBA                                     100% WEB BASED   CATER M
+ 97     2  AEEE 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BLACKBURN J
+ 98     1  AEEE 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BURNETT M
+ 98     1  AEEE 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      FOX J
+ 98     1  AEEE 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      CATER M
+ 99        AEEE 8000 RES     5  THESIS RESEARCH        1-12 TBA
+ 99        AEEE 9000 RES     1  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF INST   BLACKBURN J
+ 95     4  AEEE 9000 RES     2  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF INST   BURNETT M
+ 96     3  AEEE 9000 RES     3  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF INST   CATER M

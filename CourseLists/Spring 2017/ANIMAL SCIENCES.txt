@@ -1,0 +1,50 @@
+ 15    69  ANSC 1011         1  INTRO TO ANML SCIENC   3.0   830-0920   M W F  0155 COATES                           WILLIAMS C
+ 11    14  ANSC 2042 LAB     1  TECH JDG/EVAL PL/PRD   2.0   230-0420    T TH  0127 TUREAUD HALL                     INGRAM D
+(F)    29  ANSC 2050         1  ANIMAL PRACTICES       2.0   900-0950    T TH  0218 TUREAUD HALL    PERMIS OF DEPT   MOREIRA V
+ 10    10  ANSC 2052 LAB     1  SMALL FARM ANIM LAB    1.0  1230-0320     W                         PERMIS OF DEPT   MOREIRA V
+(F)    60  ANSC 2060         1  COMP ANIMAL MGT        3.0  1030-1120   M W F  0203 TUREAUD HALL                     RITCHIE J
+ 14    76  ANSC 2072         1  INTRO AGRIC GENETICS   3.0  1030-1150    T TH  0145 COATES                           COOPER R
+  2    10  ANSC 2085 LAB     1  MILK QUAL CONTRL LAB   2.0   830-1020    T TH                       PERMIS OF DEPT   BOENEKE C
+  1    14  ANSC 2093 CLI     1  DARY PRODUC JUDG       2.0   130-0220    T TH                                        BOENEKE C
+ 17    28  ANSC 2133         1  GROWTH/DEV LIVESTOCK   3.0   800-0850    T TH  0112 AUDUBON                          CRUZEN S
+                     LAB                                    1200-0150     W    0119 TUREAUD HALL                     CRUZEN S
+(F)    70  ANSC 3010         1  APPL ANML FEED FORM    3.0  1030-1120   M W F  0104 AUDUBON                          WILLIAMS C
+ 12    28  ANSC 3060         1  COMP ANIM HLTH & DIS   3.0  1130-1220   M W F  0203 TUREAUD HALL                     RITCHIE J
+ 30    23  ANSC 3070         1  SM ANI ANAT & PHYSIO   3.0   930-1020   M W F  0203 TUREAUD HALL                     RITCHIE J
+(F)     2  ANSC 3900 RES     1  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   ARYANA K
+(F)     1  ANSC 3900 RES     3  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   BONDIOLI K
+ 19     1  ANSC 3900 RES     5  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   CRUZEN S
+(F)     5  ANSC 3900 RES     7  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   THOMPSON D
+(F)     4  ANSC 3900 RES     8  ANIMAL SCIENCE RES     1-3  TBA                                     PERMIS OF DEPT   WILLIAMS C
+ 24    26  ANSC 4001         1  PARAS EFF ON AN PERF   2.0   130-0220     W    0218 COATES                           MILLER J
+                     LAB                                     230-0420     W                                          MILLER J
+  9    11  ANSC 4031         1  INCUBATN/HATCHRY MGT   2.0   430-0620N   T TH  0127 TUREAUD HALL                     INGRAM D
+                     LAB                                    TBA                                                      INGRAM D
+  8     4  ANSC 4047 LAB     1  REPRO MANAGEMENT       1.0   130-0420    T     0012 FRANCIONI                        HUTCHISON C
+ 15    23  ANSC 4060         1  CONTEMP ISS IN ANSC    3.0  1030-1150    T TH  0112 TUREAUD HALL                     MCMILLIN K
+  9    11  ANSC 4080         1  DAIRY MICROBIOLOGY     3.0  1030-1120   M W    0117 TUREAUD HALL                     ARYANA K
+                     LAB                                     230-0420   M                                            ARYANA K
+ 23    17  ANSC 4084         1  BEEF CATTLE PROD       3.0  1200-1250    T TH  0123 ALLEN                            PAGE T
+                     LAB                                     230-0420     W    0119 TUREAUD HALL                     PAGE T
+ 21     9  ANSC 4086         1  SMALL RUMINANT PROD    3.0   200-0350   M      0212 AUDUBON                          MILLER J
+                     LAB                                     230-0420    T                                           MILLER J
+  4     6  ANSC 4087         1  BEST PRACT SUST AG     3.0   130-0250    T TH  0220 TUREAUD HALL                     MOREIRA V
+ 27    33  ANSC 4088         1  HORSE PRODUCTION       3.0   130-0220    T TH  0102 TUREAUD HALL                     THOMPSON D
+                     LAB                                     230-0420      TH  0124 TUREAUD HALL                     THOMPSON D
+(F)    22  ANSC 4092 SEM     1  AN SC PROSEMINAR       1.0   130-0220   M      0218 COATES                           WILLIAMS C
+(F)    21  ANSC 4092 SEM     2  AN SC PROSEMINAR       1.0   230-0320   M      0218 COATES                           WILLIAMS C
+(F)     3  ANSC 4900         1  SPECIAL TOPICS         1-3  TBA                                     PERMIS OF DEPT   COOPER R
+(F)     3  ANSC 4900         2  SPECIAL TOPICS         1-3  TBA                                     PERMIS OF DEPT   BONDIOLI K
+  7     8  ANSC 7051         1  ADV PHYSIOL REPROD     3.0   930-1020   M W F                                        BONDIOLI K
+ 19     1  ANSC 7061 RES     2  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   COOPER R
+ 19     1  ANSC 7061 RES     6  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   MOREIRA V
+ 18     2  ANSC 7061 RES     7  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   THOMPSON D
+  9     1  ANSC 7061 RES     9  RES ANIMAL SCIENCE     1-6  TBA                                     PERMIS OF DEPT   PAGE T
+  6     3  ANSC 7091 SEM     1  SEMINAR                1.0  TBA                                                      MOREIRA V
+ 18     2  ANSC 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      ARYANA K
+ 19     1  ANSC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BOENEKE C
+ 18     2  ANSC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      BONDIOLI K
+ 18     2  ANSC 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      MCMILLIN K
+ 16     4  ANSC 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      WILLIAMS C
+ 17     3  ANSC 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      BONDIOLI K
+ 18     2  ANSC 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      THOMPSON D

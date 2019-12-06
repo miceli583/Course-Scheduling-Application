@@ -1,0 +1,39 @@
+ 11    14  BE   1250 LAB     1  INTRO ENGR METHODS     2.0   140-0430     W F  0106 AG METAL BLDG   CI-VISUAL&TECH   DUGAS A
+  2    23  BE   1252         1  BIOL IN ENGINEERING    2.0  1240-0130    T     0221 TUREAUD HALL    CI-WRITTEN&SPOK  LIMA M
+                     LAB                                     140-0430     W    0115 E B DORAN                        LIMA M
+  4    21  BE   1252         2  BIOL IN ENGINEERING    2.0  1240-0130    T     0221 TUREAUD HALL    CI-WRITTEN&SPOK  LIMA M
+                     LAB                                     140-0430      TH  1114 PATRICK TAYLOR                   LIMA M
+  9    16  BE   1252         3  BIOL IN ENGINEERING    2.0  1240-0130    T     0221 TUREAUD HALL    CI-WRITTEN&SPOK  LIMA M
+                     LAB                                     140-0430       F  0215 TUREAUD HALL                     LIMA M
+(F)    34  BE   2350         1  EXPER METH FOR ENGRS   3.0   810-0900    T TH  0103 TUREAUD HALL                     DUGAS A
+                     LAB                                     140-0430   M      0140 AG METAL BLDG                    DUGAS A
+  1    30  BE   2350         2  EXPER METH FOR ENGRS   3.0   810-0900    T TH  0103 TUREAUD HALL                     DUGAS A
+                     LAB                                     140-0430    T     0140 AG METAL BLDG                    DUGAS A
+  5    35  BE   3290         1  PROFESSIONALISM        2.0  1040-1230       F  0108 TUREAUD HALL                     HALL S
+ 10    40  BE   3340         3  PROC DESN FOR BIOL E   3.0   940-1030   M W    0200 TUREAUD HALL                     SABLIOV C
+                     LAB                                     140-0430   M      0101 TUREAUD HALL                     SABLIOV C
+ 17     8  BE   3381         1  NONPT SOURCE POLL EN   3.0  1240-0130    T TH  0115 E B DORAN                        BENGTSON R
+                     LAB                                     140-0430       F  0115 E B DORAN                        BENGTSON R
+ 23     2  BE   3989 RES     1  SPEC PROJ IN BIOL EN   1-4  TBA                                                      BENGTSON R
+ 24     1  BE   3989 RES     2  SPEC PROJ IN BIOL EN   1-4  TBA                                                      BENGTSON R
+  1    39  BE   4292 LAB     1  SENIOR ENGR DESN LAB   2.0   440-0730N  M W    0102 TUREAUD HALL    CI-WRITTEN&SPOK  HAYES D
+  4    21  BE   4323         1  BIOMECHANICS FOR ENG   3.0  1040-1130   M W    0101 TUREAUD HALL                     MONROE W
+                     LAB                                     140-0430     W    0218 TUREAUD HALL                     MONROE W
+(F)    28  BE   4335         1  TISSUE ENGINEERING     3.0   840-0930   M W F  0129 TUREAUD HALL                     HAYES D
+ 14    36  BE   4352         1  TRANSPRT PHEN BIOL E   3.0  1040-1200    T TH  1114 PATRICK TAYLOR                   THEEGALA C
+ 14     6  BE   4989 RES     3  BIOFUELS               1-4   140-0300    T TH  0115 E B DORAN                        BOLDOR D
+  9     1  BE   4989 RES     2  IND STUDY IN BIOL EN   1-4  TBA                                                      MONROE W
+  3    12  BE   7350         1  ADV INSTR/CNTL BIO S   3.0   440-0730N   T     0115 E B DORAN                        HALL S
+                     LAB                                     440-0730N     TH  0115 E B DORAN                        HALL S
+ 13     7  BE   7500 SEM     1  SEMINAR                1.0  1240-0130   M      0115 E B DORAN                        THEEGALA C
+ 12     8  BE   7910         1  FOOD NANOTECH          3.0  TBA                                                      SABLIOV C
+  8     2  BE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BENGTSON R
+  9     1  BE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      LIMA M
+  8     2  BE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      THEEGALA C
+  8     2  BE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      SABLIOV C
+  8     2  BE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      BOLDOR D
+  8     2  BE   8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      BARBOSA R
+  8     2  BE   8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      HAYES D
+  9     1  BE   8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      SHEFFIELD R
+  8     2  BE   8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      KOCHERGIN V
+ 15        BE   7909 RES     1  ADV TOP BIOL ENGR      1-4  TBA

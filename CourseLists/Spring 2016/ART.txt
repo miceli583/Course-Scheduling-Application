@@ -1,0 +1,136 @@
+427   473  ART  1001         1  INTR TO FINE ARTS      3.0   230-0350   M W    0101 GYM AUDITORIUM                   SPIETH D
+(F)    17  ART  1008 LAB     1  INTR TO TWO-DIM COMP   3.0  1230-0320   M W    0334 ART BUILDING                     ANDERSON M
+  7    11  ART  1009 LAB     1  INTR THREE-DIM COMP    3.0   830-1120   M W    0226 STUDIO ARTS BLD                  SIEVERS B
+(F)    18  ART  1010 LAB     1  INTRO TO DRAWING       3.0   830-1120   M W    0107 FOSTER                           NICOLL T
+(F)    23  ART  1011         2  2-DIMENSIONAL DESIGN   3.0   330-0420   M W    0334 ART BUILDING    MAJORS ONLY      ANDRESEN S
+                     LAB                                     430-0620N  M W                                          ANDRESEN S
+(F)    20  ART  1011         1  2-DIMENSIONAL DESIGN   3.0   300-0350    T TH  0334 ART BUILDING    MAJORS ONLY      TIPTON R
+                     LAB                                     400-0550    T TH  0334 ART BUILDING                     TIPTON R
+  1    14  ART  1012 LAB     3  3-DIMENSIONAL DESN     3.0   630-0920N  M W    0226 STUDIO ARTS BLD                  COOPER A
+  1    14  ART  1012 LAB     1  3-DIMENSIONAL DESN     3.0   900-1150    T TH  0128 STUDIO ARTS BLD                  CREEK C
+(F)    17  ART  1012 LAB     2  3-DIMENSIONAL DESN     3.0  1200-0250    T TH  0128 STUDIO ARTS BLD                  SCHWERD L
+(F)    18  ART  1360 LAB     1  INTRO TO PRINTMAKING   3.0   300-0550    T TH  B028 FOSTER                           WELCH E
+(F)    19  ART  1360 LAB     2  INTRO TO PRINTMAKING   3.0   300-0550    T TH  B021 FOSTER                           HEBERT M
+(F)    16  ART  1661 LAB     2  INTRO CER HANDBLDG     3.0   300-0550    T TH  0154 STUDIO ARTS BLD                  OZANNE B
+  4    11  ART  1661 LAB     1  INTRO CER HANDBLDG     3.0   600-0850N   T TH  0154 STUDIO ARTS BLD                  REAY M
+(F)    15  ART  1662 LAB     1  INTRO CERAMICS WHEEL   3.0   330-0620   M W    0154 STUDIO ARTS BLD                  MEISTRELL A
+(F)    18  ART  1762 LAB     2  INTRO TO SCULPTURE     3.0  1230-0320   M W    0226 STUDIO ARTS BLD                  MCCLAY M
+  1    14  ART  1762 LAB     1  INTRO TO SCULPTURE     3.0   900-1150    T TH  0226 STUDIO ARTS BLD                  HAMEL L
+(F)    19  ART  1847 LAB     3  DRAWING-COMPOSITION    3.0  1230-0320   M W    0107 FOSTER          MAJORS ONLY      MALVETO J
+(F)    20  ART  1847 LAB     1  DRAWING-COMPOSITION    3.0  1200-0250    T TH  0107 FOSTER                           TOUPS C
+(F)    19  ART  1847 LAB     2  DRAWING-COMPOSITION    3.0   300-0550    T TH  0107 FOSTER          MAJORS ONLY      LIVINGSTON K
+(F)    19  ART  1848 LAB     2  BEG. FIGURE DRAWING    3.0   330-0620   M W    0211 FOSTER                           LACOUR E
+(F)    19  ART  1848 LAB     4  BEG. FIGURE DRAWING    3.0   630-0920N  M W    0211 FOSTER                           WRIGHT J
+(F)    21  ART  1848 LAB     1  BEG. FIGURE DRAWING    3.0   900-1150    T TH  0211 FOSTER                           BEAMAN J
+(F)    20  ART  1848 LAB     3  BEG. FIGURE DRAWING    3.0  1200-0250    T TH  0211 FOSTER                           ORTNER F
+(F)    16  ART  1849 LAB     2  INTRO TO PAINTING      3.0   900-1150    T TH  0203 FOSTER                           CELENTANO D
+(F)    15  ART  1849 LAB     1  INTRO TO PAINTING      3.0   300-0550    T TH  0203 FOSTER                           AKTER T
+(F)    15  ART  1849 LAB     3  INTRO TO PAINTING      3.0   300-0550    T TH  0227 FOSTER                           BERG A
+(F)    20  ART  2050         2  DIGITAL ART I          3.0   330-0420   M W    0111 ART BUILDING    MAJORS ONLY      MARSE C
+                     LAB                                     430-0620N  M W    0111 ART BUILDING                     MARSE C
+(F)    22  ART  2050         3  DIGITAL ART I          3.0  1200-1250    T TH  0108 ART BUILDING    CI-VISUAL&TECH   NAM H
+                     LAB                                     100-0250    T TH  0108 ART BUILDING                     NAM H
+(F)    21  ART  2050         1  DIGITAL ART I          3.0   300-0350    T TH  0111 ART BUILDING    MAJORS ONLY      RESTREPO PERE
+                     LAB                                     400-0550    T TH  0111 ART BUILDING                     RESTREPO PERE
+  2    18  ART  2050         4  DIGITAL ART I          3.0   600-0650N   T TH  0108 ART BUILDING    MAJORS ONLY      KORANI T
+                     LAB                                     700-0850    T TH  0108 ART BUILDING                     KORANI T
+(F)    24  ART  2230 LAB     1  VIRTUAL SPACE          3.0   830-1120   M W    0330 ART BUILDING    PERMIS OF INST   FERGUSON S
+  7     8  ART  2360 LAB     1  INTERMED PRINTMAKING   3.0   900-1150    T TH  B028 FOSTER          MAJORS ONLY      WALL M
+  1     4  ART  2392 LAB     1  DIGITAL PRINTMAKING    3.0   900-1150    T TH  B028 FOSTER          MAJORS ONLY      WALL M
+  5    13  ART  2551         1  TYPOGRAPHY-VIS.COMM.   3.0   830-0920   M W    0111 ART BUILDING    PERMIS OF INST   DEAN P
+                     LAB                                     930-1120   M W                                          DEAN P
+(F)    21  ART  2552 LAB     1  COLOR DESIGN           3.0  1230-0320   M W    0319 ART BUILDING    PERMIS OF INST   DEAN P
+(F)    19  ART  2552 LAB     2  COLOR DESIGN           3.0  1200-0250    T TH  0319 ART BUILDING    PERMIS OF INST   DEAN P
+(F)    20  ART  2554 LAB     2  INTRO GRAPHIC DESIGN   3.0  1230-0320   M W    0208 ART BUILDING    PERMIS OF INST   BAGGETT L
+(F)    19  ART  2554 LAB     1  INTRO GRAPHIC DESIGN   3.0  1200-0250    T TH  0211 ART BUILDING    PERMIS OF INST   BOWER G
+  8     7  ART  2661 LAB     1  INTERMED CERAMICS      3.0   630-0920N  M W    0154 STUDIO ARTS BLD PERMIS OF INST   SHAW A
+  6     4  ART  2761 LAB     1  INTERMED SCULPTURE     3.0   300-0550    T TH  0128 STUDIO ARTS BLD                  SCHWERD L
+  3        ART  2800 LAB     1  HONORS PAINTING II     3.0  1230-0320   M W                                          MALVETO J
+  2    13  ART  2879 LAB     2  FIGURE DRAWING II      3.0   830-1120   M W    0211 FOSTER          MAJORS ONLY      ONODERA I
+(F)    15  ART  2879 LAB     1  FIGURE DRAWING II      3.0  1230-0320   M W    0211 FOSTER          MAJORS ONLY      LACOUR E
+(F)    18  ART  2881 LAB     1  PAINTING II            3.0   330-0620   M W    0203 FOSTER          MAJORS ONLY      MALVETO J
+(F)    18  ART  2995 LAB     3  BASIC PHOTOGRAPHY      3.0  1230-0320   M W    0211 ART BUILDING                     DEPPE B
+  1    17  ART  2995 LAB     1  BASIC PHOTOGRAPHY      3.0   330-0620   M W    0229 ART BUILDING                     THOMPSON K
+  1    17  ART  2995 LAB     2  BASIC PHOTOGRAPHY      3.0  1200-0250    T TH  0229 ART BUILDING                     SMITHSON A
+  7    11  ART  2996 LAB     1  INTERMED PHOTOGRAPHY   3.0   830-1120   M W    0229 ART BUILDING    PERMIS OF INST   THOMPSON K
+  2    13  ART  3996 LAB     1  DIG COLOR PHOTO I      3.0   900-1150    T TH  0111 ART BUILDING    PERMIS OF INST   ARIAZ J
+  1    14  ART  3996 LAB     2  DIG COLOR PHOTO I      3.0  1200-0250    T TH  0111 ART BUILDING    PERMIS OF INST   ARIAZ J
+(F)     7  ART  4020 LAB     4  ARTIST AS RESEARCHER   3.0  1230-0320   M W    0229 ART BUILDING    PERMIS OF INST   THOMPSON K
+  2    13  ART  4020 LAB     7  WAYS & MEANS-DIG FAB   3.0  1230-0320   M W    0217 DESIGN BUILDING PERMIS OF INST   CALLAHAN P
+  9     9  ART  4020 LAB     9  CURABLE CLAY EXPERIM   3.0  1230-0320   M W    0216 STUDIO ARTS BLD PERMIS OF INST   STUMBRAS M
+ 11     9  ART  4020 LAB     1  CAD/RHINO              3.0   330-0620   M W    0217 DESIGN BUILDING PERMIS OF INST   CALLAHAN P
+(F)    15  ART  4020 LAB     2  ART THERAPY            3.0   600-0850N   T TH  0107 FOSTER                           BRUMFIELD T
+  1     9  ART  4020 LAB     5  LOOKING AT LA.         3.0  1030-0420       F                       PERMIS OF INST   ARIAZ J
+  4    11  ART  4020 LAB     3  PROF PRACTICES         3.0  TBA                                     PERMIS OF INST   BLACK D
+(F)    14  ART  4020 LAB     6  INTERNSHIP SCH OF AR   3.0  TBA                                     PERMIS OF INST   PARKER R
+(F)     4  ART  4020 LAB     8  SPEC TOP STUDIO        3.0  TBA                                     PERMIS OF INST   CELLUCCI V
+(H)        ART  4030 LAB     1  IND STUDY STUDIO ART   3.0  TBA                                     PERMIS OF INST
+(H)        ART  4030 LAB     2  IND STUDY STUDIO ART   3.0  TBA                                     PERMIS OF INST
+  8    12  ART  4059         2  DIGITAL MEDIA CAP      3.0   200-0350   M      0330 ART BUILDING    PERMIS OF INST   NAM H
+                     LAB                                    TBA                                                      NAM H
+  8     7  ART  4080 LAB     1  PERFORMANCE ART        3.0   330-0620   M W    0107 FOSTER          MAJORS ONLY      KELLEY K
+(F)    22  ART  4220 LAB     1  ADV MOVING IMAGE       3.0   900-1150    T TH  0330 ART BUILDING    PERMIS OF INST   OSTRENKO F
+(F)    11  ART  4240 LAB     1  VIDEO GAME DESIGN      3.0   300-0550       F  0132 PRESCOTT        PERMIS OF INST   CHERRY K
+  8    12  ART  4290 LAB     1  DIG ART SYNTHESIS      3.0  1200-0250    T TH  0330 ART BUILDING    PERMIS OF INST   OSTRENKO F
+  8     2  ART  4300 LAB     1  SR PROJ: PRINTMAKING   3.0  TBA                                     MAJORS ONLY      HUNTER K
+  9     9  ART  4360 LAB     1  ADVANCED PRINTMAKING   3.0   630-0920N  M W                         MAJORS ONLY      HUNTER K
+(F)     1  ART  4366 LAB     1  SPEC STD PRINTMAKING   3-6  TBA                                     PERMIS OF DEPT   HUNTER K
+  6     4  ART  4514 LAB     1  EXPERIMENTAL DESIGN    3.0   300-0550    T TH  0106 ART BUILDING    PERMIS OF INST   RESTREPO PERE
+ 18        ART  4541 LAB     1  SP STUD GRAPHIC DSGN   3.0  1230-0320   M W
+  3    15  ART  4551 LAB     1  GRAPHIC DESIGN II      3.0  1230-0320   M W    0210 ART BUILDING    PERMIS OF INST   BOWER G
+(F)    20  ART  4551 LAB     2  GRAPHIC DESIGN II      3.0   300-0550    T TH  0208 ART BUILDING    PERMIS OF INST   HODGIN G
+  2    16  ART  4553 LAB     1  DIGITAL IMAGING TECH   3.0   830-1120   M W    0108 ART BUILDING    PERMIS OF INST   RESTREPO PERE
+(F)    21  ART  4553 LAB     2  DIGITAL IMAGING TECH   3.0   900-1150    T TH  0108 ART BUILDING    PERMIS OF INST   RESTREPO PERE
+ 18    37  ART  4561         1  SURVEY OF GRAPHIC DE   3.0  1000-1120   M W    0313 DESIGN BUILDING PERMIS OF INST   DOUBLEDAY R
+(F)    18  ART  4564 LAB     1  SENIOR GRAPHIC DESGN   3.0   330-0620   M W    0319 ART BUILDING    PERMIS OF INST   DOUBLEDAY R
+  8    10  ART  4564 LAB     2  SENIOR GRAPHIC DESGN   3.0   330-0620   M W    0302 ART BUILDING    PERMIS OF INST   BAGGETT L
+(F)    18  ART  4574 CLI     1  GRAPH DSN SYNTHESIS    3.0  1230-0320   M W    0302 ART BUILDING    PERMIS OF INST   DOUBLEDAY R
+  5     3  ART  4641 LAB     1  SPEC STUDIES CERAM     3.0   630-0920N  M W    0154 STUDIO ARTS BLD PERMIS OF INST   SHAW A
+  3     7  ART  4661 LAB     1  ADV CERAMICS           3.0  1230-0320   M W    0154 STUDIO ARTS BLD PERMIS OF INST   SHAW A
+ 10        ART  4691 LAB     1  SENIOR PROJECT CER     3.0  1230-0320   M W    0154 STUDIO ARTS BLD PERMIS OF INST   SHAW A
+  4     1  ART  4741 LAB     1  SPEC STUD SCULPTURE    3-6   300-0550    T TH  0128 STUDIO ARTS BLD PERMIS OF INST   SCHWERD L
+  5     5  ART  4761 LAB     1  ADV SCULPTURE          3.0   330-0620   M W    0128 STUDIO ARTS BLD                  MCCLAY M
+  9     1  ART  4762 LAB     1  SENIOR PROJECT SCULP   3.0   330-0620   M W                         PERMIS OF INST   MCCLAY M
+ 14     4  ART  4800 LAB     1  SR PROJ: PAINTING      3.0  1230-0320   M W    0103 FOSTER          MAJORS ONLY      KELLEY K
+(F)     9  ART  4841 LAB     1  SPEC STUDIES PAINTNG   3-3  1230-0320   M W    0103 FOSTER          MAJORS ONLY      KELLEY K
+  1     1  ART  4841 LAB     2  SPEC STUDIES PAINTNG   3-3  TBA                                     PERMIS OF INST   CELENTANO D
+  2        ART  4841 LAB     3  SPEC STUDIES PAINTNG   3-3  TBA                                     PERMIS OF INST   MALVETO J
+(F)     2  ART  4841 LAB     4  SPEC STUDIES PAINTNG   3-3  TBA                                     PERMIS OF INST   ANDRESEN S
+  9     6  ART  4880 LAB     1  FIGURE PAINTING        3.0   300-0550    T TH  0233 FOSTER          MAJORS ONLY      ORTNER F
+ 12     3  ART  4887 LAB     1  ADV FIGURE DRAWING I   3.0   830-1120   M W    0211 FOSTER          MAJORS ONLY      ONODERA I
+  6     9  ART  4889 LAB     1  ADV DRAWING WORKSHOP   3.0   900-1150    T TH  0107 FOSTER          MAJORS ONLY      BLACK D
+(F)    12  ART  4941 LAB     1  ARTIST AS RESEARCHER   3.0  1230-0320   M W    0229 ART BUILDING    PERMIS OF INST   THOMPSON K
+(F)    15  ART  4941 LAB     2  THE STUDIO AND LIGHT   3.0  1200-0250    T TH  0313 ART BUILDING    PERMIS OF INST   WARWICK J
+(F)    12  ART  4994 LAB     1  LARGE FORMAT PHOTO     3.0   300-0550    T TH  0229 ART BUILDING    PERMIS OF INST   WARWICK J
+  4    11  ART  4998 LAB     1  SR PROJ: PHOTOGRAPHY   3.0   900-1150    T TH  0229 ART BUILDING    PERMIS OF INST   WARWICK J
+(F)     1  ART  7030 LAB     1  IND STUDY GRAD         3-6  TBA                                     PERMIS OF INST   THOMPSON K
+(F)     1  ART  7030 LAB     2  IND STUDY GRAD         3-6  TBA                                                      SCHWERD L
+  4    11  ART  7042 SEM     1  VISITING ARTIST SEM    3.0  1230-0320   M W    0302 ART BUILDING    MAJORS ONLY      ANDRESEN S
+  2     3  ART  7250 LAB     1  DIGITAL ART PRAXIS     3.0  TBA                                     PERMIS OF INST   OSTRENKO F
+(F)     2  ART  7250 LAB     2  DIGITAL ART PRAXIS     3.0  TBA                                                      WESLEY K
+  4     6  ART  7255 SEM     1  DIGITAL ART SEMINAR    3.0   900-1150    T TH  0106 ART BUILDING    PERMIS OF INST   NAM H
+  5     7  ART  7300 LAB     1  GRAD PRINTMAKING       3-6   630-0920N  M W    B028 FOSTER          MAJORS ONLY      HUNTER K
+  8     2  ART  7500 LAB     1  GRADUATE DESIGN        3-6  1200-0250    T TH  0310 ART BUILDING    PERMIS OF INST   DOUBLEDAY R
+  1        ART  7556 LAB     1  GRAD RES DESIGN        3.0  TBA
+(F)     1  ART  7600 LAB     2  GRAD CERAMICS          3-6  1230-0320   M W    0154 STUDIO ARTS BLD PERMIS OF INST   SHAW A
+  1     9  ART  7600 LAB     1  GRAD CERAMICS          3-6  1200-0250    T TH  0154 STUDIO ARTS BLD PERMIS OF INST   WALSH M
+  5     7  ART  7700 LAB     1  GRAD SCULPTURE         3-6   700-0950N  M W                                          MCCLAY M
+(F)     9  ART  7800 LAB     1  GRAD PAINTING          3-6  1200-0250    T TH                       MAJORS ONLY      CELENTANO D
+  9     1  ART  7881 SEM     1  PAINTING SEMINAR       3.0  TBA                                     MAJORS ONLY      MALVETO J
+  5     5  ART  7900 LAB     1  GRADUATE PHOTOGRAPHY   3-6   900-1150    T TH  0229 ART BUILDING                     WARWICK J
+(F)     3  ART  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      NAM H
+  2        ART  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      SHAW A
+  1     1  ART  8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      MALVETO J
+  1     1  ART  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      CELENTANO D
+  2        ART  8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      BARR C
+  2        ART  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      KOPTCHO L
+  1     1  ART  8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      ORTNER F
+(F)     2  ART  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      MCCLAY M
+  2        ART  8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      DOUBLEDAY R
+  2     1  ART  8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      THOMPSON K
+  2     1  ART  8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      WALSH M
+  3        ART  8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      DEAN P
+  3        ART  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      ARIAZ J
+  2        ART  8000 RES    14  THESIS RESEARCH        1-12 TBA
+  1        ART  8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      ANDRESEN S
+  1        ART  8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      CELLUCCI V

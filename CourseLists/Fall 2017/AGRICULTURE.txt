@@ -1,0 +1,5 @@
+  8   102  AGRI 1001         5  INTR TO AGRICULTURE    1.0   230-0320   M      0139 ALLEN                            STAIR K
+ 22    38  AGRI 1001         1  INTR TO AGRICULTURE    1.0   330-0420    T     0211 TUREAUD HALL                     STAIR K
+ 20    40  AGRI 1001         2  INTR TO AGRICULTURE    1.0   330-0420    T     0221 TUREAUD HALL                     STAIR K
+ 30    30  AGRI 1001         3  INTR TO AGRICULTURE    1.0   330-0420     W    0221 TUREAUD HALL                     STAIR K
+ 31    29  AGRI 1001         4  INTR TO AGRICULTURE    1.0   330-0420     W    0211 TUREAUD HALL                     STAIR K

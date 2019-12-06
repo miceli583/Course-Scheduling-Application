@@ -1,0 +1,43 @@
+ 24    12  LA   1101 LAB     6  LANDSCAPE REPRES I     3.0   940-1130   M W F  0316 DESIGN BUILDING
+ 27     9  LA   1101 LAB     7  LANDSCAPE REPRES I     3.0   940-1130   M W F  0316 DESIGN BUILDING
+ 29     7  LA   1101 LAB     5  LANDSCAPE REPRES I     3.0   940-1230   M W    0308 DESIGN BUILDING                  MARSHALL C
+ 97   203  LA   1201         1  INTR LANDSCAPE ARCH    3.0   840-0930   M W F  0002 LOCKETT                          CONRAD M
+119   181  LA   1201         2  INTR LANDSCAPE ARCH    3.0   310-0430    T TH  0002 LOCKETT                          CONRAD M
+  1   299  LA   1203         1  VIEWS AMER LANDSCAPE   3.0  1140-1230   M W F  0100 DODSON                           FRYLING C
+ 84   216  LA   1203         2  VIEWS AMER LANDSCAPE   3.0   140-0230   M W F  0100 DODSON                           FRYLING C
+  2    18  LA   2001 LAB     1  LANDSCAPE DESIGN I     6.0   140-0530   M W F  0313 DESIGN BUILDING                  COX V
+  4    16  LA   2001 LAB     2  LANDSCAPE DESIGN I     6.0   140-0530   M W F  0322 DESIGN BUILDING                  RISK J
+(F)    20  LA   2101 LAB     1  LA REPRESENTAION III   3.0  1140-0130   M W F  0301 DESIGN BUILDING CI-VISUAL&TECH   CANTRELL B
+  1    19  LA   2101 LAB     2  LA REPRESENTAION III   3.0  1140-0130   M W F                       CI-VISUAL&TECH   CANTRELL B
+ 12     8  LA   2101 LAB     3  LA REPRESENTAION III   3.0  1140-0130   M W F                       CI-VISUAL&TECH   CANTRELL B
+(F)    50  LA   2201         1  LANDSCAPE HISTORY I    3.0   840-0930   M W F  0201 DESIGN BUILDING                  RISK J
+  1        LA   2301         1  LANDSCAPE TECH I       3.0  TBA
+                     LAB                                    TBA
+  8    12  LA   3001 LAB     1  LANDSCAPE DESN III     6.0   140-0530   M W F                       CI-SPOKEN&VISUA  CANTRELL B
+  4    11  LA   3001 LAB     2  LANDSCAPE DESN III     6.0   140-0530   M W F  0326 DESIGN BUILDING                  ALLEN C
+(F)    24  LA   3301         1  LAND ARCH TECH II      3.0   140-0230    T TH  0301 DESIGN BUILDING                  ABBEY D
+                     LAB                                     240-0430    T TH  0301 DESIGN BUILDING                  ABBEY D
+  9    13  LA   3301         2  LAND ARCH TECH II      3.0   140-0230    T TH  0301 DESIGN BUILDING                  SHARKY B
+                     LAB                                     240-0430    T TH  0301 DESIGN BUILDING                  SHARKY B
+(F)    16  LA   3401         1  PLANT MATERIALS I      3.0   910-1000    T TH  0301 DESIGN BUILDING                  FRYLING C
+                     LAB                                    1010-1200    T TH  0301 DESIGN BUILDING                  FRYLING C
+ 20    15  LA   3401         2  PLANT MATERIALS I      3.0   910-1000    T TH  0301 DESIGN BUILDING                  ABBEY D
+                     LAB                                    1010-1200    T TH  0301 DESIGN BUILDING                  ABBEY D
+  8    12  LA   4001 LAB     1  LANDSCAPE DESIGN V     6.0   140-0530   M W F  0304 DESIGN BUILDING                  SHARKY B
+  5    13  LA   4001 LAB     2  LANDSCAPE DESIGN V     6.0   140-0530   M W F  0209 DESIGN BUILDING                  CARNEY J
+ 17    33  LA   4201         2  PLAN THEORY & MTHDS    3.0   840-0930    T TH  0313 DESIGN BUILDING                  CONRAD M
+                     LAB                                     940-1030    T TH  0313 DESIGN BUILDING                  CONRAD M
+ 11    24  LA   4301         2  LANDSCAPE TECH IV      3.0   940-1230       F                                        CARNEY J
+                     LAB                                     940-1230       F                                        CARNEY J
+  6     9  LA   4504 SEM     2  ADV ELECTIVE IN L A    3.0   940-1230   M      0307 DESIGN BUILDING                  ABBEY D
+(F)    16  LA   4504 SEM     3  ADV ELECTIVE IN L A    3.0   610-0730N   T TH  0308 DESIGN BUILDING                  MICHAELS K
+  3     9  LA   4504 SEM     5  ADV ELECTIVE IN L A    3.0   910-1200     W    0307 DESIGN BUILDING                  ALLEN C
+ 13    12  LA   4504 SEM     1  ADV ELECTIVE IN L A    3.0   940-1230     W    0103 COATES          CI-WRITTEN&SPOK  DOUGLAS W
+  7     5  LA   4504 SEM     4  ADV ELECTIVE IN L A    3.0  1210-0300      TH  0308 DESIGN BUILDING
+(F)    18  LA   5001 LAB     1  LANDSCAPE DESIGN VII   6.0  1040-0530    T TH  0310 DESIGN BUILDING                  MICHAELS K
+ 13    17  LA   5201 SEM     1  RESEARCH SEMINAR       3.0   910-1030    T TH                       CI-WRITTEN&SPOK  DOUGLAS W
+ 13     7  LA   7001 LAB     1  GRAD LANDSC DESN I     6.0   140-0530   M W F  0225 DESIGN BUILDING                  DYKEMA K
+  2    13  LA   7003 LAB     1  GRAD LANDSC DESN III   6.0   140-0530   M W F  0226 DESIGN BUILDING                  MARSHALL C
+(F)    13  LA   7005 LAB     2  GRAD LANDSC DESN V     6.0  1240-0630   M W    0230 DESIGN BUILDING
+ 15        LA   7201 SEM     1  RESEARCH METHODS       3.0   910-1200     W
+ 11     9  LA   7401 SEM     1  GRAD LANDSC ECOL       3.0   140-0430    T                                           FRYLING C

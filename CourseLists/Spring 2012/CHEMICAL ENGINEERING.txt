@@ -1,0 +1,71 @@
+  3    28  CHE  2160         1  COMP TECH CHE ENG SY   1.0  1240-0130    T     0282 CHEM ENGR                        CYGAN M
+  3    28  CHE  2160         2  COMP TECH CHE ENG SY   1.0  1240-0130      TH  0282 CHEM ENGR                        CYGAN M
+  3    27  CHE  2171         1  CHE FUND MAT EN BAL    3.0   840-0930   M W F  0282 CHEM ENGR                        WETZEL D
+  2    29  CHE  2171         2  CHE FUND MAT EN BAL    3.0   940-1030   M W F  0282 CHEM ENGR                        WETZEL D
+ 37    40  CHE  2176         1  MATH MOD CHM ENG SYS   3.0   910-1030    T TH  2161 PATRICK TAYLOR                   NANDAKUMAR K
+ 15    90  CHE  3102         1  HEAT/MASS TRANSFER     4.0  1040-1130   MTWTH  1119 PATRICK TAYLOR                   THIBODEAUX L
+(F)     6  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430   M      0164 CHEM ENGR                        FLAKE J
+(F)     6  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430   M      0164 CHEM ENGR                        HUNG F
+(F)     6  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430   M      0164 CHEM ENGR                        HUNG F
+(F)     5  CHE  3104         4  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430    T     0164 CHEM ENGR                        FLAKE J
+(F)     5  CHE  3104         5  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430    T     0164 CHEM ENGR                        WETZEL D
+(F)     5  CHE  3104         6  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430    T     0164 CHEM ENGR                        HUNG F
+(F)     6  CHE  3104         7  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430     W    0164 CHEM ENGR                        FLAKE J
+(F)     6  CHE  3104         8  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430     W    0164 CHEM ENGR                        WETZEL D
+(F)     6  CHE  3104         9  ENGR MEASUREMENT LAB   3.0  1240-0130   M W    0105 TUREAUD HALL    CI-WRITTEN&SPOK  WETZEL D
+                     LAB                                     140-0430     W    0164 CHEM ENGR                        BENTON M
+ 42    78  CHE  3171         1  PROCESS ECON/OPTIMIZ   3.0   910-1030    T TH  E130 HOWE RUSSELL E                   HJORTSO M
+ 16    90  CHE  3173         1  HETEROGENUS EQULBRUM   3.0   940-1030   M W F  0009 LOCKETT                          GRIFFIN G
+(F)     5  CHE  4162         1  UNIT OPERATIONS LAB    3.0   440-0530N  M      0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430   M W                                          TOUPS H
+  1     4  CHE  4162         2  UNIT OPERATIONS LAB    3.0   440-0530N  M                           CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430   M W                                          TOUPS H
+(F)     4  CHE  4162         3  UNIT OPERATIONS LAB    3.0   440-0530N  M                           CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430   M W                                          TOUPS H
+(F)     4  CHE  4162         4  UNIT OPERATIONS LAB    3.0   440-0530N  M                           CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430   M W                                          TOUPS H
+(F)     3  CHE  4162         5  UNIT OPERATIONS LAB    3.0   440-0530N   T     0265 CHEM ENGR       CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430    T TH                                        TOUPS H
+(F)     3  CHE  4162         6  UNIT OPERATIONS LAB    3.0   440-0530N   T                          CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430    T TH                                        TOUPS H
+(F)     3  CHE  4162         7  UNIT OPERATIONS LAB    3.0   440-0530N   T                          CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430    T TH                                        TOUPS H
+(F)     3  CHE  4162         8  UNIT OPERATIONS LAB    3.0   440-0530N   T                          CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     140-0430    T TH                                        TOUPS H
+  4    28  CHE  4172         1  PROCESS DESIGN         4.0   940-1030   M W F  0211 TUREAUD HALL                     KNOPF F
+                     LAB                                     910-1030    T TH  0282 CHEM ENGR                        KNOPF F
+(F)    32  CHE  4172         2  PROCESS DESIGN         4.0   940-1030   M W F  0211 TUREAUD HALL                     KNOPF F
+                     LAB                                    1040-1200    T TH  0282 CHEM ENGR                        KNOPF F
+ 16     4  CHE  4221 LAB     1  SENIOR RESEARCH        1.0   740-0830       F                                        HUNG F
+  4    34  CHE  4253         1  INTRO IND POLL CONTR   3.0  1140-1230   M W F  0282 CHEM ENGR                        VALSARAJ K
+ 11    24  CHE  4272         1  NANOMATERIALS          3.0  1240-0130   M W F  0282 CHEM ENGR                        GRIFFIN G
+  1    29  CHE  4410         1  SP TOP IN CHE DESIGN   3.0  1140-1230   M W F  0265 CHEM ENGR                        ROMAGNOLI J
+  1    39  CHE  4420         1  SP TOP IN CHE SCIENC   3.0   140-0300    T TH  0282 CHEM ENGR       CI-WRITTEN&VISU  BENTON M
+ 16     9  CHE  7140         1  CH REACTOR DES METH    3.0   510-0630N  M W    0282 CHEM ENGR                        DOOLEY K
+ 16     9  CHE  7700         2  ADV TOPICS IN CHE      3.0   340-0500    T TH  0282 CHEM ENGR       PERMIS OF INST   NANDAKUMAR K
+ 20     5  CHE  7700         1  ADV TOPICS IN CHE      3.0   510-0630N   T TH  0282 CHEM ENGR                        ROMAGNOLI J
+ 97     2  CHE  8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BENTON M
+ 98     1  CHE  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DOOLEY K
+ 98     1  CHE  8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      THIBODEAUX L
+ 98     1  CHE  8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      THOMPSON K
+ 98     1  CHE  8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      WORNAT M
+ 95     4  CHE  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BENTON M
+ 96     3  CHE  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DOOLEY K
+ 96     3  CHE  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      FLAKE J
+ 98     1  CHE  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      GRIFFIN G
+ 94     5  CHE  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      HUNG F
+ 98     1  CHE  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      KNOPF F
+ 95     4  CHE  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      NANDAKUMAR K
+ 94     5  CHE  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      ROMAGNOLI J
+ 95     4  CHE  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      SPIVEY J
+ 95     4  CHE  9000 RES    14  DISSERTATION RES       1-12 TBA                                                      THOMPSON K
+ 22     3  CHE  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      VALSARAJ K
+  6     4  CHE  9000 RES    16  DISSERTATION RES       1-12 TBA                                                      WORNAT M

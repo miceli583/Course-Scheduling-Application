@@ -1,0 +1,23 @@
+  1    39  SW   7001         1  HUM BEH/SOC ENV I      3.0  TBA                                     LSU ONLINE       YANG M
+  1    34  SW   7002         1  HUM BEH/SOC ENV II     3.0  TBA                                     100% WEB BASED   KIM Y
+(F)    35  SW   7002         2  HUM BEH/SOC ENV II     3.0  TBA                                     LSU ONLINE       NORWOOD R
+(F)    35  SW   7002         3  HUM BEH/SOC ENV II     3.0  TBA                                     MAJORS ONLY      NORWOOD R
+  8    27  SW   7002         4  HUM BEH/SOC ENV II     3.0  TBA                                     LSU ONLINE       JACKSON R
+  4    41  SW   7003         1  SOC WELFARE HIST/POL   3.0  TBA                                     LSU ONLINE       CHIASSON A
+  1    39  SW   7003         2  SOC WELFARE HIST/POL   3.0  TBA                                     LSU ONLINE       WILLIAMS A
+  2    38  SW   7003         3  SOC WELFARE HIST/POL   3.0  TBA                                     LSU ONLINE       WILLIAMS A
+  4    36  SW   7003         4  SOC WELFARE HIST/POL   3.0  TBA                                     LSU ONLINE       CHIASSON A
+149     1  SW   7007 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     LSU ONLINE       LILLEY T
+ 70    30  SW   7008 CLI     1  FOUND FIELD INTERN I   3.0  TBA                                     LSU ONLINE       LILLEY T
+  2    43  SW   7306         1  ADV SW TRTMNT INDIVI   3.0  TBA                                     LSU ONLINE       MCILWAIN L
+  8    37  SW   7307         1  DIR PRAC CHILD/ADOLS   3.0  TBA                                     MAJORS ONLY      MCILWAIN L
+150        SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     LSU ONLINE       LILLEY T
+ 41    59  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     LSU ONLINE       LILLEY T
+(F)    35  SW   7506         1  COM/AGCY CONT DIR PR   3.0  TBA                                     LSU ONLINE       CONRAD B
+(F)    35  SW   7506         2  COM/AGCY CONT DIR PR   3.0  TBA                                     MAJORS ONLY      CONRAD B
+  2    33  SW   7506         3  COM/AGCY CONT DIR PR   3.0  TBA                                     LSU ONLINE       NORWOOD R
+(F)    35  SW   7506         4  COM/AGCY CONT DIR PR   3.0  TBA                                     LSU ONLINE       MCILWAIN L
+  4    31  SW   7506         5  COM/AGCY CONT DIR PR   3.0  TBA                                     LSU ONLINE       HUNTER D
+  4    41  SW   7807 SEM     1  JUVENILE CRIMNL JUST   3.0  TBA                                     LSU ONLINE       CHURCH W
+  4    41  SW   7807 SEM     2  AT RISK YOUTH          3.0  TBA                                     LSU ONLINE       COLSON T
+(F)     1  SW   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      WILKS S

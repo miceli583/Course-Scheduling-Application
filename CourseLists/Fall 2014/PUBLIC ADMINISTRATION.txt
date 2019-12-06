@@ -1,0 +1,15 @@
+ 24    16  PADM 5010         1  STAT METHODS PUB ADM   3.0   600-0850N    W    1225 BUS ED S WING                    LLORENS J
+                     LAB                                     600-0850N    W                                          LLORENS J
+ 37    23  PADM 5600         1  MICROEC TH POLICY AN   3.0   600-0850N  M      1845 BUS ED N WING                    RICHARDSON J
+  4    16  PADM 7610         1  HEALTHCARE ORG/FIN     3.0   600-0850N  M      1120 BUS ED S WING                    SALLES P
+ 19    21  PADM 7710         1  PUBLIC FIN MGT         3.0   600-0850N    W    1305 BUS ED S WING                    KEATON R
+ 24    16  PADM 7800 RES     1  IND STUD IN PADM       3.0   600-0850N    W    1325 BUS ED S WING                    CALEO S
+ 19     1  PADM 7850 CLI     1  PADM INTERNSHIP        3.0  TBA                                                      LLORENS J
+ 16     4  PADM 7851 CLI     1  PADM PRACTICUM         3.0  TBA                                                      RICHARDSON J
+ 14    16  PADM 7902 SEM     1  SEM PUBL POLICY        3.0   200-0450    T     1305 BUS ED S WING                    HEIDELBERG R
+ 18    12  PADM 7910 SEM     2  PUBL ADM-THRY/PRACT    3.0   200-0450   M      1425 BUS ED S WING                    HEIDELBERG R
+ 37    23  PADM 7910 SEM     1  PUBL ADM-THRY/PRACT    3.0   600-0850N   T     1845 BUS ED N WING                    HEIDELBERG R
+(F)    25  PADM 7911         1  ORG PUB/NONPROF ORG    3.0   200-0450      TH  1305 BUS ED S WING                    CALEO S
+ 23    17  PADM 7912 SEM     1  PUBLC PERSNL POLICY    3.0   600-0850N  M      1325 BUS ED S WING                    LLORENS J
+ 43     7  PADM 7914 SEM     1  PUBLIC BUDGETING       3.0   600-0850N     TH  1220 BUS ED S WING                    KEATON R
+ 31    19  PADM 7917 SEM     1  PROGRAM EVALUATION     3.0   600-0850N     TH  1321 BUS ED S WING                    LLORENS J

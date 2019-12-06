@@ -1,0 +1,54 @@
+ 13    27  CM   1010         1  CONS GRAPHCS/NOMENCL   3.0  1140-0130   M      0101 CONSTRUCTION MG                  PECQUET C
+                     LAB                                    1140-0130     W    0101 CONSTRUCTION MG                  PECQUET C
+(F)    40  CM   1010         2  CONS GRAPHCS/NOMENCL   3.0   140-0330   M      0101 CONSTRUCTION MG                  PECQUET C
+                     LAB                                     140-0330     W    0101 CONSTRUCTION MG                  PECQUET C
+  1    47  CM   1020 LAB     2  ENGR GRAPS FOR MECH    2.0  1040-1230   M W    3136 PATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
+  4    44  CM   1020 LAB     3  ENGR GRAPS FOR MECH    2.0  1240-0230   M W    3136 PATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
+ 18    30  CM   1020 LAB     4  ENGR GRAPS FOR MECH    2.0   540-0730N   T TH  0101 CONSTRUCTION MG                  JOHNSON M
+  5    43  CM   1030 LAB     1  ENGIN GRAPHICS         2.0   840-1030    T TH  3136 PATRICK TAYLOR  CI-VISUAL&TECH   DAVIS P
+ 14    34  CM   1030 LAB     3  ENGIN GRAPHICS         2.0   110-0300    T TH  3136 PATRICK TAYLOR                   JOHNSON M
+  9    39  CM   1030 LAB     4  ENGIN GRAPHICS         2.0   310-0500    T TH  0101 CONSTRUCTION MG                  JOHNSON M
+(F)    44  CM   2012         1  PLN CST ANAL RES CON   3.0   940-1130   M      2218 PATRICK TAYLOR                   HEUMANN S
+                     LAB                                     940-1130     W    2218 PATRICK TAYLOR                   HEUMANN S
+(F)    37  CM   2012         2  PLN CST ANAL RES CON   3.0  1240-0230   M      2218 PATRICK TAYLOR                   HEUMANN S
+                     LAB                                    1240-0230     W    2218 PATRICK TAYLOR                   HEUMANN S
+  6    30  CM   2121         1  MTRLS MTHDS EQMNT I    3.0   740-0900   M W    2218 PATRICK TAYLOR                   HEUMANN S
+(F)    42  CM   2121         2  MTRLS MTHDS EQMNT I    3.0   240-0400   M W    2218 PATRICK TAYLOR                   HEUMANN S
+(F)    37  CM   2131         1  MTRLS MTHDS EQMNT II   3.0   910-1030    T TH  2218 PATRICK TAYLOR                   KINCHEN D
+  7    29  CM   2131         2  MTRLS MTHDS EQMNT II   3.0  1210-0130    T TH  2218 PATRICK TAYLOR                   KINCHEN D
+(F)    36  CM   2141         1  CONST PLANNING & SCH   3.0  1040-1230    T     0101 CONSTRUCTION MG                  ROIDER E
+                     LAB                                    1040-1230      TH  0101 CONSTRUCTION MG                  ROIDER E
+ 16    20  CM   2141         2  CONST PLANNING & SCH   3.0   110-0300    T     0101 CONSTRUCTION MG                  NAHMENS I
+                     LAB                                     110-0300      TH  0101 CONSTRUCTION MG                  NAHMENS I
+(F)    38  CM   3000         1  CONSTRUTION SAFETY     3.0  1040-1200    T TH  0200 TUREAUD HALL                     PECQUET C
+(F)    39  CM   3000         2  CONSTRUTION SAFETY     3.0   140-0300    T TH  0112 TUREAUD HALL                     PECQUET C
+  9    16  CM   3100         2  CONSTRTN SURVEYING     3.0   940-1130   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                     940-1130     W    2216 PATRICK TAYLOR                   TRAHAN G
+(F)    27  CM   3100         3  CONSTRTN SURVEYING     3.0  1240-0230   M      2216 PATRICK TAYLOR                   TRAHAN G
+                     LAB                                    1240-0230     W    2216 PATRICK TAYLOR                   TRAHAN G
+(F)    38  CM   3121         2  COM CONS ESTIMATING    3.0   940-1130   M      0101 CONSTRUCTION MG                  SPRING C
+                     LAB                                     940-1130     W    0101 CONSTRUCTION MG                  SPRING C
+ 18    18  CM   3131         1  INDUST CONS ESTIMTNG   3.0   740-0930   M      3213 PATRICK TAYLOR                   KINCHEN D
+                     LAB                                     740-0930     W    3213 PATRICK TAYLOR                   KINCHEN D
+  1    35  CM   3131         2  INDUST CONS ESTIMTNG   3.0   940-1130   M      3213 PATRICK TAYLOR                   KINCHEN D
+                     LAB                                     940-1130     W    3213 PATRICK TAYLOR                   KINCHEN D
+  2    38  CM   3141         1  HIGHWAY CONSTRUCTION   3.0  1040-1200    T TH  2218 PATRICK TAYLOR                   ROSSO L
+ 11    25  CM   3141         2  HIGHWAY CONSTRUCTION   3.0   140-0300    T TH  2218 PATRICK TAYLOR                   ROSSO L
+ 18    18  CM   3303         1  MECH & ELEC SYSTEMS    3.0   740-0900    T TH  3213 PATRICK TAYLOR                   SPRING C
+(F)    36  CM   3303         2  MECH & ELEC SYSTEMS    3.0   910-1030    T TH  3213 PATRICK TAYLOR                   SPRING C
+ 14    22  CM   3400         2  CONSTRUCT MATERIALS    3.0   340-0500   M W    0101 CONSTRUCTION MG CI-SPOKEN&VISUA  FRIEDLAND C
+  1    35  CM   3400         1  CONSTRUCT MATERIALS    3.0   140-0300    T TH  3213 PATRICK TAYLOR                   HASSAN M
+  2    34  CM   3505         1  STRUCTURAL TECH I      3.0   910-1030    T TH  2216 PATRICK TAYLOR                   HEBERT K
+  8    28  CM   3505         2  STRUCTURAL TECH I      3.0  1040-1200    T TH  2216 PATRICK TAYLOR                   HEBERT K
+  4    32  CM   3506         1  STRUCTURAL TECH II     3.0   140-0300    T TH  2216 PATRICK TAYLOR                   HEBERT K
+(F)    37  CM   3506         2  STRUCTURAL TECH II     3.0   310-0430    T TH  2216 PATRICK TAYLOR                   HEBERT K
+  6    24  CM   4200         1  CONS ADMINISTRATION    3.0   240-0400   M W    2142 PATRICK TAYLOR                   TRAHAN G
+  7    23  CM   4200         2  CONS ADMINISTRATION    3.0   240-0400   M W    2150 PATRICK TAYLOR                   SPRING C
+(F)    61  CM   4201         1  CONSTRUCTION LAW       3.0  1040-1200    T TH  2162 PATRICK TAYLOR                   SCHNEIDER D
+(F)    24  CM   4202         1  CONSTRUCT ENTERPRISE   3.0   910-1030    T TH  3133 PATRICK TAYLOR                   SCHNEIDER D
+(F)    20  CM   4202         2  CONSTRUCT ENTERPRISE   3.0   140-0300    T TH  3133 PATRICK TAYLOR                   SCHNEIDER D
+  1    19  CM   4202         3  CONSTRUCT ENTERPRISE   3.0   310-0430    T TH  3133 PATRICK TAYLOR                   SCHNEIDER D
+ 12     8  CM   4206         3  PROJECT COMPETITION    3.0   440-0730N  M      2218 PATRICK TAYLOR  CI-WRITTEN&SPOK  HEUMANN S
+  5    15  CM   4206         1  BIM FOR CONSTRUCTION   3.0   610-0900N    W    0101 CONSTRUCTION MG                  ROIDER E
+(F)     1  CM   4207 RES     1  INDEPENDENT STUDY      3.0  TBA                                     PERMIS OF DEPT   FRIEDLAND C
+ 15     5  CM   4302         1  SUSTAINABLE CONST      3.0   310-0430    T TH  3213 PATRICK TAYLOR                   HASSAN M

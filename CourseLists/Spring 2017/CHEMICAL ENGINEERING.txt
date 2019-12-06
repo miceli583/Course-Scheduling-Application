@@ -1,0 +1,82 @@
+ 53    47  CHE  2171         2  CHE FUND MAT EN BAL    3.0   930-1020   M W F  0204 TUREAUD HALL                     BENTON M
+ 66    28  CHE  2171         3  CHE FUND MAT EN BAL    3.0  1030-1120   M W F  0206 TUREAUD HALL                     BENTON M
+ 59    83  CHE  2176         1  MATH MOD CHM ENG SYS   3.0   900-1020    T TH  0009 LOCKETT                          AYENI O
+  8   147  CHE  3102         1  HEAT/MASS TRANSFER     4.0   830-1020    T TH  0103 DESIGN BUILDING                  ARGES C
+(F)     7  CHE  3104         1  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR  CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420   M                                            STEVENS C
+(F)     7  CHE  3104         2  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420   M                                            BALHOFF D
+(F)     7  CHE  3104         3  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR  CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420   M                                            MELVIN E
+(F)     7  CHE  3104         4  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR  CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420    T                                           MELVIN A
+(F)     7  CHE  3104         5  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420    T                                           BALHOFF D
+(F)     7  CHE  3104         6  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420    T                                           MCPEAK K
+(F)     7  CHE  3104         7  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420     W                                          SPIVEY J
+(F)     7  CHE  3104         8  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420     W                                          DORMAN J
+(F)     7  CHE  3104         9  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR  CI-WRITTEN&SPOK  MELVIN E
+                     LAB                                     130-0420     W                                          BALHOFF D
+(F)     7  CHE  3104        10  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420      TH                                        SPIVEY J
+(F)     7  CHE  3104        11  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420      TH                                        DORMAN J
+(F)     7  CHE  3104        12  ENGR MEASUREMENT LAB   3.0  1230-0120   M W    1221 PATRICK TAYLOR                   MELVIN E
+                     LAB                                     130-0420      TH                                        BALHOFF D
+ 68   132  CHE  3171         1  PROCESS ECON/OPTIMIZ   3.0  1030-1120   M W F  0143 COATES                           XU Y
+ 37   163  CHE  3173         1  HETEROGENUS EQULBRUM   3.0   930-1020   M W F  0143 COATES                           DING K
+(F)     8  CHE  4162         1  UNIT OPERATIONS LAB    3.0   430-0520N  M      0102 ALLEN           CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420   M W                                          GRIFFIN G
+(F)    11  CHE  4162         2  UNIT OPERATIONS LAB    3.0   430-0520N  M      0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420   M W                                          GRIFFIN G
+(F)     8  CHE  4162         3  UNIT OPERATIONS LAB    3.0   430-0520N  M      0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420   M W                                          DOOLEY K
+(F)     9  CHE  4162         4  UNIT OPERATIONS LAB    3.0   430-0520N  M      0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420   M W                                          AYENI O
+(F)     9  CHE  4162         5  UNIT OPERATIONS LAB    3.0   430-0520N   T     0102 ALLEN           CI-WRITTEN&SPOK  TOUPS H
+                     LAB                                     130-0420    T TH                                        DOOLEY K
+(F)     9  CHE  4162         6  UNIT OPERATIONS LAB    3.0   430-0520N   T     0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420    T TH                                        DOOLEY K
+(F)     7  CHE  4162         7  UNIT OPERATIONS LAB    3.0   430-0520N   T     0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420    T TH                                        GRIFFIN G
+(F)     8  CHE  4162         8  UNIT OPERATIONS LAB    3.0   430-0520N   T     0102 ALLEN                            TOUPS H
+                     LAB                                     130-0420    T TH                                        AYENI O
+  7    63  CHE  4172         1  PROCESS DESIGN         4.0   930-1020   M W F  0006 LOCKETT                          FLAKE J
+                     LAB                                     900-1020    T TH  1124 PATRICK TAYLOR                   FLAKE J
+(F)    70  CHE  4172         2  PROCESS DESIGN         4.0   930-1020   M W F  0006 LOCKETT                          FLAKE J
+                     LAB                                    1030-1150   M W    1124 PATRICK TAYLOR                   CORRIPIO A
+ 14    26  CHE  4210         1  INDUSTRL CATALYSIS     3.0  1200-0120    T TH  0282 CHEM ENGR                        SPIVEY J
+ 18     6  CHE  4221 LAB     2  SENIOR RESEARCH        1.0   730-0820N  M                           CI-WRITTEN       FLAKE J
+  7     3  CHE  4221 LAB     1  SENIOR RESEARCH        1.0   730-0820       F                       CI-WRITTEN       FLAKE J
+(F)     8  CHE  4222 LAB     1  SENIOR RESEARCH        2.0   530-0620N   T TH                       PERMIS OF INST   FLAKE J
+ 17    98  CHE  4253         1  INTRO IND POLL CONTR   3.0   130-0250    T TH  0152 COATES                           MCPEAK K
+ 18    66  CHE  4260         1  BIOCHEMICAL ENGR       3.0   830-0920   M W F  1225 PATRICK TAYLOR  CI-WRITTEN&SPOK  MELVIN A
+ 11    59  CHE  4410         1  SP TOP IN CHE DESIGN   3.0  1030-1150    T TH  0120 TUREAUD HALL                     ROMAGNOLI J
+ 13    17  CHE  7140         1  CH REACTOR DES METH    3.0   500-0620N  M W    0282 CHEM ENGR                        DORMAN J
+ 23     2  CHE  7700         3  ADV TOPICS IN CHE      3.0   830-0920   M W F  1221 PATRICK TAYLOR                   MELVIN A
+ 18     7  CHE  7700         1  ADV TOPICS IN CHE      3.0  1100-1150   M W    0116 TUREAUD HALL                     SHELTON W
+ 13    12  CHE  7700         2  ADV TOPICS IN CHE      3.0   300-0420   M W    0282 CHEM ENGR                        NANDAKUMAR K
+ 26    49  CHE  7800 SEM     1  SEMINAR                1.0   200-0250       F  1221 PATRICK TAYLOR                   BENTON M
+  5        CHE  8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      MELVIN A
+  5        CHE  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      NANDAKUMAR K
+  5        CHE  8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      ROMAGNOLI J
+  5        CHE  8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      SPIVEY J
+  5        CHE  8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      DORMAN J
+ 97     2  CHE  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BENTON M
+ 98     1  CHE  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DOOLEY K
+ 95     4  CHE  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      FLAKE J
+ 98     1  CHE  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      BHARTI B
+ 94     5  CHE  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      MELVIN A
+ 91     8  CHE  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      NANDAKUMAR K
+ 93     6  CHE  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      ROMAGNOLI J
+ 96     3  CHE  9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SPIVEY J
+ 98     1  CHE  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      THOMPSON K
+ 22     3  CHE  9000 RES    15  DISSERTATION RES       1-12 TBA                                                      WORNAT M
+  6     4  CHE  9000 RES    16  DISSERTATION RES       1-12 TBA                                                      XU Y
+ 97     2  CHE  9000 RES    17  DISSERTATION RES       1-12 TBA                                                      ARGES C
+ 95     4  CHE  9000 RES    18  DISSERTATION RES       1-12 TBA                                                      DORMAN J
+ 96     3  CHE  9000 RES    19  DISSERTATION RES       1-12 TBA                                                      MCPEAK K
+ 97     2  CHE  9000 RES    20  DISSERTATION RES       1-12 TBA                                                      DING K

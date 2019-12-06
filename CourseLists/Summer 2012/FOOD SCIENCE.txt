@@ -1,0 +1,27 @@
+(F)     1  FDSC 3900 RES     4  FOOD SCI RESEARCH      1-3  TBA                                                      KING J
+ 99        FDSC 8000 RES     1  THESIS RESEARCH        1-12 TBA
+ 98     1  FDSC 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DAY D
+ 98     1  FDSC 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      LAMPILA L
+ 98     1  FDSC 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      JANES M
+ 98     1  FDSC 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      KING J
+ 97     2  FDSC 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      LOSSO J
+ 96     3  FDSC 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      FINLEY J
+ 97     2  FDSC 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      PRINYAWIWATKU
+ 99        FDSC 8000 RES     9  THESIS RESEARCH        1-12 TBA
+ 99        FDSC 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      WILSON P
+ 99        FDSC 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      XU Z
+  9     1  FDSC 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      SATHIVEL S
+ 97     2  FDSC 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      AITA G
+ 99        FDSC 9000 RES     1  DISSERTATION RES       1-12 TBA
+ 99        FDSC 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DAY D
+ 99        FDSC 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      LAMPILA L
+ 96     3  FDSC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      JANES M
+ 98     1  FDSC 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      KING J
+ 96     3  FDSC 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      LOSSO J
+ 96     3  FDSC 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      FINLEY J
+ 95     4  FDSC 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      PRINYAWIWATKU
+ 99        FDSC 9000 RES     9  DISSERTATION RES       1-12 TBA
+ 99        FDSC 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      WILSON P
+ 99        FDSC 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      XU Z
+  7     3  FDSC 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      SATHIVEL S
+ 99        FDSC 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      DAY D

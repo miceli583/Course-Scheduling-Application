@@ -1,0 +1,46 @@
+ 18   282  ISDS 1100         1  INTRO MGT INF SYSTMS   3.0  1240-0130   M      0101 GYM AUDITORIUM                   PLAISANCE C
+                     LAB                                    TBA                                                      PLAISANCE C
+ 73   207  ISDS 1100         2  INTRO MGT INF SYSTMS   3.0  1240-0130     W    0101 GYM AUDITORIUM                   PLAISANCE C
+                     LAB                                    TBA                                                      PLAISANCE C
+(F)   101  ISDS 1102         1  INT MGT INF SYS MAJR   3.0  1140-1230   M W F  0103 TUREAUD HALL                     BORNE C
+(F)   105  ISDS 1102         2  INT MGT INF SYS MAJR   3.0  1240-0130   M W F  0103 TUREAUD HALL                     BORNE C
+(F)   102  ISDS 1102         3  INT MGT INF SYS MAJR   3.0   140-0230   M W F  0103 TUREAUD HALL                     BORNE C
+(F)    93  ISDS 1102         4  INT MGT INF SYS MAJR   3.0   910-1030    T TH  0105 TUREAUD HALL                     HUTCHINSON L
+(F)    90  ISDS 1102         5  INT MGT INF SYS MAJR   3.0  1210-0130    T TH  0105 TUREAUD HALL                     FORBES R
+  7   143  ISDS 2000         1  INTRO TO BUS STATS     3.0   840-0930   M W F  1109 PATRICK TAYLOR                   SHREVE J
+  1   149  ISDS 2000         2  INTRO TO BUS STATS     3.0   940-1030   M W F  1109 PATRICK TAYLOR                   SHREVE J
+  6   144  ISDS 2000         3  INTRO TO BUS STATS     3.0  1040-1130   M W F  1109 PATRICK TAYLOR                   LOVE J
+105    45  ISDS 2000         4  INTRO TO BUS STATS     3.0   240-0330   M W F  1109 PATRICK TAYLOR                   CU T
+(F)   160  ISDS 2001         1  STAT METH/DEC MOD      3.0  1140-1230   M W F  1109 PATRICK TAYLOR                   CATANZARO J
+ 11   149  ISDS 2001         2  STAT METH/DEC MOD      3.0  1240-0130   M W F  1109 PATRICK TAYLOR                   CATANZARO J
+  4   156  ISDS 2001         3  STAT METH/DEC MOD      3.0   140-0230   M W F  1109 PATRICK TAYLOR                   CATANZARO J
+  4    11  ISDS 3070 RES     2  IND RD/RES IN ISDS     1-6   310-0430   M W    2103 PATRICK TAYLOR                   HUTCHINSON C
+(F)     1  ISDS 3070 RES     1  IND RD/RES IN ISDS     1-6  TBA                                                      WILEY-PATTON
+(F)     1  ISDS 3070 RES     3  IND RD/RES IN ISDS     1-6  TBA                                                      HOUSTON A
+(F)     2  ISDS 3070 RES     4  IND RD/RES IN ISDS     1-6  TBA                                                      CHEN Y
+ 13     7  ISDS 3075 CLI     1  INTERNSHIP IN ISDS     3.0  TBA                                                      SCHNEIDER H
+  7    41  ISDS 3100         1  MGT INFORM RESOURCES   3.0   910-1030    T TH  2150 PATRICK TAYLOR                   HOUSTON A
+(F)    38  ISDS 3105         1  INTERNET DEVELOPMENT   3.0  TBA                                                      SCHNEIDER H
+  1    49  ISDS 3107         1  BEGIN PROG ISDS MJRS   3.0   940-1030   M W F  1116 PATRICK TAYLOR                   BORNE C
+  1    34  ISDS 3110         1  DATABASE PROCESS MGT   3.0  1040-1200    T TH  2228 PATRICK TAYLOR                   HUTCHINSON L
+  8   142  ISDS 3115         1  INTR OPERATIONS MGT    3.0   140-0300    T TH  1109 PATRICK TAYLOR                   KELLE P
+ 35   115  ISDS 3115         2  INTR OPERATIONS MGT    3.0   310-0430    T TH  1109 PATRICK TAYLOR                   KELLE P
+ 11    59  ISDS 3120         1  MGMT OF IT FUNCTION    3.0  TBA                                     100% WEB BASED   SCHWARZ A
+ 27    23  ISDS 3200         1  ADV BUS PROGRAMMING    3.0   840-0930   M W F  1116 PATRICK TAYLOR                   CATANZARO J
+(F)    50  ISDS 4113         2  PROJECT MANAGEMENT     3.0  1210-0130    T TH  2171 PATRICK TAYLOR                   PAWLOWSKI S
+ 16    34  ISDS 4120         1  BUS DATA COMMUNICATI   3.0   310-0430    T TH  1112 PATRICK TAYLOR  CI-SPOKEN&VISUA  WALTERS K
+ 20    30  ISDS 4125         1  ANAL/DESN MGT INF SY   3.0   140-0300    T TH  0229 TUREAUD HALL                     HOUSTON A
+  9    16  ISDS 4141         2  INTRO TO DATA MINING   3.0  1240-0130   M W F  1110 PATRICK TAYLOR                   SHREVE J
+ 21     9  ISDS 7070 RES     1  SEM ADV BUS PROBLEMS   3.0   140-0300    T TH  2149 PATRICK TAYLOR                   HUTCHINSON L
+(F)     2  ISDS 7070 RES     2  SEM ADV BUS PROBLEMS   3.0  TBA                                                      WILEY-PATTON
+(F)     2  ISDS 7070 RES     3  SEM ADV BUS PROBLEMS   3.0  TBA                                                      SOYSAL O
+ 12    18  ISDS 7103         2  OPER RES-STOCH METHD   3.0   310-0430   M W    1114 PATRICK TAYLOR                   CHUN Y
+ 10    15  ISDS 7220         2  SUPPLY CHAIN MGT       3.0  1010-1130   M W    2148 PATRICK TAYLOR                   VAN SCOTTER J
+ 12    18  ISDS 7520         1  NETWRK INFO SYST I     3.0   610-0900N    W    3142 PATRICK TAYLOR                   WILEY-PATTON
+ 26     4  ISDS 7535         1  INFO TECH MANAGEMENT   3.0  TBA                                                      SCHWARZ A
+ 18    12  ISDS 7920         2  ISS IN MGT INF SYSTM   3.0   110-0400     W    2149 PATRICK TAYLOR                   PAWLOWSKI S
+ 21     9  ISDS 7990 RES     1  PROJECT                3-6   140-0230   M W F  1110 PATRICK TAYLOR                   SHREVE J
+  1     2  ISDS 7990 RES     2  PROJECT                3-6  TBA                                                      SCHNEIDER H
+(F)     1  ISDS 7990 RES     3  PROJECT                3-6  TBA                                                      WILEY-PATTON
+  9     1  ISDS 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      SCHNEIDER H
+  4     6  ISDS 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      SCHNEIDER H

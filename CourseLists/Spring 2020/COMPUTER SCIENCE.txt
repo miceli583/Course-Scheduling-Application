@@ -1,0 +1,49 @@
+(F)    40  CSC  1240         1  STATS & GRAPH MATLB    3.0  1130-1220   M W    0010 LOCKETT                          BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
+(F)    48  CSC  1240         2  STATS & GRAPH MATLB    3.0  1130-1220   M W    0010 LOCKETT                          BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
+ 18    30  CSC  1240         3  STATS & GRAPH MATLB    3.0  1130-1220   M W    0010 LOCKETT                          BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
+ 22     8  CSC  1240         4  STATS & GRAPH MATLB    3.0  1130-1220   M W    0010 LOCKETT                          BRENER N
+                     LAB                                    1130-0120       F                                        BRENER N
+ 26    54  CSC  1253         2  COMP SCI WITH C++      3.0   900-1020    T TH  1221 PATRICK TAYLOR                   DUNCAN W
+ 12    68  CSC  1253         1  COMP SCI WITH C++      3.0  1030-1150    T TH  1253 PATRICK TAYLOR                   DUNCAN W
+ 20    40  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1200-0120    T TH  0109 TUREAUD HALL                     LAFIELD W
+ 77    47  CSC  1350         1  COMP SCI I-MJRS        4.0   930-1020   M W F  1200 PATRICK TAYLOR                   AYMOND P
+                     LAB                                     500-0750N     TH                                        AYMOND P
+(F)   125  CSC  1351         1  COMP SCI II-MJRS       4.0   900-1020    T TH  0143 COATES                           MAHMOUD A
+                     LAB                                     500-0750N    W                                          MAHMOUD A
+ 45    27  CSC  1351         3  COMP SCI II-MJRS       4.0  1030-1150    T TH  0214 WILLIAMS                         BRENER N
+                     LAB                                     230-0520       F                                        BRENER N
+ 39    56  CSC  2259         1  DISCRETE STRUCTURES    3.0   130-0250    T TH  1221 PATRICK TAYLOR                   KUNDU S
+ 41    69  CSC  2262         1  NUMERICAL METHODS      3.0   300-0420    T TH  1125 BUS ED S WING                    BRENER N
+ 14    61  CSC  2463         1  PROGMMG DGITL MEDIA    3.0   130-0250    T TH  0120 TUREAUD HALL                     THAPA S
+(F)    48  CSC  2610         1  CLOUD & WEB PROGMNG    3.0   900-1020    T TH  0218 TUREAUD HALL                     WANG Q
+ 16     4  CSC  2700         1  CMPTVE PRGMG 1CR HR    1-3   630-0820N   T     1218 PATRICK TAYLOR                   TRAXLER I
+ 44    71  CSC  3102         1  ADV DATA STRUCTURES    3.0  1200-0120    T TH  1263 PATRICK TAYLOR                   DUNCAN W
+(F)    30  CSC  3200         1  ETHICS IN COMPUTING    1.0   930-1020   M      0129 TUREAUD HALL                     PARK S
+ 14   106  CSC  3380         1  OBJ ORIENTED DESIGN    3.0  1030-1150   M W    0130 HOWE RUSSELL E                   AYMOND P
+ 32    93  CSC  3501         1  COMP ORGANIZATN/DSN    3.0   330-0450   M W    E137 HOWE RUSSELL E                   WANG C
+ 44    32  CSC  4101         1  PROG LANGUAGES         3.0   200-0320   M W    1253 PATRICK TAYLOR                   MUKHOPADHYAY
+ 58    62  CSC  4103         1  OPERATING SYSTEMS      3.0   500-0620N   T TH  1263 PATRICK TAYLOR                   CHEN F
+ 12    78  CSC  4263         1  VIDEO GAME DESIGN      3.0  1030-1150    T TH  0206 TUREAUD HALL                     YE J
+ 20    40  CSC  4330         1  SOFTWARE SYST DEVEL    3.0  1030-1150   M W    0109 TUREAUD HALL                     CARVER D
+ 32    43  CSC  4351         1  COMPILER CONSTRUCTN    3.0  1230-0150   M W    0120 TUREAUD HALL                     BAUMGARTNER G
+(F)    25  CSC  4360         1  MALWARE ANALYSIS/REV   3.0  1000-1250     W    0129 TUREAUD HALL                     RICHARD G
+ 30    40  CSC  4402         1  INTR DATABSE MGT SYS   3.0   300-0420    T TH  0120 TUREAUD HALL                     SUN M
+ 28    27  CSC  4512         1  OPTIMIZATION           3.0   300-0420    T TH  0102 TUREAUD HALL                     TRIANTAPHYLLO
+(F)    20  CSC  4700         2  APPLIED DEEP LEARNG    3.0  1030-1150    T TH  1216 PATRICK TAYLOR                   ZHANG J
+ 15    35  CSC  4700         1  BLCKCHAIN CRYPTOCURR   3.0   930-1220       F  0229 TUREAUD HALL                     BUSCH K
+ 20    20  CSC  4740         1  BIG DATA TECH          3.0   130-0250    T TH  0226 TUREAUD HALL                     LEE K
+ 23     7  CSC  7080         1  ADV COMPUTER ARCH      3.0  1030-1120   M W F  0102 TUREAUD HALL                     PENG L
+ 19     1  CSC  7090 IND     5  DESIGN PROJECT         1-9  TBA                                     PERMIS OF DEPT
+ 16    14  CSC  7101         1  PROGRAM LANG STRUCTS   3.0   200-0320   M W    1216 PATRICK TAYLOR                   BAUMGARTNER G
+ 14    16  CSC  7135         1  SOFTWARE ENGINEERING   3.0  1230-0150   M W    0117 TUREAUD HALL                     CARVER D
+ 30    28  CSC  7333         1  MACHINE LEARNING       3.0  1200-0120    T TH  0203 TUREAUD HALL                     CHEN J
+(F)    16  CSC  7700         1  WEB SEARCH & DATA AN   3.0   330-0620   M      1216 PATRICK TAYLOR                   SUN M
+(F)     5  CSC  7700         4  COMP IMAGING & 3DVIS   3.0   130-0420    T                                           YE J
+ 20    10  CSC  7800 SEM     1  CSC RESEARCH SEMINAR   1.0  1130-1220     W                                          KUNDU S
+ 98     1  CSC  7999 RES     9  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 96     3  CSC  9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        CSC  9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 96     3  CSC  9000 RES    31  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT

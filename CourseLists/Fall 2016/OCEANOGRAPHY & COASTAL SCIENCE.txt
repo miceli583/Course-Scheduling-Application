@@ -1,0 +1,69 @@
+ 12    88  OCS  1005         1  INTRO OCEANOGRAPHY     3.0  1030-1120   M W F  0204 TUREAUD HALL                     LINDAU C
+ 17    83  OCS  1005         2  INTRO OCEANOGRAPHY     3.0  1130-1220   M W F  0204 TUREAUD HALL                     LINDAU C
+ 31    45  OCS  1005         3  INTRO OCEANOGRAPHY     3.0  1030-1150    T TH  0221 TUREAUD HALL                     XUE Z
+ 28    22  OCS  1005         4  INTRO OCEANOGRAPHY     3.0   300-0420    T TH  0203 TUREAUD HALL                     D'SA E
+ 15    85  OCS  1005         5  INTRO OCEANOGRAPHY     3.0  TBA                                     100% WEB BASED   SUTOR M
+ 25    15  OCS  1010         1  INTRO COAST ENV SCI    1.0   830-0920     W    0101 TUREAUD HALL                     WHITE J
+  1    24  OCS  2007         1  INTRO MAR SCI GEO&PH   4.0   300-0420    T TH  1070 ENER,COAST,& EN                  LIANG J
+                     LAB                                    TBA                                                      LIANG J
+  1    29  OCS  2008         1  INTRO MRSC-LIFE PROC   4.0  1030-1150    T TH  1070 ENER,COAST,& EN                  BENFIELD M
+                     LAB                                    TBA                                                      BENFIELD M
+  5    20  OCS  2011         1  MATLAB COASTAL SCI     3.0   900-1020    T TH  1280 ENER,COAST,& EN CI-VISUAL&TECH   BENFIELD M
+ 37    43  OCS  3103         1  GLOBAL ENVIR CYCLES    3.0  1230-0120   M W F  0103 TUREAUD HALL                     MAITI K
+ 26    14  OCS  3200         1  HURRICANES & TYPHOON   3.0   130-0250    T TH  0117 TUREAUD HALL    CI-WRITTEN&SPOK  LIU K
+(F)     1  OCS  3999 RES     1  UNDERGRAD RESEARCH     1-6  TBA                                     PERMIS OF DEPT   BARGU ATES S
+(F)     1  OCS  3999 RES     2  UNDERGRAD RESEARCH     1-6  TBA                                     PERMIS OF DEPT   TURNER R
+(F)     1  OCS  3999 RES     3  UNDERGRAD RESEARCH     1-6  TBA                                     PERMIS OF DEPT   MAITI K
+  1    19  OCS  4012         1  BIOL OF MARINE VERT    3.0  1200-0120    T TH  0100 TUREAUD HALL    CI-WRITTEN&TECH  POLITO M
+  1    17  OCS  4030 SEM     1  TECH OF RES PRESENTN   1.0   130-0220     W    2215 ENER,COAST,& EN CI-SPOKEN        SHAW R
+  1    21  OCS  4126         1  CHEMICAL OCEANOGRAPH   3.0  1030-1150    T TH  0100 TUREAUD HALL    CI-WRITTEN&SPOK  MAITI K
+  6    20  OCS  4170         1  PHY OCEANOGRAPHY       3.0   930-1020   M W F  1070 ENER,COAST,& EN                  LI C
+  2    13  OCS  4308         1  PLANTS COASTL ENVIR    3.0   130-0250    T TH  0201 TUREAUD HALL    CI-SPOKEN&VISUA  QUIRK T
+  8     7  OCS  4372         1  ESTUARINE ECOLOGY      4.0   430-0550N   T TH                                        TWILLEY R
+                     LAB                                    TBA                                                      TWILLEY R
+  7    13  OCS  4410         1  ECOSYSTM MODELING      3.0   430-0720N     TH  0100 TUREAUD HALL    CI-WRITTEN&TECH  JUSTIC D
+  7    18  OCS  4465         1  SEM COAST ZONE MGT     3.0   500-0750N  M      0108 TUREAUD HALL                     KEMP G
+  2    10  OCS  4565         1  RESTORATION ECOLOGY    3.0   430-0550N  M W    1215 ENER,COAST,& EN PERMIS OF INST   TURNER R
+                     LAB                                    TBA                                                      TURNER R
+  1    14  OCS  7001 RES     1  GEOMORPH MODELING      1-6   430-0550N   T TH  1280 ENER,COAST,& EN                  MARIOTTI G
+ 14     1  OCS  7112         1  CONCEPTS IN MAR ECOT   3.0   300-0420   M W    3178 ENER,COAST,& EN                  PORTIER R
+  1    11  OCS  7129         1  GLOB CLIM CHG & WETL   3.0   300-0420    T TH  3178 ENER,COAST,& EN                  RIVERA-MONROY
+  2     5  OCS  7170         1  SATELLITE OCNOGRPHY    3.0   130-0250    T TH  E131 HOWE RUSSELL E                   WALKER N
+ 13     7  OCS  7310         1  HARMFUL ALGAL BLOOMS   3.0   900-1020    T TH  1070 ENER,COAST,& EN                  BARGU ATES S
+  7     3  OCS  7335         1  FISH RECRUITMENT       3.0  TBA                                                      COWAN J
+ 98     1  OCS  8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BARGU ATES S
+ 97     2  OCS  8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      POLITO M
+ 96     3  OCS  8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      COWAN J
+ 98     1  OCS  8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      D'SA E
+ 98     1  OCS  8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      HUANG H
+ 98     1  OCS  8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      LIU K
+ 96     3  OCS  8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      RIVERA-MONROY
+ 98     1  OCS  8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      ROSE K
+ 98     1  OCS  8000 RES    20  THESIS RESEARCH        1-12 TBA                                                      WALKER N
+ 97     2  OCS  8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      WHITE J
+ 98     1  OCS  8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      XU K
+ 98     1  OCS  8000 RES    23  THESIS RESEARCH        1-12 TBA                                                      ROBERTS B
+ 98     1  OCS  8000 RES    27  THESIS RESEARCH        1-12 TBA                                                      SUTOR M
+ 98     1  OCS  8000 RES    30  THESIS RESEARCH        1-12 TBA                                                      QUIRK T
+ 97     2  OCS  8000 RES    32  THESIS RESEARCH        1-12 TBA                                                      DAY J
+ 98     1  OCS  8000 RES    33  THESIS RESEARCH        1-12 TBA                                                      LIANG J
+ 98     1  OCS  8900 RES     2  ADV RDGS & LIT RES     1-6  TBA                                     PERMIS OF INST   PORTIER R
+  3     2  OCS  8901 RES     1  ADV FIELD RESEARCH     1-6  TBA                                                      LI C
+ 97     2  OCS  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BALTZ D
+ 98     1  OCS  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      LIANG J
+ 97     2  OCS  9000 RES     5  DISSERTATION RES       1-12 TBA                                                      COWAN J
+ 97     2  OCS  9000 RES     6  DISSERTATION RES       1-12 TBA                                                      D'SA E
+ 98     1  OCS  9000 RES     7  DISSERTATION RES       1-12 TBA                                                      GAMBRELL R
+ 96     3  OCS  9000 RES     8  DISSERTATION RES       1-12 TBA                                                      HUANG H
+ 98     1  OCS  9000 RES     9  DISSERTATION RES       1-12 TBA                                                      JUSTIC D
+ 98     1  OCS  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      LI C
+ 96     3  OCS  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      MAITI K
+ 95     4  OCS  9000 RES    18  DISSERTATION RES       1-12 TBA                                                      TWILLEY R
+ 98     1  OCS  9000 RES    19  DISSERTATION RES       1-12 TBA                                                      TURNER R
+ 97     2  OCS  9000 RES    22  DISSERTATION RES       1-12 TBA                                                      XU K
+ 98     1  OCS  9000 RES    24  DISSERTATION RES       1-12 TBA                                                      RABALAIS N
+ 98     1  OCS  9000 RES    25  DISSERTATION RES       1-12 TBA                                                      SASSER C
+ 98     1  OCS  9000 RES    27  DISSERTATION RES       1-12 TBA                                                      MENDELSSOHN I
+ 98     1  OCS  9000 RES    28  DISSERTATION RES       1-12 TBA                                                      POLITO M
+ 98     1  OCS  9000 RES    30  DISSERTATION RES       1-12 TBA                                                      XUE Z
+ 98     1  OCS  9000 RES    31  DISSERTATION RES       1-12 TBA                                                      MARIOTTI G

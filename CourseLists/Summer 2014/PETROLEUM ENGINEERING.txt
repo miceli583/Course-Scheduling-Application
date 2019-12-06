@@ -1,0 +1,12 @@
+  1    38  PETE 1010         1  INTR TO PETR ENGR      2.0  TBA                                                      THURBER F
+  2    21  PETE 2034 LAB     1  ROCK/FLUID PROP LAB    1.0   200-0500   MTWTH                                        KAM S
+(F)     1  PETE 7256 RES     1  SPEC PROB PETR ENGR    1-6  TBA                                                      TYAGI M
+(F)     1  PETE 7256 RES     3  SPEC PROB PETR ENGR    1-6  TBA                                                      RAO D
+(F)     1  PETE 7256 RES     4  SPEC PROB PETR ENGR    1-6  TBA                                                      WALTRICH P
+ 98     1  PETE 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      THOMPSON K
+ 98     1  PETE 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      RADONJIC M
+ 98     1  PETE 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      HUGHES R
+ 98     1  PETE 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      DAHI TALEGHAN
+ 98     1  PETE 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      WOJTANOWICZ A
+ 98     1  PETE 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      RAO D
+ 97     2  PETE 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      KAM S

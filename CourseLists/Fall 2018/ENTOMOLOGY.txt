@@ -1,0 +1,47 @@
+  1    19  ENTM 2001         1  INSECTS IN ENVIRONME   3.0   930-1020   M W    0119 TUREAUD HALL                     DAVIS J
+                     LAB                                     230-0420     W    0110 LIFE SCIENCES                    DAVIS J
+ 12     8  ENTM 2001         2  INSECTS IN ENVIRONME   3.0   930-1020   M W    0119 TUREAUD HALL                     DAVIS J
+                     LAB                                     130-0320    T     0110 LIFE SCIENCES                    DAVIS J
+  9     6  ENTM 4011         1  BIO/MGT OF HONEY BEE   3.0   300-0420   M W    A561 LIFE SCIENCES A                  HEALY K
+                     LAB                                    TBA                                                      HEALY K
+  5        ENTM 4099 RES     1  UNDERGR ENTM RESEARC   1-3  1000-1050   M W    A561 LIFE SCIENCES A
+  8    17  ENTM 7001         1  GENERAL ENTOMOLOGY     4.0   100-0150   M W F  0110 LIFE SCIENCES                    STOUT M
+                     LAB                                     200-0350   M      0110 LIFE SCIENCES                    STOUT M
+ 25     5  ENTM 7007 SEM     1  SEMINAR ENTOMOLOGY     1.0   200-0250       F                                        DIAZ R
+  8     7  ENTM 7008 RES     1  SPECIAL TOPICS ENTM    1-3   900-0950     W    A561 LIFE SCIENCES A                  SWALE D
+  1     4  ENTM 7008 RES     2  SPECIAL TOPICS ENTM    1-3   100-0150       F  A561 LIFE SCIENCES A                  WILSON B
+  4     1  ENTM 7010 CLI     1  TEACHING PRACTICUM     1-3   900-0950       F  A561 LIFE SCIENCES A                  DAVIS J
+(F)    20  ENTM 7020         1  INSECT PHYSIOLOGY      4.0   900-1020    T TH  0117 TUREAUD HALL                     SWALE D
+                     LAB                                     200-0450      TH                                        SWALE D
+ 15        ENTM 7600 CLI     1  ENTM EXTENSION PRACT   1-2   930-1020    T     A559 LIFE SCIENCES A                  RING D
+ 98     1  ENTM 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      CARLTON C
+ 97     2  ENTM 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DAVIS J
+ 96     3  ENTM 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      FOIL L
+ 99        ENTM 8000 RES     4  THESIS RESEARCH        1-12 TBA
+ 99        ENTM 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HOOPER-BUI L
+ 97     2  ENTM 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      HUANG F
+ 99        ENTM 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      HUSSENEDER C
+ 99        ENTM 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      KERNS D
+ 99        ENTM 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      OTTEA J
+ 99        ENTM 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      REAGAN T
+ 97     2  ENTM 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      HEALY K
+ 98     1  ENTM 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      DIAZ R
+ 99        ENTM 8000 RES    14  THESIS RESEARCH        1-12 TBA                                                      SCHOWALTER T
+ 98     1  ENTM 8000 RES    16  THESIS RESEARCH        1-12 TBA                                                      STOUT M
+ 96     3  ENTM 8000 RES    17  THESIS RESEARCH        1-12 TBA                                                      SWALE D
+ 10        ENTM 8000 RES    18  THESIS RESEARCH        1-12 TBA                                                      WILSON B
+ 98     1  ENTM 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CARLTON C
+ 96     3  ENTM 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DAVIS J
+ 98     1  ENTM 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      FOIL L
+ 99        ENTM 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      HENDERSON G
+ 99        ENTM 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      HUANG F
+ 98     1  ENTM 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      HUSSENEDER C
+ 98     1  ENTM 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      OTTEA J
+ 98     1  ENTM 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      REAGAN T
+ 99        ENTM 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      HEALY K
+ 99        ENTM 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      DIAZ R
+ 99        ENTM 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      SCHOWALTER T
+ 95     4  ENTM 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      STOUT M
+ 97     2  ENTM 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      SWALE D
+ 10        ENTM 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      WILSON B
+ 98     1  ENTM 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      SUN Q

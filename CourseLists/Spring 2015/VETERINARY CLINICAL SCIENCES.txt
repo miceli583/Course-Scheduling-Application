@@ -1,0 +1,12 @@
+  6     4  VCS  7001 SEM     1  SM: VET CLIN SCIENCE   1.0  TBA
+ 10        VCS  7003         1  SPEC TOP VET CLIN SC   1-4  TBA                                                      LYLE S
+ 10        VCS  7003         2  SPEC TOP VET CLIN SC   1-4  TBA
+  9     1  VCS  7202 LAB     1  VET SURGICAL TECHN     1.0  TBA                                                      MITCHELL C
+  4     2  VCS  7206         1  ADV VET UROGEN DIS     2.0  TBA                                                      MITCHELL C
+  6     2  VCS  7210         1  VET SCI JOURNAL REV    1.0  TBA                                                      LOPEZ M
+  4     4  VCS  7210         2  VET SCI JOURNAL REV    1.0  TBA                                                      LYLE S
+  8        VCS  7210         3  VET SCI JOURNAL REV    1.0  TBA
+  7     1  VCS  7210         4  VET SCI JOURNAL REV    1.0  TBA                                                      ANDREWS F
+  8        VCS  7210         5  VET SCI JOURNAL REV    1.0  TBA                                                      EADES S
+  8        VCS  7210         6  VET SCI JOURNAL REV    1.0  TBA
+ 30        VCS  7211         1  VET CARDIORESP         3.0  TBA

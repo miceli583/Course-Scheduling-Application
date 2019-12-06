@@ -1,0 +1,115 @@
+  3    16  CSC  1100         1  COMPUTERS IN SOCIETY   3.0  1140-1230   M W    0145 COATES                           GUILLOTT B
+                     LAB                                    1040-1230       F  0168 COATES
+  1    17  CSC  1100         2  COMPUTERS IN SOCIETY   3.0  1140-1230   M W    0145 COATES                           GUILLOTT B
+                     LAB                                     240-0430   M      0168 COATES
+(F)    18  CSC  1100         3  COMPUTERS IN SOCIETY   3.0  1140-1230   M W    0145 COATES                           GUILLOTT B
+                     LAB                                    1240-0230       F  0168 COATES
+  4    14  CSC  1100         4  COMPUTERS IN SOCIETY   3.0  1140-1230   M W    0145 COATES                           GUILLOTT B
+                     LAB                                     240-0430     W    0168 COATES
+  2    30  CSC  1200         1  ETHICS IN COMPUTING    1.0  1240-0130     W    0215 TUREAUD HALL                     BURRIS J
+  5    26  CSC  1200         2  ETHICS IN COMPUTING    1.0   240-0330     W    0218 TUREAUD HALL                     BURRIS J
+ 40    10  CSC  1240         1  STATS & GRAPH MATLB    3.0  1240-0130   M W    0218 TUREAUD HALL                     BRENER N
+                     LAB                                    1240-0230       F  0232 MIDDLETON                        BRENER N
+  4    36  CSC  1253         1  COMP SCI WITH C++      3.0  1040-1200    T TH  0225 COATES          CI-WRITTEN&TECH  DOUGLAS C
+  1    52  CSC  1253         2  COMP SCI WITH C++      3.0  1210-0130    T TH  2171 PATRICK TAYLOR                   DUNCAN W
+  3    48  CSC  1253         3  COMP SCI WITH C++      3.0   140-0300    T TH  0145 COATES                           BLANKS L
+(F)    44  CSC  1254         1  COMP SCI 11 WITH C++   3.0  1040-1200    T TH  0103 COATES                           BLANKS L
+ 22    18  CSC  1254         2  COMP SCI 11 WITH C++   3.0  1210-0130    T TH  0102 COATES                           GUILLOTT B
+ 31    19  CSC  1350         1  COMP SCI I-MJRS        3.0   940-1030   M W F  0218 COATES                           GUILLOTT B
+ 31    19  CSC  1350         2  COMP SCI I-MJRS        3.0   340-0500   M W    0215 TUREAUD HALL                     DUNCAN W
+ 14    36  CSC  1351         1  COMP SCI II-MJRS       3.0   140-0300    T TH  2171 PATRICK TAYLOR                   DUNCAN W
+ 23    17  CSC  2259         1  DISCRETE STRUCTURES    3.0   140-0300    T TH  0102 COATES                           KANNAN R
+  2    48  CSC  2262         1  NUMERICAL METHODS      3.0   310-0430    T TH  0215 TUREAUD HALL                     SHAH R
+  3    57  CSC  2533         1  INTRO ENGR COMPUT      3.0   940-1030   M W    0218 TUREAUD HALL                     BRENER N
+                     LAB                                     240-0530       F  0232 MIDDLETON                        BRENER N
+  6    54  CSC  2533         2  INTRO ENGR COMPUT      3.0   910-1000    T TH  0218 TUREAUD HALL                     BRENER N
+                     LAB                                     510-0800N     TH  0232 MIDDLETON                        BRENER N
+ 14    26  CSC  3102         1  ADV DATA STRUCTURES    3.0   510-0630N  M W    0234 COATES                           KUNDU S
+  5    55  CSC  3380         1  OBJ ORIENTED DESIGN    3.0  1210-0130    T TH  0220 COATES                           MUKHOPADHYAY
+  6    44  CSC  3501         1  COMP ORGANIZATN/DSN    3.0   910-1030    T TH  0215 WILLIAMS                         ZHANG J
+ 98     1  CSC  3999 RES     1  IND UNDERGRAD RES      1-3  TBA                                     PERMIS OF DEPT   KARKI B
+ 98     1  CSC  3999 RES     2  IND UNDERGRAD RES      1-3  TBA                                     PERMIS OF DEPT   KOOIMA R
+  7    43  CSC  4103         1  OPERATING SYSTEMS      3.0   140-0300    T TH  0213 TUREAUD HALL                     KARKI B
+ 24    16  CSC  4351         1  COMPILER CONSTRUCTN    3.0   340-0500   M W    3138 PATRICK TAYLOR                   BAUMGARTNER G
+ 20    15  CSC  4700         2  HUMAN CPTR INTERFACE   3.0  1040-1200    T TH  0201 TUREAUD HALL                     ULLMER B
+ 24    11  CSC  4700         1  OPTIMIZATION           3.0   310-0430    T TH  0129 TUREAUD HALL                     TRIANTAPHYLLO
+ 20    10  CSC  4700         3  VIDEO GAME DESIGN      3.0   210-0500       F  0202 COATES                           KOOIMA R
+ 99        CSC  4999 RES     1  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   ALLEN G
+ 99        CSC  4999 RES     2  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 99        CSC  4999 RES     3  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   BUSCH K
+ 99        CSC  4999 RES     4  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   CARVER D
+ 99        CSC  4999 RES     5  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   CHEN J
+ 99        CSC  4999 RES     6  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   CHEN P
+ 99        CSC  4999 RES     7  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   IYENGAR S
+ 99        CSC  4999 RES     8  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KANNAN R
+ 99        CSC  4999 RES     9  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KARKI B
+ 99        CSC  4999 RES    10  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KOSAR T
+ 99        CSC  4999 RES    11  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KUNDU S
+ 99        CSC  4999 RES    12  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 98     1  CSC  4999 RES    13  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   PARK S
+ 99        CSC  4999 RES    14  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   SHAH R
+ 99        CSC  4999 RES    15  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   STERLING T
+ 99        CSC  4999 RES    16  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 99        CSC  4999 RES    17  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   TYLER J
+ 98     1  CSC  4999 RES    18  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   ULLMER B
+ 99        CSC  4999 RES    19  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   ZHANG J
+ 99        CSC  4999 RES    20  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KAISER H
+ 99        CSC  4999 RES    21  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   LI X
+ 99        CSC  4999 RES    22  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   JHA S
+ 99        CSC  4999 RES    23  ADV IND UNDGRAD RES    1-3  TBA                                     PERMIS OF DEPT   KOOIMA R
+ 16    14  CSC  7080         1  COMPUTR ARCHITECTURE   3.0   510-0800N   T     0129 TUREAUD HALL                     BUSCH K
+ 18    12  CSC  7101         1  PROGRAM LANG STRUCTS   3.0  1040-1200   M W    3142 PATRICK TAYLOR                   BAUMGARTNER G
+ 17    18  CSC  7333         1  MACHINE LEARNING       3.0  1210-0130    T TH  0116 TUREAUD HALL                     CHEN J
+ 29     6  CSC  7443         1  SCI INFO VISUALIZTN    3.0   910-1030    T TH  0226 TUREAUD HALL                     KARKI B
+ 17    13  CSC  7600         1  HIGH PERF COMP I       3.0  1040-1200    T TH  0202 COATES                           STERLING T
+ 14    11  CSC  7602         1  WIRELESS NETWORKS      3.0   510-0800N  M      0225 COATES                           PARK S
+  9     6  CSC  7700         1  AUTONOMS SNSR SYSTMS   3.0   510-0800N    W    0111 COATES                           IYENGAR S
+ 24     6  CSC  7701         1  SENSOR NTWKG CONCPTS   3.0   510-0800N     TH  0111 COATES                           KANNAN R
+ 12     3  CSC  7800 SEM     1  CSC RESEARCH SEMINAR   1.0   140-0230   M      0103 COATES                           IYENGAR S
+ 99        CSC  7999 RES     1  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   ALLEN G
+ 99        CSC  7999 RES     2  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 99        CSC  7999 RES     3  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   BUSCH K
+ 99        CSC  7999 RES     4  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   CARVER D
+ 95     4  CSC  7999 RES     5  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   CHEN J
+ 99        CSC  7999 RES     6  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   CHEN P
+ 98     1  CSC  7999 RES     7  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   IYENGAR S
+ 98     1  CSC  7999 RES     8  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KANNAN R
+ 99        CSC  7999 RES     9  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KARKI B
+ 96     3  CSC  7999 RES    10  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KOSAR T
+ 99        CSC  7999 RES    11  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KUNDU S
+ 99        CSC  7999 RES    12  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 98     1  CSC  7999 RES    13  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   PARK S
+ 98     1  CSC  7999 RES    14  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   SHAH R
+ 97     2  CSC  7999 RES    15  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   STERLING T
+ 99        CSC  7999 RES    16  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 99        CSC  7999 RES    17  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   TYLER J
+ 99        CSC  7999 RES    18  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   ULLMER B
+ 96     3  CSC  7999 RES    19  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   ZHANG J
+ 99        CSC  7999 RES    20  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT
+ 99        CSC  7999 RES    21  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   LI X
+ 99        CSC  7999 RES    22  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   JHA S
+ 99        CSC  7999 RES    23  SEL READINGS IN CSC    1-3  TBA                                     PERMIS OF DEPT   KOOIMA R
+ 98     1  CSC  9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ALLEN G
+ 98     1  CSC  9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 96     3  CSC  9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BUSCH K
+ 97     2  CSC  9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CARVER D
+ 98     1  CSC  9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN J
+ 99        CSC  9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHEN P
+ 98     1  CSC  9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   IYENGAR S
+ 96     3  CSC  9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KANNAN R
+ 99        CSC  9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KARKI B
+ 93     6  CSC  9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KOSAR T
+ 99        CSC  9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KUNDU S
+ 97     2  CSC  9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MUKHOPADHYAY
+ 94     5  CSC  9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PARK S
+ 98     1  CSC  9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SHAH R
+ 96     3  CSC  9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   STERLING T
+ 95     4  CSC  9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 98     1  CSC  9000 RES    17  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   TYLER J
+ 97     2  CSC  9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ULLMER B
+ 98     1  CSC  9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ZHANG J
+ 99        CSC  9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KAISER H
+ 98     1  CSC  9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LI X
+ 99        CSC  9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   JHA S
+ 99        CSC  9000 RES    23  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT
+ 99        CSC  9000 RES    24  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KRAFT D

@@ -1,0 +1,132 @@
+(F)    55  EDCI 1001         1  INTRO TO COLL STUDY    3.0   830-0920   M W F  0203 TUREAUD HALL                     KELLY H
+(F)    55  EDCI 1001         2  INTRO TO COLL STUDY    3.0   930-1020   M W F  0203 TUREAUD HALL                     KELLY H
+(F)    55  EDCI 1001         3  INTRO TO COLL STUDY    3.0  1030-1120   M W F  0203 TUREAUD HALL                     KELLY H
+  8    12  EDCI 1001         7  INTRO TO COLL STUDY    3.0   300-0420   M W    0216 PEABODY         RESERVED FOR LS  LATHON E
+(F)    55  EDCI 1001         5  INTRO TO COLL STUDY    3.0   900-1020    T TH  0203 TUREAUD HALL                     STONE M
+(F)    55  EDCI 1001         4  INTRO TO COLL STUDY    3.0  1030-1150    T TH  0211 TUREAUD HALL                     STONE M
+(F)    55  EDCI 1001         6  INTRO TO COLL STUDY    3.0   430-0550N   T TH  0220 STUBBS
+  2    53  EDCI 2001         1  EDUC, SCHOOL, & SOC    3.0  1030-1150    T TH  0132 PRESCOTT        1-49% WEB BASED  FASCHING-VARN
+(F)    21  EDCI 2030         2  TEACH/SCHOOL/SOCIETY   3.0  1230-0220   M      0214 PEABODY                          WHEELER S
+                     LAB                                    TBA                                                      WHEELER S
+(F)    22  EDCI 2030         1  TEACH/SCHOOL/SOCIETY   3.0   900-1050    T     0218 PEABODY                          EISWORTH H
+                     LAB                                     900-1050      TH  0218 PEABODY                          EISWORTH H
+ 12    28  EDCI 2083         1  INTRO EARLY CHLD ED    3.0   130-0420   M      0253 HIMES           CI-WRITTEN&VISU  BENTON A
+  2    23  EDCI 2271         1  ART ED EL SCHL         3.0   430-0620N   T     0102 ALLEN                            HIPP J
+                     LAB                                     630-0820N   T     0102 ALLEN                            HIPP J
+ 12    13  EDCI 2271         2  ART ED EL SCHL         3.0   630-0820N   T     0102 ALLEN                            HIPP J
+                     LAB                                    TBA                                                      HIPP J
+  9    21  EDCI 2400         1  EDUC & DIV POPLTN      3.0   930-1120    T     0214 PEABODY         SVC LEARNING     WHEELER S
+                     LAB                                    TBA                                                      WHEELER S
+(F)    31  EDCI 2400         2  EDUC & DIV POPLTN      3.0  1130-0120    T     0214 PEABODY         SVC LEARNING     WHEELER S
+                     LAB                                    TBA                                                      WHEELER S
+(F)    20  EDCI 2700         1  CHAR LRNRS EXCEPT      3.0   430-0720N  M      0131 ALLEN                            MOONEY P
+                     LAB                                    TBA                                                      MOONEY P
+(F)    20  EDCI 2700         2  CHAR LRNRS EXCEPT      3.0  1000-1120    T TH  0216 PEABODY                          MOONEY P
+                     LAB                                    TBA                                                      MOONEY P
+(F)    26  EDCI 2700         3  CHAR LRNRS EXCEPT      3.0   130-0250    T TH  0214 PEABODY                          DENNY R
+                     LAB                                    TBA                                                      DENNY R
+  7    18  EDCI 3000         2  CHILDREN'S LITERATUR   3.0   900-1150   M      0214 PEABODY                          WHEELER S
+(F)    26  EDCI 3000         1  CHILDREN'S LITERATUR   3.0  1200-0250   M      0216 PEABODY                          CASBERGUE R
+  1    19  EDCI 3124         1  CUR DISC: MATH THRY    6.0   430-0720N  M      0104 PEABODY                          RICKS T
+                     LAB                                    TBA                                                      DAUGHERTY E
+  8    22  EDCI 3124         2  CUR DISC: MATH THRY    6.0   830-1120       F  0214 PEABODY                          RICKS T
+                     LAB                                    TBA                                                      PETTREY K
+  2    18  EDCI 3125         1  CURRIC DISC: SCIENCE   3.0   100-0250    T TH  0102 PEABODY                          LAUNEY B
+                     LAB                                    TBA                                                      LAUNEY B
+  8    22  EDCI 3125         2  CURRIC DISC: SCIENCE   3.0   130-0320    T TH  0103 COATES                           GAMBORG L
+                     LAB                                    TBA                                                      GAMBORG L
+  3    17  EDCI 3127         1  CURRIC DISC: SOC STU   3.0   100-0250    T     0218 PEABODY                          CASEY E
+                     LAB                                     100-0250      TH  0218 PEABODY                          CASEY E
+  7    13  EDCI 3127         3  CURRIC DISC: SOC STU   3.0   100-0250    T     0210 TUREAUD HALL                     CASEY J
+                     LAB                                     100-0250      TH                                        CASEY J
+(F)    25  EDCI 3136         1  READNG CONTENT AREAS   3.0   430-0720N   T     0145 ELECTRICAL ENGR                  BROWN C
+  9    16  EDCI 3136         2  READNG CONTENT AREAS   3.0   430-0720N     TH  0112 TUREAUD HALL                     BROWN C
+  3    17  EDCI 3137         1  CLSRM READING INSTUC   3.0  1030-1220    T TH  0104 PEABODY         SVC LEARNING     SULENTIC DOWE
+                     LAB                                    TBA                                                      SULENTIC DOWE
+  7    13  EDCI 3137         2  CLSRM READING INSTUC   3.0  1030-1220    T TH  0111 COATES                           NOBLE J
+                     LAB                                    TBA                                                      NOBLE J
+  3    17  EDCI 3200         1  READ/WRIT/ORL COM EL   6.0   930-1050   M W F  0218 PEABODY                          BENTON A
+                     LAB                                    TBA                                                      BENTON A
+  7    13  EDCI 3200         2  READ/WRIT/ORL COM EL   6.0   930-1050   M W F  0269 WOODIN HALL
+                     LAB                                    TBA
+ 15     2  EDCI 3223         1  ADOLESCENT LITERATR    3.0   130-0220   M W F  0019 ALLEN                            PULLIAM J
+  2    28  EDCI 3481         1  CURRIC: GRADES 1-3     3.0   900-1150       F  0102 PEABODY                          CASEY E
+(F)    27  EDCI 3482         2  PEDAGODY: GRADES 1-3   3.0   300-0450    T     0218 COATES                           BENTON A
+  2    28  EDCI 3483         1  ASSESS/PLAN: GR 1-3    3.0   900-1150      TH  0102 PEABODY                          BLANCHARD P
+                     LAB                                    TBA                                                      BLANCHARD P
+ 18    12  EDCI 3550         1  CLASSRM INTERACTIONS   3.0   330-0450   M W    0205 PRESCOTT        CI-WRITTEN&TECH  BESSON S
+                     LAB                                     330-0420     W                                          BESSON S
+ 74    25  EDCI 3625 CLI     1  STU TEACH ELEM GDS     9.0  TBA                                                      KIRSHNER J
+  3    12  EDCI 3640         1  STU TEACH GEN SPED     9.0  TBA                                                      DENNY M
+                     LAB                                    TBA                                                      DENNY M
+  6    14  EDCI 4004         1  ENGLISH EDUCATION      3.0   500-0750N    W    0120 PRESCOTT                         DURHAM H
+                     LAB                                    TBA                                                      DURHAM H
+  7     3  EDCI 4004         3  WORLD LANG EDUCATION   3.0   430-0720N     TH  0118 PRESCOTT                         PICCOLI M
+                     LAB                                    TBA                                                      PICCOLI M
+ 20     5  EDCI 4004         2  SOCIAL STUDIES EDUC    3.0  TBA                                                      CASEY J
+                     LAB                                    TBA                                                      CASEY J
+ 33    22  EDCI 4005         1  STU TEACH HUMANITIES   9.0  TBA
+                     LAB                                    TBA
+ 30    10  EDCI 4006         1  STU TEACH MATH/SCI     9.0  TBA                                     CI-WRITTEN&VISU  BESSON S
+                     LAB                                    TBA                                                      BESSON S
+  2    28  EDCI 4381         1  STUDENT TEACH: PK/K   12.0  1200-0350       F  0104 PEABODY         SVC LEARNING     GRANTHAM-CAST
+                     LAB                                    TBA                                                      GRANTHAM-CAST
+(F)    31  EDCI 4460         1  PLAN/EVAL SCH INSTRU   3.0   100-0250   M      0114 LOCKETT                          DENNY M
+                     LAB                                    TBA                                                      DENNY M
+  2    28  EDCI 4482         1  CAPSTONE SEMINAR       3.0   830-1120       F  0216 PEABODY         SVC LEARNING     DICARLO C
+ 16     4  EDCI 4630 CLI     1  STUDENT TEACHING K12   9.0  TBA                                                      MCKEY K
+ 24     1  EDCI 4635 CLI     1  INTERN CURR & INSTRN   3-12 TBA                                                      BYO J
+  4    26  EDCI 4705         1  LERN/BEH PPLES ST EX   3.0   430-0720N   T     0218 PEABODY                          DENNY R
+                     LAB                                    TBA                                                      DENNY R
+ 14    16  EDCI 4710         1  CONS/COLLAB/COTCH      3.0   200-0450       F  0214 PEABODY                          MOONEY P
+(F)    20  EDCI 4800         1  TCH MULTCULT CLASSRM   3.0   430-0720N  M      0116 PRESCOTT                         TOBIN K
+  5    15  EDCI 4900 SEM     2  TEACH OF ESL METHODS   1-3   330-0520   M                           PERMIS OF DEPT   PICCOLI M
+  5    15  EDCI 4900 SEM     3  SCND LNG CURRIC DVLP   1-3   530-0720N  M                           PERMIS OF DEPT   PICCOLI M
+  3    17  EDCI 4900 SEM     1  SCND LNG CURRIC DVLP   1-3  TBA                                     100% WEB BASED   BARRERA E
+ 20     5  EDCI 5880         1  PRAC IN TCHG MATH      1-3   430-0720N     TH  0104 PEABODY                          KIM M
+  9     6  EDCI 7021         1  LGL/ETH ISS SPEC ED    3.0   430-0720N  M      0214 PEABODY                          GANSLE K
+(F)    12  EDCI 7054         1  CHILD GUIDNCE & BEHA   3.0  TBA                                     100% WEB BASED   DICARLO C
+ 11     5  EDCI 7055         1  HUMAN DEVELOPMENT      3.0  TBA                                     100% WEB BASED   BAUMGARTNER J
+ 21     4  EDCI 7112         1  EARLY LITERACY DEVEL   3.0   430-0720N  M      0216 PEABODY                          CASBERGUE R
+ 35     5  EDCI 7142         1  TEACH COMP SEC SCH     3.0   430-0720N   T     0019 ALLEN           1-49% WEB BASED  BACH J
+  8     4  EDCI 7314         1  TEACH COMP PK-6        3.0   430-0720N     TH  0218 PEABODY                          SULENTIC DOWE
+ 18     7  EDCI 7455         1  FND SEC/K-12 ED THEO   3.0   100-0250    T TH  0120 PEABODY         1-49% WEB BASED  BACH J
+ 18     7  EDCI 7461         1  SPRG PRAC SEC/K-12 S   6.0  TBA                                                      BLANCHARD P
+                     LAB                                    TBA                                                      BLANCHARD P
+  2     8  EDCI 7475 SEM     1  RES PROJ SEC/K-12 ED   3.0   430-0720N  M      0102 PEABODY                          BLANCHARD P
+  3    17  EDCI 7481 LAB     1  TEACHING PRACT II      6.0  TBA                                                      WRIGHT J
+  3    17  EDCI 7484 SEM     1  MASTER'S PROJECT I     3.0   900-1150       F  0104 PEABODY                          BARRERA E
+  3    22  EDCI 7683         1  CLSRM INSTR/PRAC RED   3.0   430-0620N    W    0216 PEABODY                          SKINNER K
+                     LAB                                    TBA                                                      SKINNER K
+ 17     8  EDCI 7761         1  MODELS & STRAT GIFT    3.0   430-0720N   T     0216 PEABODY                          PALKA J
+ 16     4  EDCI 7764         1  SOC EMOT DEVT GIFTED   3.0   430-0720N  M      0219 PEABODY                          STAPLETON B
+ 27    13  EDCI 7811 SEM     1  TEACH EDU PREP &DEVL   3.0  TBA                                     50-74% WEB BASE  FASCHING-VARN
+  8     2  EDCI 7821 RES     1  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   BARRERA E
+  7     3  EDCI 7821 RES     2  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   FASCHING-VARN
+  9     1  EDCI 7821 RES     3  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   BLANCHARD P
+  9     1  EDCI 7822 RES     1  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   BARRERA E
+  4    26  EDCI 7903         1  URB ED CULT REL PEDA   3.0  TBA                                     100% WEB BASED   TOBIN K
+  8    42  EDCI 7910 SEM     1  TRAD OF INQUIRY C&I    3.0   430-0720N  M                           50-74% WEB BASE  FASCHING-VARN
+  5     5  EDCI 7920 RES     1  WRTG RDNG STDYCURTHY   3.0   430-0720N    W    0219 PEABODY         1-49% WEB BASED  HENDRY P
+  5     5  EDCI 7921 RES     1  ANALY OF RES MATH ED   3.0   430-0720N   T     0219 PEABODY                          KIRSHNER D
+ 16     4  EDCI 7930 SEM     1  NARRATIVE INQUIRY      1-6   430-0720N     TH  0310 PEABODY                          EGEA D
+ 15     5  EDCI 7931 SEM     1  TCH LRN OUT SCH CONT   1-6   430-0720N  M      0310 PEABODY                          SKINNER K
+(F)     1  EDCI 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      MATHEWS F
+  5        EDCI 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DICARLO C
+  5        EDCI 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      WEBB A
+  5        EDCI 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      HENDRY P
+  7     3  EDCI 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BACH J
+  7     3  EDCI 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BAUMGARTNER J
+  9     1  EDCI 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      BLANCHARD P
+  9     1  EDCI 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CASBERGUE R
+ 13     7  EDCI 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      FASCHING-VARN
+  9     1  EDCI 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      HENDRY P
+  8     2  EDCI 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      KIRSHNER D
+ 10        EDCI 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      MOONEY P
+ 10        EDCI 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      RICKS T
+  6     4  EDCI 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      SKINNER K
+  7     3  EDCI 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      SULENTIC DOWE
+  9     1  EDCI 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      BARRERA E
+  4     1  EDCI 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      CURRY J
+  4     1  EDCI 9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DENNY R
+  9     1  EDCI 9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DICARLO C

@@ -1,0 +1,34 @@
+(F)    50  MGT  3200         2  PRINC OF MANAGEMENT    3.0   930-1020   M W F  1835 BUS ED N WING                    FALLAH S
+  1    39  MGT  3200         3  PRINC OF MANAGEMENT    3.0  1030-1120   M W F  1835 BUS ED N WING                    ALAMBO H
+(F)    40  MGT  3200         4  PRINC OF MANAGEMENT    3.0  1030-1120   M W F  1720 BUS ED N WING                    SELL K
+(F)    40  MGT  3200         5  PRINC OF MANAGEMENT    3.0  1130-1220   M W F  1720 BUS ED N WING                    SELL K
+(F)    40  MGT  3200         6  PRINC OF MANAGEMENT    3.0  1130-1220   M W F  1835 BUS ED N WING                    ALAMBO H
+  1   909  MGT  3200         1  PRINC OF MANAGEMENT    3.0  1030-1150    T TH  0101 GYM AUDITORIUM                   SAULEY K
+ 14    31  MGT  3211         1  BUSINESS & SOCIETY     3.0  1200-0120    T TH  1745 BUS ED N WING                    MARIN D
+  5    10  MGT  3280 CLI     1  MGT INTERNSHIP         3.0  TBA                                     PERMIS OF INST   MARIN D
+(F)    40  MGT  3320         1  STRATEGIC HRM          3.0   930-1020   M W F  1325 BUS ED S WING                    SMITH J
+(F)    40  MGT  3320         2  STRATEGIC HRM          3.0  1030-1120   M W F  1325 BUS ED S WING                    SMITH J
+(F)    52  MGT  3320         3  STRATEGIC HRM          3.0   900-1020    T TH  1800 BUS ED N WING                    JOHNSON M
+(F)    50  MGT  3320         4  STRATEGIC HRM          3.0   300-0420    T TH  1920 BUS ED N WING                    LOIGNON A
+(F)    57  MGT  3513         1  NEGOT & DISPUTE RES    3.0  1230-0120   M W F  1920 BUS ED N WING                    CHANDLER T
+(F)    54  MGT  3513         2  NEGOT & DISPUTE RES    3.0   130-0220   M W F  1920 BUS ED N WING                    CHANDLER T
+(F)    50  MGT  3830         2  STRATEGIC MGMT         3.0   900-1020    T TH  1700 BUS ED N WING                    YOU J
+(F)    35  MGT  3830         3  STRATEGIC MGMT         3.0   900-1020    T TH  1745 BUS ED N WING   CI-WRITTEN&SPOK  MARIN D
+(F)    35  MGT  3830         4  STRATEGIC MGMT         3.0  1030-1150    T TH  1745 BUS ED N WING   CI-WRITTEN&SPOK  MARIN D
+(F)    52  MGT  3830         5  STRATEGIC MGMT         3.0  1200-0120    T TH  1845 BUS ED N WING                    BANKS M
+(F)    51  MGT  3830         6  STRATEGIC MGMT         3.0   300-0420    T TH  1845 BUS ED N WING                    BANKS M
+(F)    51  MGT  3830         7  STRATEGIC MGMT         3.0   430-0550N   T TH  1845 BUS ED N WING                    BANKS M
+  1    49  MGT  3830         1  STRATEGIC MGMT         3.0   430-0720N    W    1800 BUS ED N WING                    GRECKHAMER T
+(F)    50  MGT  4322         1  EMPLYEE SELECT/PLACE   3.0  1030-1150    T TH  1800 BUS ED N WING                    JOHNSON M
+ 31    19  MGT  4323         1  COMPENSATION ADMINIS   3.0   430-0550N   T TH  1920 BUS ED N WING                    LOIGNON A
+ 14    36  MGT  4430         1  MANAGE X CULTURES      3.0   230-0320   M W F  1745 BUS ED N WING                    WHITMAN D
+  7    43  MGT  4450         1  GLOBL SOCL RESPONS     3.0   300-0420   M W    1845 BUS ED N WING                    BANKS M
+(F)    50  MGT  4620         1  ORG BEHAVIOR           3.0   900-1020    T TH  1212 PATRICK TAYLOR                   BEUS J
+ 10    40  MGT  4620         2  ORG BEHAVIOR           3.0  1030-1150    T TH  1125 BUS ED S WING                    BEUS J
+ 26    24  MGT  4830         1  STRATEGIC LEADERSHP    3.0   730-0850    T TH  1700 BUS ED N WING                    YOU J
+  4     6  MGT  7800 SEM     1  CUR ISS STRATEGIC MG   3.0  1000-1250       F                                        MCGUIRE J
+(F)     1  MGT  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BEUS J
+  2     1  MGT  9000 RES     2  DISSERTATION RES       1-12 TBA                                                      GRECKHAMER T
+(F)     1  MGT  9000 RES     3  DISSERTATION RES       1-12 TBA                                                      YOU J
+(F)     1  MGT  9000 RES     4  DISSERTATION RES       1-12 TBA                                                      MCGUIRE J
+  5        MGT  9202 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      GRECKHAMER T

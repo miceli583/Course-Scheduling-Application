@@ -1,0 +1,41 @@
+  9    11  AEEE 1001         1  LEARNING LEADERSHIP    3.0  TBA                                     100% WEB BASED   BLANCHARD L
+ 30        AEEE 1002 SEM     1  PROFESSIONAL CONFID    1.0  1000-1050      TH  0116 TUREAUD HALL                     FOX J
+  5    25  AEEE 2002         1  COACH & CONTEST        3.0   900-1020    T TH  0110 OLD FORESTRY                     BUNCH J
+ 13     7  AEEE 2003         1  TEACHING AGRI MECHAN   3.0   900-1050   M      0129 TUREAUD HALL                     BLACKBURN J
+                     LAB                                     900-1050     W    0129 TUREAUD HALL                     BLACKBURN J
+ 30        AEEE 3301         1  INTRO PROGRAM EVAL     3.0   130-0250   M W    0110 OLD FORESTRY                     CATER M
+ 25        AEEE 4011         1  COMMUN AGEXED          3.0   430-0720N  M      0102 KNAPP
+ 24     1  AEEE 4011         2  COMMUN AGEXED          3.0   430-0720N  M
+ 24     6  AEEE 4200 CLI     1  TCH AGEXED CONT AREA   3.0  TBA                                                      STAIR K
+ 18     6  AEEE 4201         1  LAB MGMT IN AGEXED     3.0  TBA                                                      BLACKBURN J
+ 17     7  AEEE 4504         1  DEV COMM PROG AGED     3.0  1030-1150    T TH  0210 TUREAUD HALL                     STAIR K
+ 16        AEEE 4806 CLI     1  INTERN AGEXED          9.0  TBA                                                      FOX J
+ 10     6  AEEE 4806 CLI     2  INTERN AGEXED          9.0  TBA                                                      STAIR K
+  5        AEEE 4820 RES     1  IND STUDY IN AGEXED    1-3  TBA                                                      BLACKBURN J
+  3     2  AEEE 4820 RES     2  IND STUDY IN AGEXED    1-3  TBA                                                      BUNCH J
+  5        AEEE 4820 RES     3  IND STUDY IN AGEXED    1-3  TBA                                                      CATER M
+  5        AEEE 4820 RES     4  IND STUDY IN AGEXED    1-3  TBA                                                      FOX J
+  5        AEEE 4820 RES     5  IND STUDY IN AGEXED    1-3  TBA                                                      STAIR K
+ 28     2  AEEE 7027         1  VOLUNTEER ADMIN        3.0   130-0420     W    0102 KNAPP                            FOX J
+ 23     7  AEEE 7027         2  VOLUNTEER ADMIN        3.0   130-0420     W                                          FOX J
+ 15        AEEE 7201         1  ADV TEACH AGEXED       3.0   430-0720N   T     0102 KNAPP                            STAIR K
+ 15        AEEE 7201         2  ADV TEACH AGEXED       3.0   430-0720N   T                                           STAIR K
+ 97     2  AEEE 7824 RES     1  INDEPEND STUDY AGEXE   3.0  TBA                                                      BLACKBURN J
+ 98     1  AEEE 7824 RES     2  INDEPEND STUDY AGEXE   3.0  TBA                                                      BUNCH J
+ 96     3  AEEE 7824 RES     3  INDEPEND STUDY AGEXE   3.0  TBA                                                      CATER M
+ 98     1  AEEE 7824 RES     4  INDEPEND STUDY AGEXE   3.0  TBA                                                      BURNETT M
+ 99        AEEE 7824 RES     5  INDEPEND STUDY AGEXE   3.0  TBA                                                      STAIR K
+ 20        AEEE 7827         1  RESEARCH PROPOSAL      3.0   130-0420    T     0102 KNAPP                            BLACKBURN J
+ 20        AEEE 7827         2  RESEARCH PROPOSAL      3.0   130-0420    T                                           BLACKBURN J
+ 16     4  AEEE 7828         1  CHANGE THEORY          3.0   430-0720N    W    0102 KNAPP                            BUNCH J
+ 17     3  AEEE 7828         2  CHANGE THEORY          3.0   430-0720N    W                                          BUNCH J
+ 99        AEEE 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BLACKBURN J
+ 99        AEEE 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BUNCH J
+ 99        AEEE 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      CATER M
+ 99        AEEE 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      FOX J
+ 99        AEEE 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      STAIR K
+ 99        AEEE 9000 RES     1  DISSERTATION RESEARC   1-12 TBA                                                      BLACKBURN J
+ 98     1  AEEE 9000 RES     2  DISSERTATION RESEARC   1-12 TBA                                                      BUNCH J
+ 95     4  AEEE 9000 RES     3  DISSERTATION RESEARC   1-12 TBA                                                      CATER M
+ 99        AEEE 9000 RES     4  DISSERTATION RESEARC   1-12 TBA                                                      FOX J
+ 99        AEEE 9000 RES     5  DISSERTATION RESEARC   1-12 TBA                                                      STAIR K

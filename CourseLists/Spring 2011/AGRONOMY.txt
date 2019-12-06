@@ -1,0 +1,43 @@
+  1    62  AGRO 1001         1  MANAGED PLANT SYSTEM   3.0  1040-1200    T TH  0232 J C MILLER                       HIMELRICK D
+                     LAB                                    TBA                                                      HIMELRICK D
+  1    17  AGRO 2051         1  SOIL SCIENCE           4.0   840-0930   M W F  0134 M B STURGIS                      GASTON L
+                     LAB                                    1240-0230   M      0134 M B STURGIS                      GASTON L
+  5    13  AGRO 2051         2  SOIL SCIENCE           4.0   840-0930   M W F  0134 M B STURGIS                      GASTON L
+                     LAB                                     240-0430   M                                            GASTON L
+ 14     1  AGRO 3010 RES     1  RESEARCH PROBLEMS      3.0  TBA                                                      GRIFFIN J
+  8    20  AGRO 4052         1  SOIL FERTILITY & MGT   4.0   940-1030   M W F                                        TUBANA B
+                     LAB                                     240-0430    T                                           TUBANA B
+(F)    14  AGRO 4056         1  MICROB ECOL & NUTR C   4.0  1040-1200    T TH  0132 M B STURGIS                      BREITENBECK G
+                     LAB                                     140-0430      TH  0132 M B STURGIS                      BREITENBECK G
+  7    13  AGRO 4077         1  ENVIRNMTL SOIL PHYSV   3.0  1040-1200    T TH  0202 TUREAUD HALL                     SELIM H
+  1    23  AGRO 4078         1  LAND USE PLAN/LD MGT   3.0   840-0930   M W F  0135 M B STURGIS                      HAGGARD B
+                     LAB                                    TBA                                                      HAGGARD B
+ 11     4  AGRO 4091 RES     1  SP TOP IN CROP SCI     1-3  TBA                                                      OARD J
+ 13     2  AGRO 4092 RES     1  SPEC TOPICS SOIL SCI   1-3  TBA                                     PERMIS OF INST   WALSH M
+ 14     6  AGRO 7001 SEM     1  AGRONOMY SEMINAR       1.0  1140-1230       F  0132 M B STURGIS                      OARD J
+ 22     3  AGRO 7165         1  BIOGEOCHEM WTL SLS/S   3.0   140-0300    T TH  1070 ENER,COAST,& EN                  GAMBRELL R
+ 14     1  AGRO 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      BREITENBECK G
+ 14     1  AGRO 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      HARRISON S
+ 14     1  AGRO 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      SELIM H
+ 14     1  AGRO 8000 RES    11  THESIS RESEARCH        1-12 TBA                                                      WEBSTER E
+ 13     2  AGRO 8000 RES    12  THESIS RESEARCH        1-12 TBA                                                      GRIFFIN J
+ 14     1  AGRO 8000 RES    13  THESIS RESEARCH        1-12 TBA                                                      WALSH M
+ 14     1  AGRO 8000 RES    15  THESIS RESEARCH        1-12 TBA                                                      MILLER D
+ 14     1  AGRO 8000 RES    21  THESIS RESEARCH        1-12 TBA                                                      HARRISON S
+ 14     1  AGRO 8000 RES    22  THESIS RESEARCH        1-12 TBA                                                      BAISAKH N
+ 14     1  AGRO 8000 RES    23  THESIS RESEARCH        1-12 TBA                                                      WANG J
+ 11     1  AGRO 8901 RES     1  RES IN CROP SCIENCE    3-6  TBA                                                      GRIFFIN J
+ 11     1  AGRO 8902 RES     2  RES IN SOIL SCIENCE    3-6  TBA                                     PERMIS OF DEPT   WALSH M
+ 10     2  AGRO 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      OARD J
+ 11     1  AGRO 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      MYERS G
+ 11     1  AGRO 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      SELIM H
+ 11     1  AGRO 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      HARRISON S
+ 12        AGRO 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      BREITENBECK G
+ 11     1  AGRO 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      KIMBENG C
+ 11     1  AGRO 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      WEBSTER E
+ 11     1  AGRO 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      GRIFFIN J
+ 10     2  AGRO 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      SUBUDHI P
+ 11     1  AGRO 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      WILLIAMS B
+  9     3  AGRO 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      WEINDORF D
+ 10     2  AGRO 9000 RES    18  DISSERTATION RES       1-12 TBA                                                      KNOTT C
+ 11     1  AGRO 9000 RES    19  DISSERTATION RES       1-12 TBA                                                      TUBANA B

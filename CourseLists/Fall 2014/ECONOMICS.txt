@@ -1,0 +1,76 @@
+  4    76  ECON 2000         1  PRIN MICROECONOMICS    3.0   730-0820   M W F  1125 BUS ED S WING                    KABIRAJ S
+  1    79  ECON 2000         9  PRIN MICROECONOMICS    3.0   930-1020   M W F  0206 TUREAUD HALL                     KABIRAJ S
+(F)    80  ECON 2000        12  PRIN MICROECONOMICS    3.0  1030-1120   M W F  0105 TUREAUD HALL                     ONDA M
+(F)    80  ECON 2000         2  PRIN MICROECONOMICS    3.0  1130-1220   M W F  0105 TUREAUD HALL                     ONDA M
+(F)    80  ECON 2000        15  PRIN MICROECONOMICS    3.0  1130-1220   M W F  1620 BUS ED N WING                    VIRGETS S
+  1    79  ECON 2000         3  PRIN MICROECONOMICS    3.0  1230-0120   M W F  0105 TUREAUD HALL                     WANG T
+  2   114  ECON 2000        10  PRIN MICROECONOMICS    3.0   130-0220   M W F  1620 BUS ED N WING                    WEIMER D
+  1    79  ECON 2000         4  PRIN MICROECONOMICS    3.0   230-0320   M W F  1125 BUS ED S WING                    WANG T
+  2   114  ECON 2000        11  PRIN MICROECONOMICS    3.0   330-0420   M W F  1620 BUS ED N WING                    SHARKEY B
+  6    94  ECON 2000        13  PRIN MICROECONOMICS    3.0   900-1020    T TH  1620 BUS ED N WING   RES COLG-BUSINE  NEWMAN R
+  1    99  ECON 2000        14  PRIN MICROECONOMICS    3.0  1030-1150    T TH  1620 BUS ED N WING   RES COLG-BUSINE  NEWMAN R
+  4   112  ECON 2000         8  PRIN MICROECONOMICS    3.0   130-0250    T TH  1620 BUS ED N WING                    RHO S
+  4   112  ECON 2000         5  PRIN MICROECONOMICS    3.0   300-0420    T TH  1620 BUS ED N WING                    RHO S
+(F)    30  ECON 2001         2  HNRS PRINC MICROECON   3.0   230-0320   M W F  1720 BUS ED N WING                    WEIMER D
+(F)    82  ECON 2010         1  PRIN MACROECONOMICS    3.0   730-0820   M W F  0206 TUREAUD HALL                     DAS S
+(F)    81  ECON 2010         2  PRIN MACROECONOMICS    3.0   830-0920   M W F  0105 TUREAUD HALL                     DAS S
+(F)    80  ECON 2010         3  PRIN MACROECONOMICS    3.0   230-0320   M W F  1620 BUS ED N WING                    RUAN D
+  4    76  ECON 2010         5  PRIN MACROECONOMICS    3.0   330-0420   M W F  1125 BUS ED S WING                    RUAN D
+(F)   132  ECON 2010         4  PRIN MACROECONOMICS    3.0   130-0250    T TH  0130 NICHOLSON                        RAGLAND R
+(F)   121  ECON 2010         6  PRIN MACROECONOMICS    3.0   300-0420    T TH  1125 BUS ED S WING                    RAGLAND R
+ 15    15  ECON 2011         1  HNRS PRINC MACROECON   3.0   900-1020    T TH  1110 PATRICK TAYLOR                   CHANDA A
+  2    38  ECON 2030         1  ECONOMIC PRINCIPLES    3.0   730-0820   M W    0100 DODSON                           ROUSSEL C
+  5    35  ECON 2030         2  ECONOMIC PRINCIPLES    3.0   730-0820   M W    0100 DODSON                           ROUSSEL C
+  3    37  ECON 2030         3  ECONOMIC PRINCIPLES    3.0   730-0820   M W    0100 DODSON                           ROUSSEL C
+  4    36  ECON 2030         4  ECONOMIC PRINCIPLES    3.0   730-0820   M W    0100 DODSON                           ROUSSEL C
+  2    38  ECON 2030         5  ECONOMIC PRINCIPLES    3.0   730-0820   M W    0100 DODSON                           ROUSSEL C
+  2    38  ECON 2030         6  ECONOMIC PRINCIPLES    3.0   730-0820   M W    0100 DODSON                           ROUSSEL C
+(F)    40  ECON 2030         7  ECONOMIC PRINCIPLES    3.0   730-0820   M W    0100 DODSON                           ROUSSEL C
+  3    37  ECON 2030         8  ECONOMIC PRINCIPLES    3.0   730-0820   M W    0100 DODSON                           ROUSSEL C
+  2    38  ECON 2030         9  ECONOMIC PRINCIPLES    3.0   930-1020   M W    0100 DODSON                           ROUSSEL C
+(F)    40  ECON 2030        10  ECONOMIC PRINCIPLES    3.0   930-1020   M W    0100 DODSON                           ROUSSEL C
+  1    39  ECON 2030        11  ECONOMIC PRINCIPLES    3.0   930-1020   M W    0100 DODSON                           ROUSSEL C
+  1    39  ECON 2030        12  ECONOMIC PRINCIPLES    3.0   930-1020   M W    0100 DODSON                           ROUSSEL C
+(F)    40  ECON 2030        13  ECONOMIC PRINCIPLES    3.0   930-1020   M W    0100 DODSON                           ROUSSEL C
+  2    38  ECON 2030        14  ECONOMIC PRINCIPLES    3.0   930-1020   M W    0100 DODSON                           ROUSSEL C
+  1    39  ECON 2030        15  ECONOMIC PRINCIPLES    3.0   930-1020   M W    0100 DODSON                           ROUSSEL C
+(F)    40  ECON 2030        16  ECONOMIC PRINCIPLES    3.0   930-1020   M W    0100 DODSON                           ROUSSEL C
+ 21    19  ECON 2031         2  HON-ECON PRINCIPLES    3.0   730-0850    T TH  1720 BUS ED N WING                    ROUSSEL C
+  4   116  ECON 2035         1  MONEY/BANK/MACRO ACT   3.0   930-1020   M W F  1125 BUS ED S WING                    ALBRECHT G
+  4    76  ECON 2035         7  MONEY/BANK/MACRO ACT   3.0  1230-0120   M W F  0103 TUREAUD HALL                     SHARKEY B
+  2    78  ECON 2035         4  MONEY/BANK/MACRO ACT   3.0   130-0250   M W    0105 TUREAUD HALL                     SHARKEY B
+ 36    44  ECON 2035         3  MONEY/BANK/MACRO ACT   3.0   730-0850    T TH  1620 BUS ED N WING                    FILIZ S
+  1    79  ECON 2035         6  MONEY/BANK/MACRO ACT   3.0  1200-0120    T TH  1620 BUS ED N WING                    FILIZ S
+(F)    80  ECON 2035         2  MONEY/BANK/MACRO ACT   3.0   130-0250    T TH  0204 TUREAUD HALL                     JHA C
+  2    78  ECON 2035         5  MONEY/BANK/MACRO ACT   3.0   300-0420    T TH  0139 ALLEN                            JHA C
+ 15    25  ECON 4070         1  ECONOMIC GROWTH        3.0   430-0550N  M W    1325 BUS ED S WING                    UNEL B
+ 25    75  ECON 4110         2  PUBLIC FINANCE         3.0   600-0850N   T     0103 TUREAUD HALL                     RICHARDSON J
+  8    32  ECON 4220         1  WAGE/EMPLOYMT ANALYS   3.0  1200-0120    T TH  1800 BUS ED N WING                    EREN O
+ 21    19  ECON 4325         1  APPLD RESOURCE ECON    3.0   930-1020   M W F  1745 BUS ED N WING                    STAHL R
+  9    31  ECON 4421         1  HEALTH CARE ECONOMIC   3.0   130-0250    T TH  1720 BUS ED N WING                    DEPEW B
+  9     1  ECON 4445         1  INTERN IN ECONOMICS    3.0  TBA                                     PERMIS OF INST   TERRELL M
+  2    34  ECON 4520         1  INTERNATIONAL TRADE    3.0   130-0250   M W    1225 BUS ED S WING                    UNEL B
+  5    45  ECON 4550         1  INTERNATIONL FINANCE   3.0   130-0250    T TH  1845 BUS ED N WING                    KORAY F
+ 21    21  ECON 4630         1  INTR TO ECONOMETRICS   3.0  1200-0120    T TH  1305 BUS ED S WING                    HILL R
+ 32     8  ECON 4631         1  ECONOMETRIC METHODS    3.0   300-0420    T TH  1745 BUS ED N WING                    HILL R
+  4    36  ECON 4710         1  AGG ECON ANALYSIS      3.0  1030-1150   M W    1425 BUS ED S WING                    MCMILLIN W
+  1    39  ECON 4710         2  AGG ECON ANALYSIS      3.0   900-1020    T TH  2174 PATRICK TAYLOR                   YANG F
+  7    33  ECON 4720         2  INT MICROECON THEORY   3.0  1130-1220   M W F  1305 BUS ED S WING                    STAHL R
+  2    49  ECON 4720         1  INT MICROECON THEORY   3.0  1200-0120    T TH  1920 BUS ED N WING                    DEPEW B
+  9    11  ECON 7250         1  WAGE/EMPLYMNT ANALYS   3.0   900-1020    T TH  1120 BUS ED S WING                    EREN O
+  2    28  ECON 7610         1  MATH FOR ECONOMISTS    3.0  1200-0120    T TH  0117 TUREAUD HALL                     BARRO J
+ 18    22  ECON 7630         1  ECONOMETRIC METHODS    3.0   900-1020    T TH  0200 TUREAUD HALL                     TERRELL M
+ 12    13  ECON 7633         1  DYNAM ECONOMETR THEO   3.0   130-0250    T TH  1835 BUS ED N WING                    TERRELL M
+ 11     9  ECON 7700         1  PRICE THEORY--I        3.0  1230-0120   M W F  1720 BUS ED N WING                    STAHL R
+ 12     8  ECON 7715         1  MACROECONOMICS II      3.0   130-0250    T TH  1120 BUS ED S WING                    CHANDA A
+  6    24  ECON 7720         2  PRICE THEORY-II        3.0   230-0350   M W    1745 BUS ED N WING                    BELAND L
+  9     1  ECON 7799 RES     2  SEM ADV ECON PROBL     3.0   930-1020   M W F                                        STAHL R
+  9    11  ECON 7799 RES     1  SEM ADV ECON PROBL     3.0  1030-1150    T TH  2174 PATRICK TAYLOR                   YANG F
+ 10        ECON 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      CHANDA A
+ 98     1  ECON 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      HILL R
+ 98     1  ECON 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      TERRELL M
+ 98     1  ECON 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      SARANGI S
+ 97     2  ECON 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      CHANDA A
+ 99        ECON 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      MCMILLIN W
+ 95     4  ECON 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      MOCAN H
+  4     1  ECON 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      NEWMAN R

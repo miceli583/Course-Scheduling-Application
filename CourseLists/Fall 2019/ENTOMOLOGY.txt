@@ -1,0 +1,41 @@
+  3    17  ENTM 2001         1  INSECTS IN ENVIRONME   3.0   930-1020   M W    0124 TUREAUD HALL                     LORD N
+                     LAB                                     230-0420     W    0110 LIFE SCIENCES                    LORD N
+  8    12  ENTM 2001         2  INSECTS IN ENVIRONME   3.0   930-1020   M W    0124 TUREAUD HALL                     LORD N
+                     LAB                                     130-0320    T                                           LORD N
+  9     1  ENTM 3000 CLI     1  PEST MGT INTERSHIP     3.0   800-0850       F                                        DAVIS J
+ 17     8  ENTM 4002         1  INSECT BIOLOGY         3.0   900-1020    T TH  0119 TUREAUD HALL                     SWALE D
+ 12     8  ENTM 4100         1  INSECT BEHAVIOR        3.0  1100-1220    T TH  0110 LIFE SCIENCES                    SUN Q
+ 13    12  ENTM 7001         1  GENERAL ENTOMOLOGY     4.0   100-0150   M W F  0110 LIFE SCIENCES                    STOUT M
+                     LAB                                     200-0350   M      0110 LIFE SCIENCES                    STOUT M
+  9     3  ENTM 7003         1  MED/VET ENTOMOLOGY     4.0   900-1150   M                                            HEALY K
+                     LAB                                     900-1150       F                                        HEALY K
+ 18    12  ENTM 7007 SEM     1  SEMINAR ENTOMOLOGY     1.0   200-0250       F                                        DIAZ R
+ 14     6  ENTM 7008 RES     3  SPECIAL TOPICS ENTM    1-3  1230-0120    T TH  0110 LIFE SCIENCES                    DAVIS J
+  5     7  ENTM 7008 RES     4  SPECIAL TOPICS ENTM    1-3   200-0320    T     0555 LIFE SCIENCES                    CARLTON C
+(F)     7  ENTM 7008 RES     2  SPECIAL TOPICS ENTM    1-3   100-0150       F  A561 LIFE SCIENCES A                  WILSON B
+  2     3  ENTM 7010 CLI     1  TEACHING PRACTICUM     1-3   900-0950       F                                        STOUT M
+ 14     6  ENTM 7016         1  BIOLOGICAL CONTROL     3.0   830-0920   M W    0110 LIFE SCIENCES                    DIAZ R
+                     LAB                                    1030-1220     W    0110 LIFE SCIENCES                    DIAZ R
+  1    11  ENTM 7017         1  INTRO INSECT TOXICOL   3.0   900-1010    T TH  A561 LIFE SCIENCES A                  OTTEA J
+                     LAB                                     130-0420      TH  A561 LIFE SCIENCES A                  OTTEA J
+ 98     1  ENTM 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      LORD N
+ 98     1  ENTM 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DAVIS J
+ 96     3  ENTM 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      FOIL L
+ 97     2  ENTM 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      HUANG F
+ 98     1  ENTM 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      HEALY K
+ 98     1  ENTM 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      DIAZ R
+ 98     1  ENTM 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      STOUT M
+ 97     2  ENTM 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      SWALE D
+  8     2  ENTM 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      WILSON B
+ 98     1  ENTM 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      CARLTON C
+ 97     2  ENTM 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      DAVIS J
+ 98     1  ENTM 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      FOIL L
+ 98     1  ENTM 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      HUSSENEDER C
+ 98     1  ENTM 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      OTTEA J
+ 97     2  ENTM 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      REAGAN T
+ 96     3  ENTM 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      SWALE D
+ 96     3  ENTM 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      SUN Q
+ 98     1  ENTM 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      LORD N
+ 98     1  ENTM 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      SCHOWALTER T
+ 98     1  ENTM 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      HUANG F
+ 98     1  ENTM 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      HEALY K

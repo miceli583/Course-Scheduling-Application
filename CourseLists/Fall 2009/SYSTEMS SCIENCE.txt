@@ -1,0 +1,39 @@
+ 19     1  SYSC 7090 RES     1  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      ALLEN G
+ 19     1  SYSC 7090 RES     2  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      BAUMGARTNER G
+ 20        SYSC 7090 RES     3  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      BUSCH K
+ 20        SYSC 7090 RES     4  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      CARVER D
+ 15     5  SYSC 7090 RES     5  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      CHEN J
+ 20        SYSC 7090 RES     6  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      CHEN P
+ 19     1  SYSC 7090 RES     7  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      IYENGAR S
+ 20        SYSC 7090 RES     8  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      KANNAN R
+ 20        SYSC 7090 RES     9  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      KARKI B
+ 16     4  SYSC 7090 RES    10  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      KOSAR T
+ 20        SYSC 7090 RES    11  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      KUNDU S
+ 20        SYSC 7090 RES    12  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      PARK S
+ 19     1  SYSC 7090 RES    13  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      SHAH R
+ 20        SYSC 7090 RES    14  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      STERLING T
+ 20        SYSC 7090 RES    15  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      TRIANTAPHYLLO
+ 20        SYSC 7090 RES    16  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      TYLER J
+ 20        SYSC 7090 RES    17  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      ULLMER B
+ 20        SYSC 7090 RES    18  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      ZHANG J
+ 20        SYSC 7090 RES    19  SYSTM SCNC DSGN PRJT   1-9  TBA                                                      JHA S
+ 99        SYSC 8000 RES     1  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   ALLEN G
+ 99        SYSC 8000 RES     2  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   BAUMGARTNER G
+ 99        SYSC 8000 RES     3  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   BUSCH K
+ 99        SYSC 8000 RES     4  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   CARVER D
+ 98     1  SYSC 8000 RES     5  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   CHEN J
+ 99        SYSC 8000 RES     6  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   CHEN P
+ 98     1  SYSC 8000 RES     7  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   IYENGAR S
+ 99        SYSC 8000 RES     8  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   KANNAN R
+ 99        SYSC 8000 RES     9  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   KARKI B
+ 99        SYSC 8000 RES    10  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   KOSAR T
+ 99        SYSC 8000 RES    11  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   KUNDU S
+ 99        SYSC 8000 RES    12  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   PARK S
+ 98     1  SYSC 8000 RES    13  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   SHAH R
+ 98     1  SYSC 8000 RES    14  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   STERLING T
+ 99        SYSC 8000 RES    15  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   TRIANTAPHYLLO
+ 98     1  SYSC 8000 RES    16  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   TYLER J
+ 99        SYSC 8000 RES    17  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   ULLMER B
+ 98     1  SYSC 8000 RES    18  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   ZHANG J
+ 97     2  SYSC 8000 RES    19  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   JHA S
+ 98     1  SYSC 8000 RES    20  SYSTM SCNC THSIS RES   1-12 TBA                                     PERMIS OF DEPT   KRAFT D

@@ -1,0 +1,345 @@
+(F)    20  MUS  1002         1  BEGINNING VOICE CL     2.0  1230-0120   M W    0215 M&DA BLDG                        BANKENS J
+ 11     9  MUS  1019 LAB     1  DICTN FOR SINGERS II   1.0   930-1020   M W    0221 M&DA BLDG                        GEETING C
+ 10    10  MUS  1020 LAB     1  PERFORMANCE CRAFT      1.0   930-1020    T TH  0118 SCHOOL OF MUSIC MAJORS ONLY      MOON S
+  3    13  MUS  1109         1  PIANO CLASS            2.0   600-0650N  M W    0201 M&DA BLDG       NON-MAJORS ONLY  PIKE P
+(F)    16  MUS  1131 LAB     1  GROUP PIANO II         1.0   930-1020   M W    0201 M&DA BLDG       MAJORS ONLY      PIKE P
+(F)    16  MUS  1131 LAB     2  GROUP PIANO II         1.0  1130-1220   M W    0201 M&DA BLDG       MAJORS ONLY      PIKE P
+ 16        MUS  1131 LAB     3  GROUP PIANO II         1.0   430-0520N  M W    0201 M&DA BLDG       MAJORS ONLY      PIKE P
+  3    13  MUS  1131 LAB     4  GROUP PIANO II         1.0  1230-0120    T TH  0201 M&DA BLDG       MAJORS ONLY      PIKE P
+  4    12  MUS  1131 LAB     5  GROUP PIANO II         1.0   330-0420    T TH  0201 M&DA BLDG       MAJORS ONLY      PIKE P
+(H)        MUS  1133 LAB     1  GROUP PIANO IV         1.0   830-0920   M W    0201 M&DA BLDG       MAJORS ONLY      PIKE P
+  1    15  MUS  1133 LAB     2  GROUP PIANO IV         1.0   800-0850    T TH  0201 M&DA BLDG       MAJORS ONLY      PIKE P
+(F)    16  MUS  1133 LAB     3  GROUP PIANO IV         1.0  1030-1120    T TH  0201 M&DA BLDG       MAJORS ONLY      PIKE P
+  3    13  MUS  1133 LAB     4  GROUP PIANO IV         1.0  1130-1220    T TH  0201 M&DA BLDG       MAJORS ONLY      PIKE P
+ 41    29  MUS  1500         1  DEFINING ARTIST        1.0   830-0920     W    0115 SCHOOL OF MUSIC MAJORS ONLY      QUEEN M
+ 76    64  MUS  1751         1  MUS APPRECIATION       3.0   930-1020   M W F  0102 ALLEN                            SPILLMAN H
+  6   134  MUS  1751         3  MUS APPRECIATION       3.0   900-1020    T TH  0102 ALLEN                            PALMESE M
+(F)   141  MUS  1751         2  MUS APPRECIATION       3.0  1030-1150    T TH  0102 ALLEN                            LOVE T
+  2    33  MUS  1799         1  RUDIMENTS OF MUSIC     3.0   130-0250    T TH  0249 M&DA BLDG                        PETITE D
+(F)    20  MUS  1800         1  TECHNOLOGY MUS ED      2.0  1030-1120    T TH  0245 M&DA BLDG                        MLYNCZAK J
+  6    14  MUS  2054         2  SURVEY MUSIC HIST II   3.0   930-1020   M W F  0249 M&DA BLDG                        GIGER A
+(F)    20  MUS  2054         3  SURVEY MUSIC HIST II   3.0  1030-1120   M W F  0249 M&DA BLDG                        GIGER A
+ 17     3  MUS  2130 RES     1  SECONDARY VOICE        2-3  TBA                                     PERMIS OF DEPT   SIMS W
+ 20        MUS  2130 RES     2  SECONDARY VOICE        2-3  TBA                                     PERMIS OF DEPT   HARRIS T
+(F)    10  MUS  2131 RES     1  SECONDARY PIANO        2-3  TBA                                     PERMIS OF DEPT   PIKE P
+  5        MUS  2133 RES     1  SECONDARY ORGAN        2-3  TBA                                     PERMIS OF DEPT   SPILLMAN H
+  4     1  MUS  2134 RES     1  SECONDARY HARP         2-3  TBA                                     PERMIS OF DEPT   WERRIES G
+  3     2  MUS  2135 RES     2  SECONDARY VIOLIN       2-3  1230-0120   M                           PERMIS OF DEPT   HE L
+  4     1  MUS  2135 RES     1  SECONDARY VIOLIN       2-3  TBA                                     PERMIS OF DEPT   LILLESLATTEN
+  5        MUS  2136 RES     1  SECONDARY VIOLA        2-3  TBA                                     PERMIS OF DEPT   GOLDSTEIN E
+  5        MUS  2137 RES     1  SECONDARY CELLO        2-3  TBA                                     PERMIS OF DEPT   PARKER D
+  5        MUS  2138 RES     1  SECONDARY STRING BAS   2-3  TBA                                     PERMIS OF DEPT   WEI Y
+  1     4  MUS  2139 RES     1  SECONDARY FLUTE        2-3  TBA                                     PERMIS OF DEPT   KEMLER K
+  5        MUS  2140 RES     1  SECONDARY OBOE         2-3  TBA                                     PERMIS OF DEPT   PENNINGTON J
+  4     1  MUS  2141 RES     1  SECONDARY CLARINET     2-3  TBA                                     PERMIS OF DEPT   CHODACKI D
+  3     2  MUS  2142 RES     1  SECONDARY SAXOPHONE    2-3  TBA                                     PERMIS OF DEPT   ASSAD T
+  5        MUS  2143 RES     1  SECONDARY BASSOON      2-3  TBA                                     PERMIS OF DEPT   HALE D
+  3     2  MUS  2144 RES     1  SECONDARY TRUMPET      2-3  TBA                                     PERMIS OF DEPT   VANGJEL M
+  4     1  MUS  2145 RES     1  SECONDARY FRENCH HOR   2-3  TBA                                     PERMIS OF DEPT   ORGEL S
+  5        MUS  2146 RES     1  SECONDARY EUPHONIUM    2-3  TBA                                     PERMIS OF DEPT   SKILLEN J
+  2     3  MUS  2147 RES     1  SECONDARY TROMBONE     2-3  TBA                                     PERMIS OF DEPT   BELOGLAVEC H
+  5        MUS  2148 RES     1  SECONDARY TUBA         2-3  TBA                                     PERMIS OF DEPT   SKILLEN J
+  4     1  MUS  2149 RES     1  SECONDARY PERCUSSION   2-3  TBA                                     PERMIS OF DEPT   DIETZ B
+ 10        MUS  2151 RES     1  SECONDARY COMPOSITIO   2-3  TBA                                     PERMIS OF DEPT   GIBSON M
+  2     3  MUS  2152 RES     1  SECONDARY GUITAR       2-3  TBA                                     PERMIS OF DEPT   LIFFMANN E
+  2     3  MUS  2154 RES     1  SECONDARY JAZZ STUDY   2-3   400-0450    T                          PERMIS OF DEPT   GRIMES W
+  1     4  MUS  2154 RES     2  SECONDARY JAZZ STUDY   2-3   400-0450    T                          PERMIS OF DEPT   SHAW B
+  5        MUS  2154 RES     3  SECONDARY JAZZ STUDY   2-3  TBA                                     PERMIS OF DEPT   DELONY W
+ 14    11  MUS  2300         1  INSTR & VOCAL TECHN    1-2   930-1020   M W    0247 M&DA BLDG       MAJORS ONLY      ISBELL D
+                     LAB                                     930-1020       F  0247 M&DA BLDG
+ 16     9  MUS  2300         3  INSTR & VOCAL TECHN    1-2   900-1020    T TH  0114 SCHOOL OF MUSIC MAJORS ONLY      BYO J
+                     LAB                                    TBA
+  9    16  MUS  2300         2  INSTR & VOCAL TECHN    1-2  1030-1150    T TH  0247 M&DA BLDG       MAJORS ONLY      MOORE H
+                     LAB                                    TBA
+ 10    15  MUS  2400         1  JAZZ FUNDMNTL TCHRS    1.0   800-0850    T TH  0118 SCHOOL OF MUSIC MAJORS ONLY      DELONY W
+ 16     9  MUS  2621 LAB     1  AURAL SKILLS I         1.0   800-0850    T TH  0221 M&DA BLDG                        DROZZINA A
+ 11    49  MUS  2622         1  MUSIC THEORY II        3.0  1030-1120   M W F  0115 SCHOOL OF MUSIC                  SHANAHAN D
+ 17     8  MUS  2623 LAB     1  AURAL SKILLS II        1.0   800-0850    T TH  0248 M&DA BLDG                        MONZINGO E
+ 11    14  MUS  2623 LAB     3  AURAL SKILLS II        1.0   900-0950    T TH  0115 SCHOOL OF MUSIC                  MONZINGO E
+ 15    10  MUS  2623 LAB     4  AURAL SKILLS II        1.0   900-0950    T TH  0221 M&DA BLDG                        ROSADO A
+ 51     9  MUS  2632         1  HNRS MUS THEORY II     3.0  1030-1120   M W F  0115 SCHOOL OF MUSIC                  SHANAHAN D
+  2    13  MUS  2700         1  INTRO MUS TECH         3.0   830-0920   M   F  0115 SCHOOL OF MUSIC                  BERDAHL E
+                     LAB                                    1030-1220      TH  0248 M&DA BLDG                        MITCHUSSON C
+  8     7  MUS  2700         2  INTRO MUS TECH         3.0   830-0920   M   F  0115 SCHOOL OF MUSIC                  BERDAHL E
+                     LAB                                    1230-0220      TH  0248 M&DA BLDG
+ 10     5  MUS  2700         3  INTRO MUS TECH         3.0   830-0920   M   F  0115 SCHOOL OF MUSIC                  BERDAHL E
+                     LAB                                     330-0520     W    0248 M&DA BLDG
+(F)    20  MUS  2745         1  INTRO COMPUTER MUSIC   3.0   930-1020   M W F  0248 M&DA BLDG                        SHEFFIELD E
+ 15    10  MUS  3130 RES     1  PRIMARY VOICE          2-3   230-0320    T     0100 SCHOOL OF MUSIC MAJORS ONLY      HENDRICKSON B
+ 16     9  MUS  3130 RES     2  PRIMARY VOICE          2-3   230-0320    T     0114 SCHOOL OF MUSIC MAJORS ONLY      MOON S
+ 16     9  MUS  3130 RES     3  PRIMARY VOICE          2-3   230-0320    T     0001 BAND HALL       MAJORS ONLY      SIMS W
+ 15    10  MUS  3130 RES     4  PRIMARY VOICE          2-3   230-0320    T     0245 M&DA BLDG       MAJORS ONLY      BADE L
+  9    16  MUS  3130 RES     5  PRIMARY VOICE          2-3   230-0320    T     0215 M&DA BLDG       MAJORS ONLY      HARRIS T
+ 13    12  MUS  3130 RES     6  PRIMARY VOICE          2-3   230-0320    T     0115 SCHOOL OF MUSIC MAJORS ONLY      JESSE D
+ 22     3  MUS  3130 RES     7  PRIMARY VOICE          2-3   230-0320    T     0221 M&DA BLDG       MAJORS ONLY      GRAY R
+ 25        MUS  3131 RES     1  PRIMARY PIANO          2-3  TBA                                     MAJORS ONLY      DELONY W
+ 22     3  MUS  3131 RES     2  PRIMARY PIANO          2-3  TBA                                     MAJORS ONLY      GURT M
+ 23     2  MUS  3131 RES     3  PRIMARY PIANO          2-3  TBA                                     MAJORS ONLY      SIOLES G
+ 15        MUS  3131 RES     4  PRIMARY PIANO          2-3  TBA                                                      OTAMENDI A
+ 14     1  MUS  3131 RES     5  PRIMARY PIANO          2-3  TBA                                     MAJORS ONLY      PIKE P
+  8     2  MUS  3133 RES     1  PRIMARY ORGAN          2-3  TBA                                                      SPILLMAN H
+  9     1  MUS  3134 RES     1  PRIMARY HARP           2-3  TBA                                                      WERRIES G
+ 23     2  MUS  3135 RES     2  PRIMARY VIOLIN         2-3  1230-0120   M                                            HE L
+ 10        MUS  3135 RES     1  PRIMARY VIOLIN         2-3  TBA                                     MAJORS ONLY      LILLESLATTEN
+ 18     7  MUS  3136 RES     1  PRIMARY VIOLA          2-3  TBA                                     MAJORS ONLY      GOLDSTEIN E
+ 23     2  MUS  3137 RES     1  PRIMARY CELLO          2-3  TBA                                     MAJORS ONLY      PARKER D
+ 23     2  MUS  3138 RES     1  PRIMARY STRING BASS    2-3  TBA                                     MAJORS ONLY      WEI Y
+  8     7  MUS  3139 RES     1  PRIMARY FLUTE          2-3   230-0320   M      0114 SCHOOL OF MUSIC MAJORS ONLY      KEMLER K
+ 10     5  MUS  3140 RES     1  PRIMARY OBOE           2-3   230-0320   M      0331 SCHOOL OF MUSIC MAJORS ONLY      PENNINGTON J
+  7    13  MUS  3141 RES     1  PRIMARY CLARINET       2-3   230-0320   M      0215 M&DA BLDG       MAJORS ONLY      CHODACKI D
+  7    11  MUS  3142 RES     1  PRIMARY SAXOPHONE      2-3   230-0320   M      0248 M&DA BLDG       MAJORS ONLY      CAMPBELL G
+ 14     6  MUS  3143 RES     1  PRIMARY BASSOON        2-3   230-0320   M      0245 M&DA BLDG       MAJORS ONLY      HALE D
+ 13     2  MUS  3144 RES     1  PRIMARY TRUMPET        2-3   230-0320   M      0221 M&DA BLDG       MAJORS ONLY      SHAW B
+  8     7  MUS  3144 RES     2  PRIMARY TRUMPET        2-3   230-0320   M      0221 M&DA BLDG       MAJORS ONLY      VANGJEL M
+  8     7  MUS  3145 RES     1  PRIMARY FRENCH HORN    2-3   230-0320   M      0249 M&DA BLDG       MAJORS ONLY      ORGEL S
+ 11     4  MUS  3146 RES     1  PRIMARY EUPHONIUM      2-3   230-0320   M      0001 BAND HALL       MAJORS ONLY      SKILLEN J
+  9     6  MUS  3147 RES     1  PRIMARY TROMBONE       2-3   230-0320   M      0118 SCHOOL OF MUSIC MAJORS ONLY      BELOGLAVEC H
+  9     6  MUS  3148 RES     1  PRIMARY TUBA           2-3   230-0320   M      0001 BAND HALL       MAJORS ONLY      SKILLEN J
+  3    12  MUS  3149 RES     1  PRIMARY PERCUSSION     2-3  TBA                                     MAJORS ONLY      DIETZ B
+ 25        MUS  3151 RES     1  PRIMARY COMPOSITION    2-3   430-0520N  M      0114 SCHOOL OF MUSIC MAJORS ONLY      CONSTANTINIDE
+ 13    12  MUS  3151 RES     2  PRIMARY COMPOSITION    2-3  TBA                                                      GIBSON M
+  9     1  MUS  3152 RES     1  PRIMARY GUITAR         2-3  TBA                                     MAJORS ONLY      LIFFMANN E
+  5        MUS  3153 RES     1  PRIMARY ELECTROACOUS   2-3  TBA                                     MAJORS ONLY      BERDAHL E
+ 13     2  MUS  3153 RES     2  PRIMARY ELECTROACOUS   2-3  TBA                                     MAJORS ONLY      ALLISON J
+ 11     4  MUS  3154 RES     1  PRIMARY JAZZ STUDY     2-3   400-0450    T                          MAJORS ONLY      DELONY W
+  5    10  MUS  3154 RES     2  PRIMARY JAZZ STUDY     2-3   400-0450    T                          MAJORS ONLY      GRIMES W
+ 15        MUS  3154 RES     3  PRIMARY JAZZ STUDY     2-3   400-0450    T                                           SHAW B
+ 10     6  MUS  3335 LAB     1  GROUP PIANO VI         1.0   930-1020    T TH  0201 M&DA BLDG       MAJORS ONLY      PIKE P
+ 16    34  MUS  3500 LAB     1  PREPARING ARTIST       1.0   830-0920     W    0118 SCHOOL OF MUSIC MAJORS ONLY      GRIMES W
+  1    19  MUS  3621 LAB     1  AURAL SKILLS III       1.0   900-0950    T TH  0215 M&DA BLDG                        DAVIS C
+ 35    25  MUS  3622         1  MUSIC THEORY IV        3.0  1130-1220   M W F  0115 SCHOOL OF MUSIC                  PECK R
+  4    16  MUS  3623 LAB     1  AURAL SKILLS IV        1.0   800-0850    T TH  0245 M&DA BLDG                        MAMEDOV N
+(F)    20  MUS  3623 LAB     3  AURAL SKILLS IV        1.0   900-0950    T TH  0245 M&DA BLDG                        MAMEDOV N
+ 23     7  MUS  3632         1  HNRS MUS THEORY IV     3.0  1130-1220   M W F  0115 SCHOOL OF MUSIC                  PECK R
+ 14    31  MUS  3710         1  OVERVIEW WEST MUS HI   3.0   830-0920   M W F  0245 M&DA BLDG                        BOUTWELL B
+ 13     7  MUS  3750         1  CHORAL LIT & COND II   1-2   930-1020   M W F  0118 SCHOOL OF MUSIC MAJORS ONLY      DAVIS N
+                     LAB                                    TBA
+ 20        MUS  3757         1  ORGAN LIT HIST DES     3.0  TBA                                     PERMIS OF DEPT   SPILLMAN H
+  8    12  MUS  3772         1  INSTR CONDUCTING II    2.0   900-1020    T TH  0001 BAND HALL                        LLINAS D
+                     LAB                                    TBA
+ 17     3  MUS  3780         1  INTRO STAGE TECH       2.0  1030-1150    T TH  0115 SCHOOL OF MUSIC                  HARRIS R
+                     LAB                                    TBA
+ 14     6  MUS  3997 RES     3  DIRECTED STUDIES MUS   1-3  1030-1120       F  0245 M&DA BLDG       PERMIS OF DEPT   BOROWITZ M
+ 20        MUS  3997 RES     1  DIRECTED STUDIES MUS   1-3  TBA                                     PERMIS OF DEPT   PIKE P
+ 19     1  MUS  3997 RES     2  DIRECTED STUDIES MUS   1-3  TBA                                     PERMIS OF DEPT   MCDONOUGH J
+ 20        MUS  3997 RES     4  DIRECTED STUDIES MUS   1-3  TBA                                                      SKILLEN J
+ 20        MUS  3997 RES     5  DIRECTED STUDIES MUS   1-3  TBA                                                      SHAW B
+ 20        MUS  3997 RES     6  DIRECTED STUDIES MUS   1-3  TBA                                                      DAVIS N
+ 20        MUS  3997 RES     7  DIRECTED STUDIES MUS   1-3  TBA                                                      PIKE P
+ 14     6  MUS  3997 RES     8  DIRECTED STUDIES MUS   1-3  TBA                                                      BYO J
+ 20        MUS  3997 RES     9  DIRECTED STUDIES MUS   1-3  TBA                                                      GIBSON M
+  8     2  MUS  3997 RES    10  DIRECTED STUDIES MUS   1-3  TBA                                                      KELLEY W
+ 19     1  MUS  3997 RES    11  DIRECTED STUDIES MUS   1-3  TBA                                                      DIETZ B
+ 19     1  MUS  3997 RES    12  DIRECTED STUDIES MUS   1-3  TBA                                                      KOIVISTO S
+ 19     1  MUS  3997 RES    13  DIRECTED STUDIES MUS   1-3  TBA                                                      MERCADO E
+(F)    12  MUS  4020 LAB     1  INTR ALEXANDER TECH    1.0  1130-1220   M W    0118 SCHOOL OF MUSIC                  O'NEILL P
+ 14     1  MUS  4120 LAB     1  REED MKG DLB RD MJ     1.0  TBA                                                      PENNINGTON J
+ 11     4  MUS  4120 LAB     2  REED MKG DLB RD MJ     1.0  TBA                                                      HALE D
+  8     2  MUS  4126 LAB     1  WOODWIND LITERATURE    1.0  TBA                                                      CHODACKI D
+ 10        MUS  4126 LAB     2  WOODWIND LITERATURE    1.0  TBA                                                      PENNINGTON J
+  9     1  MUS  4173 LAB     2  WOODWIND INSTR PED     1.0  TBA                                                      PENNINGTON J
+ 10        MUS  4220 LAB     1  PIANO CHAMBER MUSIC    1.0  TBA                                     AUDITION REQ'D   DELONY W
+ 10        MUS  4220 LAB     2  PIANO CHAMBER MUSIC    1.0  TBA                                     AUDITION REQ'D   GURT M
+  8     2  MUS  4220 LAB     3  PIANO CHAMBER MUSIC    1.0  TBA                                     AUDITION REQ'D   SIOLES G
+  7     3  MUS  4220 LAB     4  PIANO CHAMBER MUSIC    1.0  TBA                                     AUDITION REQ'D   OTAMENDI A
+ 31    29  MUS  4222 LAB     1  WOODWIND CHAMBER MUS   1.0   230-0320     W F                       AUDITION REQ'D   HALE D
+ 44    16  MUS  4223 LAB     1  BRASS CHAMBER MUSIC    1.0   230-0320     W F                       AUDITION REQ'D   ORGEL S
+ 14     1  MUS  4224 LAB     1  STRING CHAMBER MUSIC   1.0  TBA                                     AUDITION REQ'D   WERRIES G
+ 11     9  MUS  4224 LAB     2  STRING CHAMBER MUSIC   1.0  TBA                                     AUDITION REQ'D   HE L
+ 16     4  MUS  4224 LAB     3  STRING CHAMBER MUSIC   1.0  TBA                                     AUDITION REQ'D   LILLESLATTEN
+ 16     4  MUS  4224 LAB     4  STRING CHAMBER MUSIC   1.0  TBA                                     AUDITION REQ'D   GOLDSTEIN E
+ 12     8  MUS  4224 LAB     5  STRING CHAMBER MUSIC   1.0  TBA                                     AUDITION REQ'D   PARKER D
+ 19     1  MUS  4224 LAB     6  STRING CHAMBER MUSIC   1.0  TBA                                     AUDITION REQ'D   WEI Y
+ 19     1  MUS  4224 LAB     7  STRING CHAMBER MUSIC   1.0  TBA                                                      LIFFMANN E
+ 26     4  MUS  4225 LAB     2  COLLEGIUM MUSICUM      1.0   530-0650N  M      0114 SCHOOL OF MUSIC PERMIS OF INST   BYO J
+ 27     3  MUS  4225 LAB     1  COLLEGIUM MUSICUM      1.0   430-0550N    W    0114 SCHOOL OF MUSIC PERMIS OF INST   HOWE B
+ 16     9  MUS  4226 LAB     1  PERCUSSION ENSEMBLE    1.0   230-0320   M W F  B028 M&DA BLDG       AUDITION REQ'D   DIETZ B
+ 10     5  MUS  4227 LAB     1  MARIMBA ENSEMBLE       1.0   930-1020    T TH  B028 M&DA BLDG       AUDITION REQ'D   DIETZ B
+ 32    18  MUS  4230 LAB     1  GOSPEL CHOIR           1.0   430-0520N  M W    0115 SCHOOL OF MUSIC AUDITION REQ'D   HEBERT L
+ 26    24  MUS  4232 LAB     1  LSU TIGER GLEE CLUB    1.0   330-0420   M W F  0115 SCHOOL OF MUSIC AUDITION REQ'D   DAVIS N
+ 41    39  MUS  4233 LAB     1  WOMEN'S CHORUS         1.0   230-0320   M W F  0115 SCHOOL OF MUSIC AUDITION REQ'D   DAVIS N
+ 30    20  MUS  4235 LAB     1  CHAMBER CHOIR          1.0  1200-0120    T TH  0115 SCHOOL OF MUSIC AUDITION REQ'D   DICKSON J
+ 11    49  MUS  4236 LAB     1  A CAPPELLA CHOIR       1.0  1230-0220   M W F  0115 SCHOOL OF MUSIC AUDITION REQ'D   DICKSON J
+ 22     8  MUS  4240 LAB     1  OPERA CHORUS           1.0   430-0650N   T TH  0123AM&DA BLDG                        BOROWITZ M
+  4    26  MUS  4241 LAB     1  OPERA THEATER          2.0   400-0650   M      0123AM&DA BLDG       AUDITION REQ'D   MCDONOUGH J
+ 10    50  MUS  4251 LAB     1  WIND ENSEMBLE          0-1  1230-0220   M W F  0001 BAND HALL       AUDITION REQ'D   TALLEY D
+ 88    62  MUS  4252 LAB     1  SYMPHONIC BAND         0-1   330-0520   M W    0110 TIGER BAND HALL AUDITION REQ'D   JONES K
+  2    23  MUS  4253 LAB     1  JAZZ BAND              1.0   200-0350    T TH  0118 SCHOOL OF MUSIC AUDITION REQ'D   SHAW B
+ 53    47  MUS  4254 LAB     1  SYMPHONIC WINDS        0-1  1230-0220   M W F  0110 TIGER BAND HALL AUDITION REQ'D   LLINAS D
+  5    10  MUS  4255 LAB     1  CHAMBER JAZZ           1.0  TBA                                     AUDITION REQ'D   DELONY W
+ 10     5  MUS  4255 LAB     2  CHAMBER JAZZ           1.0  TBA                                                      GRIMES W
+ 23    77  MUS  4261 LAB     1  SYMPHONY ORCHESTRA     0-1  1200-0150    T TH  0118 SCHOOL OF MUSIC                  RIAZUELO C
+ 53    47  MUS  4261 LAB     2  SYMPHONY ORCHESTRA     0-1  1230-0220     W    0118 SCHOOL OF MUSIC AUDITION REQ'D   RIAZUELO C
+  7     3  MUS  4400         1  ORCH REPERTOIRE        1.0  TBA                                                      WEI Y
+  5    10  MUS  4400         2  ORCH REPERTOIRE        1.0  TBA                                                      LILLESLATTEN
+ 16     9  MUS  4718         1  STYLE & PRACT BETH     3.0   930-1020   M W F  0245 M&DA BLDG       CI-WRITTEN&SPOK  PECK R
+ 22     8  MUS  4730         1  ELEM ORCHESTRATION     3.0  1030-1150    T TH  0114 SCHOOL OF MUSIC                  GIBSON M
+  8     7  MUS  4749         1  SEM IN MUSIC HIST      3.0   900-1020    T TH  0273 M&DA BLDG                        HOWE B
+ 12     3  MUS  4758         1  PIANO LITERATURE II    3.0  1030-1150    T TH                       MAJORS ONLY      SIOLES G
+  6     6  MUS  4761 LAB     1  CARE REPAIR OF INST    1.0  TBA                                                      KOIVISTO S
+ 14     1  MUS  4773 RES     1  ORCH REPERT HARP       1.0  TBA                                                      WERRIES G
+ 37    13  MUS  4797 RES     1  SENIOR RECITAL         1.0  TBA                                     MAJORS ONLY      CAMPBELL G
+ 15        MUS  4798 LAB     1  SR COMPOSITN RECITAL   1.0  TBA                                     MAJORS ONLY      CAMPBELL G
+ 14     1  MUS  4799 RES     1  COACHING IN APPL MUS   2.0  TBA                                                      MOON S
+ 11     4  MUS  4799 RES     2  COACHING IN APPL MUS   2.0  TBA                                                      HENDRICKSON B
+ 12     3  MUS  4799 RES     3  COACHING IN APPL MUS   2.0  TBA                                                      BADE L
+ 10     5  MUS  4799 RES     4  COACHING IN APPL MUS   2.0  TBA                                                      HARRIS T
+ 15        MUS  4799 RES     5  COACHING IN APPL MUS   2.0  TBA                                                      SIMS W
+ 13     7  MUS  7020         1  ADV ITAL DICT SINGER   1.0  1030-1120   M W    0245 M&DA BLDG                        MOON S
+                     LAB                                    TBA
+ 24     1  MUS  7030 RES     1  GRADUATE VOICE         2-6   230-0320    T                          MAJORS ONLY      HENDRICKSON B
+ 22     3  MUS  7030 RES     2  GRADUATE VOICE         2-6   230-0320    T                          MAJORS ONLY      MOON S
+ 19     6  MUS  7030 RES     3  GRADUATE VOICE         2-6   230-0320    T                          MAJORS ONLY      SIMS W
+ 24     1  MUS  7030 RES     4  GRADUATE VOICE         2-6   230-0320    T                          MAJORS ONLY      BADE L
+ 23     2  MUS  7030 RES     5  GRADUATE VOICE         2-6   230-0310    T                                           GRAY R
+ 19     6  MUS  7030 RES     6  GRADUATE VOICE         2-6   230-0310    T                          MAJORS ONLY      JESSE D
+ 24     1  MUS  7030 RES     7  GRADUATE VOICE         2-6   230-0310    T                          MAJORS ONLY      HARRIS T
+ 20     5  MUS  7031 RES     1  GRADUATE PIANO         2-6   130-0220    T                          MAJORS ONLY      DELONY W
+ 16     9  MUS  7031 RES     2  GRADUATE PIANO         2-6   130-0220    T                          MAJORS ONLY      GURT M
+ 19     6  MUS  7031 RES     3  GRADUATE PIANO         2-6   130-0220    T                          MAJORS ONLY      SIOLES G
+ 24     1  MUS  7033 RES     1  GRADUATE ORGAN         2-6  TBA                                     MAJORS ONLY      SPILLMAN H
+  5     5  MUS  7035 RES     2  GRADUATE VIOLIN        2-6  1230-0120   M                           MAJORS ONLY      HE L
+  2     8  MUS  7035 RES     1  GRADUATE VIOLIN        2-6  TBA                                     MAJORS ONLY      LILLESLATTEN
+ 15    10  MUS  7036 RES     1  GRADUATE VIOLA         2-6  TBA                                     MAJORS ONLY      GOLDSTEIN E
+(F)     8  MUS  7037 RES     1  GRADUATE CELLO         2-6  TBA                                     MAJORS ONLY      PARKER D
+ 19     6  MUS  7038 RES     1  GRADUATE STRING BASS   2-6  TBA                                     MAJORS ONLY      WEI Y
+  5     5  MUS  7039 RES     1  GRADUATE FLUTE         2-6   230-0320   M      0114 SCHOOL OF MUSIC MAJORS ONLY      KEMLER K
+  7     3  MUS  7040 RES     1  GRADUATE OBOE          2-6   230-0320   M      0331 SCHOOL OF MUSIC MAJORS ONLY      PENNINGTON J
+ 15     5  MUS  7041 RES     1  GRADUATE CLARINET      2-6   230-0320   M      0215 M&DA BLDG       MAJORS ONLY      CHODACKI D
+  5     5  MUS  7042 RES     1  GRADUATE SAXOPHONE     2-6   230-0320   M      0248 M&DA BLDG       MAJORS ONLY      CAMPBELL G
+  8     2  MUS  7043 RES     1  GRADUATE BASSOON       2-6   230-0320   M      0245 M&DA BLDG       MAJORS ONLY      HALE D
+  3     2  MUS  7044 RES     1  GRADUATE TRUMPET       2-6   230-0320   M      0221 M&DA BLDG       MAJORS ONLY      VANGJEL M
+  4     1  MUS  7044 RES     2  GRADUATE TRUMPET       2-6   230-0320   M      0221 M&DA BLDG                        SHAW B
+  2     3  MUS  7045 RES     1  GRADUATE FRENCH HORN   2-6   230-0320   M      0249 M&DA BLDG       MAJORS ONLY      ORGEL S
+  3     2  MUS  7046 RES     1  GRADUATE EUPHONIUM     2-6   230-0320   M      0001 BAND HALL       MAJORS ONLY      SKILLEN J
+  4     1  MUS  7047 RES     1  GRADUATE TROMBONE      2-6   230-0320   M      0118 SCHOOL OF MUSIC MAJORS ONLY      BELOGLAVEC H
+  2     3  MUS  7048 RES     1  GRADUATE TUBA          2-6   230-0320   M      0001 BAND HALL       MAJORS ONLY      SKILLEN J
+  3     2  MUS  7049 RES     1  GRADUATE PERCUSSION    2-6  TBA                                     MAJORS ONLY      DIETZ B
+ 19     6  MUS  7051 RES     1  GRADUATE COMPOSITION   2-6  TBA                                     MAJORS ONLY      CONSTANTINIDE
+  1     4  MUS  7051 RES     2  GRADUATE COMPOSITION   2-6  TBA                                                      GIBSON M
+ 10        MUS  7053 RES     1  GRADUATE ELECTROACOU   2-6  TBA                                     MAJORS ONLY      BERDAHL E
+  4     6  MUS  7053 RES     2  GRADUATE ELECTROACOU   2-6  TBA                                     MAJORS ONLY      ALLISON J
+ 25        MUS  7054 RES     1  GRADUATE JAZZ STUDY    2-6  TBA                                     MAJORS ONLY      DELONY W
+  4     1  MUS  7054 RES     2  GRADUATE JAZZ STUDY    2-6  TBA                                                      GRIMES W
+ 14    11  MUS  7055         1  GRAD COLLAB KEYBOARD   2-6  TBA                                     MAJORS ONLY      OTAMENDI A
+ 13     2  MUS  7126 SEM     1  SEM WOODWIND LIT I     2.0  TBA                                                      CHODACKI D
+ 15        MUS  7126 SEM     2  SEM WOODWIND LIT I     2.0  TBA                                                      PENNINGTON J
+ 15        MUS  7126 SEM     3  SEM WOODWIND LIT I     2.0  TBA                                                      CAMPBELL G
+  7     3  MUS  7127 RES     1  SEM WOODWIND LIT II    2.0  TBA                                                      KEMLER K
+  9     1  MUS  7127 RES     2  SEM WOODWIND LIT II    2.0  TBA                                                      CAMPBELL G
+  6     4  MUS  7173 RES     1  WOODWIND INSTR PED     2.0  TBA                                                      HALE D
+  9     1  MUS  7173 RES     2  WOODWIND INSTR PED     2.0  TBA                                                      PENNINGTON J
+  3    17  MUS  7222         1  SOLO LIT FOR VOICE     3.0  1030-1150    T TH  0215 M&DA BLDG                        BADE L
+ 13     7  MUS  7270 SEM     1  HIST PERSPECT VOICE    3.0  1030-1150    T TH  0221 M&DA BLDG                        SIMS W
+(F)    12  MUS  7500 CLI     3  ADV TEACHNG PRACTICM   1-2   230-0320      TH  0221 M&DA BLDG                        SIMS W
+  9     1  MUS  7500 CLI     1  ADV TEACHNG PRACTICM   1-2  TBA                                     PERMIS OF DEPT   PIKE P
+  8     2  MUS  7500 CLI     2  ADV TEACHNG PRACTICM   1-2  TBA                                     PERMIS OF DEPT   STANLEY A
+ 18     2  MUS  7502         1  PIANO PEDAGOG/LIT II   2.0   130-0220   M W    0201 M&DA BLDG       MAJORS ONLY      PIKE P
+ 12     8  MUS  7570         1  COLLEGE TEACH IN MUS   3.0   400-0650   M      0249 M&DA BLDG                        CASSIDY J
+  1    24  MUS  7700         1  SURVEY OF ANAL TECH    3.0  1130-1220   M W F  0215 M&DA BLDG                        PERRY J
+  5    15  MUS  7704         1  SCHENKERIAN ANALYSIS   3.0   930-1020   M W F  0273 M&DA BLDG                        SHANAHAN D
+ 11     9  MUS  7722         1  CHORAL LITERATURE II   3.0   330-0450    T TH  0115 SCHOOL OF MUSIC                  DICKSON J
+  2    13  MUS  7741 SEM     1  HIST MUS THEOR I       3.0  1030-1150    T TH  0273 M&DA BLDG                        MCFARLAND A
+ 14     4  MUS  7745         1  ADV COMPUTER MUSIC     3.0   900-1020    T TH  0248 M&DA BLDG                        BERDAHL E
+ 11     7  MUS  7746 SEM     1  EXP MUS & DIG MEDIA    3.0   300-0420    T TH  0248 M&DA BLDG                        ALLISON J
+ 16     4  MUS  7750 SEM     2  SPEC STUD PIANO LIT    3.0  TBA                                                      GURT M
+  2    18  MUS  7752         1  MUS OF RENAISSANCE     3.0   900-1020    T TH  0249 M&DA BLDG                        MCFARLAND A
+  6    14  MUS  7756         1  MUS IN MODERN ERA      3.0  1130-1220   M W F  0221 M&DA BLDG                        BOUTWELL B
+ 10    10  MUS  7765         1  PHIL BASES MUS EDUC    3.0   900-1020    T TH  0247 M&DA BLDG                        STANLEY A
+  6     4  MUS  7774 RES     1  ADV BAND CONDUCTING    3.0   130-0250    T TH                                        TALLEY D
+  8     2  MUS  7776 RES     1  ADV ORCH CONDUCTING    3.0  1030-1120   M W F  0118 SCHOOL OF MUSIC                  RIAZUELO C
+ 51    34  MUS  7798 RES     1  MASTER'S RECITAL       1-3  TBA                                                      SKILLEN J
+ 19     1  MUS  7799 RES     1  ADV COACHING APL MUS   2.0  TBA                                     PERMIS OF DEPT   OTAMENDI A
+ 20        MUS  7799 RES     2  ADV COACHING APL MUS   2.0  TBA                                                      SIMS W
+  3     2  MUS  7799 RES     3  ADV COACHING APL MUS   2.0  TBA                                                      MOON S
+  2     3  MUS  7799 RES     4  ADV COACHING APL MUS   2.0  TBA                                                      HENDRICKSON B
+ 18     2  MUS  7799 RES     5  ADV COACHING APL MUS   2.0  TBA                                                      BADE L
+ 19     1  MUS  7799 RES     6  ADV COACHING APL MUS   2.0  TBA                                     PERMIS OF DEPT   HARRIS T
+ 13     5  MUS  7921 SEM     1  SEM MUSIC THEORY       3.0  1200-0120    T TH  0273 M&DA BLDG                        PERRY J
+(F)     6  MUS  7997 RES    10  INDIVIDUAL PROJ MUS    1-3  1030-1120       F  0245 M&DA BLDG       PERMIS OF DEPT   BOROWITZ M
+ 15     5  MUS  7997 RES     1  INDIVIDUAL PROJ MUS    1-3  TBA                                                      DELONY W
+ 17     3  MUS  7997 RES     2  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   GURT M
+  6     4  MUS  7997 RES     3  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   SIOLES G
+ 10        MUS  7997 RES     4  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   PIKE P
+ 12     8  MUS  7997 RES     5  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   OTAMENDI A
+ 19     1  MUS  7997 RES     6  INDIVIDUAL PROJ MUS    1-3  TBA                                                      PECK R
+ 19     1  MUS  7997 RES     7  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   PERRY J
+ 20        MUS  7997 RES     8  INDIVIDUAL PROJ MUS    1-3  TBA                                                      SHANAHAN D
+(F)     3  MUS  7997 RES     9  INDIVIDUAL PROJ MUS    1-3  TBA                                                      MCDONOUGH J
+  1     4  MUS  7997 RES    11  INDIVIDUAL PROJ MUS    1-3  TBA                                                      SKILLEN J
+  5        MUS  7997 RES    12  INDIVIDUAL PROJ MUS    1-3  TBA                                                      SHAW B
+ 19     1  MUS  7997 RES    13  INDIVIDUAL PROJ MUS    1-3  TBA                                                      VANGJEL M
+  4     1  MUS  7997 RES    14  INDIVIDUAL PROJ MUS    1-3  TBA                                                      RIAZUELO C
+ 20        MUS  7997 RES    15  INDIVIDUAL PROJ MUS    1-3  TBA                                                      TALLEY D
+ 18     2  MUS  7997 RES    16  INDIVIDUAL PROJ MUS    1-3  TBA                                                      LLINAS D
+  5        MUS  7997 RES    17  INDIVIDUAL PROJ MUS    1-3  TBA                                                      GOLDSTEIN E
+  5        MUS  7997 RES    18  INDIVIDUAL PROJ MUS    1-3  TBA                                                      DICKSON J
+ 20        MUS  7997 RES    19  INDIVIDUAL PROJ MUS    1-3  TBA                                                      DAVIS N
+ 19     1  MUS  7997 RES    20  INDIVIDUAL PROJ MUS    1-3  TBA                                                      ALLISON J
+ 19     1  MUS  7997 RES    21  INDIVIDUAL PROJ MUS    1-3  TBA                                                      BERDAHL E
+ 18     2  MUS  7997 RES    22  INDIVIDUAL PROJ MUS    1-3  TBA                                                      GOLDSTEIN E
+ 19     1  MUS  7997 RES    23  INDIVIDUAL PROJ MUS    1-3  TBA                                                      BADE L
+ 17     3  MUS  7997 RES    24  INDIVIDUAL PROJ MUS    1-3  TBA                                                      LILLESLATTEN
+  4     1  MUS  7997 RES    25  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   PARKER D
+ 18     2  MUS  7997 RES    26  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   GIBSON M
+ 18     2  MUS  7997 RES    27  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   SIMS W
+ 20        MUS  7997 RES    28  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   HARRIS T
+ 19     1  MUS  7997 RES    29  INDIVIDUAL PROJ MUS    1-3  TBA                                     PERMIS OF DEPT   STANLEY A
+ 22     3  MUS  7998 RES     1  SPEC TOPICS IN MUSIC   2-3   230-0320   M W    0247 M&DA BLDG       MAJORS ONLY      PIKE P
+ 12     8  MUS  7998 RES     2  SPEC TOPICS IN MUSIC   2-3  1030-1150    T TH  0249 M&DA BLDG                        HOWE B
+  6     4  MUS  7998 RES     3  SPEC TOPICS IN MUSIC   2-3  1200-0120    T TH                                        JONES K
+  4     1  MUS  8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   HOWE B
+  3     2  MUS  8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CONSTANTINIDE
+  4     1  MUS  8000 RES     3  THESIS RESEARCH        1-12 TBA
+  2     3  MUS  9000 RES     1  DISSERTATION RES       1-12 TBA                                     MAJORS ONLY      SHANAHAN D
+  3     2  MUS  9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BERDAHL E
+  4     1  MUS  9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BOUTWELL B
+  4     1  MUS  9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   BECK S
+  4     1  MUS  9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PERRY J
+  4     1  MUS  9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PECK R
+  1     4  MUS  9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CONSTANTINIDE
+  3     2  MUS  9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ALLISON J
+  4     1  MUS  9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   HOWE B
+  5        MUS  9000 RES    10  DISSERTATION RES       1-12 TBA                                                      DICKSON J
+  5        MUS  9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ISBELL D
+  3     2  MUS  9000 RES    12  DISSERTATION RES       1-12 TBA                                                      STANLEY A
+  5        MUS  9000 RES    13  DISSERTATION RES       1-12 TBA                                                      BAZAYEV I
+  5        MUS  9000 RES    14  DISSERTATION RES       1-12 TBA
+  5        MUS  9000 RES    15  DISSERTATION RES       1-12 TBA
+  5        MUS  9000 RES    16  DISSERTATION RES       1-12 TBA
+  5        MUS  9000 RES    17  DISSERTATION RES       1-12 TBA
+  5        MUS  9000 RES    18  DISSERTATION RES       1-12 TBA
+  4    16  MUS  9001 RES     1  DOC SOLO RECTL         1-3  TBA                                     PERMIS OF DEPT   SKILLEN J
+  5    15  MUS  9002 RES     1  2ND DOC SOLO RECITAL   1-3  TBA                                     PERMIS OF DEPT   SKILLEN J
+ 20        MUS  9002 RES     2  2ND DOC SOLO RECITAL   1-3  TBA                                     PERMIS OF DEPT   SKILLEN J
+ 91     8  MUS  9005 RES     1  CONCERTO W ORCHESTRA   1-2  TBA                                     PERMIS OF DEPT   SKILLEN J
+ 95     4  MUS  9007 RES     1  DMA ROLE IN OPERA      1-3  TBA                                     PERMIS OF DEPT   SKILLEN J
+ 90     9  MUS  9008 RES     1  DMA CHAMB MUS RECIT    2.0  TBA                                     PERMIS OF DEPT   SKILLEN J
+  4     1  MUS  9009 RES     1  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   PIKE P
+  5        MUS  9009 RES     2  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   DELONY W
+  5        MUS  9009 RES     3  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   SIOLES G
+  4     1  MUS  9009 RES     4  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   GURT M
+  5        MUS  9009 RES     5  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   OTAMENDI A
+  5        MUS  9009 RES     6  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   SPILLMAN H
+  4     1  MUS  9009 RES     7  RESEARCH & MONOGR      1-12 TBA                                                      GIGER A
+  3     2  MUS  9009 RES     8  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   DIETZ B
+  2     3  MUS  9009 RES     9  RESEARCH & MONOGR      1-12 TBA                                                      DICKSON J
+  3     1  MUS  9009 RES    10  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   GOLDSTEIN E
+  4     1  MUS  9009 RES    11  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   RIAZUELO C
+  4     1  MUS  9009 RES    12  RESEARCH & MONOGR      1-12 TBA                                     PERMIS OF DEPT   LILLESLATTEN
+  5        MUS  9010 RES     1  LEC REC/WRIT DOCUM     1-9  TBA                                     PERMIS OF DEPT   DELONY W
+  5        MUS  9010 RES     2  LEC REC/WRIT DOCUM     1-9  TBA                                     PERMIS OF DEPT   GURT M
+  5        MUS  9010 RES     3  LEC REC/WRIT DOCUM     1-9  TBA                                     PERMIS OF DEPT   SIOLES G
+  5        MUS  9010 RES     4  LEC REC/WRIT DOCUM     1-9  TBA                                     PERMIS OF DEPT   OTAMENDI A
+ 19     1  MUS  9010 RES     5  LEC REC/WRIT DOCUM     1-9  TBA                                     PERMIS OF DEPT   JESSE D
+  4     1  MUS  9010 RES     6  LEC REC/WRIT DOCUM     1-9  TBA                                                      GOLDSTEIN E
+  4     1  MUS  9010 RES     7  LEC REC/WRIT DOCUM     1-9  TBA                                                      SIMS W
+  4     1  MUS  9010 RES     8  LEC REC/WRIT DOCUM     1-9  TBA                                                      ORGEL S
+  4     1  MUS  9010 RES     9  LEC REC/WRIT DOCUM     1-9  TBA                                                      LILLESLATTEN
+  5        MUS  9010 RES    10  LEC REC/WRIT DOCUM     1-9  TBA                                                      HE L
+  3     2  MUS  9010 RES    11  LEC REC/WRIT DOCUM     1-9  TBA                                                      PARKER D
+  4     1  MUS  9010 RES    12  LEC REC/WRIT DOCUM     1-9  TBA                                     PERMIS OF DEPT   ALLISON J
+ 13     2  MUS  9759 RES     1  REPERTOIRE             3.0  TBA                                     PERMIS OF DEPT   SIMS W
+ 13     2  MUS  9759 RES     2  REPERTOIRE             3.0  TBA                                                      JESSE D
+ 15        MUS  9759 RES     3  REPERTOIRE             3.0  TBA                                     PERMIS OF DEPT   TALLEY D
+ 23     2  MUS  9929 SEM     1  SEM LIT ST PF ORGAN    3.0  TBA                                     MAJORS ONLY      SPILLMAN H

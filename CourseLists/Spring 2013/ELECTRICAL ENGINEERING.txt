@@ -1,0 +1,158 @@
+ 12    65  EE   2120         1  CIRCUITS I             3.0   830-0920   M W F  2161 PATRICK TAYLOR                   RABALAIS M
+ 37    38  EE   2130         1  CIRCUITS II            3.0  1130-1220   M W F  0221 TUREAUD HALL                     RABALAIS M
+ 28    49  EE   2230         1  ELECTRONICS I          3.0  1030-1120   M W F  2161 PATRICK TAYLOR                   SCALZO J
+  3     7  EE   2231         1  ELECTRONICS LAB I      2.0   800-0850    T     2146 PATRICK TAYLOR                   SCALZO J
+                     LAB                                    1030-1220    T     0133 ELECTRICAL ENGR
+(F)    10  EE   2231         2  ELECTRONICS LAB I      2.0   800-0850    T     2146 PATRICK TAYLOR                   SCALZO J
+                     LAB                                     100-0250    T     0133 ELECTRICAL ENGR
+  2     8  EE   2231         3  ELECTRONICS LAB I      2.0   800-0850    T     2146 PATRICK TAYLOR                   SCALZO J
+                     LAB                                     300-0450    T     0133 ELECTRICAL ENGR
+  3     7  EE   2231         4  ELECTRONICS LAB I      2.0   800-0850    T     2146 PATRICK TAYLOR                   SCALZO J
+                     LAB                                     300-0450      TH  0133 ELECTRICAL ENGR
+  1     9  EE   2231         5  ELECTRONICS LAB I      2.0   800-0850    T     2146 PATRICK TAYLOR                   SCALZO J
+                     LAB                                     830-1020      TH  0133 ELECTRICAL ENGR
+(F)        EE   2231         6  ELECTRONICS LAB I      2.0   800-0850    T     2146 PATRICK TAYLOR                   SCALZO J
+                     LAB                                    1030-1220      TH  0133 ELECTRICAL ENGR
+  6    69  EE   2730         1  DIGITAL LOGIC II       2.0   230-0320   M W    0221 TUREAUD HALL                     TRAHAN J
+  7     6  EE   2731         1  DIGTL LOGIC DSGN LAB   2.0   900-0950    T     1114 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                    1030-1220    T
+  2    11  EE   2731         2  DIGTL LOGIC DSGN LAB   2.0   900-0950    T     1114 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     100-0250    T                                           DE SOUZA G
+  2    11  EE   2731         3  DIGTL LOGIC DSGN LAB   2.0   900-0950    T     1114 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     300-0450    T
+(F)        EE   2731         4  DIGTL LOGIC DSGN LAB   2.0   900-0950    T     1114 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     300-0450      TH
+(F)    13  EE   2731         5  DIGTL LOGIC DSGN LAB   2.0   900-0950    T     1114 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     830-1020      TH
+ 69    81  EE   2740         1  DIGITAL LOGIC          3.0   730-0820   M W F  1109 PATRICK TAYLOR                   TRAHAN J
+  6    24  EE   2810         2  TOOLS IN ECE           2.0  1200-1250    T TH                       PREREQ CHECKED   SCALZO J
+  2   158  EE   2950         1  COMPREHENSIVE E E      3.0  1030-1120   M W F  1109 PATRICK TAYLOR                   RABALAIS M
+ 40   110  EE   2950         2  COMPREHENSIVE E E      3.0  1200-0120    T TH  0015 LOCKETT                          RABALAIS M
+ 13     7  EE   3070 CLI     1  ENGINEERING PRACTICE   3.0  TBA                                     PERMIS OF DEPT   SCALZO J
+ 36    24  EE   3220         1  ELECTRONICS II         3.0   830-0920   M W F  1112 PATRICK TAYLOR                   CHOI J
+(F)    10  EE   3221         1  ELECTRONICS LAB II     2.0   900-0950      TH  1118 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                    1030-1220      TH  0238 ELECTRICAL ENGR
+  5     5  EE   3221         2  ELECTRONICS LAB II     2.0   900-0950      TH  1118 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     100-0250      TH  0238 ELECTRICAL ENGR
+(F)        EE   3221         3  ELECTRONICS LAB II     2.0   900-0950      TH  1118 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     300-0450      TH  0238 ELECTRICAL ENGR
+  4     6  EE   3221         4  ELECTRONICS LAB II     2.0   900-0950      TH  1118 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     300-0450    T     0238 ELECTRICAL ENGR
+ 15    35  EE   3320         1  ELEC MAGNETIC FLDS     3.0   130-0220   M W F  1116 PATRICK TAYLOR                   VERONIS G
+ 35    25  EE   3410         1  ELECTRIC POWER         3.0   330-0450   M W    0211 TUREAUD HALL                     CZARNECKI L
+  8    52  EE   3530         2  INTRO TO CONTROL ENG   3.0   230-0320   M W F  2142 PATRICK TAYLOR                   CHEN X
+ 20    40  EE   3610         1  SIGNALS AND SYSTEMS    3.0  1130-1220   M W F  0211 TUREAUD HALL                     WEI S
+  6    39  EE   3750         1  MICROPROCESSR SYSTMS   2.0  1230-0120   M W    3140 PATRICK TAYLOR                   VAIDYANATHAN
+(F)        EE   3751         1  MICROPROCESSOR LAB     2.0   800-0850      TH  1110 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                    1030-1220      TH  0302 ELECTRICAL ENGR
+  2    14  EE   3751         2  MICROPROCESSOR LAB     2.0   800-0850      TH  1110 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     100-0250      TH  0302 ELECTRICAL ENGR
+  6    10  EE   3751         3  MICROPROCESSOR LAB     2.0   800-0850      TH  1110 PATRICK TAYLOR                   DE SOUZA G
+                     LAB                                     300-0450      TH  0302 ELECTRICAL ENGR
+ 12    68  EE   3950         1  ELECTRONICS            2.0  1030-1120    T TH  0105 TUREAUD HALL                     DE SOUZA G
+(F)     8  EE   4002         1  PWR SYSTM PROT W/LAB   3.0   600-0750N   T     0211 TUREAUD HALL                     MCANELLY M
+(F)     8  EE   4002         3  PWR SYSTM PROT W/LAB   3.0   600-0750N   T     0211 TUREAUD HALL                     MCANELLY M
+(F)     8  EE   4002         4  PWR SYSTM PROT V/LAB   3.0   600-0750N   T     0211 TUREAUD HALL                     MCANELLY M
+ 10        EE   4061 RES     1  RESEARCH FOR UGRAD I   3.0  TBA                                     PERMIS OF DEPT
+ 75     5  EE   4160         1  ALG & IMP DIG SIG PR   3.0   130-0220   M W F  1111 PATRICK TAYLOR                   WU H
+  2     8  EE   4270         1  OPTICAL ELECTRONICS    3.0   230-0320   M W    2228 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     100-0250      TH  0244 ELECTRICAL ENGR
+  8     2  EE   4270         2  OPTICAL ELECTRONICS    3.0   230-0320   M W    2228 PATRICK TAYLOR                   FELDMAN M
+                     LAB                                     300-0450      TH  0244 ELECTRICAL ENGR
+(F)    10  EE   4422         1  ELECTRIC MACHINE DSN   3.0   830-0920   M W    3141 PATRICK TAYLOR                   MENDRELA E
+                     LAB                                     830-1020      TH  0118BELECTRICAL ENGR                  MENDRELA E
+  3     7  EE   4422         2  ELECTRIC MACHINE DSN   3.0   830-0920   M W    3141 PATRICK TAYLOR                   MENDRELA E
+                     LAB                                    1030-1220      TH  0118BELECTRICAL ENGR
+  5     5  EE   4422         3  ELECTRIC MACHINE DSN   3.0   830-0920   M W    3141 PATRICK TAYLOR                   MENDRELA E
+                     LAB                                     100-0250      TH  0118BELECTRICAL ENGR
+  1     8  EE   4460         1  POWER ELECTRONICS      3.0  1030-1120   M W    0149 ELECTRICAL ENGR                  CZARNECKI L
+                     LAB                                     830-1020    T     0118 ELECTRICAL ENGR
+(F)     9  EE   4460         2  POWER ELECTRONICS      3.0  1030-1120   M W    0149 ELECTRICAL ENGR                  CZARNECKI L
+                     LAB                                    1230-0220    T     0118 ELECTRICAL ENGR
+  3     3  EE   4460         3  POWER ELECTRONICS      3.0  1030-1120   M W    0149 ELECTRICAL ENGR                  CZARNECKI L
+                     LAB                                     300-0450    T     0118 ELECTRICAL ENGR                  CZARNECKI L
+  1     6  EE   4460         4  POWER ELECTRONICS      3.0  1030-1120   M W    0149 ELECTRICAL ENGR                  CZARNECKI L
+                     LAB                                     330-0520   M      0118 ELECTRICAL ENGR
+ 13    12  EE   4585         1  DISCRETE CNTRL SYS D   3.0  1130-1220   M W F  3129 PATRICK TAYLOR                   ZHOU K
+ 25    11  EE   4625         1  DIG COMMUN/NETWORK     3.0  1230-0120   M W F  0119 TUREAUD HALL                     LIANG X
+  7    13  EE   4710         1  COMMUN IN COMPUTING    3.0  1130-1220   M W F  3140 PATRICK TAYLOR                   RAI S
+ 21    19  EE   4720         1  COMPUTER ARCHITECTUR   3.0   930-1020   M W F  0225 TUREAUD HALL                     KOPPELMAN D
+ 14    11  EE   4730         1  3D GRAPH & GEOM MODL   3.0   330-0450   M W    3129 PATRICK TAYLOR                   LI X
+  8    29  EE   4740         1  DISCR STRUC COMP ENG   3.0  1030-1120   M W F  3131 PATRICK TAYLOR                   VAIDYANATHAN
+ 24    21  EE   4780         1  INTR TO COMPUT VISIN   3.0   830-0920   M W F  3140 PATRICK TAYLOR                   GUNTURK B
+ 17    23  EE   4810         1  SENIOR DESIGN I        3.0  1030-1150    T TH  0108 TUREAUD HALL    CI-WRITTEN&SPOK  SCALZO J
+                     LAB                                     300-0550    T                                           SCALZO J
+ 73     2  EE   4810         2  SENIOR DESIGN I        3.0  1030-1150    T TH  0108 TUREAUD HALL    CI-WRITTEN&SPOK  SCALZO J
+                     LAB                                     300-0550     W
+(F)    55  EE   4820 LAB     1  SENIOR DESIGN II       3.0   300-0550    T TH                       CI-WRITTEN&SPOK  DE SOUZA G
+ 12     3  EE   4859         2  DIGITAL MEDIA CAPSTN   3.0   300-0350    T TH                       PERMIS OF DEPT   DE SOUZA G
+                     LAB                                    TBA
+ 19     1  EE   7091 RES     1  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   GUNTURK B
+ 19     1  EE   7091 RES     2  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   LI X
+ 19     1  EE   7091 RES     3  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   VERONIS G
+ 18     2  EE   7091 RES     4  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   NARAGHI-POUR
+ 19     1  EE   7091 RES     5  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   GU G
+ 19     1  EE   7091 RES     6  EE RESEARCH I          3.0  TBA                                     PERMIS OF DEPT   RAMANUJAM J
+ 12     1  EE   7092 RES     1  EE RESEARCH II         3.0  TBA                                     PERMIS OF DEPT   SRIVASTAVA A
+ 12     1  EE   7092 RES     2  EE RESEARCH II         3.0  TBA                                     PERMIS OF DEPT   DANIELS-RACE
+ 13        EE   7092 RES     3  EE RESEARCH II         3.0  TBA                                     PERMIS OF DEPT
+ 10        EE   7092 RES     4  EE RESEARCH II         3.0  TBA                                     PERMIS OF DEPT
+  4    11  EE   7200         1  NANOELECTRONICS        3.0   830-0920   M W F  2103 PATRICK TAYLOR                   SRIVASTAVA A
+ 12     8  EE   7222         1  SEM CON DV-II:FLD EF   3.0  1030-1120   M W F  3129 PATRICK TAYLOR                   AJMERA P
+  4    21  EE   7260         1  SEMICONDUCT MATERIAL   3.0   930-1020   M W F  0125 TUREAUD HALL                     DANIELS-RACE
+  7     8  EE   7400         1  DYNMCS OF MICROGRIDS   3.0   930-1020   M W F  2103 PATRICK TAYLOR                   MEHRAEEN S
+ 13     7  EE   7585         1  ADV DIGITAL CONT SYS   3.0   830-0920   M W F  0125 TUREAUD HALL                     GU G
+ 24     6  EE   7625         1  DIGITAL COMM II        3.0  1030-1120   M W F  0119 TUREAUD HALL                     WEI S
+ 11     4  EE   7660         1  RANDOM PROCESSES II    3.0   930-1020   M W F  3142 PATRICK TAYLOR                   NARAGHI-POUR
+ 12     8  EE   7700         1  COMPUTATIONAL PHOTOG   3.0   930-1020   M W F  3131 PATRICK TAYLOR                   GUNTURK B
+ 16     4  EE   7700         2  GPU MICROARCHITECTUR   3.0  1030-1120   M W F  0125 TUREAUD HALL                     KOPPELMAN D
+  1    14  EE   7785         1  PROG PARALLELIZATION   3.0   500-0750N  M      0145 ELECTRICAL ENGR                  RAMANUJAM J
+ 17     3  EE   7795         1  MODELS PARALLEL COMP   3.0   130-0220   M W F  0108 TUREAUD HALL                     PENG L
+ 99        EE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   AJMERA P
+ 99        EE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CHOI J
+ 98     1  EE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CZARNECKI L
+ 98     1  EE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   DANIELS-RACE
+ 99        EE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   FELDMAN M
+ 99        EE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   GU G
+ 98     1  EE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   GUNTURK B
+ 98     1  EE   8000 RES     8  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   KOPPELMAN D
+ 97     2  EE   8000 RES     9  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LI X
+ 99        EE   8000 RES    10  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LIANG X
+ 98     1  EE   8000 RES    11  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MEHRAEEN S
+ 98     1  EE   8000 RES    12  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MENDRELA E
+ 99        EE   8000 RES    13  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   NARAGHI-POUR
+ 99        EE   8000 RES    14  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   PENG L
+ 98     1  EE   8000 RES    15  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   RAI S
+ 98     1  EE   8000 RES    16  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   RAMANUJAM J
+ 94     5  EE   8000 RES    17  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SRIVASTAVA A
+ 99        EE   8000 RES    18  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   TRAHAN J
+ 99        EE   8000 RES    19  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   VAIDYANATHAN
+ 99        EE   8000 RES    20  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   VERONIS G
+ 99        EE   8000 RES    21  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WEI S
+ 99        EE   8000 RES    22  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WOODS R
+ 98     1  EE   8000 RES    23  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WU H
+ 99        EE   8000 RES    24  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   ZHOU K
+ 99        EE   9000 RES     1  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   AJMERA P
+ 98     1  EE   9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHOI J
+ 96     3  EE   9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CZARNECKI L
+ 98     1  EE   9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   DANIELS-RACE
+ 97     2  EE   9000 RES     5  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   FELDMAN M
+ 96     3  EE   9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GU G
+ 95     4  EE   9000 RES     7  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   GUNTURK B
+ 99        EE   9000 RES     8  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KOPPELMAN D
+ 97     2  EE   9000 RES     9  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LI X
+ 98     1  EE   9000 RES    10  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LIANG X
+ 98     1  EE   9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MEHRAEEN S
+ 98     1  EE   9000 RES    12  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   MENDRELA E
+ 95     4  EE   9000 RES    13  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   NARAGHI-POUR
+ 96     3  EE   9000 RES    14  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   PENG L
+ 99        EE   9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   RAI S
+ 96     3  EE   9000 RES    16  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   RAMANUJAM J
+ 99        EE   9000 RES    17  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   SRIVASTAVA A
+ 98     1  EE   9000 RES    18  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   TRAHAN J
+ 98     1  EE   9000 RES    19  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   VAIDYANATHAN
+ 99        EE   9000 RES    20  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   VERONIS G
+ 97     2  EE   9000 RES    21  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WEI S
+ 99        EE   9000 RES    22  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WOODS R
+ 96     3  EE   9000 RES    23  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WU H
+ 98     1  EE   9000 RES    24  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   ZHOU K

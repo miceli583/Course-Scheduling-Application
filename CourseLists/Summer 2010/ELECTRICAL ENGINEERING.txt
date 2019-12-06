@@ -1,0 +1,28 @@
+  7    13  EE   2730         2  DIGITAL LOGIC II       2.0  1200-0100   MTWTH  0102 TUREAUD HALL                     DE SOUZA G
+  3    27  EE   2950         1  COMPREHENSIVE E E      3.0  0840-0940   MTWTF  1114 PATRICK TAYLOR                   RABALAIS M
+ 15    15  EE   3320         1  ELEC MAGNETIC FLDS     3.0  1100-1200   MTWTF  1111 PATRICK TAYLOR                   RABALAIS M
+  9    21  EE   3610         1  SIGNALS AND SYSTEMS    3.0  0950-1050   MTWTF  1111 PATRICK TAYLOR                   SCALZO J
+(F)    12  EE   3751         1  MICROPROCESSOR LAB     2.0   120-0220   M W    0102 TUREAUD HALL                     DE SOUZA G
+                     LAB                                     230-0430   M W    0302 ELECTRICAL ENGR                  DE SOUZA G
+  4     8  EE   3751         3  MICROPROCESSOR LAB     2.0   120-0220   M W    0102 TUREAUD HALL                     DE SOUZA G
+                     LAB                                     230-0430    T TH  0302 ELECTRICAL ENGR                  DE SOUZA G
+ 15    15  EE   3950         1  ELECTRONICS            2.0  0840-0940   MTWTH  3142 PATRICK TAYLOR                   DE SOUZA G
+(F)     2  EE   4002         2  SPEC TOPICS IN E E     3.0  0840-0940   MTWTF  0008 ELECTRICAL ENGR                  FELDMAN M
+(F)     1  EE   7091 RES     1  E E RESEARCH           3.0  TBA                                     PERMIS OF DEPT   WU H
+(F)     1  EE   7091 RES     2  E E RESEARCH           3.0  TBA                                     PERMIS OF DEPT   RAI S
+  9     1  EE   7091 RES     4  E E RESEARCH           3.0  TBA                                     PERMIS OF DEPT   LI X
+ 24     1  EE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   GU G
+ 23     2  EE   8000 RES     8  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   GUNTURK B
+ 24     1  EE   8000 RES    12  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LI X
+ 24     1  EE   8000 RES    13  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   LIANG X
+ 24     1  EE   8000 RES    17  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   RAI S
+ 24     1  EE   8000 RES    19  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   SKAVANTZOS A
+ 24     1  EE   8000 RES    21  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   STERLING T
+ 24     1  EE   8000 RES    23  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   VAIDYANATHAN
+ 98     1  EE   8000 RES    26  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WOODS R
+ 24     1  EE   9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHOI J
+ 24     1  EE   9000 RES     6  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   FELDMAN M
+ 24     1  EE   9000 RES    11  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   KOPPELMAN D
+ 24     1  EE   9000 RES    15  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   NARAGHI-POUR
+ 23     2  EE   9000 RES    27  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   WU H
+ 24     1  EE   9000 RES    29  DISSERTATION RES       1-12 TBA                                                      GU G

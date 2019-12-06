@@ -1,0 +1,31 @@
+ 21     4  COMD 4683 CLI     1  UG CLINICAL PRACT      1-6  TBA                                                      LALANDE M
+ 23    27  COMD 7153         1  RSRCH DSGN COMM SCI    3.0  TBA                                                      NORRIS J
+ 19     1  COMD 7882 RES     1  ADV IND RES COMM SCI   1-6  TBA                                                      COALSON G
+ 10        COMD 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      NORRIS J
+ 10        COMD 8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      OETTING J
+ 10        COMD 8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      CHUNG H
+ 10        COMD 8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      KUNDUK M
+ 10        COMD 8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      GIBSON T
+ 10        COMD 8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      COALSON G
+ 10        COMD 8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      HARTZHEIM D
+ 10        COMD 8000 RES     8  THESIS RESEARCH        1-12 TBA                                                      DONOVAN N
+ 10        COMD 8000 RES     9  THESIS RESEARCH        1-12 TBA                                                      KIM Y
+ 10        COMD 8000 RES    10  THESIS RESEARCH        1-12 TBA                                                      DUNCAN S
+ 97     2  COMD 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      NORRIS J
+ 99        COMD 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      KUNDUK M
+ 97     2  COMD 7683 CLI     1  GRAD CLIN PRACTICUM    1-6  TBA                                                      MCMURRY E
+ 76    23  COMD 7683 CLI     2  GRAD CLIN PRACTICUM    1-6  TBA                                                      LALANDE M
+ 90     9  COMD 7683 CLI     3  GRAD CLIN PRACTICUM    1-6  TBA                                                      FARHO S
+ 99        COMD 7683 CLI     4  GRAD CLIN PRACTICUM    1-6  TBA
+ 99        COMD 7683 CLI     5  GRAD CLIN PRACTICUM    1-6  TBA                                                      GOUVIER R
+ 96     3  COMD 7683 CLI     6  GRAD CLIN PRACTICUM    1-6  TBA                                                      MELE S
+ 96     3  COMD 7683 CLI     7  GRAD CLIN PRACTICUM    1-6  TBA                                                      HOLMAN M
+ 93     6  COMD 7683 CLI     8  GRAD CLIN PRACTICUM    1-6  TBA                                                      GONSOULIN C
+ 99        COMD 7684 CLI     1  GRAD CLIN PRACTICUM    1-6  TBA                                                      MCMURRY E
+ 96     3  COMD 7684 CLI     2  GRAD CLIN PRACTICUM    1-6  TBA                                                      LALANDE M
+ 99        COMD 7684 CLI     3  GRAD CLIN PRACTICUM    1-6  TBA                                                      FARHO S
+ 98     1  COMD 7684 CLI     4  GRAD CLIN PRACTICUM    1-6  TBA
+ 99        COMD 7684 CLI     5  GRAD CLIN PRACTICUM    1-6  TBA                                                      GOUVIER R
+ 96     3  COMD 7684 CLI     6  GRAD CLIN PRACTICUM    1-6  TBA                                                      MELE S
+ 99        COMD 7684 CLI     7  GRAD CLIN PRACTICUM    1-6  TBA                                                      HOLMAN M
+ 94     5  COMD 7684 CLI     8  GRAD CLIN PRACTICUM    1-6  TBA                                                      GONSOULIN C

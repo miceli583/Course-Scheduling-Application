@@ -1,0 +1,13 @@
+  9    11  ATRN 2201         1  AT CLIN PRAC RES 2     2.0   750-0840     W    0116 TUREAUD HALL                     WORKMAN P
+                     LAB                                    TBA                                                      WORKMAN P
+  1     6  ATRN 2222 CLI     1  AT CLINICAL IMMERS      .0  TBA                                                      CASTLE R
+  9    11  ATRN 2505         1  ORTHO EVAL I           3.0   900-1020   M W    0323 HATCHER HALL                     BENSON A
+  9    11  ATRN 2507         1  PHYS THERA MODALITY    3.0   900-1020    T TH  0323 HATCHER HALL                     BENSON A
+  6    14  ATRN 3201         1  AT CLIN PRAC RES 4     2.0  1130-1220     W    0323 HATCHER HALL                     MICKUS M
+                     LAB                                    1130-1220     W                                          MICKUS M
+  9    11  ATRN 4201         1  AT CLIN PRAC RES 6     2.0   730-0820     W    0140 LONG FIELDHOUSE                  COLLINS M
+                     LAB                                     730-0820     W                                          COLLINS M
+  6    14  ATRN 4505         1  ASSESS GEN MED COND    3.0   730-0850    T TH  0323 HATCHER HALL                     PREVOT T
+  6    14  ATRN 4509         1  THERA EX REHAB         3.0   730-0850   M W    0323 HATCHER HALL    CI-WRITTEN&SPOK  CASTLE R
+  9    11  ATRN 4700         1  DIAGNOSTIC PROCEDURE   3.0   600-0850N  M      0323 HATCHER HALL                     CASTLE R
+(F)    40  ATRN 2000         1  EMER MED RESPONSE      3.0   900-1020    T TH  1035 CYPRESS HALL                     CASTLE R

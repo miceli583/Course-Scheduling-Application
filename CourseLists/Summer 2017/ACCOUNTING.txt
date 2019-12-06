@@ -1,0 +1,13 @@
+  1    84  ACCT 2001         2  INTR FINANCIAL ACCT    3.0  1210-0240   MT     1125 BUS ED S WING                    WHITE J
+ 25    35  ACCT 3001         1  INTERMEDIATE ACCT I    3.0  1210-0240   M W    1800 BUS ED N WING                    LAFLEUR L
+ 90    10  ACCT 4231 CLI     1  INTERNSHIP IN ACCT     3.0  TBA                                     PERMIS OF INST   CHENIER J
+(F)    50  ACCT 4233         1  CASE STUD AUDITING     3.0  TBA                                                      WANG Y
+ 33    17  ACCT 4233         2  CASE STUD AUDITING     3.0  TBA                                                      WANG Y
+ 47     3  ACCT 4233         3  CASE STUD AUDITING     3.0  TBA                                                      WANG Y
+106    34  ACCT 4333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   LAFLEUR L
+ 90    10  ACCT 7231 CLI     1  INTRNSHIP IN ACCT      3.0  TBA                                     PERMIS OF INST   MOFFITT J
+ 30    20  ACCT 7232         1  CASE STUD INT AUDIT    3.0  TBA                                                      SUMNERS G
+ 87    13  ACCT 7333 CLI     1  INTERNSHIP INT AUDIT   3.0  TBA                                     PERMIS OF INST   SUMNERS G
+ 97     2  ACCT 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                     PERMIS OF INST   REICHELT K
+ 98     1  ACCT 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      REICHELT K
+ 23    77  ACCT 2101         1  INTRO MANAGERIAL ACC   3.0  1240-0310   MT TH  0103 TUREAUD HALL                     DENSTEL C

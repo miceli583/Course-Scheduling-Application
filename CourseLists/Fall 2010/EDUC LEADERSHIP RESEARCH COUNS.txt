@@ -1,0 +1,77 @@
+(F)    24  ELRC 2507         1  INTRO CLSSROOM TECH    3.0   440-0730N  M      0230EMIDDLETON                        SMITH P
+  4    31  ELRC 2507         3  INTRO CLSSROOM TECH    3.0   140-0300    T TH                                        HEROMAN D
+(F)    23  ELRC 2507         2  INTRO CLSSROOM TECH    3.0   440-0730N   T     0230EMIDDLETON                        SMITH P
+  5    30  ELRC 3500         1  UTILIZ INSTRUCT MAT    3.0   910-1030    T TH                                        HEROMAN D
+(F)    35  ELRC 3500         2  UTILIZ INSTRUCT MAT    3.0  1040-1200    T TH                                        HEROMAN D
+(F)    25  ELRC 4006         1  INT APPL STAT ED RES   3.0   440-0730N   T     0218 COATES                           ARBUTHNOT K
+(F)    25  ELRC 4249         1  UNDST/APPL RES IN ED   3.0   440-0730N    W    0214 PEABODY                          ARBUTHNOT K
+  2    23  ELRC 4360         1  INTRO TO SCHOOL COUN   3.0   440-0730N  M      0104 PEABODY                          CURRY J
+ 21    14  ELRC 4364         1  STUD AFFRS HIGHER ED   3.0   440-0730N     TH  0031 ALLEN                            BOURKE B
+(F)    21  ELRC 4507         1  COMPUTER TECH EDUC     3.0   310-0430    T TH  0118 PEABODY                          HEROMAN D
+  1    19  ELRC 4507         2  COMPUTER TECH EDUC     3.0   440-0730N   T     0118 PEABODY                          SMITH K
+  4    16  ELRC 4602         1  INTRO TO COUNSELING    3.0   440-0730N  M      0023 ALLEN                            CHOATE L
+  2    13  ELRC 7006         1  EDUC STATISTICS        4.0   440-0730N   T     0027 ALLEN                            KENNEDY E
+                     LAB                                     140-0330    T     0230EMIDDLETON                        KENNEDY E
+  1    14  ELRC 7006         2  EDUC STATISTICS        4.0   440-0730N   T     0027 ALLEN                            KENNEDY E
+                     LAB                                     740-0930N   T     0230EMIDDLETON
+ 20     5  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   440-0730N    W    0023 ALLEN                            KENNEDY E
+                     LAB                                     740-0930N    W    0230EMIDDLETON                        KENNEDY E
+(F)    15  ELRC 7243         1  QUAL METH EDUC RESCH   4.0   440-0730N  M      0214 PEABODY                          MACGREGOR S
+                     LAB                                    TBA                                                      MACGREGOR S
+ 98     1  ELRC 7249 CLI     1  ADV RES PRACTICUM      3.0  TBA                                                      MACGREGOR S
+  7     8  ELRC 7280         1  CONTENT ANALYSIS       3.0   440-0730N     TH  0214 PEABODY                          MACGREGOR S
+ 14    36  ELRC 7299         1  INTRO ED SCHOLARSHIP   3.0   440-0730N  M      0139 ALLEN                            MATHEWS F
+(F)    18  ELRC 7330         1  GRP TECH DYN COUNSEL   3.0   440-0730N   T     0120 PEABODY                          WALTERS V
+(F)    20  ELRC 7331         1  COUNSEL THEORY/TECHN   3.0   440-0730N    W    0120 PEABODY                          GINTNER G
+ 15    10  ELRC 7362 CLI     1  PRACT IN SCH COUNSEL   3-6   840-1030     W    0145 COATES                           CURRY J
+ 80        ELRC 7362 CLI     2  PRACT IN SCH COUNSEL   3-6   840-1030     W                                          WALTERS V
+ 12     8  ELRC 7364 CLI     1  COM AGENCY COUN PRAC   3-6   840-1030     W    0120 PEABODY                          CHOATE L
+(F)    22  ELRC 7393         1  MULTICULT COUNSLNG     3.0   440-0730N   T     0129 ALLEN                            ALBERT K
+  6    14  ELRC 7397         1  SP TOPICS COUNSELING   3.0   440-0730N  M      0120 PEABODY                          GINTNER G
+                     LAB                                    TBA
+ 12    10  ELRC 7404 CLI     1  INTERNSHIP IN ED ADM   3-6  TBA                                     PERMIS OF INST   RAINES S
+ 11     9  ELRC 7422         1  INTR SCH IMPR/ACT RS   3.0   510-0800N    W    0253 HIMES                            TAYLOR D
+  4     9  ELRC 7431 CLI     1  BST PRCT SCH LEAD II   6.0   440-1030N   T     0102 COATES                           TAYLOR D
+  3    12  ELRC 7500 SEM     1  TECH EDUC LEADERSHIP   3.0   440-0730N   T     0127 COATES                           NICOLLE P
+  4    11  ELRC 7503         1  INSTRUCTIONAL DESIGN   3.0   440-0730N    W    0103 COATES                           LOU Y
+  4     1  ELRC 7516 LAB     1  PRACTICUM EDUC MEDIA   3-6  TBA                                                      HEROMAN D
+ 14    11  ELRC 7525 SEM     1  PROF DEV K-12          3.0   440-0730N  M      0253 HIMES                            NICOLLE P
+  5    20  ELRC 7601         1  FOUND HIGHER EDUC      3.0   440-0730N   T     0019 ALLEN                            MITCHELL R
+  1    14  ELRC 7603 SEM     1  LEADERSHIP IN HE       3.0   440-0730N     TH  0218 PEABODY                          OWENS A
+  3    12  ELRC 7605         1  HIGHER EDUC/LAW        3.0   440-0730N  M      0248 AG ADMIN BLDG                    RAY D
+  7     8  ELRC 7606 SEM     1  CURRICULUM/COLL TCH    3.0   440-0730N    W    0114 PRESCOTT                         MITCHELL R
+  6     4  ELRC 7806         1  LEADERSHIP LEARNING    3.0   440-0730N    W    0035 ALLEN                            BICKMORE D
+ 12     8  ELRC 7890 RES     3  SM: EDUC ADMINISTR     1-3   440-0730N    W    0034 ALLEN                            BOURKE B
+ 25     5  ELRC 7890 RES     2  SM: EDUC ADMINISTR     1-3   440-0730N     TH  0104 PEABODY                          LOU Y
+ 20     5  ELRC 7900 RES     1  INDEPENDENT STUDY      1-6  TBA                                                      CURRY J
+ 20     5  ELRC 7900 RES     2  INDEPENDENT STUDY      1-6  TBA                                                      BOURKE B
+ 23     2  ELRC 7900 RES     3  INDEPENDENT STUDY      1-6  TBA                                                      GINTNER G
+ 24     1  ELRC 7900 RES     4  INDEPENDENT STUDY      1-6  TBA                                                      OWENS A
+ 99        ELRC 8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      BOURKE B
+  7     3  ELRC 8900 RES     1  PREDISSERTATION RES    1-9  TBA                                                      BOURKE B
+  1        ELRC 8900 RES     2  PREDISSERTATION RES    1-9  TBA                                                      CHOATE L
+  1        ELRC 8900 RES     3  PREDISSERTATION RES    1-9  TBA                                                      CURRY J
+  1        ELRC 8900 RES     4  PREDISSERTATION RES    1-9  TBA                                                      GINTNER G
+  1        ELRC 8900 RES     6  PREDISSERTATION RES    1-9  TBA                                                      KENNEDY E
+  1        ELRC 8900 RES     7  PREDISSERTATION RES    1-9  TBA                                                      LOU Y
+(F)     1  ELRC 8900 RES     8  PREDISSERTATION RES    1-9  TBA                                                      MACGREGOR S
+(F)     8  ELRC 8900 RES     9  PREDISSERTATION RES    1-9  TBA                                                      MITCHELL R
+  1        ELRC 8900 RES    10  PREDISSERTATION RES    1-9  TBA                                                      RAINES S
+(F)     1  ELRC 8900 RES    11  PREDISSERTATION RES    1-9  TBA                                                      TAYLOR D
+ 25        ELRC 8900 RES    13  PREDISSERTATION RES    1-9  TBA                                                      STAFF
+  7     3  ELRC 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      BOURKE B
+ 10        ELRC 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      CHOATE L
+ 10        ELRC 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CURRY J
+  9     1  ELRC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      GINTNER G
+(F)        ELRC 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      HINSON J
+  7     3  ELRC 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      KENNEDY E
+  1     8  ELRC 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      LOU Y
+  5     5  ELRC 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      MACGREGOR S
+(F)    15  ELRC 9000 RES     9  DISSERTATION RES       1-12 TBA                                                      MITCHELL R
+  1        ELRC 9000 RES    10  DISSERTATION RES       1-12 TBA                                                      RAINES S
+  9     1  ELRC 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      TAYLOR D
+(F)     1  ELRC 9000 RES    12  DISSERTATION RES       1-12 TBA                                                      CULROSS R
+ 99        ELRC 9000 RES    13  DISSERTATION RES       1-12 TBA                                                      CHEEK E
+(F)     1  ELRC 9000 RES    14  DISSERTATION RES       1-12 TBA                                                      EGEA-KUEHNE D
+ 97     2  ELRC 9000 RES    15  DISSERTATION RES       1-12 TBA                                                      ARBUTHNOT K
+ 98     1  ELRC 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      BICKMORE D

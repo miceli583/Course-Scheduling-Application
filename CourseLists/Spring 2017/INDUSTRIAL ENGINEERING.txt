@@ -1,0 +1,39 @@
+(F)    79  IE   2060         1  INT USE OF COMPUTERS   3.0   800-0850    T TH  0206 TUREAUD HALL    CI-WRITTEN&SPOK  JEON H
+                     LAB                                     430-0720N   T                                           JEON H
+  5    95  IE   2400         1  METHODS & SYST ENGR    3.0  1130-1220   M W    0204 TUREAUD HALL                     IKUMA L
+                     LAB                                     300-0550   M                                            IKUMA L
+ 32    48  IE   3201         1  PRIN ENGR ECONOMY      3.0   900-1020    T TH  1221 PATRICK TAYLOR                   AGHAZADEH F
+179   175  IE   3302         1  ENGR STATISTICS        3.0   830-0920   M W F  0100 DODSON
+ 47     1  IE   3699 CLI     1  ENGINEERING PRACTICE   3.0  TBA
+ 47     1  IE   3699 CLI     2  ENGINEERING PRACTICE   3.0  TBA
+ 31    29  IE   4113         1  PROJECT MANAGEMENT     3.0  1030-1150    T TH  0217 OLD FORESTRY                     NAHMENS I
+  5    69  IE   4425         1  INFO SYST ENGR         3.0   100-0150   M W    0221 TUREAUD HALL    CI-WRITTEN&SPOK  KNAPP G
+                     LAB                                     100-0350    T                                           KNAPP G
+ 85        IE   4453         1  QUALITY CONT & SIX S   3.0   800-0920   M W                                          NAHMENS I
+(F)    85  IE   4453         2  QUALITY CONT & SIX S   3.0   800-0920     W F  0204 TUREAUD HALL                     NAHMENS I
+  1    41  IE   4461         1  HUMAN FACTORS ENGR     3.0  1200-1250    T TH  1225 PATRICK TAYLOR  CI-WRITTEN&SPOK  AGHAZADEH F
+                     LAB                                     300-0550      TH  0220 TUREAUD HALL                     AGHAZADEH F
+  9    33  IE   4461         2  HUMAN FACTORS ENGR     3.0  1200-1250    T TH  1225 PATRICK TAYLOR  CI-WRITTEN&SPOK  AGHAZADEH F
+                     LAB                                     300-0550     W    0220 TUREAUD HALL                     AGHAZADEH F
+ 21    39  IE   4466         3  HUMN/COMP INTERACTN    3.0   630-0750N  M W    1221 PATRICK TAYLOR
+ 12    68  IE   4520         1  SUPPLY CHAIN LOGISTI   3.0   900-1020    T TH  1225 PATRICK TAYLOR                   SARKER B
+ 17    23  IE   4597         1  IE SENIOR DESIGN I     2.0   230-0320     W    0102 TUREAUD HALL    CI-WRITTEN&SPOK  IKUMA L
+                     LAB                                     330-0420     W    0102 TUREAUD HALL                     IKUMA L
+  6    34  IE   4598 LAB     1  IE SENIOR DESIGN II    2.0   230-0520     W F  0112 LOCKETT         CI-WRITTEN&SPOK  IKUMA L
+  8     2  IE   4785 RES     1  SPEC TOP IND ENGR      1-3  TBA                                                      JEON H
+ 23     2  IE   4785 RES     2  SPEC TOP IND ENGR      1-3  TBA                                                      HARVEY C
+ 30    10  IE   7428         1  SEMANTIC ANALYSIS      3.0  1030-1150    T TH  1360 PATRICK TAYLOR                   KNAPP G
+ 18     2  IE   7565         1  METAHEURISTICS         3.0  1000-1120   M W    0127 TUREAUD HALL                     LIAO T
+ 40        IE   7722         1  SPECIAL TOPICS IE      3.0  1000-1120    T TH  0235 LOCKETT
+  3     7  IE   7724 IND     1  INDEP STUDY IE         1-3  TBA                                                      KNAPP G
+  1     1  IE   7724 IND     2  INDEP STUDY IE         1-3  TBA                                                      NAHMENS I
+ 10        IE   7724 IND     3  INDEP STUDY IE         1-3  TBA                                                      AUBANEL M
+  9     1  IE   7724 IND     4  INDEP STUDY IE         1-3  TBA
+ 14     6  IE   7771         1  DESN MANUFACT SYST     3.0   100-0220    T TH  0127 TUREAUD HALL                     SARKER B
+  4     1  IE   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HARVEY C
+  4     1  IE   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      LIAO T
+ 18     2  IE   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      NAHMENS I
+ 19     1  IE   8000 RES     4  THESIS RESEARCH        1-12 TBA                                                      IKUMA L
+ 18     2  IE   8000 RES     5  THESIS RESEARCH        1-12 TBA                                                      SARKER B
+ 19     1  IE   8000 RES     6  THESIS RESEARCH        1-12 TBA                                                      KNAPP G
+ 19     1  IE   8000 RES     7  THESIS RESEARCH        1-12 TBA                                                      AGHAZADEH F

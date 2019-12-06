@@ -1,0 +1,56 @@
+ 19    21  EDCI 1001         1  INTRO TO COLL STUDY    3.0  0840-0940   MTWTF  0232 LOCKETT                          JENKINS R
+ 15    25  EDCI 1001         8  INTRO TO COLL STUDY    3.0  0840-0940   MTWTF  E131 HOWE RUSSELL E                   BRAUD H
+ 12    18  EDCI 1001        10  INTRO TO COLL STUDY    3.0  0840-0940   MTWTF  0129 ALLEN                            LATHON E
+  1    35  EDCI 1001         4  INTRO TO COLL STUDY    3.0  0950-1050   MTWTF  0232 LOCKETT                          JENKINS R
+(F)    40  EDCI 1001         7  INTRO TO COLL STUDY    3.0  0950-1050   MTWTF  0119 NICHOLSON                        BUCHANAN T
+  2    38  EDCI 1001         6  INTRO TO COLL STUDY    3.0   100-0300   M W F  0220 STUBBS                           SAMSON D
+(F)    31  EDCI 4450         1  PRINC IN SEC EDUCATI   3.0  0830-1050   M W F  0102 PEABODY                          RICKS T
+(F)    26  EDCI 7105         2  TCHG RDG EL SCH        3.0  0900-1100   MTWTF  0218 PEABODY                          SULENTIC DOWE
+(F)    24  EDCI 7111         1  ST TCHG EL SC LNG AR   3.0  1200-0200   MTWTF  0216 PEABODY                          TROUSDALE A
+ 17    13  EDCI 7135         1  TECH TCH RDG MD/SC S   3.0   430-0700N   T TH  0102 PEABODY                          GRANDSTAFF-BE
+(F)    30  EDCI 7465 SEM     1  SM: TEACH/RES SEC SC   3.0   130-0300   M WTH  0129 ALLEN                            BICKMORE S
+ 97     2  EDCI 7684 CLI     1  ADV INTERNSHIP RDNG    6.0  TBA                                     PERMIS OF DEPT   CHEEK E
+ 98     1  EDCI 7684 CLI     2  ADV INTERNSHIP RDNG    6.0  TBA                                     PERMIS OF DEPT   SULENTIC DOWE
+  4     1  EDCI 7768         1  PRACT ED FOR GIFTED    3-6  TBA                                     PERMIS OF DEPT   CULROSS R
+ 22     3  EDCI 7768         3  PRACT ED FOR GIFTED    3-6  TBA                                     PERMIS OF DEPT   JOLLY J
+ 19     1  EDCI 7821 RES     1  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   JOLLY J
+  9     1  EDCI 7821 RES     3  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   BICKMORE S
+ 19     1  EDCI 7821 RES     4  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   HENDRY P
+ 17     3  EDCI 7821 RES     5  PROB CURR & INSTRN     2-4  TBA                                     PERMIS OF DEPT   MOONEY P
+(F)     2  EDCI 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      ASHER N
+ 98     1  EDCI 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BACH J
+ 97     2  EDCI 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      DENNY R
+ 97     2  EDCI 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      HENDRY P
+  9     1  EDCI 9000 RES    11  DISSERTATION RES       1-12 TBA                                                      WANDERSEE J
+  9     1  EDCI 9000 RES    16  DISSERTATION RES       1-12 TBA                                                      CASBERGUE R
+  3     2  EDCI 9000 RES    17  DISSERTATION RES       1-12 TBA                                                      MITCHELL R
+ 15    25  EDCI 1001         2  INTRO TO COLL STUDY    3.0  1040-1210   MTWTF  0129 ALLEN                            LATHON E
+ 22    18  EDCI 1001         5  INTRO TO COLL STUDY    3.0  1100-1230   MTWTF  0116 STUBBS                           DONNELLY K
+ 13    17  EDCI 1001         9  INTRO TO COLL STUDY    3.0  1230-0430   MTWTF  0121 ALLEN                            TOPE B
+ 17     8  EDCI 2001         1  EDUC, SCHOOL, & SOC    3.0  1100-1230   MTWTF  0120 PEABODY                          RICKS T
+ 13    17  EDCI 2030         1  TEACH/SCHOOL/SOCIETY   3.0  1240-0210   MTWTF  0104 PEABODY                          LAUNEY B
+                     LAB                                    TBA                                                      LAUNEY B
+  9    16  EDCI 2271         1  ART ED EL SCHL         3.0  1240-0140   MTWTF  0102 PEABODY                          STANZEL K
+                     LAB                                     150-0250   MTWTF  0102 PEABODY                          STANZEL K
+ 18    15  EDCI 2400         1  EDUC & DIV POPLTN      3.0  1100-1230   MTWTF  0102 PEABODY                          WHEELER S
+                     LAB                                    TBA                                                      WHEELER S
+  4    26  EDCI 3000         1  CHILDREN'S LITERATUR   3.0  0910-1040   MTWTF  0214 PEABODY                          DONNELLY K
+ 28     7  EDCI 3136         1  READNG CONTENT AREAS   3.0  0800-1200   MTWTF                                        TOPE B
+ 19    11  EDCI 4460         2  PLAN/EVAL SCH INSTRU   3.0  1100-1230   MTWTF  0104 PEABODY                          LAUNEY B
+                     LAB                                    TBA                                                      LAUNEY B
+(F)    30  EDCI 4460         4  PLAN/EVAL SCH INSTRU   3.0  1100-1230    TWTH  0228 COATES                           GRANDSTAFF-BE
+                     LAB                                    TBA                                                      GRANDSTAFF-BE
+  8    12  EDCI 4460         5  PLAN/EVAL SCH INSTRU   3.0   130-0300    TWTH                                        GRANDSTAFF-BE
+                     LAB                                    TBA                                                      GRANDSTAFF-BE
+ 42     3  EDCI 5880         1  INQ DRIVEN EAR SC ED   1-3  TBA                                     PERMIS OF INST   BINNS I
+ 24     6  EDCI 7143         1  TEACH LIT SEC SCHOOL   3.0  0900-1130    TWTH                                        BICKMORE S
+ 12     8  EDCI 7307         1  TOP IN CURRIC & INST   3.0  0900-1130   MTWTH  0216 PEABODY                          JOLLY J
+ 13     7  EDCI 7309         1  TOPICS IN MATH EDUC    3.0  0900-1030   MTWTF  0104 PEABODY                          KIRSHNER D
+(F)    16  EDCI 7311         1  TOPICS LANG ARTS ED    3.0  0830-1130   MTWTF                       PERMIS OF DEPT   MENCER T
+(F)    16  EDCI 7311         2  TOPICS LANG ARTS ED    3.0  1200-0300   MTWTF                       PERMIS OF DEPT   MENCER T
+ 19     6  EDCI 7763         1  DEV CURR FOR GIFTED    3.0   100-0330   MTWTH  0120 PEABODY                          CULROSS R
+ 18     7  EDCI 7768         2  PRACT ED FOR GIFTED    3-6  TBA                                     PERMIS OF INST   JOLLY J
+ 15     5  EDCI 7821 RES     2  PROB CURR & INSTRN     2-4  TBA                                                      SULENTIC DOWE
+ 17     3  EDCI 7822 RES     1  PROB CURR & INSTRN     2-4  TBA                                                      SULENTIC DOWE
+  7    23  EDCI 7824         2  ELEM SCHL CURRICULUM   3.0   200-0430   MTWTH  0218 PEABODY                          HENDRY P
+(F)     9  EDCI 7825         3  SEC SCHL CURRICULUM    3.0   200-0430   MTWTH  0218 PEABODY                          HENDRY P
