@@ -1,9 +1,0 @@
-  8   157  ASTR 1101         1  THE SOLAR SYSTEM       3.0  1040-1130   M W F  0130 NICHOLSON                        SCHAEFER B
- 13   152  ASTR 1101         3  THE SOLAR SYSTEM       3.0   140-0300    T TH  0130 NICHOLSON                        GROUCHY R
- 63    87  ASTR 1102         2  STELLAR ASTRONOMY      3.0   240-0330   M W F  0130 NICHOLSON                        HYNES R
- 50   100  ASTR 1102         1  STELLAR ASTRONOMY      3.0   910-1030    T TH  0130 NICHOLSON                        CLAYTON J
- 16    12  ASTR 1108 LAB     1  ASTRONOMY LAB          1.0   710-0900N  M      0365 NICHOLSON                        GROUCHY R
- 17    11  ASTR 1108 LAB     2  ASTRONOMY LAB          1.0   710-0900N   T     0365 NICHOLSON                        GROUCHY R
- 18    10  ASTR 1109 LAB     1  ASTRONOMY LAB          1.0   710-0900N    W    0365 NICHOLSON                        HAREMZA J
-(F)     1  ASTR 4997 RES     1  PROBLEMS-ASTRONOMY     1-3  TBA                                                      CLAYTON J
- 16     4  ASTR 7777 SEM     1  SEM: ASTR & ASTROPHY   1-6  1210-0100    T                                           SCHAEFER B

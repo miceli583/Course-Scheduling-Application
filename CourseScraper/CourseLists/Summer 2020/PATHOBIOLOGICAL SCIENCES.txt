@@ -1,9 +1,0 @@
- 10        PBS  7002 RES     1  RES TECH PATHOB SCI    1-4  TBA                                                      MALONE J
- 10        PBS  7003 SEM     1  SPEC TOP PATHOB SCI    1-4  TBA                                                      MALONE J
-  1        PBS  7003 SEM     2  SPEC TOP PATHOB SCI    1-4  TBA
- 10        PBS  7004         1  CUR LIT PATHOBIO SCI   1.0  TBA                                                      STOUT R
-  1        PBS  7004         2  CUR LIT PATHOBIO SCI   1.0  TBA                                                      LANGOHR I
- 10        PBS  7004         3  CUR LIT PATHOBIO SCI   1.0  TBA                                                      JEYASEELAN S
-  5        PBS  7508         1  HISTOPATH SLIDE CONF   1.0  TBA                                                      LANGOHR I
- 10        PBS  7509 LAB     1  SURGICAL PATHOLOGY     1-2  TBA                                                      LANGOHR I
- 10        PBS  7516 RES     1  ADV DIAG PATH ANIMAL   1-2  TBA                                                      LANGOHR I
