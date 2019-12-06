@@ -1,5 +1,13 @@
-import java.util.ArrayList;
+/******************************************************************************
+Contributors:
+Matthew Miceli
+Christopher Chee
+Shaun McFadden
+Kareem Abdo 
+*******************************************************************************/
 
+import java.util.ArrayList;
+// Course Class - defines attributes of a Course
 public class Course
 {
         String semester;

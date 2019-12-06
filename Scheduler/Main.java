@@ -1,17 +1,17 @@
 /******************************************************************************
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
+Contributors:
+Matthew Miceli
+Christopher Chee
+Shaun McFadden
+Kareem Abdo 
 *******************************************************************************/
 import java.io.FileInputStream;
 import java.util.Scanner;
 import java.util.ArrayList;
-
+// Main Class Responsible for implementing Scheduling Algorithm
 public class Main
 {
+// Compare Method Detemines if two time slots conflict
 public static Boolean compare(double st1, double et1, double st2, double et2){
         if (st1 == 0 || st2 == 0){return false;}
         if (st1 > st2 && st1 < et2) {return true;}
@@ -19,7 +19,7 @@ public static Boolean compare(double st1, double et1, double st2, double et2){
         if (st1 == st2){return true;}
         return false;
 }
-
+// isOverlap Method determines if two sections overLap for a given Schedule
 public static Boolean isOverlap(Section S1, Section S2){
     double[] st1 = S1.startTime;
     double[] et1 = S1.endTime;
@@ -30,7 +30,7 @@ public static Boolean isOverlap(Section S1, Section S2){
     }
     return false;
 }
-
+//courseAdder adds sections to a master array list of secctions responsilbe for containing every possible schedule
 public static void courseAdder(Course c, ArrayList<ArrayList<Section>> sectionMaster){
     Section temp;
     ArrayList<Section> list = new ArrayList<Section>(0);
@@ -63,7 +63,7 @@ public static void courseAdder(Course c, ArrayList<ArrayList<Section>> sectionMa
         }
     }
 }
-
+// prune method gets rid of schedules that contain time conflicts
 public static void prune(ArrayList<ArrayList<Section>> sectionMaster){
     Boolean t;
     ArrayList<Section> list = new ArrayList<Section>(0);
@@ -83,7 +83,7 @@ public static void prune(ArrayList<ArrayList<Section>> sectionMaster){
     }
 }
 
-
+// implements scheduling algorithm and reads coursse data from text files provided by Course Scraper
 public static void main (String[]args)
 {
     
@@ -131,8 +131,9 @@ public static void main (String[]args)
         Course tempCourse = new Course(SEMESTER, DEPARTMENT, COURSENUM);
         courses.add(tempCourse);
 
-        String path = "C:\\Users\\CChee1\\Desktop\\CSC 3380\\CSC3380Project\\csc3380_proj\\CourseScraper\\CourseLists\\" + SEMESTER + "\\" + DEPARTMENT + ".txt";
-
+        //String path = "C:\\Users\\CChee1\\Desktop\\CSC 3380\\CSC3380Project\\csc3380_proj\\CourseScraper\\CourseLists\\" + SEMESTER + "\\" + DEPARTMENT + ".txt";
+        //C:\Users\micel\Source\Repos\csc3380_proj\CourseScraper\CourseLists Master Key
+        String path = "C:\\Users\\micel\\Source\\Repos\\csc3380_proj\\CourseScraper\\CourseLists Master Key\\" + SEMESTER + "\\" + DEPARTMENT + ".txt";
 	    try{
 	        FileInputStream fin = new FileInputStream (path);
 	        //FileInputStream fin = new FileInputStream (DEPARTMENT+".txt");
@@ -212,7 +213,7 @@ public static void main (String[]args)
     
     
     ArrayList<ArrayList<Section>> sectionMaster = new ArrayList<ArrayList<Section>>(0);
-    
+    // Schedules Courses
     for(int b = 0; b<courses.size(); b++){
         Course c = courses.get(b);
         courseAdder(c, sectionMaster);
@@ -221,7 +222,7 @@ public static void main (String[]args)
     prune(sectionMaster);
     
 
-    
+    // Displays the input courses
     System.out.println("Inputs:");
     for (int g = 0; g<courses.size(); g++){
         Course c = courses.get(g);
@@ -236,7 +237,7 @@ public static void main (String[]args)
     
     
 
-
+    //Displays the possible sections from input courses
     System.out.printf("%d Possible Schedules:\n", sectionMaster.size());
     for(int g = 0; g<sectionMaster.size(); g++){
         ArrayList<Section> l = sectionMaster.get(g);
