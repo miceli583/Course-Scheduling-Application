@@ -1,3 +1,11 @@
+/******************************************************************************
+Contributors:
+Matthew Miceli
+Christopher Chee
+Shaun McFadden
+Kareem Abdo 
+*******************************************************************************/
+// Section Class - defines attributes of a Section
 public class Section
 {
         String enrollmentCount;

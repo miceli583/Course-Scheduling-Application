@@ -1,3 +1,11 @@
+/******************************************************************************
+Contributors:
+Matthew Miceli
+Christopher Chee
+Shaun McFadden
+Kareem Abdo 
+*******************************************************************************/
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
