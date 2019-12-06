@@ -1,10 +1,10 @@
 import java.io.IOException;
 
-public class UpdateTest
+public class ListBuilderTest
 {
     public static void main(String[]args) throws IOException
     {
-        String[] testinput = {"Spring 2020"};
-        UpdateSem.main(testinput);
+        String[] testinput = {};
+        SemDepListBuilder.main(testinput);
     }
 }

@@ -1,43 +1,40 @@
-(F)    50  MKT  3401         2  PRIN OF MARKETING      3.0   930-1020   M W F  1615 BUS ED N WING                    SANTAELLA M
-(F)    51  MKT  3401         3  PRIN OF MARKETING      3.0  1030-1120   M W F  1615 BUS ED N WING                    SANTAELLA M
-(F)    50  MKT  3401         4  PRIN OF MARKETING      3.0  1230-0120   M W F  1615 BUS ED N WING                    LEDET A
-(F)    50  MKT  3401         5  PRIN OF MARKETING      3.0   130-0220   M W F  1615 BUS ED N WING                    LEDET A
-252   548  MKT  3401         1  PRIN OF MARKETING      3.0   130-0250    T TH  0101 GYM AUDITORIUM                   KARAM T
+(F)    51  MKT  3401         2  PRIN OF MARKETING      3.0   930-1020   M W F  1615 BUS ED N WING                    GLEIBERMAN A
+(F)    57  MKT  3401         4  PRIN OF MARKETING      3.0  1230-0120   M W F  1615 BUS ED N WING                    LEDET A
+(F)    53  MKT  3401         5  PRIN OF MARKETING      3.0   130-0220   M W F  1615 BUS ED N WING                    LEDET A
+196   604  MKT  3401         1  PRIN OF MARKETING      3.0   130-0250    T TH  0101 GYM AUDITORIUM                   KARAM T
 (F)    40  MKT  3411         4  CONSUM ANALYS & BEHA   3.0  1230-0120   M W F  1745 BUS ED N WING                    CHEN D
 (F)    40  MKT  3411         3  CONSUM ANALYS & BEHA   3.0   900-1020    T TH  1425 BUS ED S WING   SVC LEARNING     SZOCS C
-(F)    41  MKT  3411         1  CONSUM ANALYS & BEHA   3.0  1030-1150    T TH  1425 BUS ED S WING                    KUO A
-(F)    41  MKT  3411         2  CONSUM ANALYS & BEHA   3.0  1200-0120    T TH  1425 BUS ED S WING                    KUO A
+(F)    40  MKT  3411         1  CONSUM ANALYS & BEHA   3.0  1030-1150    T TH  1425 BUS ED S WING                    KUO A
+(F)    40  MKT  3411         2  CONSUM ANALYS & BEHA   3.0  1200-0120    T TH  1425 BUS ED S WING                    KUO A
 (F)    41  MKT  3413         2  MARKETING RESEARCH     3.0   130-0220   M W F  1745 BUS ED N WING                    JESEO V
  28    12  MKT  3413         3  MARKETING RESEARCH     3.0   230-0320   M W F  1745 BUS ED N WING                    SU Q
-(F)    42  MKT  3413         1  MARKETING RESEARCH     3.0   900-1020    T TH  1305 BUS ED S WING                    WU J
+(F)    41  MKT  3413         1  MARKETING RESEARCH     3.0   900-1020    T TH  1305 BUS ED S WING                    WU J
 (F)    40  MKT  3421         1  MKT COMM: PROMOTION    3.0   130-0250    T TH  1425 BUS ED S WING                    FOLSE J
 (F)    40  MKT  3421         2  MKT COMM: PROMOTION    3.0   300-0420    T TH  1425 BUS ED S WING                    FOLSE J
- 19    21  MKT  3427         1  PROFESSIONAL SELLING   3.0   930-1020   M W F  1745 BUS ED N WING   CI-WRITTEN&SPOK  GLEIBERMAN A
-(F)    40  MKT  3427         2  PROFESSIONAL SELLING   3.0  1030-1120   M W F  1745 BUS ED N WING   CI-WRITTEN&SPOK  GLEIBERMAN A
- 14    26  MKT  3427         3  PROFESSIONAL SELLING   3.0  1230-0120   M W F  1720 BUS ED N WING   CI-WRITTEN&SPOK  GLEIBERMAN A
- 20    20  MKT  3427         4  PROFESSIONAL SELLING   3.0   130-0220   M W F  1720 BUS ED N WING   CI-WRITTEN&SPOK  GLEIBERMAN A
-  4    36  MKT  4423         1  SALES MANAGEMENT       3.0   930-1020   M W F  1720 BUS ED N WING                    LEDET A
+(F)    42  MKT  3427         2  PROFESSIONAL SELLING   3.0  1030-1120   M W F  1745 BUS ED N WING   CI-WRITTEN&SPOK  GLEIBERMAN A
+  1    39  MKT  3427         3  PROFESSIONAL SELLING   3.0  1230-0120   M W F  1720 BUS ED N WING   CI-WRITTEN&SPOK  GLEIBERMAN A
+ 13    27  MKT  3427         4  PROFESSIONAL SELLING   3.0   130-0220   M W F  1720 BUS ED N WING   CI-WRITTEN&SPOK  GLEIBERMAN A
+  2    38  MKT  4423         1  SALES MANAGEMENT       3.0   930-1020   M W F  1720 BUS ED N WING                    LEDET A
 (F)    40  MKT  4423         2  SALES MANAGEMENT       3.0  1030-1120   M W F  1720 BUS ED N WING                    LEDET A
  96     3  MKT  4445 CLI     1  INTERNSHIP IN MKT      1-6  TBA                                     PERMIS OF DEPT   KARAM T
- 93     6  MKT  4445 CLI     2  INTERNSHIP IN MKT      1-6  TBA                                     PERMIS OF DEPT   ACCARDO P
+ 91     8  MKT  4445 CLI     2  INTERNSHIP IN MKT      1-6  TBA                                     PERMIS OF DEPT   ACCARDO P
 (F)    32  MKT  4451         1  MARKETING MANAGEMNT    3.0   730-0850    T TH  1745 BUS ED N WING                    RICE D
 (F)    40  MKT  4451         2  MARKETING MANAGEMNT    3.0   900-1020    T TH  1745 BUS ED N WING                    RICE D
 (F)    31  MKT  4451         3  MARKETING MANAGEMNT    3.0   130-0250    T TH  2520 BUS ED AUDITORI CI-WRITTEN&SPOK  LINDSEY HALL
- 10    20  MKT  4451         4  MARKETING MANAGEMNT    3.0   300-0420    T TH  2520 BUS ED AUDITORI CI-WRITTEN&SPOK  LINDSEY HALL
- 94     5  MKT  4477 RES     1  IND STDY ADV MKT PRB   1-6  TBA                                     PERMIS OF DEPT   KARAM T
+  9    21  MKT  4451         4  MARKETING MANAGEMNT    3.0   300-0420    T TH  2520 BUS ED AUDITORI CI-WRITTEN&SPOK  LINDSEY HALL
+ 93     6  MKT  4477 RES     1  IND STDY ADV MKT PRB   1-6  TBA                                     PERMIS OF DEPT   KARAM T
  99        MKT  4477 RES     2  IND STDY ADV MKT PRB   1-6  TBA                                                      GLEIBERMAN A
 (F)    15  MKT  4478 CLI     1  SALES PRACTICUM        3.0   830-0920   M W F  1409 BUS ED S WING   CI-SPOKEN&VISUA  ACCARDO P
 (F)    16  MKT  4478 CLI     2  SALES PRACTICUM        3.0   930-1020   M W F  1409 BUS ED S WING   CI-SPOKEN&VISUA  ACCARDO P
 (F)    15  MKT  4478 CLI     3  SALES PRACTICUM        3.0  1030-1120   M W F  1409 BUS ED S WING                    DERBES R
- 96     3  MKT  4479 CLI     1  SALES INTERNSHIP       3.0  TBA                                     PERMIS OF DEPT   ACCARDO P
- 10    10  MKT  4480 CLI     1  MKT ANYLT PRACTICUM    3.0   130-0250    T TH  1409 BUS ED S WING                    LONG A
- 16     4  MKT  4480 CLI     2  MKT ANYLT PRACTICUM    3.0   300-0420    T TH  1409 BUS ED S WING                    LONG A
+ 95     4  MKT  4479 CLI     1  SALES INTERNSHIP       3.0  TBA                                     PERMIS OF DEPT   ACCARDO P
+  9    11  MKT  4480 CLI     1  MKT ANYLT PRACTICUM    3.0   130-0250    T TH  1409 BUS ED S WING                    LONG A
+ 15     5  MKT  4480 CLI     2  MKT ANYLT PRACTICUM    3.0   300-0420    T TH  1409 BUS ED S WING                    LONG A
  20        MKT  4481 CLI     1  MKT ANYLT INTERN       3.0  TBA                                     PERMIS OF DEPT   ACCARDO P
- 14     6  MKT  4501         1  MKT ANALYTICS II       3.0   900-1020    T TH  1120 BUS ED S WING                    LUND D
- 16     4  MKT  4501         2  MKT ANALYTICS II       3.0  1030-1150    T TH  1120 BUS ED S WING                    LUND D
- 16     4  MKT  7450         2  TOP IN ADV MKT MGT     3.0   130-0420    T     1321 BUS ED S WING   PERMIS OF DEPT
- 98     1  MKT  7477 RES     1  SEM ADV MKTG PROBLMS   3.0  TBA                                     PERMIS OF DEPT   KARAM T
- 18     2  MKT  7488         2  MARKETING MODELS       3.0   130-0420      TH  1120 BUS ED S WING   PERMIS OF DEPT
+ 11     9  MKT  4501         1  MKT ANALYTICS II       3.0   900-1020    T TH  1120 BUS ED S WING                    LUND D
+ 15     5  MKT  7450         2  TOP IN ADV MKT MGT     3.0   130-0420    T     1321 BUS ED S WING   PERMIS OF DEPT   SZOCS C
+ 96     3  MKT  7477 RES     1  SEM ADV MKTG PROBLMS   3.0  TBA                                     PERMIS OF DEPT   KARAM T
+ 18     2  MKT  7488         2  MARKETING MODELS       3.0   130-0420      TH  1120 BUS ED S WING   PERMIS OF DEPT   NIEDRICH R
  16     4  MKT  7716         1  ADV MKT RESRCH TECH    3.0   130-0420      TH  1321 BUS ED S WING                    WU J
  96     3  MKT  8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      NIEDRICH R
  99        MKT  9000 RES     1  DISSERTATION RES       1-12 TBA                                                      NIEDRICH R

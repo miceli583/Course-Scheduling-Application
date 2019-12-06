@@ -1,25 +1,25 @@
 (F)    22  ELRC 2507         3  INTRO CLSSROOM TECH    3.0   430-0720N  M      0118 PEABODY                          MONROE W
 (F)    22  ELRC 2507         1  INTRO CLSSROOM TECH    3.0   130-0250    T TH  0118 PEABODY                          HEROMAN D
 (F)    22  ELRC 2507         2  INTRO CLSSROOM TECH    3.0   300-0420    T TH  0118 PEABODY                          HEROMAN D
-  4    18  ELRC 3500         1  UTILIZ INSTRUCT MAT    3.0   900-1020    T TH  0118 PEABODY                          HEROMAN D
-  4    18  ELRC 3500         2  UTILIZ INSTRUCT MAT    3.0  1030-1150    T TH  0118 PEABODY                          HEROMAN D
-  8    12  ELRC 4006         1  INT APPL STAT ED RES   3.0   430-0720N   T     0112 PRESCOTT        50-74% WEB BASE
- 17     8  ELRC 4249         1  UNDST/APPL RES IN ED   3.0   430-0720N    W    0214 PEABODY         50-74% WEB BASE  WEN X
+  6    16  ELRC 3500         1  UTILIZ INSTRUCT MAT    3.0   900-1020    T TH  0118 PEABODY                          HEROMAN D
+  2    20  ELRC 3500         2  UTILIZ INSTRUCT MAT    3.0  1030-1150    T TH  0118 PEABODY                          HEROMAN D
+  7    13  ELRC 4006         1  INT APPL STAT ED RES   3.0   430-0720N   T     0112 PRESCOTT        50-74% WEB BASE
+ 19     6  ELRC 4249         1  UNDST/APPL RES IN ED   3.0   430-0720N    W    0214 PEABODY         50-74% WEB BASE  WEN X
   9    11  ELRC 4361         1  COUNSELING CHILDREN    3.0   430-0720N    W    0118 PRESCOTT                         EBERTS S
-  6    14  ELRC 4365         1  BAS CSE INTERPER COM   3.0   130-0420     W    0112 PRESCOTT                         CSASZAR I
+  5    15  ELRC 4365         1  BAS CSE INTERPER COM   3.0   130-0420     W    0112 PRESCOTT                         CSASZAR I
   4    16  ELRC 4370         1  COUNS GIRLS WOMEN      3.0  1230-0320     W    0120 PEABODY                          CHOATE L
- 14     8  ELRC 4507         1  COMPUTER TECH EDUC     3.0   430-0720N   T     0118 PEABODY                          HEROMAN D
+ 12    10  ELRC 4507         1  COMPUTER TECH EDUC     3.0   430-0720N   T     0118 PEABODY                          HEROMAN D
 (F)    20  ELRC 4600         1  COUNSL DISABLNG COND   3.0   430-0720N    W    0120 PEABODY                          GINTNER G
- 12     3  ELRC 7000 SEM     1  SEM IN PHIL OF EDUC    3.0   430-0720N     TH  0219 PEABODY                          SULENTIC DOWE
-  7    13  ELRC 7006         1  EDUC STATISTICS        4.0   430-0620N   T     0116 PRESCOTT        75-99% WEB BASE  KENNEDY E
+ 11     4  ELRC 7000 SEM     1  SEM IN PHIL OF EDUC    3.0   430-0720N     TH  0219 PEABODY                          SULENTIC DOWE
+  5    15  ELRC 7006         1  EDUC STATISTICS        4.0   430-0620N   T     0116 PRESCOTT        75-99% WEB BASE  KENNEDY E
                      LAB                                     130-0320    T                                           KENNEDY E
- 22     3  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   430-0620N  M      0128 ALLEN           75-99% WEB BASE  KENNEDY E
+ 21     4  ELRC 7016         1  ADV EDUCATIONAL STAT   4.0   430-0620N  M      0128 ALLEN           75-99% WEB BASE  KENNEDY E
                      LAB                                    TBA                                                      KENNEDY E
   3    17  ELRC 7220         1  EDUC PROGRM EVALUATN   3.0   430-0720N     TH  0214 PEABODY         50-74% WEB BASE  MACGREGOR S
   9    13  ELRC 7243         1  QUAL METH EDUC RESCH   4.0   430-0720N   T     0214 PEABODY         1-49% WEB BASED  MACGREGOR S
                      LAB                                    TBA                                                      MACGREGOR S
 (F)    15  ELRC 7326         1  CAREER READY           3.0   430-0720N   T     0120 PEABODY                          CURRY J
-  3    17  ELRC 7330         1  GRP TECH DYN COUNSEL   3.0   430-0720N     TH  0112 PRESCOTT                         EBERTS S
+  2    18  ELRC 7330         1  GRP TECH DYN COUNSEL   3.0   430-0720N     TH  0112 PRESCOTT                         EBERTS S
 (F)     7  ELRC 7362 CLI     1  PRACT IN SCH COUNSEL   3-6   930-1120    T
   1     5  ELRC 7364 CLI     1  COM AGENCY COUN PRAC   3-6   930-1120    T                                           CHOATE L
   2     4  ELRC 7364 CLI     2  COM AGENCY COUN PRAC   3-6   930-1120    T
@@ -36,27 +36,27 @@
  15        ELRC 7433         1  BST PRAC PR LDR II     3.0  TBA                                     100% WEB BASED   LEE C
  10        ELRC 7450         1  SUPRV INST E & S SCH   3.0  TBA                                     100% WEB BASED   LEE C
  24     1  ELRC 7451         1  SUPRV STUDENT TCHG     3.0   430-0720N  M      0123 ALLEN
-  4    11  ELRC 7500 SEM     1  TECH IN LEADER EDUC    3.0  TBA                                     100% WEB BASED   QIAN Y
+  3    12  ELRC 7500 SEM     1  TECH IN LEADER EDUC    3.0  TBA                                     100% WEB BASED   QIAN Y
  11    14  ELRC 7600         1  RACE/GEND IN HIGH ED   3.0   430-0720N   T     0218 STUBBS                           MITCHELL C
   8     7  ELRC 7604         1  POLI/POLCY HIGH EDUC   3.0   430-0720N     TH  0269 WOODIN HALL                      BLANCHARD J
-  6    14  ELRC 7605         1  HIGHER EDUC/LAW        3.0   430-0720N    W    0269 WOODIN HALL                      BLANCHARD J
+  5    15  ELRC 7605         1  HIGHER EDUC/LAW        3.0   430-0720N    W    0269 WOODIN HALL                      BLANCHARD J
   1    19  ELRC 7609         1  STRAT PLAN HIGH EDUC   3.0   130-0420   M      0269 WOODIN HALL                      CURRY J
  10    10  ELRC 7610         1  ASSESS EVAL HIGH EDU   3.0   430-0720N  M      0019 ALLEN                            CLAYTON A
-  3    17  ELRC 7612 SEM     1  STUDENT DEVEL THEORY   3.0   130-0420      TH  0216 PEABODY                          CHEN Y
- 13     2  ELRC 7805 SEM     1  PERSPECTIVE LEADRSHP   3.0   430-0720N   T     0219 PEABODY                          SULENTIC DOWE
+  4    16  ELRC 7612 SEM     1  STUDENT DEVEL THEORY   3.0   130-0420      TH  0216 PEABODY                          CHEN Y
+ 14     1  ELRC 7805 SEM     1  PERSPECTIVE LEADRSHP   3.0   430-0720N   T     0219 PEABODY                          SULENTIC DOWE
   4     1  ELRC 7900 RES     1  INDEPENDENT STUDY      1-6  TBA
   9     1  ELRC 7900 RES     2  INDEPENDENT STUDY      1-6  TBA                                                      EBERTS S
- 10        ELRC 7900 RES     3  INDEPENDENT STUDY      1-6  TBA
+  9     1  ELRC 7900 RES     3  INDEPENDENT STUDY      1-6  TBA                                                      CURRY J
   4     1  ELRC 8000 RES     1  THESIS RESEARCH        1-12 TBA
  25        ELRC 8900 RES     1  PREDISSERTATION RES    1-9  TBA                                                      ARBUTHNOT K
  24     1  ELRC 8900 RES     2  PREDISSERTATION RES    1-9  TBA                                                      BLANCHARD J
  25        ELRC 8900 RES     3  PREDISSERTATION RES    1-9  TBA                                                      CLAYTON A
   7     3  ELRC 8900 RES     4  PREDISSERTATION RES    1-9  TBA                                                      KENNEDY E
- 13     2  ELRC 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      ARBUTHNOT K
-  8     7  ELRC 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BLANCHARD J
- 12     3  ELRC 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CLAYTON A
- 14     1  ELRC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CURRY J
- 23     2  ELRC 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      KENNEDY E
+ 10     5  ELRC 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      ARBUTHNOT K
+  7     8  ELRC 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      BLANCHARD J
+ 11     4  ELRC 9000 RES     3  DISSERTATION RES       1-12 TBA                                                      CLAYTON A
+ 13     2  ELRC 9000 RES     4  DISSERTATION RES       1-12 TBA                                                      CURRY J
+ 21     4  ELRC 9000 RES     5  DISSERTATION RES       1-12 TBA                                                      KENNEDY E
   3     2  ELRC 9000 RES     6  DISSERTATION RES       1-12 TBA                                                      MACGREGOR S
   4     1  ELRC 9000 RES     7  DISSERTATION RES       1-12 TBA                                                      MITCHELL R
   3     2  ELRC 9000 RES     8  DISSERTATION RES       1-12 TBA                                                      SULENTIC DOWE

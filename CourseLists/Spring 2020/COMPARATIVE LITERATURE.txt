@@ -1,6 +1,6 @@
 (F)    15  CPLT 2201         1  INTRO WORLD LIT TRAD   3.0  1200-0120    T TH  0130 LOCKETT                          BASIRI N
-  4    11  CPLT 2202         1  INT MODERN WORLD LIT   3.0  1130-1220   M W F  0113 LOCKETT                          RAY A
-  1     7  CPLT 7120 SEM     2  EVOLUTION ENVIROMENT   3.0   300-0550   M                                            RUSSO A
+  2    13  CPLT 2202         1  INT MODERN WORLD LIT   3.0  1130-1220   M W F  0113 LOCKETT                          RAY A
+  2     6  CPLT 7120 SEM     2  EVOLUTION ENVIROMENT   3.0   300-0550   M                                            RUSSO A
   1     9  CPLT 7120 SEM     1  JEAN LUC NANCY         3.0   130-0420     W                                          RAFFOUL F
   1     9  CPLT 7140 SEM     1  MODERN EUROPEAN AMER   3.0   430-0720N    W    0324 HODGES HALL                      HENEGHAN D
   1        CPLT 9000 RES     1  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   HENEGHAN D
@@ -9,3 +9,4 @@
   1        CPLT 9000 RES     4  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   KHANNOUS T
 (F)     1  CPLT 9000 RES     5  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   RUSSO A
 (F)     1  CPLT 9000 RES     6  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT   HENEGHAN D
+(F)     1  CPLT 9000 RES     7  DISSERTATION RESEARC   1-12 TBA                                     PERMIS OF DEPT

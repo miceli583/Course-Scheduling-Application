@@ -1,12 +1,12 @@
-(F)    41  SW   2000         2  INTRO TO SOCIAL WORK   3.0  1030-1120   M W F  0112 LOCKETT                          HEBERT A
+(F)    40  SW   2000         2  INTRO TO SOCIAL WORK   3.0  1030-1120   M W F  0112 LOCKETT                          HEBERT A
 (F)    43  SW   2000         1  INTRO TO SOCIAL WORK   3.0  TBA                                     100% WEB BASED   CHIASSON A
 (F)    40  SW   3002         1  CHILD AND COMMUNITY    3.0   930-1020   M W F  0276 LOCKETT                          EUGENE D
-  6    34  SW   3003         1  SKILL WK WITH PEOPLE   3.0  1030-1150    T TH  0019 ALLEN
+  3    37  SW   3003         1  SKILL WK WITH PEOPLE   3.0  1030-1150    T TH  0019 ALLEN                            WILEY R
   1    25  SW   3006         1  PRACTICE WITH GRPS     3.0  1030-1150    T TH  0179 LONG FIELDHOUSE MAJORS ONLY      BAILEY J
   1    25  SW   3008         1  HBSE II                3.0   130-0250    T TH  0152 LONG FIELDHOUSE MAJORS ONLY
   1    25  SW   3103         1  SW HISTORY & POLICY    3.0   900-1020    T TH  0179 LONG FIELDHOUSE MAJORS ONLY      LIVERMORE M
- 24    16  SW   4070         2  JUVENILE CRIMNL JUST   3.0  1200-0120    T TH  0239 LOCKETT                          CHURCH W
- 18    22  SW   4070         1  CHILD MALTREATMENT     3.0   300-0550    T     0023 ALLEN                            MOON C
+ 23    17  SW   4070         2  JUVENILE CRIMNL JUST   3.0  1200-0120    T TH  0239 LOCKETT                          CHURCH W
+ 17    23  SW   4070         1  CHILD MALTREATMENT     3.0   300-0550    T     0023 ALLEN                            MOON C
  10    15  SW   4100 CLI     1  FIELD INTERNSHIP       9.0  TBA                                     MAJORS ONLY
  25        SW   4100 CLI     2  FIELD INTERNSHIP       9.0  TBA                                     MAJORS ONLY
  10    15  SW   4200 SEM     1  INTEGRATIVE SEMINAR    3.0   830-1120       F  0179 LONG FIELDHOUSE MAJORS ONLY      BAILEY J
@@ -34,36 +34,35 @@
 (F)    27  SW   7009 RES     2  SOCIAL WORK RESEARCH   3.0  1230-0320     W    0175BLONG FIELDHOUSE MAJORS ONLY      YANG M
 (F)    27  SW   7010         1  DIFFERENT DIAGNOSIS    3.0   830-1120      TH  0184 LONG FIELDHOUSE MAJORS ONLY      PURSER G
 (F)    27  SW   7010         2  DIFFERENT DIAGNOSIS    3.0  1230-0320      TH  0184 LONG FIELDHOUSE MAJORS ONLY      PURSER G
- 20        SW   7202 RES     1  RES PROB SOC POLCY     3.0  1230-0320     W
   6     9  SW   7204 RES     1  RES SW INTERVENTION    3.0  1230-0320     W    0179 LONG FIELDHOUSE MAJORS ONLY      CHIANG C
   5        SW   7206 RES     1  RESEARCH PRACTICUM     3-9  TBA                                     MAJORS ONLY
   5        SW   7206 RES     2  RESEARCH PRACTICUM     3-9  TBA                                     MAJORS ONLY
-  2     5  SW   7207         1  INTEGRATIVE SEMINAR    3.0  1230-0320    T                          MAJORS ONLY
+  1     6  SW   7207         1  INTEGRATIVE SEMINAR    3.0  1230-0320    T                          MAJORS ONLY
 (F)    17  SW   7305         1  GRIEF & BEREAVEMENT    3.0  1230-0320    T     0112 PRESCOTT                         SMELLEY S
 (F)    17  SW   7403         1  SOCIAL WORK & AGING    3.0   830-1120    T     0152 LONG FIELDHOUSE
 (F)    17  SW   7404         1  SW PRACT IN SCHOOLS    3.0  1230-0320    T     0184 LONG FIELDHOUSE                  CONRAD B
  98     1  SW   7502 CLI     1  ADV FIELD INTERN I     3.0  TBA                                     MAJORS ONLY      LILLEY T
- 93     6  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      LILLEY T
+ 92     7  SW   7503 CLI     1  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      LILLEY T
  96     3  SW   7503 CLI     2  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      ROUTON E
  99        SW   7503 CLI     3  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      LIVERMORE M
  97     2  SW   7503 CLI     4  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      MACCIO E
  97     2  SW   7503 CLI     5  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      CHIANG C
- 77    22  SW   7503 CLI     6  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      WILKS S
- 97     2  SW   7503 CLI     7  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      CHURCH W
+ 76    23  SW   7503 CLI     6  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      WILKS S
+ 96     3  SW   7503 CLI     7  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      CHURCH W
  99        SW   7503 CLI     8  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      SCOTT J
  99        SW   7503 CLI     9  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      KIM Y
  97     2  SW   7503 CLI    10  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      ALLEN P
  98     1  SW   7503 CLI    11  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      MOON C
  99        SW   7503 CLI    12  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      PURSER G
  98     1  SW   7503 CLI    13  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      YANG M
- 99        SW   7503 CLI    14  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      NORWOOD R
+ 98     1  SW   7503 CLI    14  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      NORWOOD R
  94     5  SW   7503 CLI    15  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY      BONAVENTURE J
  99        SW   7503 CLI    16  ADV FLD INTERN II      3.0  TBA                                     MAJORS ONLY
 (F)    27  SW   7504         1  ADV SOCIAL POLICY      3.0   830-1120   M      0184 LONG FIELDHOUSE MAJORS ONLY      SCOTT J
   2    25  SW   7504         2  ADV SOCIAL POLICY      3.0  1230-0320   M      0184 LONG FIELDHOUSE MAJORS ONLY      YANG M
-  2    25  SW   7506         1  COM/AGCY CONT DIR PR   3.0   830-1120   M      0175BLONG FIELDHOUSE MAJORS ONLY
-(F)    27  SW   7506         2  COM/AGCY CONT DIR PR   3.0  1230-0320   M      0175BLONG FIELDHOUSE MAJORS ONLY      ALLEN P
-(F)    17  SW   7807 SEM     1  SW/ETHICAL DILEMMAS    3.0   830-1120    T     0184 LONG FIELDHOUSE
+  2    25  SW   7506         1  COM/AGCY CONT DIR PR   3.0   830-1120   M      0175BLONG FIELDHOUSE MAJORS ONLY      ALLEN P
+(F)    27  SW   7506         2  COM/AGCY CONT DIR PR   3.0  1230-0320   M      0175BLONG FIELDHOUSE MAJORS ONLY      HUNTER D
+(F)    17  SW   7807 SEM     1  SW/ETHICAL DILEMMAS    3.0   830-1120    T     0184 LONG FIELDHOUSE                  LILLEY T
   1    16  SW   7807 SEM     2  JUVENILE CRIMNL JUST   3.0   830-1120    T     0175BLONG FIELDHOUSE                  CHURCH W
 (F)    17  SW   7807 SEM     3  CRISIS INTERVENTION    3.0  1230-0320    T     0179 LONG FIELDHOUSE
  25        SW   7905 RES     1  IND RDNG RES SW PRAC   3.0  TBA                                     MAJORS ONLY
@@ -78,5 +77,5 @@
  98     1  SW   9000 RES     1  DISSERTATION RES       1-12 TBA                                     MAJORS ONLY      CHURCH W
  98     1  SW   9000 RES     2  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LEMIEUX C
  98     1  SW   9000 RES     3  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   LIVERMORE M
- 99        SW   9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHANEY C
- 97     2  SW   9000 RES     5  DISSERTATION RES       1-12 TBA
+ 98     1  SW   9000 RES     4  DISSERTATION RES       1-12 TBA                                     PERMIS OF DEPT   CHANEY C
+ 95     4  SW   9000 RES     5  DISSERTATION RES       1-12 TBA

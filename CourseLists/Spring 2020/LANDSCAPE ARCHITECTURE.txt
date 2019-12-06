@@ -1,21 +1,21 @@
   6    34  LA   1102 LAB     1  LANDSCAPE REPRES II    3.0   830-1020   M W F  0226 DESIGN BUILDING CI-SPOKEN&VISUA  BENHAM K
- 34    66  LA   1201         1  INTR LANDSCAPE ARCH    3.0   830-0920   M W F  0139 ALLEN                            CONRAD M
- 30   123  LA   1201         2  INTR LANDSCAPE ARCH    3.0  1030-1150    T TH  0103 DESIGN BUILDING                  CONRAD M
-121   243  LA   1203         1  VIEWS AMER LANDSCAPE   3.0   830-0920   M W F  0002 LOCKETT                          FRYLING C
+ 27    73  LA   1201         1  INTR LANDSCAPE ARCH    3.0   830-0920   M W F  0139 ALLEN                            CONRAD M
+ 20   133  LA   1201         2  INTR LANDSCAPE ARCH    3.0  1030-1150    T TH  0103 DESIGN BUILDING                  CONRAD M
+108   256  LA   1203         1  VIEWS AMER LANDSCAPE   3.0   830-0920   M W F  0002 LOCKETT                          FRYLING C
 (F)    25  LA   2002 LAB     1  LANDSCAPE DESIGN II    6.0   130-0520   M W F  0321 DESIGN BUILDING CI-WRITTEN&SPOK  BOGASKI K
-(F)    25  LA   2101 LAB     1  LA REPRESENTAION III   3.0   930-1150   M W F  0313 DESIGN BUILDING CI-VISUAL&TECH   HARMON B
-  1    20  LA   2401         1  LANDSCAPE ECOLOGY      3.0   230-0520      TH  0322 DESIGN BUILDING                  FRYLING C
-  4    13  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0304 DESIGN BUILDING                  BLAKEMAN H
-(F)    22  LA   3201         1  LANDSCAPE HISTORY II   3.0   830-0920   M W F  0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
+(F)    26  LA   2101 LAB     1  LA REPRESENTAION III   3.0   930-1150   M W F  0313 DESIGN BUILDING CI-VISUAL&TECH   HARMON B
+  2    19  LA   2401         1  LANDSCAPE ECOLOGY      3.0   230-0520      TH  0322 DESIGN BUILDING                  FRYLING C
+  3    14  LA   3002 LAB     1  LANDSCAPE DESIGN IV    6.0   130-0520   M W F  0304 DESIGN BUILDING                  BLAKEMAN H
+(F)    25  LA   3201         1  LANDSCAPE HISTORY II   3.0   830-0920   M W F  0201 DESIGN BUILDING CI-WRITTEN&SPOK  RISK J
 (F)    20  LA   3301         1  LAND ARCH TECH II      3.0   830-1120    T TH  0301 DESIGN BUILDING                  BOYER M
                      LAB                                     830-1120    T TH  0301 DESIGN BUILDING                  BOYER M
  11    10  LA   3302         1  LANDSCAPE TECH III     3.0   900-0950    T TH                                        SHARKY B
                      LAB                                    1000-1150    T TH                                        SHARKY B
   2    15  LA   3402         1  PLANT MATERIALS II     3.0   130-0220    T TH  0301 DESIGN BUILDING                  BLAKEMAN H
                      LAB                                     230-0420    T TH  0316 DESIGN BUILDING                  BLAKEMAN H
- 10     4  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      CONRAD M
- 14    11  LA   4501 RES     1  FIELD STUDIES IN L A   3.0   600-0850N  M      0001 HATCHER HALL                     CONRAD M
- 13     2  LA   4504 SEM     2  ADV ELECTIVE IN L A    3.0   930-1020   M W F  0301 DESIGN BUILDING                  FRYLING C
+  7     7  LA   4003 CLI     1  LANDSCAPE INTERNSHIP   6.0  TBA                                                      CONRAD M
+ 15    10  LA   4501 RES     1  FIELD STUDIES IN L A   3.0   600-0850N  M      0001 HATCHER HALL                     CONRAD M
+ 12     3  LA   4504 SEM     2  ADV ELECTIVE IN L A    3.0   930-1020   M W F  0301 DESIGN BUILDING                  FRYLING C
   5    10  LA   4504 SEM     1  ADV ELECTIVE IN L A    3.0   430-0720N   T     0308 DESIGN BUILDING                  SERRANO N
 (F)    11  LA   5002 LAB     1  LANDSCAPE DESN VIII    6.0   130-0520   M W F  0310 DESIGN BUILDING                  REED R
 (F)    11  LA   5301         1  L A PROFESNL PRACTCE   3.0   130-0250    T TH  0313 DESIGN BUILDING CI-WRITTEN&SPOK  BOGASKI K
@@ -30,13 +30,13 @@
                      LAB                                    1000-1150    T TH                                        SHARKY B
   6     1  LA   7052         1  THESIS PREPARATION     3.0   900-1020   M W    0308 DESIGN BUILDING                  DOUGLAS W
   9     4  LA   7061 LAB     1  ADVANCED TOPICS II     6.0   130-0520   M W F  0324 DESIGN BUILDING                  SHARKY B
-  6     6  LA   7080 SEM     1  EMERG PARADIGMS COLL   3.0   900-1020    T TH  0308 DESIGN BUILDING                  REED R
+  5     7  LA   7080 SEM     1  EMERG PARADIGMS COLL   3.0   900-1020    T TH  0308 DESIGN BUILDING                  REED R
   2     6  LA   7102 LAB     1  GRAD LANDSC REPR II    3.0   930-1150   M W F  0230 DESIGN BUILDING                  HARMON B
  50        LA   7102 LAB     2  GRAD LANDSC REPR II    3.0  TBA
  13    12  LA   7501         1  GRAD LA FIELD STUDY    3.0   600-0850N  M      0313 DESIGN BUILDING                  CONRAD M
   4     1  LA   7502 IND     1  GRAD INDEPEND STUDY    3.0  TBA
   6     2  LA   7504 SEM     1  GRAD ELECTIVE          3.0   300-0550   M                                            DOUGLAS W
-  6     6  LA   7504 SEM     2  ECOLOGICAL ROBOTICS    3.0   430-0550N   T TH                                        HARMON B
+  4     8  LA   7504 SEM     2  ECOLOGICAL ROBOTICS    3.0   430-0550N   T TH                                        HARMON B
 (F)     1  LA   8000 RES     1  THESIS RESEARCH        1-12 TBA                                                      HARMON B
 (F)     1  LA   8000 RES     2  THESIS RESEARCH        1-12 TBA                                                      DOUGLAS W
 (F)     1  LA   8000 RES     3  THESIS RESEARCH        1-12 TBA                                                      SHARKY B
