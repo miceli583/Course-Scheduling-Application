@@ -8,6 +8,7 @@ Kareem Abdo
 import java.io.FileInputStream;
 import java.util.Scanner;
 import java.util.ArrayList;
+import java.io.File;
 // Main Class Responsible for implementing Scheduling Algorithm
 public class Main
 {
@@ -133,8 +134,10 @@ public static void main (String[]args)
 
         //String path = "C:\\Users\\CChee1\\Desktop\\CSC 3380\\CSC3380Project\\csc3380_proj\\CourseScraper\\CourseLists\\" + SEMESTER + "\\" + DEPARTMENT + ".txt";
         //C:\Users\micel\Source\Repos\csc3380_proj\CourseScraper\CourseLists Master Key
-        String path = "C:\\Users\\micel\\Source\\Repos\\csc3380_proj\\CourseScraper\\CourseLists Master Key\\" + SEMESTER + "\\" + DEPARTMENT + ".txt";
+        String path = "CourseLists\\" + SEMESTER + "\\" + DEPARTMENT + ".txt";
 	    try{
+            File Path = new File(path);
+            if(!Path.exists()){System.out.println("Invalid Input for Semester/Year"); return;}
 	        FileInputStream fin = new FileInputStream (path);
 	        //FileInputStream fin = new FileInputStream (DEPARTMENT+".txt");
 	        int i = 0;
@@ -206,7 +209,7 @@ public static void main (String[]args)
             }
 	        fin.close ();
 	    } catch (Exception e){System.out.println (e);}
-	    
+	    if(courses.get(k).numSections == 0){System.out.println("Invalid Input for Course/NUM or Course/NUM doesn't exist for the given semester"); return;}
 	    k +=1;
     }
     
