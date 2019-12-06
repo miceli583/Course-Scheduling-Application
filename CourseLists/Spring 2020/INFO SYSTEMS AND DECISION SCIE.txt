@@ -2,64 +2,65 @@
                      LAB                                    TBA                                                      GARNER K
 (F)   200  ISDS 1100         2  INTRO MGT INF SYSTMS   3.0  TBA                                     75-99% WEB BASE  SADHYA V
                      LAB                                    TBA                                                      SADHYA V
- 93   107  ISDS 1100         3  INTRO MGT INF SYSTMS   3.0  TBA                                     75-99% WEB BASE  SADHYA V
+ 47   153  ISDS 1100         3  INTRO MGT INF SYSTMS   3.0  TBA                                     75-99% WEB BASE  SADHYA V
                      LAB                                    TBA                                                      SADHYA V
-144    56  ISDS 1100         4  INTRO MGT INF SYSTMS   3.0  TBA                                     75-99% WEB BASE  LEMAIRE R
+136    64  ISDS 1100         4  INTRO MGT INF SYSTMS   3.0  TBA                                     75-99% WEB BASE  LEMAIRE R
                      LAB                                    TBA                                                      LEMAIRE R
 (F)    90  ISDS 1102         3  INTRO MGMT INFO SYS    3.0  1030-1150   M W    1620 BUS ED N WING                    KIM S
 (F)    60  ISDS 1102         4  INTRO MGMT INFO SYS    3.0   300-0420   M W    1845 BUS ED N WING                    CHENG H
 (F)   120  ISDS 1102         1  INTRO MGMT INFO SYS    3.0  TBA                                     75-99% WEB BASE  RODRIGUEZ J
 (F)   120  ISDS 1102         2  INTRO MGMT INFO SYS    3.0  TBA                                     75-99% WEB BASE  RODRIGUEZ J
- 25    51  ISDS 2000         2  STATS & ANALYTICS I    3.0   130-0220   M W F  1620 BUS ED N WING                    COPE R
-(F)    44  ISDS 2000         6  STATS & ANALYTICS I    3.0   130-0220   M W F                       RES COLG-BUSINE
+ 19    57  ISDS 2000         2  STATS & ANALYTICS I    3.0   130-0220   M W F  1620 BUS ED N WING                    COPE R
+  2    42  ISDS 2000         6  STATS & ANALYTICS I    3.0   130-0220   M W F                       RES COLG-BUSINE
  41    79  ISDS 2000         3  STATS & ANALYTICS I    3.0   230-0320   M W F  1620 BUS ED N WING                    COPE R
 (F)    60  ISDS 2000         4  STATS & ANALYTICS I    3.0   130-0250    T TH  1920 BUS ED N WING                    SIMAEI GARGAR
- 14    46  ISDS 2000         5  STATS & ANALYTICS I    3.0   300-0420    T TH  1920 BUS ED N WING                    SIMAEI GARGAR
-(F)   150  ISDS 2000         1  STATS & ANALYTICS I    3.0  TBA                                     75-99% WEB BASE  SHREVE J
- 31    29  ISDS 2001         4  STATS & ANALYTICS II   3.0   430-0550N  M W    1845 BUS ED N WING                    LIU J
-(F)   120  ISDS 2001         2  STATS & ANALYTICS II   3.0   130-0250    T TH  1620 BUS ED N WING                    SHREVE J
-(F)   120  ISDS 2001         3  STATS & ANALYTICS II   3.0   300-0420    T TH  1620 BUS ED N WING                    SHREVE J
-102    18  ISDS 2001         5  STATS & ANALYTICS II   3.0   430-0550N   T TH  1620 BUS ED N WING                    WOOSLEY R
+ 10    50  ISDS 2000         5  STATS & ANALYTICS I    3.0   300-0420    T TH  1920 BUS ED N WING                    SIMAEI GARGAR
+(F)   183  ISDS 2000         1  STATS & ANALYTICS I    3.0  TBA                                     75-99% WEB BASE  SHREVE J
+ 24    36  ISDS 2001         4  STATS & ANALYTICS II   3.0   430-0550N  M W    1845 BUS ED N WING                    LIU J
+(F)   119  ISDS 2001         2  STATS & ANALYTICS II   3.0   130-0250    T TH  1620 BUS ED N WING                    SHREVE J
+  1   119  ISDS 2001         3  STATS & ANALYTICS II   3.0   300-0420    T TH  1620 BUS ED N WING                    SHREVE J
+101    19  ISDS 2001         5  STATS & ANALYTICS II   3.0   430-0550N   T TH  1620 BUS ED N WING                    WOOSLEY R
 (F)   150  ISDS 2001         1  STATS & ANALYTICS II   3.0  TBA                                     75-99% WEB BASE  SHREVE J
+ 61    39  ISDS 2001         6  STATS & ANALYTICS II   3.0  TBA                                     75-99% WEB BASE  SHREVE J
  38     2  ISDS 3070 RES     4  INFO SYS SEC CISSP     1-6   600-0850N  M      1735 BUS ED N WING                    MITCHELL B
- 30        ISDS 3070 RES     1  HOT TOPICS FOR CIOS    1-6   300-0550      TH  1325 BUS ED S WING   PERMIS OF INST   WATSON E
+ 29     1  ISDS 3070 RES     1  HOT TOPICS FOR CIOS    1-6   430-0720N     TH                       PERMIS OF INST   WATSON E
   9     1  ISDS 3070 RES     5  IND RD/RES IN ISDS     1-6  TBA                                     PERMIS OF INST   SCHNEIDER H
- 13     2  ISDS 3075 CLI     1  INTERNSHIP IN ISDS     3.0  TBA                                     PERMIS OF INST   WATSON E
-(F)    60  ISDS 3100         2  IS FOUNDATIONS         3.0   900-1020    T TH  1835 BUS ED N WING                    LIANG N
+ 12     3  ISDS 3075 CLI     1  INTERNSHIP IN ISDS     3.0  TBA                                     PERMIS OF INST   WATSON E
+(F)    58  ISDS 3100         2  IS FOUNDATIONS         3.0   900-1020    T TH  1835 BUS ED N WING                    LIANG N
 (F)    57  ISDS 3100         1  IS FOUNDATIONS         3.0   130-0250    T TH  1735 BUS ED N WING                    SADHYA H
 (F)    60  ISDS 3105         1  INTERNET DEVELOPMENT   3.0  TBA                                     75-99% WEB BASE  BORNE C
-  6    34  ISDS 3107         2  DESIGN IS SOLUTIONS    3.0  1200-0120    T TH  1305 BUS ED S WING                    DAVIS J
- 10    30  ISDS 3107         1  DESIGN IS SOLUTIONS    3.0   300-0420    T TH  1305 BUS ED S WING                    DAVIS J
- 19    31  ISDS 3110         1  DATA INFO MGT          3.0  1030-1150    T TH  0132 J C MILLER      1-49% WEB BASED  PAN Y
-  2    48  ISDS 3110         2  DATA INFO MGT          3.0  1200-0120    T TH  0132 J C MILLER      1-49% WEB BASED  PAN Y
+  4    36  ISDS 3107         2  DESIGN IS SOLUTIONS    3.0  1200-0120    T TH  1305 BUS ED S WING                    DAVIS J
+  9    31  ISDS 3107         1  DESIGN IS SOLUTIONS    3.0   300-0420    T TH  1305 BUS ED S WING                    DAVIS J
+ 16    34  ISDS 3110         1  DATA INFO MGT          3.0  1030-1150    T TH  0132 J C MILLER      1-49% WEB BASED  PAN Y
+  4    46  ISDS 3110         2  DATA INFO MGT          3.0  1200-0120    T TH  0132 J C MILLER      1-49% WEB BASED  PAN Y
 (F)    41  ISDS 3115         3  INTR OPS MGT           3.0   300-0420   M W    1735 BUS ED N WING                    KELLE P
- 17    23  ISDS 3115         4  INTR OPS MGT           3.0   300-0550   M      1225 BUS ED S WING                    BORNE C
+ 14    26  ISDS 3115         4  INTR OPS MGT           3.0   300-0550   M      1225 BUS ED S WING                    BORNE C
 (F)   153  ISDS 3115         1  INTR OPS MGT           3.0  TBA                                     75-99% WEB BASE  KELLE P
- 24   126  ISDS 3115         2  INTR OPS MGT           3.0  TBA                                     75-99% WEB BASE  KELLE P
- 10    30  ISDS 3120         1  MGMT OF IT FUNCTION    3.0  1030-1120   M W F  1305 BUS ED S WING   50-74% WEB BASE  SCHWARZ A
- 16    24  ISDS 3200         1  ADV BUS PROGRAMMING    3.0   430-0720N    W    1720 BUS ED N WING                    SHAIDAEE S
+ 16   134  ISDS 3115         2  INTR OPS MGT           3.0  TBA                                     75-99% WEB BASE  KELLE P
+  6    34  ISDS 3120         1  MGMT OF IT FUNCTION    3.0  1030-1120   M W F  1305 BUS ED S WING   50-74% WEB BASE  SCHWARZ A
+ 19    21  ISDS 3200         1  ADV BUS PROGRAMMING    3.0   430-0720N    W    1720 BUS ED N WING                    SHAIDAEE S
 (F)    40  ISDS 4112         1  DATA WAREHOUSING       3.0   430-0550N   T TH  1720 BUS ED N WING                    VERRET R
   2    48  ISDS 4113         1  MGT OF IS PROJECT      3.0   930-1020   M W F  1800 BUS ED N WING                    DAVIS J
  14    26  ISDS 4118         1  WEB ANALYTICS          3.0   430-0550N   T TH  1745 BUS ED N WING                    VAN SCOTTER J
 (F)    52  ISDS 4120         1  ENTERPRISE ARCH        3.0  1130-1220   M W F  1800 BUS ED N WING   50-74% WEB BASE  SCHWARZ A
-(F)    35  ISDS 4125         1  ANALYSIS DESIGN IS     3.0  1200-0120    T TH  1615 BUS ED N WING                    WILEY S
+(F)    43  ISDS 4125         1  ANALYSIS DESIGN IS     3.0  1200-0120    T TH  1615 BUS ED N WING                    WILEY S
 (F)    50  ISDS 4141         1  DATA MINING            3.0  1030-1150    T TH  1845 BUS ED N WING                    SHREVE J
-(F)    40  ISDS 4180         1  BUSINESS ANALYSIS      3.0   300-0420    T TH  1835 BUS ED N WING                    WHITCHURCH D
+(F)    48  ISDS 4180         1  BUSINESS ANALYSIS      3.0   300-0420    T TH  1835 BUS ED N WING                    WHITCHURCH D
  28     7  ISDS 4244         1  INFO SYSTEM AUDITING   3.0   600-0720N   T TH  1745 BUS ED N WING
   9     1  ISDS 7070 RES     1  SEM ADV BUS PROBLEMS   3.0  TBA                                     PERMIS OF INST   DAVIS J
   6     4  ISDS 7070 RES     2  SEM ADV BUS PROBLEMS   3.0  TBA                                     PERMIS OF INST   SCHWARZ A
   6     4  ISDS 7070 RES     3  SEM ADV BUS PROBLEMS   3.0  TBA                                     PERMIS OF INST   CHEN Y
-  9     1  ISDS 7070 RES     4  SEM ADV BUS PROBLEMS   3.0  TBA                                     PERMIS OF INST   SHREVE J
+  8     2  ISDS 7070 RES     4  SEM ADV BUS PROBLEMS   3.0  TBA                                     PERMIS OF INST   SHREVE J
   9     1  ISDS 7075         1  IND STUDIES IN ISDS    3.0  TBA                                     PERMIS OF INST   SCHWARZ A
  11     4  ISDS 7081         1  CRT ANLSYS I S RES     3.0   900-1150       F  1120 BUS ED S WING                    HIRSCHHEIM R
-  5    25  ISDS 7220         1  SUPPLY CHAIN MGT       3.0   600-0850N  M      1745 BUS ED N WING                    KELLE P
+  1    29  ISDS 7220         1  SUPPLY CHAIN MGT       3.0   600-0850N  M      1745 BUS ED N WING                    KELLE P
 (F)    40  ISDS 7511         1  ADV DATA MANAGEMENT    3.0   600-0850N   T     1225 BUS ED S WING                    LIANG N
  18     2  ISDS 7950         1  RES SEM INFO SYST TO   3.0   900-1150     W    1120 BUS ED S WING                    VAN SCOTTER J
   7    38  ISDS 7990 RES     1  PROJECT                3-6   600-0850N    W    2520 BUS ED AUDITORI                  LEMAIRE R
- 10        ISDS 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      HIRSCHHEIM R
- 10        ISDS 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      HIRSCHHEIM R
+  9     1  ISDS 8900 RES     1  PREDISSERT RESEARCH    1-9  TBA                                                      HIRSCHHEIM R
+  9     1  ISDS 9000 RES     1  DISSERTATION RES       1-12 TBA                                                      HIRSCHHEIM R
  10        ISDS 9000 RES     2  DISSERTATION RES       1-12 TBA                                                      VAN SCOTTER J
- 49     1  ISDS 3070 RES     2  CLOUD FOR BUSINESS 1   1-6  TBA                                     100% WEB BASED   SCHWARZ A
-(F)    36  ISDS 7303         1  ANALYTICS III          3.0  TBA                                     100% WEB BASED   SCHNEIDER H
- 46     4  ISDS 3070 RES     3  CLOUD FOR BUSINESS 2   1-6  TBA                                     100% WEB BASED   SCHWARZ A
+ 50        ISDS 3070 RES     2  CLOUD FOR BUSINESS 1   1-6  TBA                                     100% WEB BASED   SCHWARZ A
+(F)    34  ISDS 7303         1  ANALYTICS III          3.0  TBA                                     100% WEB BASED   SCHNEIDER H
+ 45     5  ISDS 3070 RES     3  CLOUD FOR BUSINESS 2   1-6  TBA                                     100% WEB BASED   SCHWARZ A
 (F)    30  ISDS 7304         1  ANALYTICS IV           3.0  TBA                                     100% WEB BASED   HUTCHINSON C

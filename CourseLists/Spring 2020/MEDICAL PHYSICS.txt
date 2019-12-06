@@ -4,9 +4,9 @@
  11     4  MEDP 7331         1  RAD THERAPY PHYSICS    3.0   330-0450   M W    0262 NICHOLSON                        ZHANG R
  11     4  MEDP 7530         1  RADIATION SHIELDING    3.0  1030-1120   M W F  0262 NICHOLSON                        MATTHEWS K
  15     5  MEDP 7995 SEM     1  SEMINAR                1.0  1230-0120       F  0262 NICHOLSON                        NEWHAUSER W
-  8     2  MEDP 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   FONTENOT J
+  7     3  MEDP 8000 RES     1  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   FONTENOT J
   7     3  MEDP 8000 RES     2  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   MATTHEWS K
-  8     2  MEDP 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   NEWHAUSER W
+  9     1  MEDP 8000 RES     3  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   NEWHAUSER W
   9     1  MEDP 8000 RES     4  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   WANG W
   9     1  MEDP 8000 RES     5  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   CARVER R
   9     1  MEDP 8000 RES     6  THESIS RESEARCH        1-12 TBA                                     PERMIS OF DEPT   DEY J

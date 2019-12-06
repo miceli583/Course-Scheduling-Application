@@ -1,12 +1,12 @@
-  9     3  MILS 1010 LAB     1  RIFLE & PISTL MARKSH   1.0  1030-1120    T                          PERMIS OF INST
- 12        MILS 1010 LAB     2  RIFLE & PISTL MARKSH   1.0  1130-1220    T                          PERMIS OF INST
- 30    10  MILS 1012         1  INTRO TACTICAL LDSHP   1.0   200-0250      TH                                        PARKANSKY R
+  7     5  MILS 1010 LAB     1  RIFLE & PISTL MARKSH   1.0  1030-1120    T                          PERMIS OF INST
+  9     3  MILS 1010 LAB     2  RIFLE & PISTL MARKSH   1.0  1130-1220    T                          PERMIS OF INST
+ 28    12  MILS 1012         1  INTRO TACTICAL LDSHP   1.0   200-0250      TH                                        PARKANSKY R
                      LAB                                     300-0420      TH
- 84    41  MILS 1015 LAB     1  ARMY PHYS FIT TRAIN    1.0  TBA                                                      PARKANSKY R
- 34    11  MILS 2162         1  FDN OF TAC LDSHP       2.0   730-0820   M W                                          PARKANSKY R
+ 78    47  MILS 1015 LAB     1  ARMY PHYS FIT TRAIN    1.0  TBA                                                      PARKANSKY R
+ 31    14  MILS 2162         1  FDN OF TAC LDSHP       2.0   730-0820   M W                                          PARKANSKY R
                      LAB                                     300-0420      TH
-  9    11  MILS 3012         1  LDSHP CHG ENVIRONMTS   4.0   730-0850    T TH  0150 MIL-AERO STUDIE                  BRUCE T
+  8    12  MILS 3012         1  LDSHP CHG ENVIRONMTS   4.0   730-0850    T TH  0150 MIL-AERO STUDIE                  BRUCE T
                      LAB                                     300-0550      TH
- 16     9  MILS 4012         1  LDRSHP COMPLEX WORLD   4.0   830-0950    T TH  0250 MIL-AERO STUDIE                  CARTER R
+ 15    10  MILS 4012         1  LDRSHP COMPLEX WORLD   4.0   830-0950    T TH  0250 MIL-AERO STUDIE                  CARTER R
                      LAB                                     300-0550      TH
- 20        MILS 4995         1  SPEC TOP IN MILITARY   3.0  TBA                                     PERMIS OF INST   CARTER R
+ 18     2  MILS 4995         1  SPEC TOP IN MILITARY   3.0  TBA                                     PERMIS OF INST   CARTER R

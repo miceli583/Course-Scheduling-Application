@@ -194,7 +194,7 @@ public class CourseScraper {
             }
         }
 
-        File errlogdir = new File("C:\\Users\\CChee1\\Desktop\\CSC 3380\\TigerPlanner\\Logs");
+        File errlogdir = new File("Logs");
 
         if (!errlogdir.exists())
         {

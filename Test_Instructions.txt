@@ -1,0 +1,19 @@
+Test 1: ListBuilderTest
+Compile: javac -d . ListBuilderTest.java
+Run: java ListBuilderTest
+Inputs: None
+Expected output: A folder called SemDepLists in the same directory containing 2 text files: Semesters.txt and Departments.txt.
+		 Semesters.txt contains all the semesters in the LSU Course scheduling website.
+		 Departments.txt contains all the departments that courses can be scheduled in.
+Actual output: A folder called SemDepLists in the same directory containing 2 text files: Semesters.txt and Departments.txt.
+	       Semesters.txt contains all the semesters in the LSU Course scheduling website.
+	       Departments.txt contains all the departments that courses can be scheduled in.
+Pass Fail criterion: Expected output == Actual output
+
+Test 2: UpdateTest
+Compile: javac -d . UpdateTest.java
+Run: java UpdateTest
+Inputs: String[] array contains "Spring 2020"
+Expected output: A folder called CourseLists in the same directory containing textfiles for each department with all course information contained within.
+Actual output: A folder called CourseLists in the same directory containing textfiles for each department with all course information contained within.
+Pass Fail criterion: Expected output == Actual output
