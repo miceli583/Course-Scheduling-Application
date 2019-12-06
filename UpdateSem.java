@@ -23,7 +23,8 @@ import java.util.Scanner;
 import java.io.IOException;
 
 public class UpdateSem {
-    /* This method takes a semester and year as inputs from the command line and
+    /* This method takes a semester and year as inputs from the command line and requests
+        department and course information from the LSU course scheduling website. It then
         creates text files for each department containing all the course information for
         courses offered that semester. The text files are stored in the folder CourseLists.
         These files are used in the Scheduler to generate possible schedules. */ 
@@ -48,6 +49,7 @@ public class UpdateSem {
         ArrayList<String> departments = new ArrayList<String>();
         ArrayList<String> errors = new ArrayList<String>();
 
+        // Establishes connection to LSU course website
         String url = "http://appl101.lsu.edu/booklet2.nsf/mainframeset";
         Document main = Jsoup.connect(url).get();
         Element frame = main.select("frame").get(0);
@@ -64,6 +66,7 @@ public class UpdateSem {
         CloseableHttpClient client = HttpClientBuilder.create().build();
         HttpPost post = new HttpPost("http://appl101.lsu.edu/booklet2.nsf/f5e6e50d1d1d05c4862584410071cd2e?CreateDocument");
 
+        // Parameters for http post request to get course information
         List<NameValuePair> params = new ArrayList<NameValuePair>();
         params.add(new BasicNameValuePair("%%Surrogate_SemesterDesc", "1"));
         params.add(new BasicNameValuePair("SemesterDesc", semester));
@@ -76,7 +79,8 @@ public class UpdateSem {
 
             params.set(3, new BasicNameValuePair("Department", department));
             post.setEntity(new UrlEncodedFormEntity(params));
-
+            
+            // Executes http post request and stores document returned
             HttpResponse response = client.execute(post);
             String coursesURL = response.getLastHeader("Location").getValue();
 
@@ -104,6 +108,7 @@ public class UpdateSem {
             String pre = pretext.text();
             String line = "";
 
+            // Extracts course information from document and stores into text file
             for (int i = 0; i < pre.length(); i++)
             {
                 char c = pre.charAt(i);
@@ -159,6 +164,7 @@ public class UpdateSem {
             writer.close();
         }
 
+        // Error logging for any potential problems
         /*File errlogdir = new File("Logs");
 
         if (!errlogdir.exists())

@@ -11,9 +11,11 @@ import java.io.IOException;
 
 public class SemDepListBuilder {
 
-    /**
-     * @param args the command line arguments
-     */
+    /* This method connects to the LSU course scheduling website and retrieves lists of the
+        semesters, years, and departments. Then it creates 2 text files: Semesters.txt and
+        Departments.txt. Semesters.txt contains all the semesters and years. Departments.txt
+        contains a list of all the departments courses are offered in. The text files are
+        stored in the folder SemDepLists. */
     public static void main(String[] args) throws IOException {
         
         File dirpath = new File("SemDepLists");
@@ -24,7 +26,11 @@ public class SemDepListBuilder {
         }
 
         PrintWriter writer = new PrintWriter("SemDepLists\\Semesters.txt", "UTF-8");
+        
+        // Establishes connection to LSU course scheduling website
         String url = "http://appl101.lsu.edu/booklet2.nsf/mainframeset";
+        
+        // Parses document and writes data into text files
         Document main = Jsoup.connect(url).get();
         Element frame = main.select("frame").get(0);
         Document selectFrame = Jsoup.connect(frame.absUrl("src")).get();

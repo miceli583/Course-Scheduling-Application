@@ -1,3 +1,4 @@
+// Apache Http Library imports
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.CloseableHttpClient;
@@ -6,6 +7,7 @@ import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 
+// Jsoup Library imports
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -26,7 +28,7 @@ import java.io.FileNotFoundException;
  * @author CChee1
  */
 public class CourseScraper {
-    
+    // This method loads text from the file argument passed into an array and returns it
     public static ArrayList<String> loadList (File file)
     {
         ArrayList<String> list = new ArrayList<String>();
@@ -45,9 +47,11 @@ public class CourseScraper {
             System.out.println("Error: File not found.");
         }
         
+        sc.close();
         return list;
     }
     
+    // Parses course information for department and returns array of course information
     public static ArrayList<String> parseTable(String pre)
     {
         ArrayList<String> lines = new ArrayList<String>();
@@ -101,6 +105,11 @@ public class CourseScraper {
         return lines;
     }
     
+    /* This method connects to the LSU course scheduling website, passes in arguments
+        from the semesters and departments lists, and parses the documents returned.
+        The sanitized course information is then stored in text files. Because this method
+        requests course information for each possible combination of semester, year, and 
+        department, retrieving and parsing all the course information takes several hours. */
     public static void main(String[] args) throws IOException, FileNotFoundException {
         
         File coursemaindir = new File("CourseLists");
@@ -110,28 +119,27 @@ public class CourseScraper {
             coursemaindir.mkdirs();
         }
 
+        // Reads Semesters.txt and Departments.txt and loads text into arrays
         File semlist = new File("SemDepLists\\Semesters.txt");
         File deptlist = new File("SemDepLists\\Departments.txt");
         ArrayList<String> semesters = loadList(semlist);
         ArrayList<String> departments = loadList(deptlist);
         ArrayList<String> errors = new ArrayList<String>();
         
+        // Establishes connection to LSU course scheduling website
         CloseableHttpClient client = HttpClientBuilder.create().build();
         HttpPost post = new HttpPost("http://appl101.lsu.edu/booklet2.nsf/f5e6e50d1d1d05c4862584410071cd2e?CreateDocument");
 
+        // Parameters to pass to http post request
         List<NameValuePair> params = new ArrayList<NameValuePair>();
         params.add(new BasicNameValuePair("%%Surrogate_SemesterDesc", "1"));
         params.add(new BasicNameValuePair("SemesterDesc", ""));
         params.add(new BasicNameValuePair("%%Surrogate_Department", "1"));
         params.add(new BasicNameValuePair("Department", ""));
 
+        // Parses department course information for every semester and year
         for (String semester : semesters)
         {
-            /*if (semester.compareTo("Spring 2020") != 0)
-            {
-                continue;
-            }*/
-
             System.out.println(semester);
 
             File semdir = new File(coursemaindir.getPath() + "\\" + semester);
@@ -143,14 +151,10 @@ public class CourseScraper {
             
             params.set(1, new BasicNameValuePair("SemesterDesc", semester));
 
+            // Parses course information for every department
             for (String department : departments)
             {
                 System.out.println(department);
-
-                /*if (department.compareTo("CURRICULUM & INSTRUCTION") == 0)
-                {
-                    continue;
-                }*/
 
                 params.set(3, new BasicNameValuePair("Department", department));
                 post.setEntity(new UrlEncodedFormEntity(params));
@@ -176,6 +180,7 @@ public class CourseScraper {
                     continue;
                 }
                 
+                // Parses course information and writes it to a text file
                 Document doc = Jsoup.connect(coursesURL).maxBodySize(0).get();
                 PrintWriter writer = new PrintWriter(semdir.getPath() + "\\" + department + ".txt", "UTF-8");
 
@@ -194,6 +199,7 @@ public class CourseScraper {
             }
         }
 
+        // Error logging to track any potential problems
         File errlogdir = new File("Logs");
 
         if (!errlogdir.exists())
