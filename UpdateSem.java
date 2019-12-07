@@ -1,3 +1,11 @@
+/******************************************************************************
+Contributors:
+Matthew Miceli
+Christopher Chee
+Shaun McFadden
+Kareem Abdo 
+*******************************************************************************/
+
 // Apache Http Library imports
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpPost;

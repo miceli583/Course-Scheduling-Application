@@ -1,3 +1,11 @@
+/******************************************************************************
+Contributors:
+Matthew Miceli
+Christopher Chee
+Shaun McFadden
+Kareem Abdo 
+*******************************************************************************/
+
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
