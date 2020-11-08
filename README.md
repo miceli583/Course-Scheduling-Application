@@ -1,1 +1,1 @@
-# csc3380_proj
+# Course Scheduling Application
